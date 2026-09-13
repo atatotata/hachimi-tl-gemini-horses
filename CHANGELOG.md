@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-12 — Horse Name Cleanup
+- Fixed 25 misspelled horse names everywhere (T. M. Opera O, Rhein Kraft leftovers, Tanino Gimlet, Daring Tact, Curren family…). Checked against JRA records. Weekly syncs now enforce the spellings automatically.
+
 ## 2026-09-12 — Support Card & Story Titles Fix
 - Filled in 1,541 missing titles across support cards, story chapters, and mini-events so you won't see blank headers anymore.
 - Also added lore descriptions for 2 new skills and updated the pipeline so empty text won't slip through again.
