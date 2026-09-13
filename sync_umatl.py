@@ -110,6 +110,81 @@ PINNED_OVERRIDES = {
     },
 }
 
+# Canonical horse-name spellings (JRA/official). Re-applied after every
+# upstream merge so MT-era misspellings can never creep back in via sync.
+# Longest-first ordering matters ("Karen-chan" before bare "Karen").
+CANONICAL_NAMES = [
+    ("Karen-oneechan", "Curren-oneechan"),
+    ("Karen-chan", "Curren-chan"),
+    ("KarenChan", "CurrenChan"),
+    ("Karen's", "Curren's"),
+    ("Karens", "Currens"),
+    ("Karen Bouquet", "Curren Bouquet"),
+    ("Matikane Tannhäuser", "Matikanetannhauser"),
+    ("Matikane Tannhauser", "Matikanetannhauser"),
+    ("T.M. Opera O", "T. M. Opera O"),
+    ("TM Opera O", "T. M. Opera O"),
+    ("Blast One Piece", "Blast Onepiece"),
+    ("Orfèvre", "Orfevre"),
+    ("Chronogenesis", "Chrono Genesis"),
+    ("Tani no Gimlet", "Tanino Gimlet"),
+    ("Dearing Tact", "Daring Tact"),
+    ("Mejiro Ardenn", "Mejiro Ardan"),
+    ("KS Miracle", "K.S. Miracle"),
+    ("K.S.Miracle", "K.S. Miracle"),
+    ("Karston Light O", "Calstone Light O"),
+    ("Tousen Jordan", "Tosen Jordan"),
+    ("Title Holder", "Titleholder"),
+    ("Bitter Glaçon", "Bitter Glasse"),
+    ("Venus Paques", "Venus Park"),
+    ("Tucker Blair", "Tucker Brine"),
+    ("Tucker Bryne", "Tucker Brine"),
+    ("Tucker Blind?", "Tucker Brine?"),
+    ("Seeking The Pearl", "Seeking the Pearl"),
+    ("May Satake", "Mei Satake"),
+    ("Mejirodobel", "Mejiro Dober"),
+    ("Cheval grand", "Cheval Grand"),
+    ("HIshi Miracle", "Hishi Miracle"),
+    ("Fenomono", "Fenomeno"),
+    ("Minining Ticket", "Winning Ticket"),
+    ("Reporter Otome", "Reporter Otonashi"),
+    ("Chairman Akikawa", "Chairwoman Akikawa"),
+    ("Line Craft", "Rhein Kraft"),
+    ("St Lite", "Saint Lite"),
+    ("Karen", "Curren"),
+]
+_MACHAN_RX = None
+
+
+def apply_canonical_names(dest_tl) -> int:
+    """Enforces CANONICAL_NAMES across all JSON content. Returns fix count."""
+    global _MACHAN_RX
+    import re as _re
+    if _MACHAN_RX is None:
+        _MACHAN_RX = _re.compile(r"(?<!Aston )Machan")
+    fixed = 0
+    for root, _, files in os.walk(dest_tl):
+        for file in files:
+            if not file.endswith(".json"):
+                continue
+            p = pathlib.Path(root) / file
+            try:
+                t = p.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            orig = t
+            for old, new in CANONICAL_NAMES:
+                if old in t:
+                    t = t.replace(old, new)
+                    fixed += 1
+            m = len(_MACHAN_RX.findall(t))
+            if m:
+                t = _MACHAN_RX.sub("Ma-chan", t)
+                fixed += m
+            if t != orig:
+                p.write_text(t, encoding="utf-8", newline="\n")
+    return fixed
+
 def _load_media_dirs(repo_root: pathlib.Path) -> tuple:
     """Reads the `.full_media` sentinel (one allowed dir per line, `#` comments).
 
@@ -449,6 +524,12 @@ def main():
     # 5. Save updated cache
     with open(cache_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cache, f, indent=2)
+
+    # 5b. Enforce canonical horse-name spellings (MT-era misspellings
+    # must not creep back in via upstream merges)
+    fixed_names = apply_canonical_names(dest_tl)
+    if fixed_names:
+        print(f"  Canonical names enforced: {fixed_names} replacements")
 
     # 6. Rebuild index.json manifest
     print("\nRegenerating index.json manifest...")
