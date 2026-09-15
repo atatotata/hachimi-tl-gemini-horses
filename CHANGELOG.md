@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-12 — v8 Release Zips
+- Fresh plug-and-play zips with the name cleanup, support titles, and all current menus. Verified zero-diffs again.
+
 ## 2026-09-12 — Horse Name Cleanup
 - Fixed 25 misspelled horse names everywhere (T.M. Opera O, Rhein Kraft leftovers, Tanino Gimlet, Daring Tact, Curren family…). Cross-checked against JRA records, GameTora's index, and the Global client. Weekly syncs now enforce the spellings automatically.
 
