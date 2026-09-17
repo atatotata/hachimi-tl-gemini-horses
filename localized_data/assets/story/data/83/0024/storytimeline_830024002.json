@@ -2,185 +2,156 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "—On this day, I came to inspect the \nracetrack for the sake of <chrname>, but..."
+      "name": "Monologue",
+      "text": "I'm visiting a racecourse today to inspect\nit for\n<chrname>."
     },
     {
       "name": "Reporter",
-      "text": "Oh, Oguri-san, I heard the news! An event \nwill be held to commemorate the production \nand release of your plushie!"
+      "text": "I've heard the good news, Oguri! Looks\nlike\nthey're having an event to mark the\nrelease of\nyour plushie! Congratulations!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...T-Thank you."
+      "text": "Th-thank you."
     },
     {
       "name": "Reporter",
-      "text": "As expected of a star! Your family must be \nthrilled! So, when are you going to see \nthem? I'd love to get an exclusive \ninterview with their touching reactions!"
+      "text": "Your family must be so proud of their\nlittle star!\nI'd love to get the scoop on\ntheir heartwarming\nreaction. When are\nthey available for an\ninterview?"
     },
     {
       "name": "Oguri Cap",
-      "text": "No... My parents are back in my hometown, \nso—"
+      "text": "Well, my parents are back in my\nhometown, so—"
     },
     {
       "name": "Reporter",
-      "text": "Oh, a phone call would be totally fine \nthen! Let's see here... First off, could \nyou tell me your family home's phone \nnumber...?"
+      "text": "Oh, I don't mind talking over the phone!\nSooo, if\nyou would just tell me your\nfamily's phone\nnumber..."
     },
     {
       "name": "Oguri Cap",
-      "text": "P-Phone call? Umm, in that case... 0—"
+      "text": "Th-their number? Um, it's zero—"
     },
     {
-      "name": "Narrator",
-      "text": "...Even if this is an interview, prying \nfor personal information is crossing the \nline. As someone affiliated with the \nacademy, I can't let this slide.",
-      "choice_data_list": [
-        "Any further questions should go through \nthe academy."
-      ]
+      "name": "Monologue",
+      "text": "Interview or not, asking for personal\ninformation\nis unacceptable. As a\nmember of the academy, I\ncan't stand\nidly by."
     },
     {
       "name": "Reporter",
-      "text": "Huh, who are you? ...Gah, that badge! Ah, \nahaha... You're from the academy! Excuse \nme then...!"
+      "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...Thank you for helping me. It seems he \nwasn't very well-mannered for a reporter \nafter all.",
-      "choice_data_list": [
-        "If something seems suspicious, turn them \ndown immediately."
-      ]
+      "text": "Thanks for saving me. I had a feeling\nthat\nreporter didn't have good\nintentions."
     },
     {
       "name": "Oguri Cap",
-      "text": "That's... true, but..."
+      "text": "Yeah, I know..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...To be honest, that reporter told me \nearlier that I'm a star Umamusume."
+      "text": "But that reporter called me a star."
     },
     {
       "name": "Oguri Cap",
-      "text": "He said, \"If you're a star, you have an \nobligation to answer questions. The fans \nwant that too\"..."
+      "text": "And he told me that stars have an\nobligation to\nrespond because that's\nwhat their fans would\nwant."
     },
     {
       "name": "Oguri Cap",
-      "text": "In that case, if I were to refuse to \nanswer—"
+      "text": "I thought if I refused to answer..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Wouldn't I be letting everyone down and \nbetraying their expectations?"
+      "text": "Maybe I'd be letting everyone down. Is\nthat not\ntrue?"
     },
     {
-      "name": "Narrator",
-      "text": "...From what she's saying, she really \ncares about her fans. Which means, all the \nmore reason—",
-      "choice_data_list": [
-        "You really have to turn them down \nproperly.",
-        "You really have to turn them down \nproperly."
-      ]
+      "name": "Monologue",
+      "text": "It's clear she regards her fans highly...\nbut that\nmakes what I'm about to say all\nthe more\nimportant."
     },
     {
       "name": "Oguri Cap",
-      "text": "...However...",
-      "choice_data_list": [
-        "Your fans want to protect you too.",
-        "Your fans want to protect you too."
-      ]
+      "text": "But..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...!!"
+      "text": "...!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...I see, that's true. Tome-san and \nShige-san used to say that a lot, too."
+      "text": "You're right... Tome and Shige used to\nalways tell\nme I was their treasure."
     },
     {
       "name": "Oguri Cap",
-      "text": "\"Our Oguri-chan is our treasure.\" I should \nhave been protecting that treasure, too..."
+      "text": "I guess that means I should protect\nmyself... so I\ncan protect their treasure."
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. I understand. From now on, I will \nturn them down."
+      "text": "Okay, I see where you're coming from.\nI'll make\nsure to refuse next time."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Though, I wonder if I can turn them \ndown properly.",
-      "choice_data_list": [
-        "In that case, rely on the adults.",
-        "I'll teach you some magic words."
-      ]
+      "text": "...I wonder if I'll really be able to do it\nproperly,\nthough."
     },
     {
       "name": "Oguri Cap",
-      "text": "...I see."
+      "text": "...Okay, I'll do that."
     },
     {
       "name": "Oguri Cap",
-      "text": "Then I'll be counting on you from now on.",
-      "choice_data_list": [
-        "Me?",
-        "Me?"
-      ]
+      "text": "Then I'll be counting on you when the\ntime comes."
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. The way you handled that just now was \nwonderful. And fortunately, you are \naffiliated with the academy."
+      "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy."
     },
     {
       "name": "Oguri Cap",
-      "text": "...So it should be fine for me to rely on \nyou, right?"
+      "text": "So... Could I ask for your help again?"
     },
     {
-      "name": "Narrator",
-      "text": "...That was a remarkably frank response, \nbut she makes a completely fair point. \nHowever—",
-      "choice_data_list": [
-        "You really are a bit too honest sometimes.",
-        "You really are a bit too honest sometimes."
-      ]
+      "name": "Monologue",
+      "text": "I'm taken aback by her frank request.\nEverything\nshe said is true, but..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, seems so. My mother used to praise \nme for that, too."
+      "text": "Yeah, I've heard. My mom often praised\nme for it."
     },
     {
-      "name": "Narrator",
-      "text": "Afterward, I caught sight of Oguri Cap \nfrankly asking questions to the adults \naround the academy."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "...Magic words?",
-      "choice_data_list": [
-        "\"Go through the academy.\""
-      ]
+      "name": "Monologue",
+      "text": "Later on, I see Oguri Cap candidly\nasking other\nadults in the academy\nvarious questions."
     },
     {
       "name": "Oguri Cap",
-      "text": "That's... what you just said earlier...?!"
+      "text": "...A special phrase?"
     },
     {
       "name": "Oguri Cap",
-      "text": "I see. Once that reporter heard that, he \nran away immediately. Hmm..."
-    },
-    {
-      "name": "Narrator",
-      "text": "Just then, a woman came running over to \nus."
-    },
-    {
-      "name": "Staff Member",
-      "text": "Oh, there you are! Oguri-san! I wanted to \ntalk to you about the plushies—"
+      "text": "That's... exactly what you told the\nreporter!"
     },
     {
       "name": "Oguri Cap",
-      "text": "For that question, go through the academy!"
+      "text": "And the reporter ran off the second they\nheard\nthose words. Hmmm..."
     },
     {
-      "name": "Staff Member",
-      "text": "Huh? Wait, what?! We were supposed to have \na meeting about making the plushies \ntoday... right?"
+      "name": "Monologue",
+      "text": "Just as she finishes speaking, a woman\nruns over\nto us."
+    },
+    {
+      "name": "Staff",
+      "text": "Oh, there you are, Oguri! About the\nplushie—"
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah. I did hear about that... I... I'm \nsorry."
+      "text": "Please contact the academy regarding\nthat\nquestion!"
     },
     {
-      "name": "Narrator",
-      "text": "It looks like she'll need a bit more \npractice to master those magic words..."
+      "name": "Staff",
+      "text": "Oh. Wait, what?! Weren't we scheduled\nto have a\nmeeting about manufacturing\nyour plushie today?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh. Yes, that's right... S-sorry."
+    },
+    {
+      "name": "Monologue",
+      "text": "Seems like it'll take a little more work\nbefore she\ncan use her special phrase\nproperly."
     }
   ]
 }

@@ -2,136 +2,104 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Just as Air Shakur finished all of today's \ntraining menu—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Shakur has just finished today's\ntraining."
     },
     {
       "name": "Air Shakur",
-      "text": "No good. I ain't reachin' it like this.",
-      "choice_data_list": []
+      "text": "Nope. This isn't gonna cut it."
     },
     {
       "name": "Air Shakur",
-      "text": "Hey, you go on home. I'm gonna keep going \nlike this.",
-      "choice_data_list": []
+      "text": "You head home. I'm gonna keep going."
     },
     {
-      "name": "Narrator",
-      "text": "It seems there are still parts she isn't \nsatisfied with, and she intends to do some \nextra training.",
-      "choice_data_list": [
-        "I'll be watching right here until the very \nend.",
-        "Any more than this will lead to \noverworking."
-      ]
+      "name": "Monologue",
+      "text": "Air Shakur seems dissatisfied with\nsomething\nabout her performance, so it\nlooks like she\nintends to do additional\ntraining."
     },
     {
       "name": "Air Shakur",
-      "text": "Do what you want. Just don't get in my \nway.",
-      "choice_data_list": []
+      "text": "Suit yourself. Just don't get in my way."
     },
     {
       "name": "Fine Motion",
-      "text": "\"Good evening, Shakur, Trainer. Still in \nthe middle of training?\"",
-      "choice_data_list": []
+      "text": "Good evening, Shakur. Trainer. Are you\nstill\ntraining?"
     },
     {
       "name": "Fine Motion",
-      "text": "In that case, how about we run a tandem \nworkout together right now?",
-      "choice_data_list": []
+      "text": "If so, why don't we run together?"
     },
     {
       "name": "Air Shakur",
-      "text": "Aah? Why the hell do I have to tag along \nwith you?",
-      "choice_data_list": []
+      "text": "Huh? Why do I have to run with you?"
     },
     {
       "name": "Fine Motion",
-      "text": "Heh-heh♪ Actually, my times got even \nfaster recently. Don't you wanna collect \nsome data on me, Shakur?",
-      "choice_data_list": []
+      "text": "Hehe. Weeell... ♪ I've brought my lap\ntimes down\nrecently. Don't you want to\nget some data?"
     },
     {
       "name": "Fine Motion",
-      "text": "\"If I run alongside her, maybe I'll get to \nsee what I'm looking for♪\"",
-      "choice_data_list": []
+      "text": "Run with me, and you might just see\nsomething\nyou like. ♪"
     },
     {
       "name": "Air Shakur",
-      "text": "Quite the confidence you have. ...If \nyou're bluffing, I'm stopping immediately.",
-      "choice_data_list": []
+      "text": "Well, aren't you confident? ...If it's just\ntalk, I'm\noutta here."
     },
     {
       "name": "Fine Motion",
-      "text": "If that's true, will you keep running \nalongside me from now on?",
-      "choice_data_list": []
+      "text": "And if I'm telling the truth, you'll run\nwith me?"
     },
     {
       "name": "Air Shakur",
-      "text": "Why are you the one making the deal? \nWhatever, let's just get started.",
-      "choice_data_list": []
+      "text": "Actions speak louder than words. Let's\ngo."
     },
     {
-      "name": "Narrator",
-      "text": "And so, Air Shakur did extra training \nuntil the sun went down.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Huh? Necessary training isn't what you'd \ncall overworking.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And so, Air Shakur does extra training\nuntil the\nsun goes down."
     },
     {
       "name": "Air Shakur",
-      "text": "If you're just going to bring up \ngeneralities, a textbook is more than \nenough. Or do you actually have some \nthoughts of your own?",
-      "choice_data_list": [
-        "There's still plenty you can do even \nwithout running."
-      ]
+      "text": "Huh? If I'm just doing what's necessary, I\ndon't\nthink you can call it pushing myself\ntoo hard."
     },
     {
       "name": "Air Shakur",
-      "text": "Hoh... what's that supposed to mean?",
-      "choice_data_list": []
+      "text": "If you want to talk general theory, let's\nstick to\nthe textbooks. Or did you have\nan original idea\nyou wanted to add?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oh yeah? Like what?"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh? If it isn't Shakur-kun. You're just \nthe right person for this.",
-      "choice_data_list": []
+      "text": "Well, if it isn't Shakur—just the person I\nneed."
     },
     {
       "name": "Air Shakur",
-      "text": "—Tch, a pain in the ass showed up. What \nthe hell do you mean, \"the right person \nfor the job\"?",
-      "choice_data_list": []
+      "text": "Just what I need, another pain in my ass.\nWhat do\nyou need me specifically for?"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Actually, in order to advance my research, \nI wanted an objective assessment of my own \nrunning.",
-      "choice_data_list": []
+      "text": "Well, you see, I need to gain an\nobjective\nunderstanding of my own\nrunning in order to\nmake progress with\nmy research."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "If you're wrapping up your training, would \nyou mind recording my run?",
-      "choice_data_list": []
+      "text": "If you're finished with your own training,\ncould I\nbother you to record mine?"
     },
     {
       "name": "Air Shakur",
-      "text": "Heh... So you're totally raring to run, \nhuh.",
-      "choice_data_list": [
-        "You can learn a lot just by watching, you \nknow."
-      ]
+      "text": "Heh... So basically, you really wanna run\nright\nnow."
     },
     {
       "name": "Air Shakur",
-      "text": "...I already know that much. I've been \ngathering data this whole time, after all.",
-      "choice_data_list": []
+      "text": "You think I don't know that? Aren't I the\none\nalways collecting data?"
     },
     {
       "name": "Air Shakur",
-      "text": "Forget running. I'll watch how this one \nruns. Prioritizing data seems like the \nbetter move here.",
-      "choice_data_list": []
+      "text": "I'm going to stay put and watch her run.\nIt seems\nbest to focus on data collection\nright now."
     },
     {
-      "name": "Narrator",
-      "text": "And so, Air Shakur was successfully \nprevented from overworking herself.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Rather than push herself too hard at this\npoint,\nAir Shakur takes up a less\nstrenuous activity."
     }
   ]
 }

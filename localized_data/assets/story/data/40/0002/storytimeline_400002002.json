@@ -2,137 +2,104 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "A few days after Chairwoman Akikawa took \noff, right around the time I sent <chrname> out to \nrun the perimeter—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It's been a few days since Director\nAkikawa left.\nOne day, shortly after I've\nsent\n<chrname> off to do\nsome endurance\nrunning..."
     },
     {
-      "name": "？？？",
-      "text": "…………。",
-      "choice_data_list": []
+      "name": "???",
+      "text": "..."
     },
     {
-      "name": "Narrator",
-      "text": "I noticed an unfamiliar woman watching the \nUmamusume during their training.",
-      "choice_data_list": [
-        "Um...?"
-      ]
+      "name": "Monologue",
+      "text": "I spot a woman I've never seen before\nwatching\nthe Umamusume training."
     },
     {
-      "name": "？？？",
-      "text": "...You... You're the Trainer of the girl \nwho just went out to the perimeter, aren't \nyou?",
-      "choice_data_list": []
+      "name": "???",
+      "text": "...You're the trainer of that girl who just\ntook off\nrunning around the grounds,\naren't you?"
     },
     {
-      "name": "？？？",
-      "text": "\"I had the pleasure of watching your \ntraining. Pardon my bluntness right upon \nmeeting, but...\"",
-      "choice_data_list": []
+      "name": "???",
+      "text": "I've been watching your training session.\nI\nunderstand this is rather impolite to say\nupon our\nfirst meeting, but..."
     },
     {
-      "name": "？？？",
-      "text": "—Tepid.",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "name": "???",
+      "text": "You're horribly lax."
     },
     {
-      "name": "？？？",
-      "text": "Allowing voluntary training, lacking \nstrict start times, permitting idle \nchatter with other Umamusume during \nbreaks...",
-      "choice_data_list": []
+      "name": "???",
+      "text": "You permit her too much solo training,\noverlook\nher tardiness, and allow her to\nchitchat idly with\nothers during her\nbreaks."
     },
     {
-      "name": "？？？",
-      "text": "Oh, that look says you're not convinced.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Oh? Your expression suggests you don't\nagree\nwith my observations."
     },
     {
-      "name": "？？？",
-      "text": "Then what about her sleep duration and \ndaily sleep satisfaction? Do you interview \nher every single day without fail?",
-      "choice_data_list": [
-        "N-No..."
-      ]
+      "name": "???",
+      "text": "Then can you tell me how much she's\nsleeping on\nthe daily, and what the\nquality of her sleep is?\nAre you checking\nin with her every day?"
     },
     {
-      "name": "？？？",
-      "text": "Lack of sleep not only degrades \nperformance, but also invites accidents. \nKeeping track of it is a matter of course.",
-      "choice_data_list": [
-        "I'm sorry..."
-      ]
+      "name": "???",
+      "text": "Lack of decent sleep not only worsens a\nrunner's\nperformance but also invites\naccidents. It is\nimperative to be aware of\nher sleeping habits."
     },
     {
-      "name": "？？？",
-      "text": "\"...I am well aware, of course, that this \nacademy places great value on student \nautonomy.\"",
-      "choice_data_list": []
+      "name": "???",
+      "text": "I understand this academy values its\nstudents'\nindependence."
     },
     {
-      "name": "？？？",
-      "text": "However, that guiding principle is \nitself—irresponsible.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "However, this way of thinking is\nirresponsible."
     },
     {
-      "name": "Narrator",
-      "text": "With that, the woman quietly cast her gaze \ntoward the distant mountains.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She directs her gaze over toward a\nmountain in\nthe distance."
     },
     {
-      "name": "？？？",
-      "text": "—That cedar mountain you see in the \ndistance is a popular spot that's bustling \nwith climbers in season.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Do you see that cedar-covered\nmountain? It's\npopular with hikers during\nthe climbing season."
     },
     {
-      "name": "？？？",
-      "text": "Splendid cedar trees rustle softly, little \nbirds chirp, and the soft, rich soil \ngently cushions our feet.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "You'll find magnificent trees that rustle\nin the\nwind, birds that sing\nwhole-heartedly, and mulch\nthat softly\nwelcomes your feet."
     },
     {
-      "name": "？？？",
-      "text": "\"However, much like many mountains in this \ncountry, its shape exists only because of \nhuman hands.\"",
-      "choice_data_list": []
+      "name": "???",
+      "text": "But like most mountains in this country,\nit is only\nthat way due to external care\nand management."
     },
     {
-      "name": "？？？",
-      "text": "Unmanaged mountains fall into ruin. \nSunlight never reaches the ground, the \ngrass withers, and underfoot is nothing \nbut accumulated humus and dead, fallen \ntrees.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Without any sort of outside interference,\nthe\nforests descend into decay. The sun\ndoesn't reach\nthe floor, the grass dies,\nand the ground becomes\na graveyard of\ndead trees and rotting leaves."
     },
     {
-      "name": "？？？",
-      "text": "It could also lead to landslides and \nflooding. That is precisely what \n\"management\" entails.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Such unkempt mountains are more prone\nto\nlandslides and floods... This is why\nmanagement is\nso important."
     },
     {
-      "name": "？？？",
-      "text": "Just watching an immature girl fall into \nruin is nothing more than the ego of an \nadult trying to seem kind.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "You may feel like a kind and generous\nmentor,\nwatching passively over your\nstudents, but all\nyou're doing is leaving\ntheir potential to rot."
     },
     {
-      "name": "Narrator",
-      "text": "The woman's eyes gradually grew sharper as \nshe spoke. Just as tension filled the air—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As she speaks, the woman's gaze grows\nfierce.\nThe heavy atmosphere is\nbeginning to feel\noverwhelming, but just\nthen..."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"So this is where you were! I've been \nlooking for you, Acting Director \nKashimoto!\"",
-      "choice_data_list": []
+      "text": "There you are! I was looking for you, Ms.\n\nKashimoto!"
     },
     {
-      "name": "？？？",
-      "text": "Excuse me, I was just curious about your \ntraining scene.",
-      "choice_data_list": []
+      "name": "???",
+      "text": "My apologies. I merely wished to\nobserve a\ntypical training session."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Oh, Trainer! Perfect timing. This person \nhere is representing Chairwoman Akikawa—",
-      "choice_data_list": []
+      "text": "Oh, Trainer! I see you've already met\nDirector\nAkikawa's temporary\nreplacement."
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"I am Riko Kashimoto. I have been \nentrusted with full authority over the \nacademy's policies during my term.\"",
-      "choice_data_list": []
+      "text": "My name is Riko Kashimoto. I have been\ntasked\nwith managing the academy\nduring my tenure."
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Here you go... I'll be in your care.",
-      "choice_data_list": []
+      "text": "I... look forward to working with you."
     }
   ]
 }

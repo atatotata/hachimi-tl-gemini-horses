@@ -2,433 +2,332 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "\"It happened when Sweep Tosho and I were \npassing through the shopping district—\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm out walking with Sweep Tosho, and\nwe stop by\nthe shopping district."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hm? What could that be? Are they lining up \nfor something...?",
-      "choice_data_list": []
+      "text": "Hm? What's going on over there?\nPeople are\nlining up for something..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! How about testing your \nluck to see what you win?\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Huh, a lottery! That looks pretty fun! \nFamiliar, we're doing that!",
-      "choice_data_list": [
-        "Still, we don't have any raffle tickets."
-      ]
+      "text": "Oooh, a raffle! That looks like fun! Let's\ndo it,\nFamiliar!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "If you don't have any, just go get some! \nBuy whatever you want! Sweets, clothes, \nkatsu curry, anything!",
-      "choice_data_list": []
+      "text": "Then we just need to go get one! Let's\ngo buy\nsomething. It doesn't matter\nwhat! Candy,\nclothes, or even curry!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Just let me spin the raffle! I'm not going \nhome until I spin it!",
-      "choice_data_list": []
+      "text": "I'm definitely playing that raffle today!\nAnd I'm\nnot going home until I do!"
     },
     {
-      "name": "",
-      "text": "Just as Sweep Tosho pleaded, I did some \nshopping and got a raffle ticket! \nNaturally, out of my own pocket!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Alright, here goes nothing!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "At Sweep Tosho's request, we go\nshopping and\nget a raffle ticket.\nNaturally, everything is my\ntreat."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Clover☆ Clover☆ Cloooveeeer~! Magic of \ngood fortune, lend me your power!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "After chanting a magic spell, Sweep Tosho \nvigorously cranked the raffle wheel.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Here I go!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Y—",
-      "choice_data_list": []
+      "text": "Clove, clove, clover! ☆ Magic of luck,\nlend me\nyour power!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sweep Tosho chants a spell and gives\nthe lever an\nenthusiastic pull."
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Yaaay~~!!",
-      "choice_data_list": []
+      "text": "Oh..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "The grand prize! It's the grand prize! \nMeaning it's the absolute best one, \nFamiliar!",
-      "choice_data_list": [
-        "That's your magic for you!",
-        "As expected of your magic!"
-      ]
+      "text": "Yippeeeee!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ehehe, right, right?! After all, I'm the \ngreat and invincible Magical Girl Sweepy!",
-      "choice_data_list": []
+      "text": "It's the grand prize! I got the grand\nprize! That's\nthe best one, Familiar!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "A great magical girl is broad-minded, so \nI'll give the ticket to you. Come on, \nlet's head back!",
-      "choice_data_list": [
-        "Are you sure?"
-      ]
+      "text": "Hehe. Of course! I'm the great and\ninvincible\nMagical Girl Sweepy, after all!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Because an onsen just sounds boring. A \nbig bath sounds fun, but the academy's is \nplenty big already.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I ended up getting a hot springs trip \nticket...",
-      "choice_data_list": []
+      "text": "And since great witches are kind and\ngenerous,\nI'm gonna give the coupon to\nyou. Here. Okay,\nlet's go home!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Oh, I know! In exchange for giving you \nthat, take me to an amusement park! And \nthe zoo, and strawberry picking, and...",
-      "choice_data_list": []
+      "text": "Yeah. I mean, a hot spring sounds\nboooring. A big\nbath sounds kinda fun,\nbut the one at the\nacademy is big\nenough for me."
+    },
+    {
+      "name": "Monologue",
+      "text": "I accept the coupon for the hot spring\nvacation..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"After all, it's the grand prize, so it's \nbound to be worth at least that much!\"",
-      "choice_data_list": [
-        "Then whenever it's convenient for you..."
-      ]
+      "text": "Oh, I know! Take me to the amusement\npark\ninstead! And then the zoo... and\nstrawberry\npicking!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Well, can't be helped. Besides, it's not \nlike I don't have other things to do.\"",
-      "choice_data_list": []
+      "text": "That was the grand prize, so we've gotta\ngo\nsomewhere equally good!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Mastering the magic of racing completely \nand blowing everyone away comes first!",
-      "choice_data_list": []
+      "text": "I guess you're right. I am super busy,\nafter all."
     },
     {
       "name": "Sweep Tosho",
-      "text": "You'll return the favor for the grand \nprize once that's all done! A promise \nmagic so you won't forget!",
-      "choice_data_list": []
+      "text": "And first, I've gotta learn that racing\nmagic and\nreally surprise everyone!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Bridge pledge anagallis! This promise can \nnever, ever be broken!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "She had things she wanted to do first. \nHearing her say that made me happy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Once she accomplishes her big goal, I want \nto celebrate with her to the fullest— this \ntravel voucher is a token of that promise.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "You can give me my grand prize when\nI've done\nthat! I'll cast a promise spell so\nyou don't forget!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Wow, doesn't that look delicious!",
-      "choice_data_list": []
+      "text": "Plidge, pledge, anagallis! Make a\npromise that\ncan never be broken!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm happy to see that she has her\npriorities in\norder."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm going to throw a huge celebration for\nher\nwhen she accomplishes her goal...\nand this coupon\nis proof of my\ncommitment."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Today's dinner is decided with this! \nFamiliar, hurry up and get it ready!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Greengrocer Uncle",
-      "text": "How about some veggies on the side? I've \ngot some exceptionally tasty green peppers \ntoday!",
-      "choice_data_list": []
+      "text": "Oooh, not too shabby!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ehh, I don't want it, I don't want it, I \ndon't want it!! The Salisbury steak alone \nis already delicious enough!",
-      "choice_data_list": []
+      "text": "That's tonight's dinner taken care of!\nMake the\npreparations, Familiar!"
+    },
+    {
+      "name": "Grocer",
+      "text": "How about some fresh veggies as a side?\nWe've\ngot some delicious green peppers\ntoday!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"More importantly, let's hurry home and \neat! Come on, chop chop!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Practically dragged along by Sweep Tosho, \nI returned to the academy and ended up \ncooking hamburger steaks in my room's \nkitchen...",
-      "choice_data_list": []
+      "text": "Nooope! Nope, nope, nope! This\nhamburger steak\nis gonna be tasty\nenough on its own!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"...Wait, hey!! Why are there bell peppers \non the side?!\"",
-      "choice_data_list": [
-        "Because I had some extra."
-      ]
+      "text": "I just wanna get home and eat it! C'mon,\nhurry up!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After practically being dragged back to\nthe\nacademy by Sweep Tosho, I end up\ncooking the\nhamburger steak in my own\nkitchen."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Nnnrgh!!",
-      "choice_data_list": []
+      "text": "Hold on a sec! What are green peppers\ndoing in\nhere?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Of course I wouldn't want it even if \nthere's extra! That would turn my \nhard-earned first prize into a punishment \ngame!",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Honestly, here, you can have the bell \npeppers. It's your reward for making \nSalisbury steak, so take it gratefully.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Sweep Tosho diligently passed all her bell \npeppers over to me, but she seemed \nthoroughly delighted with the delicious \nhamburger steak!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "I don't care where you got them! I don't\nwant\nthem! You made the first prize into\na punishment!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Second prize! That's pretty amazing, isn't \nit?!",
-      "choice_data_list": []
+      "text": "Ugh. I'm giving you my peppers. They\ncan be your\nreward for cooking the\nhamburger steak, so be\ngrateful."
+    },
+    {
+      "name": "Monologue",
+      "text": "Although Sweep Tosho hurriedly pushes\nher green\npeppers onto my plate, she\ndoes seem to\nthoroughly enjoy the\nhamburger steak!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "So, what exactly is this 'heaping carrot \ndish' like—",
-      "choice_data_list": []
+      "text": "Second prize! Hey, that's pretty good!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Kya!? Th-That's an insane amount...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Ahaha, even for an Umamusume, finishing \nall this might be tough.",
-      "choice_data_list": []
+      "text": "I wonder how big the bushel's gonna\nbe..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Haaah!? I can totally eat it all by \nmyself!? Don't underestimate Magical Girl \nSweepy!",
-      "choice_data_list": [
-        "Is this really edible...?"
-      ]
+      "text": "Whoa?! That's <i>huge!</i>"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Haha. I reckon even an Umamusume\nmight\nstruggle to finish all these by\nherself."
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Of course I can eat it! Even if you want \nsome, I'm not sharing with you!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And so, Sweep Tosho triumphantly brought \nhome a mountain of carrots, but—",
-      "choice_data_list": []
+      "text": "Excuse me?! I can <i>easily</i> eat all of these!\nDon't\nunderestimate Magical Girl\nSweepy!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "...I'm bored. Boooored out of my mind!",
-      "choice_data_list": []
+      "text": "Of course I can! And I'm not gonna give\nyou any,\nno matter how much you\ncomplain!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sweep Tosho returns home triumphantly,\n\nclutching her huge bushel of carrots."
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"I don't want this anymore! I wanna eat \nsomething else! Familiar~! Do something \nabout it~!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I can finish it all, but I'll get sick of \nit...! As I racked my brain over what to \ndo—inspiration struck!",
-      "choice_data_list": [
-        "Let's cast a spell to turn the carrots \ninto sweets!"
-      ]
+      "text": "...I'm sick of these. Sick! Of! Them!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Magic that turns carrots into sweets...? \nWhat's that? That actually sounds kind of \nfun!",
-      "choice_data_list": []
+      "text": "I don't want any more! I wanna eat\nsomething\nelse! Do something, Familiar!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She <i>could</i> finish them if she wanted, but\nshe\ndoesn't want to. I rack my brain\ntrying to come up\nwith a solution... and\nthen I have an idea!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ready, set—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Trainer & Sweep",
-      "text": "Cook☆Confect☆Cook!!",
-      "choice_data_list": []
+      "text": "A carrot dessert spell? That's... a great\nidea!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I did it! Special carrot parfait, ready to \nserve~!",
-      "choice_data_list": []
+      "text": "One, twooo..."
+    },
+    {
+      "name": "Trainer and Sweep",
+      "text": "Cook, cook, confections! ☆"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"...Wait, I kind of feel like this is just \ncooking instead of magic, though...\"",
-      "choice_data_list": []
+      "text": "We did it! It's a deluxe carrot parfait!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Oh well, it was fun anyway! I'll even \nspare a bite for my familiar!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I breathe a sigh of relief seeing Sweep \nTosho in a great mood. It seems she was \nthoroughly satisfied!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "But I'm not sure how much magic was\ninvolved... It\nkinda felt like we were just\nfollowing a recipe..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Geez! Why isn't it the Grand Prize?! I \nchanted the magic spell and everything!",
-      "choice_data_list": [
-        "But they look like delicious carrots!"
-      ]
+      "text": "Still, it was fun, so whatever! I'll even\ngive you a\nbite!"
+    },
+    {
+      "name": "Monologue",
+      "text": "With Sweep Tosho in good spirits, I let\nout a sigh\nof relief. It seems I was able to\nkeep her happy!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Mmhâ¦â¦",
-      "choice_data_list": []
+      "text": "Aw, c'mon! I wanted the grand prize! I\neven cast a\nspell!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Now that you mention it, it really is a \ndeep, glossy orange...",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "(Crunch... munch, munch...)",
-      "choice_data_list": []
+      "text": "Hm..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I-It's delicious...?!?!? What is this?! \nIt's so good!",
-      "choice_data_list": []
+      "text": "Now that you mention it, it is a nice\norange color.\nAnd so shiny..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Chomp! Crunch!</i>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I see! Thanks to magic, I managed to pick \nthe tastiest carrot!",
-      "choice_data_list": []
+      "text": "This tastes... amazing?! How is it this\ngood?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Fufun! There's no doubt about it, I really \nam a genius magical girl!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Sweep Tosho seemed delighted. Breathing an \ninward sigh of relief, we headed back \ntogether...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Oh, right! That spell helped me win the\nmost\ndelicious carrot of all!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "A-A miss~?!",
-      "choice_data_list": []
+      "text": "Hehe! I'm <i>definitely</i> a genius magical\ngirl!"
+    },
+    {
+      "name": "Monologue",
+      "text": "With Sweep Tosho looking pleased, a\nwave of\nrelief washes over me as we\nhead back."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"That can't be right! I cast a good luck \nspell properly!\"",
-      "choice_data_list": []
+      "text": "A-a blank one?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Uuu, no, no, no! I'm drawing again! \nFamiliar, go get more raffle tickets, \nquickly! There's no way my magic failed—",
-      "choice_data_list": []
+      "text": "How did that even happen?! I cast a\nspell for luck!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "A... Achoo!",
-      "choice_data_list": []
+      "text": "Grrr! No, no, no! I'm gonna do it again!\nGo get me\nanother ticket, Familiar! I\ncan't believe my magic\nfailed!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Geez! I didn't win the raffle, it's \nfreezing, I can't stop sneezing... what \ngives?! *Achoo!*",
-      "choice_data_list": [
-        "Here, a tissue."
-      ]
+      "text": "Ah-choo!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ugh... If that's how it's gonna be, I'll \nuse every last tissue I've got...!",
-      "choice_data_list": []
+      "text": "Ugh! First, I didn't win, and now I'm\nsneezing\nbecause it's so cold! Achoo!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "(Diiiing!)",
-      "choice_data_list": []
+      "text": "Ugh, fine... If this is how it's gonna be,\nI'll use\nevery single last scrap of them!"
     },
     {
-      "name": "",
-      "text": "Under the chilly sky, Sweep Tosho blew her \nnose, taking out her frustration on the \ntissues...",
-      "choice_data_list": []
+      "name": "Sweep Tosho",
+      "text": "<i>Pffbtbfbfbt!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "As if angry at the tissues themselves,\nSweep\nTosho aggressively blows her\nnose under the cold\nsky."
     }
   ]
 }

@@ -2,126 +2,92 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "After training finished, I was walking \nwith Sakura Chiyono O when we spotted Rice \nShower looking distressed.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "While I'm walking with Sakura Chiyono\nO after\ntraining, we notice Rice Shower\nin what seems to\nbe a predicament."
     },
     {
       "name": "Rice Shower",
-      "text": "Ugh... That's so scary...",
-      "choice_data_list": []
+      "text": "<i>Sob...</i> I'm so scared..."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Rice-san, what are you doing in a place \nlike this?",
-      "choice_data_list": []
+      "text": "What are you doing in a place like this,\nRice?"
     },
     {
       "name": "Rice Shower",
-      "text": "Ah... Chiyono O-san...",
-      "choice_data_list": []
+      "text": "Oh... Chiyono O..."
     },
     {
       "name": "Rice Shower",
-      "text": "\"Actually, I just went for a run to the \nshrine, but it seems I left my smartphone \nbehind when taking a break...\"",
-      "choice_data_list": []
+      "text": "I just went on a run to the shrine, but\nwhen I\nstopped to take a break, I\nrealized that I lost my\nphone..."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Huh?! That's terrible! We have to go \nsearch for it right away!",
-      "choice_data_list": []
+      "text": "What?! That's terrible! We have to look\nfor it\nright away!"
     },
     {
       "name": "Rice Shower",
-      "text": "Still, shrines at night are pitch black \nand completely deserted, so it's kind of \nscary...",
-      "choice_data_list": []
+      "text": "But the shrine is so dark at night, and\nthere's no\none around. It's so scary..."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "It certainly is daunting when you're all \non your own, isn't it...",
-      "choice_data_list": []
+      "text": "It <i>would</i> be pretty scary to go alone..."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "\"...Understood! I'll go with you!\"",
-      "choice_data_list": []
+      "text": "Okay! I'll go with you!"
     },
     {
       "name": "Rice Shower",
-      "text": "Huh... Are you sure...?",
-      "choice_data_list": []
+      "text": "Wait, really?"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "I can't just leave Rice Shower on her own, \nand I think having two of us will be a bit \nmore reassuring!",
-      "choice_data_list": []
+      "text": "I can't just leave you here, and I'm sure\nyou'll feel\nbetter if you have someone\nwith you!"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Oh, right! Since we're already heading \nthere, why don't we run? It'll double as \ntraining, killing two birds with one \nstone!",
-      "choice_data_list": []
+      "text": "Oh, and while we're at it, why don't we\nrun there?\nIt'll be good training, so think\nof it like killing two\nbirds with one stone!"
     },
     {
-      "name": "Narrator",
-      "text": "I appreciate your concern, but if you run, \nwon't you end up overworking yourself...?",
-      "choice_data_list": [
-        "Make sure you come straight back, got it?",
-        "Come right back, okay?",
-        "I'll come with you, so let's walk there",
-        "I'll come with you, so let's walk."
-      ]
+      "name": "Monologue",
+      "text": "I understand she's worried about Rice\nShower, but\nshe's already run a lot\ntoday..."
     },
     {
-      "name": "Narrator",
-      "text": "I appreciate your concern, but if you run, \nwon't you end up overworking yourself...?",
-      "choice_data_list": [
-        "Make sure you come straight back, got it?",
-        "Come right back, okay?",
-        "I'll come with you, so let's walk there",
-        "I'll come with you, so let's walk."
-      ]
+      "name": "Monologue",
+      "text": "I understand she's worried about Rice\nShower, but\nshe's already run a lot\ntoday..."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Yes! I'll hurry on over so you don't have \nto worry!",
-      "choice_data_list": []
+      "text": "Okay! Don't you worry, we'll be back in\na flash!"
     },
     {
       "name": "Rice Shower",
-      "text": "\"...When we enter the shrine, would it be \nall right if we held hands...?\"",
-      "choice_data_list": []
+      "text": "...Can we hold hands when we get to the\nshrine?"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Ehehe, actually, I'm not very good with \nghosts and stuff either, so I would really \nappreciate that...!",
-      "choice_data_list": []
+      "text": "Hehe... I'm not great with spooky stuff\neither, so\nI'd appreciate that too!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, scared as they were, the two of \nthem ran toward the shrine.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Chiyono O",
-      "text": "Huh, you too, Trainer?",
-      "choice_data_list": [
-        "Let's all cool down together after \nexercising"
-      ]
+      "name": "Monologue",
+      "text": "Despite their fears, the two of them set\noff for\nthe shrine at full speed."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Sounds great! With three of us, it won't \nbe scary at all anymore—in fact, it sounds \nlike a fun walk!",
-      "choice_data_list": []
+      "text": "Huh? You're coming too?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "That's a wonderful idea! It won't be scary\nat all\nwith three of us, and going on a\nwalk together\nsounds fun!"
     },
     {
       "name": "Rice Shower",
-      "text": "I-I look forward to working with you...",
-      "choice_data_list": []
+      "text": "O-okay. Thank you..."
     },
     {
-      "name": "Narrator",
-      "text": "Afterward, the three of us headed to the \nshrine while chatting and laughing, and \nsafely found the smartphone.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "We have a good time strolling to the\nshrine as a\ngroup, and we find Rice\nShower's phone waiting\nthere for us."
     }
   ]
 }

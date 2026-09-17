@@ -2,44 +2,36 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Admire Vega didn't come to training. \nSearching for her whereabouts, I found her \nin the library.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Admire Vega doesn't show up for\ntraining. After\nsome looking around, I\nfinally find her in the\nlibrary."
     },
     {
-      "name": "Narrator",
-      "text": "Just as I was about to call out to her, I \nnoticed she was nodding off.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "*Zzz*, *zzz*, *zzz*...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I call out to her but notice that she's fast\nasleep."
     },
     {
       "name": "Admire Vega",
-      "text": "...Mm. Trainer... Why are you here...?",
-      "choice_data_list": []
+      "text": "<i>Zzz... Zzz...</i>"
     },
     {
       "name": "Admire Vega",
-      "text": "............ At this hour...",
-      "choice_data_list": []
+      "text": "Oh... Trainer? What are you... doing\nhere?"
     },
     {
       "name": "Admire Vega",
-      "text": "Um... while I was digging through racing \nmaterials, before I knew it...",
-      "choice_data_list": []
+      "text": "Is... that the time?"
     },
     {
       "name": "Admire Vega",
-      "text": "...I'm sorry, I will be more careful in \nthe future.",
-      "choice_data_list": []
+      "text": "I was searching for information to help\nwith my\nraces... and I must have dozed\noff."
     },
     {
-      "name": "Narrator",
-      "text": "While worrying a bit about her tendency to \nnever cut corners, you firmly warned her \nto be careful next time.",
-      "choice_data_list": []
+      "name": "Admire Vega",
+      "text": "I'm sorry. I'll be more careful from now\non."
+    },
+    {
+      "name": "Monologue",
+      "text": "While I'm slightly concerned that she's\n\noverworking herself, I give her a fair and\nproper\nwarning."
     }
   ]
 }

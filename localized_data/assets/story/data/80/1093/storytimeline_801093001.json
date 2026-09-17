@@ -2,120 +2,88 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Hoping to ease the strain on <chrname>'s legs, I \nvisited a sporting goods store to buy her \nsome support gear as a gift. However...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I want to buy a sports brace for\n\n<chrname> to reduce the\nstrain on her\nlegs, so I make a trip to the\nsports supplies shop.\nHowever..."
     },
     {
       "name": "Umamusume A",
-      "text": "Ooh~ So this is that newly opened place... \nWhoa, check out the selection! There's so \nmuch stuff!?",
-      "choice_data_list": []
+      "text": "Whoa, so this is the place that just\nopened shop,\nhuh?\nHoly moly! Look at\nthat display—there's so much\nto choose\nfrom!"
     },
     {
       "name": "Umamusume B",
-      "text": "Hrrrrm, no matter which one I buy, this is \ngonna take some real thinking.",
-      "choice_data_list": [
-        "(There really are too many to choose \nfrom...)"
-      ]
+      "text": "Yeah, but maybe it's <i>too</i> much. I'm not\nsure what\nto get anymore!"
     },
     {
       "name": "K.S.Miracle",
-      "text": "...Um, excuse me.",
-      "choice_data_list": []
+      "text": "...Excuse me."
     },
     {
       "name": "K.S.Miracle",
-      "text": "I'm sorry to speak up so suddenly. It's \njust, um...",
-      "choice_data_list": []
+      "text": "Sorry to bother you, but..."
     },
     {
       "name": "K.S.Miracle",
-      "text": "I thought maybe you were having trouble. \n...Are you picking out support gear?",
-      "choice_data_list": [
-        "Ah, yeah, that's actually true.",
-        "Y-Yeah, that's actually true."
-      ]
+      "text": "You looked a little lost. Are you looking\nfor a\nsports brace, perhaps?"
     },
     {
       "name": "K.S.Miracle",
-      "text": "What kind of girl would I want to give it \nto, you ask? Hmm... let's see...",
-      "choice_data_list": []
+      "text": "What does your trainee need? Let's\nsee..."
     },
     {
       "name": "K.S.Miracle",
-      "text": "If you want support for bending and \nstretching movements, I recommend the ones \non the second shelf. If you want to reduce \nfatigue, the eighth shelf――",
-      "choice_data_list": []
+      "text": "If you want a brace that aids in bending\nand\nextension, I recommend you look at\nthe ones on\nthe second row. The eighth\nrow has a selection\nthat's great for\nreducing strain."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Oh, if your skin is on the sensitive side, \nthe one in the fourth row has good \nbreathability.",
-      "choice_data_list": [
-        "You sure know your stuff……!",
-        "You sure know your stuff……!"
-      ]
+      "text": "Oh, but if your trainee's skin is sensitive,\nthe\nbraces on the fourth row are made\nwith\nbreathable materials."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Fufu, . ...Though having said all that, \nI'm just parroting what others said.",
-      "choice_data_list": []
+      "text": "Hehe, you're too kind. But it's nothing\nimpressive.\nAll the information I know, I\nobtained\nsecondhand."
     },
     {
       "name": "K.S.Miracle",
-      "text": "The doctors and nurses at the hospital \nwho've taken care of me for so long taught \nme so much.",
-      "choice_data_list": []
+      "text": "I learned it all from the doctors and\nnurses who\nhave been taking care of me\nsince long ago."
     },
     {
       "name": "K.S.Miracle",
-      "text": "...Ah, sorry, totally irrelevant story. \nWell, I'll be off. Excuse me for dropping \nin so suddenly.",
-      "choice_data_list": []
+      "text": "...Oh, sorry for going off-topic. I should\nget going\nnow. I hope you didn't mind\nthe unsolicited\nadvice."
     },
     {
-      "name": "Narrator",
-      "text": "Reflecting gratefully on what I had heard, \nI made my choice. Here, I'll――",
-      "choice_data_list": [
-        "Something to aid your movement.",
-        "The one that looks more comfortable to \nwear."
-      ]
+      "name": "Monologue",
+      "text": "Despite her self-deprecating words, I\nfind\nK.S.Miracle's advice very helpful\nand feel much\nbetter equipped to do my\nshopping. I look at the\nshelves and\ndecide to go with..."
     },
     {
-      "name": "Narrator",
-      "text": "I picked out an item specialized in \nsupporting movement and lined up at the \ncash register. Then, from behind me—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I pick out a brace designed for\nfunctional\nmovement. While I wait in line\nto pay for it, I hear\na familiar voice\ncoming from behind me."
     },
     {
       "name": "Daitaku Helios",
-      "text": "Wait, legit!? Are these socks really that \ngod-tier!? Crazy! The design is totally \nfire too!!",
-      "choice_data_list": []
+      "text": "No way! Are these socks <i>that</i> goated?!\nSheesh,\nthe design is so peak too!"
     },
     {
       "name": "K.S.Miracle",
-      "text": "You're right, this is really cute. I bet \nit'd look great on Helios.",
-      "choice_data_list": []
+      "text": "They are quite adorable, as you say. I\nthink they\nwould suit you nicely."
     },
     {
       "name": "Daitaku Helios",
-      "text": "Fo' realzies!? Guess I better go grab \none~~!! Thanks a bunch, Miracle☆",
-      "choice_data_list": []
+      "text": "No cap? I've gotta get them, then!\nYou're a real\none, Miracle! ☆"
     },
     {
-      "name": "Narrator",
-      "text": "I picked out one with the best comfort and \nlined up at the register. Just then, \nbehind me—",
-      "choice_data_list": []
-    },
-    {
-      "name": "K.S.Miracle",
-      "text": "........Ah.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I pick out a brace designed for comfort.\nWhile I\nwait in line to pay for it, I hear a\nfamiliar voice\ncoming from behind me."
     },
     {
       "name": "K.S.Miracle",
-      "text": "These ones... might suit Ruby's legs, \nmaybe?",
-      "choice_data_list": []
+      "text": "...Oh."
     },
     {
       "name": "K.S.Miracle",
-      "text": "...Yeah, I think I'll buy it.",
-      "choice_data_list": []
+      "text": "This looks like it would suit Ruby well..."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Okay, I think I'll get it."
     }
   ]
 }

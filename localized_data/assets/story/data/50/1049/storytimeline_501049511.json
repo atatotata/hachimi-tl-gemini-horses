@@ -2,310 +2,232 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I spotted Nakayama Festa standing near the \nclassroom entrance, gazing at her \nclassmates.",
-      "choice_data_list": [
-        "What are you doing here?",
-        "What are you doing here?"
-      ]
+      "name": "Monologue",
+      "text": "I see Nakayama Festa standing at the\nclassroom\ndoor looking at her\nclassmates."
     },
     {
       "name": "Nakayama Festa",
-      "text": "I'm just deciding whether I should go with \nsomeone from the class next door or \nsomeone from my own class.",
-      "choice_data_list": []
+      "text": "I'm deciding between someone in my\nown class or\nsomeone in the next class\nover."
     },
     {
       "name": "Nakayama Festa",
-      "text": "“—We're in the same class, huh. Then...”",
-      "choice_data_list": []
+      "text": "...Someone in my class, then. In that\ncase..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Acute, I have a small favor to ask.",
-      "choice_data_list": []
+      "text": "Hey, Acute. I've got a small favor to ask\nyou."
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh my, what could it be?",
-      "choice_data_list": []
+      "text": "And what might that be?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Lend me your English and math notes. We \nhave a quiz next week, right?",
-      "choice_data_list": [
-        "...Nakayama, where's your own notebook?"
-      ]
+      "text": "Can you lend me your English and math\nnotes?\nI've got a quiz next week."
     },
     {
       "name": "Wonder Acute",
-      "text": "Ufufu, you always did look so cozy \nsleeping away. Sure thing, feel free to \nuse my notes if they'll help.",
-      "choice_data_list": []
+      "text": "She's normally asleep. Hehe. And she\nalways\nlooks so comfortable.\nOkay, sure.\nYou can borrow my notes."
     },
     {
       "name": "Nakayama Festa",
-      "text": "—Thanks a bunch.",
-      "choice_data_list": [
-        "No, wait, wait!",
-        "No, wait, wait, wait!"
-      ]
+      "text": "Thanks."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Shut up, Acute already said it's fine. \nKeep your nose out of this.",
-      "choice_data_list": []
+      "text": "Oh, shut up. Acute said it was fine. I\ndon't need\nyour opinion."
     },
     {
       "name": "Wonder Acute",
-      "text": "\"It's totally fine! I mean, you're super \nbusy with training and races too, aren't \nyou, Nakayama-chan? It's only natural to \nget sleepy during class.\"",
-      "choice_data_list": []
+      "text": "It's quite all right. With how busy you\nare training\nand racing, I certainly can't\nblame you for getting\na little sleepy\nduring class."
     },
     {
       "name": "Wonder Acute",
-      "text": "It's only natural that Twinkle Series \nraces take priority. I'm the same way, \nafter all. So let's help each other out.",
-      "choice_data_list": []
+      "text": "Why shouldn't you prioritize the Twinkle\nSeries?\nI'm exactly the same. We can\nhelp each other out."
     },
     {
       "name": "Wonder Acute",
-      "text": "—Still, I wonder... Could my notebook \nreally be of help to Nakayama-chan?",
-      "choice_data_list": []
+      "text": "However, I'm not exactly confident how\ngood my\nnotes will do."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Hey, what does this note mean? 'PR.58~ \nâ Tense Q'...?",
-      "choice_data_list": []
+      "text": "...Hey, what's this mean? \"PR.58. ★\nTense Q\"?"
     },
     {
       "name": "Wonder Acute",
-      "text": "Ah, that means it's related to the tense \nquestions starting on page 58 of the \nworkbook. The black stars are related \nexercises, and the white stars are \nreferences.",
-      "choice_data_list": []
+      "text": "Oh, that means it's related to a practice\nquestion\nconcerning tenses on page\nfifty-eight. Filled stars\nare for related\nexercises, and white stars are for\n\nreferences."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...The rest are full of symbols too.",
-      "choice_data_list": []
+      "text": "And the rest... All of this is just code."
     },
     {
       "name": "Wonder Acute",
-      "text": "That's right~. I can't write very fast, so \nI came up with my own symbols to use \ninstead. It really is hard to read, isn't \nit...?",
-      "choice_data_list": []
+      "text": "Well... I don't write very quickly, so I\nmade up a\nsystem of shorthand I could\nuse. It's hard to\nunderstand, isn't it?"
     },
     {
       "name": "Wonder Acute",
-      "text": "—Shall we study together then?",
-      "choice_data_list": []
+      "text": "How about I study together with you?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Huh? ...No, all I really need is to \nborrow your notebook—",
-      "choice_data_list": []
+      "text": "What? No, I just wanna borrow the\nnotes..."
     },
     {
       "name": "Wonder Acute",
-      "text": "I use this notebook too, so it's much more \nhelpful if we study at our own pace \ntogether. ...Right?",
-      "choice_data_list": []
+      "text": "Well, I need to use the notes too. Don't\nyou think\nit'll help us both if we sat\ndown and had a long,\nthorough study\nsession together?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Aaaalright, I get it.",
-      "choice_data_list": [
-        "I'll help out too!",
-        "I'll help too!"
-      ]
+      "text": "...Fiiine."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...You really have to stick your nose into \neverything, don't you...? Fine, pick. \nEnglish or math, which one are we doing \nfirst?",
-      "choice_data_list": [
-        "Essential English for breaking through the \nwalls of the world!",
-        "Math that helps with understanding \nstrategy."
-      ]
+      "text": "Why do you have to involve yourself in\nevery\nlittle thing? Fine, you choose,\nthen. Should we\nstart with English or\nMath?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "English, huh... Listening to it makes me \nso sleepy...",
-      "choice_data_list": []
+      "text": "English... Just listening to it puts me to\nsleep."
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh, in that case, want to try my study \nmethod? It'll blow your drowsiness right \naway~.",
-      "choice_data_list": []
+      "text": "You should try my study method then. It\nwill get\nrid of that sleepiness in an\ninstant!"
     },
     {
-      "name": "Narrator",
-      "text": "—Referencing Wonder Acute's notes, I read \naloud the English textbook passage. As for \nNakayama Festa and the others listening...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Wonder Acute references her notes and\nreads\naloud the English sentences\nwritten in their\ntextbook while\nNakayama Festa listens along.\nThen..."
     },
     {
-      "name": "Both",
-      "text": "...Huff... huff...! ...Hoh... hoh...!",
-      "choice_data_list": []
+      "name": "Nakayama and Acute",
+      "text": "<i>Pant... Pant...</i>\n<i>Huff... Huff...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Wonder Acute's study method was to solve \nproblems while doing physical training!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "They do a bit of training while they solve\nthe\nquestions. So this is Wonder Acute's\nmethod!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "\"...Isn't this the kind of thing... \nusually reserved for when you get an \nanswer WRONG...?!\"",
-      "choice_data_list": []
+      "text": "Wouldn't you normally do something\nlike this\nafter getting a question wrong?"
     },
     {
       "name": "Wonder Acute",
-      "text": "That wouldn't be much of a workout, now \nwould it? Besides, I came up with this \nmethod in the first place so I wouldn't \nhave to cut back on training time~.",
-      "choice_data_list": []
+      "text": "But then I wouldn't get enough training.\nI\noriginally came up with this method so\nthat I\nwouldn't have to cut down on my\nexercise."
     },
     {
       "name": "Wonder Acute",
-      "text": "If I want to win in the Twinkle Series, \nthis is the bare minimum I have to do.",
-      "choice_data_list": []
+      "text": "It's for the best if I want to win in the\nTwinkle\nSeries."
     },
     {
       "name": "Nakayama Festa",
-      "text": "……!",
-      "choice_data_list": [
-        "Pop quiz! Why was Stevie so angry?"
-      ]
+      "text": "..."
     },
     {
       "name": "Wonder Acute",
-      "text": "Yes! \"He was in a bad mood to begin with\"!",
-      "choice_data_list": []
+      "text": "I know! \"He was in a bad mood to begin\nwith!\""
     },
     {
       "name": "Wonder Acute",
-      "text": "Ufufu, correct answer~. Guess that means \nwe'll have to add an extra 20kg to \nNakayama-chan's barbell.",
-      "choice_data_list": []
+      "text": "Hehe. I got it correct. Now you have to\nadd\ntwenty kilograms to your barbell,\nNakayama."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Tch... Well, that's competition for ya.",
-      "choice_data_list": []
+      "text": "Tch... Well, since we made this a\ncompetition..."
     },
     {
       "name": "Wonder Acute",
-      "text": "An' for me, add 30kg to the barbell.",
-      "choice_data_list": []
+      "text": "And I'll add thirty kilograms to my own."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Huh? ...Why's Acute, the winner, carrying \nthe heavier one? Isn't this supposed to be \na punishment game?",
-      "choice_data_list": []
+      "text": "What? Why? Shouldn't only the loser\nget\npunished?"
     },
     {
       "name": "Wonder Acute",
-      "text": "Why? Because pushing yourself harder \nsharpens your focus. The heavier the load, \nthe more effective it is, you know.",
-      "choice_data_list": []
+      "text": "Well, the more weight I carry, the easier\nit is to\nconcentrate. That way I can study\nmore\neffectively."
     },
     {
       "name": "Wonder Acute",
-      "text": "\"Now then, shall we move on to the next \nquestion? Want to do full squats this \ntime?\"",
-      "choice_data_list": []
+      "text": "All right. Time for the next question.\nLet's do a\nfull squat this time."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hah... Haha, hahahahaha! Are you \nserious... that's insane!",
-      "choice_data_list": []
+      "text": "Hah! Hahaha! You're out of your mind!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "—However, that's what makes it fun! I'm \nnot folding. Let's see this through to the \nbitter end!",
-      "choice_data_list": []
+      "text": "But I'm having fun. So don't think that\nI'm about\nto fold. Let's do this!"
     },
     {
-      "name": "Narrator",
-      "text": "A fiery spirit ignites in Nakayama Festa's \neyes. —Thus, she not only prepared for the \nquiz, but also trained her Power, killing \ntwo birds with one stone!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Flames light up in Nakayama Festa's\neyes. Not\nonly does she get to prepare\nfor her quiz, but she\nalso gets to train!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Heh... Leave math to me. Lately, all my \neducated guesses have been hitting the \nmark.",
-      "choice_data_list": []
+      "text": "Heh... Leave math to me. Lately, I've\nbeen really\ngood at predicting what'll be\non the tests."
     },
     {
       "name": "Wonder Acute",
-      "text": "Well, that'd be a big help~ Please do \nteach me too.",
-      "choice_data_list": []
+      "text": "Oh, that sounds so helpful. I'd love for\nyou to tell\nme too."
     },
     {
-      "name": "Narrator",
-      "text": "Was cramming only what might be on the \ntest really a good way to study...? For \nnow, they decided to move somewhere they \ncould talk freely.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "“—The next quiz is on... quadratic \ninequalities! I'm gonna bet everything on \nthis one topic!”",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It feels like she is cutting corners,\nfocusing only\non what she expects to\nappear on the test. Either\nway, we\ndecide to go somewhere we can talk\n\nmore freely."
     },
     {
       "name": "Nakayama Festa",
-      "text": "So yeah, Acute, if there were any \nquestions highlighted during class, let me \nknow.",
-      "choice_data_list": []
+      "text": "The next quiz is gonna be on... quadratic\n\ninequalities! I'll even put money on it."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "So, Acute, were there any points\nemphasized\nduring class?"
     },
     {
       "name": "Wonder Acute",
-      "text": "Let's see... There was that problem about \nthrowing a ball upward... Ah, she also \nsaid to check quadratic functions because \nthey're related.",
-      "choice_data_list": []
+      "text": "Well... there was that problem about\nthrowing a\nball in the air... Oh, and the\nteacher said it had to\ndo with quadratic\nfunctions, so maybe let's take a\nlook at\nthose."
     },
     {
       "name": "Wonder Acute",
-      "text": "Also, regarding this velocity problem. You \nsolve this using a quadratic equation, \nright?",
-      "choice_data_list": [
-        "Speed calculations can be applied to \nracing too."
-      ]
+      "text": "Oh, and this velocity problem, you solve\nthis\nusing the quadratic equation too."
     },
     {
       "name": "Nakayama Festa",
-      "text": "I see... Guess I'll go check that out too, \nthen.",
-      "choice_data_list": []
+      "text": "Guess I should check that then, right?"
     },
     {
       "name": "Wonder Acute",
-      "text": "Also, she said there are a lot of word \nproblems with geometry, so make sure to \nreview your geometric formulas too.",
-      "choice_data_list": []
+      "text": "Also, since there are a lot of word\nproblems\ninvolving geometry, the\nteacher said to look over\ngeometric\nformulas."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...A plus shape, I see.",
-      "choice_data_list": []
+      "text": "...And geometry."
     },
     {
       "name": "Wonder Acute",
-      "text": "And also, according to the notes in my \nnotebook—",
-      "choice_data_list": []
+      "text": "Oh, and according to my notes..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "—...Hey. We ended up reviewing the entire \ntest scope, damn it!",
-      "choice_data_list": [
-        "That was a worthwhile study session!",
-        "That was a worthwhile study session, \nwasn't it!"
-      ]
+      "text": "Hold up. We basically just reviewed\neverything."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...You noticed and kept quiet, didn't you?",
-      "choice_data_list": []
+      "text": "Wait, you tricked me... didn't you?"
     },
     {
       "name": "Wonder Acute",
-      "text": "I'm sorry. When something catches my eye, \nI just can't rest easy until I check it \nout...",
-      "choice_data_list": []
+      "text": "I'm sorry. I just get so worried if I don't\ncover my\nbases."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Well, fine. Watching Acute has given me \na pretty good read on how meticulous folks \nthink.",
-      "choice_data_list": []
+      "text": "It's fine. Goin' along with you helped me\nto\nunderstand better how you\nmeticulous types\nthink."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Just means the bet got a whole lot easier \nto read.",
-      "choice_data_list": []
+      "text": "Now you're much easier to read."
     },
     {
-      "name": "Narrator",
-      "text": "Through the study session, Nakayama Festa \ngained a much deeper understanding of race \ntactics and mind games!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "During the study session, Nakayama\nFesta gains a\ndeeper understanding of\nrace tactics and\nstrategy!"
     }
   ]
 }

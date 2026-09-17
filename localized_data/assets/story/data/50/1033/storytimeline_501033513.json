@@ -2,220 +2,164 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On this day, Admire Vega and Narita Top \nRoad came to the studio together for a \nmagazine photoshoot, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Hmm, your expression is still a bit \nstiff... I'm sorry! Would it be alright if \nwe call it for today and reschedule for \nanother time?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "......Yes.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "Ayabe-san! Good work today.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "\"...I'm sorry. Even though you had your \nown photoshoot scheduled...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "No, no! I've been stiff as a board from \nnervousness the whole time too, so I \nprobably would've ended up the same \nway...!",
-      "choice_data_list": [
-        "Shall we go somewhere for a change of \npace?"
-      ]
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "\"...Ah! In that case, I know just the \nplace!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "This museum is having an \"Astrophotography \nExhibition\" right now! I was just thinking \nof letting you know about it, Ayabe-san.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "I think it's perfect for a change of pace!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "It's so beautiful. Was this taken deep in \nthe mountains...? The air looks so clear, \neven though it's just a photo—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...There's real depth to it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "That's it. It feels so vivid and real, and \njust watching it feels so cleansing for \nthe soul...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Yes. That must have been how much they \nwanted to convey it...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "The emotions these stars stirred in my \nheart... I want to share them with \nsomeone...",
-      "choice_data_list": []
-    },
-    {
-      "name": "？？？",
-      "text": "I'm flattered, but... it's a little \nembarrassing having you see right through \nme like that.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "Ah, I see! You're the one who took that \nphoto, right?!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Admire Vega and Narita Top Road are\nvisiting a\nstudio to take part in a photo\nshoot for a\nmagazine."
     },
     {
       "name": "Photographer",
-      "text": "I'm sorry for calling out to you so \nsuddenly. I just never thought I'd find \nsomeone who felt... the same way I did \nabout that scenery...",
-      "choice_data_list": []
+      "text": "Hmm, she looks a little stern... I'm sorry,\nbut\ncould we stop and pick this back up\nanother day?"
     },
     {
       "name": "Admire Vega",
-      "text": "\"...That's just how good of a photo it \nwas. It's all thanks to your talent.\"",
-      "choice_data_list": []
+      "text": "...Sure."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ayabe! Nice work."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...I'm sorry. This was supposed to be your\nphoto\nshoot, too."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "It's fine! I'm always super nervous and\ntense, I\nwould've ended up with the\nsame results!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oh! I know somewhere nice!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "This art museum is currently holding an\n\nastrophotography exhibition! I was just\nabout to\ntell you about it, Ayabe."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "I think it'd be a great way to lift your\nmood!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "It's so beautiful. Was this taken in the\nmountains?\nJust through the photo I can\ntell how clear the air\nis."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "It just keeps going on and on..."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Yeah. It's, like, so immersive. Just\nlooking at it\nfeels like it's cleansing my\nspirit!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yeah. That's probably the feeling they\nwanted to\nconvey."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "They wanted to share how the stars\nmade them\nfeel... with someone..."
+    },
+    {
+      "name": "???",
+      "text": "I'm delighted... but also a little\nembarrassed you\nwere able to read into\nit so deeply."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oh! You must be the person who took\nthe photo!"
     },
     {
       "name": "Photographer",
-      "text": "Even so, it makes me happy that my \nfeelings came through. So, allow me to \nthank you.",
-      "choice_data_list": []
+      "text": "Excuse me for butting in to your\nconversation. I\njust didn't imagine I'd be\nable to share the\nemotion from that\nmoment with someone else..."
     },
     {
       "name": "Admire Vega",
-      "text": "...Feelings...",
-      "choice_data_list": []
+      "text": "It's a really good photo. It shows your\ntrue skill."
+    },
+    {
+      "name": "Photographer",
+      "text": "Even so, I'm happy that you were able to\nfeel the\nemotion inside. Thank you."
     },
     {
       "name": "Admire Vega",
-      "text": "(I was drawn to that, wasn't I...? That's \nwhy it left such an impression—)",
-      "choice_data_list": []
+      "text": "Emotion..."
     },
     {
       "name": "Admire Vega",
-      "text": "(Ah, I see... what's important for a photo \nis...)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Later on, Admire Vega had to participate \nin another photo shoot...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Looking good! That's much better! Alright, \none more photo coming up...",
-      "choice_data_list": []
+      "text": "(So that's what drew me in... and that's\nwhy it left\nsuch an impression.)"
     },
     {
       "name": "Admire Vega",
-      "text": "...Yes.",
-      "choice_data_list": []
+      "text": "(Ah, right... That's what's important for a\nphoto...)"
+    },
+    {
+      "name": "Monologue",
+      "text": "The following day, Admire Vega tackles\nher\nphoto shoot once more."
+    },
+    {
+      "name": "Photographer",
+      "text": "Great! Much better! Let's take one more."
     },
     {
       "name": "Admire Vega",
-      "text": "(Just having my picture taken isn't \nenough... I have to put... my feelings \ninto it...)",
-      "choice_data_list": []
+      "text": "Sure."
     },
     {
       "name": "Admire Vega",
-      "text": "(In that case... what I need to pour into \nthis is—)",
-      "choice_data_list": []
+      "text": "(It's not enough to just be present... I\nhave to put\nemotion in.)"
     },
     {
       "name": "Admire Vega",
-      "text": "(To get stronger and keep running... \nthat's my only desire.)",
-      "choice_data_list": []
+      "text": "(In that case, the thing I want to convey\nis...)"
     },
     {
-      "name": "Cameraman",
-      "text": "Yes! Thank you very much! I think these \nwill turn out to be great photos!",
-      "choice_data_list": []
+      "name": "Admire Vega",
+      "text": "(My determination to keep running...\nand become\nstronger.)"
+    },
+    {
+      "name": "Photographer",
+      "text": "All right, that's a wrap! I think these\nphotos will\nturn out nicely!"
     },
     {
       "name": "Narita Top Road",
-      "text": "Ayabe-san, you were so cool!! I was \ncompletely blown away by that last part!",
-      "choice_data_list": [
-        "Indeed, it's gotten so much better."
-      ]
+      "text": "You were so cool, Ayabe! That last shot\nwas\nreally intense!"
     },
     {
       "name": "Admire Vega",
-      "text": "…………Not really.",
-      "choice_data_list": [
-        "Looks like you could handle modeling work \ntoo.",
-        "Looks like you could handle modeling work \ntoo, huh?",
-        "I can't wait to see how it turns out!",
-        "I can't wait to see how it turns out!"
-      ]
+      "text": "I wouldn't say that."
     },
     {
       "name": "Admire Vega",
-      "text": "…………Not really.",
-      "choice_data_list": [
-        "Looks like you could handle modeling work \ntoo.",
-        "Looks like you could handle modeling work \ntoo, huh?",
-        "I can't wait to see how it turns out!",
-        "I can't wait to see how it turns out!"
-      ]
+      "text": "I wouldn't say that."
     },
     {
       "name": "Admire Vega",
-      "text": "...That's a completely different story, \nisn't it?",
-      "choice_data_list": []
+      "text": "That's a different conversation."
     },
     {
       "name": "Narita Top Road",
-      "text": "\"I don't think that's true at all! You'd \nmake a wonderful model, Ayabe-san!\"",
-      "choice_data_list": [
-        "...Want to give it a try?"
-      ]
+      "text": "No! You'd totally make a great model,\nAyabe!"
     },
     {
       "name": "Admire Vega",
-      "text": "N. O. P. E.",
-      "choice_data_list": []
+      "text": "Not a chance."
     },
     {
       "name": "Narita Top Road",
-      "text": "Right! I want everyone to see it, too. \n...Should we hand them out or something?",
-      "choice_data_list": []
+      "text": "I know! I want everyone to see them.\nWhat if we\ngo hand them out?"
     },
     {
       "name": "Admire Vega",
-      "text": "You really don't have to do that...",
-      "choice_data_list": []
+      "text": "Let's not do that."
     },
     {
       "name": "Admire Vega",
-      "text": "………… I'd like to let things like that take \ntheir natural course.",
-      "choice_data_list": []
+      "text": "I prefer to let it run its natural course."
     },
     {
       "name": "Narita Top Road",
-      "text": "I see... Understood!",
-      "choice_data_list": []
+      "text": "Okay... That's fair!"
     },
     {
       "name": "Narita Top Road",
-      "text": "True, that does sound much more like you, \nAyabe-san!",
-      "choice_data_list": []
+      "text": "In fact, that way is definitely more like\nyou!"
     }
   ]
 }

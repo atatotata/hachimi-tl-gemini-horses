@@ -2,71 +2,56 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Spectator A",
-      "text": "“—That Air Shakur girl debuting today is \nsupposed to be crazy wild. Real edgy, \ndelinquent-type vibe.”",
-      "choice_data_list": []
+      "name": "Fan A",
+      "text": "One of the people debuting today, Air\nShakur, is\napparently pretty scary. They\nsay she's super\nsmart, but also <i>suuuper</i>\nanti-social."
     },
     {
-      "name": "Spectator B",
-      "text": "Huh, there's someone like that at Tracen? \nSounds pretty interesting. Let's go check \nit out.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Air Shakur",
-      "text": "……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "After finishing the final checks on the \nPC, Air Shakur suddenly closed his eyes.",
-      "choice_data_list": []
+      "name": "Fan B",
+      "text": "Really? I had no idea there was someone\nlike that\nat Tracen Academy. But she\ndoes sound\ninteresting. I'm gonna look\nout for her."
     },
     {
       "name": "Air Shakur",
-      "text": "Just tune 'em out.",
-      "choice_data_list": []
+      "text": "..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Air Shakur finishes some final checks on\nher PC\nand then abruptly closes her\neyes."
     },
     {
       "name": "Air Shakur",
-      "text": "There's constant noise all around me. If I \ncared about every little thing, it'd never \nend.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Is she \"shutting everything out\" like she \nsaid to sharpen her focus? It's probably \nbest not to talk to her.",
-      "choice_data_list": []
+      "text": "Just shut them out."
     },
     {
       "name": "Air Shakur",
-      "text": "...Ngh.",
-      "choice_data_list": []
+      "text": "Everywhere I go, I'm surrounded by\nextraneous\nnoise. If you let every little\nthing distract you,\nthere'll be no end to\nit."
+    },
+    {
+      "name": "Monologue",
+      "text": "I think she's blocking out the noise\naround her so\nshe can sharpen her focus.\nI should avoid talking\nto her right now."
     },
     {
       "name": "Air Shakur",
-      "text": "……。",
-      "choice_data_list": [
-        "(You can do it, Shakaal!)"
-      ]
+      "text": "...Hm."
     },
     {
       "name": "Air Shakur",
-      "text": "(Parcae indicated that regardless of the \ndebut race's outcome, I would still be on \ntrack for the Double Crown.)",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Air Shakur",
-      "text": "(Win or lose, it's all the same. In that \ncase, works out fine for me.)",
-      "choice_data_list": []
+      "text": "(Parcae predicts that no matter how I do\nin my\ndebut race, I'll be on track for two\ncrowns.)"
     },
     {
       "name": "Air Shakur",
-      "text": "(Is there a gap between simulation and \npractice, or is \"Parcae\" truly flawless \nafter all?)",
-      "choice_data_list": []
+      "text": "(It's the same whether I win or lose.\nPerfect.)"
     },
     {
       "name": "Air Shakur",
-      "text": "Commencing verification.",
-      "choice_data_list": []
+      "text": "(This is a chance to check Parcae's\naccuracy. Are\ntheir predictions wrong?\nOr undeniable?)"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Initialize data verification."
     }
   ]
 }

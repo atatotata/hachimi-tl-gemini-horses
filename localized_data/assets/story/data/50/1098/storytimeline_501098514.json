@@ -2,248 +2,180 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One night, when I visited the school \nbuilding to pick up something I'd \nforgotten— Several shadows suddenly \nappeared and pinned me down...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One night, I head back to the academy\nto pick up\nsomething I forgot... only to\nbe suddenly pinned\ndown by multiple\nshadowy figures!"
     },
     {
-      "name": "Cheerful Voice",
-      "text": "Phew, I caught you, Mr. Ghost!! Ah, but \nfor pity's sake, please don't haunt me, \nokay...!?",
-      "choice_data_list": []
+      "name": "Energetic Voice",
+      "text": "Phew! We got you, ghost! Oh, but\n<i>please</i> don't\ncurse me, okay?!"
     },
     {
-      "name": "Refined Voice",
-      "text": "\"You've been crying at the academy night \nafter night, so something really sad must \nhave happened, right? Please don't hold \nback, tell me everything and pass on \npeacefully!\"",
-      "choice_data_list": [
-        "Wait, who are you?! What do you mean, \nghost?!"
-      ]
+      "name": "Elegant Voice",
+      "text": "The way you're crying at the academy\nevery\nnight, you must be very sad, right?\nTell us\neverything so you can rest in\npeace!"
     },
     {
       "name": "Familiar Voice",
-      "text": "Wait, wait, waaaait! That person might be \nsomeone I know?! Wait, actually... you're \na Trainer, right?!",
-      "choice_data_list": []
+      "text": "Wait a second! I think I know this\nperson! Could it\nbe... Trainer?!"
     },
     {
       "name": "Copano Rickey",
-      "text": "I knew it was you, Trainer! Sorry for \nstartling you!",
-      "choice_data_list": []
+      "text": "It is you! Sorry for jumping on you like\nthat!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Sorry! We were chasing a ghost, and we \njust saw a shadow that looked like one, so \nwe thought for sure...",
-      "choice_data_list": []
+      "text": "Sorry! We were ghost hunting, and we\nsaw a\nfigure that was a bit ghostly, so we\njust went for\nit..."
     },
     {
       "name": "Satono Diamond",
-      "text": "\"Rumor has it that lately, if you visit \nour classroom at night, you can hear a \nghost sobbing.\"",
-      "choice_data_list": []
+      "text": "There's a rumor going around recently\nthat if you\ngo to our classroom at night,\nyou can hear a\nghost sobbing."
     },
     {
       "name": "Satono Diamond",
-      "text": "Quite a few kids are scared... So \nKita-chan and I came to ask the ghost to \nplease pass on peacefully.",
-      "choice_data_list": [
-        "I see... So, Rickey, why are you here?"
-      ]
+      "text": "A lot of people are scared... so Kita and\nI came to\nask the ghost to move on to\nthe afterlife."
     },
     {
       "name": "Copano Rickey",
-      "text": "Same for me! I wanted to resolve \neveryone's worries and make them happy☆ \nAnd I wanted to be of help to my cute \nunderclassman, too!",
-      "choice_data_list": []
+      "text": "I'm here for the same reason! I want to\nease\neveryone's anxiety and make them\nhappy. ☆ Plus,\nI wanted to do what I\ncould to help out my\nadorable\nunderclassmen."
     },
     {
       "name": "Copano Rickey",
-      "text": "Well, the cause isn't necessarily a ghost, \nbut...",
-      "choice_data_list": []
+      "text": "I guess we can't say for sure that a ghost\nis behind\nthis, though..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Ah! If you don't mind, would you like to \ncome along too, Trainer?",
-      "choice_data_list": []
+      "text": "Oh! Would you mind helping us,\nTrainer?"
     },
     {
       "name": "Copano Rickey",
-      "text": "With the Trainer who has \"natural \naffinity\" on our side, we should be able \nto resolve this whole commotion perfectly!",
-      "choice_data_list": [
-        "Would it be alright if I go grab what I \nforgot first?"
-      ]
+      "text": "Given our affinity, we should be able to\nsort out\nthis whole situation!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Of course! Since we're here, let's go get \nit together!",
-      "choice_data_list": []
+      "text": "Sure you can! Let's all get it together!"
     },
     {
-      "name": "Narrator",
-      "text": "And—after safely retrieving the lost item, \nwe arrived at Kitasan Black and the \nothers' classroom, where a sobbing ghost \nwas said to appear.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After picking up what I came for, the\nfour of us\nhead back to the classroom to\nlisten for the\nsobbing ghost."
     },
     {
       "name": "Satono Diamond",
-      "text": "It seems... we can't hear the ghost crying \njust yet.",
-      "choice_data_list": []
+      "text": "Well... I'm not hearing any ghostly crying\nyet."
     },
     {
       "name": "Kitasan Black",
-      "text": "I-I hope it's not an evil spirit...",
-      "choice_data_list": []
+      "text": "I hope it's not a m-mean ghost..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Hmm, about that... Who's to say the source \nof the voice is necessarily a ghost?",
-      "choice_data_list": [
-        "What's the meaning of this?",
-        "What do you mean?"
-      ]
+      "text": "Hmm... Y'know, it might not be a ghost\nthat's\nsobbing."
     },
     {
       "name": "Copano Rickey",
-      "text": "I'm thinking it might be caused by the \nflow of qi in the classroom. From a feng \nshui perspective, that seems much more \nlikely than a ghost.",
-      "choice_data_list": []
+      "text": "It could be the flow of qi in the\nclassroom. From a\nfeng shui perspective,\nthat's more likely than a\nghost to be the\ncause."
     },
     {
       "name": "Copano Rickey",
-      "text": "Bad qi accumulates inside the classroom, \ncausing fatigue to build up in everyone \nwho visits---",
-      "choice_data_list": []
+      "text": "Bad qi builds up and fills the classroom,\nand then\nall the people who spend time\nin there get\ngradually exhausted..."
     },
     {
       "name": "Copano Rickey",
-      "text": "When fatigue builds up, it can make you \nlook at things in a negative light, and \nsometimes you might even start hearing \nthings.",
-      "choice_data_list": []
+      "text": "And once you're exhausted, you start\nhaving\nnegative thoughts. And\nsometimes, you hear\nthings that aren't\nreally there."
     },
     {
       "name": "Copano Rickey",
-      "text": "So, if we clean the classroom according to \nfeng shui to create a clean space where \ngood qi can flow, that might solve the \nproblem☆",
-      "choice_data_list": []
+      "text": "So, if we go with the feng shui solution\nand clean\nthe classroom to let some\nfresh new qi flow in,\nthat might do the\ntrick! ☆"
     },
     {
       "name": "Copano Rickey",
-      "text": "Of course, a ghost could be the cause, so \nI think going ghost hunting like Kita-chan \nand Dia-chan said is an option, but—",
-      "choice_data_list": []
+      "text": "Of course, there's still a chance that it <i>is</i>\na ghost,\nso a ghost hunt would be a\ngood idea too—"
     },
     {
       "name": "Kitasan Black",
-      "text": "No, let's start with cleaning first!",
-      "choice_data_list": []
+      "text": "Your idea's better! Let's clean the\nclassroom first!"
     },
     {
       "name": "Kitasan Black",
-      "text": "The classroom gets cleaned up so it's two \nbirds with one stone, and i-it'd be a huge \nrelief for me too if a ghost wasn't behind \nit...!",
-      "choice_data_list": []
+      "text": "Cleaning the classroom would be like\ngetting two\nbirds with one stone! And I'd\nprefer it if a g-ghost\nwasn't involved\nanyway!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Phew. I cleared away the clutter stacked \nin the corner and moved the potted plant \nto the northeast! Next is—",
-      "choice_data_list": []
+      "text": "Phew. I organized all the stuff that's\nlined up by\nthe walls, and I moved the\nplants to the northeast\ntoo! Next..."
     },
     {
-      "name": "Narrator",
-      "text": "(...E... Eeee...)",
-      "choice_data_list": [
-        "Could this voice be... a ghost?"
-      ]
+      "name": "Monologue",
+      "text": "<i>Eep... Eeep...</i>"
     },
     {
       "name": "Kitasan Black",
-      "text": "No! That sound probably isn't a ghost! \nIt's just a poorly fitted door or window— \nAh! That window...!",
-      "choice_data_list": []
+      "text": "I don't think so! It sounds more like a\nloose door\nor window... Oh! It's that\nwindow over there!"
     },
     {
       "name": "Copano Rickey",
-      "text": "I see... It's come a bit loose. Because \nthe window was hidden behind all those \nstacked boxes, I didn't notice the issue \nwith it.",
-      "choice_data_list": []
+      "text": "Oh yeah... This window's not fitted\nproperly\nanymore. There was a bunch of\nstuff in front of it,\nso I didn't even\nnotice."
     },
     {
       "name": "Copano Rickey",
-      "text": "It's precisely because we all got the \nplace ready together that we could see the \ncause!",
-      "choice_data_list": [
-        "Feng shui really came in handy, huh!",
-        "Feng shui really came in handy, didn't it!",
-        "Well done!",
-        "Great job!"
-      ]
+      "text": "We organized the environment and\nfound the\nproblem!"
     },
     {
       "name": "Copano Rickey",
-      "text": "It's precisely because we all got the \nplace ready together that we could see the \ncause!",
-      "choice_data_list": [
-        "Feng shui really came in handy, huh!",
-        "Feng shui really came in handy, didn't it!",
-        "Well done!",
-        "Great job!"
-      ]
+      "text": "We organized the environment and\nfound the\nproblem!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Yeah! Rickey☆ Lucky☆ Case closed!!",
-      "choice_data_list": [
-        "I hope everyone learns just how useful \nfeng shui is.",
-        "I hope everyone learns just how useful \nfeng shui is."
-      ]
+      "text": "Yeah! Rickey! ☆ Lucky! ☆ Problem\nsolved!"
     },
     {
       "name": "Copano Rickey",
-      "text": "That's true... But as long as everyone \nended up happy first, that's good enough \nfor me!",
-      "choice_data_list": []
+      "text": "Yeah, that would be nice... But for now, I\njust\nwant everyone to be happy!"
     },
     {
       "name": "Copano Rickey",
-      "text": "\"Delivering happiness to everyone through \nfeng shui is what I want to do, after \nall!\"",
-      "choice_data_list": []
+      "text": "My goal is to bring happiness to\neveryone\nthrough feng shui!"
     },
     {
       "name": "Kitasan Black",
-      "text": "That's a wonderful attitude! I'll be sure \nto tell everyone in my class about today! \nAbout how amazing feng shui is!",
-      "choice_data_list": []
+      "text": "That's a wonderful aspiration! I'm going\nto tell\neveryone in my class what\nhappened today! I'll\ntell them just how\namazing feng shui is!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Jinxes that bring sorrow should be broken, \nbut... feng shui that invites happiness is \nsimply wonderful, I think!",
-      "choice_data_list": []
+      "text": "Jinxes that bring about sadness should\nbe\nbroken... but tricks that bring about\nhappiness\nare fantastic!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Really!? Kita-chan, Dia-chan, thank you \nboth so much!!",
-      "choice_data_list": []
+      "text": "Really?! Kita, Dia, thank you both so\nmuch!"
     },
     {
-      "name": "Narrator",
-      "text": "Seeing Copano Rickey rejoice at having her \nfeng shui understood brought a warm \nfeeling to my heart.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Seeing Copano Rickey's delight at her\nfriends'\nacceptance of feng shui warms\nmy heart."
     },
     {
       "name": "Copano Rickey",
-      "text": "Ahem♪ At this rate, I'm gonna make the \nacademy happier and happier!",
-      "choice_data_list": []
+      "text": "Hehe. ♪ I'm going to keep at it until the\nwhole\nacademy's happy!"
     },
     {
       "name": "Kitasan Black",
-      "text": "I agree! I want to resolve the problems of \nanyone in need with a grand flourish!",
-      "choice_data_list": []
+      "text": "Me too! I want to help all the people\nwho are in\ntrouble, one after\nanother—bam, bam, <i>bam!</i>"
     },
     {
       "name": "Satono Diamond",
-      "text": "\"Me too! I'd like to be of help to \neveryone, and today's activities... were \nso much fun.\"",
-      "choice_data_list": []
+      "text": "Agreed! I want to do what I can to help\neveryone,\nand what we did today...\nWell, it was really, really\nfun."
     },
     {
       "name": "Kitasan Black",
-      "text": "All right! Then the Tracen Academy Rescue \nSquad is officially formed!",
-      "choice_data_list": []
+      "text": "All right! That settles it! We're the\nTracen\nAcademy Rescue Squad, comin'\nin clutch!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Ooh, the Tracen Academy Helper Squad!! I \nlike the sound of that!",
-      "choice_data_list": []
+      "text": "Oooh! The Tracen Academy Rescue\nSquad! I like\nit!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Let's blow away the unhappiness and make \nthis a happy academy for everyone!!",
-      "choice_data_list": []
+      "text": "We'll chase away negative energy and\nmake\nTracen Academy happy together!"
     },
     {
-      "name": "Narrator",
-      "text": "Watching the three of them frolic around \nwarmed my heart.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Seeing the three of them so excited\nbrings a smile\nto my face."
     }
   ]
 }

@@ -2,232 +2,180 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, on the way back from an outing \nwith Bamboo Memory...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, on the way home after a day\nout with\nBamboo Memory..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Mm? Isn't that person over there from \nOguri-senpai's class—",
-      "choice_data_list": []
+      "text": "Hm? Isn't that someone from Oguri's\nclass over\nthere?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I knew it! Senpai! Those back alleys are \nfull of shady characters, it's dangerous \ndown there!",
-      "choice_data_list": []
+      "text": "It is!\nHey! A rough crowd hangs out in\nthat alley! It's\nnot safe back there!"
     },
     {
-      "name": "Narrator",
-      "text": "The Umamusume who called out to her seemed \nto be an acquaintance. Her hair was \ndisheveled, her uniform all rumpled, and \nshe looked thoroughly pathetic...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Or rather, Senpai, you're all beat up!! \nDid you get jumped by some shady thugs and \ndragged into a back alley or something!?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Worn-out? Umamusume",
-      "text": "N-No, that's not it! I went to the back \nalley on my own—wait, tattered?!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Bamboo Memory seems to be familiar\nwith the\nolder student, whose hair and\nuniform are a mess.\nThere's an air of grim\ndetermination about her."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Because looking like that, you look like \nyou just got caught up in some crazy \nincident!",
-      "choice_data_list": []
+      "text": "You look like a mess! Did you get into a\nfight\nback there?"
     },
     {
-      "name": "Worn-out? Umamusume",
-      "text": "N-No way!? This is... This is just a \nmakeover, I sweaaaarrr!!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "“—I see. You changed your hair and outfit \nbecause you wanted to change yourself, \nhuh?”",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "Yeah... I got so sick of my plain, boring \nself. So I decided to become the complete \nopposite—a flashy, bad-girl Umamusume.",
-      "choice_data_list": []
+      "name": "Disheveled Student",
+      "text": "N-no! I was just—wait. What do you\nmean I look\nlike a mess?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "No, that wasn't proper at all, you know!? \nIn the first place, being sloppy is no \ngood! It even violates public morals, you \nknow!",
-      "choice_data_list": [
-        "Why do you want to change so badly?",
-        "Why do you want to change so badly?"
-      ]
+      "text": "I mean... you look like you've been in an\naccident\nor something!"
     },
     {
-      "name": "Plain Umamusume",
-      "text": "Ugh... I wanted to become an amazing \nUmamusume too... just like the shining \nstars in our class...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "Everyone has such a strong presence, \nthey're in high demand for events, and \nthey shine just like idols...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "She has so many fans, including lots of \ndie-hard supporters who traveled all the \nway from her hometown――",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "But I barely have any fans, and no matter \nhow much time passes, I'm stuck as a side \ncharacter...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "It's because I'm so plain and \nunremarkable...! If I don't give myself a \ntotal makeover and change completely, I'll \nnever get to be the star of the show, will \nI...?!",
-      "choice_data_list": [
-        "...You don't need to put yourself down \nthat much."
-      ]
+      "name": "Disheveled Student",
+      "text": "Wh-what?! I'm just trying out a new look!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "That's right! Plus, I think Oguri-senpai \nand the others' popularity isn't about \nlooks, but because everyone's captivated \nby their running!",
-      "choice_data_list": []
+      "text": "Oh... I see. So you changed your hair and\nclothes\nto reinvent yourself?"
     },
     {
-      "name": "Plain Umamusume",
-      "text": "I-I trained desperately too, you know! No \nmatter how hard I try, I can't run like \nyou! A plain girl like me just doesn't \nhave any talent!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Still... Senpai, you probably already know \ndeep down, right? That a makeover alone \nwon't make you shine.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "...",
-      "choice_data_list": []
+      "name": "Plain Student",
+      "text": "Yeah... I was tired of being so ordinary. I\nwanted\nto be the opposite of my usual\nself—tough and\nflashy."
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"...I'm chasing after Oguri-senpai myself, \nso I totally get how dazzling the seniors \nlook!\"",
-      "choice_data_list": []
+      "text": "Well, it's not working at all! You know\nit's not\ngood to look disheveled, right?!\nIt's also against\nthe academy rules!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "Um... I... I want to be an amazing\nUmamusume,\njust like the stars in my\nclass..."
+    },
+    {
+      "name": "Plain Student",
+      "text": "They're all so charismatic, and everyone\nwants\nthem at events. Each of them\nshines like sparkling\nidols..."
+    },
+    {
+      "name": "Plain Student",
+      "text": "Plus, they've got all these passionate\nfans who\ncome from all over to see them."
+    },
+    {
+      "name": "Plain Student",
+      "text": "Meanwhile, I don't have many fans at all.\nAt this\nrate, I'll always just be an\nafterthought..."
+    },
+    {
+      "name": "Plain Student",
+      "text": "I'm plain and boring... Unless I\ncompletely change\nmyself, I'll never be\nin the spotlight!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Still! That's exactly why you can't give \nup on running! You came to Tracen because \nyou wanted to run too, right, Senpai?!",
-      "choice_data_list": []
+      "text": "That's right! Plus, I don't think it's\nOguri's looks\nthat draw everyone to her.\nIt's how she runs!"
     },
     {
-      "name": "Plain Umamusume",
-      "text": "“...That might be true, but...”",
-      "choice_data_list": []
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "I know you can shine even brighter, \nSenpai! Let's discover all the amazing \nthings about you together...!",
-      "choice_data_list": []
+      "name": "Plain Student",
+      "text": "I train really hard too! But it doesn't\nmatter how\nhard I train, I can't run as\nwell as everyone else!\nI'm plain and\ntalentless!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "“—And with that, let's spark up some \npassionate training!! Pure endurance! Park \nrunning, let's go!!”",
-      "choice_data_list": []
+      "text": "But... I'm sure you understand that just\nchanging\nyour look isn't going to make\nyou stand out."
+    },
+    {
+      "name": "Plain Student",
+      "text": "..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"...Haa, haa... Senpai, your form hasn't \nbroken down at all! It's as \ntextbook-perfect as it gets!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "R-Really...? Isn't it too plain and \nunremarkable...?",
-      "choice_data_list": []
+      "text": "I've been chasing after Oguri too, so I\nunderstand\nwhat it's like to look up to\nsomeone."
     },
     {
       "name": "Bamboo Memory",
-      "text": "That's a refined run built on mastering \nthe absolute basics! It's definitely not \nsomething anyone can just pull off!",
-      "choice_data_list": []
+      "text": "But! That's exactly why you can't give up\non\nrunning. You came to Tracen because\nyou want to\nrun, right?"
+    },
+    {
+      "name": "Plain Student",
+      "text": "...I mean, yeah, but..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"...Haa, haah... That's the end of it! \nThough Senpai, your pace didn't break down \nat all. Do you still have more in the \ntank?\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "\"...Haa, haa... Yeah, I'm okay. Taking it \nslow and steady like this is what I'm used \nto, after all...\"",
-      "choice_data_list": []
+      "text": "I think you can shine even brighter! Let's\nwork\ntogether and figure out what\nmakes you amazing!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Your stamina is off the charts! Keeping up \nwith this fiery training is seriously \nimpressive! How is that plain at all?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Middle-Aged Woman A",
-      "text": "Man, that was some amazing running, young \nladies! Working so hard lap after lap, \nyou're so admirable~. If you ever enter a \nrace, I'll go cheer for ya!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "Ah, um... Thank you very much...",
-      "choice_data_list": []
+      "text": "By which I mean, let's do some crazy\nred-hot\ntraining! Let's run in the park for\nas long as our\nlegs can carry us!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Come on! You should have way more \nconfidence in yourself, Senpai! Right, \nTrainer-san?",
-      "choice_data_list": [
-        "Just as Bamboo says",
-        "Let's keep working hard and shine even \nbrighter."
-      ]
+      "text": "<i>Huff, huff...</i> You've maintained your form\nthis\nwhole time! It's textbook—dare I say\nbeautiful!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "Y-you think so? It's not too plain or\nordinary?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"Right? Even Trainer, who's seen plenty of \nstrong and sparkling Umamusume, says so!\"",
-      "choice_data_list": []
+      "text": "Your running is proof of your mastery\nover the\nfundamentals! That's no easy\nfeat!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"The two of us will personally guarantee \nthat your radiance won't go unnoticed, \nSenpai!!\"",
-      "choice_data_list": []
+      "text": "<i>Pant, pant...</i> Let's stop here! Although,\nyou\nhaven't slowed down at all. Do you\nthink you can\nkeep going?"
     },
     {
-      "name": "Plain Umamusume",
-      "text": "Fufufu! That's... very reassuring!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "...Thanks to you, my eyes have been \nopened. I was so happy that Bamboo-chan \ntrained with me and pointed out my strong \npoints...",
-      "choice_data_list": []
+      "name": "Plain Student",
+      "text": "<i>Huff, huff...</i> Yes, I'm fine. I'm used to just\nputting\nmy head down and working\nthrough things like\nthis..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Right, right! Even Oguri-senpai and the \nothers weren't popular right from the very \nstart!",
-      "choice_data_list": []
+      "text": "That's some endurance! You've gotta be\npretty\ngreat to keep up with red-hot\ntraining like that!\nWhat's so plain about\nthat?!"
+    },
+    {
+      "name": "Woman A",
+      "text": "What an incredible run, you two! The\nway you\nkept going lap after lap like\nthat! You're both\namazing! If you two\nenter a race, I'll be there\ncheering for\nyou!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "Oh, um... Thank you..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "\"You've got your own pace, Senpai! If more \npeople keep supporting you like this, \nyou'll definitely become your ideal self \none day!!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "“I see... Yeah, that's right! I'll keep \nsteady at my own pace...!”",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "...Thanks to you, my eyes have been \nopened. I was so happy that Bamboo-chan \ntrained with me and pointed out my strong \npoints...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Plain Umamusume",
-      "text": "I'll keep doing my best in training! So \nthat one day I can take center stage and \nshine... I'm going to polish my very own \nsparkle!",
-      "choice_data_list": []
+      "text": "See?! You should have more confidence\nin\nyourself! Right, Trainer?!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I think that's great!! I'm rooting for \nyou, Senpai!!",
-      "choice_data_list": []
+      "text": "See? Trainer has seen plenty of strong\nand\nimpressive Umamusume, so you\nknow it's true!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "We'll make sure that you shine nice and\nbright!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "Hahaha! That's really reassuring!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "...I feel a lot better now. Thanks\nBamboo, for not\nonly training with me,\nbut also reminding me of\nwhat really\nmatters."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "That's right! It's not like Oguri and the\nothers\nstarted out popular!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Everyone goes at their own pace! If you\nkeep\ngetting supporters like that lady\njust now, one\nday, you'll become the\nperson you want to be!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "Yeah... You know what? You're right! I'm\ngoing to\nkeep plugging away at my own\npace!"
+    },
+    {
+      "name": "Plain Student",
+      "text": "...I feel a lot better now. Thanks\nBamboo, for not\nonly training with me,\nbut also reminding me of\nwhat really\nmatters."
+    },
+    {
+      "name": "Plain Student",
+      "text": "I'm gonna continue my training! And I'll\nkeep on\nrefining my talents, so that one\nday I can shine\nlike a star too!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "That's a great idea! I'll be cheering for\nyou!"
     }
   ]
 }

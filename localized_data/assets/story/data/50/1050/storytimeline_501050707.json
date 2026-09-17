@@ -2,183 +2,140 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I came to the shrine for the sake of \nNarita Taishin, who wasn't feeling well.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Taishin isn't feeling very\nmotivated, so I\ntake her to a shrine."
     },
     {
-      "name": "Narrator",
-      "text": "After offering our prayers and drawing \nfortune slips—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "I wondered where you were taking me out of \nthe blue... To think you'd resort to \npraying to the gods.",
-      "choice_data_list": [
-        "I just hoped you would feel even a little \nbetter."
-      ]
+      "name": "Monologue",
+      "text": "We pray and draw our fortunes."
     },
     {
       "name": "Narita Taishin",
-      "text": "Haaah. If wishes came true through stuff \nlike this, no one would ever have to work \nhar—",
-      "choice_data_list": []
+      "text": "I was wondering where you were taking\nme, but a\nshrine? Really?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Sigh...</i> If wishes really came true so\neasily, there\nwould be literally no more\nsuffering in the—"
     },
     {
       "name": "Winning Ticket",
-      "text": "Huh? It's Taishin! Heeeeeeeeey!!",
-      "choice_data_list": []
+      "text": "Hang on... Taishin?! Is that you? Heeeey!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, did you guys come to visit the shrine \ntoo, Taishin?",
-      "choice_data_list": []
+      "text": "Oh, you two came to pray too?"
     },
     {
       "name": "Narita Taishin",
-      "text": "We're just about to head home, though. \nWe've already done our prayers and drawn \nour fortunes.",
-      "choice_data_list": []
+      "text": "We're about to leave. We already\nprayed and got\nour fortunes and\neverything."
     },
     {
       "name": "Winning Ticket",
-      "text": "Eeehh?! Then one more time! This time, \nplay with us! Come on! Please?!",
-      "choice_data_list": []
+      "text": "Whaaat?! Don't go yet! Do it again so\nwe can\nmake a wish together! Please?\nPleeease?"
     },
     {
       "name": "Winning Ticket",
-      "text": "\"Twice is better than once! Three times is \nbetter than twice!! The more you pray, the \nmore likely your wish will come true!!\"",
-      "choice_data_list": [
-        "I-I see...?"
-      ]
+      "text": "Praying twice is better than once, and\ndoing it\nthree times is even better! The\nmore you pray, the\nmore likely your\nwish'll come true!"
     },
     {
-      "name": "Narrator",
-      "text": "Overwhelmed by Winning Ticket's sheer \nenthusiasm, I ended up offering a prayer \none more time.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "At Winning Ticket's insistence, we get\nback in line\nto pray."
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh Gods and Buddhas~! Please, make my wish \ncome truuuueee!!",
-      "choice_data_list": []
+      "text": "Oh, gods—and the Buddha too! Grant\nmy wiiiish!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "There are no Buddhas at a Shinto shrine, \nTicket.",
-      "choice_data_list": []
+      "text": "This is a Shinto shrine, Ticket. The\nBuddha isn't\nhere."
     },
     {
       "name": "Narita Taishin",
-      "text": "...I couldn't care less.",
-      "choice_data_list": []
+      "text": "...Why the heck am I even doing this?"
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey, hey, how did everyone's fortunes turn \nout? I got moderate blessing!",
-      "choice_data_list": []
+      "text": "Hey, what fortunes did everyone get? I\ngot \"good\nfortune\"!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Good Fortune.\" Not bad at all. How about \nyours, Taishin?",
-      "choice_data_list": []
+      "text": "I got \"modest fortune.\" Not bad. What\nabout you,\nTaishin?"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Great Blessing.",
-      "choice_data_list": [
-        "Incredible, Taishin!",
-        "That's amazing, Taishin!"
-      ]
+      "text": "...I got \"great fortune.\""
     },
     {
       "name": "Narita Taishin",
-      "text": "It's nothing special; getting \"Great \nBlessing\" isn't exactly rare, is it?",
-      "choice_data_list": []
+      "text": "It's not like it's super rare or anything."
     },
     {
       "name": "Winning Ticket",
-      "text": "That's not true! I got Excellent Luck, \nafter all?!",
-      "choice_data_list": []
+      "text": "That's not true! Not everyone has great\nluck, after\nall!"
     },
     {
       "name": "Winning Ticket",
-      "text": "If we combine my moderate blessing with \nHayahide's blessing, our wishes are \nguaranteed to come true!",
-      "choice_data_list": []
+      "text": "If you combine it with my good luck and\n\nHayahide's modest luck, your wish will\ndefinitely\ncome true!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Taishin will be right back in top shape in \nno time flat!!",
-      "choice_data_list": []
+      "text": "I'm sure you'll feel totally better in no\ntime!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh?",
-      "choice_data_list": []
+      "text": "Huh?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"......Ah, actually, well. I came to pray \ntoday that you'd start feeling better.\"",
-      "choice_data_list": []
+      "text": "Ah, I suppose we should tell you. We\nactually\ncame here to pray for your good\nhealth."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Because when it comes to rivals, I want us \nto compete in top condition.",
-      "choice_data_list": []
+      "text": "We want to race you when you're in top\nfighting\nshape after all."
     },
     {
       "name": "Narita Taishin",
-      "text": "Wh-what's with that...",
-      "choice_data_list": []
+      "text": "Did you two really..."
     },
     {
       "name": "Narita Taishin",
-      "text": "Nobody asked you to do that... ...Dummy!",
-      "choice_data_list": []
+      "text": "Ugh, who asked you to do that?! You\nboneheads!"
     },
     {
-      "name": "Narrator",
-      "text": "Afterward, as if the prayers of Narita \nTaishin and those around her were \nanswered, the slump that had troubled her \nwas resolved.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Afterward, it seems like their wishes\ncome true\nwith Narita Taishin making a\nfull recovery."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Great Curse.",
-      "choice_data_list": [
-        "L-Let's pull one more time!"
-      ]
+      "text": "...I got \"great misfortune.\""
     },
     {
       "name": "Winning Ticket",
-      "text": "Totally agreed! After the worst luck comes \nthe best luck, for sure!",
-      "choice_data_list": []
+      "text": "Yeah, yeah! They say you always get a\n\"great\nfortune\" after drawing that one!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...However, it looks like the fortune \nslips are already sold out.\"",
-      "choice_data_list": []
+      "text": "However... it appears that they've run\nout of\nfortunes."
     },
     {
       "name": "Winning Ticket",
-      "text": "Eeeehk!? But Taishin, you'll still be \nstuck with Great Curse!?",
-      "choice_data_list": []
+      "text": "Whaaat?! Does that mean Taishin's stuck\nwith the\nworst possible luck?!"
     },
     {
       "name": "Narita Taishin",
-      "text": "No, I don't really mind, so...",
-      "choice_data_list": []
+      "text": "I don't really care, actually..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Of course I'm gonna worryyyyyy~!! Daijin \nlooks so pitifullllll!!!!!",
-      "choice_data_list": []
+      "text": "But you <i>should</i> care! Oh, poor Taishiiin!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ugh, so loud!! Stop crying already!",
-      "choice_data_list": []
+      "text": "Geez... Shut up already! And stop crying!"
     },
     {
-      "name": "Narrator",
-      "text": "Narita Taishin managed to calm Winning \nTicket down afterward, but in the end, her \nown slump remained unresolved.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Though she's able to calm Winning\nTicket\nafterward, Narita Taishin's\ncondition\nunfortunately doesn't improve."
     }
   ]
 }

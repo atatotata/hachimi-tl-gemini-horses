@@ -2,139 +2,116 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "On this day, rookie and veteran trainers \ngathered for a meeting to present their \ntraining results. It was a highly \neducational session, but—"
+      "name": "Monologue",
+      "text": "Today, new trainers and veterans alike\nhave\ngathered to listen to each other's\nperformance\nreports. I've learned quite a\nlot from the event,\nbut..."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "At the next Trainer Regular Report \nMeeting, it will finally be <username> Trainer's \nturn to present...! I am really looking \nforward to the big day!",
-      "choice_data_list": [
-        "(I have to make it a total success!)"
-      ]
+      "text": "Looks like you'll be sharing your\nprogress in the\nnext meeting! I'm excited\nto see how you've been\ndoing!"
     },
     {
-      "text": "And so, fired up for the presentation, I \nset to work, but—"
+      "name": "Monologue",
+      "text": "I do my best to put together an\ninsightful\npresentation..."
     },
     {
-      "text": "A few days later... Although I was \npreparing for the presentation, I couldn't \ncome up with insightful training theories \nlike the veterans did.",
-      "choice_data_list": [
-        "(What should I do...?)"
-      ]
+      "name": "Monologue",
+      "text": "I spend the next few days preparing, but\nthe\ninformation I've gathered seems\nnowhere near as\nuseful as what the\nveteran trainers presented."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Um! Are you alright? Excuse me, but you \nlooked like you had something heavy on \nyour mind...!"
+      "text": "Hey! Are you doing all right? You look\nsuper\nworried about something..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I see...! You're anxious about whether \nyour presentation will go well."
+      "text": "I see. So you're worried about not doing\nwell in\nyour presentation..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "In that case! I have a recommended method \nthat'll blow those worries right away! And \nthat is—",
-      "choice_data_list": [
-        "(Could it be...?)"
-      ]
+      "text": "In that case, I've got just the thing that'll\nchase all\nyour worries away!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Muscle training!",
-      "choice_data_list": [
-        "(I knew it!!)"
-      ]
+      "text": "All you gotta do is get started on some\n\nstrength training!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Let's start off with some dumbbell lifts \nfor now! Alright, try holding this 20kg \none!"
+      "text": "Let's start you off with some dumbbell\nlifts! Here,\ntry this twenty-kilogram one!"
     },
     {
-      "text": "I wasn't sure muscle training had anything \nto do with it, but she was genuinely \ntrying to help in her own way. I want to \nrespond to her kindness with everything \nI've got...!"
+      "name": "Monologue",
+      "text": "I don't see how strength training will\nhelp my\npresentation, but since she\nseems pretty\nconcerned about me, I\ndecide to give it a try."
     },
     {
-      "text": "Fired up with resolve, I attempted to lift \nit, but...",
-      "choice_data_list": [
-        "So heavy!!"
-      ]
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "I'm so sorry! Looks like that was way too \nheavy.",
-      "choice_data_list": [
-        "Looks like I can't do it...",
-        "Looks like it's no good..."
-      ]
+      "name": "Monologue",
+      "text": "I get ready to lift the dumbbell, but..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Don't worry! From what I can see, Trainer, \nyour deltoids still have tons of room for \ngrowth!"
+      "text": "Really?! Sorry, I should've picked a\nlighter weight\nto start with."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Let's swap to 5kg and try once more! \nBelieve in your deltoids!"
-    },
-    {
-      "text": "Encouraged by her words, I spent that \nwhole day diligent on 5kg dumbbell \ntraining..."
+      "text": "It's okay! From what I can tell, your\ndeltoids still\nhave massive room for\ngrowth!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Today, let's try 10kg! Listen, can't you \nhear your biceps saying they've got this?",
-      "choice_data_list": [
-        "I might... kind of feel it?"
-      ]
+      "text": "Let's try again, but with five kilograms\nthis time!\nTrust in your delts!"
     },
     {
-      "text": "Keeping up the pace, I gradually increased \nthe weight day by day—"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Your pecs are in great shape too! Today is \nfinally 20kg day! You managed 15kg, so \nhave confidence!",
-      "choice_data_list": [
-        "Yeah, I feel like I can do it...!",
-        "Mm, feels like I can do it...!"
-      ]
+      "name": "Monologue",
+      "text": "For the remainder of the day, I focus on\ntraining\nmy deltoids by pumping the\nfive-kilo dumbbells."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Right! That's the spirit! Now, lift it up!"
+      "text": "All right! Today, let's move up to\nten-kilogram\nweights! Listen, can you\nhear your biceps saying,\n\"We can do\nthis\"?"
     },
     {
-      "text": "And then... the 20kg dumbbell that didn't \nbudge an inch before floated slightly into \nthe air...!"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Whoa! You did it, Trainer!",
-      "choice_data_list": [
-        "I did it!"
-      ]
+      "name": "Monologue",
+      "text": "And just like that, the weight of my\ndumbbells\nincreases day by day."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yes, you did! You really pulled it off, \nTrainer!!"
+      "text": "Those pecs are looking good! I think you\ncan\nfinally move up to twenty kilos! You\ncan lift\nfifteen kilos no problem\nnow—you've got this!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "As long as you build it up step by step, \nthere's nothing you can't achieve!"
+      "text": "That's the spirit! All right, go ahead and\nlift them\nup!"
     },
     {
-      "text": "Hearing her say that, a thought suddenly \nstruck me. If so, then by building up the \nreport presentation step by step as \nwell... perhaps...",
-      "choice_data_list": [
-        "I'll take it steady and work on the \npresentation step by step, without \nrushing."
-      ]
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "...! Hehehe, you beat me to it!"
+      "name": "Monologue",
+      "text": "Amazingly, the twenty-kilo dumbbells\nthat didn't\neven budge when I tried\nlifting them before rise\never so slightly in\nthe air!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "If you advance step by step, nothing is \nimpossible!"
+      "text": "You did it!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "As you've realized, the reason I invited \nyou to workout was because I wanted you to \nexperience that firsthand."
+      "text": "That's right! You really did it!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Good luck with your presentation! I'll be \ncheering you on!"
+      "text": "There's nothing you can't do as long as\nyou keep\nbuilding yourself up diligently!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The moment she says that, I suddenly\nrealize that\nif I just work on my\nperformance report slowly and\nsteadily,\nthen maybe, just maybe..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "There it is! You said it!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Anything is possible as long as you stick\nto it!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "You know, that's why I suggested\nworking out in\nthe first place. I was\nhoping it'd help you realize\nthat for\nyourself."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Anyway, best of luck on your\npresentation! I'll be\ncheering you on!"
     }
   ]
 }

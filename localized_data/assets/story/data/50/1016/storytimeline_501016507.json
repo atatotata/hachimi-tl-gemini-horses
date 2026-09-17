@@ -2,65 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I had called Narita Brian over to hand her \nsome fan letters, but...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I call Narita Brian over so I can give her\nsome fan\nmail."
     },
     {
       "name": "Narita Brian",
-      "text": "Fan letters... I see.",
-      "choice_data_list": []
+      "text": "Oh, a fan letter."
     },
     {
       "name": "Narita Brian",
-      "text": "If you don't need anything else, I'm \nheading back.",
-      "choice_data_list": [
-        "You're not going to read it?",
-        "Aren't you going to read it?"
-      ]
+      "text": "If that's everything, I'll be on my way."
     },
     {
       "name": "Narita Brian",
-      "text": "...Guess so.",
-      "choice_data_list": []
+      "text": "Well..."
     },
     {
       "name": "Narita Brian",
-      "text": "This is a letter addressed to me. What I \ndo with it is my own business, isn't it?",
-      "choice_data_list": [
-        "Anything but throwing it away!",
-        "Please, just don't throw it out!"
-      ]
+      "text": "It's my letter. What I do with it is my\nbusiness,\nright?"
     },
     {
       "name": "Narita Brian",
-      "text": "Wha--!? As if I'd ever do something like \nthat!",
-      "choice_data_list": []
+      "text": "Huh?! Of course I won't!"
     },
     {
       "name": "Narita Brian",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Narita Brian",
-      "text": "Nnh... I won't read it here. That's what \nit means.",
-      "choice_data_list": []
+      "text": "I'm just not going to read it here. That's\nall I\nmeant."
     },
     {
       "name": "Narita Brian",
-      "text": "\"There's no way she would throw away \nletters from her fans...\"",
-      "choice_data_list": []
+      "text": "I'd never throw away a letter from a fan..."
     },
     {
       "name": "Narita Brian",
-      "text": "You done? Let's head back.",
-      "choice_data_list": []
+      "text": "So, we good? I'm going."
     },
     {
-      "name": "Narrator",
-      "text": "Narita Brian walked away brusquely. \nHowever, she treasured the fan letter, \ntucking it carefully into her jacket.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Brian carefully puts the fan letter\nin her\npocket, then leaves brusquely."
     }
   ]
 }

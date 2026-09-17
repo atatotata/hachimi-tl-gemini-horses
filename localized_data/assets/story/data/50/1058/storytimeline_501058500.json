@@ -2,62 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "During training with Meisho Doto, we were \ncalled out to by three students.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "During a training session with Meisho\nDoto, three\nstudents grab our attention."
     },
     {
-      "name": "Umamusume A",
-      "text": "Um, please let me run alongside Doto-san!",
-      "choice_data_list": [
-        "I'm fine, but... how about you?",
-        "I'm fine, but... how are you?"
-      ]
+      "name": "Student A",
+      "text": "Excuse me, but would you let Meisho\nDoto go\npartner running with us?"
     },
     {
       "name": "Meisho Doto",
-      "text": "Hyowa?! Ah, eh?! U-Um, well, \nwell.........!",
-      "choice_data_list": []
+      "text": "Eek?! Um, huh?! Well, th-the thing is..."
     },
     {
       "name": "Meisho Doto",
-      "text": "\"...I-I'm really happy, but is someone \nlike me really okay as your opponent~...?\"",
-      "choice_data_list": []
+      "text": "...I'm really happy you asked, but are\nyou sure\nyou want someone like me?"
     },
     {
-      "name": "Umamusume B",
-      "text": "I wanna run with you, Doto-san! Please \nteach me your never-give-up attitude!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "...N-No... I haven't done anything worth \nboasting about...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume C",
-      "text": "That's not true! Even when someone draws \nlevel with you in the final stretch, you \nhold on and push further ahead... I \nseriously admire that style of running!",
-      "choice_data_list": []
+      "name": "Student B",
+      "text": "We totally wanna run against you! I\nwanna learn\nfrom that go-getter attitude\nof yours!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Fueh, th-thank you very muchhh...!",
-      "choice_data_list": []
+      "text": "B-but, I haven't done anything special to\nwarrant\nthis praise..."
+    },
+    {
+      "name": "Student C",
+      "text": "That's not true! I've seen the way you\nalways hold\non towards the end of the\nrace. Just when you're\nsurrounded on all\nsides, you give it one final spurt\nto break\nfree... it's really something!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Um, if you're okay with me, p-p-please let \nme run with yeww!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Yes! Alright, I'll go get ready!",
-      "choice_data_list": []
+      "text": "Eep! Oh, th-thank you very much!"
     },
     {
       "name": "Meisho Doto",
-      "text": "\"It feels like a dream to be asked for a \ntandem run... It's all thanks to you, \nTrainer... Ehehe.\"",
-      "choice_data_list": []
+      "text": "Well, if you don't mind having me,\nthen... I would\nbe happy to join you!"
+    },
+    {
+      "name": "Student A",
+      "text": "Yesss! I'll go get ready, okay?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "To be invited on a partner run is like a\ndream\ncome true... And it's all thanks to\nyou, Trainer...\nhehe."
     }
   ]
 }

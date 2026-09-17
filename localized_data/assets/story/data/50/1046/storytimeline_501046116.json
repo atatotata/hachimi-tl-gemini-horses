@@ -2,251 +2,188 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I came to watch the Arima Kinen together \nwith Smart Falcon. Nakayama Racecourse is \nfilled with an extraordinary heat—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Smart Falcon and I have come to watch\nthe Arima\nKinen, and Nakayama\nRacecourse is teeming with\nan unusually\nhigh level of excitement..."
     },
     {
-      "name": "Spectator A",
-      "text": "Excuse me! Coming through, please!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Eep!?",
-      "choice_data_list": [
-        "Are you okay?"
-      ]
+      "name": "Fan A",
+      "text": "Excuse me! Coming through!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Y-Yeah. We just bumped into each other a \nlittle, that's all.",
-      "choice_data_list": []
+      "text": "Gyah!"
     },
     {
       "name": "Smart Falcon",
-      "text": "“Still, that's an incredible crowd... Even \nmoving around is a struggle.”",
-      "choice_data_list": []
+      "text": "Y-yeah, I'm fine. I just got bumped a\nlittle."
     },
     {
       "name": "Smart Falcon",
-      "text": "I think this every year, but the 'Arima \nKinen' really is wildly popular, huh?",
-      "choice_data_list": [
-        "It's a major year-end race, after all.",
-        "It's a major year-end race, after all."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "The year-end Grand Prix, the Arima Kinen. \nWith so many Umamusume who made their mark \nthat year participating, it attracts \nmassive attention as the year's \nculminating race.",
-      "choice_data_list": []
+      "text": "But look how many people are here\ntoday... It's a\nstruggle just to move\naround."
     },
     {
       "name": "Smart Falcon",
-      "text": "\"Up until last year, Falco only really \nfelt the year ending at the Arima Kinen \nWinning Live, but...\"",
-      "choice_data_list": []
+      "text": "I should be used to it by now, but\nsomehow the\nArima Kinen's popularity\nalways impresses me."
+    },
+    {
+      "name": "Monologue",
+      "text": "With all the year's top performers taking\nthe\nfield, the Arima Kinen is the perfect\nway to cap\noff a year of racing for many\nfans."
     },
     {
       "name": "Smart Falcon",
-      "text": "The real, true end of the year is the \nTokyo Daishoten~!",
-      "choice_data_list": []
+      "text": "Yeah, until last year, I used to feel like\nthe\nconcert after the Arima Kinen\nmarked the end of\nthe year, too..."
     },
     {
       "name": "Smart Falcon",
-      "text": "It's still one of the biggest races of the \nyear, so I really hope everyone here comes \nto watch.",
-      "choice_data_list": [
-        "This year is sure to be even more exciting \nthan last year."
-      ]
+      "text": "But the Tokyo Daishoten is even <i>closer</i>\nto the end\nof the year!"
     },
     {
       "name": "Smart Falcon",
-      "text": "More than last year...",
-      "choice_data_list": []
+      "text": "I mean, it's also a huge end-of-year race.\nI wonder\nif we could get all the people\nhere to go there\ntoo."
     },
     {
       "name": "Smart Falcon",
-      "text": "Right on☆ The flyers are handing out \nnicely, so this year—",
-      "choice_data_list": []
+      "text": "Even bigger..."
     },
     {
       "name": "Smart Falcon",
-      "text": "Ah! Look, everyone's coming out!",
-      "choice_data_list": []
+      "text": "You're right! ☆ We even handed out all\nthose\nflyers, so this ye—"
     },
     {
       "name": "Smart Falcon",
-      "text": "Ooh. Those two have such a presence.",
-      "choice_data_list": []
+      "text": "Oh! Everyone's finally coming out!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Everyone else is staring straight ahead, \ntoo. This is gonna be an interesting race!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "—True to those words, this day's Arima \nKinen became a race for the history books.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "The race favorite Daiwa Scarlet takes the \nlead, setting the pace. And just like \nthat, she brushes off the fiercely \npursuing pack to--",
-      "choice_data_list": []
-    },
-    {
-      "name": "Commentary",
-      "text": "The winner is number 13! Daiwa \nScarleeeeeeet!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "With overwhelming strength, she was \ncrowned the Grand Prix Queen of that \nyear...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(WOOAAAHH!!)",
-      "choice_data_list": []
+      "text": "Oooh! Those two look so elegant."
     },
     {
       "name": "Smart Falcon",
-      "text": "Waaaah~~~~...!",
-      "choice_data_list": [
-        "That was an incredible race!",
-        "That was an amazing race!"
-      ]
+      "text": "You can tell they're all laser-focused.\nThis is\ngonna be an awesome race!"
+    },
+    {
+      "name": "Monologue",
+      "text": "As she predicted, the race turns into an\nepic\nshowdown sure to go down in\nhistory."
+    },
+    {
+      "name": "Monologue",
+      "text": "The crowd favorite, Daiwa Scarlet, leads\nthe\npack. She sets the pace and fends\noff her frantic\npursuers, until..."
+    },
+    {
+      "name": "Caster",
+      "text": "We have a winner! Number thirteen,\nDaaaaiwaaa\nScaaaaarlet!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She goes on to shine as this year's queen\nof the\ngrand prix, besting the\ncompetition with\noverwhelming strength!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Wooooo!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Yeah! Scarlet-chan was so cool!",
-      "choice_data_list": []
+      "text": "Wooow!"
     },
     {
       "name": "Smart Falcon",
-      "text": "\"I'm sure she'll convey her fiery passion \nin the Winning Live as well—\"",
-      "choice_data_list": []
+      "text": "Yeah! Scarlet was super cool!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Ah, that's right, the Winning Live! I have \nto get to the front row!",
-      "choice_data_list": []
+      "text": "I'm sure we're going to feel that passion\nat the\nwinning concert too!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Let's go, Trainer!",
-      "choice_data_list": [
-        "Into that crowd!?"
-      ]
+      "text": "Oh, that reminds me! We need to get\nfront-row\nseats!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Of course!",
-      "choice_data_list": []
+      "text": "Let's go, Trainer!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Let's dive in! Yeah!",
-      "choice_data_list": []
+      "text": "Duh!"
     },
     {
-      "name": "Narrator",
-      "text": "The Winning Live I watched with Smart \nFalcon from the front row. That \nperformance was overwhelming, and—",
-      "choice_data_list": []
+      "name": "Smart Falcon",
+      "text": "Let's dive in! Woohoo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The winning concert is just as\noverwhelming, and\nSmart Falcon and I\nwatch from the front row."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Everyone! Thank you so much for your \nsupport today!",
-      "choice_data_list": []
+      "text": "Thank you so much for your support\ntoday,\neveryone!"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "The \"number one\" Umamusume is none other \nthan me♪ Daiwa Scarlet~!",
-      "choice_data_list": []
+      "text": "I'm Daiwa Scarlet, the number one\n\nUmamusume! ♪"
     },
     {
       "name": "Spectators",
-      "text": "WOOOOOOOOOOOAAAH! Daiwa Scarleeet~~!!",
-      "choice_data_list": []
+      "text": "Wooooo!\nDaiwa Scarlet!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Haaah~~. Deep. Ly. Moved!",
-      "choice_data_list": []
+      "text": "Phew! That was <i>intense!</i>"
     },
     {
       "name": "Smart Falcon",
-      "text": "Scarlett-chan, you were shining so \nbrightly out there.",
-      "choice_data_list": []
+      "text": "Scarlet was really shining up there."
     },
     {
       "name": "Smart Falcon",
-      "text": "“Not just that, but you could really feel \nher passion, screaming ‘Look at me!’...”",
-      "choice_data_list": []
+      "text": "But that's not all. I could feel her almost,\nlike,\ncommanding everyone to keep\ntheir eyes on her."
     },
     {
       "name": "Smart Falcon",
-      "text": "\"Everyone in the audience was totally \ncaptivated by Scarlet-chan.\"",
-      "choice_data_list": []
+      "text": "She had the entire audience under her\nspell."
     },
     {
       "name": "Smart Falcon",
-      "text": "Girls competing at the top level really \nare amazing after all...",
-      "choice_data_list": [
-        "It's your turn next.",
-        "Next, it's your turn."
-      ]
+      "text": "The top runners really are in a league of\ntheir\nown..."
     },
     {
       "name": "Smart Falcon",
-      "text": "……！",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Yeah!",
-      "choice_data_list": []
+      "text": "Yeah!"
     },
     {
       "name": "Smart Falcon",
-      "text": "With the way Falco and the others are now, \nthey can definitely do it.",
-      "choice_data_list": []
+      "text": "I can do it. I know I can."
     },
     {
       "name": "Smart Falcon",
-      "text": "Just like the sparkling stage today, I'll \nhype up the Tokyo Daishoten too!",
-      "choice_data_list": []
+      "text": "I'm gonna make the Tokyo Daishoten a\nrace to\nremember, just like what we saw\ntoday!"
     },
     {
       "name": "Smart Falcon",
-      "text": "“—I'm fine. Because dirt racing is so \nfun...”",
-      "choice_data_list": []
+      "text": "It'll be all right. I mean, dirt races are\njust as fun."
     },
     {
       "name": "Smart Falcon",
-      "text": "Falco and the others did everything they \ncould. They promoted it, gave it their all \nat the live...",
-      "choice_data_list": []
+      "text": "Plus, we've done everything we possibly\ncan. I\nmade my declaration and put tons\nof effort into\nmy performances..."
     },
     {
       "name": "Smart Falcon",
-      "text": "So... it's gonna be okay.",
-      "choice_data_list": [
-        "（……？）"
-      ]
+      "text": "So yeah... It's gonna be fine."
     },
     {
-      "name": "Narrator",
-      "text": "It sounded a little like she was trying to \nconvince herself, but in the next instant, \nSmart Falcon's eyes were sparkling with \nanticipation—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It sounds a bit like Smart Falcon is trying\nto\nconvince herself. But then, an instant\nlater, her\neyes start beaming with hope."
     },
     {
       "name": "Smart Falcon",
-      "text": "—The top of the dirt division is just \nwithin reach, huh!",
-      "choice_data_list": []
+      "text": "The peak of the dirt world is right in\nfront of us!"
     },
     {
-      "name": "Narrator",
-      "text": "And so... the Classic-year Tokyo Daishoten \nis about to begin!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And so begins our classic-year Tokyo\nDaishoten!"
     }
   ]
 }
