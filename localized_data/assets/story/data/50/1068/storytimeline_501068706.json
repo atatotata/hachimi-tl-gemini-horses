@@ -2,225 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Invited by Kitasan Black, I decided to \nstop by a limited-time event at the \namusement park.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Today, I find myself at an amusement\npark to\nattend a limited-time event that\nKitasan Black\ninvited me to."
     },
     {
       "name": "Kitasan Black",
-      "text": "\"It's a really huge maze, so they said \nit's okay to call out directions from the \noutside!\"",
-      "choice_data_list": []
+      "text": "It's a really huge maze, so you're\napparently\nallowed to guide participants\ntoward the right\npath from outside the\nmaze!"
     },
     {
       "name": "Kitasan Black",
-      "text": "And I heard yesterday that if you manage \nto escape, you get a \"Well Done Medal\"—",
-      "choice_data_list": []
+      "text": "Also, I heard yesterday that if you\nmanage to\nmake it out, you get a medal\ncommending your\nsucce—"
     },
     {
-      "name": "？？？",
-      "text": "Nwooooo!! BAKUSHIーーーN!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Huh? Could that voice just now be...?",
-      "choice_data_list": []
-    },
-    {
-      "name": "？？？",
-      "text": "What in the world?! Another dead end?! \nGrrr, what a formidable labyrinth this is!",
-      "choice_data_list": []
-    },
-    {
-      "name": "？？？",
-      "text": "However, I shall not be discouraged! \nBecause I, Sakura Bakushin O, am the Class \nRepresentative! And a role model for all!",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Bakushin, Bakushiiiiin!"
     },
     {
       "name": "Kitasan Black",
-      "text": "\"I knew it! Bakushin O-san, you're in this \nmaze too!\"",
-      "choice_data_list": []
+      "text": "Huh? I feel like I know that voice..."
+    },
+    {
+      "name": "???",
+      "text": "Oh no! Another dead end?! This maze is\na real\ntough nut to crack!"
+    },
+    {
+      "name": "???",
+      "text": "I won't give up, however! As class\nrepresentative,\nI, Sakura Bakushin O,\nmust set an example for\neveryone else!"
     },
     {
       "name": "Kitasan Black",
-      "text": "\"Actually, Bakushin O-san was the one who \ntold me that story about the medals, too! \nShe's super fired up, isn't she!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Amusement Park Attendant",
-      "text": "It's great that she's so fired up, but I'm \nstarting to get genuinely worried.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Amusement Park Attendant",
-      "text": "\"Do you two know each other, by any \nchance? She's been lost here since \nmorning.\"",
-      "choice_data_list": [
-        "Since that far back?!"
-      ]
+      "text": "I knew it! Bakushin O is here for the\nmaze as well!"
     },
     {
       "name": "Kitasan Black",
-      "text": "\"Th-That's terrible! We have to show them \nwhere the exit is right away!\"",
-      "choice_data_list": []
+      "text": "Bakushin O was actually the one who\ntold me\nabout the medal! She sure\nsounds fired up!"
     },
     {
-      "name": "Amusement Park Attendant",
-      "text": "Well, no matter how much I called out to \nher, she was so absorbed in running that \nshe couldn't hear me.",
-      "choice_data_list": []
+      "name": "Amusement Park Staff",
+      "text": "Her being fired up is fine and dandy, but\nI have to\nsay, I'm starting to feel a little\nworried for her."
     },
     {
-      "name": "Kitasan Black",
-      "text": "\"Leave that to me! Here I gooo~!\"",
-      "choice_data_list": []
+      "name": "Amusement Park Staff",
+      "text": "Do you happen to know her? She's been\n\nwandering around in there since this\nmorning."
     },
     {
       "name": "Kitasan Black",
-      "text": "Bakushin O-saaan!",
-      "choice_data_list": []
+      "text": "Th-that's not good! We have to hurry\nand guide\nher toward the exit!"
+    },
+    {
+      "name": "Amusement Park Staff",
+      "text": "We've actually tried doing that several\ntimes, but\nshe's so absorbed in running\naround that she\ndoesn't hear anything\nwe tell her."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Don't worry! I've got this!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bakushiiin O!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "—Whoaaaaa!!!! Who is it that calls upon \nthis Class Rep?!",
-      "choice_data_list": [
-        "(It really reached her—!)"
-      ]
+      "text": "Huh?! Who could be calling me, the\nclass rep?!"
     },
     {
       "name": "Kitasan Black",
-      "text": "\"It's me! Kitasan Black! I'll guide you \nfrom here, so please follow my \ninstructions~!\"",
-      "choice_data_list": []
+      "text": "It's me! Kitasan Black! I'm going to guide\nyou\ntoward the exit, so please follow my\ninstructions!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Hahahaha! As expected of me! I safely \nobtained the \"Well Done Medal\"!",
-      "choice_data_list": []
+      "text": "Hahaha! I did it! I earned myself a medal\nof\ncommendation!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "And our Apprentice Assistant Class Rep, \nKita-san! Nice save back there! You get a \nbig gold star!",
-      "choice_data_list": [
-        "'Assistant Class Rep Trainee'!?"
-      ]
+      "text": "And you, my dear class rep\naide-in-training, did a\ngreat job helping\nme! You get an A+ for your\neffort!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "True to the name, it's an important role \nassisting this class representative... \nwell, an apprentice for it!",
-      "choice_data_list": []
+      "text": "Just as the title implies, she's in training\nto take\non the crucial role of aiding the\nclass rep!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Ahaha, actually, Bakushin O-san and I go \nout together quite a lot, but—",
-      "choice_data_list": []
+      "text": "Ahaha! The thing is, I accompany\nBakushin O on a\nlot of outings, and..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I see! So it's this way! Thank you very \nmuch! BAKUSHIIIIIN!!",
-      "choice_data_list": []
+      "text": "I see! So this is the right path, is it?\nMuch obliged!\nBAKUSHIIIN!"
     },
     {
       "name": "Passerby A",
-      "text": "Huh!? Not that way— Wait, she can't even \nhear me anymore!?",
-      "choice_data_list": []
+      "text": "Wha?! That's the wrong way! Heeey! Is\nshe out of\nearshot already?!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Bakushin O-san! Not that way, please \nstooop!",
-      "choice_data_list": []
+      "text": "BAKUSHIN O! IT'S NOT THAT WAY!\nCOME\nBACK!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Hm! Did I just hear Kita-san calling for \nme?!",
-      "choice_data_list": []
+      "text": "Hm? I feel like I just heard Kita calling\nme!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Bakushin O-saaan! Your handkerchief! This \ngirl picked it up for you~!",
-      "choice_data_list": []
+      "text": "Bakushiiin O! Your handkerchief! This\ngirl picked it up\nfor you!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh! We've come so far before I even \nnoticed! All thanks to my marvelous \nBakushin speed!",
-      "choice_data_list": []
+      "text": "Oh! When did I end up so far away? My\nBakushin\nis too incredible!"
     },
     {
       "name": "Kitasan Black",
-      "text": "“—And so, yeah. For some reason, my voice \nreally seems to reach Bakushin O-san quite \nwell.”",
-      "choice_data_list": []
+      "text": "For some reason, it seems like my voice\ncan\nactually reach Bakushin O."
     },
     {
       "name": "Kitasan Black",
-      "text": "\" 'You're perfect as an assistant!' is \nwhat they told me when appointing me!\"",
-      "choice_data_list": [
-        "Does it sound like someone you know?",
-        "Maybe it's thanks to my enka vocal \ntraining"
-      ]
+      "text": "I got assigned as her aide because I'm\napparently\nperfect for the role."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Hmm... Now that you mention it, it feels \nsomewhat nostalgic...?",
-      "choice_data_list": []
+      "text": "Hm... Now that you mention it, her voice\ndoes\nmake me feel kind of nostalgic..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I kind of feel like I might have heard \nthat somewhere before... but putting that \naside!",
-      "choice_data_list": []
+      "text": "Indeed, I feel like I've heard her voice\nsomewhere\nbefore... but, anyway!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Being with you lets me act even more like \na class rep, Kita-san! I look forward to \nyour continued support as my assistant!!",
-      "choice_data_list": []
+      "text": "With Kita by my side, I feel even more\nconfident\nin my abilities as class\nrepresentative! That's why\nI'm counting\non you to keep assisting me, okay?"
     },
     {
       "name": "Kitasan Black",
-      "text": "Yes, leave it to me!",
-      "choice_data_list": []
+      "text": "Okay! I've got your back!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Alright, now that I've shown you how it's \ndone, it's you two's turn!",
-      "choice_data_list": []
+      "text": "Right, now that I've shown you how it's\ndone, it's\nyour turn to tackle the maze!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Allow this Class Rep to guide you \npersonally! Please don't hesitate to ask!",
-      "choice_data_list": []
+      "text": "As class representative, I will personally\nguide\nyou through it! Don't hesitate to\nask me for help!"
     },
     {
-      "name": "Narrator",
-      "text": "\"And so, under Sakura Bakushin O's \noccasionally misguided directions, Kitasan \nBlack and I had a blast in the giant \nmaze.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "\"Indeed! The enka soul pouring from \nKita-san's voice feels deeply resonant \nwith my own Bakushin heart!\"",
-      "choice_data_list": [
-        "What do you mean by 'resonate'... for \nexample?"
-      ]
+      "name": "Monologue",
+      "text": "Kitasan Black and I are able to enjoy the\ngiant\nmaze thanks to Sakura Bakushin\nO's enthusiastic,\noccasionally mistaken\ndirections."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "In other words, it's like this!",
-      "choice_data_list": []
+      "text": "Yeah, maybe! Your voice is just so filled\nwith\ngenuine enka spirit that it really\nresonates with\nmy Bakushin heart, Kita!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "BAKUSHIIIIIIIN--!!",
-      "choice_data_list": []
+      "text": "Basically... like this!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "BAKUSHIIIINNN! ♪"
     },
     {
       "name": "Kitasan Black",
-      "text": "Whoa, what a powerful vocal vibrato! Then \nI'll—",
-      "choice_data_list": []
+      "text": "Whoa, that vocal run was incredible!\nHold on, let\nme try too..."
     },
     {
       "name": "Kitasan Black",
-      "text": "BAKUSHIIIIIIIN--!!",
-      "choice_data_list": []
+      "text": "BAKUSHIIIINNN! ♪"
     },
     {
-      "name": "Narrator",
-      "text": "Could this really be called 'resonating \nwith each other'? Regardless, Kitasan \nBlack and Sakura Bakushin O looked like \nthey were having a blast.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm not sure if \"singing\" is the best word\nto\ndescribe what their voices are doing,\nbut Kitasan\nBlack and Sakura Bakushin\nO look like they're\nhaving fun."
     }
   ]
 }

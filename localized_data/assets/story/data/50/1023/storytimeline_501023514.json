@@ -2,314 +2,236 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day. In the library, Biwa Hayahide \nseemed to be troubled by something, so I \ncalled out to her—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I spot Biwa Hayahide in the\nlibrary,\nlooking perplexed about\nsomething. I stroll over\nto say hello and\nask what's wrong."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'm scheduled to read picture books aloud \nfor an extracurricular study soon—but none \nof them feel quite right.",
-      "choice_data_list": [
-        "What's the meaning of this?",
-        "What do you mean?"
-      ]
+      "text": "Lately, I've been reading picture books\nto\nchildren as an extracurricular activity,\nbut... it's\njust not clicking with me."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes. Fairy tales and folklore often \ncontain things quite divorced from \nreality, don't they?",
-      "choice_data_list": []
+      "text": "Well... You know how fairy tales and\nlegends\naren't exactly true to life?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"When I read them, I can't help but get \nbothered by the parts that don't hold up \ntheoretically.\"",
-      "choice_data_list": []
+      "text": "Whenever I read such stories, I can't\nhelp but get\ndistracted by all the errors\nin logic and\ninconsistencies in them."
     },
     {
-      "name": "Narrator",
-      "text": "\"...Even when it's explained to me, it \nstill doesn't quite click.\"",
-      "choice_data_list": [
-        "Could you actually show me how it's done?"
-      ]
+      "name": "Monologue",
+      "text": "I think I can see where she's coming\nfrom, but I\ndon't fully understand what\nshe means."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "True, that seems faster. Let's use \n'Momotaro' as an example, then.",
-      "choice_data_list": []
+      "text": "Sure, that seems like the best approach.\nAllow me\nto read <i>Momotaro</i> for you."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Once upon a time, long, long ago—",
-      "choice_data_list": []
+      "text": "\"Once upon a time, in a land far away...\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"‘The old woman, having found a giant \npeach, decided to take it back home.’\"",
-      "choice_data_list": []
+      "text": "\"An old woman found a giant peach and\ntook it\nhome.\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"And together with the old man, she \ndecided to cut open the peach. And then—\"",
-      "choice_data_list": []
+      "text": "\"She and her husband go to cut the\npeach, when\nsuddenly...\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...It's from here. This is the part I just \ncan't get out of my head.",
-      "choice_data_list": []
+      "text": "See, here's the part where my suspension\nof\ndisbelief starts to break down."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I did find it a bit strange when a giant \npeach came floating down the river, but—",
-      "choice_data_list": []
+      "text": "I already had trouble swallowing the fact\nthat a\ngiant peach was floating down the\nriver out of\nnowhere..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "And right here, the astonishing truth is \nrevealed: Momotaro was actually inside the \npeach!",
-      "choice_data_list": []
+      "text": "But then we discover that Momotaro was\ninside of\nthe peach the whole time."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Considering the circumstances, they must \nhave been inside the peach for at least \ntens of minutes to an hour.",
-      "choice_data_list": []
+      "text": "Based on the information available, we\nhave to\nassume that he must have been\ninside it for\nanywhere between a few\nminutes to an hour."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "And yet, why did Momotarou not \nsuffocate...?",
-      "choice_data_list": [
-        "W-Well, that's..."
-      ]
+      "text": "If that's the case, how did he not die of\n\nasphyxiation?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "After that, the old man and the old woman \ncut the peach cleanly in half, but—",
-      "choice_data_list": []
+      "text": "Then there's the part where the old man\nand\nwoman cut the peach in half."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Why was Momotaro unharmed? Did they cut it \ncarefully so as not to hit Momotaro?",
-      "choice_data_list": []
+      "text": "How did they avoid cutting Momotaro in\nhalf\ntoo? Did they take care to cut\naround him or\nsomething?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...No, that would be nearly impossible. \nSince neither of the two knew about \nMomotaro's existence.\"",
-      "choice_data_list": [
-        "Aren't you overthinking it a little?",
-        "Maybe you're overthinking it a bit?"
-      ]
+      "text": "But that wouldn't make any sense since\nthey\ndidn't even know he was in there."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "However, if it is not theoretically sound, \nthen it cannot be considered accurate \nknowledge.",
-      "choice_data_list": []
+      "text": "Even if I am, what benefit is there to\nlearn about\nthings that are logically\nimpossible?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Considering the children's future, I want \nto avoid imparting any incorrect \nknowledge.",
-      "choice_data_list": []
+      "text": "I'd rather not take part in teaching\nfalsities to\nchildren."
     },
     {
-      "name": "Narrator",
-      "text": "Biwa Hayahide's expression shows total \nseriousness. If she believes in it that \nstrongly—",
-      "choice_data_list": [
-        "Maybe you should try doing it your own \nway.",
-        "Maybe you could try doing it your own way.",
-        "Why not turn it into a study session \ninstead?"
-      ]
+      "name": "Monologue",
+      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen..."
     },
     {
-      "name": "Narrator",
-      "text": "Biwa Hayahide's expression shows total \nseriousness. If she believes in it that \nstrongly—",
-      "choice_data_list": [
-        "Maybe you should try doing it your own \nway.",
-        "Maybe you could try doing it your own way.",
-        "Why not turn it into a study session \ninstead?"
-      ]
+      "name": "Monologue",
+      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "In my own way...?",
-      "choice_data_list": [
-        "Maybe try pursuing logic to its \nconclusion?"
-      ]
+      "text": "My own twist?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...Logically reconstructing the \nnarrative, you say? That might indeed be \nan interesting endeavor.\"",
-      "choice_data_list": []
+      "text": "You mean reconstruct them in a way that\nmakes\nsense? That does sound\nintriguing..."
     },
     {
-      "name": "Narrator",
-      "text": "And on the day of the story reading—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "\"‘The old woman, having found a giant \npeach, decided to take it back home.’\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "When it's time for Biwa Hayahide to read\nto the\nchildren again, she put her new\ntactic to work."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Noticing what appeared to be air holes \npre-drilled into the peach, the old woman \ngrew suspicious and—\"",
-      "choice_data_list": []
+      "text": "\"An old woman found a giant peach and\ntook it\nhome.\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Together with the old man, we decided to \nexercise the utmost caution and cut the \npeach open.\"",
-      "choice_data_list": []
+      "text": "\"The old man and woman were puzzled\nby the\nstrange hole in the peach and\nrealized it must've\nbeen a breathing\nhole.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Together, the two of them cut into the\npeach\nvery, very carefully.\""
     },
     {
       "name": "Energetic Child",
-      "text": "Air hole...? Was there something like \nthat...?",
-      "choice_data_list": []
+      "text": "The peach had a breathing hole in it? I\ndon't\nremember that part..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If there weren't any air holes, Momotaro \nwouldn't be able to breathe, right?",
-      "choice_data_list": []
+      "text": "But if there wasn't one, Momotaro\nwouldn't be\nable to breathe inside the\npeach."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Don't you think it'd be pitiful if \nMomotaro were to suffer?",
-      "choice_data_list": []
+      "text": "It would be very sad if that were the\ncase, don't\nyou think?"
     },
     {
       "name": "Precocious Child",
-      "text": "Yeah, that's so sad!",
-      "choice_data_list": []
+      "text": "Yeah! It would be super, duper sad!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Fufu, so someone kind must have left it \nopen for us.",
-      "choice_data_list": []
+      "text": "Hehe. A kind stranger must have\nthought the\nsame and made that hole for\nhim."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "――Now then, let us continue the \nconversation.",
-      "choice_data_list": []
+      "text": "Now, back to the story..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"From inside the peach emerged Momotaro in \npeak physical condition, having had no \ntrouble breathing at all.\"",
-      "choice_data_list": []
+      "text": "\"Momotaro emerged from the peach\nhale and\nwhole thanks to the breathing\nhole.\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Also, thanks to the elderly couple's \ncaution, it is said there were no injuries \nwhatsoever.\"",
-      "choice_data_list": []
+      "text": "\"And because the old man and woman\nhad cut\ninto the peach so carefully, he\ndidn't have a\nsingle scratch on him.\""
     },
     {
       "name": "Energetic Child",
-      "text": "Momotaro, you're safe!",
-      "choice_data_list": []
+      "text": "Yay! He was okay!"
     },
     {
       "name": "Precocious Child",
-      "text": "Ehehe... Good for you, Momotaro.",
-      "choice_data_list": []
+      "text": "Ehehe! Good for Momotaro!"
     },
     {
-      "name": "Narrator",
-      "text": "The picture book logically reconstructed \nby Biwa Hayahide caused a bit of confusion \nat first, but—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Biwa Hayahide's logically rewritten\nchildren's\nstories initially cause some\nconfusion..."
     },
     {
-      "name": "Narrator",
-      "text": "\"Ultimately, it seemed to have been a \ngreat opportunity to give the children \nsome food for thought.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "But in the end, it was a highly\neducational\nexperience for the children."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I see, a study session using picture \nbooks, huh.",
-      "choice_data_list": []
+      "text": "A study group, you say?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "In that case, even if it gets a bit \nexplanatory, I can tell you the issues and \nhow to avoid them.",
-      "choice_data_list": []
+      "text": "The children might find such a thing\ndull, but\nholding a group discussion\nmight be a good way\nto discuss the flaws\nin such stories."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Alright, let's start preparing along those \nlines!",
-      "choice_data_list": []
+      "text": "Yes, I like that idea! I'll start preparing\nfor our\ndiscussion right away!"
     },
     {
-      "name": "Narrator",
-      "text": "And on the day of the picture book study \nsession—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Those glass slippers Cinderella wears... \nThey look beautiful on the outside, but \nthey're extremely dangerous.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "When it's time for Biwa Hayahide to read\nto the\nchildren again, she carefully\npresents her ideas to\nher audience."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Glass is hard, so there is a high chance \nof injuring your feet while wearing them—",
-      "choice_data_list": []
+      "text": "The glass slippers Cinderella wore may\nlook\nbeautiful, but they're actually\nincredibly\ndangerous."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If by any chance a horseshoe were to \nshatter, the fragments would fly \neverywhere, endangering those around them.",
-      "choice_data_list": []
+      "text": "Because glass is hard, the likelihood of\ninjuring\nyour feet while wearing them is\nhigh."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "And if they were to break, they would\nleave glass\nshards everywhere."
     },
     {
       "name": "Energetic Child",
-      "text": "T-This is terrible~!",
-      "choice_data_list": []
+      "text": "Wow! That would be really bad!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Indeed. That is why one should borrow \nshoes made from a safer material rather \nthan glass from the wizard.",
-      "choice_data_list": []
+      "text": "Exactly. That's why you should wear\nshoes made\nfrom safe materials and not\nglass slippers, even if\nthey're from a fairy\ngodmother."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "When questioned by the wolf, Little Red \nRiding Hood ended up revealing her purpose \nand the location of her grandmother's \nhouse.",
-      "choice_data_list": []
+      "text": "When the Big Bad Wolf asked Little Red\nRiding\nHood where she was going, she\ntold him, thus\nrevealing the location of\nher grandmother's\nhouse."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If she had stayed vigilant and said \nnothing, she could have prevented her \ngrandmother from being swallowed whole.",
-      "choice_data_list": []
+      "text": "However, if she had kept her guard up\nand\nrefused to answer, her grandmother\nwould've\nescaped the tragic fate of\nbeing eaten."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If a suspicious person speaks to you, run \naway immediately—got it?",
-      "choice_data_list": []
+      "text": "The moral of the story is that you should\nrun away\nfrom a stranger if they try to\ntalk to you.\nUnderstood?"
     },
     {
       "name": "Precocious Child",
-      "text": "Yeah, got it!",
-      "choice_data_list": []
+      "text": "Yeah!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "“—And so, while the world of picture books \nis enchanting, it can also harbor certain \nproblematic elements.”",
-      "choice_data_list": []
+      "text": "Although picture books can be quite\ncharming,\nthey occasionally contain\nproblematic elements."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"To make the most of one's life, one \nshould avoid trouble as much as possible.\"",
-      "choice_data_list": []
+      "text": "You have to learn how to identify these\nproblems\nand avoid them in order to live\na good life."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Were you able to learn properly through \ntoday's study session?\"",
-      "choice_data_list": []
+      "text": "Now, were you all able to learn\nsomething new\nfrom today's story time?"
     },
     {
       "name": "Children",
-      "text": "Okaaay!!",
-      "choice_data_list": []
+      "text": "Yeah! We did!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, Biwa Hayahide's study session \nturned out to be a massive success.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Biwa Hayahide's educational story time\nends up\nbeing a big hit."
     },
     {
-      "name": "Narrator",
-      "text": "The children had taken a complete liking \nto her, and she didn't seem to mind it one \nbit.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Not only did the children love her, but\nshe seems\nto have greatly enjoyed\nherself too."
     }
   ]
 }

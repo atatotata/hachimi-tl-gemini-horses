@@ -2,113 +2,84 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, while I was struggling to find \nsome materials in the Trainer's Office—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, as I'm rifling through\ndocuments in my\noffice..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Excuse me. I'd like to discuss our \nupcoming interview...",
-      "choice_data_list": []
+      "text": "Excuse me! I'm here to discuss our\nupcoming—"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Oh, excuse me. It looks like you were \nsearching for something.",
-      "choice_data_list": []
+      "text": "Oh, I'm sorry. I see you're in the middle\nof\nsomething."
     },
     {
-      "name": "",
-      "text": "I explained that I was looking for \nreference materials on Umamusume that \nmight help <chrname>.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Judging by your expression, however... is \nthe search for documents not going well?",
-      "choice_data_list": [
-        "I'm having a hard time finding it..."
-      ]
+      "name": "Monologue",
+      "text": "I explain that I'm looking for\nUmamusume-related\nmaterials that\nmight be helpful for\n\n<chrname>."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I see, understood. Before our meeting, \nwould you mind keeping me company for a \nmoment?",
-      "choice_data_list": []
+      "text": "It appears you're having some difficulties\nfinding\nwhat you need."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "—Thank you for waiting. It ended up being \nquite a lot, but please take it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "What she dumped into my hands was a \nmassive stack of documents.",
-      "choice_data_list": []
+      "text": "I see. Well, seeing as how we still have\nsome time\nbefore our appointment,\nperhaps I could help?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I selected a few past articles and brought \nthem from the office.",
-      "choice_data_list": [
-        "So much of it...!"
-      ]
+      "text": "Here we are. I hope this will be enough."
+    },
+    {
+      "name": "Monologue",
+      "text": "She hands me a large bundle of\ndocuments."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"This information is about an Umamusume \nfrom quite a long time ago, but I believe \nthese materials will be of good \nreference.\"",
-      "choice_data_list": []
+      "text": "I picked out some old articles that I had\nlying\naround the office."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "And here is the next one. She mainly made \na name for herself in regional races, so \nshe might not be very familiar, but...",
-      "choice_data_list": [
-        "You really are quite knowledgeable, aren't \nyou?"
-      ]
+      "text": "The Umamusume in question were active\nquite a\nlong time ago, but the material\nhere should be\nhelpful."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Of course. One must never slack off on \ngathering intel on any Umamusume, past or \npresent, near or far.",
-      "choice_data_list": []
+      "text": "And this one too. She mostly\nparticipated in local\nraces, so you might\nnot know her, but her articles\nshould still\nprove useful."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "A reporter's mission is to help shine a \nlight on every Umamusume with shining \npotential.",
-      "choice_data_list": []
+      "text": "But of course! I have to keep tabs on all\nthe\nUmamusume I can, past and present,\ndomestic\nand overseas."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"To achieve that, simply chasing after the \nUmamusume who are currently in the \nspotlight won't be enough.\"",
-      "choice_data_list": [
-        "I'll follow your example too.",
-        "I'll follow your example too."
-      ]
+      "text": "As a reporter, my job is to help every\n\nUmamusume with potential get her\nmoment to\nshine in the spotlight."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Y-You wish to follow their example!? My \nword... what an admirable mindset...!",
-      "choice_data_list": []
+      "text": "It's not enough to just chase after the\npopular\nracers."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "It is wonderful!!",
-      "choice_data_list": []
+      "text": "What? You, learn from me? My\ngoodness... That\nattitude..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Those who command information command the \nrace. Gathering intelligence is crucial in \nany competition.",
-      "choice_data_list": []
+      "text": "It's simply amazing!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Ah... To think you weren't satisfied with \nmerely reading past documents, but are \nprepared to travel the world to see every \nsingle Umamusume with your own eyes...",
-      "choice_data_list": []
+      "text": "Those who control the information\ncontrol the\nrace. Gathering intelligence\nis half the battle."
     },
     {
-      "name": "",
-      "text": "I didn't ask for that much, but every \nsingle document I received was extremely \nuseful.",
-      "choice_data_list": []
+      "name": "Reporter Otonashi",
+      "text": "So you must be doing more than just\nlooking\nthrough old materials! To think\nyou'd be willing to\ntravel the world and\nsee all the Umamusume there\nare to\nsee... Ah, such devotion!"
     },
     {
-      "name": "",
-      "text": "Training alongside <chrname> based on the materials \nhelped contribute to her growth.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I don't remember saying <i>that,</i> but the\ndocuments\nshe gave me are very useful."
+    },
+    {
+      "name": "Monologue",
+      "text": "I plan out a training program for\n\n<chrname> based on their\n\ninformation, and she demonstrates\nimpressive\ngrowth."
     }
   ]
 }

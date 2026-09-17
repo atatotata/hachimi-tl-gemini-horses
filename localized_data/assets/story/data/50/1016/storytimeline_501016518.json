@@ -2,42 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, I spotted Narita Brian weeding \nthe field alongside the groundskeeper.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I spot Narita Brian out in a\nfield pulling\nweeds with the\ngroundskeeper."
     },
     {
       "name": "Narita Brian",
-      "text": "Swarming all over... How annoying! Just \nhow many of you do I have to take down!?",
-      "choice_data_list": [
-        "What are you doing?",
-        "What are you doing?"
-      ]
+      "text": "This is such a pain! How much more do\nwe have to\ndo?!"
     },
     {
       "name": "Narita Brian",
-      "text": "Wh-what... Trainer?! Th-this is...",
-      "choice_data_list": []
+      "text": "Agh—Trainer?! Th-this is just..."
     },
     {
-      "name": "Janitor",
-      "text": "It's a punishment. She walked into the \nfield and stepped on the seedlings, so I'm \nhaving her pull weeds.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I told you I didn't do it on purpose, \ndidn't I!? Dammit...! I'm just utterly out \nof luck!",
-      "choice_data_list": []
+      "name": "Groundskeeper",
+      "text": "Punishment. She walked through the\nfield and\ntrampled the seedlings, so I'm\nhaving her pull\nweeds."
     },
     {
       "name": "Narita Brian",
-      "text": "\"Argh! In that case, I'll just go wild! \nPrepare yourselves, you measly weeds!!\"",
-      "choice_data_list": []
+      "text": "I said I didn't mean to, didn't I?! Damn!\nIt's really\nnot my day!"
     },
     {
-      "name": "Narrator",
-      "text": "She vigorously rushed off to pull weeds. \nStaying hunched over weeding for so long \nwould be exhausting, even for her...",
-      "choice_data_list": []
+      "name": "Narita Brian",
+      "text": "Fine! I'll make this into a field of despair!\nGet\nready, weeds!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian pulls weeds savagely, but\nstooping\nover all day pulling weeds must\nbe tiring, even for\nher..."
     }
   ]
 }

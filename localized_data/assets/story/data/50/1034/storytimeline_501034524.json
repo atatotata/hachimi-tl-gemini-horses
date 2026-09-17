@@ -2,216 +2,168 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, during a run—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while out on a run..."
     },
     {
       "name": "Inari One",
-      "text": "“—Alrighty then! Shelf repair, all done \nand dusted! That oughta hold for a good \nwhile.”",
-      "choice_data_list": []
+      "text": "All right! The shelf's good as new! It\nshouldn't give\nya any trouble now."
     },
     {
-      "name": "Shopping District Lady",
-      "text": "Sorry to trouble you, Inari-chan. I know \nyou're in the middle of training, yet you \nstopped to help.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Inari One",
-      "text": "Aw, carpentry's my specialty! A job like \nthis is a piece of cake.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Lady",
-      "text": "Oh, right, it's not much of a thank-you, \nbut... I happen to have some daifuku, so \ntake a few with you.",
-      "choice_data_list": []
+      "name": "Shopkeeper",
+      "text": "Sorry for making you help me when you\nshould be\ntraining, Inari."
     },
     {
       "name": "Inari One",
-      "text": "Is that so? Much obliged!",
-      "choice_data_list": []
+      "text": "Aw, it's nothin', ma'am. DIY stuff's my\nspecialty,\nso fixin' somethin' like this was\neasy-peasy,\nlemon-squeezy!"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "At least let me give you a li'l something\nas thanks.\nHow about these strawberry\nmochi I just made?\nYou can take as many\nas you like."
     },
     {
       "name": "Inari One",
-      "text": "—And so, I gratefully accepted it, ya see.",
-      "choice_data_list": []
+      "text": "Really? Well, then don't mind if I do!"
     },
     {
       "name": "Inari One",
-      "text": "It's a gift from someone else. Before it \ngoes bad, I reckon I'll brew some tea and \nenjoy it right up—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Um! Inari-senpai! Thank you so much for \ngiving me running advice the other day!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume B",
-      "text": "I made some inari sushi as a thank-you, so \nplease have some if you'd like!",
-      "choice_data_list": []
+      "text": "So, now I've got a yummy batch of\nmochi. That\nwas awful nice of her."
     },
     {
       "name": "Inari One",
-      "text": "Oh? Well now, aren't you sweet to do \nsomething nice for me. Don't mind if I—",
-      "choice_data_list": []
+      "text": "I'd better savor these while they're fresh,\nsince\nthey're a gift and all. I should\nprobably make\nsome tea to go with 'em."
     },
     {
-      "name": "Umamusume C",
-      "text": "\"Senpai! Thank you so much for helping me \nsearch for my contact lens the other day! \nI made some dango as a thank-you!\"",
-      "choice_data_list": []
+      "name": "Student A",
+      "text": "Hey there, Inari! Thanks again for\nhelping us train\nthe other day!"
     },
     {
-      "name": "Inari One",
-      "text": "O-Oh?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume D",
-      "text": "\"Senpai! Thank you so much for helping \nfind a foster home for that stray cat! \nHere, I brought some rice balls for you!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume E",
-      "text": "Inari-senpai, thank you so much for \ntreating me the other day! I made some \noden, so please have some!",
-      "choice_data_list": []
+      "name": "Student B",
+      "text": "We made some inari sushi as a thank-you\ngift! I\nhope you like it!"
     },
     {
       "name": "Inari One",
-      "text": "W-What's all this, what's all this, what's \nall this?! What the heck is going on \nhere?!",
-      "choice_data_list": [
-        "Looks like the timing overlapped...",
-        "Looks like our timing overlapped..."
-      ]
+      "text": "Huh? Whoa, that's super nice of ya!\nThanks so\nmuch."
+    },
+    {
+      "name": "Student C",
+      "text": "Inari, I wanted to thank you for helping\nme look\nfor my contact lens the other\nday. Here, I made\nyou some dango!"
     },
     {
       "name": "Inari One",
-      "text": "Even so, there's a limit to everything! \nAnd all of it being food is just too much \nto handle...!",
-      "choice_data_list": []
+      "text": "O-oh, uh, thanks."
     },
     {
-      "name": "Umamusume A",
-      "text": "Um, Senpai? Things kind of got completely \nout of hand, so if it's alright, maybe we \ncould remake it another day...",
-      "choice_data_list": []
+      "name": "Student D",
+      "text": "Inari! Thanks for helping me find a home\nfor that\nstray cat! Have these rice balls\nas a treat!"
     },
     {
-      "name": "Inari One",
-      "text": "\"...Get outta here! Don't go selling me \nshort!\"",
-      "choice_data_list": []
+      "name": "Student E",
+      "text": "Thanks for treating me to lunch the\nother day,\nInari! It's not much, but I\nmade this oden stew,\njust for you!"
     },
     {
       "name": "Inari One",
-      "text": "\"Did ya really think the great Inari-sama \nwould let your feelings go to waste?! I'll \ngladly take every last bit of 'em!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Juniors",
-      "text": "Ooh! As expected of Inari-senpai!",
-      "choice_data_list": []
+      "text": "Wh-what the heck's goin' on here?\nWhy's\neveryone off-loadin' food on me?!"
     },
     {
       "name": "Inari One",
-      "text": "...Heh. Well now, how should I devour \nthis?",
-      "choice_data_list": [
-        "Let's eat it all before we feel full!",
-        "Why don't we all taste it together \ninstead?",
-        "The only thing to do is move around and \nwork up an appetite."
-      ]
+      "text": "Can't help but think it's been\norchestrated! But\nthey gotta stop—no\nway I can stomach all this!"
+    },
+    {
+      "name": "Student A",
+      "text": "Er, you look like you have a lot on your\nhands\nalready, so I can just make this for\nyou again\nanother day..."
     },
     {
       "name": "Inari One",
-      "text": "Yeah! By the time that bastard fullness \ncatches up to me, I'll already be relaxing \nwith my post-meal tea!",
-      "choice_data_list": []
+      "text": "Hey, you come back with that! Don't get\nthe\nwrong idea!"
     },
     {
       "name": "Inari One",
-      "text": "Whip it up quick, and then savor every \nbite... Time to dig in!",
-      "choice_data_list": []
+      "text": "I wasn't raised to be rude and\nunappreciative of\nother people's gifts! It\ndoesn't matter how much\nfood you've\ngot! Fork it over!"
+    },
+    {
+      "name": "Students",
+      "text": "Ooh! That's the Inari we know and love!"
     },
     {
       "name": "Inari One",
-      "text": "Phew...! Thank you for the meal!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Amazing...! You really ate it all! Are you \nokay though, Senpai?",
-      "choice_data_list": []
+      "text": "Heh. Now how should I go about eatin' it\nall?"
     },
     {
       "name": "Inari One",
-      "text": "Yeah, it was a piece of cake! The inari \nsushi had great dashi broth, it was \nexquisite! Come to think of it, the rice \nballs had kelp dashi too—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Juniors",
-      "text": "Ooh, as expected of you, Senpai...! You \nreally savored every bite...!",
-      "choice_data_list": []
+      "text": "Nice idea! By the time our brains catch\nup with\nthe fact that we're full, we'll\nhave already moved\non to our post-meal\ntea!"
     },
     {
       "name": "Inari One",
-      "text": "Hehehe, eating good food got my strength \npumping again! Shall we give it another \npush today?!",
-      "choice_data_list": []
+      "text": "Time to eat fast and enjoy every split\nsecond of\nthis!"
     },
     {
       "name": "Inari One",
-      "text": "Urk... Th-Thanks for the meal... burp...!",
-      "choice_data_list": []
+      "text": "Pheeew! That was delicious!"
     },
     {
-      "name": "Umamusume A",
-      "text": "I-Inari-senpai!? Are you all right!?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Inari One",
-      "text": "Yeah... that was delicious... Thanks... a \nlot...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Juniors",
-      "text": "I... Inari-senpaaaai!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Though she managed to finish every last \nbite... Inari One didn't feel like eating \nanything for the next two days.",
-      "choice_data_list": []
+      "name": "Student A",
+      "text": "Wow! You really ate everything! But...\nAre you\nfeeling okay, Inari?"
     },
     {
       "name": "Inari One",
-      "text": "\"Now that's what I'm talkin' about! Sounds \nlike a real little banquet!\"",
-      "choice_data_list": []
+      "text": "Yeah! That was a literal piece of cake!\nThat fried\ntofu skin was real flavorful,\nand the kelp filling in\nthe rice balls was\ntasty too..."
     },
     {
-      "name": "Umamusume A",
-      "text": "Ah, then should I go prepare some tea? And \nmaybe grab a picnic mat while I'm at it...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Inari One",
-      "text": "Yeah, countin' on ya! Since you're at it, \nmight as well go call over your friends \ntoo!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And so, a little banquet was held in a \ncorner of the course.",
-      "choice_data_list": []
+      "name": "Students",
+      "text": "Wow, you're incredible!\nYou really did\nsavor everything!"
     },
     {
       "name": "Inari One",
-      "text": "Well, that's how it is. That said, if you \ntake your sweet time, all this nice food's \ngonna spoil.",
-      "choice_data_list": []
+      "text": "Hehe! I'm on cloud nine after eatin' all\nthis good\nfood ya made for me! I'm\nready to give it my all\ntoday, too!"
     },
     {
       "name": "Inari One",
-      "text": "From here on out, I'd like to pack my \ntraining with a super stacked menu. I'm \ncounting on you, Trainer!",
-      "choice_data_list": []
+      "text": "Urp... That was... real tasty..."
     },
     {
-      "name": "",
-      "text": "Inari One worked up an appetite from her \nintense training... and managed to devour \nall of the food gifts happily.",
-      "choice_data_list": []
+      "name": "Student A",
+      "text": "I-Inari? Are you okay?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Y-yeah... So yummy... Thanks for... the\nfood..."
+    },
+    {
+      "name": "Students",
+      "text": "I-Inariii!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Inari One may have eaten everything\nthat was\ngifted to her, but it kills her\nappetite for the next\ntwo days."
+    },
+    {
+      "name": "Inari One",
+      "text": "Now there's an idea! Let's have ourselves\na picnic!"
+    },
+    {
+      "name": "Student A",
+      "text": "Oh, should I get some drinks, then? I can\nget a\nblanket for us to sit on too!"
+    },
+    {
+      "name": "Inari One",
+      "text": "That'd be great, thanks! Feel free to\ninvite more\nof your friends while you're\nat it!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We end up throwing an impromptu\npicnic in a\ncorner of the track."
+    },
+    {
+      "name": "Inari One",
+      "text": "Hey, that's real smart! This food would\ngo to\nwaste if I don't work up an\nappetite first!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Don't take it easy on me! I'm expectin' a\nreal\nchallenge, Trainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I throw some intense training at Inari\nOne so she'll\nbe nice and hungry, and\nshe manages to eat\neverything up with a\nhuge smile on her face."
     }
   ]
 }

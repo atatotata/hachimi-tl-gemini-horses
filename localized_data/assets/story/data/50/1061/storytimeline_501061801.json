@@ -3,251 +3,179 @@
   "text_block_list": [
     {
       "name": "King Halo",
-      "text": "Geez, why is this happeningーー?!",
-      "choice_data_list": [
-        "What happened?!",
-        "What happened?!"
-      ]
+      "text": "Ugh! <i>Whyyy?!</i>"
     },
     {
       "name": "King Halo",
-      "text": "Wait, isn't the signal here way too bad?! \nAt this rate—",
-      "choice_data_list": []
+      "text": "The signal around here is just <i>abysmal!</i>\nAt this\nrate..."
     },
     {
       "name": "King Halo",
-      "text": "\"At this rate, I... I won't make it in \ntime... Even though I've waited all this \ntime, not like this...!\"",
-      "choice_data_list": []
+      "text": "At this rate... I'll run out of time... I've\nbeen\nwaiting ever so patiently too...\nNgh."
     },
     {
       "name": "King Halo",
-      "text": "Ngh...! If that's how it is, we'll just \nfind a spot with good reception! You help \nout too!!",
-      "choice_data_list": []
+      "text": "Rrgh! Well, I shall just have to find an\narea with\nbetter reception! And you!\nCome help me!"
     },
     {
-      "name": "Narrator",
-      "text": "...Judging by how distressed she looks, \nshe might be waiting for an important \nmessage.",
-      "choice_data_list": [
-        "Got it!"
-      ]
+      "name": "Monologue",
+      "text": "Judging by how desperate she seems,\nshe must be\nwaiting on a really\nimportant message."
     },
     {
       "name": "King Halo",
-      "text": "\"In an open area like this, the signal \nshould reach just fine—\"",
-      "choice_data_list": []
+      "text": "This area is nice and open, so we should\nbe able\nto get some decent network\ncoverage..."
     },
     {
       "name": "King Halo",
-      "text": "Aah! No good, nothing's changing!! How \nabout you?",
-      "choice_data_list": [
-        "Looks like it's no good"
-      ]
+      "text": "Agh! I don't believe it! There's no\ndifference at all!\nAny luck on your\nphone?"
     },
     {
       "name": "King Halo",
-      "text": "Ah, geez! You clunky signal receiver! \nNext!",
-      "choice_data_list": []
+      "text": "Ugh! This <i>dingus</i> of a network! To the\nnext area!"
     },
     {
       "name": "King Halo",
-      "text": "Ohohoho! Indeed! If the signal is too far, \ngetting closer should surely—",
-      "choice_data_list": []
+      "text": "Ohohoho! That's right! When one has\n<i>low</i> signal,\nthen surely the solution is to\nget <i>higher</i> to reach\nit!"
     },
     {
       "name": "King Halo",
-      "text": "Off the board--!!",
-      "choice_data_list": []
+      "text": "\"No signal\"?!"
     },
     {
       "name": "King Halo",
-      "text": "Why?! We're closer to the satellite than \nwe were a moment ago, aren't we?!",
-      "choice_data_list": [
-        "Cell phone signals have nothing to do with \nsatellites, you know..."
-      ]
+      "text": "But why?! Surely we're closer to the\nsatellite now\nthan we were before!"
     },
     {
       "name": "King Halo",
-      "text": "Huh!? Isn't it being transmitted from a \nsatellite!?",
-      "choice_data_list": []
+      "text": "Pardon?! Is the signal not broadcast from\na\nsatellite?!"
     },
     {
-      "name": "Narrator",
-      "text": "When I explained that radio waves are \ntransmitted via base station antennas...",
-      "choice_data_list": []
-    },
-    {
-      "name": "King Halo",
-      "text": "\"Why didn't you say that sooner?! Where's \nthe antenna? Even if it's in the next town \nover, I'll go!\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I explain that phone network signals are\n\ndistributed via base station antennas."
     },
     {
       "name": "King Halo",
-      "text": "Ah... The signal...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "We searched all over for cell service \nafter that, but just couldn't seem to find \nany.",
-      "choice_data_list": [
-        "(Is there anywhere else with good \nreception—)"
-      ]
-    },
-    {
-      "name": "Beach Hut Customer A",
-      "text": "Doesn't this mega-portion yakisoba look \ntotally photogenic?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Beach Hut Customer B",
-      "text": "Sounds good! Let's take a video of you \neating and send it to everyone!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Cell service strong enough to send \nvideo... Could that beach shack have—\"",
-      "choice_data_list": [
-        "Found a signal!",
-        "Found a signal!"
-      ]
+      "text": "Why didn't you tell me that sooner?!\nWhere's an\nantenna? I'll go to the next\ntown over to find one\nif I must!"
     },
     {
       "name": "King Halo",
-      "text": "*sigh*... Talk about missing what's right \nunder your nose. To think that shop had \nWi-Fi all along.",
-      "choice_data_list": []
+      "text": "Ahh... Where are you, reception?"
+    },
+    {
+      "name": "Monologue",
+      "text": "We try out several more places in hopes\nof\nfinding a better signal, but struggle to\nget a\nsingle bar anywhere."
+    },
+    {
+      "name": "Beachgoer A",
+      "text": "This giant mountain of yakisoba is totally\n\npost-worthy!"
+    },
+    {
+      "name": "Beachgoer B",
+      "text": "For sure! Let's get a vid of you eating it\nand send\nit to everyone!"
+    },
+    {
+      "name": "Monologue",
+      "text": "They have enough reception to send a\nvideo?\nCould this be the salvation we've\nbeen looking\nfor?!"
     },
     {
       "name": "King Halo",
-      "text": "Yet, with this, at long last…… at long \nlast……",
-      "choice_data_list": []
+      "text": "<i>Sigh...</i> This must be what they mean\nwhen they\nsay the darkest place is under\nthe candlestick. I'd\nnever have\nsuspected that snack shack would\nhave\nWi-Fi."
     },
     {
       "name": "King Halo",
-      "text": "Finally, I can watch my drama!!",
-      "choice_data_list": [
-        "Wait, a drama...!?"
-      ]
+      "text": "But now I can finally... <i>finally...</i>"
     },
     {
       "name": "King Halo",
-      "text": "Yes! Today's the release day for the \nlatest chapter of *Court & Noble*!",
-      "choice_data_list": []
+      "text": "Finally watch my show!"
     },
     {
       "name": "King Halo",
-      "text": "\"In today's episode, the heroine stands in \nthe courtroom for the first time! After \nendless preparations, she finally reaches \nthe decisive moment!\"",
-      "choice_data_list": []
+      "text": "Why, yes! Today's the day the latest\nepisode of\n<i>The Noble Court</i> becomes\navailable to watch\nonline!"
     },
     {
       "name": "King Halo",
-      "text": "\"It'd totally ruin the mood if the video \nbuffered halfway through, right? I'm so \nglad I downloaded it!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "...To think she ran all over mountains and \nseas just to download an overseas drama. \nStill, seeing how happy she looked was \nrather endearing—",
-      "choice_data_list": []
+      "text": "The main character is set to appear in\ncourt for\nthe very first time! She's been\ndiligently preparing\nfor the case, and\nnow the critical moment's finally\narrived!"
     },
     {
       "name": "King Halo",
-      "text": "...Wait, what? What are you grinning at?",
-      "choice_data_list": [
-        "No, I just realized how much you must love \nthat drama."
-      ]
+      "text": "It'd be devastating if the stream\nsuddenly froze\nwhile I was watching it!\nWhat a relief that I\nactually managed to\ndownload the episode."
+    },
+    {
+      "name": "Monologue",
+      "text": "I can't believe we braved mountains and\n\ncoastlines solely to download an episode\nof a\nshow. Although, it does warm my\nheart to see\nKing Halo looking so\nhappy..."
     },
     {
       "name": "King Halo",
-      "text": "!! ...J-Just so you know! It's not like I \nwas desperate just because I like you!",
-      "choice_data_list": []
+      "text": "...Hm, excuse me? What are you grinning\nabout?"
     },
     {
       "name": "King Halo",
-      "text": "It's not for childish reasons like that! I \nmean, so... what I'm saying is—",
-      "choice_data_list": []
+      "text": "Huh?! J-just to let you know, my frantic\nbehavior\nhad nothing to do with my\nfondness for this\nseries!"
     },
     {
       "name": "King Halo",
-      "text": "It's practically a mission of mine!",
-      "choice_data_list": []
+      "text": "It was certainly not for such a childish\nreason! This\nwas just... Uh..."
     },
     {
       "name": "King Halo",
-      "text": "A first-rate lady must always stay \nsensitive to current trends!",
-      "choice_data_list": []
+      "text": "Duty! It's akin to a <i>duty!</i>"
     },
     {
       "name": "King Halo",
-      "text": "Especially if it's an overseas TV drama \nthat's all the rage among celebrities \nworldwide!",
-      "choice_data_list": []
+      "text": "One who is first-rate must remain acutely\naware\nof popular trends!"
     },
     {
       "name": "King Halo",
-      "text": "Besides, since I was already watching it, \nI was curious to see how it continued...",
-      "choice_data_list": []
+      "text": "<i>Especially</i> foreign TV series that are\nbecoming a\nhot topic among celebrities\naround the world!"
     },
     {
       "name": "King Halo",
-      "text": "It always ends right at the best part. I \nwonder what happened after that...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "King Halo desperately wants to watch \noverseas TV dramas. In that case—",
-      "choice_data_list": [
-        "You can watch your drama when we get back.",
-        "You can watch your drama when we get back.",
-        "...No staying up late, all right?",
-        "...No staying up late, okay?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "King Halo desperately wants to watch \noverseas TV dramas. In that case—",
-      "choice_data_list": [
-        "You can watch your drama when we get back.",
-        "You can watch your drama when we get back.",
-        "...No staying up late, all right?",
-        "...No staying up late, okay?"
-      ]
+      "text": "And besides, once I started watching, I\ngrew\ncurious as to how the story would\nunfold."
     },
     {
       "name": "King Halo",
-      "text": "You don't have to tell me, of course \nthat's the plan! You'd better hurry up \nand—",
-      "choice_data_list": []
+      "text": "The episodes always end on such\ncliffhangers, you\nsee. I wonder what\nhappens after that last one..."
+    },
+    {
+      "name": "Monologue",
+      "text": "It looks like King Halo is desperate to\nwatch the\nnext episode of her show. I\nshouldn't keep her."
+    },
+    {
+      "name": "Monologue",
+      "text": "It looks like King Halo is desperate to\nwatch the\nnext episode of her show. I\nshouldn't keep her."
     },
     {
       "name": "King Halo",
-      "text": "...Ah. Um... well, how should I put it?",
-      "choice_data_list": []
+      "text": "I have every intention of doing just that!\nIn fact,\n<i>you</i> ought to—"
     },
     {
       "name": "King Halo",
-      "text": "Today's success is thanks to your efforts. \nThis King will generously grant you \npraise!",
-      "choice_data_list": []
+      "text": "...Ah. Well, hmm. How should I put this?"
     },
     {
       "name": "King Halo",
-      "text": "Savor this joy, and get plenty of rest!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "With that, she happily returned to her \nroom.",
-      "choice_data_list": []
+      "text": "You served me splendidly today! I\nhereby\ncommend your efforts!"
     },
     {
       "name": "King Halo",
-      "text": "………………Yes, of course! It's only one \nepisode, so it'll be fine! Besides—",
-      "choice_data_list": []
+      "text": "Now, relish in your joy as you get some\nproper\nrest!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After issuing her command, King Halo\npractically\nflounces back to her room."
     },
     {
       "name": "King Halo",
-      "text": "As a first-rate lady, why would I ever get \ndistracted by anything other than what \nI've chosen to watch?",
-      "choice_data_list": []
+      "text": "Of course I won't! Who do you take me\nfor? It's\nonly a single episode, so it's\nquite all right! And\nbesides..."
     },
     {
-      "name": "Narrator",
-      "text": "King Halo seemed completely confident in \nher ability not to stay up late.",
-      "choice_data_list": []
+      "name": "King Halo",
+      "text": "As a viewer with first-rate self-control,\nI'd never\nwatch more than the set\nnumber of episodes I\ndecide for myself!"
+    },
+    {
+      "name": "Monologue",
+      "text": "As she makes this assertion, King Halo\nbrims with\nconfidence in her ability to\nresist binging on her\nshow and pulling an\nall-nighter."
     }
   ]
 }

@@ -2,55 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Special Week—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while out with Special Week..."
     },
     {
       "name": "Special Week",
-      "text": "\"Wah! Tr-Tr-Trainer, look at this!!\"",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Ooooh! Trainer, look!"
     },
     {
       "name": "Special Week",
-      "text": "That one, right there! —The crane game!!",
-      "choice_data_list": []
+      "text": "Over there! It's a claw machine!"
     },
     {
-      "name": "Narrator",
-      "text": "Looking where Special Week was pointing, I \nsaw a claw machine filled with plushies \nmodeled after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Special Week",
-      "text": "Whoa, whoa, whoaaaa...! As expected of the \nbig city, they even have merchandise like \nthis...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I look in the direction Special Week is\npointing\nand see a claw machine filled\nwith Umamusume\nplushies."
     },
     {
       "name": "Special Week",
-      "text": "Must be nice... I wonder if Mom would be \nhappy if I sent her one...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Special Week's eyes were sparkling as \nbrightly as they possibly could...",
-      "choice_data_list": [
-        "...Want me to get that for you?",
-        "...Shall I get that for you?"
-      ]
+      "text": "Oh my gosh, wow! You know you're out\nof the\nsticks when you find merchandise\nlike this!"
     },
     {
       "name": "Special Week",
-      "text": "Huh!? A-Are you really sure...!?",
-      "choice_data_list": []
+      "text": "How nice... I bet my mom would be\nhappy if I sent\nher one!"
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Special Week's eyes are sparkling\nbrighter than\ndiamonds..."
+    },
+    {
+      "name": "Special Week",
+      "text": "What? R-really?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

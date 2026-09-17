@@ -2,106 +2,80 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "As for Seiun Sky at the end of the summer \ncamp—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Summer camp's coming to an end..."
     },
     {
       "name": "Seiun Sky",
-      "text": "...*yawn*.",
-      "choice_data_list": []
+      "text": "<i>Yawn...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "During the camp, she followed every \ninstruction faithfully, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Nope, totally off. This is a secret \nstrategy meeting! We wanna conquer the \nKikuka Sho, right?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Unlike last year, she didn't offer any \nsuggestions. Just then—",
-      "choice_data_list": []
-    },
-    {
-      "name": "King Halo",
-      "text": "Ohohoho! I went from first-rate to ultra, \nultra, ultra-first-rate!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And Seiun Sky did everything I asked of\nher at\ncamp, but..."
     },
     {
       "name": "Seiun Sky",
-      "text": "...*yawn*",
-      "choice_data_list": []
+      "text": "No, get over that already. This is a\nsecret tactical\nmeeting! You <i>do</i> wanna\ncome up with a strategy\nfor the Kikuka\nSho, right?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Unlike last year, she didn't offer up a\nsingle\nstrategy. So now..."
     },
     {
       "name": "King Halo",
-      "text": "……。",
-      "choice_data_list": [
-        "W-Wait, Sky—"
-      ]
-    },
-    {
-      "name": "King Halo",
-      "text": "No, it's fine. If you're out of it, you're \nthe one who suffers, Sky-san.",
-      "choice_data_list": []
-    },
-    {
-      "name": "King Halo",
-      "text": "Listen, I've honed my weapons to \nperfection. Enough to defeat you at the \nAutumn Tenno Sho.",
-      "choice_data_list": []
-    },
-    {
-      "name": "King Halo",
-      "text": "How about you...? Did you master your \nunorthodox ways even further this summer?",
-      "choice_data_list": []
+      "text": "Ohohoho! I've gone from first-rate to\noutlandishly\nsuperior first-rate!"
     },
     {
       "name": "Seiun Sky",
-      "text": "\"...Who knows? Trainer, I'm getting on the \nbus ahead of you~\"",
-      "choice_data_list": []
+      "text": "<i>Yawn...</i>"
     },
     {
       "name": "King Halo",
-      "text": "\"...Don't tell me she's lost her will to \nfight?\"",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "King Halo",
-      "text": "She's been acting strange ever since the \nTakarazuka Kinen. Could racing against \nSpecial Week and the others have made her \nlose the will to run...?",
-      "choice_data_list": [
-        "No way."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Seiun Sky has always overcome every wall \nwithout ever giving up. She certainly \nwon't give up this time, either.",
-      "choice_data_list": []
+      "text": "No, it's quite all right. Sky's fecklessness\nis <i>her</i>\nissue."
     },
     {
       "name": "King Halo",
-      "text": "...Still.",
-      "choice_data_list": [
-        "I'll talk to her.",
-        "I'll talk to her."
-      ]
+      "text": "I've polished my racing arsenal, you\n\nknow—sufficiently enough to crush you\nin the\nautumn Tenno Sho."
     },
     {
       "name": "King Halo",
-      "text": "...Whether it's across the back or on the \ncheek, go give them a good, hard slap.",
-      "choice_data_list": []
+      "text": "But what's happened with you? Did you\nspend\nyour summer continuing down the\npath of\nimpropriety?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...I dunno. Trainer, I'm gonna go ahead\nand get on\nthe bus."
     },
     {
       "name": "King Halo",
-      "text": "Because you're that girl's Trainer, after \nall.",
-      "choice_data_list": []
+      "text": "She hasn't seriously lost her will to fight,\nhas she?"
     },
     {
-      "name": "Narrator",
-      "text": "And so, a summer training camp that left \nme with plenty of homework as a Trainer \ncame to a close.",
-      "choice_data_list": []
+      "name": "King Halo",
+      "text": "Ever since the Takarazuka Kinen, she's\nbeen\nacting so strangely. Did she lose\nher desire to\nrace after competing\nagainst Special Week and\nthe others?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Seiun Sky has overcome obstacle after\nobstacle\nwithout giving up once. There's\nno way she'd\nthrow in the towel now."
+    },
+    {
+      "name": "King Halo",
+      "text": "And yet..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Remember—you mustn't be afraid to use\nthe stick\nwhen the carrot doesn't do the\njob."
+    },
+    {
+      "name": "King Halo",
+      "text": "You <i>are</i> her trainer after all."
+    },
+    {
+      "name": "Monologue",
+      "text": "Summer camp is over, but I'm left with\nsome work\nto do as a trainer."
     }
   ]
 }

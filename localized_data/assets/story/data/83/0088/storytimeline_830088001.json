@@ -2,158 +2,144 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The day following heavy rainfall. While \nasking a familiar groundskeeping staff \nmember about the current track conditions—"
+      "name": "Monologue",
+      "text": "The day after a bout of heavy rain, I go\nto check\nin about the status of the track\nwith a staff\nmember I'm acquainted with,\nwhen..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Um, excuse me! Do you have a quick moment?"
+      "text": "Excuse me! Might we have a moment of\nyour\ntime?"
     },
     {
-      "name": "Groundskeeper",
-      "text": "Ah, go right ahead! Trainer-san and I just \nfinished our conversation. I'll take my \nleave now!"
+      "name": "Track Maintenance Staff",
+      "text": "Ah, yes, of course. We were just\nfinishing up our\nconversation. I'll be off,\nthen!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Ah, wait, no, don't leave! We actually \nwanted to talk to you!"
+      "text": "Wait! We're actually hoping to speak\nwith <i>you!</i>"
     },
     {
       "name": "Satono Diamond",
-      "text": "You're part of the course maintenance \nstaff, right? May we ask you a question?"
+      "text": "You're in charge of taking care of the\ntraining\ntrack, yes? Would it be all right\nif we asked you a\nfew questions?"
     },
     {
-      "name": "Groundskeeper",
-      "text": "Oh, were you two also curious about the \ncondition of the turf?"
+      "name": "Track Maintenance Staff",
+      "text": "Sure. I'm guessing yesterday's rain has\nyou two\nworried, huh?"
     },
     {
-      "name": "Groundskeeper",
-      "text": "Yesterday's downpour was terrible, after \nall. But don't worry, it's completely \nready for use today!"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Yes, exactly! That's what I find so \nmysterious!",
-      "choice_data_list": [
-        "What do you find mysterious?"
-      ]
+      "name": "Track Maintenance Staff",
+      "text": "It really poured out here, didn't it? But\nyou don't\nhave to worry. It's totally fine\nto use it today!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Well, the truth is, yesterday—"
+      "text": "I can see that, but that's why it's so\nterribly\nstrange!"
     },
     {
       "name": "Satono Diamond",
-      "text": "The rain just won't stop. Will we even be \nable to run by tomorrow's morning \npractice?"
+      "text": "You see, yesterday..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "It doesn't appear like the rain will stop. I\nwonder\nif it'll be dry enough to train on\nby tomorrow\nmorning."
     },
     {
       "name": "Kitasan Black",
-      "text": "Let's go check it out first thing tomorrow \nanyway! Even if we can only do light \nstretches, it'll be worth it!"
+      "text": "We'll just have to come check! At the\nvery least,\nwe'll be able to do stretches!"
     },
     {
       "name": "Satono Diamond",
-      "text": "And then when we arrived at the course \nthis morning, it was in immaculate \ncondition! We were so astonished!"
+      "text": "We didn't have our hopes up, so we\nwere\nsurprised how pristine and dry the\ntrack was! It\nwas like yesterday's rain\nnever even happened!"
     },
     {
-      "name": "Groundskeeper",
-      "text": "Haha, the areas that hadn't dried out by \nmorning, we fixed up by hand. This track \nis precious to all of you students, after \nall."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Huh, by hand, you say?! Wait, when did you \nmanage that...!? Because early this \nmorning, it was already—"
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "We know there are hardworking students \nlike you who come out for early morning \npractice."
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "So we always make sure our morning \nmaintenance is completely finished before \nthe gates open.",
-      "choice_data_list": [
-        "That sounds like terribly hard work...!"
-      ]
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "Ahaha, it certainly is. But that's exactly \nwhy it feels so rewarding."
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "Pouring your heart out against rivals on \nthe stage of your dreams."
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "If we can support you girls from behind \nthe scenes, waking up a little early is \nnothing at all.",
-      "choice_data_list": [
-        "I know exactly how that feels."
-      ]
+      "name": "Track Maintenance Staff",
+      "text": "Haha. Well, it wasn't all dry this\nmorning, but I\nfinished up the job with\nsome elbow grease.\nGotta keep the\ntrack ready for everyone, right?"
     },
     {
       "name": "Satono Diamond",
-      "text": "—Um! May I ask one more question?"
+      "text": "Wait, you mean you dried it off\nmanually?! But\nwhen?! It was already\ncompletely dry early this\nmorning."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "Well, there's diligent athletes like you\nwho come\nout at the crack of dawn to\npractice. You\nmotivate me to work just\nas hard."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "That's why I always make sure to wrap\nup my\nmorning routine before the\ngrounds open for the\nday."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "Haha. I won't argue with that. But it's all\nof you\nwho make my job worth doing."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "Running in the competition of your\ndreams\nagainst your rivals..."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "If waking up a little earlier than normal\nmeans I\ncan help you all achieve your\ngoals, then I'm more\nthan happy to do\nso."
     },
     {
       "name": "Satono Diamond",
-      "text": "If that's the case, why did you choose to \nwork here at Tracen Academy instead of the \ngrand stage itself—the official \nracetracks?"
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "Ah, well..."
-    },
-    {
-      "name": "Horse Girl A",
-      "text": "Trainer-san, *sob*! Thanks to you, I... I \nfinally... I finally made my dream come \ntrueee!"
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "Seeing her speak through her tears moved \nme deeply. I couldn't help but wonder how \nmuch relentless effort she had put in \nbehind that glorious moment."
-    },
-    {
-      "name": "Groundskeeper",
-      "text": "Once that thought crossed my mind, I \ncouldn't just sit by. I wanted to support \nthat daily, unseen effort, and that's why \nI came to Tracen Academy!",
-      "choice_data_list": [
-        "So that's the story behind it."
-      ]
-    },
-    {
-      "text": "After parting ways with the groundskeeper \nand returning to the plaza, both girls \nwore deeply thoughtful expressions."
+      "text": "Um! Do you mind if I ask one more\nquestion?"
     },
     {
       "name": "Satono Diamond",
-      "text": "We've been receiving so much help behind \nthe scenes without even realizing it, \nhaven't we?"
+      "text": "What made you decide to work at\nTracen\nAcademy instead of the\nracecourses that hold\nthose competitions\nwe all dream of?"
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "Well, that's because..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Thank you so much, Trainer! Because of\nyou, I was\nfinally able to realize my\ndream!"
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "Seeing that racer crying in joy at her\nmoment of\ntriumph moved me. It made\nme wonder just how\nhard she had to\nwork to reach her goal."
+    },
+    {
+      "name": "Track Maintenance Staff",
+      "text": "The more I thought of it, the more\nrestless I\nbecame. I wanted to do all I\ncould to help racers\nfulfill their dreams,\nso I came here to Tracen!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After seeing the staff member off, I\ncome back to\nfind the two students with\nserious looks on their\nfaces."
     },
     {
       "name": "Satono Diamond",
-      "text": "We must never take that for granted. \nHearing his story made me feel that with \nall my heart."
+      "text": "I never considered how hard the staff\nworked to\nsupport us."
     },
     {
       "name": "Satono Diamond",
-      "text": "...I wish there was some way we could \nthank them..."
+      "text": "I really feel I mustn't take their efforts\nfor\ngranted, especially after that\nconversation."
     },
     {
       "name": "Satono Diamond",
-      "text": "Not just the groundskeepers—no. There are \nso many others supporting us as well..."
+      "text": "If only we could do something to show\nthem our\nappreciation..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "And it's not just the maintenance staff\nwe have to\nthank either, is it?"
     },
     {
       "name": "Kitasan Black",
-      "text": "You're right. Whenever we go to the \ncafeteria, warm and delicious meals are \nalways waiting for us—"
+      "text": "Right. There are also the cooks in the\ncafeteria\nwho make us such delicious\nmeals every day."
     },
     {
       "name": "Satono Diamond",
-      "text": "And thanks to the janitorial staff, the \nacademy grounds are always kept spotless."
+      "text": "And also the custodians who keep the\nacademy\nnice and clean."
     },
     {
       "name": "Satono Diamond",
-      "text": "If we were to do something to show our \nappreciation to everyone...",
-      "choice_data_list": [
-        "What do you think would make them happy?",
-        "I wonder what would make them happy?"
-      ]
+      "text": "What if we did something for everyone\nto show\nthem our thanks?"
     },
     {
       "name": "Satono Diamond",
-      "text": "...I'm going to give it some serious \nthought right now!"
+      "text": "I'm going to start thinking of something\nright\naway!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Now that we've realized how much support \nwe receive, I want to make sure our \ngratitude truly reaches them!"
+      "text": "Now that I've realized the extent to\nwhich\neveryone supports us, I want to\nmake sure I\nexpress my gratitude to all\nof them!"
     }
   ]
 }

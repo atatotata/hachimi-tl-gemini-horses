@@ -2,120 +2,84 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Meisho Doto got injured during training, \nso I brought her to the infirmary.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I escort Meisho Doto to the infirmary\nafter she\nsuffers an injury during training."
     },
     {
       "name": "Meisho Doto",
-      "text": "I'm sorry, I'm truly sorry! All I do is \ncause trouble... ugh...",
-      "choice_data_list": []
+      "text": "I'm sorry! I'm so sorry! I'm always causing\nyou\ntrouble... Oogh."
     },
     {
       "name": "Meisho Doto",
-      "text": "I-I'll go train right aw... Eek!",
-      "choice_data_list": [
-        "If it hurts, let's call it off."
-      ]
+      "text": "I promise I'll be back to training as soon\n\nas—Ouch!"
     },
     {
       "name": "Meisho Doto",
-      "text": "B-But... if I just stand still like this, \nI feel like I'll lose even more \nconfidence...",
-      "choice_data_list": []
+      "text": "B-but... I won't have any confidence to\nspare if I\nstop now..."
     },
     {
       "name": "Meisho Doto",
-      "text": "I can still keep going...! An injury like \nthis... is n-no big deal at aaall!!",
-      "choice_data_list": [
-        "I need you to rest for now.",
-        "Wanna head back and get some training in?",
-        "Wanna head back and get some training in?"
-      ]
+      "text": "I can still keep going! This injury won't\nh-hold me\ndown!"
     },
     {
       "name": "Meisho Doto",
-      "text": "I can still keep going...! An injury like \nthis... is n-no big deal at aaall!!",
-      "choice_data_list": [
-        "I need you to rest for now.",
-        "Wanna head back and get some training in?",
-        "Wanna head back and get some training in?"
-      ]
+      "text": "I can still keep going! This injury won't\nh-hold me\nback!"
     },
     {
       "name": "Meisho Doto",
-      "text": "“Still, I just couldn't sit still and do \nnothing— I'll stop if the pain gets worse. \nSo please...!”",
-      "choice_data_list": [
-        "It might delay your recovery."
-      ]
+      "text": "But, I really can't stand to stay put... If\nthe pain\ngets too bad, I'll stop. So,\nplease!"
     },
     {
       "name": "Meisho Doto",
-      "text": "T-That's... Ugh.",
-      "choice_data_list": []
+      "text": "W-well..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Understood... I'll take a rest.",
-      "choice_data_list": []
+      "text": "All right... I'll get some rest."
     },
     {
       "name": "Meisho Doto",
-      "text": "...*sob*, ugh. I'm, I'm so zorry... \nGetting injured has made me even more \nuseless, uwaaah.",
-      "choice_data_list": []
+      "text": "Guh... I've made a big mess of things\nwith this\ninjury... I'm so sorry."
     },
     {
-      "name": "Narrator",
-      "text": "Swallowing her frustration, Meisho Doto \nrested quietly until her injuries \nhealed...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Y-Yes...! Thank you, Trainer!",
-      "choice_data_list": [
-        "Promise me you won't push yourself too \nhard."
-      ]
+      "name": "Monologue",
+      "text": "Meisho Doto swallows her\ndisappointment,\nchoosing to rest until\nshe's fully healed."
     },
     {
       "name": "Meisho Doto",
-      "text": "I-I will! I'll stop if the pain gets \nworse, okay?!",
-      "choice_data_list": []
+      "text": "Y-yes, of course! Thank you so much,\nTrainer!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Carefully... if I adjust my strength just \nlike this...",
-      "choice_data_list": []
+      "text": "I p-promise! I'll stop if the pain gets too\nmuch!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ow... Owwwwww... !?",
-      "choice_data_list": []
+      "text": "Careful now... It should be fine if I don't\nuse too\nmuch strength."
     },
     {
       "name": "Meisho Doto",
-      "text": "I barely used any force at all... Wheee, I \ncan't move like this...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Straining herself seems to have put extra \nstress on her body, causing her injury to \nworsen...",
-      "choice_data_list": []
+      "text": "O-owowowwww!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ooh... Looks like I can manage it. At this \nrate, I might even be able to push a bit \nharder...",
-      "choice_data_list": [
-        "Let's keep it restrained!"
-      ]
+      "text": "That was a fraction of my strength... Urk,\nI can't\nwalk like this."
+    },
+    {
+      "name": "Monologue",
+      "text": "Exerting any level of force seems to be a\ntaxing\nendeavor, and her injury only\nworsens."
     },
     {
       "name": "Meisho Doto",
-      "text": "\"Y-Yes! You're right. We promised not to \npush ourselves too hard...!\"",
-      "choice_data_list": []
+      "text": "Oh... I... think I can manage still. With\njust a bit\nmore effort, maybe—"
     },
     {
-      "name": "Narrator",
-      "text": "By learning to control her output, Meisho \nDoto was able to return to practice!",
-      "choice_data_list": []
+      "name": "Meisho Doto",
+      "text": "Y-yes! That's right. I have that... promise\nto keep!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Meisho Doto keeps her strength in\ncheck,\nsuccessfully returning to practice!"
     }
   ]
 }

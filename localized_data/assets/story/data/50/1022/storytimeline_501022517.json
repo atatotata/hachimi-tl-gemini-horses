@@ -2,39 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Cooking-Lover Umamusume",
-      "text": "Everyone! I made food in the kitchen, and \nended up with way more than expected! Have \nsome if you'd like!",
-      "choice_data_list": []
+      "name": "Cooking Enthusiast Umamusume",
+      "text": "Okay, everyone! I'm all finished in the\nkitchen,\nand the food turned out even\nbetter than\nexpected! Please dig in!"
     },
     {
       "name": "Fine Motion",
-      "text": "Waah~ Looks delicious! Can I take a \npicture? Of the food, and the person who \nmade it!",
-      "choice_data_list": []
+      "text": "Wow, it all looks so scrumptious! Is it\nokay if I\ntake a photo of the food? And\nof course I need\nthe chef in the shot!"
     },
     {
-      "name": "Narrator",
-      "text": "(Snap!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fine Motion",
-      "text": "...Wait, 'Unable to save'?",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Click!</i>"
     },
     {
       "name": "Fine Motion",
-      "text": "Ah, the storage capacity is full!",
-      "choice_data_list": []
+      "text": "...Huh? \"Photo can't be saved\"?"
     },
     {
       "name": "Fine Motion",
-      "text": "I guess I have to delete one of them... \nUgh, I can't choose~...!",
-      "choice_data_list": []
+      "text": "Oh no, there's no more space!"
     },
     {
-      "name": "Narrator",
-      "text": "Fine Motion felt a little down after \nfailing to preserve the memory...",
-      "choice_data_list": []
+      "name": "Fine Motion",
+      "text": "I guess I have to delete some photos...\nUgh,\nthere's no way I can choose!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Unable to record this new memory, Fine\nMotion's\nspirits dip slightly."
     }
   ]
 }

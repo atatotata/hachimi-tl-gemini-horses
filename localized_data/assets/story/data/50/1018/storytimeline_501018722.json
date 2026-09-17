@@ -2,44 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "I was explaining the training routine to \nAir Groove, but she didn't seem to be \nfeeling well at all...",
-      "choice_data_list": [
-        "Are you okay?"
-      ]
+      "name": "Monologue",
+      "text": "I'm explaining today's training plan to\nAir\nGroove, but she seems off-kilter."
     },
     {
       "name": "Air Groove",
-      "text": "\"It's nothing... pay it no mind. Continue \nyour explanation.\"",
-      "choice_data_list": [
-        "You don't look so good.",
-        "You don't look so good."
-      ]
+      "text": "I'm fine. Continue what you were saying."
     },
     {
       "name": "Air Groove",
-      "text": "Aargh, I told you I'm fine, didn't I?!",
-      "choice_data_list": []
+      "text": "If I say I'm fine, I'm fine—end of\ndiscussion."
     },
     {
       "name": "Air Groove",
-      "text": "Ouch...",
-      "choice_data_list": []
+      "text": "Ow..."
     },
     {
       "name": "Air Groove",
-      "text": "My apologies. How careless of me... I've \nhad a terrible headache lately.",
-      "choice_data_list": []
+      "text": "Apologies. To tell you the truth, I've\nbeen\nsuffering from a migraine recently."
     },
     {
       "name": "Air Groove",
-      "text": "I'm feeling strangely irritated... *sigh*",
-      "choice_data_list": []
+      "text": "It's put me in a foul mood. <i>Sigh...</i>"
     },
     {
-      "name": "",
-      "text": "Air Groove seems to be suffering from a \nheadache...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove seems to be plagued by a\nsevere\nheadache."
     }
   ]
 }

@@ -2,50 +2,36 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "On a rainy day, as I was walking down the \nhallway—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm walking down the hall on a rainy day,\nwhen..."
     },
     {
-      "name": "",
-      "text": "I slipped on a wet patch and stumbled.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Big Brother, are you okay?! Aah... Rice \nreally is...",
-      "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
-      ]
+      "name": "Monologue",
+      "text": "I slip on a wet spot and stumble."
     },
     {
       "name": "Rice Shower",
-      "text": "Big Sister, are you okay!? Aaah... Rice \nreally is just...",
-      "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
-      ]
+      "text": "Are you okay, Big Brother?! Aaah... Of\ncourse this\nwould happen."
     },
     {
       "name": "Rice Shower",
-      "text": "Rice cleaned the hallway today... And \nbecause of that, Big Brother was in \ndanger... Uuu...",
-      "choice_data_list": []
+      "text": "Are you okay, Big Sister?! Aaah... Of\ncourse this\nwould happen."
     },
     {
       "name": "Rice Shower",
-      "text": "Rice cleaned the hallway today... And \nbecause of that, Big Sister was in \ndanger... Uuu...",
-      "choice_data_list": []
+      "text": "Well, I'm the one who cleaned the hall\ntoday... so\nit's my fault you had such a\nclose call... <i>Sniffle...</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "I'm sorry, it's all Rice's fault...!",
-      "choice_data_list": []
+      "text": "Well, I'm the one who cleaned the hall\ntoday... so\nit's my fault you had such a\nclose call... <i>Sniffle...</i>"
     },
     {
-      "name": "",
-      "text": "It seems Rice Shower has gotten \ndiscouraged.",
-      "choice_data_list": []
+      "name": "Rice Shower",
+      "text": "I'm sorry! I'm to blame!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice Shower's guilt weighs heavily on her\nheart."
     }
   ]
 }

@@ -2,220 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On the way back from an outing with Hishi \nAkebono—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After a day out, Hishi Akebono and I are\non our\nway home when..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"Oh, it's Nature-chan. What are you doing \nover there?\"",
-      "choice_data_list": []
+      "text": "Hm? I wonder what Nature's up to over\nthere?"
     },
     {
       "name": "Nice Nature",
-      "text": "Oh, nice timing, Akebono! ...And \nTrainer-san, too. Could I borrow your ears \nfor a moment?",
-      "choice_data_list": []
+      "text": "Oh, good timing, Akebono! And your\ntrainer's\nhere with you, too? Hey there.\nCould you both\nlend me your ears for a\nsec?"
     },
     {
-      "name": "Narrator",
-      "text": "Nice Nature handed me a flyer. Above \nphotos of teacups, plates, and earthenware \npots, it read: \"Craft Something Special, \nJust for You.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Nice Nature hands us a flyer with\npictures of\nteacups, plates, and\nearthenware pots on it, as\nwell as the\nslogan, \"Create art unique to you.\""
     },
     {
       "name": "Hishi Akebono",
-      "text": "Free trial session... pottery class?",
-      "choice_data_list": []
+      "text": "This is for... a free trial of a ceramics\nclass?"
     },
     {
       "name": "Nice Nature",
-      "text": "Well, apparently this place is run by \nsomeone the shopping district old-timer \nknows. He told me to at least drop by and \ncheck it out, but...",
-      "choice_data_list": []
+      "text": "So, basically, I'm friends with one of the\n\nshopkeepers in the shopping district,\nand he\nasked me to stop by and observe\none of his\nclasses..."
     },
     {
       "name": "Nice Nature",
-      "text": "My schedule's a biiit packed right now, so \nI don't think I can make it. ...Aand \nthat's how it is~.",
-      "choice_data_list": []
+      "text": "Except my schedule's packed right now,\nand I\ncan't go. Sooo..."
     },
     {
       "name": "Nice Nature",
-      "text": "How about it, you two? Right now, you can \ncreate your very own special item for \nfree!",
-      "choice_data_list": []
+      "text": "Do you think you two could attend in my\nplace? If\nyou go now, you'll get to make\na ceramic piece\nfor free!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "I'm in, I'm in! I'm definitely going! \nRight, Trainer? ☆",
-      "choice_data_list": []
+      "text": "We'll go, we'll go! You don't have to us\nask twice!\nRight, Trainer? ☆"
     },
     {
-      "name": "Narrator",
-      "text": "Accompanying Hishi Akebono after her \ninstant reply, we decided to go to a \npottery class. On the day of the lesson—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "I'm so excited, Trainer! Something made \njust for me... Ehehe, once it's finished, \nI'm gonna send a picture to my dad and the \nothers!",
-      "choice_data_list": [
-        "What Is Akebono Making?",
-        "What Is Akebono Going to Make?"
-      ]
+      "name": "Monologue",
+      "text": "Since Hishi Akebono has already\nanswered for the\nboth of us, I agree to\nattend the event. On the\nday of the free\nceramics class..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"For me, it's gotta be an earthenware pot! \nI'm gonna make a clay pot so huge one \nperson can't even carry it on their own!!\"",
-      "choice_data_list": []
+      "text": "I'm so excited to make a one-of-a-kind\nart piece.\nHehe! I'll have to take a\npicture of it and send it\nto my parents\nwhen it's done!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Eeeh?! You can't make an earthenware pot?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Potter",
-      "text": "No, it's not that you can't do it. It's \njust that it is quite difficult for \nbeginners, after all...",
-      "choice_data_list": []
+      "text": "A pot for making chanko, of course! I\nwant to\nmake it so big it'll take at least\ntwo people to\nhold!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Hrmmm. Since it goes directly over the \nfire, it certainly must be quite a \nhandful...",
-      "choice_data_list": []
+      "text": "What?! I can't make a pot?!"
     },
     {
-      "name": "Potter",
-      "text": "\"I see. That's why, at first, we should \nstart with something a bit easier to \nmake—\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Understood, I'll do my best!! Clay pot!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Potter",
-      "text": "Huh, it really is an earthenware pot!?",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Well, it's not that you can't, but a pot\nwould be a\nlittle too advanced for a\nbeginner to make."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yes! Please do! Ah, of course, it's pretty \nbig, so you really don't have to do it for \nfree!",
-      "choice_data_list": []
+      "text": "Hmm... That makes sense. I bet it <i>would</i>\nbe tough\nto make something you're\nsupposed to stick right\nover a fire..."
     },
     {
-      "name": "Potter",
-      "text": "No, that's fine, but... mmm.",
-      "choice_data_list": [
-        "It's all experience, after all.",
-        "How about improving your skills before \ntaking on the challenge?"
-      ]
-    },
-    {
-      "name": "Potter",
-      "text": "Experience... yes, indeed. Having someone \nas motivated as you join us is a true \npleasure on our end as well.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Potter",
-      "text": "Understood, let's do our best!",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Exactly. Why don't you try making\nsomething\neasier fir—"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Waaa! Thank you so much! Trainer, thank \nyou to you too!",
-      "choice_data_list": []
+      "text": "Okay! I'll have to do my very best, then!\nA clay\npot it is!"
     },
     {
-      "name": "Potter",
-      "text": "Well then, let's start with the design. \nPlease try putting the image in your mind \ndown on paper.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Understood! Ehehe, let's do this☆",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "What?! You still want to make a pot?!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "It's big... with a smooth shape. It's \npacked with ingredients, and you hold it \nlike... this... and then like this...",
-      "choice_data_list": []
+      "text": "Yes, please! Oh, but I want to make a\nreally big\none, so I don't mind if you\ncharge me for the\nmaterials and\ninstruction."
     },
     {
-      "name": "Narrator",
-      "text": "The design Hishi Akebono came up with was \nso elaborate that even a professional \nwould struggle to bring it to life.",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Oh, that's of no matter to me, but...\nHmm..."
     },
     {
-      "name": "Narrator",
-      "text": "Making countless revisions along the way, \nHishi Akebono penned down her ideals with \na serious look. And then—",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Experience... Indeed. And besides, it's\ndelightful\nsimply having someone so\nenthusiastic about\nceramics attending\nthe class..."
     },
     {
-      "name": "Hishi Akebono",
-      "text": "Phew. It's done, it's done! This is mine, \nmy very own special one! How is it, \nSensei?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Potter",
-      "text": "Are you really sure about this...? I mean, \nit's a wonderful design, but it looks \nquite difficult to pull off...",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Very well! Let's do what we can!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "I'll give it my all!!",
-      "choice_data_list": []
+      "text": "Yaaay! Thank you so much! And thank\nyou, too,\nTrainer!"
     },
     {
-      "name": "Narrator",
-      "text": "Perhaps overwhelmed by Hishi Akebono's \nsheer enthusiasm, the pottery instructor \nnodded almost reflexively.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "In the end, they only managed to finish \nthe design that day, but Hishi Akebono was \nsmiling happily the whole time.",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Let's start with the design first. Go\nahead and\nsketch the sort of pot you\nwish to make."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Mmh! But still, I want my first one to be \nin an earthenware pot! Yeah, an \nearthenware pot is the best.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Potter",
-      "text": "Why are you so obsessed with clay pots?",
-      "choice_data_list": []
+      "text": "Okay! Ehehe! Here I go! ☆"
     },
     {
       "name": "Hishi Akebono",
-      "text": "I love cooking! That's why I want to be \npicky about tableware too.",
-      "choice_data_list": []
+      "text": "I want to make it reaaally big and\nsmooth... This\npart should be like <i>this,</i> so\nit can hold a lot of\ningredients, and then\nthis part should be..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The design Hishi Akebono comes up\nwith is\nbeyond intricate and would\nprobably be difficult\nfor even a\nprofessional to realize."
+    },
+    {
+      "name": "Monologue",
+      "text": "With a serious expression on her face,\nshe revises\nher draft multiple times and\ncontinues adjusting\nher design. Then,\nfinally..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "A pot might not be a serving plate, but \njust like one, it makes the food delicious \nand presents it beautifully, so it's \nsuper, super important!",
-      "choice_data_list": []
+      "text": "Phew! There, I'm done! Here's the design\nfor my\nspecial, one-of-a-kind pot! What\ndo you think,\nsir?"
+    },
+    {
+      "name": "Ceramics Instructor",
+      "text": "Are you sure about this? Don't get me\n\nwrong—this is a wonderful design—but it\nlooks\nincredibly challenging to make..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "That's why I really want to create \nsomething special that's all my own!!",
-      "choice_data_list": []
+      "text": "I'll do my best, sir!"
     },
     {
-      "name": "Potter",
-      "text": "\"...I see, very true. Understood. Let's \nmake something amazing. And for that, we \nstart with the design!\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Perhaps swept up by Hishi Akebono's\ncontagious\nenthusiasm, our instructor\nalmost reflexively nods\nin approval."
+    },
+    {
+      "name": "Monologue",
+      "text": "Ultimately, although Hishi Akebono only\ngets as\nfar as finalizing her pot design\ntoday, she still\nenjoys the entire process."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yes, Sensei! I'll do my best!!",
-      "choice_data_list": []
+      "text": "Nnngh... But I still want to make a pot\nfor my first\nceramics piece! Nothing else\nwill do."
     },
     {
-      "name": "Narrator",
-      "text": "To create the ideal clay pot, Hishi \nAkebono earnestly threw herself into the \ndesign.",
-      "choice_data_list": []
+      "name": "Ceramics Instructor",
+      "text": "Why do you want to make a pot so\nbadly?"
     },
     {
-      "name": "Narrator",
-      "text": "In the end, they only managed to finish \nthe design that day, but Hishi Akebono \npuffed out her chest with pride, \nthoroughly satisfied with what she'd made.",
-      "choice_data_list": []
+      "name": "Hishi Akebono",
+      "text": "I just really love cooking! That's why I'm\nso\nnitpicky about tableware."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I know a cooking pot isn't really\n\"tableware\" like\nplates and stuff are, but\na pot's still an important\ntool for good\nfood presentation!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "And that's the reason I want to make my\nvery own\npot!"
+    },
+    {
+      "name": "Ceramics Instructor",
+      "text": "I see... That makes sense. Very well. Let's\ntry to\nmake something good, then. Now,\nto do that, we\nmust start with the\ndesign!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yes, sir! I'll do my best!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Hishi Akebono begins studiously\nworking on her\ndesign for a perfect\nearthenware pot."
+    },
+    {
+      "name": "Monologue",
+      "text": "Ultimately, although she only gets as far\nas\nfinalizing her pot design, she still\nmanages to\nmake something she's both\nsatisfied with and\nproud of."
     }
   ]
 }

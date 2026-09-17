@@ -2,32 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Something seems a bit off with Fuji Kiseki \nduring her warm-up...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Fuji Kiseki is in the middle of her\nwarm-up for\ntoday's training session, but\nsomething seems off."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Haaah... That's strange. My body isn't \nmoving the way I want it to...",
-      "choice_data_list": [
-        "Are you okay?",
-        "Are you okay?"
-      ]
+      "text": "<i>Huff...</i> Strange, my body's not moving\nthe way I\nwant..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ah, no... It's nothing! Don't worry about \nit!",
-      "choice_data_list": []
+      "text": "Oh, uh... Yes! I'm fine, and there's\nnothing to\nworry about."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"Still... maybe I'll take a little break. \nI think I'll feel better once I've \nrested!\"",
-      "choice_data_list": []
+      "text": "Is it all right if I take a break, though?\nI'm sure a\nlittle rest is all I need!"
     },
     {
-      "name": "Narrator",
-      "text": "Fuji Kiseki looks exhausted... It might be \nbest to reconsider our upcoming schedule.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Despite her bravado, I can see she's\nexhausted. I\nshould make changes to her\nracing schedule so\nshe can rest."
     }
   ]
 }

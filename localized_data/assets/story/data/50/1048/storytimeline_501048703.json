@@ -2,255 +2,180 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "After our outing. Tosen Jordan handed me \nher smartphone. On the screen, a certain \ntraditional inn was displayed...",
-      "choice_data_list": [
-        "...Is something wrong with this?",
-        "...Is something wrong with this?"
-      ]
+      "name": "Monologue",
+      "text": "After a day out, Tosen Jordan passes me\nher\nphone to show me a picture of a hot\nspring inn."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Isn't the ryokan on that website amazing?! \nI wanna go! Actually, I'm definitely \ngoing!",
-      "choice_data_list": []
+      "text": "Isn't this place awesome? I wanna go\nsometime!\nAnd by sometime, I mean let's\ngo already!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "They said just getting food is fine too, \nand that it's super tasty! Come on, let's \nhead over right now!",
-      "choice_data_list": []
+      "text": "You can eat at the restaurant without\neven\nstaying there, and it looks totally\nfire! C'mon,\nlet's just go!"
     },
     {
-      "name": "Narrator",
-      "text": "\"However, the place seems to be quite far \naway. I told them we should reschedule and \ngo when we have more time to spare... \nbut.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Ehh, take the train and you're there in a \nflash! Besides, going right when you feel \nlike it is the golden rule, right?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Riding the train to the inn, an attendant \nwelcomed us at the entrance. When we \nmentioned we had come to eat—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The inn seems pretty far away. I tell her\nwe should\ngo when we have more free\ntime, but..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "—Wait, you're gonna clean and fillet the \nfish we caught?!",
-      "choice_data_list": []
+      "text": "We'll be there super fast if we take the\ntrain.\nBesides, the rule is that when you\nwanna go\nsomewhere, you should go!"
     },
     {
-      "name": "Inn Waitress",
-      "text": "Yeees, this is our main feature. The chef \nprepares the guest's fish right before \ntheir eyes. How does that sound?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Waaah~ I wanna do it, I wanna do it! I'm \ndefinitely gonna do it~!!",
-      "choice_data_list": [
-        "Still, we're short on time today..."
-      ]
+      "name": "Monologue",
+      "text": "After a long train ride, we arrive at the\ninn and\nare greeted by one of the staff.\nWe tell her we're\njust here for food..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? Why wouldn't I do it after coming \nthis far?",
-      "choice_data_list": []
+      "text": "Really? You'll even prepare fish that we\ncatch and\nbring in ourselves?!"
+    },
+    {
+      "name": "Staff Member",
+      "text": "Yes, that's one of the special services we\noffer.\nWe prepare and serve the fish\nright in front of\nyou. Are you interested?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Being good at it is obviously better! \nThere's no choice but to go for it!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Swept along by her momentum, we ended up \nfishing in the sea near the inn, but—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(Splash!)",
-      "choice_data_list": []
+      "text": "<i>Am</i> I?! Wow! Yeah, let's gooo!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ah, hey! Trainer again!?",
-      "choice_data_list": []
+      "text": "What? You mean you wanna come all\nthe way out\nhere and <i>not</i> do it?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Why is it that you're the only one \ncatching anything this whole time?!",
-      "choice_data_list": [
-        "Then we caught something, so let's head \nback."
-      ]
+      "text": "You've gotta follow the good eats!\nThere's, like,\nliterally no other choice!"
+    },
+    {
+      "name": "Monologue",
+      "text": "At Tosen Jordan's insistence, we head to\nthe\nnearby coast to do some fishing."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Splash!</i>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? No way I'm going back! Like hell I'm \ngonna let it end like this!",
-      "choice_data_list": []
+      "text": "No way! You got another one?!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "I definitely won't lose... I'm gonna go \neven deeper!",
-      "choice_data_list": [
-        "Watch your step!"
-      ]
+      "text": "How come you're the only one who can\ncatch\nany?!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Shut up, I know—... Eek!?",
-      "choice_data_list": [
-        "Look ou—!!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "(SPLAAAASH!!)",
-      "choice_data_list": []
+      "text": "What? We can't go back yet. I can't let\nit end like\nthis!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "I'm not going to lose... I just need to cast\ncloser to\nthe deep part!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...I'm so sorry, for real. Dropping you... \ninto the ocean...",
-      "choice_data_list": [
-        "I'm fine, I just got a little wet."
-      ]
+      "text": "Yeah, yeah, as if I don't know tha—gyah!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>SPLASH!</i>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"N-No way am I fine! ...Wait, seriously, \nthis is bad. You might catch a cold, so we \ngotta dry you off quick...!\"",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Um, I borrowed yukata, towels, and a \nhairdryer... so, yeah.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Tosen Jordan silently dried my hair using \na towel and a hairdryer.",
-      "choice_data_list": []
+      "text": "I'm so sorry... I knocked you into the\nwater."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Isn't the wind kinda hot?",
-      "choice_data_list": [
-        "I'm fine."
-      ]
+      "text": "No, it's <i>not</i> fine. This isn't good. We\nhave to dry\nyou off quick before you\ncatch a cold!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Is that so.",
-      "choice_data_list": []
+      "text": "Okay. I borrowed a robe, some towels,\nand a\ndryer..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Tosen Jordan silently dries my hair with\nthe towel\nand hair dryer."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ah... Hey, so. The innkeeper said the \nbath's ready. Why don't you go ahead?",
-      "choice_data_list": []
+      "text": "Is it too hot?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "I'm... well, I just take it easy, y'know.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Though she pretends to be composed, it's \nclear that she's deeply dejected. How \nshould I comfort her...?",
-      "choice_data_list": [
-        "I'm so glad you're safe.",
-        "I'm so glad you're safe.",
-        "...Have you reflected on what you did?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Though she pretends to be composed, it's \nclear that she's deeply dejected. How \nshould I comfort her...?",
-      "choice_data_list": [
-        "I'm so glad you're safe.",
-        "I'm so glad you're safe.",
-        "...Have you reflected on what you did?"
-      ]
+      "text": "...'Kay."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh...? I'm glad... you say...",
-      "choice_data_list": []
+      "text": "Oh, right... So, uh, the hotel person said\nthey'd\nget the hot spring ready. Why\ndon't you go take a\ndip?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"No, this is where you're supposed to get \nmad...! I totally dragged you all over the \nplace.\"",
-      "choice_data_list": []
+      "text": "I'll just... do whatever."
+    },
+    {
+      "name": "Monologue",
+      "text": "She's playing it calm, but I can tell she's\nactually\nupset. What should I say to her?"
+    },
+    {
+      "name": "Monologue",
+      "text": "She's playing it calm, but I can tell she's\nactually\nupset. What should I say to her?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Gorging on food, dragging you around, \ncollapsing from exhaustion... ...making \nyou protect me, falling into the sea...",
-      "choice_data_list": []
+      "text": "Huh? What do you mean?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...No matter how you look at it, this is \npissing me off. All of this.",
-      "choice_data_list": [
-        "I think it's great that you're so \nenergetic."
-      ]
+      "text": "You should be angry with me! I've totally\nbeen\ndragging you around."
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"That's why it's such a mess, isn't it?! \nWe're being swung all over the place!\"",
-      "choice_data_list": [
-        "It's fun precisely because it's hard work.",
-        "It's fun precisely because it's hard work, \nyou know."
-      ]
+      "text": "I stuffed my face, forced you here, made\nyou\nexhausted... made you protect me,\nand knocked\nyou into the water..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "……！",
-      "choice_data_list": []
+      "text": "No matter how you swing it, it's not cool."
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"...Are you an idiot? Seriously.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Contrary to her words, Tosen Jordan seemed \nsomewhat pleased.",
-      "choice_data_list": []
+      "text": "And me being happy is exactly what\ncaused you\nso much trouble! That's how\nyou ended up in the\nocean!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Of course I would. Obviously. Things \nhave gotten totally out of hand, after \nall.",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"At times like this, only writing a letter \nof apology comes to mind, but... want to \nwrite one? \"",
-      "choice_data_list": [
-        "Forget the written apology, just don't go \ncatching a cold, got it?",
-        "Forget about the written apology, just \nmake sure you don't catch a cold."
-      ]
+      "text": "Are you stupid or something? Seriously..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite what she says, Tosen Jordan\nlooks happy."
     },
     {
       "name": "Tosen Jordan",
-      "text": "……！",
-      "choice_data_list": []
+      "text": "Of course I am. I mean, look at what\nhappened."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Haaah? What's that about? Are you still \nworrying about me?",
-      "choice_data_list": []
+      "text": "When something like this happens, all I\ncan think\nto do is write out an apology...\nShould I?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Seriously... Just how softhearted are you?",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
-      "name": "",
-      "text": "Afterward, Tosen Jordan grew quiet, \nseemingly lost in thought.",
-      "choice_data_list": []
+      "name": "Tosen Jordan",
+      "text": "Are you <i>still</i> worrying about me? What is\nup with\nyou?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "I mean, seriously... Talk about being a\n\ngoody-goody."
+    },
+    {
+      "name": "Monologue",
+      "text": "Tosen Jordan doesn't talk much after\nthat, as if\nshe's mulling something over."
     }
   ]
 }

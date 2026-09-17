@@ -2,132 +2,96 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Hishi Amazon got injured during training, \nso I brought her to the infirmary.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I escort Hishi Amazon to the infirmary\nafter she\nsuffers an injury during training."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hey, I really don't need any first aid. \nGetting a little hurt happens all the \ntime.",
-      "choice_data_list": []
+      "text": "Come on, I don't need to be patched up.\nIt's\nnothing serious."
     },
     {
       "name": "Hishi Amazon",
-      "text": "It's a waste of time, so... Let's just get \nback to training already.",
-      "choice_data_list": [
-        "I'm worried, so let me treat that.",
-        "Let's stay focused and get to practice."
-      ]
+      "text": "We're just wasting time here, so let's get\nback to\ntraining."
     },
     {
       "name": "Hishi Amazon",
-      "text": "I told you you're exaggerating... Ow.",
-      "choice_data_list": [
-        "Does it still hurt?",
-        "So it really does hurt."
-      ]
+      "text": "I'm telling you, it's not that bad... Ouch."
     },
     {
       "name": "Hishi Amazon",
-      "text": "No... well, it hurt a little, but it's \nnothing that won't heal on its own!",
-      "choice_data_list": []
+      "text": "It doesn't—well... it does hurt a little,\nbut this\nshould heal up in no time!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Can't be worrying over minor injuries. \nSometimes you've gotta push through, \nright?",
-      "choice_data_list": [
-        "What if an injured junior said the same \nthing to you?"
-      ]
+      "text": "We can't put on the brakes every time I\nget a\nlittle scuffed up. Sometimes it's\nbetter to push on,\nyou know?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Well, of course I'd scold them and make \nthem rest!",
-      "choice_data_list": []
+      "text": "Well, I would scold her good and make\nher rest!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "...Aah, damn it. I get what you're trying \nto say.",
-      "choice_data_list": []
+      "text": "...Ah, dang it. You got me there."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Resting just to be safe... that should be \nfine, right?",
-      "choice_data_list": []
+      "text": "Fine, I'll rest up and take care of\nmyself... You\nhappy now?"
     },
     {
-      "name": "Narrator",
-      "text": "After finishing the treatment, I had her \nrest thoroughly.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "I know! I can't look pathetic in front of \nmy juniors any longer, after all.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After having her injuries treated, she\ngives herself\nplenty of time to rest."
     },
     {
       "name": "Hishi Amazon",
-      "text": "I need to gauge my own condition properly—",
-      "choice_data_list": []
+      "text": "Okay, I get your point! I can't let the\nothers see\nme lookin' so pathetic."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ow...!",
-      "choice_data_list": []
+      "text": "I won't push myself too hard, so—"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ow, ow, ow... Boy, this is rough.",
-      "choice_data_list": []
+      "text": "Owww!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Walking was fine, but running is a whole \ndifferent story, huh...",
-      "choice_data_list": [
-        "Let's rest and heal up properly."
-      ]
+      "text": "Ugh... This isn't good."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Damn it, fine, I get it. Can't go letting \nit get worse in front of the \nunderclassmen, after all.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Suppressing her restless urge, Hishi \nAmazon decided to take a rest.",
-      "choice_data_list": []
+      "text": "I can walk, but running's a whole\ndifferent story..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "I need to gauge my own condition properly—",
-      "choice_data_list": []
+      "text": "All right, all right. I can't be makin' my\ninjury\nworse when I've got so many\nstudents lookin' up\nto me as a role\nmodel."
+    },
+    {
+      "name": "Monologue",
+      "text": "Hishi Amazon puts her impatience aside\nand rests\nup."
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"...Sorry, Trainy, I take back what I said \nearlier. Could you tape me up after all?\"",
-      "choice_data_list": [
-        "Does it hurt?",
-        "Does it hurt?"
-      ]
+      "text": "I'll be the one to decide how I—"
     },
     {
       "name": "Hishi Amazon",
-      "text": "I wouldn't say it hurts, exactly, but it \ndoes feel a bit off.",
-      "choice_data_list": []
+      "text": "...Sorry, I take that back, Teach. Could\nyou tape\nit up for me?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "If we're returning to practice, we need to \nensure everything is in perfect order.",
-      "choice_data_list": []
+      "text": "Not exactly, but it feels a bit off."
     },
     {
       "name": "Hishi Amazon",
-      "text": "After all, I'm the one always telling my \njuniors never to take an injury lightly.",
-      "choice_data_list": []
+      "text": "I need to get back in tip-top shape if I\nwant to\nkeep on training."
     },
     {
-      "name": "Narrator",
-      "text": "Thanks to the thorough taping, she was \nable to continue her training without any \nissues.",
-      "choice_data_list": []
+      "name": "Hishi Amazon",
+      "text": "Plus, I'm always telling the younger\nstudents to\ntake their injuries seriously."
+    },
+    {
+      "name": "Monologue",
+      "text": "I tape up her injury tightly, and we finish\ntraining\nwithout further incident."
     }
   ]
 }

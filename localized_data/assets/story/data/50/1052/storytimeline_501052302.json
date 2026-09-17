@@ -2,471 +2,356 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One evening, while passing through the \nshopping district—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One evening, as we're walking through\nthe\nshopping district..."
     },
     {
       "name": "Haru Urara",
-      "text": "Whaaa-?! That looks like so much fun~!!",
-      "choice_data_list": []
+      "text": "That looks like so much fun!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's lottery! This year's\ngrand-prize is a coupon\nfor a hot spring\nvacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Oh, look who's here, Urara-chan! How about \nit, wanna try your luck at the raffle?",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Oh, Urara, good to see you! Whaddaya\nsay?\nWanna give the raffle a whirl?"
     },
     {
       "name": "Haru Urara",
-      "text": "The lottery!! I wanna do it, I wanna try \nit~!!",
-      "choice_data_list": []
+      "text": "A raffle! I do, I do, I dooo!"
     },
     {
       "name": "Haru Urara",
-      "text": "Trainer! Let's do the raffle, come on, \nplease~?",
-      "choice_data_list": [
-        "Got a ticket?",
-        "Do you have a ticket?"
-      ]
+      "text": "Trainer! Can I give it a go?"
     },
     {
       "name": "Haru Urara",
-      "text": "What's a... ticky? Do I need it for the \nraffle?",
-      "choice_data_list": []
+      "text": "A ticket? What's that? I need one for\nthe raffle?"
     },
     {
-      "name": "",
-      "text": "I explained that without tickets earned \nfrom shopping in the shopping district, \none cannot spin the raffle.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Ah, could that mean...! Are you talking \nabout the ticket that lady gave me \nrecently!?",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I explain to her that she needs to buy\nthings in\nthe shopping district in order to\nget a ticket."
     },
     {
       "name": "Haru Urara",
-      "text": "The lady at the candy shop stuck one to my \nlollipop and gave it to me as a bonus!",
-      "choice_data_list": [
-        "In that case, we can take on the \nchallenge.",
-        "In that case, we can take on the \nchallenge."
-      ]
+      "text": "Oh! You mean like this ticket that lady\ngave me\nthe other day?"
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! Let's go spin it around!",
-      "choice_data_list": [
-        "What prize are you aiming for?"
-      ]
+      "text": "She gave me one along with a piece of\ncandy!"
     },
     {
       "name": "Haru Urara",
-      "text": "Huh? Hmm, I wonder what?",
-      "choice_data_list": []
+      "text": "Yaaay! I'll give it a spin!"
     },
     {
       "name": "Haru Urara",
-      "text": "Going to a hot spring sounds fun, but I \nlove hamburg steaks too, and carrots are \ngreat no matter how many there are!",
-      "choice_data_list": []
+      "text": "Huh? Um, hmmm..."
     },
     {
       "name": "Haru Urara",
-      "text": "Even if I lose, spinning the raffle wheel \nis super fun anyway! So anything's fine by \nme~♪",
-      "choice_data_list": []
+      "text": "Going to the hot springs sounds fun, but\nI really\nlike hamburger steak, and of\ncourse I'd be happy\nwith carrots, too!"
     },
     {
       "name": "Haru Urara",
-      "text": "Come on, spin it faster! Round and round~♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Prompted by a high-spirited Haru Urara, I \ngripped the lever with her and spun the \nraffle drum.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result is—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Even if I lose, just spinning it is fun! So\nI'm fine\neither way! ♪"
     },
     {
       "name": "Haru Urara",
-      "text": "Whoa, that sound was amazing! Hey, hey, \nlet me hear it again~!",
-      "choice_data_list": [
-        "That way?!"
-      ]
+      "text": "I bet it'll spin so fast!\nSpinny-spin-spiiiin! ♪"
     },
     {
-      "name": "Shopping District Local",
-      "text": "U-Urara-chan! It's the grand prize! A hot \nsprings trip~!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Haru Urara excitedly encourages me to\njoin her in\npulling the lever."
     },
     {
-      "name": "Haru Urara",
-      "text": "A hot spring!? We get to go to a hot \nspring~!?",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\nspinner's\nopening..."
     },
     {
-      "name": "Haru Urara",
-      "text": "Yay! We did it, Trainer!",
-      "choice_data_list": [
-        "Congratulations!"
-      ]
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! Hey, hey, when are we going? Are we \ngoing tomorrow?",
-      "choice_data_list": [
-        "Tomorrow is a bit much, though..."
-      ]
+      "text": "Wow! That sound was amazing! Hey, can\nI hear it\nagain?"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "U-Urara! You got the top prize! The hot\nspring\ncoupon!"
     },
     {
       "name": "Haru Urara",
-      "text": "Eeeh? Then when? The day after tomorrow, \nthe day after that, or even further out~?!",
-      "choice_data_list": []
+      "text": "Hot springs? I get to go to the hot\nsprings?!"
     },
     {
       "name": "Haru Urara",
-      "text": "How many times did the sky spin around \ntoday? I'm gonna do my best to chase after \nthe sun!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "\"There'll be no end to this at this rate. \nThat said, heading to the hot springs \nright now would be premature. To help turn \nthis into motivation, I should...\"",
-      "choice_data_list": [
-        "How about saving it as a reward for after \nthe race?"
-      ]
+      "text": "Yaaay! I won, Trainer!"
     },
     {
       "name": "Haru Urara",
-      "text": "A rewaaard~~!! Only the super amazing kids \nwho did their best get this!",
-      "choice_data_list": []
+      "text": "Yeah! Hey, when can I go? Tomorrow?"
     },
     {
       "name": "Haru Urara",
-      "text": "I want a reward~! The hot springs will be \nmy reward!",
-      "choice_data_list": [
-        "It's a deal!"
-      ]
+      "text": "Huh? Then when? The day after\ntomorrow? Or\nthe day after that?!"
     },
     {
       "name": "Haru Urara",
-      "text": "You see, Trainer, you should hold onto \nthis ticket! A reward is most exciting \nright when you receive it!",
-      "choice_data_list": []
+      "text": "How many times does the sun have to go\nacross\nthe sky before we can go? <i>Hurry\nup, Mr. Sun!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "While I understand her excitement,\ngoing on a\ntrip to the hot springs when\nwe're in the middle of\ntraining feels\nwrong... Perhaps I can use it as\n\nmotivation?"
     },
     {
       "name": "Haru Urara",
-      "text": "\"So when you hand it over, make sure to do \nit confidently with a proud 'Ahem! Here \nyou go!'\"",
-      "choice_data_list": []
+      "text": "A treat? That's something that only\ngood,\nhard-working people get, right?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ehehe, I'm so excited~♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And so, I held onto the grand prize hot \nspring trip voucher until the right time \ncame.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "I want a treat! Take me to the hot\nsprings as a\ntreat someday!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yay, carrot hamburg steak! It looks so \ndelicious~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Fufun, this ain't just an ordinary hamburg \nsteak, ya know? After all, it's \"Special \nGrade\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "I guarantee it'll blow every hamburg steak \nyou've ever eaten right out of the water!",
-      "choice_data_list": []
+      "text": "Oh! How about you keep the coupon?\nI'll be\nsuper happy when I get it as a\ntreat for winning!"
     },
     {
       "name": "Haru Urara",
-      "text": "*Gulp*...! Does that, does that mean...!",
-      "choice_data_list": []
+      "text": "Then you can be like, \"Hey! Here's your\ntreat!\"\nand hand it to me!"
     },
     {
       "name": "Haru Urara",
-      "text": "If I eat that, is my tummy going to \nexplode...?!",
-      "choice_data_list": []
+      "text": "Heehee, I can't wait! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'll keep the hot spring coupon safe until\nit's time\nto use it."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have a first-prize winner!\n\nCongratulations! You get one deluxe\ncarrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Haru Urara",
-      "text": "Because regular salisbury steaks are \ndelicious too! So if it's gonna blow up... \nthen it must be a bomb!",
-      "choice_data_list": []
+      "text": "Wow! A carrot hamburger steak! It looks\nso good!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "This isn't your ordinary hamburger steak!\nIt's a\n<i>deluxe</i> one!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "I promise this will blow all the others\nyou've\ntasted outta the water!"
     },
     {
       "name": "Haru Urara",
-      "text": "Mmm, I wonder if I can eat it~?!",
-      "choice_data_list": [
-        "...Do you have the courage to take on the \nchallenge?"
-      ]
+      "text": "<i>Gulp...</i> Does that mean..."
     },
     {
       "name": "Haru Urara",
-      "text": "Yes, there issss!!",
-      "choice_data_list": []
+      "text": "If I eat it, my stomach is gonna\nexplode?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Hold on, mister! Trainer and I will eat \nevery last bite, just watch us!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "I don't really get what's going on, but \nI've never seen Urala-chan look so sharp \nbefore...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "\"I'm leaving this to you two...! You've \ngotta finish off that 'Special Hamburg \nSteak'!\"",
-      "choice_data_list": []
+      "text": "Regular hamburger steaks are delicious\njust by\nthemselves! If this one's gonna\nblow all the water\nout of me, then it\nmust have a bomb inside of it!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yaaay!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "After returning to the academy, the two of \nus shared an explosively delicious \nhamburger steak.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Hmmm, should I still try it?"
     },
     {
       "name": "Haru Urara",
-      "text": "Yay! So many carrots!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "That might've been the prize that made \nUrara-chan the happiest.",
-      "choice_data_list": []
+      "text": "I am!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah, 'cause I loooove carrots!",
-      "choice_data_list": []
+      "text": "Just you watch! Trainer and I are both\ngonna\nfinish off your hamburger steak\nbomb!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "I'm not sure what you're talking about,\nbut I've\nnever seen you this fired up!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "I'll leave it in your hands! Here you go,\nthe deluxe\ncarrot hamburger steak!"
     },
     {
       "name": "Haru Urara",
-      "text": "Still, it's piled so high... Can I really \nfinish all this by myself?",
-      "choice_data_list": []
+      "text": "Time to dig in!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After returning to the academy, we split\nthe\nhamburger steak and enjoy its\nexplosive flavor."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, I know! I can just give some to my \nfriends!",
-      "choice_data_list": []
+      "text": "Wow! That's so many carrots!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "This prize was basically made for you,\nUrara!"
     },
     {
       "name": "Haru Urara",
-      "text": "Spe-chan, Teio-chan, Sei-chan, King-chan, \nRice-chan, and then, and then――",
-      "choice_data_list": [
-        "Sounds like there are a lot of girls you \nwant to invite, huh.",
-        "Sounds like there are a lot of girls you \nwant to invite, huh."
-      ]
+      "text": "Yeah, I <i>love</i> carrots!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! I have lots and lots of friends!",
-      "choice_data_list": []
+      "text": "But this is a bit much... Can I really eat\nthem all by\nmyself?"
     },
     {
       "name": "Haru Urara",
-      "text": "So, I want all my friends to eat the \nshopping district's delicious carrots!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Greengrocer Auntie",
-      "text": "Ugh, what a good girl you are, Urara-chan!",
-      "choice_data_list": []
+      "text": "Oh, I know! I'll share them with my\nfriends!"
     },
     {
       "name": "Haru Urara",
-      "text": "Huh, the greengrocer lady?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Greengrocer Auntie",
-      "text": "\"That carrot is from my shop! I'll throw \nin a little extra on the side, apart from \nthe raffle, so make sure you drop by the \ngreengrocer's...!\"",
-      "choice_data_list": []
+      "text": "Let's see... I'll give one to Spe, Teio, Sei,\nKing,\nRice, and..."
     },
     {
       "name": "Haru Urara",
-      "text": "\"Really~? Thank youuu♪\"",
-      "choice_data_list": []
+      "text": "Yeah! I have so many great friends!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ehehe, now we can have a carrot party with \neveryone at the academy!",
-      "choice_data_list": []
+      "text": "I know bunches and bunches of people\nwho'd\nwanna eat some yummy carrots!"
     },
     {
-      "name": "",
-      "text": "It didn't quite go that far, but along \nwith the bonus carrots, I headed home \ncarrying a huge haul of carrots.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Vegetable Seller",
+      "text": "What a sweet friend you are, Urara!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yay, such shiny carrots! Thank you, \nmister!",
-      "choice_data_list": []
+      "text": "Oh! Long time, no see! What are you\ndoing here?\nShouldn't you be at your\nvegetable stand?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "To think you'd be this happy over just \none... It warms my heart.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Even if it's just one, a carrot is still a \ncarrot! It's super tasty and packed with \nnutrients♪",
-      "choice_data_list": []
+      "name": "Vegetable Seller",
+      "text": "Those are my carrots, silly! I'll throw in\nsomething\nextra too, so stop by my stall!"
     },
     {
       "name": "Haru Urara",
-      "text": "Trainer, let's split it in half! Which do \nyou want, the head or the thin side?",
-      "choice_data_list": [
-        "You can choose, Urara."
-      ]
+      "text": "Really? Thank you! ♪"
     },
     {
       "name": "Haru Urara",
-      "text": "Really!? Then, I'll take the head—",
-      "choice_data_list": []
+      "text": "Heehee... I'm gonna throw a carrot party\nfor\neveryone at school!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Of course, it isn't enough for a\nschool-wide party,\nbut with the addition\nof the extras from the\nvegetable seller,\nwe go home with a pretty huge\nhaul of\ncarrots."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Haru Urara",
-      "text": "\"Nope! On second thought, I'll give the \nhead part to you, Trainer!\"",
-      "choice_data_list": [
-        "Why?"
-      ]
+      "text": "Wow! What a shiny carrot! Thank you!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "You're happy with just a single carrot?\nWhat a\nsweet girl you are."
     },
     {
       "name": "Haru Urara",
-      "text": "\"Because the head has way more to eat! So \nI'm giving it to you, Trainer!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Urara-chan... What a pure-hearted girl she \nis... *sniff*",
-      "choice_data_list": []
+      "text": "A single carrot is still a carrot! It's\ndelicious and\nnutritious!"
     },
     {
       "name": "Haru Urara",
-      "text": "Huh?! Why is that mister crying?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "After comforting the vendor, Haru Urara \nkindly offered me the head piece—and I \nsavored its heartwarming sweetness.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "I'll give you half, Trainer! Which do you\nwant?\nThe bottom or the top?"
     },
     {
       "name": "Haru Urara",
-      "text": "Aw man, just tissues~?",
-      "choice_data_list": []
+      "text": "Really? Then I'll take the top half..."
     },
     {
       "name": "Haru Urara",
-      "text": "Still, spinning it was super fun! Thank \nyou, mister!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Sorry, Urara-chan, there's nothing we can \ndo about this one.",
-      "choice_data_list": []
+      "text": "Never mind! I'll give you the top half!"
     },
     {
       "name": "Haru Urara",
-      "text": "No, don't worry about it! We get to use as \nmany tissues as we want anyway!",
-      "choice_data_list": []
+      "text": "Because there's more to eat! So you\nshould have\nit!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Urara... You have such an incredibly kind\nheart...\n<i>Sniff...</i>"
     },
     {
       "name": "Haru Urara",
-      "text": "And then, if you gather a bunch of tissues \nand squeeze them tightly together...!",
-      "choice_data_list": []
+      "text": "Huh?! Why are you crying?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After being praised, Haru Urara gives me\nthe top\nhalf of the carrot. It tastes sweet\nand crisp."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Haru Urara",
-      "text": "And you get a carrot!",
-      "choice_data_list": []
+      "text": "Aww, just tissues..."
     },
     {
       "name": "Haru Urara",
-      "text": "\"It's pure white, totally not like a \ncarrot! 'Cause carrots are orange, and...\"",
-      "choice_data_list": []
+      "text": "But at least spinning it was really fun!\nThanks!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "I'm sorry that's all you get, Urara..."
     },
     {
       "name": "Haru Urara",
-      "text": "...I really wanted to eat some carrots, \nthough~.",
-      "choice_data_list": []
+      "text": "No problem! Tissues are really handy!"
     },
     {
-      "name": "",
-      "text": "Haru Urara seemed to lose a tiny bit of \nher energy...",
-      "choice_data_list": []
+      "name": "Haru Urara",
+      "text": "I can take a bunch of them and crumple\nthem\ntogether, aaaand..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ta-da! It's a carrot!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "It doesn't really look like one since it's\nwhite,\nthough. Carrots are orange..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh geez, I really want a carrot now..."
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems that all of her famous energy\nhas been\nsapped away by this\ndisappointment."
     }
   ]
 }

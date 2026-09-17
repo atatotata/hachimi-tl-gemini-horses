@@ -2,180 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "I was helping out as staff at a fan event \nfeaturing Eishin Flash and Smart Falcon, \nbut—"
+      "name": "Monologue",
+      "text": "I'm currently staffing a fan event where\nEishin\nFlash and Smart Falcon are\nperforming. Or,\n<i>supposed</i> to be\nperforming, that is..."
     },
     {
       "name": "Eishin Flash",
-      "text": "What! The music will not play...? But \nthere is still one song remaining on the \nprogram..."
+      "text": "What? You can't get the music to start?\nBut we've\nstill got a song left..."
     },
     {
-      "name": "Audio Staff",
-      "text": "We're rushing to swap the equipment right \nnow, but it's going to take a bit \nlonger...",
-      "choice_data_list": [
-        "Can you two somehow buy some time on \nstage?"
-      ]
+      "name": "Sound Engineer",
+      "text": "We're scrambling to swap in new\nequipment, but\nit'll be a few minutes\nbefore everything's hooked\nup..."
     },
     {
       "name": "Smart Falcon",
-      "text": "Yep, leave it to me to fill in with some \ntalk! An Umadol can overcome any pinch \nwith a smile!"
+      "text": "Sure! We can go do a little talk segment.\nA good\nUmadol's gotta face everything\nwith a smile!"
     },
     {
       "name": "Eishin Flash",
-      "text": "I shall also make every effort possible. \nFalcon-san, please lead the way...!"
+      "text": "I'll do my best to ad-lib along. Lead the\nway,\nFalcon."
     },
     {
       "name": "Smart Falcon",
-      "text": "—And so, when I was a kid, I danced in \nfront of the TV every single day \npretending to be an idol~! Can I try doing \nit right now? What do you think~?"
+      "text": "And so I'd practice dancing in front of\nthe TV as a\nkid, pretending I was one of\nthe idols! Hehe,\nshould I do a little\nexample dance?"
     },
     {
-      "name": "Audience",
-      "text": "We wanna seeee it~~!!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Fufu, thank you, everyone☆ Well then—"
+      "name": "Spectators",
+      "text": "YEAAAH!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Sparkle, sparkle~♪ Heart-fluttering~ \npremonition of love~~♪"
-    },
-    {
-      "name": "Audience",
-      "text": "So cuteeeeeee!!"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "(Incredible... The cheers won't stop. As \nexpected of Falcon-san...!)"
+      "text": "Hehe! Thanks, everyone! ☆ Here I go!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Hey, hey, what about you, Flash-san? Did \nyou mimic singers when you were little?"
+      "text": "Sparkle! Sparkle! ♪\nCould this be a\nspark of love? ♪"
+    },
+    {
+      "name": "Spectators",
+      "text": "Awwww! "
     },
     {
       "name": "Eishin Flash",
-      "text": "(! Alright, I should follow Falcon-san's \nlead here...!)"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Not singing impressions, but— playing the \nrole of a knight in my elementary school \nplay left quite an impression on me."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "O my beautiful princess! Upon my knightly \nhonor, I swear my eternal loyalty to \nthee!!"
-    },
-    {
-      "name": "Audience",
-      "text": "!? Kyaaaaaaaa~~!!"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "(Amazing...! The sheer volume of the \ncheers is buzzing against my eardrums... \n...I see, so this is the sensation \nFalcon-san strives for...!)"
-    },
-    {
-      "text": "The equipment was finally restored, and \nthe final song began. With the crowd \nalready warmed up by their talk, the \nvenue's excitement reached its peak right \nfrom the start!",
-      "choice_data_list": [
-        "(Amazing! The whole venue is shaking...!)"
-      ]
+      "text": "(My... Impressive, as always. The\naudience is\ngoing wild!)"
     },
     {
       "name": "Smart Falcon",
-      "text": "Now then, let Falco hear your voices~~! \nLove love, absolutely love lovely Falco!!"
-    },
-    {
-      "name": "Audience",
-      "text": "Love love, absolutely love lovely Falco!!"
+      "text": "Hey, Flash, what about you? Did you\never\npretend to be an idol as a kid?"
     },
     {
       "name": "Eishin Flash",
-      "text": "...Everyone! For me as well! Liebe! Liebe! \nLieblich! Flash!"
-    },
-    {
-      "name": "Audience",
-      "text": "Liebe! Liebe! Lieblich! Flash!"
+      "text": "(Oh! All right, now I've just got to follow\nher\nexample, and...)"
     },
     {
       "name": "Eishin Flash",
-      "text": "Come, give us even more cheers!! Let us \nall get excited together!"
+      "text": "Not quite, but I was a knight in our\nelementary\nschool play. I still remember\nthe part."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "My beautiful princess—on my honor as\nyour\nknight, I give you my eternal,\nunwavering loyalty!"
+    },
+    {
+      "name": "Spectators",
+      "text": "Ah?! AAAAAHHH!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "(Wow! The cheers are reverberating so\nloud, I can\nphysically feel the sound...\nThis must be what has\nFalcon so\nenamored with the stage.)"
+    },
+    {
+      "name": "Monologue",
+      "text": "Backstage, we get the setup fixed, and\nthe show\nmoves to the last song without\nfurther issue. If\nanything, the crowd is\nextra energized from the\ntalk segment!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Amaze-amaziiing!! That was way more hype \nthan usual~~!!",
-      "choice_data_list": [
-        "Great work! That was incredible!",
-        "Great work! That was amazing!"
-      ]
+      "text": "Can I get a cheer from everyone?\n\"Lovey\nlovey, lovely Falcooo!\""
+    },
+    {
+      "name": "Spectators",
+      "text": "LOVEY LOVEY, LOVELY FALCOOO!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Could I ask for a cheer as well?\n\n\"Lieblich, lieblich, liebliche Flash!\""
+    },
+    {
+      "name": "Spectators",
+      "text": "LIEBLICH, LIEBLICH! LIEBLICHE\nFLAAASH!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Again! We'd love to hear your voices\nmore. Let's\nall make this show one to\nremember!"
     },
     {
       "name": "Smart Falcon",
-      "text": "It's all thanks to Flash-san! I knew she'd \nmatch my energy! She even got everyone to \ndo call-and-response at the end...!"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Fufu... No, it is all thanks to you, \nFalcon-san."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "By modeling my behavior after yours and \nexperiencing the crowd's passionate heat \nfirsthand—"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "your passion as an Umadol took root within \nmy own heart."
+      "text": "I can hardly believe it! That was even\nlivelier than\nusual!"
     },
     {
       "name": "Smart Falcon",
-      "text": "! Flash-san...! Uwaaaah... Big hugggg~~☆"
-    },
-    {
-      "name": "Audience",
-      "text": "Encore! Encore!"
-    },
-    {
-      "text": "The audience's lingering excitement showed \nno signs of cooling down. How should they \nrespond to those feelings?",
-      "choice_data_list": [
-        "Let's hype them up with some more talk!",
-        "Let's hype them up with a special talent!"
-      ]
+      "text": "It's all thanks to Flash! She totally had\nmy back\nwith that ad-libbed talk sesh,\nand she hyped up\nthe crowd like crazy\nafter the last song!"
     },
     {
       "name": "Eishin Flash",
-      "text": "Talk... is it? Understood. I will do my \nbest."
+      "text": "Hehe, all thanks to your shining\nexample, Falcon."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "All I did was follow your lead, and next\nthing I\nknew, the crowd was raving."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Feeling that energy myself, I think I've\ncome to\nunderstand your passion for\nyour Umadol\nactivities."
     },
     {
       "name": "Smart Falcon",
-      "text": "And then! Flash-san went, \"Taking humidity \ninto account, let us stir it seven more \nrotations!\" looking so happy while \nstirring her natto—"
+      "text": "Flash! Flaaaash! Oh my gosh, c'mere,\ngimme a\nhug! ☆"
+    },
+    {
+      "name": "Spectators",
+      "text": "Encore! Encooore!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The crowd's still warmed up and eager\nfor more...\nThere's got to be a little\nsomething extra we can\ndo for the fans."
     },
     {
       "name": "Eishin Flash",
-      "text": "Wha—Falcon-san!? You didn't need to share \nthat much detail...!"
+      "text": "More talk... yes, we'll see what we can\ndo, then."
     },
     {
-      "text": "Thanks to the amusing anecdote about \nEishin Flash, the venue was fired up once \nagain."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "A special talent, is it...? Understood, I \nshall give it a try. Now then—"
+      "name": "Smart Falcon",
+      "text": "And then, Flash was like, \"For optimal\n\nconsistency, it needs another seven\nturns.\" I've\nnever seen someone so\nlocked in stirring natto,\nbut she was in\nbliss!"
     },
     {
       "name": "Eishin Flash",
-      "text": "In response to your encore— I shall \ndemonstrate soccer juggling."
+      "text": "W-wait, Falcon?! They don't need to\nhear about\nthat!"
     },
     {
-      "name": "Audience",
-      "text": "Ooooh! Incredible! She's insanely good! \nBravo!!"
-    },
-    {
-      "text": "Eishin Flash demonstrated an unexpected \nspecial talent, getting the crowd \nmassively hyped up!"
+      "name": "Monologue",
+      "text": "The audience goes home with big smiles\nafter\nSmart Falcon's silly story about\nEishin Flash."
     },
     {
       "name": "Eishin Flash",
-      "text": "In response to your encore— I shall \ndemonstrate soccer juggling. Here goes—"
+      "text": "My talents... Yes, I believe I could\ndemonstrate\nsomething of interest."
     },
     {
-      "name": "Audience Member",
-      "text": "O-Ohh... She's surprisingly good at \nthat...!"
+      "name": "Eishin Flash",
+      "text": "Thank you for the encore. Allow me to\nperform a\nsoccer juggling trick for you."
     },
     {
-      "text": "Eishin Flash demonstrated a subtle talent, \nbringing a moderate amount of excitement \nto the venue."
+      "name": "Spectators",
+      "text": "Whoa, she's amazing!\nShe's so skilled!\n\nBravooo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The audience is floored by the\nunexpected\ndemonstration of Eishin\nFlash's juggling prowess!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Thank you for the encore. Allow me to\nperform a\nsoccer juggling trick for you."
+    },
+    {
+      "name": "Spectator",
+      "text": "Ooh, uh... That's kinda cool, I guess!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It's probably not what the audience had\nin mind\nfor the encore, but the juggling\ndisplay is\nimpressive nonetheless."
     }
   ]
 }

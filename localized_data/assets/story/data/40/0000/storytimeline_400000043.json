@@ -2,29 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "<chrname> seems to have suffered a minor injury…"
+      "name": "Monologue",
+      "text": "<chrname> seems to have\nsustained a\nslight injury..."
     },
     {
-      "text": "However, we are in the middle of the \nprecious Summer Camp. Now, what should I \ndo—",
-      "choice_data_list": [
-        "Make sure she takes a break",
-        "Have her tough it out"
-      ]
+      "name": "Monologue",
+      "text": "But summer camp only comes around\nonce a year,\nand time is ticking. What to\ndo..."
     },
     {
-      "text": "I decided to make sure that she would \nfocus on her treatment."
+      "name": "Monologue",
+      "text": "I decide to concentrate fully on\ntreatment and\nrecovery."
     },
     {
-      "text": "<chrname> couldn't move her body and felt a little \ndown…"
+      "name": "Monologue",
+      "text": "<chrname> seems to be\nfeeling a little\ndepressed because she\ncan't get any exercise..."
     },
     {
-      "text": "I decided to give <chrname> some encouragement and \ntried to continue on—"
+      "name": "Monologue",
+      "text": "I decide to enthusiastically encourage\n\n<chrname> to keep going..."
     },
     {
-      "text": "But it failed! The injury seems to have \ngotten worse…"
+      "name": "Monologue",
+      "text": "But it all goes wrong! Now it seems like\nthe injury\nhas gotten even worse..."
     },
     {
-      "text": "Then, miraculously, her injury healed \ncompletely, and practice went well!"
+      "name": "Monologue",
+      "text": "And the injury is miraculously healed!\nPractice\ngoes perfectly!"
     }
   ]
 }

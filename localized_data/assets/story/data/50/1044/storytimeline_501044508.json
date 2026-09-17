@@ -2,41 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "\"Before training began, I was explaining \ntoday's menu to Sweep Tosho, but—\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Before beginning our training for the\nday, I\nexplain today's regimen to Sweep\nTosho."
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"...No way. Running on dirt gets sand \ninside my shoes, so I don't want to do \nit.\"",
-      "choice_data_list": []
+      "text": "...No. Whenever I run in the dirt, it gets\nin my\nshoes, so I'm not doing it."
     },
     {
       "name": "Sweep Tosho",
-      "text": "And I don't wanna do hill training either. \nIt's exhausting.",
-      "choice_data_list": []
+      "text": "I don't like ramp training either. It makes\nme\ntired."
     },
     {
-      "name": "Narrator",
-      "text": "\"Sweep Tosho seems unenthusiastic. If so, \nto catch her interest, I should...\"",
-      "choice_data_list": [
-        "Let's squeeze in some magical training in \nbetween."
-      ]
+      "name": "Monologue",
+      "text": "Sweep Tosho doesn't seem to be in the\nmood to\ncooperate. Maybe I can interest\nher with..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "...No way.",
-      "choice_data_list": []
+      "text": "...No."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I'm not in the mood to move today! I'm \nwatching TV right here! I'm not budging \nfrom this spot!",
-      "choice_data_list": []
+      "text": "I don't feel like moving today! I'm just\ngonna sit\nhere and watch TV! I'm not\nmoving one inch from\nthis spot!"
     },
     {
-      "name": "Narrator",
-      "text": "\"She's not biting on things that would \nusually interest her. Race fatigue might \nstill be lingering. We may need to review \nthe schedule.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She won't even bite on something she's\ninterested\nin. She may still be exhausted\nfrom racing, so I\nmight need to rethink\nher schedule."
     }
   ]
 }

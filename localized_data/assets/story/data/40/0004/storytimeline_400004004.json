@@ -2,247 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "It had been several hours since I sat down \nat my desk to draft a new training routine \nfor <chrname>. Just as I was thinking about taking \na break...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Since sitting down at my desk to craft a\nnew\ntraining regimen for\n<chrname>, the\nlast few\nhours have flown by. I'm about to take a\n\nbreak when..."
     },
     {
-      "name": "Narrator",
-      "text": "(Knock knock)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Trainer, it's Hayakawa. You have a guest♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "I'm Otonashi from Monthly Twinkle. Do you \nhave a moment?",
-      "choice_data_list": [
-        "Here you go."
-      ]
+      "name": "Monologue",
+      "text": "<i>Knock, knock</i>"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Excuse me.",
-      "choice_data_list": []
+      "text": "Are you there, Trainer? It's Tazuna. You\nhave a\nvisitor. ♪"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Were you in the middle of working? My \napologies for intruding during your busy \ntime.",
-      "choice_data_list": [
-        "Yes, I was thinking about the training \nmenu."
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "The training menu... Um, if it's not too \nmuch trouble, would you mind if I took a \nlook?",
-      "choice_data_list": [
-        "Not at all, I don't mind."
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Thank you very much. Well then, excuse \nme...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Ah... Hm, I see, I see. Magnificent... But \nif that's the case... Hm, hm!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "...Thank you very much, that was an \nextremely fascinating topic!",
-      "choice_data_list": [
-        "If you don't mind, could I get your \nopinion?"
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Are you sure? The opinion of a mere \nreporter like me might just get in your \nway...",
-      "choice_data_list": [
-        "A different perspective is important, \nafter all"
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "That voracious drive, like a black hole \nseeking to absorb everything... It's \nmagnificent...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "If I may. Regarding the horseshoes, I \nbelieve it might be worth reconsidering \ntheir shape at this point.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "\"With this form, even adopting an \nouter-rim type design should put minimal \nstrain on—\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "As for what's next, I believe more \nUmamusume will find stamina to be a real \nchallenge around this time of year.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Judging by her recent times, increasing \nthe number of uphill training sets might \nalso be—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "...That is all. It is merely an amateur \nopinion, but I hope it proves useful.",
-      "choice_data_list": [
-        "I see...!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Though it was quite a long discussion, it \nwas an extremely meaningful exchange of \nopinions...!",
-      "choice_data_list": []
+      "text": "It's Etsuko Otonashi from <i>Twinkle\nMonthly.</i>\nWould you happen to be\navailable to talk at the\nmoment?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I always thought you were knowledgeable, \nReporter Otonashi, but you really do know \nso much about Umamusume!",
-      "choice_data_list": [
-        "Looks like you could aim to be a trainer \ntoo, huh?"
-      ]
+      "text": "Thank you."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I am honored. But no... I prefer being a \nreporter.",
-      "choice_data_list": []
+      "text": "Oh, are you working? I'm sorry to disturb\nyou."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "If only you weren't a reporter...",
-      "choice_data_list": [
-        "……？"
-      ]
+      "text": "A training regimen? Um, if you don't\nmind, may I\ntake a look?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Thank you very much. Pardon me..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ohh... Hm, I see. Amazing... Oh, but this\nis...\nHmm!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Thank you once again. That was truly\n\nfascinating!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Mine? But I'm just a reporter. I'm not\nsure my\nthoughts would be especially\ninsightful..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "What an amazing attitude to have!\nAbsorbing\nanything and everything you\ncan, almost like an\ninsatiable black\nhole..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Then, with all due respect, I think it may\nprove\nbeneficial to reconsider the shape\nof the cleats\nyou've chosen."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "With this running form, I think using\nouter-rim\ntype cleats will alleviate some\nof the burden on\nthe runner."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Also, it seems to me that stamina often\nbecomes\na point of concern for runners\naround this time in\ntheir careers."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "And going off your most recent lap\ntimes, it might\nserve you well to increase\nyour number of ramp\ntraining sessions..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...That's all I have to note. It's only a\nlayman's\nopinion, but I hope it can be of\nhelp in some small\nway."
+    },
+    {
+      "name": "Monologue",
+      "text": "She certainly has a lot to say, and her\n\nobservations are all incredibly insightful!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "...Ah! Reporter Otonashi, is the magazine \ngoing to be okay?",
-      "choice_data_list": []
+      "text": "I always knew you were knowledgeable\nabout\nracing, but you're a veritable\nwellspring of\nwisdom, Reporter\nOtonashi!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Huh? Ah! I am so sorry, of all the \ncareless mistakes...!",
-      "choice_data_list": []
+      "text": "I'm honored to hear that... But I'm quite\nhappy\nbeing a reporter."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"Today's main topic is these magazines \nright here! I wanted you to see how the \nannouncements for the 'Twinkle Star \nClimax' are looking.\"",
-      "choice_data_list": [
-        "So this is what was inside the paper bag."
-      ]
+      "text": "If I weren't a reporter, I..."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "There's quite a lot here. Are they all \nracing magazines... Oh, wait, no. It looks \nlike there are Umamusume fashion magazines \nand manga magazines too.",
-      "choice_data_list": []
+      "text": "Oh! Don't you need to discuss the\nmagazines,\nReporter Otonashi?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes! We have special features online in \naddition to print books, so this is only a \nsmall part of it.",
-      "choice_data_list": [
-        "There's this much and it's only a part of \nit?!"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "I was surprised when I heard the news, \ntoo...!",
-      "choice_data_list": [
-        "When you really look at it, the scale of \nthis event is incredible."
-      ]
+      "text": "Hm? Ah! I'm terribly sorry! It's unlike me\nto forget\nmy priorities!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"Hearing you say that makes bowing to \nevery single company worth it!\"",
-      "choice_data_list": []
+      "text": "I'd like you to take a look at these\nmagazines and\nlet me know what you\nthink of the\nannouncements for the\nTwinkle Star Climax!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "There sure are a lot. And not just racing\n\nmagazines either—there are Umamusume\nfashion\nand manga magazines, too."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "However, this is far from everything. \nThough the day of the event is still some \ntime away—",
-      "choice_data_list": []
+      "text": "Right! And physical publications are only\na small\nfraction of the whole\npicture—we've written\nfeature articles\nfor websites, too."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I was utterly taken aback as well!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "That is why I want to put even more effort \ninto publicity, to create the greatest \nstage that the entire nation will eagerly \nanticipate!",
-      "choice_data_list": [
-        "You're fully fired up!"
-      ]
+      "text": "If only I could redirect your kind\ncomments to the\nmany companies who\nagreed to pitch in and help!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes, because this is the stage that \ndecides who is the 'strongest'! Following \nTrainer <username>'s example, I intend to give it \neverything I have!!",
-      "choice_data_list": [
-        "Wait, does that mean I have to give it my \nall too?",
-        "Am I supposed to be giving it my all to \nthe bitter end too...?"
-      ]
+      "text": "However, we still have plenty more gas\nin the\ntank. The opening day of the\nseries is still a ways\naway..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Oh, absolutely! ...Wait, is it that late \nalready?",
-      "choice_data_list": []
+      "text": "And we're hoping to use that time for\nfurther\npromotion. I want to create the\ngrandest racing\nevent—one that every\ncitizen will await with\nbated breath!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I have back-to-back meetings for this \nproject, so I'll be heading back to the \noffice for now. Thank you very much for \nyour cooperation!",
-      "choice_data_list": []
+      "text": "Well, this series is going to determine\nthe\ngreatest, after all! I want to learn\nfrom your\nexample, Trainer\n\n<username>, and\ndevote\nmyself fully to this cause!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Naturally! ...Oop, look at the time!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "My schedule is packed with meetings for\nthis\nproject, so I need to get back to the\noffice right\naway. Thank you for your\ntime today!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "And there she goes. She was like a \nwhirlwind...",
-      "choice_data_list": [
-        "Indeed..."
-      ]
+      "text": "There she goes. She blows in and out of\nhere like\na whirlwind..."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Ah, Trainer, have you read this magazine \nyet?",
-      "choice_data_list": []
+      "text": "Oh, by the way, have you seen this?"
     },
     {
-      "name": "Narrator",
-      "text": "Inside the magazine she handed me, \nalongside all the powerhouse Umamusume, \nthere was an article featuring <chrname>!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "They say she's a candidate for \"the \nstrongest.\" ...What do you think?",
-      "choice_data_list": [
-        "To be honest, I'm happy. But..."
-      ]
+      "name": "Monologue",
+      "text": "Tazuna hands me a magazine. Among\nthe lineup\nof features covering\npowerhouse runners is an\narticle on\n<chrname>!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "But...?",
-      "choice_data_list": [
-        "Someday, I want a whole issue dedicated to \nme!"
-      ]
+      "text": "These are the top contenders for the\ntitle of\n\"greatest.\" ...What do you think?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "My! You're right, a small article is a bit \nunsatisfying, isn't it?",
-      "choice_data_list": []
+      "text": "But?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"The Strongest Umamusume: <chrname> Special \nEdition\"! Hehe, I look forward to reading \nit one day♪",
-      "choice_data_list": []
+      "text": "Oh my! I know how you feel, though. An\narticle\nthis small does leave a little to be\ndesired."
     },
     {
-      "name": "Narrator",
-      "text": "<chrname> is a girl who certainly won't stop at \njust being a \"candidate.\"",
-      "choice_data_list": []
+      "name": "Tazuna Hayakawa",
+      "text": "Special Issue on <chrname>,\nthe\nGreatest Umamusume! Hehe, I look\nforward to\nreading that someday. ♪"
     },
     {
-      "name": "Narrator",
-      "text": "That day's training was overflowing with \neven more motivation than usual...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm sure <chrname> will\nemerge from\nthis series as more than a\nmere contender."
+    },
+    {
+      "name": "Monologue",
+      "text": "During our training session later that\nday, I'm\nbursting with even more\nmotivation than usual!"
     }
   ]
 }

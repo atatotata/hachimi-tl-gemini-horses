@@ -2,55 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Mejiro McQueen—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I'm out and about with Mejiro\n\nMcQueen."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...Oh, look, Trainer. What an adorable \nplushie.",
-      "choice_data_list": []
+      "text": "My, look at that, Trainer. What an\nadorable little\nplushie."
     },
     {
-      "name": "Narrator",
-      "text": "Following Mejiro McQueen's gaze, I saw \nplushies modeled after Umamusume displayed \nas crane game prizes.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Fufu...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Mejiro McQueen must really like the \nplushie, as she's staring intently at \nit...",
-      "choice_data_list": [
-        "Do you want that plushie?",
-        "Do you want that plushie?"
-      ]
+      "name": "Monologue",
+      "text": "I follow Mejiro McQueen's gaze and see\n\nUmamusume plushies on display as\nprizes for a\nclaw machine."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "N-No, it's not that. I was just a little \ncurious...",
-      "choice_data_list": []
+      "text": "Hehe..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro McQueen seems to have really\ntaken a\nshine to them. She stares\nintently."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "\"Besides, this game looks quite difficult. \nI doubt I could ever win that plushie.\"",
-      "choice_data_list": [
-        "Then I'll get it.",
-        "Then I'll take it."
-      ]
+      "text": "N-no, of course not. I was merely a bit\nintrigued\nby it."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Huh!? Trainer-san is...? A-Are you sure \nabout that!?",
-      "choice_data_list": []
+      "text": "Besides, this game looks difficult. I\nwouldn't be\nable to win."
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Mejiro McQueen",
+      "text": "What?! You? A-are you sure?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

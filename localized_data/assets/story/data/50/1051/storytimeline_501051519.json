@@ -3,48 +3,39 @@
   "text_block_list": [
     {
       "name": "Nishino Flower",
-      "text": "Umm, what else to buy...",
-      "choice_data_list": []
+      "text": "Let's see... Is there anything else I need\nto buy?"
     },
     {
-      "name": "Clerk",
-      "text": "Hey kiddo, got a second? Where are your \nmom and dad?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Um... My mom and dad? I think they're at \nhome, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Clerk",
-      "text": "\"So, you came to run an errand all by \nyourself? Do you know your way home? Are \nyou having any trouble?\"",
-      "choice_data_list": []
+      "name": "Shop Staff",
+      "text": "Are you okay there? Do you know where\nyour\nparents are?"
     },
     {
       "name": "Nishino Flower",
-      "text": "Um... I'm a student at Tracen Academy, you \nsee...",
-      "choice_data_list": []
+      "text": "Um... My parents? At home, I think..."
     },
     {
-      "name": "Clerk",
-      "text": "Huh? Ah, ahh! I'm so sorry! I got the \nwrong idea!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "N-Not at all! Um... I'm sorry for being so \nmisleading myself.",
-      "choice_data_list": []
+      "name": "Shop Staff",
+      "text": "Oh, did they send you here to run an\nerrand? Do\nyou know the way home? Is\nthere anything I can\nhelp you with?"
     },
     {
       "name": "Nishino Flower",
-      "text": "Ah... Do I really look that childish...?",
-      "choice_data_list": []
+      "text": "I, um... I'm actually a student at Tracen\nAcademy,\nso..."
     },
     {
-      "name": "Narrator",
-      "text": "And so, Nishino Flower ended up feeling \ndown because she was treated like a little \nkid.",
-      "choice_data_list": []
+      "name": "Shop Staff",
+      "text": "What?! Y-you are?! My mistake! I'm so\nsorry!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "D-don't be! It's okay... I know my\nappearance can\nbe misleading at times..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "<i>Sigh...</i> Do I really look that young?"
+    },
+    {
+      "name": "Monologue",
+      "text": "After being mistaken for a young child,\nNishino\nFlower is in low spirits."
     }
   ]
 }
