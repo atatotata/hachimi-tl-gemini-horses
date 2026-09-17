@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-16 -- Fresh G/Download Log
+- Translated 47 new UI bits from G:/Downloads/hachimi.log via gemini-3.7-flash-tiered -- FactorResearch reports, TrainerSkill abilities, SingleMode legacy sparks and more. Stars and placeholders verified.
+
+## 2026-09-16 -- Fresh Global EN
+- Harvested 1,607 text + 358 voice lines from the latest Global client (master 16.2 MB). Kept all Japan-only text and SD lore. SD bypass 1,122 preserved.
+
 ## 2026-09-12 — v8 Release Zips
 - Fresh plug-and-play zips with the name cleanup, support titles, and all current menus. Verified zero-diffs again.
 
