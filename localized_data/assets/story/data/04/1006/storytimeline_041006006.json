@@ -1,270 +1,234 @@
 {
   "title": "A World Expanded by Pasta",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Oguri Cap is staring intently at a magazine..."
+      "name": "Monologue",
+      "text": "Oguri Cap stares intensely at a magazine\nin her hands."
     },
     {
       "name": "Oguri Cap",
-      "text": "Amazing... Golden cream... Is that sea urchin?\nIt's glistening on the pasta... like jewels..."
+      "text": "Wow... That sea urchin's glistening like\nliquid gold over a plate of\npasta... It looks\nmore like treasure than it does food..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah, and this one... warm pancakes with cold ice cream...\nSo much fresh fruit... How extravagant...",
-      "choice_data_list": [
-        "Did you find a restaurant you're interested in?",
-        "Did you find a restaurant you're interested in?"
-      ]
+      "text": "And those warm pancakes look like they'd\ngo perfectly with that\nvanilla ice cream...\nNot to mention all the fresh fruit. Such an\n\nexquisite dish..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh, Trainer."
+      "text": "Ah, it's you."
     },
     {
       "name": "Oguri Cap",
-      "text": "I was actually picking somewhere to go on my next day off,\nbut there are so many restaurants compared to back home... It's taking a while.",
-      "choice_data_list": [
-        "Did you decide on a place?",
-        "Did you decide on a place?"
-      ]
+      "text": "Actually, I was looking for a place to eat\non my next day off. There\nare so many\noptions though. It took forever for me to\ndecide..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. A place famous for its pasta and pancakes.\nApparently, it's what they call a \"hidden gem.\""
+      "text": "I did. Apparently, it's some small, hidden\ncafe known for its pasta and\npancakes."
     },
     {
       "name": "Oguri Cap",
-      "text": "However... the other day, I saw an ad for a ramen shop just like this\nand went looking for it, but..."
+      "text": "It's just... The other day, I saw an ad for a\nsimilarly hidden ramen shop\nand thought I\ncould find my way there..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Even though I checked the map and rode the right train,\nI couldn't find it anywhere."
+      "text": "But I got hopelessly lost, even though I\nused a map and everything. I\ncould've\nsworn I had gotten on the right train..."
     },
     {
       "name": "Oguri Cap",
-      "text": "As expected of a \"hidden\" shop.\n...It won't give up its secrets easily."
+      "text": "I guess they aren't called hidden for\nnothing. It's no small feat finding\nyour way\nthere."
     },
     {
       "name": "Oguri Cap",
-      "text": "Wait...\nCould it be operating in disguise, blending into the mortal realm...?",
-      "choice_data_list": [
-        "It's not a ninja..."
-      ]
+      "text": "Wait... Could it be these shops are\ndisguising themselves and hiding\nfrom\npublic eyes?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmm... If not, then why couldn't I find it?\nIt's truly a mystery."
+      "text": "Hmmm... Then why is it that I wasn't able\nto reach my destination?\nTruly a mystery."
     },
     {
-      "text": "Looking at the magazine's map, it's very basic\nand confusing. It might be tough for Oguri Cap to go alone...",
-      "choice_data_list": [
-        "Want me to go with you?"
-      ]
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "...! Really, would you?"
+      "name": "Monologue",
+      "text": "Taking a look at the magazine's map, I\nnotice that it's a bit difficult to\nnavigate.\nI'm not sure if Oguri Cap would be able to\nfind her way\nthere by herself..."
     },
     {
       "name": "Oguri Cap",
-      "text": "If you're with me, Trainer, I'll feel much safer.\nI'll gladly take you up on that. Thank you."
-    },
-    {
-      "text": "On our next day off, after a short train ride,\nwe arrived at the cafe Oguri Cap wanted to visit."
+      "text": "Really?! You'd do that?!"
     },
     {
       "name": "Oguri Cap",
-      "text": "So this is the place... We didn't get lost at all.\nImpressive, Trainer."
+      "text": "With you by my side, I'm sure we'll get\nthere without a problem. I'll\ngladly take\nyou up on that offer, thank you."
+    },
+    {
+      "name": "Monologue",
+      "text": "Our next day off rolls around, and after a\nshort train ride, we find\nourselves standing\nin front of the tucked-away cafe."
     },
     {
       "name": "Oguri Cap",
-      "text": "…………。",
-      "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
-      ]
+      "text": "So this is where it is... You sure know your\nway around town. Not even\na single wrong\nturn."
     },
     {
       "name": "Oguri Cap",
-      "text": "No, it's just... I didn't expect it to look so chic...\nI feel a little out of place."
+      "text": "..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Are my clothes okay for this place? I heard some city restaurants\nturn you away if you don't follow their dress code.",
-      "choice_data_list": [
-        "You'll be fine here."
-      ]
+      "text": "It's nothing... I just feel a bit out of place...\nI mean, look around you!\nIt's so fancy."
     },
     {
       "name": "Oguri Cap",
-      "text": "I see, that's a relief.\nStill... I can't quite relax."
-    },
-    {
-      "name": "Staff Member A",
-      "text": "Have you decided on your order?"
+      "text": "Is it okay for me to be dressed like this? I\nheard some restaurants in\nthe city kick you\nout if you're dressed poorly..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah... um, what was it again...",
-      "choice_data_list": [
-        "The pasta and pancakes?"
-      ]
+      "text": "I see... That's a relief to hear, but... I still\nfeel like I'm somehow\nstanding out..."
+    },
+    {
+      "name": "Waitress A",
+      "text": "Are you ready to order?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. But the names are so difficult..."
+      "text": "Ah, umm... Let's see... What was I gonna\norder, again?"
     },
     {
       "name": "Oguri Cap",
-      "text": "They sounded French... full of foreign words...\nOne of them was the sea urchin pasta, but what was it called...",
-      "choice_data_list": [
-        "Two of the sea urchin pastas, please."
-      ]
-    },
-    {
-      "name": "Staff Member A",
-      "text": "Ah, that would be our Lumière Dorée Sea Urchin Cream Pasta."
+      "text": "Yeah, that's it. I forgot what they're called\nthough... Some\nhard-to-remember names..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh... So you don't have to use the exact formal name.\n...All right."
+      "text": "They were both in French, I think... One of\nthem was a sea urchin\npasta..."
+    },
+    {
+      "name": "Waitress A",
+      "text": "Ah, the \"lumière dorèe\" pâtes à la crème."
     },
     {
       "name": "Oguri Cap",
-      "text": "Excuse me, could we also get two of the pancakes\npiled high with fruit, please?"
-    },
-    {
-      "name": "Staff Member A",
-      "text": "Certainly, two Fruits Crêpes coming right up~"
+      "text": "So you can order without knowing the\ndish's actual name... I see."
     },
     {
       "name": "Oguri Cap",
-      "text": "Incredible... Did you see that, Trainer?\nEven I managed to order properly."
+      "text": "Sorry, but could we also get two servings\nof those pancakes topped\nwith fresh fruit?"
     },
     {
-      "text": "Oguri Cap had seemed nervous in the unfamiliar environment,\nbut after eating, her tension melted away completely—"
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "That was delicious... A flavor I've never experienced before.\nIt melted in my mouth and vanished in an instant..."
+      "name": "Waitress A",
+      "text": "Two crêpes aux fruits. Very well."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Trainer.\nI have a proposal. Shall we order seconds?"
+      "text": "Did you see that? I ordered something on\nmy own!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Unaccustomed to fancy eateries, Oguri\nCap seems a bit on edge at\nfirst. Her\nanxiety, however, vanishes along with her\nfood."
     },
     {
       "name": "Oguri Cap",
-      "text": "It disappeared so quickly that I didn't get to savor it enough.\nSince we came all the way out here—",
-      "choice_data_list": [
-        "Seconds are great, but why not try something else?",
-        "Seconds sound good, but want to try something else?"
-      ]
+      "text": "That was delicious. So many flavors I didn't\neven know existed. Each\nbite was\nabsolutely divine, but they'd last only a\nsecond..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Something else... Now that you mention it, that's a good idea too."
+      "text": "Hey, I have an idea. Why don't we get\nseconds?!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Both the pasta and pancakes were wonderfully seasoned,\nso the rest of the menu is bound to be just as delicious."
+      "text": "Our meal ended too soon. I feel like I can\neat some more, and since\nwe're already\nhere..."
     },
     {
       "name": "Oguri Cap",
-      "text": "In that case, what would be the best choice...?\nMmm, this is a difficult decision."
-    },
-    {
-      "text": "Oguri Cap stared down the menu for several minutes—"
+      "text": "Something... else? Now that you mention\nit, that <i>does</i> sound nice..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...It's no use, I can't decide!\nEverything looks so good, I want to order all of it!"
+      "text": "The pasta and pancakes were both\namazing. I'm sure everything else\non the\nmenu wouldn't disappoint."
     },
     {
       "name": "Oguri Cap",
-      "text": "Hm? ...Wait, wouldn't that solve the problem?"
+      "text": "The question is... What do I order next? A\ndilemma more difficult\nthan any school\nexam..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Oguri Cap sits at the table, flipping\nthrough the menu for about half\nan hour."
     },
     {
       "name": "Oguri Cap",
-      "text": "Trainer, what do you say we order\nevery single item listed on the menu?",
-      "choice_data_list": [
-        "Please spare my wallet..."
-      ]
+      "text": "Ahhh, I can't decide! Everything looks\ngood! Looking at the menu just\nmakes me\nwant to order it all!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...No good? Then could you choose for us?\nWhich dish catches your eye?",
-      "choice_data_list": [
-        "The Hamburger Steak Baked in Puff Pastry."
-      ]
+      "text": "Wait... Maybe I'll do exactly that."
     },
     {
       "name": "Oguri Cap",
-      "text": "Hmm... I've never heard of that dish before."
+      "text": "Let's order everything on the menu. What\ndo you say?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes, since we're here, let's try it.\nAllow me to place the order."
-    },
-    {
-      "text": "Oguri Cap raised her hand happily like a child calling a teacher,\nand ordered \"that hamburger pastry thing.\""
+      "text": "Too much, huh? Then could you at least\norder for me? What are you\nfeeling?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Crispy puff pastry with a perfectly sweet and tart berry sauce,\nwrapping around a succulent, juicy hamburger steak—"
+      "text": "Hmmm... I've never tried that before."
     },
     {
       "name": "Oguri Cap",
-      "text": "It was a blissful moment, like living in a dream."
+      "text": "All right, sounds good. Might as well try it\nwhile we're here, right? I'll\norder the food."
+    },
+    {
+      "name": "Monologue",
+      "text": "Bubbling with childlike excitement, Oguri\nCap raises her hand to call\nover the\nwaitress, ordering a \"beef pie thing\" for\nthe two of us."
     },
     {
       "name": "Oguri Cap",
-      "text": "I see. I couldn't quite picture fruit sauce on a hamburger steak,\nbut it really works."
+      "text": "The pie crust is nice and crispy, and the\nbalance of sweetness and\nacidity in the\nberry sauce is perfect! Not to mention the\nsuper juicy\npatty..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Thank you, Trainer.\nThanks to you, my culinary horizons have expanded."
+      "text": "I'm so happy, I feel like I could be\ndreaming."
     },
     {
       "name": "Oguri Cap",
-      "text": "Trying foods recommended by the person you're eating with,\nrather than sticking only to your own favorites, is truly wonderful."
+      "text": "I wasn't too sure about eating meat with a\nfruity sauce, but this was\nbetter than I\nimagined."
     },
     {
       "name": "Oguri Cap",
-      "text": "Trainer, thank you for today.\nThe food was delicious, and I had a great time.",
-      "choice_data_list": [
-        "Same here!"
-      ]
+      "text": "Thanks for the recommendation. I would\nnever have tried something\nlike this if it\nweren't for you."
     },
     {
       "name": "Oguri Cap",
-      "text": "Fufu, I'm glad to hear that.\nToday has been a truly great day."
+      "text": "It's nice to get out of my comfort zone\nonce in a while and eat what\nother people\nlike!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Well then, let's head to the next shop.",
-      "choice_data_list": [
-        "...Wait, what?"
-      ]
+      "text": "Thank you for today. The food was\nfantastic, and I had a bunch of\nfun."
     },
     {
       "name": "Oguri Cap",
-      "text": "I usually only visit places near the academy,\nbut since you offered to be my guide today..."
+      "text": "That's good to hear. This day couldn't be\nany better."
     },
     {
       "name": "Oguri Cap",
-      "text": "I picked out several other places to check out."
+      "text": "All right. On to our next destination."
     },
     {
       "name": "Oguri Cap",
-      "text": "We might miss lunchtime at some,\nbut going by my appetite, I could easily visit ten more."
+      "text": "I usually only go to nearby places when I'm\nalone, but since you said\nyou'd show me\naround, I wanna make the most of it."
     },
     {
       "name": "Oguri Cap",
-      "text": "Looks like we'll be spending the whole day cafe hopping.\nI'm looking forward to it, Trainer."
+      "text": "I highlighted a couple other shops that\ncaught my eye while I was\npreparing for\nthis trip."
     },
     {
-      "text": "Matching steps with an unusually brisk Oguri Cap,\nwe continued our cafe tour right up until curfew..."
+      "name": "Oguri Cap",
+      "text": "It might not be lunchtime anymore, but\njudging by the state of my\nstomach, I\ncould stop by at least 10 more spots."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Since we're going to spend the entire day\ncafe hopping, I'll be\ncounting on you,\nTrainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Oguri Cap quickly picks up her pace, and\nwe end up popping into\nevery single cafe\non her list..."
     }
-  ],
-  "no_wrap": true
+  ]
 }

@@ -1,253 +1,222 @@
 {
   "title": "Pitter-Patter, Rustle-Rustle, What's the Prize?",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanetannhauser",
-      "text": "Hm-hm-hmmm♪\nWhere are they? Where are they? Is everyone here yet, I wondolll~?"
+      "text": "Hm hm hm! ♪ Now where are they? Maybe\nthey're already here?"
     },
     {
-      "name": "Narrator",
-      "text": "On my day off, I went for a walk to get some fresh air\nand spotted Matikanetannhauser in the park."
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "Ah, Trainer!\nAre you out on a stroll by any chance?",
-      "choice_data_list": [
-        "Yeah.",
-        "That's right."
-      ]
+      "name": "Monologue",
+      "text": "I happen upon Matikanetannhauser on a\nweekend stroll through the\npark."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I see, what a coincidence~! I promised to play with my friends,\nso I'm meeting them here, but—"
+      "text": "Oh, Trainer! Out for a bit of fresh air?"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ah! There they are! Hey, everyone, yahooo♪"
+      "text": "Well ain't that a coinkydink! I'm here\nwaiting for some friends myself..."
     },
     {
-      "name": "Narrator",
-      "text": "Matikanetannhauser waved toward a group of young children.\nAll smiling, they came sprinting over to her."
+      "name": "Matikanetannhauser",
+      "text": "Ah, there they are now! Everyone! Hey\nthere!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I take a look in the direction she's waving\nand see a bunch of grinning\nkids quickly\napproaching."
     },
     {
       "name": "Energetic Girl",
-      "text": "Machi-chan, yahooo~!"
+      "text": "Hi there, Machitan!"
     },
     {
-      "name": "Spirited Boy",
-      "text": "Yo, Big Sis Machi! What're we doing today? Cops and robbers? High-ground tag?\nI got faster, so I'm down for anything!",
-      "choice_data_list": [
-        "(So her friends were the local kids.)"
-      ]
+      "name": "Active Boy",
+      "text": "Yo, Machi! What you got planned for us\ntoday? Cops and robbers?\nTag? I'm pretty\nfast, so I'm good for anything!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Alrighty then~~... let's play high-ground tag today!\nHere we go! Clippity, cloppity, rock-paper-scissors-go!"
+      "text": "Let's see then... How about some tag in\nthat case? Get ready! Rock,\npaper,\nscissors, pyoi!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ah, I'm \"it\"! All right, I'm gonna catch all of you!\nRun, run, run!",
-      "choice_data_list": [
-        "(She really is full of energy.)"
-      ]
+      "text": "Looks like I'm \"it\"! I'm gonna getcha, so\nyou better get runnin'!"
     },
     {
-      "name": "Narrator",
-      "text": "Matikanetannhauser was running around playing right at the children's eye level.\nHer boundless energy easily rivaled theirs."
+      "name": "Monologue",
+      "text": "I start to feel exhausted, and I'm just\nwatching. Even after wrapping\nup their\ngame, Matikanetannhauser looks no less\nenergetic than when\nshe started."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Pheeew! That was so much fun!\nI wonder if everyone made it back home okay~?"
+      "text": "Whew, now that was some serious fun! I\nhope everyone's gotten home\nokay."
     },
     {
-      "name": "Narrator",
-      "text": "The children had headed home for lunch,\nleaving just Matikanetannhauser and myself."
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "—Wait, whoa! That's right, it's already lunchtime!\nAh-wah-wah, I almost forgot~!",
-      "choice_data_list": [
-        "Forgot what?"
-      ]
+      "name": "Monologue",
+      "text": "The kids have all gone home for lunch,\nleaving just myself and\nTannhauser in the\npark."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Fufufu, curious? Then wanna come along with me?\nThat way, we can split the loot~!"
-    },
-    {
-      "name": "Narrator",
-      "text": "We arrived at the shopping district. The lively chatter of the crowd\nand the sound of ringing bells drifted through the air. There must be an event going on."
+      "text": "Geh, that's right! Lunchtime! No goodie\ngood—I almost forgot!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hellooo~! I'm here for the lottery draw!\nI've got a ton of tickets!",
-      "choice_data_list": [
-        "(I see, a lottery draw event.)"
-      ]
+      "text": "Oh ho ho, piqued your curiosity, have I?\nWould you like to tag along,\nthen? We\ncould go halfsies!"
     },
     {
-      "name": "Shopping District Lady",
-      "text": "Oh my, O-Machi-chan. So lovely and energetic as always~!\nThe lottery's right over this way."
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Oh, we've been waiting for ya, O-Machi-chan!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Let's see how many tickets ya got... Haha, as expected of our regular customer!\nYou've got a whole bunch! All right, draw as many as you like!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Tables were set up in the special event area, lined with lottery boxes.\nMatikanetannhauser reached her hand into one of them... and drew!"
+      "name": "Monologue",
+      "text": "I follow behind until we arrive at the\nshopping street. It's unusually\ncrowded\ntoday, and the air is filled with excited\nshouts and the echo\nof handbells."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Heeeeeeyah!"
+      "text": "Howdy there! I would like to give your\nraffle a shot, ma'am. I have\ntons of tickets!"
     },
     {
-      "name": "Shopping District Man",
-      "text": "This one is... ah, 4th prize.\nToo bad. Pick any candy you like from the pile."
+      "name": "Shopping Street Lady",
+      "text": "Oh, if it isn't Machitan! Pep in your step\nlike always, I see! Step on\nover here for\nthe raffle."
     },
     {
-      "name": "Matikanetannhauser",
-      "text": "Mmm, that's pretty far from the 1st prize 'Hemokichi-kun Costume'.\nBut that was only the first try. We've totally got this! Right, Trainer!",
-      "choice_data_list": [
-        "Yeah, you got this!",
-        "Yep, you can do it!"
-      ]
+      "name": "Shopping Street Man",
+      "text": "I knew we'd be seein' ya today, Machitan!"
     },
     {
-      "name": "Matikanetannhauser",
-      "text": "Alrighty! On to the next one!"
+      "name": "Shopping Street Man",
+      "text": "Now let's see how many tickets you've got\nthere... Haha, you're one\nof our best\ncustomers all right! Come and pull as much\nas your sweet\nlittle heart wants!"
     },
     {
-      "name": "Matikanetannhauser",
-      "text": "Take thaaaaaaat!!!!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Let's see... Ah, 4th prize.\nPick another candy you like."
+      "name": "Monologue",
+      "text": "There are dozens of decorated boxes lined\nup on a table set up for\nthe event.\nMatikanetannhauser reaches her hand into\none of them\nand pulls a lot."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Mmh, 4th prize again. But that's okay!\nNext, next, next~!"
+      "text": "Here goooooes!"
+    },
+    {
+      "name": "Shopping Street Man",
+      "text": "Let's see here... Oof, it's fourth tier. Too\nbad, but you do get to pick\na candy!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "How about this one!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Too bad, 4th prize!"
+      "text": "Mumu. I'm really after that Arach-kid\ncostume, so there's no stopping\nhere.\nPlenty more tickets where that came from.\nI've got this!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Next! Hyaaah!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Too bad, this one's 4th prize too!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "Down to the very last ticket... Think you can do it, O-Machi-chan?"
+      "text": "All righty, here goes!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "*huff*, *puff*, *whew*~~. ...*gulp*.\nYeah. Okay, I can do this!!"
+      "text": "Hiyaaah!"
     },
     {
-      "name": "Shopping District Lady",
-      "text": "You've got this! If anyone can do it, it's you, O-Machi-chan. Do your best!"
-    },
-    {
-      "name": "Shopping District Man",
-      "text": "That's right, you worked hard to get this far.\nI'm sure you'll pull something great! Go for it!",
-      "choice_data_list": [
-        "Do your best!!"
-      ]
+      "name": "Shopping Street Man",
+      "text": "Hmm... Darn, fourth tier again. Go ahead\nand pick another candy."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Everyone... thank you!\nI'll give it everything I've got! Ready, set——!!"
+      "text": "Oh? Another fourth tier. No worries,\nthough! Again, again, again!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "DOSSEEEEEEEEEI!!!!"
+      "text": "How's about this?!"
     },
     {
-      "name": "Narrator",
-      "text": "And the result of the final draw is...!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "—4th prize."
+      "name": "Shopping Street Man",
+      "text": "Too bad. Fourth tier."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Aww, sorry, Trainer.\nIf I'd pulled Hemokichi-kun, I was gonna split him with you."
+      "text": "Next! Take that!"
+    },
+    {
+      "name": "Shopping Street Man",
+      "text": "Too bad! Another fourth tier for you!"
+    },
+    {
+      "name": "Shopping Street Man",
+      "text": "Just one ticket left... What'll it be,\nMachitan?"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Wait, can you even split a Hemokichi-kun in half...?\nOh well! Let's head back to the academy!"
+      "text": "<i>Huff... huff... pant... Gulp.</i> Yeah, okay.\nLet's do this!"
     },
     {
-      "name": "Shopping District Uncle",
-      "text": "Hold up, wait a sec! Machi-chan!"
+      "name": "Shopping Street Lady",
+      "text": "Don't worry, dear! You can do it! I believe!"
     },
     {
-      "name": "Shopping District Uncle",
-      "text": "You worked real hard out there, so here. A reward ice cream.\nThere's enough for two, so share it with your friend over there."
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "Huh, really?! Yay♪\nThanks, mister! I'll come shop here again real soon~!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Matikanetannhauser kept waving to everyone with the same sunny smile she had when she first arrived."
-    },
-    {
-      "name": "Narrator",
-      "text": "The next day. We had strength training scheduled, so I headed to the gym early to check the equipment—"
+      "name": "Shopping Street Man",
+      "text": "She's right! There's no way you're losin' out\nnow after all those pulls.\nYou've got this!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ei, mun!! Ei, mun!!\nEi, ei, mun!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Way ahead of our scheduled time, Matikanetannhauser was already warming up."
+      "text": "You guys... Thank you! This one's for all\nthe marbles... Here goes!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hehehe~ Maybe I'll hit the treadmill next?\nOr dumbbells? Barbells sound great too!",
-      "choice_data_list": [
-        "Full of energy today, aren't you?",
-        "Full of energy today, aren't you?"
-      ]
+      "text": "Eeeeei!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The final lot is drawn!"
+    },
+    {
+      "name": "Monologue",
+      "text": "...It's fourth tier."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ehehe, I just had way more energy than usual leftover!\nI couldn't help showing up early. —Mun!!",
-      "choice_data_list": [
-        "Must've been really happy to see everyone yesterday.",
-        "Must've been really happy to see everyone yesterday."
-      ]
+      "text": "<i>Sigh.</i> Sorry, Trainer. I was planning on\ngoing halfsies with you on the\nArach-kid\ncostume and everything..."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I was! Seeing all my little kid friends and the neighborhood folks gets me so happy and pumped up!"
+      "text": "Wait, now that I think about it, how\nexactly would that work? Oh well!\nWhy\ndon't we head back?"
+    },
+    {
+      "name": "Shopping Street Man",
+      "text": "Hey, wait right there, Machitan!"
+    },
+    {
+      "name": "Shopping Street Man",
+      "text": "Here's a little something for your\npersistence. There's enough ice\ncream in\nthere for the two of ya, so go ahead and\nsplit it!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Mufufu, can't wait for my next day off!\nWhat should I do next time~? Hm-hm-hm-hmmm♪"
+      "text": "Whoa, really? That's so nice! Thanks,\npops. I'll be back again soon!"
     },
     {
-      "name": "Narrator",
-      "text": "Matikanetannhauser is adored by everyone around her. Perhaps it's all the affection from those people that gives her so much energy."
+      "name": "Monologue",
+      "text": "As Tannhauser waves goodbye to all of the\npeople at the shopping\nstreet, I can tell\nthat she hasn't lost a single ounce of her\ncheerful\nspirit."
+    },
+    {
+      "name": "Monologue",
+      "text": "I head to the gym early the next day to\nmake sure our equipment is\nready for our\nscheduled strength training."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ei, mun! Ei, mun! Ei, ei, mun!"
+    },
+    {
+      "name": "Monologue",
+      "text": "But it seems that Tannhauser has beaten\nme there by what looks like\na good deal of\ntime."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Heh heh heh! Should I hit the treadmill\nnext? Or maybe the\ndumbbells? I think I\ncan hear those barbells calling my name\ntoo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, not at all! I bet I could bench that\nweight, actually. Mun!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You betcha! I always feel like I get a full\ncharge after playing with the\nkids and\ndoing a bit of shopping."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, I can't wait 'til next weekend.\nWonder what we'll play? Hm hm\nhm! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "Matikanetannhauser can make friends with\nalmost anyone she meets,\nand those\nconnections seem to give her all the\nenergy she could ever\nneed."
     }
-  ],
-  "no_wrap": true
+  ]
 }

@@ -1,235 +1,218 @@
 {
   "title": "Truth",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "...And so, on that day, I brought Narita Brian with me\nto Hanshin Racecourse to watch Biwa Hayahide's Make Debut."
+      "name": "",
+      "text": "On the day of Biwa Hayahide's race, I take\nNarita Brian to the\nHanshin Racecourse to\nsee her sister's debut."
     },
     {
       "name": "Narita Brian",
-      "text": "You'd better have meant what you said this morning.",
-      "choice_data_list": [
-        "What do you mean?"
-      ]
+      "text": "You'd better have been telling the truth\nthis morning."
     },
     {
       "name": "Narita Brian",
-      "text": "Playing dumb won't work on me.\nWe've come this far; I won't let you renege on our agreement."
+      "text": "Don't play dumb. I won't let you back out\nof your promise after\ncoming this far."
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... You really are persistent!!\nWhat obligation do I have to follow you around?!",
-      "choice_data_list": [
-        "Because I absolutely need you to be here!",
-        "Because I really wanted you to see this!"
-      ]
+      "text": "Tch... You just don't quit! Why in the world\nwould I go with you?"
     },
     {
       "name": "Narita Brian",
-      "text": "Then promise me that if I come, you'll never involve yourself with me again.\nNo, that's not enough. Surrender your Trainer badge, too!",
-      "choice_data_list": [
-        "Deal!"
-      ]
+      "text": "Fine, but you'll promise to never come\nsniffing around me again.\nWait, that's not\nenough—turn in your trainer's badge too!"
     },
     {
       "name": "Narita Brian",
-      "text": "...Hmph.",
-      "choice_data_list": [
-        "(...Wait, what did I just say?!)"
-      ]
+      "text": "...Hmm."
     },
     {
-      "text": "...Regardless, I managed to get her here.\nAll that's left is—"
+      "name": "",
+      "text": "Well, she's here, so it worked at least. All\nthat's left is..."
     },
     {
-      "name": "Announcer",
-      "text": "Up next is the Junior Class Make Debut!\nWho will seize victory today?!"
+      "name": "Caster",
+      "text": "It's time for the Junior Make Debut! Who\nwill shine as our victor\ntoday?"
     },
     {
       "name": "Narita Brian",
-      "text": "...She's about to make her move."
+      "text": "She's next."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(...Are you watching, Brian?)"
+      "text": "(Are you watching, Brian?)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(You loved running, and chasing down rivals, more than anyone.\nThat is why you naturally sought out someone who could match your stride.)"
+      "text": "(You've always loved running more than\nanyone. It's only natural for\nyou to crave a\nworthy opponent.)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(Yet you were far too strong. Your expectations were routinely shattered.\nAnd that experience... gave you the terrible habit of giving up on others.)"
+      "text": "(But you're simply too talented, so your\nhopes were always dashed...\nThat's why\nyou're so quick to give up on others.)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(But listen, Brian. You must realize this:\nthe rivals you seek can also be born from those you turned your back on—the defeated!)"
+      "text": "(But you must learn, Brian, that a worthy\nopponent can come from\nanywhere—even\nfrom the depths of failure!)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "HAAAAAAAAAAAHHHHHHH!!!!!"
+      "text": "Haaaaah!"
     },
     {
-      "name": "Announcer",
-      "text": "Biwa Hayahide takes the lead! She's completely broken away!\nThe margin is two lengths, no, three... What a blowout! A dominant victory!!"
+      "name": "Caster",
+      "text": "Biwa Hayahide's in the lead! She's way\nahead of the pack! She's two,\nno, three\nlengths—wait, this is turning into a\nlandslide victory!"
     },
     {
       "name": "Narita Brian",
-      "text": "What was that...?! Since when could she run like that...?!\nWith eyes like a predator stalking its prey, fixed solely on the finish line—"
+      "text": "What is this? Since when could she run like\nthat? It's as if she's on the\nhunt and all she\ncan see is the finish line..."
     },
     {
       "name": "Narita Brian",
-      "text": "...Tch!!",
-      "choice_data_list": [
-        "Brian?!"
-      ]
+      "text": "Tch!"
     },
     {
       "name": "Narita Brian",
-      "text": "Sister! Why did you hide that thrilling stride from me until now?!\nWhy didn't you ever invite me to race against you?!"
+      "text": "Sis! Why have you been hiding that\namazing skill all this time?! Why\nhaven't\nyou ever asked me to race you?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "So you came, Brian.\n...And you as well."
+      "text": "I see you made it, Brian... And you too."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Now then, shall we head up to the stands together?"
+      "text": "Let's go over to the stands, shall we?"
     },
     {
       "name": "Narita Brian",
-      "text": "Huh? I'm talking to you right—"
+      "text": "Huh? I'm trying to talk to you here—"
     },
     {
-      "text": "(WOOOOOOOOOOOOOAAAAHHH!!)"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Ngh?! What's with this cheering...?\nIt's even louder than Sister's race..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Indeed. Mine was merely a Make Debut race, after all.\nIt pales in comparison to the Main Race."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Do not underestimate them, Brian.\nThere are runners here far beyond my current level."
-    },
-    {
-      "name": "Announcer",
-      "text": "And here we are, today's Main Race!\nThe pack is tightly bunched up front. Who will break away for the lead?!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Brian, who do you think will win this race?"
+      "name": "",
+      "text": "<i>Wooooo!</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "...Don't care. Doesn't matter to me.\nMore importantly, I want to race you, Sister—"
+      "text": "Huh?! What's with that cheering? It's even\nlouder than when you\nraced..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I believe she will win."
-    },
-    {
-      "name": "Senior Horsegirl",
-      "text": "Hyaaaaaaaaaaaaaaaahhh!!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...! That voice—"
-    },
-    {
-      "name": "Senior Horsegirl",
-      "text": "I haven't won anything yet...! Someone like me... has no right\nto think she can even compete with a monster like that...!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...No way. Is that the girl from before...?\nShe never had that kind of tenacity. No, she didn't even have that sheer hunger for victory...!"
+      "text": "It's loud indeed. However good a race I\nran, it was merely a debut. It\npales in\ncomparison to the main event."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "She told me... 'Even if I can't reach her now, I will defeat her.'\nShe vowed to reforge herself and stand on the very same stage as you one day."
+      "text": "Do not underestimate others, Brian. There\nare racers here far greater\nthan me."
+    },
+    {
+      "name": "Caster",
+      "text": "It's finally time for the main race of the\nday! Among all these amazing\nathletes,\nwho will break ahead and achieve glory?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "That is why you must first win this race."
+      "text": "Who do you think will win this race?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "To be honest, I don't care. All I want is to\nrace you—"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Brian, this is the Twinkle Series.\nA place where everyone struggles to the bitter end just to reach the top."
+      "text": "I think it will be her."
+    },
+    {
+      "name": "Senior Umamusume",
+      "text": "Hraaaaagh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Wait, that voice..."
+    },
+    {
+      "name": "Senior Umamusume",
+      "text": "That was no win! I should never... have\ngone up against a beast like\nthat!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You're kidding me. She was nothing like\nthis when I raced her. She\ndidn't even have\nthe drive to win!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Come, Brian. Ascend to this world.\nRight now, you haven't even made it to the starting line."
+      "text": "She told me something... \"I don't care how\nfar ahead Brian is—I'll\ndefeat her.\" She\neven started training from scratch to face\nyou again\none day."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I promise I will be there to face you.\nOn the grandest stage of all—the GⅠ races."
+      "text": "But she said she's going to win this race\nfirst."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "This is the Twinkle Series, Brian. Everyone\nhere struggles until the\nvery end to\nachieve a spot at the top."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "This world is where you belong. But you've\nyet to take your first step\ninto it."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "When you do, I'll be there waiting—at the\npinnacle of racing, the G1\nlevel."
     },
     {
       "name": "Narita Brian",
-      "text": "...Tch."
+      "text": "..."
     },
     {
-      "text": "She swallowed hard.\nYet even that sound was—"
+      "name": "",
+      "text": "I swallow and make an audible gulp, but\nthe sound is completely\ndrowned out..."
     },
     {
-      "text": "(WOOOOOOOOOOOOOAAAAAAAHHHHH!!)"
+      "name": "",
+      "text": "Wooooo!"
     },
     {
-      "text": "Completely drowned out by the roar of the Twinkle Series.\nA roar powerful enough to seize hold of her very soul.",
-      "choice_data_list": [
-        "...Do you want to run out there too?",
-        "...Do you want to run out there too?"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Like hell you need to ask...! ...Tch!!"
+      "name": "",
+      "text": "The applause at the Twinkle Series grows\neven louder, with an energy\ngreat enough\nto capture Narita Brian's attention."
     },
     {
       "name": "Narita Brian",
-      "text": "...I'm changing the terms of our deal from this morning.\nYou can stay a Trainer. But in exchange—"
+      "text": "Damn right, I do! <i>Tch!</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "Become MY Trainer.\nAnd take me all the way to the Twinkle Series...!!"
+      "text": "I'm changing the terms of your promise.\nYou can keep being a trainer,\nbut on one\ncondition..."
     },
     {
-      "text": "—A few days after that momentous day."
+      "name": "Narita Brian",
+      "text": "Be <i>my</i> trainer... And get me to the Twinkle\nSeries!"
+    },
+    {
+      "name": "",
+      "text": "A few days later..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "...Brian. What race are you entering next?"
+      "text": "Brian... What race are you goin' for next?"
     },
     {
       "name": "Narita Brian",
-      "text": "......Don't see how that's any of your business."
+      "text": "<i>Sigh...</i> Why? It's got nothing to do with\nyou."
     },
     {
       "name": "Hishi Amazon",
-      "text": "It's totally my business, moron. I'm gonna train like hell till then.\nJust so I can crush you into dust."
+      "text": "Yeah, it does, you jerk. I'm gonna put\nmyself through special training\njust for that\nday. And I'm gonna <i>crush</i> you."
     },
     {
       "name": "Hishi Amazon",
-      "text": "A real one-on-one only ends when one of us hits the dirt.\nI ain't down yet... so don't you dare go ending this on your own."
+      "text": "You know what one-on-one means? We\nrace until one of us drops.\nAnd I ain't on\nthe ground yet, so don't you dare back out\nnow."
     },
     {
       "name": "Narita Brian",
-      "text": "……！",
-      "choice_data_list": [
-        "...She's going to get stronger, too.",
-        "...She's going to get stronger, too."
-      ]
+      "text": "...!"
     },
     {
       "name": "Narita Brian",
-      "text": "...Haha! Right, I see. I underestimated this place.\nSo this is Tracen Academy."
+      "text": "Haha! I get it now—I really was\nunderestimating people. So this is\nwhat\nTracen is all about."
     },
     {
       "name": "Narita Brian",
-      "text": "Fine by me. I'll blow past every single one of them.\nLet's move, Trainer...!"
+      "text": "It'll do. I'll stay so I can shred every last\none of them. Let's get to it,\nTrainer!"
     }
-  ],
-  "no_wrap": true
+  ]
 }

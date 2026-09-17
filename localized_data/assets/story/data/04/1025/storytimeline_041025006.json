@@ -1,263 +1,225 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I'd been feeling rough for a while now, with \nno signs of things getting any better."
-        },
-        {
-            "text": "It wasn't for lack of rest - I did as Manhattan Cafe asked, and \nwent straight home after training every day, but…",
-            "choice_data_list": [
-                "(It's the weekend, I should go somewhere!)",
-                "(It's the weekend, I should go somewhere!)"
-            ]
-        },
-        {
-            "text": "Maybe I'd spent too long cooped up inside. Time to \nblow away the cobwebs! I opened the door and…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "…Hello.",
-            "choice_data_list": [
-                "AGH!"
-            ]
-        },
-        {
-            "text": "Manhattan Cafe was standing in the hallway! Just \nhow long had she been waiting out there…?!",
-            "choice_data_list": [
-                "Sorry! Were we going to do something today…?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "No… I just happened to be passing……"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "How about you, trainer-san? Are you going somewhere?",
-            "choice_data_list": [
-                "Just thought I'd go out and get some air."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Um…… trainer-san…",
-            "choice_data_list": [
-                "Would you like to come?",
-                "Would you like to come?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Eh…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Yes…… \nPerhaps it's best if we stay together…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Very well. I'll come with you."
-        },
-        {
-            "text": "Since I had a companion, I thought it might be \nnice to go a little further afield. But where \nwould Manhattan Cafe would like to go…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Here…?",
-            "choice_data_list": [
-                "That's right, the aquarium! \nYou like the aquarium, right?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "I do… it's just… \nIt's… darker than I expected…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Trainer-san…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "We mustn't get separated… give me your hand…",
-            "choice_data_list": [
-                "…!"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Whatever you do… don't let go… \nShall we…?"
-        },
-        {
-            "text": "Manhattan Cafe and I held hands and made our way around. There \nwere a lot of people that day, and a particularly big crowd had \ngathered in front of the big shark tank…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "It's… beautiful… \nAnd with this many people around, I think we should be…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Ah…!",
-            "choice_data_list": [
-                "Hey, watch it, don't push…!"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "No…! Trainer-san…!"
-        },
-        {
-            "text": "Before I knew what was happening I was swept away by the crowd. \nI found myself in a dark corridor, alone. A maintenance corridor? \nHere, away from the exhibits, the silence was stark."
-        },
-        {
-            "text": "Maybe it was just the air conditioning, but I suddenly felt a \ncold sensation rising up my spine.",
-            "choice_data_list": [
-                "(I'd better get back…)"
-            ]
-        },
-        {
-            "text": "I made to leave, and…"
-        },
-        {
-            "text": "(potch!)"
-        },
-        {
-            "text": "Someone… or something… grabbed my ankles! I struggled, but it \nwas no use… its grip was too strong!"
-        },
-        {
-            "name": "Some…things? Voice",
-            "text": "c̷o̸m̵e̴ ̸ ̷a̷n̵d̶ ̴ ̷p̷l̸a̴y̸",
-            "choice_data_list": [
-                "(I've got a bad feeling about this…!)"
-            ]
-        },
-        {
-            "text": "I could feel it pulling on me, pulling me back into the \ndarkness… I looked down at my feet… and saw nothing but black…!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Stop it!!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Trainer-san… \nYou're alright…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "We… should go…"
-        },
-        {
-            "text": "Emerging into the sunlight, I felt the warmth gradually return \nto my body. But just what had happened back there…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Do you feel… better now…?",
-            "choice_data_list": [
-                "Y… yeah. Thanks.",
-                "Y… yeah. Thanks."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Good. \nI… don't think that will happen again. Not for a while, at least."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "I'm… sorry. I let my guard down. Normally, if there are people \naround… that sort of thing doesn't happen…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "But it seems that's no longer true."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Eventually… they will come for you again.",
-            "choice_data_list": [
-                "\"They\"? Who's \"they\"?",
-                "\"They\"? Who's \"they\"?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "It's… difficult to express…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "But… this is not my friend. This is… another."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "They are… not good… Like a memory… or a scar… \nSeared… deeply… into this reality…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Perhaps it's better if we don't talk about them… \nOur interest could… excite them…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Trainer-san… do you believe me?",
-            "choice_data_list": [
-                "Of course I do."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Then… for now… be on your guard… \nTry to stay near other people…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Give me just a little more time…"
-        },
-        {
-            "text": "Her face was deadly serious. It felt like \nI'd seen that expression a lot recently.",
-            "choice_data_list": [
-                "It's a shame about our trip to the aquarium, though.",
-                "It's a shame about our trip to the aquarium, though."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "For now… it can't be helped… \nI need you to be patient.",
-            "choice_data_list": [
-                "I hoped I could show you a nice time, but…",
-                "I hoped I could show you a nice time, but…"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Eh…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Me…? \nI thought… it was you that wanted to go…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "You did this…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "You put yourself in danger… just for me… \nPerhaps that's why…",
-            "choice_data_list": [
-                "Did you say something?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "No… it's nothing… \nTrainer-san…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Let's come back again… \nafter this is all over."
-        },
-        {
-            "text": "After that, I walked Manhattan Cafe back to her room. She barely \nlooked up from the floor, so I couldn't read her expression."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "You don't need to worry. I will…"
-        },
-        {
-            "text": "I didn't know it then, but she had made up her mind what to do."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "It's been some time since I noticed my\nhealth starting to deteriorate.\n\nUnfortunately, I haven't sensed much\nimprovement either."
+    },
+    {
+      "name": "Monologue",
+      "text": "Manhattan Cafe has been urging me to\nreturn home immediately after\nour training\nsessions lately. I thought that by doing so,\nI'd be getting\nall the rest I need..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Staying cooped up in here can't be good\nfor me either. I grab the\nhandle of my front\ndoor and give it a spirited twist..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Hello."
+    },
+    {
+      "name": "Monologue",
+      "text": "I find Manhattan Cafe standing on the\nother side. Just how long has\nshe been\nthere?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... I just happened to be passing by."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Are you... going somewhere?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...\nUm... Trainer..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Huh?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I guess... that'd be fine. If we're together..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Yes, I'll come with you."
+    },
+    {
+      "name": "Monologue",
+      "text": "Since we're together, I begin to think that\na more drastic change of\nscenery might be\nnice. What kind of place might she enjoy?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "This place is actually..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "That's not it... I was just thinking that this\nplace... is a bit darker than I\nwould have\nthought..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Trainer..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "We can't become separated... Give me\nyour hand."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Don't even think about... letting go. Now,\nshall we be off?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Hand-in-hand, we stroll about the\naquarium. It's rather busy, likely\nbecause\ntoday is a holiday. The crowd in front of\nthe central tank is\nespecially large."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...It's quite pretty, isn't it? And as long as\nthere are people around...\nthen..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ah!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh no, Trainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm carried off by the wave of people.\nSeparated from Manhattan\nCafe, I find\nmyself in an empty hallway."
+    },
+    {
+      "name": "Monologue",
+      "text": "This area is suffocatingly quiet. Is it a\nstaff-only corridor? It's also\nbone-chillingly\ncold. Do they really keep the air\nconditioning that\nstrong in here?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I turn around and begin searching for a\ndoor, when..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Snatch!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "I feel as though someone, or something,\nhas grabbed on to both of\nmy ankles. No\nmatter how much I struggle, I can't budge\nan inch."
+    },
+    {
+      "name": "Muffled Voice",
+      "text": "Play... with... me..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I don't dare to even glance down at my\nfeet. All the while, I feel like\nthey are\nbeing dragged out from under me."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Stop!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, Trainer... Thank goodness."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Come on, let's get out of here."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm thankful to be outdoors. The bright\nwarmth offers a much-needed\nsense of\nrelief. Just what had happened back\nthere?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Are you feeling... better?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "That's good. We should be okay... out\nhere."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I'm sorry... That was careless of me. It's\nusually fine when there are so\nmany\npeople around."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "It looks like... little can stop <i>it</i> now."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I'm afraid... it might come after you again."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "It's... hard to explain."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "There's something else... but it's not like\nmy Friend."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "This one... seems more like a bad\nmemory... or a regret... It's stuck\nhere... like\na scar..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "It's probably better... if we don't talk\nabout it. Our interest might be...\nstirring it\nto act..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Do you actually... believe me?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "In that case... you should be very careful.\nTry to stay near... other\npeople."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Please give me... just a little more time..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The look on her face is one that I've been\nseeing a lot lately—entirely\nserious."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "For now... that's just how it is. Please be\npatient—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Huh?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "For me? But I thought... you were the one\nwho wanted to go..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Trainer... You..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "You put yourself in harm's way... just for\nme... That might explain <i>it</i>......"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... It's nothing. Trainer..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Once this is all over... we should come here\nagain..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She walks by my side as we make our way\nback to the academy,\nthough she spends\nmost of the time gazing at the ground."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Please don't worry... I can do this..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She wears an expression of intense\ndetermination."
+    }
+  ]
 }

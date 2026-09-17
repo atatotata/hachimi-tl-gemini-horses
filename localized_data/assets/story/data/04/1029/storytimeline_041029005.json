@@ -1,13 +1,10 @@
 {
   "title": "Embarrassin' to No End!",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Yukino Bijin",
-      "text": "Trainer! Thanks for your hard work today!\nThank you very much, gansu—I mean, thank you very much!",
-      "choice_data_list": [
-        "Good work! You worked hard today too!",
-        "Good work! You worked hard today too!"
-      ]
+      "text": "Trainer! That was a great workout! Thanks\noodl—thank you for today!"
     },
     {
       "name": "Yukino Bijin",
@@ -15,155 +12,135 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "(I wonder if I've grown a bit...? \nMy race times have gotten faster, and my standard Japanese feels pretty natural now.)"
+      "text": "(I'm gett'n better, aren't I? My time's a lot\nshorter now, and I'm gett'n\nused to the\ncity's ways now too.)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(It'd be mighty nice if I'm gettin' closer\nto bein' a \"city girl\"... hehehe.)"
+      "text": "(I'm slowly but surely mak'n my way\ntowards being a real city girl!)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(Still, back when I started, I didn't know a lick about anything\nand caused Trainer so much trouble...)"
+      "text": "(But in the beginn'n, gee whiz was I a\ndoofus... If it weren't for my\ntrainer, I\nwoulda been in a real pickle.)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "Next up is tire pullin'! See you later, excuse me!"
+      "text": "Anyway, next up is haul'n tires! Thanks\nagain for check'n on me!"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(I used to think runnin' with weights on was all it took to get stronger.\nSo, if it weren't for Trainer—)"
+      "text": "(I can't believe I thought add'n weights\nwhile runn'n uphill would\nmake me\nstronger. I'm lucky I didn't hurt m'self.)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "They look pretty busy workin' right now, so maybe I should give it during the break...\nWait, what's that? \"For Yukino Bijin\"...?"
+      "text": "You look like a busy bee right now, but be\nsure to give 'em a taste\nlate—hm? What\nare these notes? Why's my name written\non 'em?"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(If Trainer hadn't put together a custom trainin' plan\njust for me, even now I'd probably still be...)"
+      "text": "(Even after witness'n my foolishness\nfirsthand, they still went to the\ntrouble of\ncreat'n a train'n regimen for me... If it\nwasn't for them...)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(Mmh... Lookin' back on it all,\nTrainer's done nothin' but help me out every step of the way.)"
+      "text": "(Geez Louise, my trainer's done noth'n but\ntake care of me...)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(I gave 'em some snacks before, but I really wanna give 'em a proper thank-you...!)"
+      "text": "(I know I gave 'em rice crackers... but\nTrainer deserve more'n that!)"
     },
     {
-      "name": "Horsegirl A",
-      "text": "I see, so that's what's been on your mind~?"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yeah... If possible, I wanna show 'em how much closer I've gotten to bein' a \"city girl\"\nand say thanks that way..."
+      "name": "Umamusume A",
+      "text": "So that's what's on your mind, huh?"
     },
     {
       "name": "Yukino Bijin",
-      "text": "T' me, that's like proof I'm growin'...\nAn' if it made ya happy... that makes me awful glad too."
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Whoa. You really care about your Trainer, don'tcha, Yukino?\nYou're practically head over heels! If you two're that close—"
+      "text": "Yeah... I wanna show my trainer I've gotten\ncloser t'being the city girl\nof my dreams."
     },
     {
       "name": "Yukino Bijin",
-      "text": "........................Huh?"
+      "text": "I mean, that should prove how much I've\ngrown, right? I'm sure see'n\nmy progress\nwould make my trainer real chipper."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Omigosh, Yukino, I didn't realize you like\nyour trainer <i>that</i> much! It's\nhonestly kinda\ncute. In that case, why don't you..."
     },
     {
       "name": "Yukino Bijin",
-      "text": "…………。",
-      "choice_data_list": [
-        "……？"
-      ]
+      "text": "...Huh?"
     },
     {
       "name": "Yukino Bijin",
-      "text": "……。\n…………。",
-      "choice_data_list": [
-        "...I-Is something the matter?"
-      ]
+      "text": "..."
     },
     {
       "name": "Yukino Bijin",
-      "text": "Wh-Wh-Whoa there?! Wh-Wh-What's the matter, ya ask?!\nI-I'm feelin' right as rain, honest!"
-    },
-    {
-      "text": "...Yukino Bijin has been acting strange for a while now.\nShe's fidgety and looks like she wants to say something, only to shrink back."
-    },
-    {
-      "text": "Is it a question about training... or could it be\nthat she's unsatisfied with something?",
-      "choice_data_list": [
-        "Is something troubling you...?"
-      ]
+      "text": "..."
     },
     {
       "name": "Yukino Bijin",
-      "text": "Huh? No, no, no way!\nTroubled? Nothin' like that... nothin' at all...",
-      "choice_data_list": [
-        "Is there something you want to tell me, then?"
-      ]
+      "text": "Whoa! N-no! Nothin's wrong! I'm perf'ctly\npeachy!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Yukino Bijin has been acting strange all\nday. It seems like she has\nsomething to\nsay, but she's holding back."
+    },
+    {
+      "name": "Monologue",
+      "text": "Could it be related to her training?\nPerhaps she's not happy with the\ncurrent\nregimen."
     },
     {
       "name": "Yukino Bijin",
-      "text": "S-Somethin' I wanna tell ya...?"
+      "text": "Huh? N-nope, not me! Not a lick..."
     },
     {
       "name": "Yukino Bijin",
-      "text": "(...Yeah, there is! There sure is, but...)"
+      "text": "S-someth'n on my mind?"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(I can't say it~! Not somethin' like that... so easily...\nAagh, my heart's goin' pitter-patter like crazy~!)"
-    },
-    {
-      "text": "Her face bright red, Yukino Bijin restlessly paces around the room."
-    },
-    {
-      "text": "Is it really that hard to bring up?\nIt might be best not to press her. For now—"
+      "text": "(There is... There is, but... but...)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "Nghhh...!",
-      "choice_data_list": [
-        "If there's anything I can do, just let me know anytime."
-      ]
+      "text": "(I can't say't! How could I poss'bly... Ohhh,\nmy heart's going bananas!)"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her face goes bright red, but instead of\nsaying something, she begins\nto pace\naround the room."
+    },
+    {
+      "name": "Monologue",
+      "text": "Whatever she's worried about, it must be\npretty bad. Perhaps it would\nbe best not\nto pry further, but..."
     },
     {
       "name": "Yukino Bijin",
-      "text": "！！！！！",
-      "choice_data_list": [
-        "No rush. Let's work through it one step at a time."
-      ]
+      "text": "Ohhhh!"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(After all ya've done fer me already,\nya're tryin' to do even more fer my sake...?!)"
+      "text": "...!"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(No way... that won't do!! I gotta properly thank 'em...\nNo matter how embarrassin' it is, I gotta ask Trainer...)"
+      "text": "(You've already done so much for me, and\nnow you wanna help\n<i>more?!</i>)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "(Out on a date!!)",
-      "choice_data_list": [
-        "Y-Yukino?"
-      ]
+      "text": "(I can't let that happen! No matter how\nembarrass'n, I gotta get a hold\nof m'self\nand... and...)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "...Hngh. Trainer!!!!!",
-      "choice_data_list": [
-        "Y-Yes?!"
-      ]
+      "text": "(Ask them out on a date!)"
     },
     {
       "name": "Yukino Bijin",
-      "text": "Urgh...!! ...I-I'll tell ya next time!!\nPlease just... hold your horses a little longeeeer!!!!!"
+      "text": "T-Trainer!"
     },
     {
-      "text": "...Is it really that difficult to say?\nI brace myself and decide to wait until she's ready to tell me."
+      "name": "Yukino Bijin",
+      "text": "Urk! N-never mind! I'll tell you later! Just\nyou wait!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And with that, she rushes off, leaving me\nconfused and concerned\nwith what could\nbe eating at her."
     }
-  ],
-  "no_wrap": true
+  ]
 }

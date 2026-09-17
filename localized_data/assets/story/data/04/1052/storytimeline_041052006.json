@@ -1,157 +1,130 @@
 {
   "title": "Stop? Urara's Grand Scheme",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "While out by the station on a day off,\nI hear a familiar voice."
+      "name": "Monologue",
+      "text": "As I head towards the train station on my\nday off, I suddenly hear a\nfamiliar voice."
     },
     {
       "name": "Haru Urara",
-      "text": "Operation: Urara's Top-Secret Scheme is officially underwaaaay!",
-      "choice_data_list": [
-        "What are you getting underway?",
-        "What are you getting underway?"
-      ]
+      "text": "All right, time to put my super-duper\nsecret plan into action!"
     },
     {
       "name": "Haru Urara",
-      "text": "Well, you see~... Wait, Trainer?!\nWhat are you doing here?",
-      "choice_data_list": [
-        "Just doing some shopping."
-      ]
+      "text": "Well, you see... Wait! What are you doing\nhere?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, really! Me too!\nExcept what I'm buying is top-secret for my top-secret scheme!"
+      "text": "Oh, yeah? Me too! Ah, but this is all a part\nof my super-duper secret\nplan, so that's all\nI'm telling you!"
     },
     {
       "name": "Haru Urara",
-      "text": "All righty, time to take off!\nSee ya laaater!"
+      "text": "Aaanyway, I better get going! See you\nlater!"
     },
     {
-      "text": "Haru Urara dashes off in a flash.\nCurious about what she's up to, I decide to follow her."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Ummm, pretty sure the magazine said it was around here..."
-    },
-    {
-      "text": "As Haru Urara searches around, a street vendor calls out to her..."
-    },
-    {
-      "name": "Suspicious Vendor",
-      "text": "Hey there, little lady. Looking for something?"
+      "name": "Monologue",
+      "text": "Haru Urara dashes away before I can say\nanother word. A mix of\ncuriosity and\nconcern compels me to follow her."
     },
     {
       "name": "Haru Urara",
-      "text": "Yep! I'm looking for a shoe store!\nDo you know where one is, mister?"
+      "text": "Hm... That magazine said it should be\naround here..."
     },
     {
-      "name": "Suspicious Vendor",
-      "text": "Well, aren't you in luck!\nI've got the perfect pair of shoes right here for an Umamusume like you. Take a look."
+      "name": "Monologue",
+      "text": "As she wanders around aimlessly, one of\nthe nearby shopkeepers\napproaches her."
     },
     {
-      "name": "Haru Urara",
-      "text": "Huh? I don't want regular shoes~!\nI'm looking for shoes that'll make me run super-duper fast!"
-    },
-    {
-      "name": "Suspicious Vendor",
-      "text": "Why, these are the ultimate \"run super-duper fast\" shoes!\nI'll even give you a special discount today, how about it?"
+      "name": "Shady Shopkeeper",
+      "text": "Lookin' for somethin' special, are we?"
     },
     {
       "name": "Haru Urara",
-      "text": "Urgh... I can just barely afford that...!\nWill they really, truly make me faster?"
+      "text": "Yup! I'm trying to find the shoe store\naround here! Do you know\nwhere it is?"
     },
     {
-      "name": "Suspicious Vendor",
-      "text": "Of course! With these bad boys, first place is practically guaranteed!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Really, truly, truly?!\nHmmm, it's pretty pricey, but... okay, let's do it!",
-      "choice_data_list": [
-        "HOLD IT!!!"
-      ]
+      "name": "Shady Shopkeeper",
+      "text": "Forget about that store! I've got just the\nshoes for you, riiight here."
     },
     {
       "name": "Haru Urara",
-      "text": "Huh? Trainer!"
+      "text": "No, thank you! I'm not looking for just any\nshoes. I need the kind that\ngive you super\nspeed!"
+    },
+    {
+      "name": "Shady Shopkeeper",
+      "text": "Well, what a co-inky-dink! These just so\nhappen to be the\nworld-renowned Super\nSpeed Sneakers! How about I give you a\ndeal\non them?"
     },
     {
       "name": "Haru Urara",
-      "text": "Whaaat?! Those speed-boosting shoes were a scam?!\nAnd here he said 1st place was guaranteed~!",
-      "choice_data_list": [
-        "Good thing I was watching..."
-      ]
+      "text": "Urgh... I have juuust enough to buy them,\nbut... Are you SURE they'll\nmake me\nfaster?"
+    },
+    {
+      "name": "Shady Shopkeeper",
+      "text": "Positive! First place is as good as yours\nwith these babies on your\nfeet!"
     },
     {
       "name": "Haru Urara",
-      "text": "My top-secret scheme is ruined~!\nI was hoping I'd suddenly become super fast today!",
-      "choice_data_list": [
-        "By doing what, exactly?"
-      ]
+      "text": "Really truly?! Well... they are a bit\nexpensive, but if they'll make me\nfaster—"
     },
     {
       "name": "Haru Urara",
-      "text": "With super-fast shoes and stuff like that!",
-      "choice_data_list": [
-        "There are no shortcuts besides steady practice.",
-        "There are no shortcuts besides steady practice."
-      ]
+      "text": "Trainer?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Aww. I mean, of course I'll practice a whole bunch too!\nI just wanted to get fast right away!",
-      "choice_data_list": [
-        "Can you tell me why?"
-      ]
+      "text": "What?! All that stuff about making me\nfaster was a lie?! But he said\nfirst place was\nas good as mine!"
     },
     {
       "name": "Haru Urara",
-      "text": "Remember how that reporter praised you the other day?\nIt made me so, so happy!"
+      "text": "No kidding... And now my super-duper\nsecret plan to get faster is\ndown the drain!"
     },
     {
       "name": "Haru Urara",
-      "text": "She praised you because I was running with lots of energy, so if I take 1st place, she'll praise you even more, right?!"
+      "text": "With shoes that make me extra fast, of\ncourse!"
     },
     {
       "name": "Haru Urara",
-      "text": "So I wanted to win 1st place as fast as possible to work hard and surprise you!"
+      "text": "I-I'm not trying to skip out on any\ntraining... I just want to get faster!"
     },
     {
       "name": "Haru Urara",
-      "text": "Taking 1st place would make me happy!\nAnd you getting praised would make me even happier!"
-    },
-    {
-      "text": "Her methods might be totally misguided, but Haru Urara is completely sincere.\nAs her Trainer, I can't help but be touched by her dedication.",
-      "choice_data_list": [
-        "I admire your enthusiasm!"
-      ]
+      "text": "Remember those nice things the reporter\nsaid about you? That made\nme really\nhappy."
     },
     {
       "name": "Haru Urara",
-      "text": "Really?! Ehehe♪ I got praised!\nAll right, then next week I'll definitely find those speedy shoes...",
-      "choice_data_list": [
-        "But I want us to work hard together."
-      ]
+      "text": "If that's the kind of stuff she says NOW,\nimagine what people would\nsay about you\nif I WON!"
     },
     {
       "name": "Haru Urara",
-      "text": "Together?",
-      "choice_data_list": [
-        "Let's figure out how to take 1st place together."
-      ]
+      "text": "I figured if I could find a way to win first\nplace faster, I could surprise\nyou and\neveryone else!"
     },
     {
       "name": "Haru Urara",
-      "text": "...Oh, right. Yeah, totally!\nI should've just talked to you from the start, Trainer!"
+      "text": "I'd love to win a race, and if that means\neveryone will praise you, I'd\nlove it even\nmore!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She's already putting in the work, but Haru\nUrara still wants more. As\na trainer, I'm in\nawe of her dedication."
     },
     {
       "name": "Haru Urara",
-      "text": "All righty! Starting tomorrow, I'm gonna train super hard together with you again, Trainer!"
+      "text": "Right?! Ehehe, I'm glad you feel that way.\nI'll make sure to find the\nright shoes—"
     },
     {
-      "text": "Haru Urara dashes back toward Tracen Academy in high spirits.\nInspired by her feelings, I renew my own determination to help her achieve first place."
+      "name": "Haru Urara",
+      "text": "Together?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Yeah... Yeah, you're right! I shoulda gone\nto you right away!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Well, looks like I'll need to give\ntomorrow's training some\nextra-special\neffort! See you then!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Haru Urara excitedly runs back to Tracen\nAcademy. With a better\nunderstanding of\nher motivations, I feel my desire to help\nher win\ngrowing even stronger."
     }
-  ],
-  "no_wrap": true
+  ]
 }

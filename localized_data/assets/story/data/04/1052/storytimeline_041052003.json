@@ -1,218 +1,198 @@
 {
   "title": "It's My Dream, So I Won't Give Up!",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, with the Debut Race drawing near,\nI headed out to the shopping district and heard a familiar voice."
+      "name": "Monologue",
+      "text": "The tryouts draw closer. One day, during a\ntrip to the shopping\ndistrict, I hear a\nfamiliar voice."
     },
     {
       "name": "Haru Urara",
-      "text": "Hey there, step right up, step right up!\nHow about some delicious carrots, everyone?!",
-      "choice_data_list": [
-        "What are you doing?",
-        "What are you up to?"
-      ]
+      "text": "Carrots! Get your carrots here!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ah, Trainer!\nEhehe, I'm helping out the carrot farmer mister!"
+      "text": "Ah, long time no see! Hehe, I'm helping\nthe carrot farmer sell his\nstock!"
     },
     {
       "name": "Haru Urara",
-      "text": "He does \"direct sales\" in the shopping district every now and then,\nand he said he had a whole bunch left over today!"
+      "text": "He opens a stall here in the local farmer\nmarket every once in a while,\nbut he's got\na <i>ton</i> of leftovers this time."
     },
     {
       "name": "Haru Urara",
-      "text": "But if we try hard, I know we can sell every last one!\nCarrots are super yummy, after all!"
+      "text": "We can sell these if we put our minds to it,\nthough! Who wouldn't\nwant a tasty carrot?"
     },
     {
-      "name": "Farmer Mister",
-      "text": "It's fine, Urara-chan, the thought alone is more than enough.\nThere's simply no way we could sell off this entire mountain of them..."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Don't worry, leave it to me! If we work hard, they'll totally sell!\nStep right up, get your carrots right here!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Even when faced with a mountain of carrots,\nHaru Urara shouted at the top of her lungs without the slightest hint of giving up."
-    },
-    {
-      "name": "Fishmonger Mister",
-      "text": "Thanks to Urara-chan, the whole street's livening up!\nWell now, I can't let myself be outdone!"
-    },
-    {
-      "name": "Greengrocer Lady",
-      "text": "In that case, I'm putting potatoes and onions on sale!\nHow about whipping up some curry or nikujaga tonight, folks?!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Inspired by Haru Urara's spirited effort,\nthe shopping district burst with vitality in no time, and then—"
+      "name": "Farmer",
+      "text": "I appreciate the thought, Urara, but that's\nenough. It's my own darn\nfault for bringing\nso many carrots."
     },
     {
       "name": "Haru Urara",
-      "text": "Hooray! Sold ouuut!!"
+      "text": "It'll be fine! We just gotta get people's\nattention, and those carrots\nwill fly off the\ncart! Carrots! Get your carrots here!"
     },
     {
-      "name": "Farmer Mister",
-      "text": "Well I'll be... I never imagined we'd actually sell every last bit..."
+      "name": "Monologue",
+      "text": "Even when faced with a literal mountain of\nunsold carrots, Haru\nUrara's determined\ncries never waver."
+    },
+    {
+      "name": "Fish Stall Owner",
+      "text": "That's the spirit, Urara! Come on, folks, we\ncan't let her have ALL the\nfun!"
+    },
+    {
+      "name": "Vegetable Seller",
+      "text": "In that case... Come and get it! I'll offer a\ndeal on onions and\npotatoes to anyone\nbuying carrots! Perfect for curry or stew!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Before long, the shopping district is abuzz\nwith activity, all thanks to\nHaru Urara."
     },
     {
       "name": "Haru Urara",
-      "text": "Knowing I helped share the deliciousness of carrots with everyone\nmakes my nose swell up with pride, boing-boing!"
+      "text": "Woohoo, all the carrots are gone!"
+    },
+    {
+      "name": "Farmer",
+      "text": "Who would've thought I'd sell every last\ncarrot... I couldn't have\nasked for more.\nThank you."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "No problem! I'm just glad I could tell\npeople how tasty your carrots\nare!"
     },
     {
       "name": "King Halo",
-      "text": "F-Foooouuuund yoooouuuu!!"
+      "text": "Th-there you are!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ah, King-chan.\nWelcome, welcome! The carrots are all sold out though!"
+      "text": "Ah, King! Sorry, but the carrots are all\ngone."
     },
     {
       "name": "King Halo",
-      "text": "Agh, too late—wait, that's not the point!\nAren't you supposed to be in the middle of training right now?!"
+      "text": "Ohhh, phooey! I'm late to the party... not!\nAren't you forgetting\nsomething? You\nshould be training right now!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ehehe, sorry!\nBut the carrot farmer mister was in trouble, you see."
+      "text": "Ehehe, my bad, but the carrot farmer was\nin trouble! I couldn't just\nignore him."
     },
     {
-      "name": "Farmer Mister",
-      "text": "Go easy on her, little horsegirl lady.\nUrara-chan taught this old man something truly important today."
+      "name": "Farmer",
+      "text": "Don't be too mad at her, miss. Our little\nUrara here was busy teaching\nme a very\nimportant lesson—"
     },
     {
-      "name": "Farmer Mister",
-      "text": "She reminded me that you should never give up, no matter the situation."
+      "name": "Farmer",
+      "text": "To never give up, no matter what."
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah, exactly! It'd be such a waste to leave yummy carrots behind!"
+      "text": "Yeah! And I couldn't let those carrots go\nto waste!"
     },
     {
       "name": "King Halo",
-      "text": "I-I haven't the foggiest idea what you're talking about, but..."
+      "text": "I-I haven't the slightest idea what you're\ngoing on about..."
     },
     {
       "name": "King Halo",
-      "text": "*sigh*... Regardless, as long as you weren't simply slacking off, fine."
+      "text": "<i>Sigh...</i> At least you had a reason for\nskipping training."
     },
     {
       "name": "King Halo",
-      "text": "Still, leaving without a word makes everyone worry, you know!\nSpecial Week-san was running all over the place looking for you!"
+      "text": "However! You shouldn't disappear without\na word like that though!\nDo you know how\nworried Special Week was?"
     },
     {
       "name": "Haru Urara",
-      "text": "Really?! I gotta hurry back and apologize to Spe-chan!"
+      "text": "What?! Then I better go apologize to her\nright away!"
     },
     {
       "name": "King Halo",
-      "text": "Ah, wait—?!"
+      "text": "Ah, wait!"
     },
     {
-      "name": "Fishmonger Mister",
-      "text": "Hahaha! Urara-chan is as lively as ever.\nI sure hope her dream of \"taking 1st place\" comes true soon.",
-      "choice_data_list": [
-        "Taking 1st place is Urara's dream?",
-        "Is taking 1st place really Urara's dream?"
-      ]
+      "name": "Fish Stall Owner",
+      "text": "Bahaha! Always bursting with energy, that\none. At this rate, her dream\nof finishing\nfirst isn't far off from coming true!"
     },
     {
       "name": "King Halo",
-      "text": "You didn't know? In training, in mock races—\nUrara-san hasn't taken 1st place even once yet, you know?"
+      "text": "Oh, you didn't know? Haru Urara has\nnever finished first place, even\nin training\nor the scrimmages."
     },
     {
-      "name": "Fishmonger Mister",
-      "text": "Even so, she never gets discouraged or gives up, always running\nforward with a smile. She's truly an amazing kid."
-    },
-    {
-      "name": "King Halo",
-      "text": "As long as you don't surrender and keep your head held high, there's always a chance.\nWell, as a perennial victor, giving up is completely foreign to King, of course."
-    },
-    {
-      "name": "Narrator",
-      "text": "Looking back, Haru Urara had mentioned \"1st place\" so many times,\nbut I never realized there was such a story behind it."
-    },
-    {
-      "name": "Narrator",
-      "text": "The reason she drew people to her... Perhaps it lay in that\npure, unfaltering dedication to reaching 1st place."
+      "name": "Fish Stall Owner",
+      "text": "Yeah, but she never gives up or even gets\ndiscouraged. She just\nkeeps running with a\nsmile on her face. Amazing, right?"
     },
     {
       "name": "King Halo",
-      "text": "Ohohohoho... Hey, are you even listening?!\nI said King is a perennial victor!"
+      "text": "As long as she keeps her head up, she still\nhas a chance. Of course,\nan invincible\nracer like me has no such worries."
+    },
+    {
+      "name": "Monologue",
+      "text": "Thinking back, I recall Haru Urara\nmentioning first place a few times,\nbut who\nwould've thought it was such a big issue\nfor her?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Perhaps the reason I find her so\ncompelling... is that steadfast\ndedication\nto achieving her dream."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ohohoho—H-hold on, don't ignore me! I\ndemand my due respect!"
     },
     {
       "name": "Haru Urara",
-      "text": "Huff, puff..."
+      "text": "<i>Huff, puff...</i>"
     },
     {
       "name": "Haru Urara",
-      "text": "Phew~... Maybe I'll go try running on the dirt track next~!",
-      "choice_data_list": [
-        "Working hard, are you?",
-        "Working hard, I see!"
-      ]
+      "text": "Phew... Let's do the dirt course next."
     },
     {
       "name": "Haru Urara",
-      "text": "Ah, Trainer!"
+      "text": "Oh, it's you again!"
     },
     {
       "name": "Haru Urara",
-      "text": "The Debut Race is just around the corner!\nI gotta do my best and aim for 1st place!"
+      "text": "Well, the tryouts aren't far off! I really\ngotta kick it into gear if I\nwanna take first\nplace!"
     },
     {
       "name": "Haru Urara",
-      "text": "Haaah... I wonder what taking 1st place feels like."
+      "text": "<i>Sigh...</i> I wonder what winning feels like..."
     },
     {
       "name": "Haru Urara",
-      "text": "Just running is so much fun, so if I actually\ntook 1st, I might flip completely head over heels from joy!",
-      "choice_data_list": [
-        "Getting 1st place is your dream, right?",
-        "Taking 1st place is your big dream, isn't it?"
-      ]
+      "text": "I mean, running on its own is already so\nfun. If I take first place, I bet\nI'd be doing\nbackflips!"
     },
     {
       "name": "Haru Urara",
-      "text": "Yup! 'Cause I'm an Umamusume!\nI wanna run and win!"
+      "text": "Well, yeah! I <i>am</i> an Umamusume, after all!\nI love running, but I want to\nwin too!"
     },
     {
       "name": "Haru Urara",
-      "text": "I believe that as long as I do my best, I'll definitely get 1st someday!\nAs long as I never give up, for sure!!"
+      "text": "And as long as I keep up my training, I'm\nsure I'll take first place\nsomeday! I won't\ngive up!"
     },
     {
       "name": "Haru Urara",
-      "text": "That's why I've gotta train even harder!\nAll right, time to go run on the dirt track!"
+      "text": "So I better get back to it! Up next is... the\ndirt course!"
     },
     {
-      "name": "Narrator",
-      "text": "Despite facing loss after loss, Haru Urara always stayed relentlessly positive."
+      "name": "Monologue",
+      "text": "Haru Urara's sunny outlook continues to\nshine on despite her track\nrecord."
     },
     {
-      "name": "Narrator",
-      "text": "She might be a bit too carefree, but I couldn't help wanting to see her win...\nA feeling began to sprout inside me—",
-      "choice_data_list": [
-        "How about I oversee your training?",
-        "Would you like me to oversee your training?"
-      ]
+      "name": "Monologue",
+      "text": "She comes off as a little naive, but at the\nsame time... I can't help but\nwant to see\nher win."
     },
     {
       "name": "Haru Urara",
-      "text": "Huh?! Really?!"
+      "text": "Really?! Could you?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Ehehe, to be honest, I never really understood training very well.\nIf Trainer's watching over me, I'm sure it'll go great!"
+      "text": "Ehehe, to be honest, I don't really know if\nI'm doing this whole\ntraining thing right, so\nhaving you here will be a big help!"
     },
     {
       "name": "Haru Urara",
-      "text": "Alrighty then, let's do our best with training! Woohoo!!"
+      "text": "All right, just you watch! I'll show you what\nI've got!"
     },
     {
-      "name": "Narrator",
-      "text": "As a Trainer, I couldn't help but want to support\nan Umamusume running toward her dreams."
+      "name": "Monologue",
+      "text": "As I quietly observe Haru Urara's practice,\nmy calling as a trainer is\neven more\ncompelled to help this dreamer reach her\ngoal."
     }
-  ],
-  "no_wrap": true
+  ]
 }

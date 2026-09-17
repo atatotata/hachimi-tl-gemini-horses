@@ -1,231 +1,202 @@
 {
   "title": "Tough, Big, and Totally Buono☆",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "A few weekends after that surprise recruitment on a deserted island\nled to me becoming Hishi Akebono's Trainer."
+      "name": "Monologue",
+      "text": "It's been a while since Hishi Akebono\nscouted <i>me</i> as her trainer.\nToday, we're\nspending a little time together."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Mm-hmm, look at that nice color~! Looks delicious♪\n—Wait, I'm not supposed to pick too much from one spot!"
+      "text": "Yup, yup, these look juuust right! I bet\nthey're super—Ah, but I\nshouldn't pick too\nmany from the same spot!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Maybe I'll check out the next mountain over!\nCome on, Trainer, hurry, hurry~♪",
-      "choice_data_list": [
-        "W-Wait up...!"
-      ]
+      "text": "Let's run over to the next mountain to\nforage some more! Come on,\nTrainer!\nHurry, hurry! ♪"
     },
     {
-      "name": "Narrator",
-      "text": "It all started a few days ago."
+      "name": "Monologue",
+      "text": "A few days earlier..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Wanna go on an outing this weekend if you're free?\nI wanna go gather some ingredients to make chanko nabe~."
+      "text": "Hey Trainer, are you free this weekend? I\nwant to make a hot pot\nsumo wrestlers eat\ncalled <i>chanko,</i> and I need ingredients."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Going together with my trainer was always a dream of mine~."
+      "text": "I've always wanted to gather ingredients\ntogether with my trainer."
     },
     {
-      "name": "Narrator",
-      "text": "I assumed we'd be heading to her recommended greengrocer or fish market.\nThat guess was completely shattered, and before I knew it, we were mushroom hunting in the mountains."
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Alrighty, that should do it~! Let's head for the ocean next~!"
-    },
-    {
-      "name": "Narrator",
-      "text": "After hiking across five whole mountains, our carrying basket was overflowing with wild herbs and mushrooms.\nI gave it a try and attempted to lift it, but—",
-      "choice_data_list": [
-        "(It won't budge at all...!)"
-      ]
+      "name": "Monologue",
+      "text": "At most, I figured we would go to her\nfavorite fish and vegetable\nstalls, but that\nnotion was quickly dashed when we\nheaded into the\nmountains to collect\nmushrooms."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ahaha! We gathered so much, it's gotta be pretty heavy~!\nLeave the carrying to me~."
+      "text": "Okay, that should do it. Next stop is the\nsea!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Our basket is overflowing with mushrooms\nafter traversing five whole\nmountains. I try\nto lift it up, but..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "—Hup, two, three, hoist☆"
-    },
-    {
-      "name": "Narrator",
-      "text": "With those words, Hishi Akebono effortlessly lifted the seemingly immovable basket and dashed off with boundless energy."
+      "text": "Ahaha! With all those mushrooms, it's\ngonna be real heavy! Just leave\nthat\nbasket to me."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Take thaaat!"
+      "text": "Up we go! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "She lifts the basket as if it were nothing\nand slips her arms into the\nbackpack\nstraps. With the basket securely resting\nagainst her back,\nshe walks off with a\nsmile."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Caught a huge sea bass! Trainer, could you keep an eye on the cooler, please?\nThere are lots of kitties around here~."
+      "text": "DRAAAUGH!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ah! Spotted an eeeven bigger fish~! Be right baaack!"
-    },
-    {
-      "name": "Local Resident A",
-      "text": "Wait... hold on, did that girl just catch a sea bass with her bare hands?"
+      "text": "Look at the size of this sea bass! Trainer,\ncan you keep watch over the\ncooler?\nThere's a lot of hungry kitty cats in the\narea."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yay~! Caught an even bigger one!"
+      "text": "Ah, I spy an even <i>bigger</i> fish! Come here!"
     },
     {
-      "name": "Local Resident B",
-      "text": "No way, you're seeing things—wait... what...?\nShe really is... she's catching sea bass with her bare hands..."
-    },
-    {
-      "name": "Narrator",
-      "text": "And just like that, we sprinted from mountain peaks to the seaside, gathering a massive hoard of ingredients.\nUtterly exhausted, I was just about to suggest calling it a day, when—"
+      "name": "Local A",
+      "text": "Uh... Sorry, did that girl just catch a fish\n<i>with her bare hands?</i>"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Alright, let's head to the butcher shop next~.",
-      "choice_data_list": [
-        "There's still more?!",
-        "There's more?!"
-      ]
+      "text": "Yahoo! Look at this <i>huge</i> fish!"
+    },
+    {
+      "name": "Local B",
+      "text": "Oh come on, you must be seeing thi—huh?\nWait, you're right... But,\nlike, literally\nhow?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Catching people's attention everywhere\nwe go, we continue to gather\ningredients.\nSeeing our haul and feeling my body\naching, I start to\nsuggest we head back,\nwhen..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yup! There's a butcher that sells the most amazing minced chicken,\nit's an absolute must-have for chanko nabe~."
+      "text": "All right, next stop is the butcher!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "It's a little far out, but the scenery along the way is super pretty and wonderful~!\nSo with that said, off we go~☆"
-    },
-    {
-      "name": "Narrator",
-      "text": "Despite already traveling countless miles today, Hishi Akebono took off running at full tilt.\nHer broad back rapidly shrank into the distance.",
-      "choice_data_list": [
-        "(How is she this tough?!)",
-        "(Just how tough can one girl be?!)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "After transferring trains for about an hour, we finally arrived in the remote countryside.\nHowever... that was when a chain of misfortunes struck!"
+      "text": "Yup! There's this butcher I like that sells\nthe most scrumptious ground\nchicken. We\ncan't have our hot pot without that!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Mmm~! The air out here is so delicious.\nWait, huh? A wild boar...?!"
+      "text": "It's a <i>tad</i> far from here, but the view on the\nway is totally worth it!\nCome on, let's\ngooo!"
     },
     {
-      "name": "Narrator",
-      "text": "(Oink!)"
+      "name": "Monologue",
+      "text": "I watch her run off, her imposing silhouette\ngetting smaller and\nsmaller. We've\nprobably walked several dozen kilometers\ntoday, yet\nshe shows no signs of fatigue."
     },
     {
-      "name": "Hishi Akebono",
-      "text": "Whoa! It's a boar! So cute~!"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "—Wait, huh? Is it charging right at us...?"
-    },
-    {
-      "name": "Narrator",
-      "text": "(RUMBLE RUMBLE RUMBLE)"
+      "name": "Monologue",
+      "text": "After over an hour on the train, we finally\narrive in a deceptively\npeaceful small rural\ntown. If only I knew of the disaster to\ncome!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Eep?! W-W-Whoa~!\nTrainer, look out~!"
+      "text": "Mmm! That country air smells so good!\nW-wait, is that a boar?!"
     },
     {
-      "name": "Narrator",
-      "text": "Frozen in shock, I reacted a moment too late.\nI scrambled out of the way, but lost my balance—",
-      "choice_data_list": [
-        "！？"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Knocking over the basket brimming with all our gathered ingredients,\nI tumbled straight into the river..."
+      "name": "Monologue",
+      "text": "<i>Oink! Oink!</i>"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Are you okay?! Trainer!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Fortunately, I wasn't hurt, but every single ingredient Hishi Akebono had run all over to gather was washed away down the river...",
-      "choice_data_list": [
-        "I'm so sorry...!"
-      ]
+      "text": "Awww, it is! What a cute little piggy."
     },
     {
       "name": "Hishi Akebono",
-      "text": "No, don't be! Your safety is way more important, Trainer.\nBesides, we can definitely still buy meat, so it's all good, all good~♪"
+      "text": "...Wait, why is it getting closer?"
     },
     {
-      "name": "Narrator",
-      "text": "However—"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Oh dear~! Temporarily closed...?!"
-    },
-    {
-      "name": "Narrator",
-      "text": "And to make matters worse—"
+      "name": "Monologue",
+      "text": "<i>Stomp, stomp, stomp, stomp!</i> "
     },
     {
       "name": "Hishi Akebono",
-      "text": "The last bus already left!",
-      "choice_data_list": [
-        "What?!"
-      ]
+      "text": "Eep! Wh-wh-whoa! Trainer, run away!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Terrified, it takes me a few too many\nseconds to react. As I turn to\nrun, I lose my\nbalance..."
+    },
+    {
+      "name": "Monologue",
+      "text": "And fall into the nearby river, along with\nour hard-earned hot pot\ningredients."
     },
     {
       "name": "Hishi Akebono",
-      "text": "So early~. Did they replace the timetable?\nIt's totally different from when we got off. I'm sorry, Trainer."
+      "text": "Are you okay, Trainer?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Thankfully, I'm not hurt, but all the\nmushrooms and fish Hishi\nAkebono worked\nso hard to get are floating away..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Let's see... the first bus tomorrow is at 6 AM.\nWhich means... twelve hours to go~. Oh boy!"
+      "text": "No, I'm more worried about you than some\nsilly food. Besides, we can\njust buy extra\nmeat instead! No worries! ♪"
     },
     {
-      "name": "Narrator",
-      "text": "I couldn't possibly let her sleep out in the open. I explained the situation to the academy and scrambled to find lodging, but came up empty-handed—"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Guess we're camping out~!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Losing all the ingredients we worked so hard to collect, stranded in the boonies with nowhere to sleep...\nEven the tough Hishi Akebono had to feel crushed. Or so I thought—"
+      "name": "Monologue",
+      "text": "However, when we get to the butcher..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Oh well, days like this happen! Oh, that's right! The rice and canned food I packed are totally fine, so let's make seasoned rice and eat☆"
+      "text": "Huh?! They're closed?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And then, as if to rub salt in our wounds..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe, it's not every day you get to camp out in the wild, so it's kinda exciting♪",
-      "choice_data_list": [
-        "Hishi Akebono..."
-      ]
+      "text": "We missed the last bus?!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "—Whoa! Look, look, Trainer! What a gorgeous starry sky!"
+      "text": "It's so early! Did they change the\ntimetable? I swear there was a\ndifferent\none when we got off... I'm sorry, Trainer."
     },
     {
-      "name": "Narrator",
-      "text": "Without a trace of exhaustion or sadness on her face, Hishi Akebono hopped up and down with a bright smile.",
-      "choice_data_list": [
-        "(She's truly something special...)"
-      ]
+      "name": "Hishi Akebono",
+      "text": "Let's see... the first bus arrives at six\no'clock in the morning, so that\nmeeeans...\nwe have twelve hours?! For real?!"
     },
     {
-      "name": "Narrator",
-      "text": "Following her outstretched arm, the starry sky above was indeed breathtakingly beautiful."
+      "name": "Monologue",
+      "text": "Hoping to avoid camping out, I contact\nthe academy and try to find\nus\naccommodations, but to no avail..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "So we're camping, huh?"
+    },
+    {
+      "name": "Monologue",
+      "text": "After all that work collecting ingredients,\nwe end up stuck in the\ncountryside for the\nnight... Hishi Akebono may be tough, but\nshe must\nbe pretty shake—"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh well, these things happen! Ah, look\nhere! I've got some canned\nfood and rice,\nso why don't I make us some mixed rice? ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hehe, it's not every day that we can go\ncamping. Might as well enjoy\nourselves. ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Wow! Look at the sky, Trainer! The stars\nare so pretty!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her smile doesn't betray a hint of fatigue\nor disappointment. There's\neven a bit of a\nskip in her step as she trots off."
+    },
+    {
+      "name": "Monologue",
+      "text": "When I turn my eyes up, though, I realize\nshe was right—the stars are\nespecially\nbeautiful out here."
     }
-  ],
-  "no_wrap": true
+  ]
 }

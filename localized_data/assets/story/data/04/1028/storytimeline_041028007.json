@@ -1,236 +1,210 @@
 {
   "title": "The Secret Seasoning",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "A few days had swiftly passed since coming to summer training camp with Hishi Akebono.\nBefore we knew it, the final day was upon us."
+      "name": "Monologue",
+      "text": "This year's summer training camp has gone\nby in a flash. I can't\nbelieve today is our\nlast day."
     },
     {
-      "name": "Narrator",
-      "text": "After powering through all that grueling training with a smile, now was the time\nto treat Hishi Akebono to a heartfelt, home-cooked feast!"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Great work today, Trainer!\nSummer camp has been so much fun, hasn't it~?"
+      "name": "Monologue",
+      "text": "Hishi Akebono has taken every exercise I\nthrow her in stride—and\nwith a huge smile\non her face. Perhaps I can reward her with\na\ndelicious meal!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Hey, what should we do for dinner tonight?\nThe meals provided by the lodge are great, but maybe I could whip up—",
-      "choice_data_list": [
-        "I just remembered something I have to take care of!"
-      ]
+      "text": "Another great day of training! This camp\nsure has been fun."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Whoa?! Wh-What's the rush all of a sudden?"
+      "text": "So, what would you like for dinner?! I\nknow the lodges have food for\nus, but\nsince this is our last day, I thought—"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Is it work? Do you want me to help out?"
+      "text": "Wh-what?! What's wrong?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "You've been working non-stop all throughout summer camp, Trainer.\nDon't you think you should get some rest~?",
-      "choice_data_list": [
-        "Don't worry, I'm full of energy!"
-      ]
+      "text": "The thing... Is it something for work? Do\nyou need help?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ooh~. Ahaha, alright then, if you say so!"
+      "text": "You were so helpful throughout the\nwhooole camp, so I really think\nyou should\nrest..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "It's a bummer we can't eat dinner together,\nbut there's always next time! See you later, Trainer~☆"
-    },
-    {
-      "name": "Narrator",
-      "text": "...Phew, looks like I managed not to give it away.\nThere isn't much time, I have to hurry and get things ready."
-    },
-    {
-      "name": "Narrator",
-      "text": "First and foremost: ingredients. I decided to ask\nsome horsegirls if they knew any good shops nearby—"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "A feast for Bono? Count us in!\nShe's always cooking for us, so we'd love to thank her!"
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "I know a great shop! They had tons of fresh fish!"
-    },
-    {
-      "name": "Horsegirl C",
-      "text": "There's a greengrocer too. I'll go grab the veggies.\nCan I leave the meat to you?"
-    },
-    {
-      "name": "Horsegirl D",
-      "text": "Got it! I bet a bunch of other girls want to thank her too,\nso I'll go round them up!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Before long, our little group had multiplied,\nand after two hours of dividing and conquering—"
+      "text": "Oooh! Ahaha, I see, I see."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Whoa, whoa, WHOA~?!"
+      "text": "Well, I'm a little sad we can't eat together,\nbut that's okay! I'll see you\nlaterrr! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "...Looks like my smooth-talking managed\nto convince her. I don't have\na lot of time,\nso I'm off to start prepping our meal."
+    },
+    {
+      "name": "Monologue",
+      "text": "First things first, I need ingredients... I call\nout to a few students to\nsee if they have\nany recommendations for shops, but their\nreaction\nisn't what I expected."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "You're treating Bono to a meal? Then we\nwanna help too! You're not\nthe only one\nshe cooks for, you know!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "I know a good fishmonger! They were\nselling lots of delicious fish\nearlier!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "There's a good vegetable stand around\nhere too, so I'll go there. As\nfor the meat...\ncan you handle it?"
+    },
+    {
+      "name": "Umamusume D",
+      "text": "Okay! I bet if we asked around, we could\nget more people involved.\nI'll go talk to\neveryone!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Before I know it, the number of cooks in\nthe kitchen has increased\ndrastically. We\ndivvy up the work and get to it. Two hours\nlater..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "What's with this huge spread?! Skewers, yakisoba,\nwhoa, even ajillo?! ...Wait, is that chanko nabe too?!",
-      "choice_data_list": [
-        "We made all this for you, Hishi Akebono.",
-        "We made all this for you, Hishi Akebono."
-      ]
+      "text": "Oh, wow, wow, WOOOOOW!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Huh...? All this, for me?"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Yeah! Your Trainer wanted to thank you for everything,\nso we decided to jump in and help out."
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Thanks for always making us such delicious food!\nWe've been wanting to return the favor for ages."
-    },
-    {
-      "name": "Horsegirl C",
-      "text": "Whenever we eat your cooking,\nit fills us with energy and gets us pumped for tomorrow."
-    },
-    {
-      "name": "Horsegirl D",
-      "text": "You're always the one making us happy,\nso we wanted to make you happy for a change..."
+      "text": "Where did this feast come from?! Skewers,\nyakisoba, and pan-fried\nfish too! ...Ah,\nthere's even chanko!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Everyone..."
+      "text": "Huh? For... me?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Well, it was originally your trainer's idea,\nbut we wanted to thank you\ntoo, so we\njoined in."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Thank you so much for always cooking\nsuch good food! Seriously, this\nhas been a\nlong time coming."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Eating your cooking always fills me with\nenergy. It's like I'm recharged\nand ready to\ntake on the next day of training."
+    },
+    {
+      "name": "Umamusume D",
+      "text": "You always work so hard to make us\nhappy, but we want to make you\nhappy\ntoo..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "...*sniff*, yeah! Right now, I'm super duper happy!\nAnd completely starving! Can we dig in already?!"
+      "text": "Aww, you guys..."
     },
     {
-      "name": "Horsegirl A",
+      "name": "Hishi Akebono",
+      "text": "Well, consider your plan a success! I'm so\nhappy—and hungry! Can I\ndig in?"
+    },
+    {
+      "name": "Umamusume A",
       "text": "Ahaha, of course!"
     },
     {
-      "name": "Horsegirl B",
-      "text": "Alright then... On three!",
-      "choice_data_list": [
-        "Thanks for the food!"
-      ]
+      "name": "Umamusume B",
+      "text": "But before that... Ready? Go!"
     },
     {
-      "name": "Everyone",
-      "text": "Itadakimasu~!!"
+      "name": "All",
+      "text": "Thanks for the food!"
     },
     {
-      "name": "Narrator",
-      "text": "A lively night on the beach, filled with mouthwatering aromas,\nthe cheerful laughter of horsegirls, and—"
+      "name": "Monologue",
+      "text": "The night air mingles with the scent of our\nfeast and our laughter. But\none student's\nsmile is the biggest of all..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Buono! Everything over here and over there is so, so buono!"
+      "text": "BUONO! This dish, that dish! They're all\nsuper-duper buono!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Thank you, everyone! Thank you, Trainer!\nDelicious food really brings happiness, doesn't it?!"
+      "text": "Thank you, everyone! Thank you, Trainer!\nEating tasty food made for\nyou really does\nfill you with joy!"
     },
     {
-      "name": "Narrator",
-      "text": "There she was, beaming with pure bliss."
+      "name": "Monologue",
+      "text": "And that's Hishi Akebono's."
     },
     {
-      "name": "Narrator",
-      "text": "After cleaning everything up and heading back to the lodge—"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Phaaah☆ I'm so full!\nThank you so much for today!",
-      "choice_data_list": [
-        "I hope it showed how grateful I am."
-      ]
+      "name": "Monologue",
+      "text": "After the party, we clean up and students\ngradually make their way\nback to the\nlodge."
     },
     {
       "name": "Hishi Akebono",
-      "text": "It totally did!\nI was so, so very happy~."
+      "text": "Ahhh... ☆ I'm sooo full! Thank you again\nfor today!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "And you know what? I finally understand.\n...The feelings that people put into eating!"
+      "text": "Of course you did! I couldn't be happier!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "People say 'itadakimasu' before eating, right?\nI bet that exact moment is when the final seasoning is added!"
+      "text": "And you know what? I think I get it now... I\nknow what that sumo\nwrestler meant about\nthe feelings of the people eating!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "All those feelings of gratitude and joy coming together\nare what truly complete the dish!"
+      "text": "We said \"thanks for the food\" before\neating, right? I think that little\nphrase is\nthe finishing touch on every dish."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Just like how a hot pot needs lots of ingredients, it needs lots of feelings too.\nThat's what 'true chanko' must be~!"
+      "text": "\"Thank you\" and \"I'm so happy.\" A meal\nwouldn't be complete without\nthose words\nsprinkled in beforehand."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Up until now, I was always just thinking about\nmaking things taste good..."
+      "text": "Just like ingredients, you need lots and\nlots of feelings to make a\nchanko!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "It's not that I ignored the gratitude of the people eating it,\nbut I guess I never really paid enough attention to it."
+      "text": "Up till now, I've been focusing solely on\nmaking other people happy\nwith my\ncooking..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "So from now on, I want to truly take in every 'itadakimasu,'\nand make sure absolutely everyone feels satisfied from the bottom of their hearts."
+      "text": "And while I certainly noticed everyone's\ngratitude towards me, I don't\nthink I gave\nit the credit it deserves."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Because I think that's how we finally reach\na true 'gochisosama' in the end~.",
-      "choice_data_list": [
-        "You're right.",
-        "I think you're right."
-      ]
+      "text": "From now on, when people thank me, I'll\nlisten. I have to realize those\nwords are a\nsign that I'm offering them a truly\nsatisfying meal."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe.\n...Hey, Trainer?"
+      "text": "If I do that, maybe they'll even give me a\nthank-you at the <i>end</i> of the\nmeal too."
     },
     {
       "name": "Hishi Akebono",
-      "text": "I used to think I just wanted to be a chanko-like horsegirl\nwho brings smiles to everyone's faces—"
+      "text": "Ehehe... Hey, Trainer?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "But on top of that, I want to be a horsegirl like 'true chanko'—\none that makes everyone want to see me smile too!",
-      "choice_data_list": [
-        "They already feel that way."
-      ]
+      "text": "I've always wanted to be a pot of chanko\nand bring smiles to\neveryone's faces...\nBut..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Really? ...I see.\nSo that's how you feel about me, Trainer."
+      "text": "Now, I hope my food makes the people\neating want to spread that\nsmile to\nsomeone else. Only then can I be a <i>true</i>\nchanko."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Fufufu.\nTrainer, you're just like the dashi broth to me!",
-      "choice_data_list": [
-        "...Huh? Dashi??"
-      ]
+      "text": "Am I? ...I see. So that's how you see me."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yup! If I'm the chanko pot, you're the broth!"
+      "text": "Ehehe... Sounds like you're the dashi stock\nto my hot pot!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "The absolute, most essential ingredient that I can't do without!"
+      "text": "The dashi stock! The very foundation of\nany hot pot!"
     },
     {
-      "name": "Narrator",
-      "text": "It was a quirky metaphor that could only come from Hishi Akebono,\nbut her beaming smile and words were overflowing with deep trust."
+      "name": "Hishi Akebono",
+      "text": "In other words, I can't be a pot of chanko\nwithout you!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Hishi Akebono certainly has a unique way\nof expressing it, but I can\ntell from her\nsmile that she trusts me with all her heart."
     }
-  ],
-  "no_wrap": true
+  ]
 }

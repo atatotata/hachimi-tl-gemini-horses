@@ -1,136 +1,134 @@
 {
   "title": "Distance to Brilliance",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "A match race against Mejiro McQueen—over 2,400 meters on turf.\nThe trial that would decide my fate as a trainer was underway."
+      "name": "Monologue",
+      "text": "Our trial against Mejiro McQueen begins.\nThese 2,400 meters of turf\nwill determine\nwhether I'm fit to be Satono Diamond's\ntrainer."
     },
     {
       "name": "Satono Diamond",
-      "text": "Haah, haah, haah, haah!"
+      "text": "<i>Huff... huff... huff... huff!</i>"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(In the early stages... she seems to be keeping up somehow.\nHowever, 2,400 meters is a long stretch. The real challenge begins now.)"
+      "text": "(She's kept up so far, but it's still early.\n2,400 meters is a\nconsiderable\ndistance—the true test is yet to come.)"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(Approaching the final stretch! The showdown starts he—wait, what?!)"
+      "text": "(We're almost at the final stretch! Soon,\nthe true contest will\nbe...gin?!)"
     },
     {
       "name": "Satono Diamond",
-      "text": "Yaaaahhhhhhhhhhhhhh!!"
+      "text": "Yaaaaahhh!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(What? Spurring into a final kick already?! She overtook me...?!)"
+      "text": "(Huh? A final spurt already?! She broke\nahead of me!)"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Impressive speed. —However!\nHaaahhhhhhhh!!"
+      "text": "An impressive burst of speed. But!\n\nHaaaaahhh!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(Naive... How naive. Did you truly believe you could sustain such a burst\nall the way to the wire? This is as far as you go, Satono-san!)"
+      "text": "(Oh my... your inexperience is showing.\nThat momentum of yours\nwon't last! This\nmatch is settled, Satono!)"
     },
     {
       "name": "Satono Diamond",
-      "text": "Khhh, guuuuaaaahhh!"
+      "text": "Nnnghaaah!"
     },
     {
-      "text": "—Though she edged ahead for a fleeting moment, she was thoroughly outpaced thereafter,\nleaving Satono Diamond defeated."
+      "name": "Monologue",
+      "text": "Mejiro McQueen blitzes past Satono\nDiamond, and from then on, the\ngap only\nwidens—all the way until the finish line."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Satono-san, what in the world was that?...\nWould the two of you care to explain?"
+      "text": "Satono... may I ask what your intentions\nwere? Why choose such a\nlosing strategy?"
     },
     {
       "name": "Satono Diamond",
-      "text": "*pant, pant, pant, pant...*"
+      "text": "<i>Huff... huff... huff... huff...</i>"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(She's... not looking at me?\nEven when I call out to her, not at all. And what's more...)"
+      "text": "(She's... not looking at me. It's like she\ncan't even hear my voice.\nAnd...)"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(There is no regret... in her eyes...\nDoes that look mean... she gave it everything she had?)"
+      "text": "(There isn't a hint of regret in her eyes.\nShe looks satisfied... like she\ngave it her\nall.)"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(I see. So that's what it was.)"
-    },
-    {
-      "name": "Diamond's Father",
-      "text": "Now then, let us move on to the evaluation. A gap opened up\nat the very end, but... I would like to hear McQueen-san's opinion."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "...Before I share the results, allow me to explain, you two."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "You were not aiming for \"victory,\" were you?\nNor did you tailor her training specifically for 2,400 meters."
+      "text": "(Ah. I believe I understand.)"
     },
     {
       "name": "Dia's Father",
-      "text": "Neither victory nor specialization...?\nWhatever do you mean by that—?"
-    },
-    {
-      "text": "As expected of Mejiro McQueen. It seems you saw\nstraight through Satono Diamond's run to the truth."
+      "text": "Very well, let's move on to the verdict.\nThere was a significant gap\ntoward the end\nof the race... but please give us your\nopinion,\nMcQueen."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Shall I explain to the both of you?"
+      "text": "Before I announce my decision, there is\nsomething I wish to confirm\nfirst. Satono..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "You weren't aiming to win today, were\nyou? I suspect you didn't do\nany\n2,400-meter training either."
+    },
+    {
+      "name": "Dia's Father",
+      "text": "Not aiming to win? No training? What do\nyou mean?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro McQueen's reputation isn't for\nnothing. She's seen through\neverything,\njust from Satono Diamond's running."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "May I ask you two to explain?"
     },
     {
       "name": "Satono Diamond",
-      "text": "...Understood, McQueen-san.\nWe will..."
+      "text": "Of course. You see, we..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Huh, reduce my training volume? Not only that,\nyou're saying passing the trial isn't a priority...? Trainer, what is the meaning of this?"
+      "text": "Huh? Reduce my training? And to top it\noff, we're not prioritizing the\ntrial? What\ndo you mean?"
     },
     {
       "name": "Satono Diamond",
-      "text": "If we don't pass, they will never accept us as a pair!\nAnd yet—!",
-      "choice_data_list": [
-        "The most important thing is \"making your dream come true.\"",
-        "The most important thing is \"making your dream come true.\""
-      ]
+      "text": "If we don't pass, my family won't give us\ntheir approval! We have to—"
     },
     {
-      "text": "Specifically, \"winning a GⅠ in the future.\" While her body is still developing, conditioning her specifically for a 2,400m race carries far too much risk."
+      "name": "Monologue",
+      "text": "Satono Diamond's dream is to win a G1\nrace. Given her current\nphysique, it's too\ndangerous to train her for 2,400 meters."
     },
     {
-      "text": "Looking at the upcoming Junior year, GⅠ races only go up to 2,000m. Throwing that away to pour everything into this trial is a choice I cannot make as her Trainer."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Are you saying... we should hold back?\nJust to protect me...? But, that's...",
-      "choice_data_list": [
-        "No! There are things we must do right now!",
-        "No! There are things we have to do right now!"
-      ]
+      "name": "Monologue",
+      "text": "Her first races will be at the junior level,\nand the longest junior G1 is\n2,000 meters.\nI can't ignore that to focus on this\ntrial—not if I call\nmyself a trainer."
     },
     {
       "name": "Satono Diamond",
-      "text": "The single most important thing for the two of us... is making our dream come true.\nNot today's trial."
+      "text": "Are you... saying I shouldn't even try?\nBecause I might injure myself?\nBut I..."
     },
     {
       "name": "Satono Diamond",
-      "text": "That is why we have devoted ourselves purely to \"what is necessary right now.\"\nEven if this is not to your liking..."
+      "text": "Our number one goal... is achieving our\ndream. Not passing today's\ntrial."
     },
     {
       "name": "Satono Diamond",
-      "text": "This is the path we must take. And—we will fulfill my dream and the family's long-cherished wish without fail. That is why we found each other, after all."
+      "text": "So we only trained the qualities I need\nright now. Even if you might\nnot like it..."
     },
     {
       "name": "Satono Diamond",
-      "text": "A \"speed\" that holds up in a 2,000m GⅠ. While we cannot demonstrate the comprehensive strength to win a 2,400m race today, this speed will lead to our future GⅠ victories."
+      "text": "This is the path I must take. I'll make our\ndream—our family's dearest\nwish—come\ntrue. Trainer and I were brought together\nfor this\npurpose."
     },
     {
       "name": "Satono Diamond",
-      "text": "This is what we truly wanted to show you! This is our stepping stone toward our dream.\nIt is the absolute maximum we can show you today!"
+      "text": "A 2,000-meter G1 demands speed. I may\nnot have the all-around\nability to win at\n2,400 meters yet, but this speed will be\nkey in all my\nfuture G1s."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "This is what we wanted to show you. We've\ncharted a course towards\nour dream—one\nthat doesn't take unnecessary risks. Today,\nyou saw\nhow far we've come!"
     },
     {
       "name": "Dia's Father",
@@ -138,75 +136,71 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...I see. That makes everything clear now. That push before the final stretch—it was far too early for this race because it was meant for the final stretch of a 2,000m..."
+      "text": "I see. That certainly explains it. I had\nthought your final spurt was too\nhasty, but\nyou were treating it like a 2,000-meter\nfinish."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "And the look in Satono-san's eyes when she was defeated...\nIt was just like mine, once upon a time.",
-      "choice_data_list": [
-        "Just like yours...?"
-      ]
+      "text": "Then there was the look in your eyes when\nyou lost. It reminded me of\nmy past self."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes... It was during my Classic season.\nBack when everyone was burning with fleeting dreams, competing with one another..."
+      "text": "Yes. When I took part in the Classics,\neveryone competed with\nburning passion.\nYou could tell each of us was chasing\nfar-fetched\ndreams."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Everyone was fiercely aiming for the Triple Crown... But I decided not to make the Triple Crown my top priority, choosing instead to aim for the Tenno Sho (Spring), which the Mejiro family holds most dear."
+      "text": "Others desperately chased the Triple\nCrown. But as a member of the\nMejiro\nfamily, I had a different priority—the\nspring Tenno Sho."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "There is a path one must walk, even if it means sacrificing one's once-in-a-lifetime youth...\nWhich is precisely why, standing here today—"
+      "text": "Our racing careers are as fleeting as youth\nitself, yet there are still\nthose who choose\nto devote their careers to their chosen\npath... That\nsame resolve made me who I\nam today."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The only ones who ever grasp their cherished dreams... are those prepared to pursue them single-mindedly, even if it means throwing everything else away."
+      "text": "Only those who chase their dreams with\nwholehearted dedication may\nachieve\nthem, even if they must abandon all else."
     },
     {
-      "text": "Mejiro McQueen looked over at us with a maternal, gentle smile."
-    },
-    {
-      "name": "Dia's Father",
-      "text": "I see... I understand now...\nI see... So that's why..."
+      "name": "Monologue",
+      "text": "Mejiro McQueen smiles at us like an\naffectionate mother."
     },
     {
       "name": "Dia's Father",
-      "text": "Perhaps we were the ones who failed to commit fully to the dream. We focused so much on our foundations, on being respectable nobility, that we failed to claim a GⅠ victory."
+      "text": "I see... Yes, I see... My goodness, it... it all\nmakes sense now..."
     },
     {
       "name": "Dia's Father",
-      "text": "If that is the case, something must change. And if our daughter, who has broken jinx after jinx, sensed something in this..."
-    },
-    {
-      "text": "Satono Diamond's father exchanged a glance with her mother, nodded slowly, and—"
+      "text": "Maybe we haven't been dedicated enough\nto our dream. We haven't\nwon a G1 race\nbecause we've been too focused on\nfundamentals and\nreputation."
     },
     {
       "name": "Dia's Father",
-      "text": "Trainer. Please take good care of Dia from here on out.\nShe is our family's finest, most precious rough diamond—"
+      "text": "In that case, we need to change. My\ndaughter has broken jinxes all\nher life. If\nher instincts tell her this is right..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Satono Diamond's parents look at each\nother. They nod slowly, and\nthen..."
     },
     {
       "name": "Dia's Father",
-      "text": "And—we wish to entrust our beloved daughter to you.\nLet us place our faith in the bond you two share."
+      "text": "Trainer. From now on, we entrust Dia to\nyou. She is our family's most\nbrilliant gem..."
+    },
+    {
+      "name": "Dia's Father",
+      "text": "...And our beloved daughter. We shall\nhave faith in you as you have\nin each\nother."
     },
     {
       "name": "Satono Diamond",
-      "text": "Waaahh! Trainer, we did it!\nWe really did it!"
+      "text": "Ahaha! We did it, Trainer! We really did it!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Let's make our dream come true! Together, the two of us will break the greatest jinx that no one else could! With our combined strength!",
-      "choice_data_list": [
-        "Yeah, let's do it!",
-        "Yeah, let's do it!"
-      ]
+      "text": "Let's make our dream come true! Nobody's\never broken my family's\njinx, but I know we\ncan, as long as we work together!"
     },
     {
-      "text": "And so, we somehow managed to overcome the Satono family's trial and earned their approval as a Trainer-trainee pair. But—"
+      "name": "Monologue",
+      "text": "We've managed to pass the Satono\nfamily's trial and gain their\napproval. But\nthis is only the beginning."
     },
     {
-      "text": "Our journey is still only just beginning. We will carry the Satono family's long-cherished wish—to win a GⅠ and shine at the pinnacle—as our shared dream, and march forward."
+      "name": "Monologue",
+      "text": "We're still a long way from achieving\nSatono Diamond's dream—<i>our</i>\ndream. But\none day, she'll win a G1 race and shine at\nthe top of the\nracing world."
     }
-  ],
-  "no_wrap": true
+  ]
 }
