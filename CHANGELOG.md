@@ -1,3 +1,6 @@
+## 2026-09-17 -- Global official EN home + lyrics
+653 home voice timelines and 32 song lyric files overlaid from Global bundles. Home keeps 794 JP-only lines; 2 lyric-less songs keep repo placeholders.
+
 ## 2026-09-17 -- Global official EN career stories
 8045 single-mode timelines overlaid from Global bundles (same chacha20 pipeline). Replaces Gemini JP career translations with official EN; 466 shared timeline IDs deduplicated.
 
