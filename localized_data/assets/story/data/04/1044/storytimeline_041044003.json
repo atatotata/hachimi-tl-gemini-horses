@@ -1,265 +1,230 @@
 {
   "title": "Honey-Colored Gloriosa",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "And so, my life as the \"familiar\"—or rather, the dedicated trainer—\nof Sweep Tosho on her quest for racing magic began, but..."
+      "name": "Monologue",
+      "text": "And so, I find myself as Sweep Tosho's\nfamiliar on her quest to learn\nracing magic.\nIn other words, I became her trainer."
     },
     {
       "name": "Sweep Tosho",
-      "text": "No. I don't wanna run on the woodchips today.\nI'm not in the mood.",
-      "choice_data_list": [
-        "U-Um, but—"
-      ]
+      "text": "Nope. I don't wanna run on wood chips\ntoday. Not feeling it."
     },
     {
       "name": "Sweep Tosho",
-      "text": "When I say no, I mean no!! Nooooo waaaay!!"
+      "text": "If I don't wanna, I don't wanna! Nooo\nmeanssss nooooo!"
     },
     {
-      "name": "Narrator",
-      "text": "Honestly, the situation wasn't looking great. At this rate, it seemed like even\nventuring out into the racing world to find magic was out of the question."
+      "name": "Monologue",
+      "text": "Honestly, the current situation is far from\nideal. At this rate, getting\nSweep Tosho to\nmake her official debut might prove to be\na\nchallenge."
     },
     {
-      "name": "Narrator",
-      "text": "Her total refusal to listen was likely because she had built up far too much\n\"distrust towards authority figures\" over the days prior.",
-      "choice_data_list": [
-        "(If only she trusted me a little more...)"
-      ]
+      "name": "Monologue",
+      "text": "Her refusal to listen to me probably comes\nfrom a long history of\ndistrusting her\nteachers and mentors."
     },
     {
-      "name": "Narrator",
-      "text": "That said, building trust takes time. For a while, I continued to push myself\nday and night for Sweep Tosho's sake, barely getting any sleep."
+      "name": "Monologue",
+      "text": "That said, earning Sweep Tosho's trust is\nfar from easy. The days\nspent testing\nvarious methods to no avail start to take a\ntoll on my\nsleep schedule."
     },
     {
-      "name": "Narrator",
-      "text": "Some days I'd wait hours beside her until she felt like moving, and other days—"
+      "name": "Monologue",
+      "text": "One day, I wait hours on end for her to\nfeel inclined to train, and yet\nanother\nday—"
     },
     {
       "name": "Sweep Tosho",
-      "text": "No, no, no! I don't even want to look at the track today!!"
+      "text": "No, no, no! I don't wanna see another\ntrack today!"
     },
     {
-      "name": "Narrator",
-      "text": "—I took Sweep Tosho out for a change of pace."
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Hmph, \"Limited Edition: Fresh Raw Hachimi Drink\"?\nWell... I guess that doesn't look too bad.",
-      "choice_data_list": [
-        "Interested?",
-        "Interested?"
-      ]
+      "name": "Monologue",
+      "text": "So instead, I bring Sweep Tosho\nsomewhere new for a change of\npace."
     },
     {
       "name": "Sweep Tosho",
-      "text": "...Hmph, I suppose I could drink one.\nBut no way am I standing in line. You go buy it!",
-      "choice_data_list": [
-        "Alright, alright... *yaaaawn*"
-      ]
+      "text": "Hmm, \"Limited-Edition Fresh Honeyade\"?\nWell... it looks okay, I\nguess."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hey! Ugh, familiar, why are you yawning?!\nGet it together!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "The fatigue from the past few days caught up to me, slipping out as a sudden yawn.\nAfter getting an earful from a pouting Sweep, I gave a wry smile and lined up—"
-    },
-    {
-      "name": "Narrator",
-      "text": "Because it was a limited-edition item, the line was ridiculously long.\nAccepting that there was nothing to do but wait, I stood there for a while until—"
-    },
-    {
-      "name": "Tall Horsegirl",
-      "text": "Like I said, I want five of 'em so I can get some for my friends too!"
-    },
-    {
-      "name": "Clerk",
-      "text": "I-I'm terribly sorry. The \"Fresh Raw Hachimi\" is a limited-quantity item,\nso we must limit purchases to two per customer..."
-    },
-    {
-      "name": "Burly Horsegirl",
-      "text": "Cut the stingy crap!\nWe're paying customers, got it?! Hey!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Two well-built horsegirls, about high school age, started picking a fight with the clerk!\nThe atmosphere around us instantly grew tense...!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Just then—"
+      "text": "...Hmph, I'll drink it if you insist. But I don't\nwanna line up. Go buy it\nfor me!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Are you stupid or something?!"
+      "text": "Hey, wait! C'mon familiar, what're you\nyawning like that for?! It's bad\nmanners!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I earn myself another scolding for that\nyawn before heading to the\nback of the\nline. Maybe this fatigue is catching up to\nme."
+    },
+    {
+      "name": "Monologue",
+      "text": "The line is impressively long—probably\nbecause they're selling\nlimited-edition\ndrinks. Either way, all I have to do is wait it\nout..."
+    },
+    {
+      "name": "Tall Umamusume",
+      "text": "I'll say it again—five drinks, one for each\nof my friends!"
+    },
+    {
+      "name": "Store Employee",
+      "text": "M-my apologies. Fresh Honeyade is a\nlimited-edition product, so\neach customer\nmay only purchase up to two drinks at a\ntime..."
+    },
+    {
+      "name": "Strong Umamusume",
+      "text": "I ain't here for yer excuses! The customer's\nalways right! Right?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Two high school Umamusume are arguing\nwith the store employee!\nAnd things are\ngetting real tense..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Wait, what's she—"
     },
     {
       "name": "Sweep Tosho",
-      "text": "It says \"Limit 2 per person\" right there on the banner!!\nCan't you read letters that big? Are you blind?!"
+      "text": "You an idiot or something?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Besides, if you two buy up all of them, there won't be any left for me!\nUse your brains for once!!"
-    },
-    {
-      "name": "Burly Horsegirl",
-      "text": "...Haaah? Who's this squirt?\nWearing a weird hat like that. Shut your mouth."
+      "text": "It's clearly written right here, \"Only two\ndrinks per person\"! These\n<i>huge</i> letters too\nsmall for you to read? Do you even <i>have</i>\neyes?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "............Excuse me?!"
+      "text": "Also, if you idiots buy them all out, there'll\nbe no more left for me!\nTry using your\nhead for once, will you?!"
+    },
+    {
+      "name": "Strong Umamusume",
+      "text": "Huh? The hell's up with this brat? And\nwhat's the weird hat for?\nShaddup and get\nlost."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Did you just say... weird hat?\nMy precious proof of being a magical girl from Grandma... is WEIRD, you say?!?!"
+      "text": "...<i>Huh?</i>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "That's iiiit, you're dead!! We're settling this on the track!!\nI'll show you two exactly who needs to shut up and obey around here!!"
-    },
-    {
-      "name": "Tall Horsegirl",
-      "text": "Huh?! Bring it on, shrimp!!",
-      "choice_data_list": [
-        "H-Hold on a second!!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Summoning all my courage, I jump between the horsegirls on the verge of exploding.\nIt seems impossible to de-escalate completely now, but at the very least—!!",
-      "choice_data_list": [
-        "At least let's do it where nobody gets hurt...!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Desperately trying to calm the girls who looked ready to sprint at any second—"
-    },
-    {
-      "name": "Narrator",
-      "text": "We arranged to borrow a track at a freestyle racecourse,\nwhere amateur horsegirls hold unofficial races."
-    },
-    {
-      "name": "Narrator",
-      "text": "Subtly placing myself between Sweep Tosho and the horsegirls\nto prevent any blows from flying, I explain the rules.",
-      "choice_data_list": [
-        "A-Alright, 1400m on turf it is... Sound good?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Without giving an answer, the horsegirls walked off toward the gates.\nJust before sending Sweep Tosho out, I give her one last piece of advice.",
-      "choice_data_list": [
-        "If anything happens, I swear I'll jump in to stop it.",
-        "If anything happens, I swear I'll jump in to stop it."
-      ]
+      "text": "Weird hat? Grandma gave me this hat—it's\nproof that I'm a magical\ngirl... And you\ncalled it <i>WEIRD?!</i>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hah?! Even in the middle of a race?\nYou're gonna get way more than just hurt, you know?! That's crazy—",
-      "choice_data_list": [
-        "So don't worry about a thing, just go out there and win with everything you've got!"
-      ]
+      "text": "Thaaat's it, I've had it with you! Let's settle\nthis with a race! I'll show\nyou who should\nreally shut up!"
+    },
+    {
+      "name": "Tall Umamusume",
+      "text": "Huh?! You're on, brat!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I muster up all my courage and step in\nbetween them. It's too late to\nstop this\nfeud, but at least..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I try to calm down both sides, who look\nlike they're about to sprint off\nat any\nmoment..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Somehow, I manage to borrow the track\nwhere amateur runners hold\nunofficial\nraces."
+    },
+    {
+      "name": "Monologue",
+      "text": "To prevent any unwanted fisticuffs, I place\nmyself in between Sweep\nTosho and the\nother Umamusume before explaining the\nrules."
+    },
+    {
+      "name": "Monologue",
+      "text": "Without bothering to respond, the two\nhead towards the starting\ngate. Before\nsending off Sweep Tosho, I steel myself\nand tell her..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "！　…………。"
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, the race began—"
+      "text": "Huh? Even if it's in the middle of the race?\nYou might get hurt real\nbad, y'know? I\ndon't—"
     },
     {
       "name": "Sweep Tosho",
-      "text": "(...What was that all about? Acting like\nas long as nothing gets in the way, I'm guaranteed to win...)"
+      "text": "...!"
     },
     {
-      "name": "Tall Horsegirl",
-      "text": "Hah, knew it, just a kid! Too slow, way too slow!\nSee ya at the finish line~!!"
-    },
-    {
-      "name": "Burly Horsegirl",
-      "text": "What was that about 'teaching us who needs to shut up and obey'?\nWhat a joke!!"
+      "name": "Monologue",
+      "text": "And then, the race begins."
     },
     {
       "name": "Sweep Tosho",
-      "text": "(Ngggh... You don't have to tell me to win!\nLike I'd ever lose to annoying jerks like you!!)"
+      "text": "(...What was that all about? Making it\nsound like I'd definitely win if\nnothing\nstrange happens.)"
+    },
+    {
+      "name": "Tall Umamusume",
+      "text": "Hmph, you're just a brat! A slow one, too!\nDon't mind me, just passin'\nthrough!"
+    },
+    {
+      "name": "Strong Umamusume",
+      "text": "\"I'll show you who should really shut up,\"\nwas it? Don't make me\nlaugh!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hah, hah, hah, hah...\nThe final... straightaway...!!"
+      "text": "(Urghhh, I'd win this even without your\nhelp! There's no way I'm losing\nto a pair of\nannoying jerks like these two!)"
     },
     {
       "name": "Sweep Tosho",
-      "text": "(I'm gonna win... I am definitely gonna win!!\nI'll blow past every single one of you!!)"
+      "text": "<i>Pant, pant...</i> I see it—the final stretch!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Because I'm... THE STRONGEST ONE HERE, DARN ITTTTTT—!!"
-    },
-    {
-      "name": "Opponent Horsegirls",
-      "text": "Gah?! N-No waaaay... !?"
-    },
-    {
-      "name": "Narrator",
-      "text": "(WOOOOOOOOHHH!!)"
-    },
-    {
-      "name": "Independent Male Spectator A",
-      "text": "Whoa, what was that?!\nShe blew right past them at an insane speed at the end!!"
-    },
-    {
-      "name": "Independent Female Spectator A",
-      "text": "Insane! That totally got me hyped up...!!"
+      "text": "(I... I gotta win! I'll leave those dimwits in\nthe dust!)"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Haa, haa... Phew~..."
+      "text": "Because the strongest one here— is\nmeeeee!"
+    },
+    {
+      "name": "Opponents",
+      "text": "What?! N-no waaay!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Male Spectator A",
+      "text": "Wow, did you see that just now?! She had\na crazy burst of speed at\nthe end there!"
+    },
+    {
+      "name": "Female Spectator A",
+      "text": "Oh my gosh! That was like so, super hype!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "(Huh? Just now... that felt, really good?)"
+      "text": "<i>Huff, puff...</i> Phew..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "(Was it because I beat those annoying jerks?\n...No, that wasn't all—)",
-      "choice_data_list": [
-        "Great work out there, Sweep."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "After talking with the opposing horsegirls, who were thoroughly remorseful,\nI call out to Sweep Tosho. ...That was truly an amazing run.",
-      "choice_data_list": [
-        "Just as I thought, it really was like magic—"
-      ]
+      "text": "(Huh? I feel like... really good?)"
     },
     {
       "name": "Sweep Tosho",
-      "text": "\"Magic\"..."
+      "text": "(Is it because I put those numbskulls in\ntheir place? No, it's not just\nthat—)"
+    },
+    {
+      "name": "Monologue",
+      "text": "After the race, the high schoolers come\nand apologize, and then I go\nright to\nSweep—her running was a sight to behold."
     },
     {
       "name": "Sweep Tosho",
-      "text": "(...Oh. Come to think of it, back the first time too—)"
+      "text": "Magic..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Wait, Familiar? Aren't you looking a little wobbly?\n...Hey?"
-    },
-    {
-      "name": "Narrator",
-      "text": "(Thud...)"
+      "text": "(Ah, that reminds me, the first time we met\nthey also...)"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Wait... Familiar?! Hey!!\nDummy, answer me!! ...Hey, I said answer meee—!!"
+      "text": "Hey, familiar? Aren't you wobbling a little\nbit? You okay?"
     },
     {
-      "name": "Narrator",
-      "text": "The moment the constant tension finally snapped, the accumulated fatigue\nof recent days crashed down on me all at once—and before I knew it, I blacked out."
+      "name": "Monologue",
+      "text": "<i>Thunk.</i>"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Wha—familiar?! Hey! Say something,\ndummy! Answer meee!"
+    },
+    {
+      "name": "Monologue",
+      "text": "When I realize there's no more need to\nworry, my pent-up fatigue hits\nme all at\nonce—and before I know it, my\nconsciousness fades."
     }
-  ],
-  "no_wrap": true
+  ]
 }

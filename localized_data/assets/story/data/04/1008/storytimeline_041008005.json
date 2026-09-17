@@ -1,146 +1,137 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "As I was walking along the training course, I \nnoticed Vodka facing another horsegirl."
-        },
-        {
-            "name": "Vodka",
-            "text": "If she's the same as me, then she's \nnot above or below me. She's fair and \nsquare. No handicap, Senpai!!"
-        },
-        {
-            "name": "Classmate Horsegirl",
-            "text": "Vodka's challenging Senpai…… \nI wonder what'll happen……"
-        },
-        {
-            "name": "Vodka",
-            "text": "All right, the final corner. Let's fight! The \nfinal corner! Get out of the way!!"
-        },
-        {
-            "text": "Well done chasing her down, but…… In the end, \nVodka was defeated by a two-ba difference."
-        },
-        {
-            "name": "Vodka",
-            "text": "*sigh* I lost today. But…"
-        },
-        {
-            "name": "Vodka",
-            "text": "I won't lose next time! I'll turn them all into \ntrees and beat them to it! I'll be the strongest \nhorsegirl in the future!"
-        },
-        {
-            "name": "Vodka",
-            "text": "(Heh, it's decided……! No one can stop me from \nrunning even if I lose.)"
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "Yes, yes. You're so cute when you're so stiff. \nGood luck next time. Bye."
-        },
-        {
-            "name": "Vodka",
-            "text": "Oooh! Wait, huh? Doesn't she seem really scared? \nDo you understand my hidden power? Hey!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Hey, Trainer, I need to talk to you about \nsomething. You saw my match, right?"
-        },
-        {
-            "name": "Vodka",
-            "text": "”I won't lose next time!” I was \ntrying to sound cool, but…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Now that I think about it, isn't that actually \nkinda cool!? Senpai was looking at me warmly."
-        },
-        {
-            "name": "Vodka",
-            "text": "Thinking about it calmly… It sounds like the \nline of a bad guy who got hurt. Like, 'Remember \nthis next time!'",
-            "choice_data_list": [
-                "Indeed…"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "That's not true! It wasn't like this before I \nenrolled. I never lost. But…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Trecen Academy has amazing people, so sometimes \nyou lose. When you lose, your heart screams in \ndisappointment.",
-            "choice_data_list": [
-                "What if I don't tell you?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "I see. If I lose, I'll try not to talk too \nmuch…… Okay, let's practice."
-        },
-        {
-            "name": "Vodka",
-            "text": "Ah, ahhh, Testaments… Let's go. 『Ha, I lost \ntoday. I admit it. See you.』"
-        },
-        {
-            "name": "Vodka",
-            "text": "………………But I'll be the next \nto win! I'll beat you!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Sorry. I'm going. I'm starting to feel pathetic…"
-        },
-        {
-            "text": "I hurriedly chased after Vodka, \nwho was walking away."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm sorry for making you worry, Trainer. I feel \nlike I'm losing my cool."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm going to challenge any strong \nopponent head-on. That's fine, but \nI don't know if it's cool or not.",
-            "choice_data_list": [
-                "You can't stand it?",
-                "You can't take it?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "I can't get it out of my mouth! It's because of \nmy dad's influence. Like, 'You don't have a \nheart,' or 'You're second.'"
-        },
-        {
-            "name": "Vodka",
-            "text": "I've always been taught how cool that is."
-        },
-        {
-            "name": "Vodka",
-            "text": "But, at this rate, it's kinda lame. I don't want \nto be a talker. That's why I'm a trainer!"
-        },
-        {
-            "name": "Vodka",
-            "text": "You're the only one who understands \nhow cool I am."
-        },
-        {
-            "name": "Vodka",
-            "text": "If that's the case, then you can extend me even \nfurther, right?",
-            "choice_data_list": [
-                "All right, let's do this!"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Thank you! If you say so, I'll be a \nhundred strong! One day, I'll be even \ncooler than I am! A-And then…"
-        },
-        {
-            "name": "Vodka",
-            "text": "And while you're at it, help me crush my weak \nspot. Umm… When I see lovestruck, I feel a \nshiver run down my spine."
-        },
-        {
-            "name": "Vodka",
-            "text": "Idiot, it's not embarrassing! Don't \nget the wrong idea. …Don't say this. \nIf you tell anyone, I'll kick you!"
-        },
-        {
-            "text": "Vodka leaves, her shoulders furious. For some \nreason, her neck is bright red."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "As I approach the training course, I spy\nVodka talking to another\nstudent."
+    },
+    {
+      "name": "Vodka",
+      "text": "C'mon, you and me—let's race fair and\nsquare! I don't need no head\nstart!"
+    },
+    {
+      "name": "Classmate",
+      "text": "Vodka's been challenging the seniors to\nraces left and right these\ndays... I wonder\nwhat's gotten into her."
+    },
+    {
+      "name": "Vodka",
+      "text": "Here we go, last corner! It's make or break\ntime—and I'm gonna\ncaaatch uuup!"
+    },
+    {
+      "name": "Monologue",
+      "text": "However, despite being in hot pursuit of\nher opponent, she fails to\nclose the\ndistance."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Pant... pant...</i> Well, I'll let you have this\none..."
+    },
+    {
+      "name": "Vodka",
+      "text": "But it won't happen again! I'm gonna leave\nall you pace chasers in the\ndust, so watch\nout! The soon-to-be world's coolest racer\nis comin'\nafter ya!"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Aw yeah, I'm so cool! Now everyone\nknows that no matter how many\ntimes I\nlose, I'm gonna get back up and keep\ngoin'!)"
+    },
+    {
+      "name": "Older Student",
+      "text": "Okay, whatever you say. You're cute when\nyou're so hyped up.\nAnyway, catch ya\nlater."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hell yeah! Wait a sec... Aren't you\nintimidated at all? Like, I have\nhidden\npowers, y'know! Hey!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hey, Trainer, I wanna talk to you about\nsomething. Did you catch my\nrace just\nnow?"
+    },
+    {
+      "name": "Vodka",
+      "text": "I was all like, \"I'm gonna leave you in the\ndust!\" to be super cool,\nbut..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Now that I think about it, wasn't that kinda\nlame? I bet all the seniors\nthink I'm just a\nkid with a big mouth."
+    },
+    {
+      "name": "Vodka",
+      "text": "Honestly, it sounds like something a\nclichéd villain would say. Like,\n\"You\nhaven't seen the last of me!\""
+    },
+    {
+      "name": "Vodka",
+      "text": "You serious?! Oh man, it wasn't like this\nbefore I entered the\nacademy. For starters,\nlosing in a race wasn't a thing for me..."
+    },
+    {
+      "name": "Vodka",
+      "text": "But Tracen's got tons of talented folks, so\nof course I'd lose on\noccasion. And every\ntime it happens, I can't help but feel sore\nabout\nit."
+    },
+    {
+      "name": "Vodka",
+      "text": "Yeah, I suppose. I could give that a try. All\nright, lemme do a quick\npractice sesh."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahem, ahem... Okay, here I go. \"Heh,\nlooks like I lost. I accept my\ndefeat. See\nyou later.\""
+    },
+    {
+      "name": "Vodka",
+      "text": ".........But I'm gonna get ya next time! I'll\nutterly destroy you!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ughhh, I came off as an actual villain this\ntime! How the hell do\npeople casually\naccept defeat and move on?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Sorry. I think I'm gonna go. This is\npathetic..."
+    },
+    {
+      "name": "Monologue",
+      "text": "As Vodka hurries off, I quickly follow\nbehind her."
+    },
+    {
+      "name": "Vodka",
+      "text": "Sorry, Trainer. Didn't mean to worry you.\nIt's just... I don't know what\nbeing \"cool\"\neven is anymore."
+    },
+    {
+      "name": "Vodka",
+      "text": "It's good that I'm facing tough opponents\nhead-on, but I'm starting to\nwonder if I\nshould be dropping one-liners."
+    },
+    {
+      "name": "Vodka",
+      "text": "It just comes out on its own! I... got it from\nmy pops. He'd always say\nstuff like \"you're\nlacking heart,\" or \"looks like you're only\nsecond\nbest.\""
+    },
+    {
+      "name": "Vodka",
+      "text": "He was the one who taught me that it's\ncool to drop one-liners after a\nmatch."
+    },
+    {
+      "name": "Vodka",
+      "text": "But if I don't win, it's kinda lame. I don't\nwanna be all talk and no\nshow. That's why\nI need your help, Trainer!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Can you teach me what it <i>actually</i> means\nto be cool? You're the only\none who\nknows how cool I really am."
+    },
+    {
+      "name": "Vodka",
+      "text": "Do you think you can help me grow even\nmore?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Thanks! Just knowing that you're by my\nside makes me feel a lot\nbetter! I'm gonna\ndiscover what it means to be genuinely\ncool. Oh\nand..."
+    },
+    {
+      "name": "Vodka",
+      "text": "I-I'll also need help to overcome my\nweakness. Y'know... whenever I\nsee\nlovey-dovey romantic stuff, I get shivers\ndown my spine."
+    },
+    {
+      "name": "Vodka",
+      "text": "I'm not sayin' I'm embarrassed though!\nDon't you dare get me wrong.\nYou better\nnot tell anyone else about this, or else I'll\nsend ya flyin'!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Before Vodka turns around and rushes off,\nI manage to catch a\nglimpse of her flushed\ncheeks."
+    }
+  ]
 }

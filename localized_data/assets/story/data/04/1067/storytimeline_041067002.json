@@ -1,263 +1,242 @@
 {
   "title": "An Unexpected Invitation",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "One day, in the gymnasium. Mejiro McQueen, one of the shining stars\nrepresenting the Mejiro family, made an announcement."
+      "name": "Monologue",
+      "text": "One day, we gather in the gym for an\nannouncement from Mejiro\nMcQueen on\nbehalf of her family."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "To all fellow students, and to the trainers who support us day in and day out,\nthe Mejiro family has a message to share with you."
+      "text": "Dear students and esteemed trainers. It is\nmy pleasure to bring you an\n\nannouncement from the Mejiro family."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "In the near future, our household will be hosting a casual gathering to foster\nfriendship and camaraderie. Please feel free to join us in everyday attire."
+      "text": "In the near future, we will be hosting a\nparty to help foster exchange\nand\ncamaraderie. There will be no dress code,\nso feel free to come as\nyou are."
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "Huh, a casual party hosted by the Mejiros? They organize so many great events,\nI'm always grateful. You're going too, right?",
-      "choice_data_list": [
-        "Yeah, I suppose...",
-        "Yes, I suppose so..."
-      ]
+      "name": "New Trainer A",
+      "text": "Huh. So the Mejiro family's throwing a\ncasual party. It's cool how\nthey're always\nrunning events for us. Are you gonna go?"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "See you there, then! Oh, by the way, have you heard? About those trainer\ntrials for Satono Diamond... As for who passed..."
+      "name": "New Trainer A",
+      "text": "I'll see you there, then. Oh, by the\nway—did you hear? A lot of folks\ntried out\nfor Satono Diamond's trainer trials, but..."
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "—Apparently, nobody did.\nWonder what they're gonna do now?"
+      "name": "New Trainer A",
+      "text": "They say nobody passed. Makes you\nwonder what she'll do now."
     },
     {
-      "text": "And so, the day of the party arrived. At the venue, I spotted Satono Diamond\nand Kitasan Black engrossed in a board game."
+      "name": "Monologue",
+      "text": "Today's the day of the party. As I'm\nwalking around, I spot Satono\nDiamond\nand Kitasan Black playing a board game."
     },
     {
       "name": "Kitasan Black",
-      "text": "Whaaat?! Isn't Reversi a game where you lose if you give up the corners?!\nWhy are you putting your piece there, Dia-chan?!"
+      "text": "Huh? In reversi, you need to take the\nedges or you'll lose! Are you\nsure you want\nto go there, Dia?!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Yes. \"If you lose the four corners, you lose the game.\"\nIf that's what everyone claims—"
+      "text": "Mhm! Everyone says you'll lose if you don't\nget the corners, but..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Then I simply have to break that jinx!\nI'll shatter it and win anyway!"
+      "text": "That's just a superstition! Jinx, curse...\nwhatever it be, I'll win and\nprove it wrong!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Whoa, there it is! Dia-chan's jinx-busting mode!\nWhenever she gets like this—"
+      "text": "Aw, here we go—you've found another jinx\nto break! I know exactly\nhow this'll go..."
     },
     {
-      "text": "The result—a decisive, overwhelming victory for Satono Diamond.\nI had just witnessed an intriguing side of her that went far beyond a quiet, sheltered ojou-sama."
+      "name": "Monologue",
+      "text": "In the end, Satono Diamond takes a\nconvincing win. Turns out the\n\nmild-mannered young lady has an\nunexpected side to her."
     },
     {
-      "text": "It seemed she felt a compelling urge to smash any jinx or superstition she encountered.\nAs I was pondering what kind of person she truly was—"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Excuse me... may I have a moment?\nYou're the person I saw the other day, aren't you?",
-      "choice_data_list": [
-        "Satono Diamond...?"
-      ]
+      "name": "Monologue",
+      "text": "It seems whenever she encounters a jinx or\nsuperstition, she's driven\nto prove it wrong.\nIt's hard to nail down just what kind of\nperson she\nis, but I think—"
     },
     {
       "name": "Satono Diamond",
-      "text": "You were watching me during the mock race, right?\nUm... there was something I wanted to ask you~."
+      "text": "Um, may I have a moment? I saw you the\nother day, didn't I?"
     },
     {
       "name": "Satono Diamond",
-      "text": "Why was it that you didn't attend the trainer trials?\nI had the impression you were interested in me, but..."
+      "text": "You were watching me at the scrimmage,\nright? Um... I'd like to ask\nyou something."
     },
     {
       "name": "Satono Diamond",
-      "text": "Did I fail to meet your standards in some way?\n...Was my aptitude simply not enough?",
-      "choice_data_list": [
-        "That's not it at all! It's just...!"
-      ]
-    },
-    {
-      "text": "Unable to keep it inside, I confessed the truth. I thought her talent was extraordinary,\nbut as an ordinary trainer, I felt completely unworthy of crossing such high barriers."
+      "text": "Is there a reason you didn't come to my\ntrainer trials? You seemed\ninterested, so I\nthought you'd be there."
     },
     {
       "name": "Satono Diamond",
-      "text": "Oh, but that's..."
+      "text": "If I didn't pass muster in your eyes, can I\nask why? Is it just that I lack\npotential?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell her the truth—while she has the\nmakings of an incredible racer,\nI'm just a\nrun-of-the-mill trainer. It's a wide gap I'm\nnot good enough\nto cross."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A wide gap? But that's not..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hehe, while I understand feeling intimidated, shrinking away to such an extent\nis taking things a bit too far."
+      "text": "Hehe. I can understand why you'd be\nhesitant, but humility in excess\nis only\nself-deprecation."
     },
     {
       "name": "Satono Diamond",
-      "text": "Ah, McQueen-san♪\nThank you for having us~!"
+      "text": "Oh, McQueen! ♪ Good evening. Thank\nyou for having us!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Not at all. Welcome, Satono-san, and young Trainer.\nWould you mind if I joined your conversation?"
+      "text": "Good evening. I bid you welcome,\nSatono—as well as your young\ntrainer\nacquaintance. May I intrude upon your\nconversation?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The Satono Group may indeed be an immense conglomerate, but they are hardly unapproachable.\nGoing through the grand ordeal of trainer screenings was simply—"
+      "text": "Satono's family does run a major\nconglomerate, but I wouldn't say\nshe's\ndifficult to approach. Her trainer trials\nmight have sounded\nintimidating..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "A reflection of just how \"cautious\" they must be.\nIsn't that right, Satono-san?"
+      "text": "But that only means she's taking it\nseriously.\nIsn't that so, Satono?"
     },
     {
       "name": "Satono Diamond",
-      "text": "...Yes, precisely. Searching for a trainer means finding the person\nto whom I will entrust my dream—and the heartfelt ambition of the Satono family."
+      "text": "Yes, that's right. My trainer has to be\nsomeone I can entrust with my\ndream—the\nSatono family's dearest wish."
     },
     {
       "name": "Satono Diamond",
-      "text": "Though our house is relatively newly established—the Satono family holds a deep\nlove for the culture of Umamusume racing, and we wish to contribute to its growth."
+      "text": "The Satono family isn't as historied as\nothers, but we have a deep\nlove for\nUmamusume racing and want it to flourish."
     },
     {
       "name": "Satono Diamond",
-      "text": "We have engaged in operational support, philanthropy, and various other initiatives.\nYet compared to the Mejiro family, our history is short, and we have yet to achieve \"our greatest contribution.\"",
-      "choice_data_list": [
-        "\"Greatest contribution\"?"
-      ]
+      "text": "We help with events, charity work, and\nwhatever else we can. But\nwe're young\ncompared to the Mejiro family, and the\ngreatest\ncontribution of all has always\nbeen beyond us."
     },
     {
       "name": "Satono Diamond",
-      "text": "Yes. And that is—\"to produce a legendary Umamusume from our own house\nwho can claim victory in a GⅠ race.\""
+      "text": "Yes. Producing a G1 race winner from our\nfamily."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "This is a culture unique to the Umamusume world, after all.\nProducing a legendary racer is the greatest contribution of all, irreplaceable by any other metric."
+      "text": "Skilled racers are the lifeblood of our\nsport. There is no greater\ncontribution one\ncan make than producing a renowned\nracer."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The promising star carrying that grand ambition upon her shoulders is Satono Diamond-san.\nAnd the trainer trials were held to find the partner who would support her in that endeavor."
+      "text": "Satono Diamond has accepted the weight\nof that grand ambition.\nThrough her trainer\ntrials, she hoped to find someone who\nwould bear\nit with her."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The Satono Group is not acting haughty or looking down from above;\nthey are simply that desperate. Is that not so, Satono-san?"
+      "text": "The Satono Group isn't chasing status, but\na goal it's never been able\nto grasp.\nIsn't\nthat right, Satono?"
     },
     {
       "name": "Satono Diamond",
-      "text": "...Yes. Everything is for the sake of realizing our family's long-cherished dream.\nThat is why we wish to explore every avenue to find and welcome someone who will shoulder that dream with us."
+      "text": "...Yes. Everything I do is to fulfill my\nfamily's dream. So I'll exhaust\nevery option\nto find someone capable of chasing it with\nme."
     },
     {
       "name": "Satono Diamond",
-      "text": "Trainer, please tell me. What were your thoughts when you saw me run?\nI simply couldn't get that searching, earnest look in your eyes out of my mind."
+      "text": "I want your opinion as a trainer—what did\nyou think of my racing?\nThat look in your\neyes when you were watching me—I can't\nstop\nthinking about it."
     },
     {
-      "text": "Her expression was completely sincere. Straightforward, pure eyes\nthat sought understanding solely for the sake of her goal..."
+      "name": "Monologue",
+      "text": "She looks me in the eye with such\nintensity, it feels as if my answer is\nthe\nmost important thing in the world to her\nright now."
     },
     {
-      "text": "I realized it would be rude to withhold my impression. First, I candidly praised\nher tremendous talent—and then, I decided to point out the challenges I had observed.",
-      "choice_data_list": [
-        "First, I think you lack experience in true, fierce dueling."
-      ]
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "True dueling...? What do you mean by that...?",
-      "choice_data_list": [
-        "During the race, weren't you struggling with the pressure around you?"
-      ]
+      "name": "Monologue",
+      "text": "It would be disrespectful to not be honest\nwith her. I start by praising\nher incredible\ntalent, then move on to the areas I think\nshe could\nimprove in."
     },
     {
       "name": "Satono Diamond",
-      "text": "Ah, indeed... during that mock race, I felt bewildered.\nI had never experienced such tight marking before, like I wasn't being allowed to run freely."
+      "text": "Real competition? What do you mean?"
     },
     {
       "name": "Satono Diamond",
-      "text": "And yet, since childhood, I have always told my training partners:\n\"Please don't hold back when we run side by side.\"",
-      "choice_data_list": [
-        "Even so, they might have still held back out of deference."
-      ]
+      "text": "Oh. I did, now that you mention it. I've\nnever been marked so hard\nbefore—it was\ndifficult to run how I wanted."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "But I've raced against training partners\nsince I was little. I always told\nthem to\nnever hold back."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...I understand completely. That is the fate of one's birth. When there is a dynamic of master and retainer,\neven if they believe they aren't holding back, they won't run with the raw intent to crush you..."
+      "text": "I can see that. It's common for those of our\nstatus. Since we're in\npositions of power,\nothers hesitate to run aggressively against\nus,\neven if they don't realize it."
     },
     {
       "name": "Satono Diamond",
-      "text": "I-I see...! I hadn't thought of that at all...!\nSo that is why the pressure felt so intense...!",
-      "choice_data_list": [
-        "And one more thing. You tend to let yourself get too stubborn."
-      ]
+      "text": "I-I see! I've never thought about it like\nthat. No wonder I felt so\nhemmed in..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Huh...? Stubborn? I don't believe anyone has ever told me that\nin my entire life... What do you mean?"
+      "text": "Huh? Worked up? No one's ever told me\nthat before. What do you\nmean?"
     },
     {
-      "text": "I explain exactly what I saw during the race. In the middle stages where patience was key,\nher pace subtly quickened whenever opponents challenged her."
+      "name": "Monologue",
+      "text": "I tell her what I saw. Around the halfway\nmark, she needed to bide\nher time, but\nshe felt pressured to speed up by those\nclosing in on\nher."
     },
     {
-      "text": "I told her she'd simply gotten swept up in the heat of the moment—that\nher true nature, slumbering beneath the refined facade of a highborn lady, had slipped out."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "—?! It's true that right then, I was so desperate to break out,\nmy legs were practically burning to run..."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Even so, I reined myself in immediately. Or at least, I thought I did...\nYet that single split-second of disorder... you saw it..."
+      "name": "Monologue",
+      "text": "She let herself get worked up. Under her\nmild-mannered demeanor,\nshe has a\nnatural competitiveness waiting to rear its\nhead."
     },
     {
       "name": "Satono Diamond",
-      "text": "Just... who are you? After witnessing merely one race,\nhow could you possibly understand me so deeply...?",
-      "choice_data_list": [
-        "Because I was captivated by your running.",
-        "It's simply because your running captivated me."
-      ]
-    },
-    {
-      "text": "Because I was so captivated, your strengths and flaws laid bare before me in an instant. I might know nothing of prestigious lineages, but I could grasp the true essence of Satono Diamond in a heartbeat."
+      "text": "I <i>do</i> remember that! In that moment, my\nlegs were itching to break\nahead..."
     },
     {
       "name": "Satono Diamond",
-      "text": "No one... Not a single soul has ever told me such a thing.\nNone of the candidates who came for my trials... But you—"
+      "text": "But I regained my composure right after.\nAt least, I thought I did. To\nthink you still\nnoticed..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Just... who are you? Why were you able to\ngleam so much about me\nfrom a single\nrace?"
+    },
+    {
+      "name": "Monologue",
+      "text": "That fascination let me see past her family\nname and grasp who she\nreally was as a\nrunner, both her strengths and\nweaknesses."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nobody's... ever told me that before. Not\neven the trainers at the\ntrial. But you..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Fufu, isn't that wonderful? To stumble upon such a promising\ncandidate at a chance party like this."
+      "text": "Hehe, what a stroke of luck. To think\nyou'd find such a promising\ncandidate at a\nparty."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Satono-san, why not offer them a proper trial as well?\nWho knows, perhaps they will meet the high standards of the Satono Group—"
+      "text": "Satono, might I suggest holding a trial for\nthis trainer? I know the\nSatono Group has\nhigh standards, but—"
     },
     {
       "name": "Satono Diamond",
-      "text": "—You're hired.",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "You're hired."
     },
     {
       "name": "Satono Diamond",
-      "text": "You're hired! You... you are going to be my Trainer!\nYou are the one and only person I've been searching for. So, you're hired!"
+      "text": "You're hired! From now on... you're my\ntrainer! You're the exact\nperson I've been\nlooking for! So, you're hired!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Wait, Satono-san?! Surely you realize what an immense decision\nchoosing your Trainer is for the entire Satono family!"
+      "text": "Pardon?! Um, Satono?! Are you certain?\nYou must know how\nmomentous this\ndecision is for your family."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "This is not something you can decide on a whim based on intuition alone!\nFirst, you must return home and consult—"
+      "text": "Don't let your emotions carry you away! At\nleast go home and talk to\nyour—"
     },
     {
       "name": "Satono Diamond",
-      "text": "No, my mind is made up. Even the advice of McQueen-san, whom I hold\nin the highest esteem, cannot sway me on this."
+      "text": "No, I've made my decision. As much as I\nrespect you, McQueen, I\nwon't budge on\nthis."
     },
     {
       "name": "Satono Diamond",
-      "text": "My Trainer is this person! It has to be them and no one else.\nI know normally this is a matter for consultation, but..."
+      "text": "My trainer is right here—nobody else will\ndo! Normally, I'd consult my\nfamily first,\nbut..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Deciding everything by family consensus... is just another jinx. So I will trust my instincts and break it! No matter what anyone says, my Trainer is going to be you!"
+      "text": "If diving in headfirst is ill-advised, then it's\njust another jinx—which\nmeans I have to\nbreak it! No matter what anyone says,\nyou're my\ntrainer!"
     },
     {
       "name": "Satono Diamond",
-      "text": "It's decided. I've chosen you.\nYou'll accept, won't you? Please? Please?"
+      "text": "I've decided, and that's that! You'll\naccept, right? Right? Right?!"
     },
     {
-      "text": "Displaying an ironclad resolve unlike that of a meek highborn lady,\nSatono Diamond refused to let go of my hand until I gave a nod."
+      "name": "Monologue",
+      "text": "Her firm insistence is a stark contrast to\nher usual mild-mannered self.\nIn the end,\nshe doesn't let me go until I agree to be\nher trainer."
     }
-  ],
-  "no_wrap": true
+  ]
 }

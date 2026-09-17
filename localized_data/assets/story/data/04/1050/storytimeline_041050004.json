@@ -1,249 +1,226 @@
 {
   "title": "No more waiting.",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Rookie Trainer A",
-      "text": "—Come to think of it, did you hear?\nYou know, about that mock race this weekend."
+      "name": "New Trainer A",
+      "text": "Hey, did you hear? You know, about the\nscrimmage this weekend."
     },
     {
-      "name": "Mid-Career Trainer A",
-      "text": "Yeah, the one Narita Taishin is running in.\nI heard it's meant to re-evaluate her potential, but..."
+      "name": "Skilled Trainer A",
+      "text": "Right, the one Narita Taishin's going to\nrace in. \"Another chance to\nsee what she's\nreally made of,\" was it?"
     },
     {
-      "name": "Narrator",
-      "text": "Thanks to Winning Ticket shouting about it all across the academy day after day,\nword of the mock race had spread far and wide."
+      "name": "Monologue",
+      "text": "Everyone at the academy knows about the\nscrimmage thanks to\nWinning Ticket and\nher days-long spree of shouting all around\n\ncampus."
     },
     {
-      "name": "Narrator",
-      "text": "However, the buzz around it was—"
-    },
-    {
-      "name": "Veteran Trainer A",
-      "text": "You've got the precise tactician Biwa Hayahide, and the explosive Winning Ticket.\nThe other runners have all been making rapid progress, too..."
+      "name": "Monologue",
+      "text": "But the reactions to the big news are\nmixed."
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Honestly, the outcome seems pretty clear. ...More than that,\nI just hope she doesn't push herself too hard and end up getting hurt."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "…………。",
-      "choice_data_list": [
-        "Taishin—"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Seeing Narita Taishin looking down with a grim expression, I instinctively call out to her."
-    },
-    {
-      "name": "Narrator",
-      "text": "They seem to be quite close, so she's likely the one who understands\nthe true strength of Biwa Hayahide and Winning Ticket better than anyone.",
-      "choice_data_list": [
-        "Are you feeling the pressure?",
-        "Feeling pressured?"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...Shut up."
-    },
-    {
-      "name": "Narrator",
-      "text": "Narita Taishin's expression remains stiff. But in my mind,\nher breathtaking late kick from that race footage is still burned clear—",
-      "choice_data_list": [
-        "...You don't need to get dragged into the battle for position."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Huh? ...Who asked you, know-it-all?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "You're telling me to just do nothing and lose because it looks bad...!?",
-      "choice_data_list": [
-        "No, because doing that is how you'll win!",
-        "No, doing that is how you win!"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...Gh, what?",
-      "choice_data_list": [
-        "Bide your strength in the early stretch."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Like that'll... But, if someone huge like Hayahide\npulls way ahead and runs away with it...!",
-      "choice_data_list": [
-        "When it comes to late kick sharpness, you won't lose to anyone!",
-        "When it comes to finishing speed, no one can beat you!"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "—Gh..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...Seriously, what is your deal...\nYou make no sense, and you're way too intense..."
-    },
-    {
-      "name": "Narrator",
-      "text": "I don't know if I truly got through to her."
-    },
-    {
-      "name": "Narrator",
-      "text": "Even so—the starting gates open."
-    },
-    {
-      "name": "Narrator",
-      "text": "(—CLANG!!)"
-    },
-    {
-      "name": "Mid-Career Trainer A",
-      "text": "Ooh... Biwa Hayahide's setting a great pace.\nShe's found herself a prime spot in the front pack."
-    },
-    {
-      "name": "Rookie Trainer A",
-      "text": "Winning Ticket looks in high spirits today too, probably since so many familiar faces are running! I can't wait for the final stretch."
+      "text": "Biwa Hayahide is precise, and Winning\nTicket runs like a rocket. And\nit isn't just\nthem... The other racers have been training\njust as hard."
     },
     {
       "name": "Veteran Trainer A",
-      "text": "...Oh? Narita Taishin is so far back...\nDid she botch her start, I wonder?",
-      "choice_data_list": [
-        "……！"
-      ]
+      "text": "There's no way Taishin's winning this. I just\nhope she doesn't overdo it\nand get hurt."
     },
     {
       "name": "Narita Taishin",
-      "text": "*pant*... *pant*... *pant*..."
+      "text": "..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I try approaching the glum-looking racer."
+    },
+    {
+      "name": "Monologue",
+      "text": "She's close with Biwa Hayahide and\nWinning Ticket, so she probably\nknows\nmore about their much-talked-about\nabilities than most."
     },
     {
       "name": "Narita Taishin",
-      "text": "(...Damn it, I'm panicking. The space ahead is getting boxed in...\nIt looks like a wall...)"
+      "text": "Who asked you?"
+    },
+    {
+      "name": "Monologue",
+      "text": "She looks grim, but I still remember that\nvideo—her fiery sprint down\nthe\nhomestretch."
     },
     {
       "name": "Narita Taishin",
-      "text": "(But—)"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"There's no need to get caught up in the scuffle for position.\")"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"Save your strength during the early stretch.\")"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"No—it's because running that way will let you win!\")"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"No—it's because running that way will let you win!\")"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"When it comes to that razor-sharp final kick, you won't lose to anyone!!\")"
-    },
-    {
-      "name": "Narrator",
-      "text": "(\"When it comes to that razor-sharp final kick, you won't lose to anyone!!\")"
+      "text": "Excuse me? Who do you think you're\ntalking to?"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Gah, give me a break."
+      "text": "You mean I'm already a disgrace? So I\nshould just lose without making\na damn\nfuss?!"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "Here it comes, the fourth corner...! \nAh, Winning Ticket is making her move!!"
+      "name": "Narita Taishin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "That's insane... If I let the big runners like\nHayahide get ahead, I'll\nnever catch up!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I don't get it... What are <i>you</i> getting all\nbothered for?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm not sure if she really got my advice."
+    },
+    {
+      "name": "Monologue",
+      "text": "But it's too late now—the gates are\nopening!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Clank!</i>"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Wow... Biwa Hayahide's off in excellent\nform. She's got a nice\nposition in the front."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Winning Ticket too. Must be in a good\nmood 'cause she knows so\nmany of the\nracers! I can't wait to see her in the last\nstretch!"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Huh? Narita Taishin's way in back... I\nwonder if she tripped up her\nstart."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Huff... Puff...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Crap, I can't take this. The front's getting\nblocked off... It's like a\nwall.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(But...)"
+    },
+    {
+      "name": "Monologue",
+      "text": "\"You don't need to get caught up in the\nfight for position.\""
+    },
+    {
+      "name": "Monologue",
+      "text": "\"Take it slow in the beginning.\""
+    },
+    {
+      "name": "Monologue",
+      "text": "\"Wait! I mean, if you don't fight, you can\nwin!\""
+    },
+    {
+      "name": "Monologue",
+      "text": "\"Wait! I mean, if you don't fight, you can\nwin!\""
+    },
+    {
+      "name": "Monologue",
+      "text": "\"With your breakaway speed, you can\novertake anyone!\""
+    },
+    {
+      "name": "Monologue",
+      "text": "\"With your breakaway speed, you can\novertake anyone!\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Fine."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Here it is, the last corner! Ah, Winning\nTicket's coming up fast!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Doryaaaaaaahhhhhh!!\nFULL! THROTTLE! DASHHHHHHH!!"
+      "text": "RAAAAAGH! FULL SPEED AHEEEAD!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Heh, precisely as calculated, Winning Ticket...!"
+      "text": "Heh, as I predicted, Winning Ticket!"
     },
     {
-      "name": "Mid-Level Trainer A",
-      "text": "Biwa Hayahide and Winning Ticket!\nIs this really coming down to a showdown between the top two...?!"
-    },
-    {
-      "name": "Veteran Trainer A",
-      "text": "—! No, on the outside...!!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "—Haaaaah!!"
+      "name": "Skilled Trainer A",
+      "text": "It's Biwa Hayahide and Winning Ticket!\nWill it come down to a fight\nbetween\nthose two powerhouses?!"
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Narita Taishin...?! \nW-What unbelievable burst in that final kick?!"
+      "text": "Wait! From the outside!"
     },
     {
       "name": "Narita Taishin",
-      "text": "(That's right, don't just stand there, don't look away!\nLook at me! Look at me!!)"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "(I am—a racer, a horsegirl... Narita Taishin!!)"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Aaaaaaaaggghhh!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "It was even sharper than what I'd seen on video...\nA bona fide razor's edge forged by unyielding perseverance and will."
-    },
-    {
-      "name": "Narrator",
-      "text": "—Claiming victory in a photo finish that left the crowd breathless was Narita Taishin.\nBiwa Hayahide and Winning Ticket crossed the line right behind her."
-    },
-    {
-      "name": "Narrator",
-      "text": "It had been an incredible race—one that fully demonstrated\nthe boundless potential held by the horsegirl known as Narita Taishin..."
+      "text": "Haaaaargh!"
     },
     {
       "name": "Veteran Trainer A",
-      "text": "...It seems I still have a lot to learn as a trainer.\nTo think I misjudged someone of your caliber—"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "...Aaaaaaarrrrgggghhhh!!\nI'm so frikkiiiinnnn' frustrated!!"
+      "text": "Narita Taishin?! Look at that burst of\nspeed!"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Stop that.\nYour shouting right after a race is seriously giving me a headache."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "B-But, but, but! —I gave it everything I had!\nJust like always, I was gonna win for sure!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "And yet... I still couldn't catch you!!\nMy heart is totally on fire right now...!!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "So!! Next time, for sure, for sure, absolutely, positively foooorrrrr suuuuure!!\nLet's go all out in a race again, Taishin!!!!"
+      "text": "(This is it—don't lose focus! Keep your\neyes on me! Watch me do\nthis!)"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ticket—"
+      "text": "(I'm Narita Taishin, a trueborn racer!)"
     },
     {
       "name": "Narita Taishin",
-      "text": "......Haha.\nYou're too loud, so no way, dummy."
+      "text": "Aaaaagh!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She's even more focused than in the\nvideo... Like a blade forged from\nall her\nwillpower and perseverance, she cuts\nstraight to the front."
+    },
+    {
+      "name": "Monologue",
+      "text": "Everyone holds their breath as it ends, and\nNarita Taishin wins a close\nfinish. Following\nher are Biwa Hayahide and Winning\nTicket."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's more than enough to make her full\npotential known—a truly\nstunning race."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Well, looks like I still have some studying\nto do. How could I misjudge\na racer like\nher?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aaaaagh! I looost!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Knock it off. I can't deal with your painful\nwhining so soon after a\nrace."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "But, but, but! I went all out! I really\nthought I was gonna be all like,\n\"Yay, I\nwon,\" like always!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "But... I just couldn't keep up with you! I'm\nstill burning with\nexcitement!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That's why! We should definitely, no,\n<i>ABSOLUTELY</i> race again with\neverything\nwe've got!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Haha. No thanks, I can't take anymore of\nyour screaming, dummy."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...It seems the message behind our entry reached you after all."
+      "text": "I believe we've communicated our reasons\nfor wanting to help well\nenough."
     },
     {
       "name": "Narita Taishin",
@@ -251,43 +228,35 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Losing a worthy rival at this stage was something we couldn't overlook.\n...That is all there is to it."
+      "text": "None of us can afford to lose our most\npowerful rivals here. We're in\nthis\ntogether."
     },
     {
       "name": "Narita Taishin",
-      "text": "...You guys are so corny."
+      "text": "Enough with the touchy-feely talk."
     },
     {
-      "name": "Narrator",
-      "text": "—It was after that when Narita Taishin walked over to me\nwith somewhat hesitant steps."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "..................Hey, um."
+      "name": "Monologue",
+      "text": "The commotion dies down, and Narita\nTaishin hesitantly walks over to\nme."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ticket beat you to the punch the other day.\n...So say it now. You know... that thing.",
-      "choice_data_list": [
-        "...\"I'm sho moffed\"?"
-      ]
+      "text": "Um... Hey."
     },
     {
       "name": "Narita Taishin",
-      "text": "Not that!! Stupid, you want me to kick you?!\nI mean the OTHER thing...!!",
-      "choice_data_list": [
-        "Let me scout you!",
-        "Please let me scout you!"
-      ]
+      "text": "So, Ticket put words in your mouth the\nother day, but uh... If you\n<i>really,</i> um,\ny'know... You can say it now."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah......"
+      "text": "NO, you idiot! I'll kick your ass! I mean,\nwhether you want to..."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Yeah. ...Looking forward to working with you."
+      "text": "Ah..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yeah... Sure."
     }
-  ],
-  "no_wrap": true
+  ]
 }

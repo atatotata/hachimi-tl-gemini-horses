@@ -1,234 +1,210 @@
 {
   "title": "Sprint! The Turf Leading to Tomorrow!",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Bamboo Memory",
-      "text": "Haa, haa, haa, haa...\nI-Instructor! How was that!?"
+      "text": "<i>Huff, huff...</i> Well, Instructor! How'd I do?!"
     },
     {
       "name": "Veteran Instructor",
-      "text": "...Indeed. You ran better than I had anticipated."
+      "text": "...I have to say, you did much better than I\nthought possible."
     },
     {
-      "name": "Narrator",
-      "text": "She wanted to show her running on turf to put their worries to rest――\nYet the instructor who came at Bamboo Memory's request remained expressionless."
+      "name": "Monologue",
+      "text": "We invited the class instructor to watch a\nlap on turf. Bamboo was\nreally hoping it'd\nreassure her that it's safe, but the\ninstructor has a\nstiff, blank expression."
     },
     {
       "name": "Bamboo Memory",
-      "text": "U-Um, Instructor! I'm sorry for being so selfish!!\nBut I really believe I can compete in the Exhibition Meet like this!!"
+      "text": "R-right? So, um... I know this goes against\nwhat you recommended,\nbut still! I really\nthink I'm in good shape to run turf at the\nTracen\nMeet!"
     },
     {
       "name": "Veteran Instructor",
-      "text": "...I have seen your capability quite clearly.\nAs well as your desire to run on turf. However――"
+      "text": "...That run demonstrated your strength,\nloud and clear. I see how\npassionate you\nare about turf. However..."
     },
     {
       "name": "Veteran Instructor",
-      "text": "――What about you, Trainer? Do you have the confidence\nto let this girl run on turf without leaving her with regrets?"
+      "text": "I would like to hear <i>your</i> thoughts as well,\nTrainer. Are you confident\nthat you can\nkeep Bamboo Memory both safe and\nsuccessful on turf?"
     },
     {
-      "name": "Narrator",
-      "text": "My heart skipped a beat. Switching to turf in such a short window\nwas a decision that could make or break a horsegirl's entire career. But――",
-      "choice_data_list": [
-        "She'll be fine. Bamboo can compete on turf."
-      ]
+      "name": "Monologue",
+      "text": "I can't help but hesitate. If I switch\nBamboo over too soon, it could\naffect the\nrest of her career. I know that, but... But!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "――!! Yes!!\nThat's right, I can fight!!"
+      "text": "...Ah! YEAH! I'm ready! I'll be completely\nfine!"
     },
     {
-      "name": "Narrator",
-      "text": "Bamboo Memory had already made her choice.\nIf so, my role was clear."
+      "name": "Monologue",
+      "text": "This is Bamboo's choice to make, not mine.\nShe wants to run turf, so\nI'll do everything\nin my power to support that."
     },
     {
       "name": "Veteran Instructor",
-      "text": "...Understood. I am glad for you, Bamboo.\nYou have found yourself a wonderful partner."
+      "text": "I see. You're a lucky one, Bamboo. It\nseems that you've found yourself\nan\nexcellent partner."
     },
     {
       "name": "Bamboo Memory",
-      "text": "――Yes, ma'am!"
+      "text": "Yeah!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, just as she had hoped, Bamboo Memory was officially entered\ninto the 1,600m turf race at the Exhibition Meet."
+      "name": "Monologue",
+      "text": "With that resolved, we sign up Bamboo for\nthe Tracen Meet's\n1,600-meter turf\nrace—the goal she's been working so hard\ntowards."
     },
     {
-      "name": "Narrator",
-      "text": "――The day of the Exhibition Meet was struck by foul weather,\nbut past midday, the rain cleared, giving way to patches of blue sky."
+      "name": "Monologue",
+      "text": "We arrive at the Meet in pouring rain, but\nluckily it clears up in the\nafternoon."
     },
     {
-      "name": "Narrator",
-      "text": "(Woooooahhh...!!)"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "(I guess it makes sense, but Oguri-senpai had no clue who I was.)"
+      "name": "Monologue",
+      "text": "Woooo!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Oguri-senpai! Good to meet you!\nLooking forward to running with you today!"
+      "text": "(I can't say I'm surprised, but it kinda\nstings that Oguri didn't\nrecognize me.)"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Oguri! Good morning! Here's to a good\nmatch today!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah, you're running in this race too? Let's have a good one."
+      "text": "Oh, are you running in the same race as\nme? Good luck."
     },
     {
       "name": "Bamboo Memory",
-      "text": "――Once today's race is over!\nI'm confident you'll remember my name for sure."
+      "text": "When she leaves the track today, she's\ngonna know my name—I swear\nit."
     },
     {
-      "name": "Narrator",
-      "text": "(――CLANG!!)"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "(Today, I'm staying behind Oguri-senpai...!\nI wanna break away so bad! I wanna overtake and pull ahead! But...!)"
+      "name": "Monologue",
+      "text": "<i>Bang!</i>"
     },
     {
       "name": "Bamboo Memory",
-      "text": "(Don't go too fast, don't rush it, me!\nRemember what the Trainer told you!!)"
-    },
-    {
-      "name": "Announcer",
-      "text": "Bamboo Memory, normally an aggressive frontrunner, holds back in the rear!\nIs she taking a cautious approach for her first time on turf!?",
-      "choice_data_list": [
-        "(Alright, looking good...!)",
-        "(Alright, looking good...!)"
-      ]
+      "text": "(Remember the plan—stick right behind\nOguri! Don't jump to the lead\nyet, even if\nit seems tempting!)"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Why'd you stop me just now?\nI thought I was flying at a great pace right from the start!",
-      "choice_data_list": [
-        "Putting out too much speed right from the start isn't good either."
-      ]
+      "text": "(Just stay steady! Don't lose my cool! And\ndon't forget what Trainer\nsaid!)"
+    },
+    {
+      "name": "Caster",
+      "text": "Bamboo Memory usually leaps ahead, but\nshe's hanging near the\nback today! Is she\nplaying things safe for her first ever turf\nrace?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Mmh. So I shouldn't just charge in with a full-power \"Waaah!\"?\nI'm at my most energetic and fastest at the start, though!",
-      "choice_data_list": [
-        "But you took your time with your nail care, didn't you?",
-        "But you took your time with your nail care, didn't you?"
-      ]
+      "text": "Wait, why did you stop me? I was off to a\nsuper great start!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Well, yeah, 'cause that's like hot-blooded training too!\nDoing it bit by bit every day is what counts――"
+      "text": "Hmmm... Isn't that the best time to go\nall-out and shoot ahead,\nthough? The\nstart's when I've got the most energy!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "――Ah, wait. Does that go for racing too?"
-    },
-    {
-      "name": "Narrator",
-      "text": "Bamboo Memory's greatest weapon is the explosive power that chases her dreams.\nBide her time, conserve her energy, and unleash it all the moment they let their guard down."
+      "text": "No way. I always do it just like my red-hot\nroutine! Step by step, a\nlittle each da—"
     },
     {
       "name": "Bamboo Memory",
-      "text": "(Thanks to all that steady, hard work with my Trainer,\nI'm able to stand and fight here. That's why...!)"
+      "text": "Oh. Wait! I've gotta take races\nstep-by-step too, huh?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Bamboo's greatest strength is the red-hot\npassion she pursues her\ndreams with. I\nwant her to hide it—to feint her rivals out,\nthen blast\npast them at the end."
     },
     {
       "name": "Bamboo Memory",
-      "text": "(I've only got one job to do.\nBelieve in my Trainer, and believe in my dream!!)"
+      "text": "(We've been working towards this, day by\nday. The steady approach\ngot me this far!\nSo now—)"
     },
     {
-      "name": "Announcer",
-      "text": "The lead pack remains bunched tight rounding the fourth corner!\nJust ahead lies the final straight―― Wait, what's this!?",
-      "choice_data_list": [
-        "Go, Bamboo!!"
-      ]
+      "name": "Bamboo Memory",
+      "text": "(Now I've just gotta believe! I believe in\nTrainer! My dreams! And\nmyself!)"
     },
     {
-      "name": "Announcer",
-      "text": "Bamboo Memory breaks out from the outside! What incredible momentum!\nShe wasn't out of form! She was conserving her energy from behind all along!"
+      "name": "Caster",
+      "text": "The front pack is still closely-knit as our\nracers begin rounding the\nfourth corner!\nThey're almost at the final—oh?!"
+    },
+    {
+      "name": "Caster",
+      "text": "Bamboo Memory shoots ahead on the\noutside! What incredible\nspeed! She wasn't\nstruggling on the turf—she was just biding\nher time!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...Tch!?"
+      "text": "...?!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "(I'll reach her, I'll reach her, I'm gonna make it reach!!\nI'm catching up―― to my rival!!)"
+      "text": "(C'mon, c'mon! I've gotta catch her! I'm\ngonna reach my rival—and\nthen surpass\nher!)"
     },
     {
       "name": "Bamboo Memory",
-      "text": "TOOOOOHHHH!!"
+      "text": "TYAAAAAAAH!"
     },
     {
-      "name": "Narrator",
-      "text": "A fierce gust of wind tore through. Right before my eyes where I stood\nwatching near the final straight, Bamboo Memory surged past."
+      "name": "Monologue",
+      "text": "I'm standing just before the goal. There's a\nhowling blast of wind as\nBamboo charges\npast me."
     },
     {
-      "name": "Narrator",
-      "text": "In that single moment, without a doubt――\nBamboo Memory was running ahead of Oguri Cap."
+      "name": "Monologue",
+      "text": "And in that moment, I could have sworn\nBamboo Memory was in front\nof Oguri\nCap."
     },
     {
-      "name": "Announcer",
-      "text": "Is it the inside!? The outside!? It's slightly on the inside!\nFighting back to seize victory is Oguri Cap!"
+      "name": "Caster",
+      "text": "Is it Oguri? Or Bamboo?! It might be\nOguri! And it <i>is</i> Oguri Cap, first\nto finish!"
     },
     {
-      "name": "Announcer",
-      "text": "Second place goes to Bamboo Memory by a nose! What an upset!\nIn third place is――"
+      "name": "Caster",
+      "text": "Bamboo Memory is second by just a nose!\nWhat a heart-pounding\nfinish! In third,\nthere's—"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Haa, haa, haa...! Ahhh, I lost...!"
+      "text": "<i>Huff... Huff...</i> AAAAGH! I can't believe I\nlost!"
     },
     {
       "name": "Oguri Cap",
-      "text": "...You. Bamboo Memory."
+      "text": "You're... Bamboo Memory, right?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh―― Ah, Oguri-senpai! Thanks for the great race!!\nWait, did I introduce myself to you?"
+      "text": "Nn? Wh-whoa! Oguri! That was some great\nrunning out there! But um,\nhow did you\nknow my name?"
     },
     {
       "name": "Oguri Cap",
-      "text": "The commentator shouted it so many times, it stuck in my head.\n...That was a great race. I want to race you again."
+      "text": "With the caster shouting it like that, it'd\nbe hard not to remember...\nAnd... that was\nan amazing race. I hope to run with you\nagain."
     },
     {
       "name": "Bamboo Memory",
-      "text": "...!! Of course!!\nAbsolutely!! Let's definitely run together again, Oguri-senpai!!"
+      "text": "Of... OF COURSE! I promise—you haven't\nseen the last of me, Oguri!"
     },
     {
-      "name": "Narrator",
-      "text": "Bamboo Memory had stayed as cheerful as ever until the meet wrapped up,\nbut the moment the Trainer's Office door clicked shut, her breath caught in her throat."
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Trai... ner... ...Ugh.",
-      "choice_data_list": [
-        "You fought so hard...!",
-        "You fought so hard...!"
-      ]
+      "name": "Monologue",
+      "text": "Bamboo is her usual bright, sporty self for\nthe rest of the Tracen\nMeet, but the\nsecond we get back to my office, she lets\nout a choked\nbreath."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Ngh... Unghhh...!\nIt's so frustrating! Trainer, I'm just so, so frustrated...!",
-      "choice_data_list": [
-        "We'll win next time!!"
-      ]
+      "text": "Trainer, I..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes!! Absolutely, sir!!\nWill you keep walking this path with me, Trainer?!"
-    },
-    {
-      "name": "Narrator",
-      "text": "I gave her a firm nod.\nWe would defeat Oguri Cap in the Twinkle Series."
-    },
-    {
-      "name": "Narrator",
-      "text": "My journey with Bamboo Memory, who sought fierce battles above all else,\nhad only just begun, but—"
+      "text": "<i>Sniff... Sob!</i> It's just—it's so, <i>so</i> frustrating!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Once again, I'll be in your care, sir!!"
+      "text": "Yeah! We will! And you'll be with me as my\ntrainer, right?!"
     },
     {
-      "name": "Narrator",
-      "text": "—I felt certain that with this much burning passion,\nwe could incinerate any thorny path ahead of us."
+      "name": "Monologue",
+      "text": "I nod and meet her gaze. We'll take Oguri\nCap down in the Twinkle\nSeries!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of us have only just started our\njourney together, but\nknowing Bamboo,\nthere'll be no shortage of red-hot battles\nahead."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Well then, I'm lookin' forward to it,\nTrainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "With the fire in her heart, she'll burn\nthrough any obstacles in her\npath."
     }
-  ],
-  "no_wrap": true
+  ]
 }

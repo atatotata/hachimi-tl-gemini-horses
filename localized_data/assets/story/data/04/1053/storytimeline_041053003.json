@@ -1,230 +1,186 @@
 {
   "title": "The Power of Dreams! Proof of Strength!",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "The next morning, I arrived at the academy grounds earlier than usual once again. This time it wasn't by coincidence, but with a clear purpose."
+      "name": "Monologue",
+      "text": "The next day, I purposely get up early and\nhead to the grounds. I've\ngot a plan."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hmm, maybe I shouldn't run on the turf today... But I still wanna train just a little bit more.",
-      "choice_data_list": [
-        "Bamboo!"
-      ]
+      "text": "Hmm... Much as I'd rather not, maybe I\nshould skip the turf today. But\nthen again,\nI wouldn't want to cut my practice session\nthis short..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh, Trainer?! What's up? Did you wake up super early again?",
-      "choice_data_list": [
-        "Will you let me help you take care of your hooves?",
-        "Will you let me help you take care of your hooves?"
-      ]
+      "text": "Huh? You're that trainer! What are you\ndoing here? Did you wake up\nearly again?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh?! A-Are you sure?! But we barely just met the other day!!",
-      "choice_data_list": [
-        "I'll make sure you can compete on turf.",
-        "I'll make sure you can compete on turf."
-      ]
+      "text": "Really?! I-I mean, you would do that? We\njust met the other day!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Compete on turf—\nLike, enough to properly go toe-to-toe with Oguri-senpai?"
+      "text": "Me, compete on turf... Do you think I'll\nreally be able to go\ntoe-to-toe with\nOguri?"
     },
     {
-      "name": "Narrator",
-      "text": "I give a firm nod. I intended to do everything necessary to ensure her conditioning was flawless."
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "...! In that case, I gotta give it everything I've got too!! Wait, that means I'm allowed to go all out, right?!"
+      "name": "Monologue",
+      "text": "I look her straight in the eyes, then nod.\nI'll handle all the checks and\nmaintenance."
     },
     {
       "name": "Bamboo Memory",
-      "text": "I'm counting on you, Trainer!! I swear... I'm gonna win this!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "After school, Bamboo Memory and I sat down for a strategy meeting."
+      "text": "<i>Gasp!</i> Then I'll work as hard as I possibly\ncan! Assuming that's all right\nwith you, of\ncourse!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "So basically, we're gonna train while keeping a close eye on my hooves, right?",
-      "choice_data_list": [
-        "Right. It might feel frustrating at times, but...",
-        "Right. It might feel frustrating at times, but..."
-      ]
+      "text": "I can't wait to start practicing with you!\nAnd I swear—I'll bring you\nvictory!"
     },
     {
-      "name": "Narrator",
-      "text": "The reason Bamboo Memory focused primarily on dirt was because dirt courses produce less speed, reducing the impact on her legs."
-    },
-    {
-      "name": "Narrator",
-      "text": "Conversely, turf is smoother and makes it easier to build speed, but that momentum carries a significantly harsher impact."
-    },
-    {
-      "name": "Narrator",
-      "text": "That meant we couldn't jump straight into high-load training. We needed to proceed gradually, prioritizing hoof care above all else."
+      "name": "Monologue",
+      "text": "Later, after her classes, Bamboo Memory\nand I meet up to discuss our\nplans."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Understood!! To be totally honest, I really wanna go wild and train like crazy, but...!!"
+      "text": "So basically, I can train, but foot care\ncomes first! ...Or something like\nthat?"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's a good reason she's been\npracticing on dirt. It's more difficult\nto gain\nspeed on dirt, so it puts less strain on her\nfeet."
+    },
+    {
+      "name": "Monologue",
+      "text": "On the other hand, it is easier to run faster\non turf, but the tradeoff is\nthat it puts\nmore strain on the feet."
+    },
+    {
+      "name": "Monologue",
+      "text": "With how brittle her nails are, I can't\nswitch Bamboo entirely to turf\nyet. We're\ngoing to take the transition gradually and\nfocus on\nstrengthening her nails first."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Strengthening my hooves is part of the training too!! I promise I'll do exactly what you say!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Another day――"
+      "text": "Gotcha! I mean, you know I'd love to get\nout there and run this\ninstant, but still!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "T-Trainer!\nWhat's with all these fancy-looking cosmetics!?",
-      "choice_data_list": [
-        "They're nail oil and top coat!",
-        "They're nail oil and top coat!"
-      ]
+      "text": "Learning to take care of my nails is still\nlearning! I promise, I'll follow\nall your\ninstructions to a tee!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It's a new day, and..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Nail... Ah, I know this stuff!\nYou paint it on your nails, right!? Is this part of training too!?",
-      "choice_data_list": [
-        "Spot on!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Apply oil to moisturize, and a top coat to protect the nail. Nail care\nis a perfectly valid form of conditioning!"
+      "text": "Whoa, Trainer! What's with the cutesy\nlittle bottles?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "All right, got it! Ah, but I've never really\ndabbled in this kind of stuff before, y'know?"
+      "text": "...Cuticle? Oh, is that the stuff for nails?\nThose'll make them stronger,\nright? Are\nyou gonna teach me how they work?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Racers need to be in tip-top condition. I'm\ngoing to show her how to\nmoisturize and\nshield her nails so she can keep them in\ngood shape."
     },
     {
       "name": "Bamboo Memory",
-      "text": "So please! Teach me how to do proper nail care!\n'Cause I wanna be able to do it myself!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Yet another day――"
+      "text": "All right, sounds good! But just so you\nknow, I've never done\npedicures or even\npainted my nails before."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Fire up, Hot-Blooded Training!! Number twenty!!\nExplosive Heat Acceleration! Peregrine Falcon Switchback Drills!! ――Complete!!",
-      "choice_data_list": [
-        "Great work!"
-      ]
+      "text": "So please, explain it all in extra detail! I\nwanna make sure I can do it\nmyself too!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And on yet another day..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Trainer, this new \"Hot-Blooded Training\"\nroutine you put together feels amazing!",
-      "choice_data_list": [
-        "That's because the original routine was already great.",
-        "That's because the original routine was already great."
-      ]
+      "text": "We're turning up the heat with this one!\nRed-hot routine—step\ntwenty! Lightspeed\nLaunches and Falcon Swoop Sweeerves!\n...And\ndone!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yeah! It still totally feels like Dad's workouts!!\nGets me fired right up!!"
+      "text": "Thanks, Trainer! The new-and-improved\nred-hot routine you made is\nworking great!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "To tell the truth, though... I kinda feel like\nrunning just a little bit more~...",
-      "choice_data_list": [
-        "Patience is part of training too."
-      ]
+      "text": "Yeah! I can tell—the steps are new, but it's\nstill got Dad's style! It\nreally gets you\npumped to work out!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes, sir!!\n――Hehe. Dad used to say something like that too."
+      "text": "The only critique I've got is that I kiiinda\nwish there were more laps\non the track."
     },
     {
       "name": "Bamboo Memory",
-      "text": "You're totally right, self-control is hot-blooded training too!!\nAlright, time to endure with all my fiery might~~!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "On another day―― Bamboo Memory stood watching\nthe other horsegirls giving their all in training.",
-      "choice_data_list": [
-        "...Do you want to run more?"
-      ]
+      "text": "True! Heheh, Dad says that a lot too."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Well, yeah. Honestly, I'm getting antsy!"
+      "text": "\"You've gotta take red-hot breaks to stay\nin red-hot shape!\" ...So <i>I'm</i>\ngonna rest\nharder than ANYONE!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Days later, I catch Bamboo Memory gazing\nwistfully at the\nUmamusume training on\nthe track."
     },
     {
       "name": "Bamboo Memory",
-      "text": "But we made a promise, right? That you'd get me ready to fight on turf.\nAnd if my Trainer says so――"
+      "text": "Well, yeah. Deep down, I'm feeling pretty\nrestless!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "All I gotta do is believe. And once I believe in something, I never back down!\nDad taught me that too!!",
-      "choice_data_list": [
-        "...Thank you."
-      ]
+      "text": "But you gave me your word. You promised\nthat you'd get me ready\nfor turf, and I\nknow you meant it."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh, why're you thanking me, Trainer!?\nI'm the one who should be thanking you, always!!"
+      "text": "So I'll trust your judgment. 'Cause a good\nathlete never loses faith in\nthose they\ntrust! Dad taught me better than to give\nup hope now!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Oh, I almost forgot! That nail oil you gave me is\nrunning out! Where do you buy that stuff?",
-      "choice_data_list": [
-        "Ah, that's――"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "...To be frank, I had considered the possibility she might quit halfway through.\nKeeping up with steady, unglamorous conditioning is surprisingly hard."
+      "text": "Wait, why're <i>you</i> thanking <i>me?!</i> I'm the\none who should be grateful for\nall you do!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I see, so they sell it at drugstores! I'll buy the second\nbottle myself—I've gotten pretty used to taking care of 'em now!"
+      "text": "Oh, speaking of which! Remember the\ncuticle oil you got me? I'm\nalmost out, so\ncould you tell me where you got it?"
     },
     {
-      "name": "Narrator",
-      "text": "And yet, Bamboo Memory placed complete trust in someone she had only\njust met. It was a testament to her honest nature――"
-    },
-    {
-      "name": "Narrator",
-      "text": "And an undeniable reminder of just how\nunshakeable her devotion to her dream really was."
-    },
-    {
-      "name": "Narrator",
-      "text": "A few more days passed―― right around the time\nBamboo Memory opened her second bottle of nail oil."
+      "name": "Monologue",
+      "text": "I'm at a bit of a loss for words. It's\nsurprisingly hard to get students to\n\nmaintain routines outside lessons. Most\nwould've forgotten the\ntedious\nmaintenance stuff by now..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hah... hah... hah... hah...!"
+      "text": "The drugstore? Gotcha! I'll zip over and\nrestock, so leave the nail\ncare stuff to me!"
     },
     {
-      "name": "Narrator",
-      "text": "Her footing was light. Compared to when she first started\ntraining on turf, her times had improved dramatically."
+      "name": "Monologue",
+      "text": "It hasn't even been that long since we met,\nbut Bamboo's so\ndedicated to everything I\nteach her... It just goes to show what a\nhard\nworker she is."
     },
     {
-      "name": "Narrator",
-      "text": "Of course, meticulous aftercare would still be necessary.\nHer hoof concerns hadn't completely vanished, but――",
-      "choice_data_list": [
-        "Keep it up, Bamboo!"
-      ]
+      "name": "Monologue",
+      "text": "And most of all, it drives home just how\ndetermined she is to make\nher dreams\ncome true."
     },
     {
-      "name": "Bamboo Memory",
-      "text": "(I'm good, I can do this. With this――)"
+      "name": "Monologue",
+      "text": "We keep up our training, and several days\nlater, around the time\nBamboo opens her\nsecond bottle of cuticle oil..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "I can fight Oguri-senpai!!"
+      "text": "<i>Huff... Huff...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "The continuous care and rigorous training had borne fruit.\nLooking at her peak condition, one couldn't help but feel her boundless potential...!"
+      "name": "Monologue",
+      "text": "Her steps are light and smooth, and I'm\npleased to see that she's cut\ndown her\ntime drastically from her early turf runs."
+    },
+    {
+      "name": "Monologue",
+      "text": "We've still gotta stay vigilant and make\nsure we're not putting too\nmuch strain on\nBamboo's feet, but for now..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "(All right, I've got this. And now...)"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "I'll have a shot against Oguri!"
+    },
+    {
+      "name": "Monologue",
+      "text": "All the effort she's been pouring into\ntraining and maintenance is\npaying off\ntwo-fold! If we keep this up, she's going to\naccomplish big\nthings!"
     }
-  ],
-  "no_wrap": true
+  ]
 }
