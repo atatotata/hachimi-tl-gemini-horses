@@ -1,3 +1,6 @@
+## 2026-09-17 -- Global official EN career stories
+8045 single-mode timelines overlaid from Global bundles (same chacha20 pipeline). Replaces Gemini JP career translations with official EN; 466 shared timeline IDs deduplicated.
+
 ## 2026-09-17 -- Global official EN stories
 736 story timelines (main/event/chara, 37,836 lines) overlaid from Global bundles via libnative chacha20 33B key. Replaces Gemini JP translations with official EN where Global has released them.
 
