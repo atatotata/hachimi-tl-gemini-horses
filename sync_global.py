@@ -4,9 +4,10 @@ sync_global.py — overlay Global official master.mdb EN over hachimi-tl-gemini-
 Priority enforced:  SD (cat 48) > Global > UmaTL > Gemini
 For all other categories: Global > UmaTL > Gemini (Gemini/UmaTL already baked into repo).
 
-Global master is plain SQLite (no key) — bundles via meta are BLOCKED until
-Global chacha20 key (A713...) is resolved, so this script handles master-derived
-dicts only: text_data_dict, character_system_text_dict, race_jikkyo_*.
+Global master is plain SQLite (no key) — bundles via meta are UNBLOCKED via
+Global sqlite3mc chacha20 33B key (Frida hook, see tools/umamusu-utils/scripts/decrypt_global_meta.py),
+so this script handles master-derived dicts only: text_data_dict, character_system_text_dict, race_jikkyo_*.
+Bundles (story/home/lyrics) read from local Persistent/dat via storage/meta_global_plain.db.
 
 Usage:
   python sync_global.py              # overlay from default Global install
@@ -53,7 +54,7 @@ def main():
     print(f"Global master: text_data {len(g_text)} | cst {len(g_cst)} | rjm {len(g_rjm)} | rjc {len(g_rjc)}", flush=True)
     print("Priority: SD(cat48) > Global > UmaTL > Gemini  (cat48 SD bypass keeps 2127 SD numeric)", flush=True)
     if not args.dry_run:
-        print("Meta bundles (story/home/lyrics) BLOCKED - Global meta key 12B invalid, needs runtime dump", flush=True)
+        print("Meta bundles (story/home/lyrics) UNBLOCKED - Global meta via libnative chacha20 33B key, see tools/umamusu-utils/scripts/decrypt_global_meta.py", flush=True)
 
     # Targets: hachimi-tl-gemini-horses + optional hachimi mirror
     targets = [GEMINI_DIR]
