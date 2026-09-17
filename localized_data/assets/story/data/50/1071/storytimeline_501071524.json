@@ -2,66 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while Mejiro Ardan was training—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while training with Mejiro\nArdan..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Haa... haa... haa...—",
-      "choice_data_list": []
+      "text": "<i>Pant... Pant... Pant...</i>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Ugh, my body feels so heavy. Could this \nbe—",
-      "choice_data_list": []
+      "text": "Ngh... My body feels sluggish. This is—"
     },
     {
-      "name": "Narrator",
-      "text": "(――CRACK!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Kh...!?",
-      "choice_data_list": [
-        "Ardan!?"
-      ]
+      "name": "Monologue",
+      "text": "<i>Crack!</i>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...I'm fine.",
-      "choice_data_list": []
+      "text": "Ouch?!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "My leg hurts a bit... But it's nothing \nserious, just a little rest and...—",
-      "choice_data_list": [
-        "No, let's call it a day."
-      ]
+      "text": "...I'm quite all right."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "......I am terribly sorry. It's all \nbecause of my own inadequacy—",
-      "choice_data_list": [
-        "No. It's my negligence as your trainer",
-        "No. It's my negligence as your trainer"
-      ]
+      "text": "My legs just feel a little... A short break\nis all I—"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Trainer...—",
-      "choice_data_list": []
+      "text": "...I'm so sorry. This is all down to my own\n\nnegligence."
     },
     {
-      "name": "Narrator",
-      "text": "...It seems running in consecutive races \nrecently has placed an excessive burden on \nMejiro Ardan's legs...",
-      "choice_data_list": []
+      "name": "Mejiro Ardan",
+      "text": "Trainer..."
     },
     {
-      "name": "Narrator",
-      "text": "I need to review her upcoming race \nschedule and rebuild it so she doesn't run \ntoo many races in a row...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "...It looks like the consecutive races\nMejiro Ardan\nhas been participating in\nlately have put\nconsiderable strain on\nher legs."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'd better review the racing schedule and\nmake\nsome revisions to ensure she won't\nhave so many\nraces back-to-back\nanymore."
     }
   ]
 }

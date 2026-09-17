@@ -2,60 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Rice Shower—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while out and about with Rice\nShower..."
     },
     {
       "name": "Rice Shower",
-      "text": "Ah...",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Ah..."
     },
     {
       "name": "Rice Shower",
-      "text": "U-Um, that crane game...",
-      "choice_data_list": []
+      "text": "U-umm... do you see the claw machine\nover\nthere?"
     },
     {
-      "name": "Narrator",
-      "text": "Looking where Rice Shower was pointing, I \nsaw a claw crane game filled with plushies \nmodeled after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Since everyone's been turned into \nplushies, I got a little curious...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She points toward a claw machine filled\nwith\nUmamusume plushies."
     },
     {
       "name": "Rice Shower",
-      "text": "Ehehe, so cute.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Though reserved, Rice Shower's eyes are \nsparkling with excitement.",
-      "choice_data_list": [
-        "I'll get it for you.",
-        "I'll get it for you."
-      ]
+      "text": "It looks like there are plushies of all my\nfriends in\nthere. I'm a little curious..."
     },
     {
       "name": "Rice Shower",
-      "text": "Huh... Are you really okay with that?",
-      "choice_data_list": []
+      "text": "They're so cute, hehe."
+    },
+    {
+      "name": "Monologue",
+      "text": "She's trying to show restraint, but she\nhas an\nobvious twinkle in her eye."
     },
     {
       "name": "Rice Shower",
-      "text": "I'm worried about Rice's bad luck, but... \nI'll be cheering for you!",
-      "choice_data_list": []
+      "text": "Really? Are you sure?"
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Rice Shower",
+      "text": "My bad luck might rub off on you... But\nI'll cheer\nyou on!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I can't afford to fail!"
     }
   ]
 }

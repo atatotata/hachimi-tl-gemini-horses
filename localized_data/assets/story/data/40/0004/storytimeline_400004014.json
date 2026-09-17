@@ -3,38 +3,31 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "<chrname> achieved <achievement_name>.",
-      "choice_data_list": []
+      "text": "<chrname> has earned\n\n<achievement_name>."
     },
     {
       "name": "Monologue",
-      "text": "<achievement_info>",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Then, one day, I was suddenly summoned to \nthe chairwoman's office.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Splendid!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "<chrname>'s performance was truly thrilling! \nSplendid! A massive breakthrough!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Splendid! You have achieved a great result \nthat will go down in Tracen Academy \nhistory—no, in Umamusume history!",
-      "choice_data_list": []
+      "text": "<achievement_info>"
     },
     {
       "name": "Monologue",
-      "text": "I received the highest praise directly \nfrom Chairwoman Akikawa...! It seems we \nachieved the best possible outcome!",
-      "choice_data_list": []
+      "text": "One day, I'm summoned out of the blue\nto the\ndirector's office."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Bravo!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "<chrname>'s performance\nhas been\nthe definition of <i>exhilarating!</i>\nPositively\ntremendous! Groundbreaking!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Well done! Your grand achievement will\ngo down\nin the annals of Tracen\nAcademy—nay, in <i>all</i> of\nUmamusume\nhistory!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Director Akikawa lavishes me with\nimmense\npraise, face-to-face! It sounds\nlike we've achieved\nthe best possible\nresult!"
     }
   ]
 }

@@ -2,21 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Otonashi Etsuko",
-      "text": "Congratulations! A splendid victory. … I'm \nvery impressed.",
-      "choice_data_list": [
-        "It's because of her hard work."
-      ]
+      "name": "Reporter Otonashi",
+      "text": "Congratulations! What a spectacular\nvictory."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "As I thought, you're the only ones who can \nmake this issue's big cover feature!"
+      "name": "Reporter Otonashi",
+      "text": "Now I'm certain. The next extra-large,\nfull-color\nspecial feature <i>has</i> to be about\nyou two!"
     },
     {
-      "text": "… A feature in Twinkle Monthly. We can \nexpect a big response!"
+      "name": "",
+      "text": "Sounds like we can expect a great\nresponse from\nthe next <i>Twinkle Monthly!</i>"
     },
     {
-      "text": "She praised <chrname> for her victory."
+      "name": "",
+      "text": "I go to praise <chrname> for\nher\nvictory."
     }
   ]
 }

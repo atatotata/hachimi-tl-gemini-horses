@@ -2,47 +2,36 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Wonder Acute didn't show up for training, \nso while searching for her, I spotted her \ncrafting something in a classroom...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Wonder Acute doesn't show up for\ntraining. After\nsearching for a while, I\neventually find her in a\nclassroom\nmaking something."
     },
     {
       "name": "Wonder Acute",
-      "text": "Alright, that should do it.",
-      "choice_data_list": [
-        "What were you making?",
-        "What were you making?"
-      ]
+      "text": "Okay, that looks good."
     },
     {
       "name": "Wonder Acute",
-      "text": "Well, I'm thinking of giving beaded \nkeychains to my classmates as presents, \nyou see.",
-      "choice_data_list": []
+      "text": "I'm making a key holder out of beads for\none of\nmy classmates."
     },
     {
       "name": "Wonder Acute",
-      "text": "So, what happened to Trainer-san?",
-      "choice_data_list": []
+      "text": "What about you, Trainer? What brings\nyou here?"
     },
     {
-      "name": "Narrator",
-      "text": "I told the bewildered Wonder Acute that \nour training time had already passed.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "You're just saying that, it's gotta be a \nprank— Oh my, the sun really is setting \nout there.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Wonder Acute seems completely\nunaware of the\nsituation, so I let her\nknow that she's late for\ntraining."
     },
     {
       "name": "Wonder Acute",
-      "text": "I'm sorry. Once I focus, I lose sight of \nmy surroundings...",
-      "choice_data_list": []
+      "text": "Is this the kind of joke people are telling\nthese\nd—oh goodness me. The sun's\nalready setting."
     },
     {
-      "name": "Narrator",
-      "text": "She seemed genuinely remorseful, so I \nsimply warned her to be more careful in \nthe future.",
-      "choice_data_list": []
+      "name": "Wonder Acute",
+      "text": "I'm sorry. I was so focused, I must've lost\nall track\nof time."
+    },
+    {
+      "name": "Monologue",
+      "text": "Her apology seems genuine, so I decide\nto let her\noff with a warning and a\nreminder to be careful."
     }
   ]
 }

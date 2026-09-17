@@ -2,539 +2,508 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "One day, we came to the infirmary to have <chrname> \nchecked out."
+      "name": "Monologue",
+      "text": "One day, I bring <chrname>\nto the\ninfirmary for a checkup."
     },
     {
       "name": "???",
-      "text": "Oh, yes, yeees! A custo… a student!"
+      "text": "Oh! A custo—I mean, a student! Hello!"
     },
     {
       "name": "???",
-      "text": "Injury? Illness? Or mental care? No \nmatter, just leave it all to me!",
-      "choice_data_list": [
-        "…Who are you!?"
-      ]
+      "text": "Are you hurt? Sick? Stressed? Whatever\nit is, I\ntreat it all!"
     },
     {
       "name": "???",
-      "text": "Huh? Well, I'm in the infirmary. …I'm a \nlittle bit of a fantastic health teacher? \nSort of?",
-      "choice_data_list": [
-        "Is that right…?"
-      ]
+      "text": "Well, considering you're at the academy\n\ninfirmary, I'd say that makes me your\ntrusty\nschool nurse! Yup, just your\naverage school\nemployee!"
     },
     {
       "name": "???",
-      "text": "A-haha, I can't fool you, can I? I think \nI'll just go with a normal name."
+      "text": "Ahaha! Guess there's no fooling you. I\nsuppose I\nshould start by giving you my\nname."
     },
     {
       "name": "???",
-      "text": "Oho! I won't hide anything about me――"
+      "text": "Ahem! Allow me to introduce myself!"
     },
     {
       "name": "???",
-      "text": "The savior who (supposedly) guides many \nUma Musume! The (self-proclaimed) \nlegendary bamboo needle-er with miraculous \nskills!"
+      "text": "I am the (likely) savior of all\nUmamusume, the\n(self-proclaimed)\nlegendary acupuncturist with\nthe magic\ntouch..."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Her name is Shinzami Anshinnzawa! ! Whoa, \nAnshi～n☆",
-      "choice_data_list": [
-        "………"
-      ],
-      "color_text_info_list": [
-        "Shinzami Anzenzawa"
-      ]
+      "name": "Sasami Anshinzawa",
+      "text": "The one and only Sasami Anshinzawa!\nSee? No\nworries! ☆"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Senseeei!! A suspicious person!! There's a \nsuspicious person heeeere!!!!!!"
+      "text": "Oh teachers! Some stranger has slipped\ninside!\nThere's a weirdo here!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Wow, it really doesn't look like you're \nworried.☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Gosh! You sure seem worried! ☆"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Wellwellwellwell, for the time being. Now \nthat we've introduced ourselves, let's get \nugly, shall we?"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Hisss! What's with the… stab-er!? \nW-w-w-what are your intentions with that \nthing!?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "A-ha-ha! Don't sweat it, alright? Just \npoking a little secret hole with my secret \nbamboo needle."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Then, you'll beee――, super-duper fast… \nsuper-duper tough… Anyways, you'll have a \nton of suuuuper great things happen to \nyou!",
-      "choice_data_list": [
-        "(Very suspicious…)"
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Ah! For the record, I'm not suspicious! \nI've never failed at anything even once \nbefore!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "……My master, that is.",
-      "choice_data_list": [
-        "Master \"that is\"!?"
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Well, well, well, this is my first job, \nI've never made a mistake in the broadest \nsense of the word!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "I've had the experience of taking a class \non tea with… no, sorry, training under a \nlegendary master for 10 years."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Waaow, Ansh～in☆",
-      "choice_data_list": [
-        "(Suspicious enough to jump out at you…!)"
-      ]
-    },
-    {
-      "text": "There was no way I was going to get sucked \ninto this story. I was about to leave with \n<chrname>, but――"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "W, waitwaitwait, wait, waaaait!!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "You're Sakura Bakushin O, aren't you!? \nYou're the class president who's always \nchasing speed, trying to be a role model \nfor anyone and everyone!",
-      "choice_data_list": [
-        "…You know of her."
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Of course I know! I've watched her!! I'm a \nfan!!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "I'm here to cheer you on! I'm here to help \nyou, with this!!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "So pleaaaaase～～～!! Please give me a \nchaaance～!!"
+      "name": "Sasami Anshinzawa",
+      "text": "No matter! No matter! We've made our\n\nintroductions, so lie down and let me\nput these\nneedles to work!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I… If it's the kindness of such a \npassionate fan, I can't let it go \nunnoticed…"
+      "text": "Eep! Needles... Hey?! J-just what are you\ndoing?!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Pleasepleasepleaaase! I'll even let you \npick which vital point you want me to \nprick!"
+      "name": "Sasami Anshinzawa",
+      "text": "Hahaha! No need to be scared! All I'm\ngoing to do\nis slip these extraordinary\nneedles precisely into\nyour chakra\npoints."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "I toooootally won't fail at all～!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Then voilà, presto! Something\nindescribable will\nhappen!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "…Probably.",
-      "choice_data_list": [
-        "Probably!?"
-      ]
+      "name": "Sasami Anshinzawa",
+      "text": "And let me assure you, there's\nabsolutely nothing\nsketchy about this at\nall! It's never gone anything\nless than\nperfectly!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Oh, no, not probably, maybe close to \nabsolutely? Sort of? …Well, the details \ndon't matter!"
+      "name": "Sasami Anshinzawa",
+      "text": "...For my master."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "What kind of secrets will you aim for!? \nThere's the ability boost, the health \nboost… Charm boost, you name it!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Don't fret! This is my first time, so\ntechnically, I've\nnever failed a patient\neither!"
     },
     {
-      "text": "…This reeks of danger, but there's a \npossibility that it could be very \neffective… a possibility."
+      "name": "Sasami Anshinzawa",
+      "text": "And it's not like I have no experience! I\nspent ten\nyears under a legendary\nmaster, fetching dri—I\nmean, training!"
     },
     {
-      "text": "What should I do…?",
-      "choice_data_list": [
-        "Aim for the vital point that'll make a \nstrong Uma Musume.",
-        "Target the vital point that wins races.",
-        "Aim for the vital point of energy and \nhealth.",
-        "Target the vital point that brings \nincreased charm.",
-        "I'm worried, so just cut it out."
-      ]
+      "name": "Sasami Anshinzawa",
+      "text": "See? No worries! ☆"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Hm-hm, the \"vital point that'll make a \nstrong Uma Musume,\" is it!"
+      "name": "Monologue",
+      "text": "There's no way we're doing this. I take\n\n<chrname> and head for the\ndoor,\nwhen..."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Then, I'm gonna go stabby-stab, right? Is \nthat alright? …Is that reeeeaaaaaaally \nalright?",
-      "choice_data_list": [
-        "Yes",
-        "No"
-      ]
+      "name": "Sasami Anshinzawa",
+      "text": "W-wait! Where are you going?!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "OK, OK, leave it to me! Come on, bamboo \nneedle! Find the secret vital point!"
+      "name": "Sasami Anshinzawa",
+      "text": "You're Sakura Bakushin O, aren't you?!\n\nEveryone's role model—the class\nrepresentative\nwho toils day and night in\nsearch of ways to\nincrease her speed!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Now, relax～… Waaow, Anshi～n☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Have I heard of her? Of course I have!\nI'm a big\nfan!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Stabby-stab!!"
+      "name": "Sasami Anshinzawa",
+      "text": "That's precisely why I'm here! To give\nyou my\nsupport! Let me help you!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Just give me a chance! Pleeease!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Gyaaa―!"
+      "text": "It <i>would</i> be a waste to turn down an\noffer from\nsuch an enthusiastic fan like\nyourself..."
     },
     {
-      "text": "The stab was a great success!"
+      "name": "Sasami Anshinzawa",
+      "text": "Please! Pretty please with a carrot on\ntop! I'll even\nlet you choose which\nchakra I activate!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer…!"
+      "name": "Sasami Anshinzawa",
+      "text": "I'm <i>sure</i> I won't mess up!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'm brimming with Bakushin Power…! I feel \nlike I'm going to Baku-explode!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Well... pretty sure."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "…What, success? For real!? Huh!?"
+      "name": "Sasami Anshinzawa",
+      "text": "I mean, it's on the sure side! That's <i>good</i>,\nright?\nAnyway, don't get hung up on the\ndetails!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "No waaay～～～!! How did I just do that, \nseriously!?!? I'm a genius～～～～!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Let's get to the good stuff! Which chakra\nshould I\nactivate? Do you want a boost\nto your abilities?\nYour health? Or maybe\nyour <i>charm?</i>"
     },
     {
-      "text": "<chrname> had a newfound sense of power!"
+      "name": "Monologue",
+      "text": "I smell danger in the air, but I figure\nthere\nmight—and I emphasize <i>might</i>—be\na chance of\ngetting something special\nout of this treatment."
     },
     {
-      "text": "Apparently, it seems we've seized the \npossibility. I felt like we made great \nstrides towards our dream…!"
+      "name": "Monologue",
+      "text": "What should we do?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "H, hah…(pant, pant)…"
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So you want me to activate\nthe\nstrength chakra?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
     },
     {
-      "text": "<chrname> is visibly out of shape…"
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Ahhh～… Well, um… Right?"
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "…Wao, farewell～☆"
-    },
-    {
-      "text": "I shouldn't have gone along with such a \nsuspicious offer… And I felt quite a bit \nof regret."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Hm-hm, the \"vital point that'll win \nraces,\" is it!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Then, I'm gonna go stabby-stab, right? Is \nthat alright? …Is that reeeeaaaaaaally \nalright?",
-      "choice_data_list": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "OK, OK, leave it to me! Come on, bamboo \nneedle! Find the secret vital point!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Now, relax～… Waaow, Anshi～n☆"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Stabby-stab!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Gyaaa―!?"
+      "text": "Gyaaah!"
     },
     {
-      "text": "The stab was a great success!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer…!"
+      "name": "Monologue",
+      "text": "Puncture Perfect!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I'm brimming with Bakushin Power…! I feel \nlike I'm going to Baku-explode!!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…What, success? For real!? Huh!?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "No waaay～～～!! How did I just do that, \nseriously!?!? I'm a genius～～～～!!"
-    },
-    {
-      "text": "I sensed a big improvement in <chrname>'s skills!"
-    },
-    {
-      "text": "Apparently, it seems we've seized the \npossibility. I felt like we made great \nstrides towards our dream…!"
+      "text": "Trainer!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "H, hah…(pant, pant)…"
+      "text": "I'm all pumped up with Bakushin power!\nIt's\nenough to make me burst!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total\ngenius!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> is overflowing\nwith so\nmuch power she's almost\nunrecognizable!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
-    },
-    {
-      "text": "<chrname> is visibly out of shape…"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Ahhh～… Well, um… Right?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…Wao, farewell～☆"
-    },
-    {
-      "text": "I shouldn't have gone along with such a \nsuspicious offer… And I felt quite a bit \nof regret."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Hm-hm, the \"vital point of energy and \nhealth,\" is it!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Then, I'm gonna go stabby-stab, right? Is \nthat alright? …Is that reeeeaaaaaaally \nalright?",
-      "choice_data_list": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "OK, OK, leave it to me! Come on, bamboo \nneedle! Find the secret vital point!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Now, relax～… Waaow, Anshi～n☆"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Stabby-stab!!"
+      "text": "O-oof... Agh..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Gyaaa―!?"
+      "text": "What's happening... I don't feel like I can\n\nBakushin at all... Grk..."
     },
     {
-      "text": "The stab was a great success!"
+      "name": "Monologue",
+      "text": "<chrname>'s condition\ndeteriorates\nrapidly."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer…!"
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'm brimming with Bakushin Power…! I feel \nlike I'm going to Baku-explode!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "…What, success? For real!? Huh!?"
+      "name": "Monologue",
+      "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret."
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "No waaay～～～!! How did I just do that, \nseriously!?!? I'm a genius～～～～!!"
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So, you want me to activate\nthe\nwinning chakra?"
     },
     {
-      "text": "<chrname>'s whole body was so shiny it, looked like \nit was about to start glowing! A healthy \nburst of energy surged within her…!"
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
     },
     {
-      "text": "Apparently, it seems we've seized the \npossibility. I felt like we made great \nstrides towards our dream…!"
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "H, hah…(pant, pant)…"
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
-    },
-    {
-      "text": "<chrname> is visibly out of shape…"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Ahhh～… Well, um… Right?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…Wao, farewell～☆"
-    },
-    {
-      "text": "I shouldn't have gone along with such a \nsuspicious offer… And I felt quite a bit \nof regret."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Hm-hm, the \"vital point that'll bring \nincreased charm,\" is it!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Then, I'm gonna go stabby-stab, right? Is \nthat alright? …Is that reeeeaaaaaaally \nalright?",
-      "choice_data_list": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "OK, OK, leave it to me! Come on, bamboo \nneedle! Find the secret vital point!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Now, relax～… Waaow, Anshi～n☆"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Stabby-stab!!"
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Gyaaa―!?"
+      "text": "Gyaaah!"
     },
     {
-      "text": "The stab was a great success!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer…!"
+      "name": "Monologue",
+      "text": "Puncture Perfect!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I'm brimming with Bakushin Power…! I feel \nlike I'm going to Baku-explode!!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…What, success? For real!? Huh!?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "No waaay～～～!! How did I just do that, \nseriously!?!? I'm a genius～～～～!!"
-    },
-    {
-      "text": "<chrname> exuded a charm that made everyone on the \nstreet want to do a double take!"
-    },
-    {
-      "text": "Apparently, it seems we've seized the \npossibility. I felt like we made great \nstrides towards our dream…!"
+      "text": "Trainer!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "H, hah…(pant, pant)…"
+      "text": "I'm all pumped up with Bakushin power!\nIt's\nenough to make me burst!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total\ngenius!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I can sense a huge improvement in\n\n<chrname>'s skills!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
-    },
-    {
-      "text": "<chrname> is visibly out of shape…"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Ahhh～… Well, um… Right?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…Wao, farewell～☆"
-    },
-    {
-      "text": "I shouldn't have gone along with such a \nsuspicious offer… And I felt quite a bit \nof regret."
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Whaaat!? Oh, don't say that～…",
-      "choice_data_list": [
-        "Pass it up",
-        "Reconsider"
-      ]
-    },
-    {
-      "name": "Hayakawa Tazuna",
-      "text": "――Hey, you! Aren't you trespassing on \ncampus!?"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "Gyaaawaa―!? Yikes, they found me!"
-    },
-    {
-      "name": "Anshinzawa Sasami",
-      "text": "…Waow, I'm out～☆"
-    },
-    {
-      "name": "Hayakawa Tazuna",
-      "text": "Ah!? I, I command you to stooop!!"
+      "text": "O-oof... Agh..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "What speed…! Just as I expected of a fan \nwho's been watching me run!!"
+      "text": "What's happening... I don't feel like I can\n\nBakushin at all... Grk..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname>'s condition\ndeteriorates\nrapidly."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So, you want me to activate\nthe\nhealth chakra?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I must continue to show you my exemplary \nBakushin!!",
-      "choice_data_list": [
-        "Guess so.",
-        "Guess so."
-      ]
+      "text": "Gyaaah!"
     },
     {
-      "text": "I've decided to forget about today's \nincident, since it seems there's no point \nin thinking about who Anshinzawa was…"
+      "name": "Monologue",
+      "text": "Puncture Perfect!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "Oh, my, did you make a mistake? Weeell, it \nhappens, it happens, doesn't it!"
+      "name": "Sakura Bakushin O",
+      "text": "Trainer!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "So, tell me one more time. Which vital \npoint will you aim for!?"
+      "name": "Sakura Bakushin O",
+      "text": "I'm all pumped up with Bakushin power!\nIt's\nenough to make me burst!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "You're making me nervous! No, but wait, if \nyou're taking this long—"
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!"
     },
     {
-      "name": "Hayakawa Tazuna",
-      "text": "—Hey, you! You're trespassing on campus!"
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total\ngenius!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "What the…? Oh no, they found me!"
+      "name": "Monologue",
+      "text": "<chrname>'s entire body is\nradiating a\nhealthy glow! She's the\nabsolute picture of health!"
     },
     {
-      "name": "Anshinzawa Sasami",
-      "text": "… Wow, I'm out!"
+      "name": "Monologue",
+      "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!"
     },
     {
-      "name": "Hayakawa Tazuna",
-      "text": "Oh, no! Wait, wait, wait, wait!"
+      "name": "Sakura Bakushin O",
+      "text": "O-oof... Agh..."
     },
     {
-      "text": "… If you've been worrying about it for any \nlength of time, it's kind of fizzled out."
+      "name": "Sakura Bakushin O",
+      "text": "What's happening... I don't feel like I can\n\nBakushin at all... Grk..."
     },
     {
-      "text": "She and… <chrname> looked at each other and twisted \ntheir heads to see what was going on."
+      "name": "Monologue",
+      "text": "<chrname>'s condition\ndeteriorates\nrapidly."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So, you want me to activate\nthe\ncharm chakra?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Gyaaah!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Puncture Perfect!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Trainer!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I'm all pumped up with Bakushin power!\nIt's\nenough to make me burst!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total\ngenius!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> is overflowing\nwith charm!\nShe's bound to turn heads\neverywhere she goes!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "O-oof... Agh..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "What's happening... I don't feel like I can\n\nBakushin at all... Grk..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname>'s condition\ndeteriorates\nrapidly."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Aw, c'mon! Don't be like that!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gah! I've been found out!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Welp, I'm outta here! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! Stop right there!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "What amazing speed! What a dedicated\n\nfan—she's clearly mirrored my own\nrunning!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I must continue to set a good example\nwith my\nBakushin speed!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm curious who this Anshinzawa\ncharacter really\nis, but there's no use\nruminating over it. Best to\nforget about\ntoday and move on."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Had a change of heart, did you? Don't\nworry\nabout it, it happens!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Go ahead and tell me which chakra you\nwant me\nto activate, then!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well?! Don't leave us in suspense! Wait a\n\nsecond... How long have I been here?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gah! I've been found out!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Welp, I'm outta here! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! Stop right there!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The situation takes a sharp turn before I\ncan\nmake a decision."
+    },
+    {
+      "name": "Monologue",
+      "text": "What was that all about?\n<chrname>\nand I look at\neach other in bewilderment."
     }
   ]
 }

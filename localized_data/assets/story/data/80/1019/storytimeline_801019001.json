@@ -2,111 +2,80 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Today is the scheduled race-viewing day. <chrname> \nand the other Umamusume all boarded the \nbus and headed off to their destination.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Today, <chrname> and the\nother\nstudents have gone on a field trip\nto observe a\nrace."
     },
     {
-      "name": "Narrator",
-      "text": "With all the students gone, a faint \ngroaning sound could be heard from the \nquiet school building...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Agnes Digital",
-      "text": "Ugh... Uuuugh~. Where did the Umamusume \ngooo~...?!",
-      "choice_data_list": [
-        "Zombies?!"
-      ]
+      "name": "Monologue",
+      "text": "The academy is void of students and\ncompletely\nsilent... or so I thought... I\nhear faint groaning\nsounds from nearby."
     },
     {
       "name": "Agnes Digital",
-      "text": "Yes...! Starved of precious Umamusume, I \nhave become Agnes Zombie Digital!!",
-      "choice_data_list": [
-        "Weren't the students supposed to have gone \nto spectate the race...?"
-      ]
+      "text": "Urghhh... Gurrrggh! Where have my\nprecious\nUmas gone?!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Digi-tan has been out sick with a cold for \na few days now~.",
-      "choice_data_list": []
+      "text": "That's right... I'm Agnes Zombie Digital,\nand I'm\nstarving for Umas!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Well, I wanted to see my lovely Umamusume \nso much that I powered through my cold and \ncame anyway!",
-      "choice_data_list": []
+      "text": "Poor wittle me! I've been out sick with a\ncold for\nthe past few days..."
     },
     {
       "name": "Agnes Digital",
-      "text": "And yet there's nobody here... Goddammit!! \nI'm such an idiot for forgetting to watch \nthe race!",
-      "choice_data_list": [
-        "Why don't you head home just to be safe?",
-        "We should still be able to join in now!"
-      ]
+      "text": "But I forcibly expelled that plague from\nmy\nsystem because I was craving a\nsweet, sweet\nglimpse of some glorious\nUmas!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Heh, hehehe…… That's true. I won't be \ngetting any supply just hanging around the \nacademy anyway—",
-      "choice_data_list": []
+      "text": "But what's this?! There's not even a\nWHIFF of an\nUma around! I can't believe\nI forgot there was a\nfield trip today!\nCurses! What a fool I am!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Aha! That's it!! Do you have any \nsuper-emo, heart-melting stories about \nyour trainee girl!?",
-      "choice_data_list": []
+      "text": "Hehe... Guehehehe... Yeees, you are so\nright. It's\nnot like I'll be able to find any\nsustenance at the\nacademy anyway..."
     },
     {
       "name": "Agnes Digital",
-      "text": "Please grant Digi-tan some charity for \nmaking it all the way to school! Nutrients \nfor my parched soul, please!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Not knowing if it qualified as \"super \nemotional,\" I told them a story about <chrname> \nduring training.",
-      "choice_data_list": []
+      "text": "Wait a second! You! Got any top-tier\ninsider\nstories about the Uma you're\npartnered with?!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Huff, puff, thanks for the fuel...! I'll \nregroup for today, but tomorrow for sure, \nI'm gonna shower those cute Umamusume with \nall my love!",
-      "choice_data_list": []
+      "text": "I worked so hard to drag myself out\nhere! The\nleast you could do is bless me\nwith some good\nstuff! Nourish my poor,\nshriveled-up heart!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I don't know if it's \"top-tier\" or anything,\nbut I tell\nher a story about what\nhappened to\n<chrname>\nduring training."
     },
     {
       "name": "Agnes Digital",
-      "text": "R-Really!?",
-      "choice_data_list": [
-        "It'll be fine as long as you file a tardy \nslip."
-      ]
+      "text": "<i>Huff... Huff...</i> Ohoho... Thank you for the\nfood...\nI'm calling it quits today, but I'll\ncome back\ntomorrow to worship my\nlovely Umas!"
     },
     {
       "name": "Agnes Digital",
-      "text": "HYOOOO!! Are you a god or something!? \nLet's go right now, right this second!! \nFull speed ahead to the paradise of our \ndreams, let's GOOOOO!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Since I was already involved, I processed \nAgnes Digital's tardiness paperwork and \naccompanied her to the venue as her \nchaperone.",
-      "choice_data_list": []
+      "text": "R-really?!"
     },
     {
       "name": "Agnes Digital",
-      "text": "Hauauauaua... Heaven was... right here all \nalong...!",
-      "choice_data_list": [
-        "You look happy.",
-        "You look happy."
-      ]
+      "text": "ASDFSLKSF?! Are you some kind of\ngod?! What\nare we waiting for?! Let's go\nnow! To the paradise\nof my dreeeaaams!"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can calm down Agnes\nDigital\nwhen she's like this, so I help\ncomplete her\nlate-arrival paperwork and\ntake her to the venue."
     },
     {
       "name": "Agnes Digital",
-      "text": "You bet! Even with the same cast and the \nsame venue, no two performances are ever \nidentical. And what's more――",
-      "choice_data_list": []
+      "text": "<i>Huff... Huff...</i> Yes, yes... paradise..."
     },
     {
       "name": "Agnes Digital",
-      "text": "The emotions you get from your oshi are \ntotally different every time! That's why a \ntrue fan attends every single \nperformance...!!",
-      "choice_data_list": []
+      "text": "Can you blame me?! Even if the\nmembers and\nvenue are the same, no\ntwo shows are exactly\nalike! Besides..."
     },
     {
       "name": "Agnes Digital",
-      "text": "And so, Digi-tan shall embark on a journey \nto find the best vantage point to \nappreciate the lovely Umamusume!",
-      "choice_data_list": []
+      "text": "The feelings that your oshi gives you are\non a\ncompletely different level! It's why\notaku literally\ngo to every performance\nthey can!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Therefore, my journey continues! I must\nseek out\nthe best spot I can in order to\nworship my favorite\nUma with my whole\nheart!"
     }
   ]
 }

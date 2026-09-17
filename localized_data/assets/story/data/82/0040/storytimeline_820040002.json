@@ -2,207 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "The day finally arrived to give the \nprogress report presentation in front of \nthe other trainers."
+      "name": "Monologue",
+      "text": "The day has finally come for me to give\nmy\npresentation in front of the other\ntrainers."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "It's finally time for the Trainer Regular \nReport Meeting. I am looking forward to \nhearing your talk, <username> Trainer!"
+      "text": "Time for our regular trainers' meeting.\nI'm looking\nforward to your presentation,\n\n<username>!"
     },
     {
-      "name": "Narrator",
-      "text": "I've built up my preparations step by \nstep, just like I learned from weight \ntraining. Even if it doesn't match the \nsenior trainers... I'll give it my all!",
-      "choice_data_list": [
-        "(Alright!)"
-      ]
+      "name": "Monologue",
+      "text": "I may not be as good as the veteran\ntrainers, but\nI've learned how to put in\nhard work through all\nmy strength\ntraining, and I'm determined to do\nmy\nbest!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "S-So... how did the presentation go...?",
-      "choice_data_list": [
-        "A huge success!"
-      ]
+      "text": "So... how did it go?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Really?! It went well! Ahhh, what a \nrelief...!",
-      "choice_data_list": [
-        "I invited you out today to thank you for \nthat.",
-        "I invited you today as a thank-you."
-      ]
+      "text": "Really?! That's fantastic! What a relief to\nhear\nthat."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "You don't need to thank me! I didn't do \nanything special at all...!"
+      "text": "That's not necessary! I didn't do\nanything special."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Besides... it didn't feel like someone \nelse's problem, so I just meddled of my \nown accord.",
-      "choice_data_list": [
-        "What do you mean, not someone else's \nproblem...?"
-      ]
+      "text": "I basically just gave you unsolicited\nadvice out of\nnowhere... And all because\nI saw myself in you."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Um, how do I put it... It kind of \noverlapped with how I used to be..."
+      "text": "Well, it's just... I went through the same\nthing\nonce..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ever since I was little, I've loved moving \nmy body. At first, muscle training was \njust part of that."
+      "text": "I've always enjoyed being active, ever\nsince I was\nlittle. That's what got me into\nworking out at first."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But one day—my aunt told me, \"Ryan, the \nway your muscles develop is truly suited \nfor running.\""
+      "text": "Then one day, my aunt told me I was\nreally\nwell-built for running."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I always thought I was totally ordinary \namong the Mejiro family, so... To know \nthere was something about me that could be \npraised—"
+      "text": "I'm pretty plain and unremarkable for a\nMejiro,\nbut then I realized there was still\nsomething that\nset me apart too."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "That was my strength. So I decided to hone \nmy own unique strength, my weapon!"
+      "text": "My musculature was my strength, and I\nwas\ndetermined to make it my weapon!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "With that in mind, I pushed myself in \nmuscle training harder than ever before, \nbut..."
+      "text": "So, I started working out even harder.\nHowever..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "\"I should be able to lift this much...! \nMore... I have to train more...!\""
+      "text": "\"I have to lift this much, or else! I... I\nhave to train\nmore!\""
     },
     {
       "name": "Mejiro Ryan",
-      "text": "One day, I hit a wall... and I completely \npanicked. I threw myself recklessly into \ntraining."
+      "text": "One day, I hit a wall and went into a\nfull-blown\npanic. I threw myself\nheadlong into training."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "To the point where I was cutting back on \nsleep... In the end, everyone stepped in \nto stop me... And then—"
+      "text": "I even started forgoing sleep for the\nsake of\ntraining. Eventually, everyone\nstopped me. And\nthen..."
     },
     {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "I heard from Ardan. It seems you have been \npushing yourself too hard lately."
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "I'm not overdoing it...! It's all so I can \nbecome stronger—"
-    },
-    {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "A journey of a thousand miles cannot be \ncompleted in a single stride."
-    },
-    {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "That holds true even for... McQueen, or \nArdan."
+      "name": "Grandma Mejiro",
+      "text": "I heard from Ardan that you've been\nexercising\nyourself sick."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "! ..."
+      "text": "That's not true! I'm just trying to get\nstronger so—"
     },
     {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "Ryan... At times, you must cherish each \nsmall step."
+      "name": "Grandma Mejiro",
+      "text": "You cannot cross a thousand miles in a\nsingle\nbound."
     },
     {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "No matter what kind of step it may be, the \nfact remains that you are moving forward."
-    },
-    {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "In fact, the weight on your barbell has \nincreased compared to last year, hasn't \nit?"
-    },
-    {
-      "name": "Grandmother of the Mejiro Family",
-      "text": "You have embodied that progress. \nTherefore, everyone holds great \nexpectations. Never forget that."
+      "name": "Grandma Mejiro",
+      "text": "That goes for anyone, even McQueen\nand Ardan."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...Everyone tends to focus only on big \nchanges or flashy successes, don't they?"
+      "text": "...!"
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Ryan... Recognize the value in every step\nyou\ntake."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "No matter how small the step you take\nis, it is still\na step forward."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "The barbells you've been lifting are\nheavier than\nthe ones you used last year,\nno?"
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "You have come to personify those very\nbarbells.\nIt's why we expect so much of\nyou. Do not forget\nthat."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But what's truly important is—",
-      "choice_data_list": [
-        "...The daily buildup, right?",
-        "...The daily buildup, right?"
-      ]
+      "text": "We all tend to focus on making big\n\ntransformations and gaining huge\nsuccess."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yes! As long as you keep taking even just \na single small step forward, there's \nnothing you can't achieve!"
+      "text": "But what's really important..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "So after all, the thing that helps you \nrealize that—"
+      "text": "Right! So long as you do a little every\nday, there's\nnothing you can't achieve!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Muscle training is truly magnificent!"
-    },
-    {
-      "name": "Narrator",
-      "text": "...Is it? Sure, she gained that \nrealization through muscle training, but—",
-      "choice_data_list": [
-        "Your presentation skills helped too.",
-        "Your presentation skills helped too.",
-        "Muscle training is the only way!",
-        "Muscle training is the only way!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "...Is it? Sure, she gained that \nrealization through muscle training, but—",
-      "choice_data_list": [
-        "Your presentation skills helped too.",
-        "Your presentation skills helped too.",
-        "Muscle training is the only way!",
-        "Muscle training is the only way!"
-      ]
+      "text": "That's why I really wanted you to\nrealize..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ehh?! Presentation skills...?!"
+      "text": "Just how amazing strength training is!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm pretty sure it was strength training\nthat taught\nme the importance of\nworking hard every day,\nnot the other\nway around, but oh well."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm pretty sure it was strength training\nthat taught\nme the importance of\nworking hard every day,\nnot the other\nway around, but oh well."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "No, no, I'm really bad at that kind of \nstuff! Standing in front of people, \nspeaking logically, all of it...!",
-      "choice_data_list": [
-        "Holding a muscle training seminar sounds \nlike a great idea."
-      ]
+      "text": "What?! Me? A good presenter?!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...!! A muscle training... seminar...!"
+      "text": "You're kidding! That's, like, the last\nthing I'm\ngood at! I hate standing in\nfront of people and\ntrying to explain\nideas."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I might actually want to try that... \n...Would you practice the presentation \nwith me?"
-    },
-    {
-      "name": "Narrator",
-      "text": "A few days later, I ended up accompanying \nher on a workout under the guise of \n\"practice,\" deepening my understanding of \nmuscle training even further."
+      "text": "...Strength training lectures!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ohh! I knew you'd understand, Trainer!"
+      "text": "That actually sounds kinda fun... Want\nto help me\npractice doing presentations,\nthen?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Some time later, I accompany her for her\n\npresentation practice and further\nincrease my\nknowledge on working out."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Actually, I've already prepared a workout \nroutine just for you!",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "text": "Yeah! I knew you'd understand me,\nTrainer!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "When I watched your workout before, I \ndesigned a routine based on your habits \nand the muscle groups you frequently use!"
+      "text": "By the way, I've been thinking up a\nworkout\nroutine just for you."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Last time was focused on your upper body, \nso this routine is centered on your lower \nbody, especially the thighs—"
+      "text": "I put together this routine for you\ncatered to your\nhabits and commonly\nused muscles, which I\ngleaned from\nobserving your training!"
     },
     {
-      "name": "Narrator",
-      "text": "After that, she gave a passionate, lengthy \nlecture about the routine she had devised."
+      "name": "Mejiro Ryan",
+      "text": "You focused on training your upper\nbody last\ntime, so this routine targets\nyour lower half,\nespecially your thighs\nand..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She continues waxing poetic over the\nregimen\nshe's put together for a long,\nlong time."
     }
   ]
 }

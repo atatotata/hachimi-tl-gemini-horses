@@ -2,29 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "<chrname> has been seriously injured…!"
+      "name": "Monologue",
+      "text": "<chrname> has sustained a\nserious\ninjury!"
     },
     {
-      "text": "I don't know whether I should tend to her \nor push her through it…",
-      "choice_data_list": [
-        "Let me tend to her",
-        "I have to be harh!"
-      ]
+      "name": "Monologue",
+      "text": "Should I have her focus on getting\nbetter or push\nthrough the pain..."
     },
     {
-      "text": "I decided to focus on healing her injury."
+      "name": "Monologue",
+      "text": "I decide to focus on getting her injuries\ntreated."
     },
     {
-      "text": "But <chrname> couldn't move her body, and she felt \na little down…"
+      "name": "Monologue",
+      "text": "<chrname> seems to be\nfeeling a little\ndepressed because she\ncan't get any exercise..."
     },
     {
-      "text": "There's no time to stand still! I've \ndecided to be tough on <chrname>."
+      "name": "Monologue",
+      "text": "There's no time to waste! I harden my\nheart and\ndecide to have\n<chrname> push\nthrough the\npain."
     },
     {
-      "text": "But as a result, she pushed herself too \nhard, and her injury worsened…"
+      "name": "Monologue",
+      "text": "But she forces herself too hard and her\ninjury\nworsens..."
     },
     {
-      "text": "Then, miraculously, her injury healed \ncompletely, and practice went well!"
+      "name": "Monologue",
+      "text": "And the injury is miraculously healed!\nPractice\ngoes perfectly!"
     }
   ]
 }

@@ -2,166 +2,116 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I spotted Ikuno Dictus talking with a \nstudent in the courtyard.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I spot Ikuno Dictus talking with a fellow\nstudent\nat the central plaza."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...Therefore, it would be advisable to \nreduce the afternoon routine by one set.",
-      "choice_data_list": []
+      "text": "...Ergo, it would be best for you to\nreduce the\nnumber of exercises in your\nafternoon training\nsession by one."
     },
     {
-      "name": "Junior Umamusume",
-      "text": "That makes total sense! It feels like this \nwill really work! , Ikuno-senpai!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ikuno Dictus",
-      "text": "No. As long as it was helpful, that's what \nmatters.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "The junior Umamusume bowed deeply and took \nher leave.",
-      "choice_data_list": [
-        "Were you giving someone advice?"
-      ]
+      "name": "Younger Umamusume",
+      "text": "I see! That'll definitely work! Thank you,\nIkuno!"
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes. She asked if I could review her \ntraining menu.",
-      "choice_data_list": []
+      "text": "No need to thank me. I'm happy to be of\nservice."
+    },
+    {
+      "name": "Monologue",
+      "text": "The younger Umamusume gives Ikuno\nDictus a\ndeep bow and walks away."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Scheduling and management happen to be \nareas where I am relatively capable.",
-      "choice_data_list": [
-        "I'd like you to take a look at my schedule \ntoo.",
-        "I want you to look over my schedule too.",
-        "Teach me some tips."
-      ]
+      "text": "She wanted me to look over her training\nschedule."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Scheduling and management happen to be \nareas where I am relatively capable.",
-      "choice_data_list": [
-        "I'd like you to take a look at my schedule \ntoo.",
-        "I want you to look over my schedule too.",
-        "Teach me some tips."
-      ]
+      "text": "I'm quite good at schedule creation and\n\nmanagement, you see."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "My schedule...? Is that what you mean?",
-      "choice_data_list": []
+      "text": "I'm quite good at schedule creation and\n\nmanagement, you see."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Trainers should have studied scheduling \nduring their training, so wouldn't this be \nunnecessary?",
-      "choice_data_list": [
-        "Just sharing your thoughts is fine."
-      ]
+      "text": "You want me to look at your schedule\ntoo?"
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Hmm... Understood. Let me take a look.",
-      "choice_data_list": []
+      "text": "But as a trainer, you must have already\nlearned\nabout schedule management.\nThere shouldn't be\na need for me to\nexamine it at all."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...Today's schedule is packed with far too \nmany routines.",
-      "choice_data_list": []
+      "text": "Hm... Very well. I'll take a look at it."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Also, while I understand you're busy, \nplease don't neglect your meals, sleep, \nand downtime.",
-      "choice_data_list": []
+      "text": "...You've included too many activities for\nthis\nday."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "A Trainer's body is their greatest asset. \nDiet, sleep, rest... Never neglect these \nthree essentials.",
-      "choice_data_list": [
-        "Thanks, I'll keep that in mind."
-      ]
+      "text": "And while I understand you're busy, you\nmust find\ntime to eat, sleep, and rest."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "No, if it proved helpful, that is all that \nmatters.",
-      "choice_data_list": []
+      "text": "Your body is an invaluable asset, even if\nyou\ndon't use it for racing like us. You\nshould ensure\nyou are never lacking in\nnutrition, sleep, or rest."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Now then, moving on to the next point of \ncritique.",
-      "choice_data_list": [
-        "Huh...?"
-      ]
+      "text": "No need for thanks. I'm merely glad to\nbe of help."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I'm not even halfway through pointing out \nall the issues yet. There is no way I can \noverlook such a reckless schedule.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward, Ikuno Dictus gave me a \nthorough, uncompromising rundown of all my \nflaws...",
-      "choice_data_list": []
+      "text": "Now, on to my next point..."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "The trick... If I had to say, it would be \nnot letting the words mislead you.",
-      "choice_data_list": [
-        "Are you sure you aren't being tricked?"
-      ]
+      "text": "I'm not even halfway through my\ncomments. I\ncannot simply let you get\naway with this\nridiculous schedule."
+    },
+    {
+      "name": "Monologue",
+      "text": "Ikuno Dictus proceeds to point out each\nand\nevery flaw in my schedule..."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes. In most cases, itineraries are \nwritten to highlight all the positives.",
-      "choice_data_list": []
+      "text": "Tips? Well, if it's one thing I would\nadvise, it\nwould be not to believe\neverything you read."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Extra running to build leg strength... \nsounds noble enough on paper.",
-      "choice_data_list": []
+      "text": "Yes. Nine times out of ten, the benefits\nof a\nroutine are what is emphasized."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "In truth, fatigue from physical exertion \nis also factored in. However, in most \ncases, that is omitted from the records.",
-      "choice_data_list": []
+      "text": "Often do I read that running a lot is the\nkey to\nstrengthen one's legs."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I am merely pointing things out based on \nthat. I don't know if you could call them \ntips or tricks, but I hope it proves \nhelpful.",
-      "choice_data_list": [
-        "Thanks, I'll be careful not to get \ntricked."
-      ]
+      "text": "However, in most cases, schedules do\nnot account\nfor the fatigue that is\nbrought on by exercise."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I am so glad to hear you say that.",
-      "choice_data_list": []
+      "text": "That's all I wanted to point out. I don't\nknow if it\ncan be considered a tip, but I\nhope it helps."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...However, everything I've explained up \nto this point was a complete fabrication.",
-      "choice_data_list": [
-        "I was tricked?!"
-      ]
+      "text": "Good. That is wise of you."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Heh... Just a joke. Though the explanation \nitself is entirely true.",
-      "choice_data_list": []
+      "text": "...Except everything I just said was a lie."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "It seems you might need a little training \nin learning how not to get tricked.",
-      "choice_data_list": []
+      "text": "Hehe... I'm joking. What I told you was\nall true."
     },
     {
-      "name": "Narrator",
-      "text": "Surprisingly, she seems to have quite a \nsense of humor. Then again, seeing through \na lie told with a totally deadpan face \nprobably takes more than a little \npractice……",
-      "choice_data_list": []
+      "name": "Ikuno Dictus",
+      "text": "However, it seems you need more\npractice in\nbeing less gullible."
+    },
+    {
+      "name": "Monologue",
+      "text": "Ikuno Dictus's stoicism belies a hidden\nand\nunexpected sense of humor. It'll\ntake a great deal\nof practice to tell\nwhen she's joking."
     }
   ]
 }

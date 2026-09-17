@@ -2,205 +2,156 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "While walking through the campus, I came \nacross a group of Umamusume gathered \naround the bulletin board...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "While walking through the school, I\nhappen upon\na group of students\ngathered around a\nnoticeboard..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Step right up, gather 'round! My \nmasterpiece, the Feng Shui Newspaper! You \ngotta check it out!",
-      "choice_data_list": [
-        "Quite the turnout, huh.",
-        "What a huge turnout!"
-      ]
+      "text": "Check out my very own feng shui\nnewspaper! Go\non and grab a copy! It's a\nmust-read!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Ah, Trainer! That's right! I want everyone \nto learn about feng shui!",
-      "choice_data_list": []
+      "text": "Hey, Trainer! I know, right? I wanted to\nspread\nthe word about feng shui!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Until now, I've been renting empty \nclassrooms to hold Feng Shui lectures and \nsuch, but...",
-      "choice_data_list": []
+      "text": "Until now, I've just been borrowing\nempty\nclassrooms to teach feng shui\nclasses."
     },
     {
       "name": "Copano Rickey",
-      "text": "There weren't really many students, or \nrather... Hardly anyone knows about feng \nshui to begin with...",
-      "choice_data_list": [
-        "So you were doing that sort of thing...",
-        "So you were doing that sort of thing..."
-      ]
+      "text": "I never got too many students, though...\nAnd\nmaybe people just don't know\nabout feng shui in\nthe first place..."
     },
     {
       "name": "Copano Rickey",
-      "text": "And! I realized I've gotta make Feng Shui \nway more popular!",
-      "choice_data_list": []
+      "text": "Anyway! That's why I thought I should\nraise\nawareness about feng shui!"
     },
     {
       "name": "Copano Rickey",
-      "text": "To raise awareness, everyone needs to see \nit. And speaking of seeing things, the \nbulletin board newspaper! What do you \nthink? Great idea, right?☆",
-      "choice_data_list": []
+      "text": "And to do that, I need to put it right\nwhere\neveryone can see it. So I put up a\nnewspaper on\nthe noticeboard! What do\nyou think? Great idea,\nhuh? ☆"
     },
     {
-      "name": "Umamusume A",
-      "text": "Hey, hey, does this fortune-telling have \nanything to do with zodiac signs or blood \ntypes?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Ah, no! This is called Nine Star Ki; you \ncombine your birth year and birth month—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Kyusei...? (Nine Star Ki...?) Isn't that \nhoroscope stuff?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume B",
-      "text": "There's a lot of technical jargon... I \nmight not really get it...",
-      "choice_data_list": []
+      "name": "Student A",
+      "text": "Hey, so how do we check our\nhoroscope? Do we\nneed our star sign or\nblood type or whatever?"
     },
     {
       "name": "Copano Rickey",
-      "text": "That's not true! There's Feng Shui you can \nput into practice starting today, too—",
-      "choice_data_list": []
+      "text": "Actually, this is different! It's called\nNine-Star Qi,\nand it works by taking the\nyear and month you\nwere born, then—"
+    },
+    {
+      "name": "Student A",
+      "text": "Wait, wait. \"Nine Star\"? So like, these\naren't\nhoroscopes?"
+    },
+    {
+      "name": "Student B",
+      "text": "This stuff sounds really niche. I'm pretty\nsure it'll\ngo over my head..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Don't worry about that! There are some\naspects\nof feng shui you can put into\npractice right\naway—"
     },
     {
       "name": "Air Groove",
-      "text": "Hey, what's all the commotion!",
-      "choice_data_list": []
+      "text": "Ahem! What's the meaning of this\ncommotion?!"
     },
     {
       "name": "Air Groove",
-      "text": "Good grief. Rickey, going off on your own \nagain...!",
-      "choice_data_list": []
+      "text": "I should have known. At it again, are you\nRickey?"
     },
     {
       "name": "Copano Rickey",
-      "text": "Waah~ Wait, wait! I just want to cheer \neveryone on so they can give 100% of their \nhard work...!",
-      "choice_data_list": []
+      "text": "H-hold on a second! I just want to\nsupport\neveryone so they can all give\n100%!"
     },
     {
       "name": "Air Groove",
-      "text": "I told you not to put up posters without \npermission! In any case, the newspapers \nare confiscated! Come back after getting \nproper permission!",
-      "choice_data_list": []
+      "text": "I <i>told</i> you not to post anything on the\n\nnoticeboard without permission! I'll be\n\nconfiscating those newspapers! Next\ntime, go\nthrough the <i>proper</i> channels!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Oh dear, I really did it now...",
-      "choice_data_list": []
+      "text": "Well, that didn't work out..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Permission is... well, that goes without \nsaying. \"Hard to understand,\" huh...",
-      "choice_data_list": []
+      "text": "I mean, getting permission is one thing,\nbut... it\nsounded like those girls were\nintimidated by the\nwhole idea..."
     },
     {
       "name": "Copano Rickey",
-      "text": "I wonder if I made them think, \"I don't \nreally get feng shui,\" again.",
-      "choice_data_list": [
-        "The more you experience it, the deeper \nyour understanding will become."
-      ]
+      "text": "Geez. I made feng shui sound confusing\nagain."
     },
     {
       "name": "Copano Rickey",
-      "text": "That's it!",
-      "choice_data_list": []
+      "text": "That's it!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Yeah, exactly! Everyone's just not used to \nfeng shui yet!",
-      "choice_data_list": []
+      "text": "That's exactly it! Everyone just needs to\nget more\nfamiliar with feng shui!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Things you see every day become second \nnature... If I take it step by step, I'm \nsure I can do it!",
-      "choice_data_list": []
+      "text": "If they see it every day, it'll become part\nof their\ndaily lives... Okay, if I stick to it,\nI can make this\nhappen!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Alright, thanks Trainer! Rickey is feeling \ntotally pumped and energized!",
-      "choice_data_list": []
+      "text": "Thanks, Trainer! I got my spark back!"
     },
     {
       "name": "Copano Rickey",
-      "text": "\"Still, what should I do...? I kinda want \nto share more detailed info before putting \nup the newspaper...\"",
-      "choice_data_list": [
-        "Like, using social media smartly or \nsomething?",
-        "Meet a senior who's been working \ndiligently behind the scenes!"
-      ]
+      "text": "But what's the angle? I should probably\nshare\nsome more detailed information\nbefore putting a\nnewspaper up on the\nnoticeboard..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Social media! That is such a nice idea☆",
-      "choice_data_list": []
+      "text": "Social media! Wow, that's a fantastic\nidea! ☆"
     },
     {
       "name": "Copano Rickey",
-      "text": "Jordan-saaan!!",
-      "choice_data_list": []
+      "text": "Jordaaaan!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Whoa!? You scared me... What's up? Did you \ncome to tell me my lucky color again?",
-      "choice_data_list": []
+      "text": "Whoa! You, like, surprised me. ...What is\nit? You\nhere to tell me my lucky color or\nsomething?"
     },
     {
       "name": "Copano Rickey",
-      "text": "Yes! Including that, I think I'll post \nevery day on social media!",
-      "choice_data_list": []
+      "text": "Yes! And I'm going to start posting\nabout that\nstuff on social media every\nday too!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Please teach me how to get everyone on \nsocial media to notice me!",
-      "choice_data_list": []
+      "text": "Can you tell me how to get everyone to\nlook at\nmy posts?!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Wait, like broadcasting to the whole \nworld!? That sounds super fun! For now, \ngotta focus on visuals, and then...",
-      "choice_data_list": []
+      "text": "Wait, \"everyone\" as in, like, putting the\ninfo out\nfor the whole world to see? I\ncan get behind <i>that!</i>\nOkay, so first,\nyou've really gotta nail the look..."
     },
     {
-      "name": "Narrator",
-      "text": "Later on, Copano Rickey posted some \nstylish nail photos along with feng shui \nadvice on her account. It seemed to get \nquite a bit of attention.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Speaking of steady grassroots work...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "I see, I seeâ If you want to connect \nwith each and every fan, just leave it to \nFalco!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Alright, let's get right to it! The birth \nof the Feng Shui Umadol Rickey-chan!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Later, Copano Rickey posts a few nail\nphotos\nalong with some feng shui advice.\nApparently, her\nposts get a decent\nnumber of views."
     },
     {
       "name": "Copano Rickey",
-      "text": "\"H-Huh!? An Umadol!?\"",
-      "choice_data_list": []
+      "text": "Relevant experience? Oh, I think I know\nsomeone\nwho fits the bill!"
     },
     {
       "name": "Smart Falcon",
-      "text": "If you sing with a smile every day, \neveryone will watch you! ☆ Let's do some \nfeng shui while we sing~! Alright!",
-      "choice_data_list": []
+      "text": "Ohhh, okay. ☆ Well, if you're talking\nabout\nmaking a connection with each of\nyour fans, then\nyou've come to the right\nperson!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Let's get started right away! It's time for\nRickey\nthe feng shui Umadol to shine!"
     },
     {
       "name": "Copano Rickey",
-      "text": "I see!? That might actually be fun in its \nown way...!?",
-      "choice_data_list": []
+      "text": "Wh-what?! Did you say \"Umadol\"?!"
     },
     {
-      "name": "Narrator",
-      "text": "It seems she has started walking down a \ndifferent path as well... At any rate, I \ndecided to keep supporting her steady \nefforts.",
-      "choice_data_list": []
+      "name": "Smart Falcon",
+      "text": "If you sing with a smile every single day,\nyou'll\nhave a huge audience in no\ntime. ☆ Just do some\nfeng shui while you\nsing! That'll do it!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "O...kay?! That could be pretty\nentertaining!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It looks like Copano Rickey has started\ndown a\ncompletely new path... but I\nwant to keep\nsupporting her efforts all\nthe same."
     }
   ]
 }

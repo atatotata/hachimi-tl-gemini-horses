@@ -2,228 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, I spotted Gold City talking with \nChairwoman Akikawa in the main courtyard.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I see Gold City talking with\nDirector\nAkikawa in the central plaza."
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Please! I'm counting on you! I apologize \nfor the sudden notice, but we need to meet \nthe deadline...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gold City",
-      "text": "Understood. Leave it to me.",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "name": "Director Akikawa",
+      "text": "Many thanks! I apologize for being so\nabrupt, but\nin order to accommodate\nthe delivery date..."
     },
     {
       "name": "Gold City",
-      "text": "\"They're about to take photos for the new \nstudent welcome brochure. I'm subbing in \nas the photo model.\"",
-      "choice_data_list": []
+      "text": "I understand. You can leave it to me."
+    },
+    {
+      "name": "Gold City",
+      "text": "They're planning a photo shoot for the\nwelcome\nbrochure to give to new\nstudents. I was asked to\nsub in for the\nmodel."
     },
     {
       "name": "Umamusume on the Phone",
-      "text": "\"Uuu... I'm so sorry...! *sniff* Why did I \nhave to go and catch a cold...?!\"",
-      "choice_data_list": []
+      "text": "Ahhh... I'm sorry! <i>Hic...</i> Why did I have to\ncatch a\ncold now of all times?"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "W-Wah, please don't cry! Anyone can catch \na cold—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gold City",
-      "text": "...Excuse me. Could I borrow that phone?",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Wh-whoa, please don't cry! We all come\ndown\nwith a cold from time to time."
     },
     {
       "name": "Gold City",
-      "text": "\"Don't cry anymore. I've already decided \nthat I'm going to take your place.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume on the Line",
-      "text": "\"*Sniff*... I'm so sorry... I caused \ntrouble for you too, City-san...\"",
-      "choice_data_list": []
+      "text": "Excuse me... Could I talk to her?"
     },
     {
       "name": "Gold City",
-      "text": "\"Hey now, that's not it, is it? What you \nshould be doing right now isn't \napologizing, it's getting over that cold!\"",
-      "choice_data_list": []
+      "text": "No need to cry. I'll be covering for you,\nokay?"
+    },
+    {
+      "name": "Umamusume on the Phone",
+      "text": "<i>Sniffle...</i> I'm s-sorry I'm such a burden to\n\neveryone..."
     },
     {
       "name": "Gold City",
-      "text": "\"So eat something nutritious and get to \nbed already! That's all from me, got it?\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Umamusume on the Line",
-      "text": "\"Y-Yes!\"",
-      "choice_data_list": []
+      "text": "Come on, you know that's not true. All\nyou need\nto focus on now is getting\nbetter!"
     },
     {
       "name": "Gold City",
-      "text": "Mm, well done. With an enthusiastic \nresponse like that, new jobs should start \nrolling in right away.",
-      "choice_data_list": []
+      "text": "Eat something nutritious and get some\nrest! That's\nall I have to say, okay?"
+    },
+    {
+      "name": "Umamusume on the Phone",
+      "text": "O-okay!"
     },
     {
       "name": "Gold City",
-      "text": "Alright, let's get started over here too. \nWe're using your racing outfits in \naddition to school uniforms, right?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Let's start with shots of the morning \ncommute, please!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Next, inside the school building! Very \nnice, that's a great expression!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Now let's take some in your racing outfit! \nOh, looking cool! One more shot, please!",
-      "choice_data_list": []
+      "text": "Good answer. If you can give that good\nof a\nresponse, you'll be landing another\njob in no\ntime."
     },
     {
       "name": "Gold City",
-      "text": "Alright. The last one is a shot of her \nrunning, huh.",
-      "choice_data_list": []
+      "text": "Okay, let's get started. I'll be needing\nmy\nsignature racewear in addition to our\nuniform,\nright?"
     },
     {
-      "name": "Filming Staff A",
-      "text": "Incredible... As expected of an active \nmodel. It's like she instinctively knows \nwhat kind of shot is wanted...",
-      "choice_data_list": []
+      "name": "Photographer",
+      "text": "Let's start with some shots of you coming\nto\nschool!"
     },
     {
-      "name": "Filming Staff B",
-      "text": "Man, you look seriously cool. The shoot's \ngoing so fast we might wrap up an hour \nearly.",
-      "choice_data_list": []
+      "name": "Photographer",
+      "text": "Okay, let's move inside the school\ngrounds! That's\nit! I like that face!"
     },
     {
-      "name": "Narrator",
-      "text": "Just as the staff said, Gold City during \nthe shoot was the very picture of a \nprofessional.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Different from her usual self on the \ntrack, she seemed dazzling and entirely \nout of reach—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cameraman",
-      "text": "Now for the last cut! City-san, show us \nyour absolute best weapon!",
-      "choice_data_list": []
+      "name": "Photographer",
+      "text": "All right, let's get into that signature\nracewear\nnow. Whoa, that's very cool!\nGive me one more!"
     },
     {
       "name": "Gold City",
-      "text": "...My greatest weapon...",
-      "choice_data_list": []
+      "text": "All right. Now, some running shots to\nwrap up."
+    },
+    {
+      "name": "Photo Shoot Staff A",
+      "text": "Amazing... She knows just what we're\nlooking for.\nSo glad we're working with a\npro."
+    },
+    {
+      "name": "Photo Shoot Staff B",
+      "text": "I know. She's amazing. The shoot's going\nso\nsmoothly we'll probably be done an\nhour early."
+    },
+    {
+      "name": "Monologue",
+      "text": "The staff is right—Gold City has been\nnothing but\nprofessional during the\nshoot."
+    },
+    {
+      "name": "Monologue",
+      "text": "She looks different from when she\nusually runs.\nHer radiance makes her\nappear... distant."
+    },
+    {
+      "name": "Photographer",
+      "text": "We've got just a few shots left, so show\nme your\ntop asset!"
     },
     {
       "name": "Gold City",
-      "text": "Hey, Trainer. Got a second?",
-      "choice_data_list": [
-        "Me?",
-        "Me?"
-      ]
+      "text": "My top asset..."
     },
     {
       "name": "Gold City",
-      "text": "Yep. You. What do you think my greatest \nweapon is?",
-      "choice_data_list": [
-        "A will to move forward",
-        "Like... grit and hustle?"
-      ]
+      "text": "Hey, Trainer. Can I talk to you for a\nsecond?"
     },
     {
       "name": "Gold City",
-      "text": "Heh~, so that's what you thought. About my \nrunning?",
-      "choice_data_list": [
-        "I really think so!"
-      ]
+      "text": "Yes, you. What do you think is my best\nasset?"
     },
     {
       "name": "Gold City",
-      "text": "……。",
-      "choice_data_list": []
+      "text": "Huh, I didn't know you thought that\nabout my\nrunning."
     },
     {
       "name": "Gold City",
-      "text": "Haha... Thanks for the overly passionate \nanswer.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Gold City",
-      "text": "...Pfft.",
-      "choice_data_list": []
+      "text": "Heh... A bit overdramatic, but thanks."
     },
     {
       "name": "Gold City",
-      "text": "Haha, that's wild. Me, getting down and \n\"gritty\"?",
-      "choice_data_list": []
+      "text": "Pfft."
     },
     {
       "name": "Gold City",
-      "text": "Fufufu. You're the only one who'd say \nsomething like that.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, Gold City headed into her final \nphotoshoot, and—",
-      "choice_data_list": []
+      "text": "Haha, you're sending me. I'm \"gritty,\"\nhuh?"
     },
     {
       "name": "Gold City",
-      "text": "Good work out there~",
-      "choice_data_list": []
+      "text": "Hehe. You're pretty much the only one\nwho'd tell\nme something like that."
     },
     {
-      "name": "Filming Staff B",
-      "text": "Man, as expected. That final run and pose \nreally brought out her unique style~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Just as the staff said, she was flawless \nthroughout the entire shoot. If so, then \nwhy...\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Afterwards, Gold City goes to take her\nlast few\nshots."
     },
     {
       "name": "Gold City",
-      "text": "? What is it, Trainer?",
-      "choice_data_list": [
-        "Why did you ask me what your greatest \nweapon is?",
-        "Why did you ask me what your greatest \nweapon was?"
-      ]
+      "text": "Thanks, guys."
     },
     {
-      "name": "Narrator",
-      "text": "\"...Back then, even without going out of \nher way to ask me, she probably already \nunderstood, didn't she?\"",
-      "choice_data_list": []
+      "name": "Photo Shoot Staff B",
+      "text": "Man, that was fantastic. You really\nshowed off\nyour own unique spark in\nthose last running shots."
     },
     {
-      "name": "Gold City",
-      "text": "Look. A model's whole job is to deliver on \nwhatever the client asks for.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The staff is right—she was perfect all\nthroughout\nthe photo shoot. But then,\nwhy did she..."
     },
     {
       "name": "Gold City",
-      "text": "\"That's why I just asked. Asked the person \nwho understands 'my greatest weapon' even \nbetter than I do.\"",
-      "choice_data_list": []
+      "text": "Hm? What's up, Trainer?"
+    },
+    {
+      "name": "Monologue",
+      "text": "She should've already known the answer\nto that.\nWhy would she need to go out\nof her way to ask\nme?"
     },
     {
       "name": "Gold City",
-      "text": "...You're my Trainer, aren't you?",
-      "choice_data_list": []
+      "text": "Look, modeling is all about giving the\nclient what\nthey want."
     },
     {
-      "name": "Narrator",
-      "text": "Bathed in the glow of the sunset, her \nexpression was no longer that of a model, \nbut that of a Tracen Academy student.",
-      "choice_data_list": []
+      "name": "Gold City",
+      "text": "So I asked for your input. They wanted\nmy top\nasset, and you know what that is\nbetter than\nanyone—even myself."
+    },
+    {
+      "name": "Gold City",
+      "text": "Because, well... you're my trainer."
+    },
+    {
+      "name": "Monologue",
+      "text": "Under the light of the setting sun, I see\nin her\nexpression not the pro model from\nthe photo\nshoot just now, but a student\nof Tracen Academy."
     }
   ]
 }

@@ -2,158 +2,120 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, during training—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, during training..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Lately, our training has mostly centered \naround \"catching your breath\" mid-run, \nhasn't it?",
-      "choice_data_list": []
+      "text": "I've noticed that your recent training\nsessions\nhave centered on improving\nyour trainee's\nbreathing mid-race."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "And slope training, prioritizing reps over \nspeed to build up stamina...",
-      "choice_data_list": []
+      "text": "You've also taken to slope training,\nwhich builds\nstamina and emphasizes\nendurance over speed..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Could your next race happen to be a \nLong-distance one?",
-      "choice_data_list": []
+      "text": "Are you perhaps planning on running a\n\nlong-distance race?"
     },
     {
-      "name": "Mid-Level Trainer A",
-      "text": "Ahaha... Oh boy. It hasn't been announced \nyet, so keep this off the record.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes, I understand. I shall only concern \nmyself with her physical condition, after \nall.",
-      "choice_data_list": []
+      "name": "Skilled Trainer A",
+      "text": "Ahaha... You got me there. Nothing's\nbeen\nannounced publicly yet, so could\nyou keep that\noff the record?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Ah, Trainer <username>. Good work today.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "It seems that she—magazine reporter \nOtonashi-san— came for an interview, but \neven so...",
-      "choice_data_list": [
-        "You really know a lot about Umamusume."
-      ]
+      "text": "Of course. I'm here to ask about your\ntrainee's\nprogress, nothing more."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes, as a journalist, I possess at least a \nbaseline level of knowledge.",
-      "choice_data_list": []
+      "text": "Ah, Trainer\n<username>.\n It's\nnice to see you again."
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems that Otonashi is here to conduct\n\ninterviews for her magazine, but I'm\nnoticing\nsomething..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Having knowledge enables me to write \nbetter articles, after all.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Ms. Otonashi seems to take the Umamusume \neven more seriously than I had thought.",
-      "choice_data_list": []
+      "text": "Well, I <i>am</i> a reporter. It's my job to have\na certain\namount of background\nknowledge."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...Ah!? My apologies. I ended up talking \nall about myself.",
-      "choice_data_list": []
+      "text": "The more knowledgeable I am on the\nsubject\nmatter, the better the articles I\ncan write."
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems Miss Otonashi takes the subject\nof\nUmamusume more seriously than I\nthought."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Since we've crossed paths like this, I \nwould love the chance to interview the \ngirl you train.",
-      "choice_data_list": []
+      "text": "Ah! I do apologize. I've only been\ntalking about\nmyself."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Only as far as you are comfortable \nsharing, are there any issues or \nchallenges you are currently facing?",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "She insists she is strictly a reporter, \nbut I thought her knowledge might be \ndependable—",
-      "choice_data_list": [
-        "My lack of power is the problem, though...",
-        "Speed is still an issue for me, though..."
-      ]
+      "text": "Seeing as we've got the chance, would\nyou mind\nif I asked you about your\ntrainee?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"Did you just say... strength...!? \nTh-That's wonderful!\"",
-      "choice_data_list": [
-        "What... earlier?!"
-      ]
+      "text": "What would you say is your next hurdle?\nIt\ndoesn't have to be anything big."
+    },
+    {
+      "name": "Monologue",
+      "text": "For all that she insists she's just a\nreporter, her\nexpertise might come in\nhandy."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "For developing power, uphill training and \nweight training are effective...",
-      "choice_data_list": []
+      "text": "Strength, you say?! That's... simply\namazing!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "However, the absolute essential is the \nfood! Food that builds supple and \nresilient muscles!",
-      "choice_data_list": []
+      "text": "Slope and weight training are both\neffective ways\nof building strength."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Ah... To think you are prepared to go \ngather ingredients yourself— Okinawan pork \nfor longevity, bird's nests from sheer \ncliffs, and even deep-sea fish from the \nocean floor—all for the ultimate meal...",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "(I didn't mentally prepare myself for \nthat, but the discussion about meals was \nvery useful.)",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "A few days later—while it wasn't a \ndeep-sea fish, I caught some white fish \ngreat for building muscle and treated <chrname> to \nit.",
-      "choice_data_list": []
+      "text": "But the most important thing by far is\ndiet! Strong\nand supple muscles are\nmade in the kitchen!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Did you just say 'speed'... loud and \nclear!?",
-      "choice_data_list": []
+      "text": "So you must be hunting for the very best\n\ningredients! I'm talking long-lived\nOkinawan pork,\nclifftop swallow's nests,\nand deep-sea fish from\nthe ocean floor...\nAh, such devotion!"
+    },
+    {
+      "name": "Monologue",
+      "text": "(I think she might have gotten the wrong\nidea\nthere, but her comments about diet\nare very\nuseful.)"
+    },
+    {
+      "name": "Monologue",
+      "text": "Deep-sea fish might be a little out of my\nbudget,\nbut I later catch a white fish\nthat's good for\nbuilding muscle and\nserve it to\n<chrname>."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "It is wonderful!!",
-      "choice_data_list": [
-        "What... earlier?!"
-      ]
+      "text": "Speed, you say?! That's..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"If you're seeking speed, managing body \nfat percentage to cut weight without \nlosing muscle is key...\"",
-      "choice_data_list": []
+      "text": "Simply amazing!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "However, that is a very harsh ordeal. Some \ngirls even fall out of shape from the \nstress.",
-      "choice_data_list": []
+      "text": "If you're looking for speed, it's important\nto\nmanage your body fat percentage\nand reduce\nyour weight without losing\nmuscle..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "So Trainer, you must do your best to \nprevent stress from building up in your \nUmamusume!!",
-      "choice_data_list": []
+      "text": "However, that can be really tough, and\nsome\nUmamusume even get sick from\nthe stress."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Ah... To think you are prepared to rent \nout an amusement park, book a cruise on a \nluxury liner, and even arrange a \ntranscontinental overseas trip...",
-      "choice_data_list": []
+      "text": "That's why you have to make an effort to\nprevent\nyour trainee from getting\nstressed out!"
     },
     {
-      "name": "",
-      "text": "(I didn't mentally prepare myself for \nthat, but the discussion on body fat \npercentage was very useful.)",
-      "choice_data_list": []
+      "name": "Reporter Otonashi",
+      "text": "So you must be sparing no expense! I'm\ntalking\nrenting out amusement parks,\nluxury cruises, and\ncross-continental\noverseas road trips... Ah, such\ndevotion!"
     },
     {
-      "name": "",
-      "text": "A few days later, as a reward for her \ngrueling training, we couldn't go on a \ncruise or trip abroad, but <chrname> and I were \nable to let our hair down.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "(I think she might have gotten the wrong\nidea\nthere, but her comments about\nreducing body fat\npercentage are very\nuseful.)"
+    },
+    {
+      "name": "Monologue",
+      "text": "Cruises and overseas travel might be a\nlittle out\nof my budget, but I make sure\nto give\n<chrname> a chance\nto relax as a\nreward for getting through\nour grueling training."
     }
   ]
 }

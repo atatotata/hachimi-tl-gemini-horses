@@ -3,81 +3,59 @@
   "text_block_list": [
     {
       "name": "Fine Motion",
-      "text": "—Ngh... Phew...",
-      "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
-      ]
+      "text": "Ngh... <i>Groan...</i>"
     },
     {
       "name": "Fine Motion",
-      "text": "Excuse me... I've had a bit of a headache \nfor a little while now... But it's nothing \nserious—",
-      "choice_data_list": []
+      "text": "Pardon me... It's just that I've had a\nheadache for\na little while. I don't think\nit's anything to—"
     },
     {
-      "name": "Bodyguard Captain",
-      "text": "—All units, do you copy? We will now \nescort Her Highness to the hospital!",
-      "choice_data_list": [
-        "！？"
-      ]
+      "name": "Security Captain",
+      "text": "Attention, all units. Did you hear that?\nEscort Her\nHighness to the nearest\nmedical facility at once!"
     },
     {
-      "name": "SP",
-      "text": "—Captain! Preparations for the escort are \ncomplete! Arrangements for the 'Umamusume \nDock' have also been finalized.",
-      "choice_data_list": []
+      "name": "Security Officer",
+      "text": "Captain! Transport preparations are\ncomplete!\nWe've also booked Her\nHighness in for a\ncomplete medical\nevaluation!"
     },
     {
-      "name": "Voice over Radio",
-      "text": "“—This is Eagle Squad. Dispatching one \nunit to the academy rooftop. ETA is two \nminutes, over.”",
-      "choice_data_list": []
+      "name": "Voice on the Radio",
+      "text": "This is Eagle Squad. Now dispatching\nchopper to\nschool rooftop. ETA is in two\nminutes. Over."
     },
     {
-      "name": "Bodyguard Captain",
-      "text": "Alright, everyone assume your positions! \nWe will now commence the operati—",
-      "choice_data_list": []
+      "name": "Security Captain",
+      "text": "Copy. Everyone, take your positions!\nOperation\nDoctor's Visit is—"
     },
     {
       "name": "Fine Motion",
-      "text": "Stoooop!",
-      "choice_data_list": []
+      "text": "STOOOOOP!"
     },
     {
-      "name": "Bodyguards",
-      "text": "—Kh!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fine Motion",
-      "text": "*ahem*! In my name, I order you. Abort the \noperation immediately...!",
-      "choice_data_list": []
+      "name": "Security Team",
+      "text": "...!"
     },
     {
       "name": "Fine Motion",
-      "text": "We must not cause a needless scene at the \nacademy. It is far too premature to go to \nthe hospital over something of this level.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Bodyguard Captain",
-      "text": "Ah...! My apologies. All units, return to \nstandard patrol...!",
-      "choice_data_list": [
-        "W-Well, let's wait and see how things go \nfirst.",
-        "W-Well, let's wait and see how things go \nfirst."
-      ]
+      "text": "Ahem! By the power vested in my name,\nI hereby\norder you to abort this\noperation at once!"
     },
     {
       "name": "Fine Motion",
-      "text": "Indeed. That sou—",
-      "choice_data_list": []
+      "text": "We must not cause an undue ruckus at\nthe\nacademy. I have no need for medical\ntreatment at\nthis time."
+    },
+    {
+      "name": "Security Captain",
+      "text": "Understood, Your Highness! My\napologies. All\nunits, stand down! Return\nto default positions!"
     },
     {
       "name": "Fine Motion",
-      "text": "Ow-ow-ow... Raising my voice made it throb \nagain...",
-      "choice_data_list": []
+      "text": "Yes, that sounds—"
     },
     {
-      "name": "",
-      "text": "However, her migraine persisted, and she \nwould be plagued by pain for a while \nlonger.",
-      "choice_data_list": []
+      "name": "Fine Motion",
+      "text": "Ooouch... All that shouting has got my\nhead\npounding again..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Fine Motion's migraine doesn't go away,\nhowever,\nand she struggles with the pain\nfor a while."
     }
   ]
 }

@@ -2,31 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Gold Ship looked somehow down in the \ndumps.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Gold Ship seems less chipper than usual."
     },
     {
       "name": "Gold Ship",
-      "text": "Ah... mayday, mayday. This is Gold Ship \nspeaking.",
-      "choice_data_list": []
+      "text": "Ugh... Mayday, mayday. This is Gold\nShip."
     },
     {
       "name": "Gold Ship",
-      "text": "Currently out of fuel. Out of fuel. \nSwitching to low-power mode. Over.",
-      "choice_data_list": []
+      "text": "I am out of fuel. I repeat, I am out of\nfuel.\nSwitching to low power mode.\nOver."
     },
     {
       "name": "Gold Ship",
-      "text": "—Guh.",
-      "choice_data_list": [
-        "(Standing up...!)"
-      ]
+      "text": "<i>Zzz...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "For the sake of her future success, it \nseems we'll need to review her race \nschedule...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I should probably adjust her racing\nschedule..."
     }
   ]
 }

@@ -2,418 +2,328 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, some time after team training had \nstopped going smoothly.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Some time after the team's training\nprogress falls\ninto a slump..."
     },
     {
-      "name": "Narrator",
-      "text": "An incident occurred!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Ah—! Trai~neeer~!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "They get embroiled in a messy incident."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "I'm sorry, I went and started an impromptu \nrace with Team <First>!",
-      "choice_data_list": [
-        "Why?!"
-      ]
+      "text": "Oh! Traaainer!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Ugh, sorry for acting on my own! You see, \nthe thing is--",
-      "choice_data_list": []
+      "text": "I thought you should know but we, uh,\ngot roped\ninto an unofficial match\nagainst Team Zenith!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I'm sorry! But you see..."
     },
     {
       "name": "Rice Shower",
-      "text": "...Huh... Whose drink is this...? There's \nno name on it...",
-      "choice_data_list": []
+      "text": "Hm? Whose drink is this? No one's\nwritten their\nname on it..."
     },
     {
       "name": "Rice Shower",
-      "text": "If it's out in the sun, it'll get \nlukewarm... Let's move it to the shade—",
-      "choice_data_list": []
+      "text": "I'd better move it into the shade. It'll get\nall warm\nif it's left out in the sun like\nthis..."
     },
     {
-      "name": "Narrator",
-      "text": "(SPLAAASH!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...! I-It all spilled...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Just then, Little Cocon—the owner of the \ndrink— arrived at the worst possible time—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Splash!</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "I'm sorry, I'm so sorry...!",
-      "choice_data_list": []
+      "text": "Wah! Oh no, I spilled it all!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It just so happens that the drink\nbelonged to\nLittle Cocon, who shows up\nat exactly the wrong\ntime."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I'm sorry! I'm so sorry!"
     },
     {
       "name": "Little Cocon",
-      "text": "...Well, we are a team that gets plenty of \nhate, so maybe this kinda stuff is par for \nthe course.",
-      "choice_data_list": []
+      "text": "Hmph. I know we're not on friendly\nterms, but I\ndidn't expect you to pull\nsomething like this."
     },
     {
-      "name": "Narrator",
-      "text": "Hearing the commotion, the team members \nbegan gathering one after another—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Before long, members of both teams\ngather to\nsee what the commotion is\nabout."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "No! She didn't do it on purpose! Rice \nisn't that kind of girl!",
-      "choice_data_list": []
+      "text": "No, you're all mistaken! Rice isn't that\nkinda\nperson! There's no way she did it\non purpose!"
     },
     {
       "name": "Little Cocon",
-      "text": "No, there's no way you just \"accidentally\" \nknock over an entire drink! That's \nimpossible!",
-      "choice_data_list": []
+      "text": "Are you trying to tell me she spilled the\n<i>entire</i>\ndrink \"on accident\"? Yeah, right."
     },
     {
-      "name": "Narrator",
-      "text": "So things got heated, and when the members \nof Team First stepped in to break it up—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As the argument gets more heated, the\nother\nmembers of Team Zenith attempt\nto intervene."
     },
     {
       "name": "Bitter Glasse",
-      "text": "Alright, then we're having an impromptu \nrace right here! Let's settle this with a \nnice, clean match!",
-      "choice_data_list": []
+      "text": "All right, this calls for an off-the-books\nmatch!\nNothing like a little competition\nto settle things!"
     },
     {
       "name": "Bitter Glasse",
-      "text": "“Just an ordinary match would be boring, \nthough! How 'bout the loser gets banned \nfrom using the track for life?!”",
-      "choice_data_list": []
+      "text": "Buuut it'd be boring to just have a\nregular old\nrace. So, how about\nthis—whoever loses is\nbanned from the\ntrack... forever!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Eeeh!",
-      "choice_data_list": []
+      "text": "Seriously?!"
     },
     {
       "name": "Little Cocon",
-      "text": "That's an interesting offer. I'm in. You \nguys look weak, so I'll give you a \nhandicap.",
-      "choice_data_list": []
+      "text": "Interesting proposal. I'm in. Since you're\nall so\nweak, I'll make this even easier for\nyou."
     },
     {
       "name": "Little Cocon",
-      "text": "If you can take even a single race, I'll \nlet you have the win.",
-      "choice_data_list": []
+      "text": "If you manage to win a single race\nagainst us,\nthen we'll consider you the\noverall victors."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "M-Mmmmmmgh~! You can only talk like that \nwhile you still have the chance!",
-      "choice_data_list": []
+      "text": "Nnngh! You won't be so smug for long!"
     },
     {
-      "name": "Narrator",
-      "text": "Or so it seemed...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "...And that seems to be the long and\nshort of what\nhappened!"
     },
     {
-      "name": "Narrator",
-      "text": "I hurried over to the grounds, only to \nfind the race had already started—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I hurry to the track to see the contest\nalready in\nfull swing."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Urara! Fight!",
-      "choice_data_list": []
+      "text": "C'mon, Urara!"
     },
     {
-      "name": "Narrator",
-      "text": "The entire team leaned over the spectator \nrailing, cheering their hearts out for \nHaru Urara mid-race.",
-      "choice_data_list": [
-        "An unsanctioned race?"
-      ]
+      "name": "Monologue",
+      "text": "The whole team is excitedly cheering on\nHaru\nUrara from the stands."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Trainer!",
-      "choice_data_list": []
+      "text": "Trainer!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Oh, sorry for jumping in on our own... But \nwe just couldn't let this slide...!",
-      "choice_data_list": []
+      "text": "I'm super-duper sorry, but we couldn't\nlet them\nget away with bad-mouthin' us!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "However, that team over there is suuuper \nstrong, and Urara is...",
-      "choice_data_list": []
+      "text": "But they're pretty strong, so I'm not sure\nif Urara\nis gonna be able to..."
     },
     {
       "name": "Haru Urara",
-      "text": "H-Hyaaa!",
-      "choice_data_list": []
+      "text": "S-so fast!"
     },
     {
-      "name": "Narrator",
-      "text": "The dirt race taking place on the track \nwas only halfway through, but the outcome \nwas already clear—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The race on the dirt track is only half\ndone, but\nit's clear who the winner is."
     },
     {
       "name": "Haru Urara",
-      "text": "Soooo strooong!",
-      "choice_data_list": []
+      "text": "She's too strong!"
     },
     {
-      "name": "Narrator",
-      "text": "Crossing the finish line with a massive \ngap behind the leader!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Haru Urara passes the finish line long\nafter her\nopponent."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Besides, their abilities go without \nsaying, but everyone is also so cool—",
-      "choice_data_list": []
+      "text": "They're so fast, but they're also just so\ndarn\nunflappable..."
     },
     {
       "name": "Little Cocon",
-      "text": "...Warm-up complete.",
-      "choice_data_list": []
+      "text": "That's enough for warming up."
     },
     {
       "name": "Bitter Glasse",
-      "text": "Hoo, hoo, hoo, hoo...",
-      "choice_data_list": []
+      "text": "Hup, hup, hup..."
     },
     {
-      "name": "Narrator",
-      "text": "\"Indeed, even when a teammate won, they \nonly gave a brief glance before quietly \ncontinuing with their own warm-ups.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Even though their teammate just won,\nTeam\nZenith barely spares her a glance\nand silently\ncontinues their warm-ups."
     },
     {
-      "name": "Narrator",
-      "text": "It was in stark contrast to our team, who \nwere eagerly cheering away.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It's a stark contrast with our team's\nmembers, who\nare cheering their\nteammates on as hard as they\ncan."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Whoa~, it kinda feels like everyone's \nfighting individually... like true pros, \nyou know?",
-      "choice_data_list": []
+      "text": "Man... They're all just focused on their\nown\nprogress and work, just like\nmembers of a\nprofessional team."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "I must brace myself as well...! Come to \nthink of it, how are our race records \nlooking right now?",
-      "choice_data_list": []
+      "text": "I need to get my head in the game too!\nBy the\nway, how are we doing in the\nraces?"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Weeell...",
-      "choice_data_list": []
+      "text": "Well..."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "W-We lost every match...!? Which means all \nthat's left is my Medium distance, and \nRice-san's Long distance!?",
-      "choice_data_list": []
+      "text": "W-we've lost every one?! Then... the\nonly chances\nwe have left are my\nmedium-distance race and\nRice's\nlong-distance race?!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "\"Sowwy... Maybe because I wasn't focused \non training, I was off my game, YES...\"",
-      "choice_data_list": []
+      "text": "I'm sorry... I was awful out there... It\nmight've been\nbecause I couldn't focus\nduring training."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "I can't just stand around! I need to start \nwarming up right now, too~!",
-      "choice_data_list": []
+      "text": "We can't continue on like this! I'm going\nto warm\nup!"
     },
     {
-      "name": "Narrator",
-      "text": "However, the medium-distance race held \nafter that—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "However, in the race that follows..."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Seiyaaa! For the team! I won't lose! \nThere's no way I'll lose!",
-      "choice_data_list": []
+      "text": "Raaah! This is for the team! I won't lose, I\nwon't\nlose!"
     },
     {
       "name": "Bitter Glasse",
-      "text": "I can do it! I will do it! Pure guts~!",
-      "choice_data_list": []
+      "text": "Guts! Glory! And gumptiooon!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "And yet, why...! Why is the gap opening \nup～～?!",
-      "choice_data_list": []
+      "text": "How is she getting so far ahead?! I'm\ndoing my\nbest over here!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "I'm sorry... I really wanted to win... At \nthis rate, the grounds will be...",
-      "choice_data_list": []
+      "text": "I'm so sorry... I really wanted to win, but\nI\ncouldn't... At this rate, we'll be banned\nfrom the\ntraining grounds."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "D-Don't worry! We still have the Long \ndistance race! As long as Rice wins, \neverything will be fine, YES!",
-      "choice_data_list": []
+      "text": "D-don't ya worry about it! As long as\nRice wins in\nthe long-distance race, we'll\nbe golden!"
     },
     {
       "name": "Rice Shower",
-      "text": "……！",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Rice! Do your best!",
-      "choice_data_list": []
+      "text": "Show 'em your stuff, Rice!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Please, Rice-san! You have to win...!",
-      "choice_data_list": []
+      "text": "We're counting on you, Rice! Please win!"
     },
     {
       "name": "Haru Urara",
-      "text": "You'll be just fine, Rice-chan! You're \ntotaaaally gonna win!",
-      "choice_data_list": []
+      "text": "You'll be fine, Rice! You've got this in\nthe bag!"
     },
     {
       "name": "Rice Shower",
-      "text": "...Y-Yeah... Rice... has to make sure she \nwins...!",
-      "choice_data_list": []
+      "text": "Y-yeah! I'll w-win this!"
     },
     {
-      "name": "Narrator",
-      "text": "\"However, when Rice Shower left, her face \nwas stark white.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "However, Rice Shower looks shaky and\npale as\nshe leaves for the track."
     },
     {
-      "name": "Narrator",
-      "text": "Curious, I chased after her— only to find \nher standing frozen in place.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm a bit worried, so I run after her, only\nto find\nher standing frozen in place."
     },
     {
       "name": "Rice Shower",
-      "text": "It's all Rice's fault to begin with... I \njust have to win...!",
-      "choice_data_list": []
+      "text": "It's my fault that we got into this\nsituation... I\n<i>must</i> win!"
     },
     {
       "name": "Rice Shower",
-      "text": "\"Do your best, Rice, hang in there... \nO-oh...!\"",
-      "choice_data_list": []
+      "text": "You can do this, Rice... You can win!"
     },
     {
       "name": "Rice Shower",
-      "text": "...*sniffle*...!",
-      "choice_data_list": []
+      "text": "<i>Sniff...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Though I rushed over, I was one step too \nlate; pale as a ghost, Rice Shower ran \noff.",
-      "choice_data_list": [
-        "(I wonder if she'll be okay...)",
-        "(I wonder if everything's okay...)"
-      ]
+      "name": "Monologue",
+      "text": "I'm just a moment too late. Rice Shower\ndashes\noff with a pallid face before I can\ncall out to her."
     },
     {
-      "name": "Narrator",
-      "text": "My fears came true.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Unfortunately, my fears turn out to be\njustified."
     },
     {
       "name": "Rice Shower",
-      "text": "Haa, haa! I-I can't lose...! The team will \nbe in trouble...!",
-      "choice_data_list": []
+      "text": "<i>Wheeze... Huff...</i> I c-can't lose! The\nentire team's\nfuture is at stake!"
     },
     {
       "name": "Team Members",
-      "text": "Ready, and...! Do your best, Rice Shower!",
-      "choice_data_list": []
+      "text": "All together now... YOU GOT THIS,\nRICE\nSHOWER!"
     },
     {
       "name": "Rice Shower",
-      "text": "Huh!? What!?",
-      "choice_data_list": []
+      "text": "Huh?! Wha?!"
     },
     {
       "name": "Little Cocon",
-      "text": "Ha, chickening out, are we? Not really \nused to running for everyone else's sake, \nright?",
-      "choice_data_list": []
+      "text": "Hah, you scaredy-cat. Running for your\nteam's\nsake isn't getting you anywhere,\nis it?"
     },
     {
       "name": "Little Cocon",
-      "text": "Maybe you should quit the team...!",
-      "choice_data_list": []
+      "text": "You'd be better off if you just quit!"
     },
     {
       "name": "Rice Shower",
-      "text": "...!",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
-      "name": "Narrator",
-      "text": "Rice Shower was defeated, trailing behind \nby five lengths.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Rice Shower loses by a margin of five\nlengths."
     },
     {
       "name": "Rice Shower",
-      "text": "I'm sorry, Rice... Rice...! It's all \nRice's fault the grounds are...!",
-      "choice_data_list": []
+      "text": "I'm so sorry! It's all my fault! We'll never\nbe able\nto use the field again because of\nme!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "No, we couldn't win eitheeeer. Nobody \ncould win, after all...",
-      "choice_data_list": []
+      "text": "It's not your fault, Rice. None of us were\nable to\nwin."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "However... being forbidden from using the \ngrounds really puts us in a bind, doesn't \nit?",
-      "choice_data_list": []
+      "text": "It'll be tough not being able to use the\ntrack,\nthough..."
     },
     {
-      "name": "Narrator",
-      "text": "The team members are shaken, but... \nhonestly, there's no way such an \nunreasonable bet could ever stand.",
-      "choice_data_list": [
-        "Let's discuss the wager with Agent \nKashimoto."
-      ]
+      "name": "Monologue",
+      "text": "The team is shaken, but frankly, I don't\nthink their\nopponents should have been\npermitted to set\nsuch outrageous stakes\nin the first place."
     },
     {
-      "name": "Narrator",
-      "text": "\"It's sure to be deemed invalid,\" I said, \nand the team members visibly relaxed with \nrelief.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "They're visibly relieved when I assure the\nteam\nthat we'll nullify the whole thing."
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, is that all! Then we're totally fine!",
-      "choice_data_list": []
+      "text": "Phew! Everything will be all right, then!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "\"Even so, the fact that not a single one \nof them won does bother me a little.\"",
-      "choice_data_list": []
+      "text": "I'm a bit put out by the fact that none of\nus won,\nthough."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "It starts right now, Fukukitaru! Let's all \njoin forces and get to training!",
-      "choice_data_list": []
+      "text": "Hey, we're just getting started,\nFukukitaru! We\njust hafta work harder\ntogether and train even\nmore from here\non out!"
     },
     {
       "name": "Rice Shower",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
-      "name": "Narrator",
-      "text": "And so, the team members regained their \nusual friendly, harmonious atmosphere.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Before long, the team manage to get\nback into\ntheir groove, with everyone\nbeing relaxed and\nfriendly toward each\nother."
     },
     {
-      "name": "Narrator",
-      "text": "After speaking with Acting Director \nKashimoto, the ban on using the track was \nsuccessfully lifted.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And Ms. Kashimoto thankfully agrees\nthat the bet\nshould be nullified, so\nnobody is banned from\nusing the track."
     },
     {
-      "name": "Narrator",
-      "text": "However... from that day on, whenever Rice \nShower came to team practice, her \nexpression seemed somewhat gloomy.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "But ever since that day, Rice Shower\nseems more\nquiet and gloomy than usual\nduring team\npractice..."
     }
   ]
 }

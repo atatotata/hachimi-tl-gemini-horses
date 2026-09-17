@@ -2,409 +2,316 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "On the way home from an outing with Aston \nMa-chan, one corner of the shopping \ndistrict was unusually lively.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "On our way back from an outing, Aston\nMachan\nand I notice that a certain\ncorner of the shopping\ndistrict is\nparticularly busy."
     },
     {
       "name": "Aston Machan",
-      "text": "Hm, a raffle?",
-      "choice_data_list": []
+      "text": "Oh, there's a raffle."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Aston Machan",
-      "text": "I will go obtain it.",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "I'm going to get one."
     },
     {
       "name": "Aston Machan",
-      "text": "Here is a lottery ticket.",
-      "choice_data_list": [
-        "You want to do it?",
-        "Do you want to do it?"
-      ]
+      "text": "A raffle ticket."
     },
     {
       "name": "Aston Machan",
-      "text": "Of course. A \"Hot Spring Trip Voucher\" \nmeans, well... that.",
-      "choice_data_list": []
+      "text": "Of course. There's a coupon for a hot\nspring\nvacation up for grabs."
     },
     {
       "name": "Aston Machan",
-      "text": "A spotless inn, delicious meals, hot \nsprings. Pillow fights and girl talk. Yes, \na true treasure chest of memories.",
-      "choice_data_list": []
+      "text": "The dazzling inn, the delicious meals,\nthe hot\nbaths. Pillow fights, girl talk. A\nhot spring\nvacation makes for a treasure\ntrove of memories."
     },
     {
       "name": "Aston Machan",
-      "text": "How could I not do it? ...No, I must.",
-      "choice_data_list": []
+      "text": "Do I have the will to resist the\ntemptation? ...No,\nI don't."
     },
     {
-      "name": "",
-      "text": "Together with Aston Machan, I hurried to \nget raffle tickets—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Here I go!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Aston Machan enthusiastically spun the \nraffle drum lever!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "So Aston Machan and I quickly procure\nourselves\na raffle ticket, and..."
     },
     {
       "name": "Aston Machan",
-      "text": "...Wah.",
-      "choice_data_list": []
+      "text": "Here I go."
+    },
+    {
+      "name": "Monologue",
+      "text": "Aston Machan gives the raffle machine a\npowerful\nspin!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Aston Machan",
-      "text": "Whoa, that's amazing. You're incredible, \nChan-mee...!",
-      "choice_data_list": []
+      "text": "...Wow."
     },
     {
       "name": "Aston Machan",
-      "text": "With this, I can invite Vodka and the \nothers for a nice, cozy hot spring trip \nfor the three of us—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Ah, sorry. This is a pair ticket, you see.",
-      "choice_data_list": []
+      "text": "Yay! This is amazing! Yay for Machan!"
     },
     {
       "name": "Aston Machan",
-      "text": "Huh.",
-      "choice_data_list": []
+      "text": "I can invite Vodka and Scarlet, and we\ncan all go\non a revitalizing trip to the\nhot springs."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Oh, I'm so sorry. This ticket is only for\ntwo."
     },
     {
       "name": "Aston Machan",
-      "text": "Is that so? If it's pairs, then three of \nus can't go together...",
-      "choice_data_list": []
+      "text": "Huh?"
     },
     {
       "name": "Aston Machan",
-      "text": "We have a problem.",
-      "choice_data_list": [
-        "Why don't you put it away for now?"
-      ]
+      "text": "Oh. So that means we can't all go."
     },
     {
       "name": "Aston Machan",
-      "text": "Indeed. The day to use it will surely \ncome.",
-      "choice_data_list": []
+      "text": "...That makes things difficult."
     },
     {
       "name": "Aston Machan",
-      "text": "In my room... no, I will leave it in the \nTrainer's office.",
-      "choice_data_list": [
-        "To the trainer's office?"
-      ]
+      "text": "Good idea. I'm sure one day I'll get a\nchance to\nuse it."
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. Let's display it. Inside a frame.",
-      "choice_data_list": []
+      "text": "I'll keep it in my room. No, actually, I'll\nput it in\nyour office."
     },
     {
       "name": "Aston Machan",
-      "text": "If you treasure it, you won't lose it. One \nglance is all it takes to remember.",
-      "choice_data_list": []
+      "text": "Yes. We can display it in a frame."
     },
     {
       "name": "Aston Machan",
-      "text": "In other words, you won't end up letting \nthem go to waste. Perfect.",
-      "choice_data_list": [
-        "I see...?"
-      ]
+      "text": "If we treat the coupon with care, we\nwon't lose it.\nAnd it'll stay in mind as\nlong as it's in sight."
     },
     {
       "name": "Aston Machan",
-      "text": "First of all, I need to go buy a big \npicture frame...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And so, until that fateful day comes, the \n\"Hot Springs Trip Ticket\" was put on \ndisplay in the Trainer's office.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "That way, we'll make sure it doesn't go\nto waste.\nPerfect."
     },
     {
       "name": "Aston Machan",
-      "text": "Kh... Just one step away.",
-      "choice_data_list": []
+      "text": "First, we need to go buy a big picture\nframe!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, until the day we use it, we\ndecide to put\nthe hot spring vacation\ncoupon on display in my\noffice."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Aston Machan",
-      "text": "Still, it looks very delicious. And it is \nexceptionally large.",
-      "choice_data_list": []
+      "text": "Aw... I was so close."
     },
     {
       "name": "Aston Machan",
-      "text": "\"...Trainer, have you decided on dinner \nyet?\"",
-      "choice_data_list": []
+      "text": "But this prize does look very tasty. And\nit's\nenormous as well."
     },
     {
       "name": "Aston Machan",
-      "text": "...*munch*.",
-      "choice_data_list": []
+      "text": "...Do you have any plans for dinner\ntonight,\nTrainer?"
     },
     {
       "name": "Aston Machan",
-      "text": "...! Th-This is...",
-      "choice_data_list": [
-        "It's so delicious."
-      ]
+      "text": "<i>...Munch.</i>"
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. A revolution.",
-      "choice_data_list": []
+      "text": "Oh, wow. This is..."
     },
     {
       "name": "Aston Machan",
-      "text": "This is so good, we practically have to \ndeclare today Carrot Hamburg Steak Day.",
-      "choice_data_list": [
-        "Carrot Hamburg Steak Day"
-      ]
+      "text": "Yes. It's revolutionary."
     },
     {
       "name": "Aston Machan",
-      "text": "In other words, next year is also Carrot \nHamburg Steak Day. And the year after \nthat. We will definitely eat carrot \nhamburg steaks.",
-      "choice_data_list": []
+      "text": "It makes me want to commemorate the\nday... We\nshould remember this date as\nCarrot Hamburger\nSteak Day."
     },
     {
       "name": "Aston Machan",
-      "text": "And in time, it becomes tradition, \nrecorded in textbooks a hundred years from \nnow.",
-      "choice_data_list": []
+      "text": "Yes. Next year, too, this day can be\nCarrot\nHamburger Steak Day. And the\nyear after as well.\nWhen it comes\naround, we'll eat carrot hamburger\n\nsteak, no matter what."
     },
     {
       "name": "Aston Machan",
-      "text": "The great Umamusume who created Carrot \nHamburger Steak Day: Aston Machan.",
-      "choice_data_list": []
+      "text": "And then, before you know it, it'll\nbecome a\ntradition. A hundred years\nfrom now, it'll be\ndocumented in\ntextbooks."
     },
     {
       "name": "Aston Machan",
-      "text": "...Even I have to admit, that's asking too \nmuch. Hehe.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Chatting casually, the two of us savored \nthe special carrot hamburg steak together.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "They'll say that the creator of Carrot\nHamburger\nSteak Day was none other\nthan the great and\nglorious Aston\nMachan."
     },
     {
       "name": "Aston Machan",
-      "text": "Mmmgh... I couldn't reach them.",
-      "choice_data_list": []
+      "text": "...Well, maybe that's going a little far.\nHehe."
+    },
+    {
+      "name": "Monologue",
+      "text": "We enjoy the deluxe carrot hamburger\nsteak\ntogether while chatting about\nvarious random\ntopics."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Aston Machan",
-      "text": "Still, a whole heaping pile of carrots... \nWhat should we do?",
-      "choice_data_list": []
+      "text": "Ooh... I didn't win the big one."
     },
     {
       "name": "Aston Machan",
-      "text": "Chan and Trainer-san... With only two \nstomachs, will we be able to finish all of \nthis?",
-      "choice_data_list": []
+      "text": "But now we've got a whole bushel of\ncarrots.\nWhat should we do with them?"
     },
     {
       "name": "Aston Machan",
-      "text": "...Mm, that's right.",
-      "choice_data_list": []
+      "text": "Do you think the two of us could finish\nthem all?"
     },
     {
       "name": "Aston Machan",
-      "text": "This is an emergency live broadcast. \nHello, everyone. I am Aston Machan.",
-      "choice_data_list": []
+      "text": "...Okay. I've got it."
     },
     {
       "name": "Aston Machan",
-      "text": "\"Actually, we have a carrot incident on \nour hands. Yes... there are leftover \ncarrots.\"",
-      "choice_data_list": []
+      "text": "Hello, Aston Machan here. This is an\nemergency\nstream."
     },
     {
       "name": "Aston Machan",
-      "text": "Just between Trainer and Ma-chan, we simply \ndon't have enough stomach capacity.",
-      "choice_data_list": []
+      "text": "A carrot-related incident has occurred.\nThat's\nright... We have too many carrots."
     },
     {
       "name": "Aston Machan",
-      "text": "This is strictly for Tracen Academy \nstudents, but if there is anyone willing \nto lend a hand, I would be most grateful \nfor your help.",
-      "choice_data_list": []
+      "text": "Trainer and I simply don't have space in\nour\nstomachs for all of them."
     },
     {
       "name": "Aston Machan",
-      "text": "Any girls who are interested, come by \nChan-chan's room. I'll be waiting for you.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Afterward, thanks to the Umamusume who \ncaught wind of the rumors, the carrots \nseemed to disappear in the blink of an \neye.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "This offer is exclusively for those\nattending\nTracen Academy, but if\nanyone is willing to lend\nus their\nstomach, we would be very grateful."
     },
     {
       "name": "Aston Machan",
-      "text": "Ugh... Third prize...",
-      "choice_data_list": []
+      "text": "If you wish to help, make your way to\nMachan's\nroom. We'll be waiting for you."
+    },
+    {
+      "name": "Monologue",
+      "text": "I later hear that a handful of\nUmamusume who\ncaught wind of the\noffer wolfed the carrots down\nin an\ninstant."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Aston Machan",
-      "text": "One carrot. Thank you for the meal.",
-      "choice_data_list": []
+      "text": "Oh... The bronze prize."
     },
     {
       "name": "Aston Machan",
-      "text": "What should I do~? I could make it today's \ndinner, or...",
-      "choice_data_list": []
+      "text": "Thank you for the carrot."
     },
     {
       "name": "Aston Machan",
-      "text": "...Ah, that's right.",
-      "choice_data_list": []
+      "text": "What should I do with this? I guess I\ncould have it\nfor dinner tonight."
     },
     {
       "name": "Aston Machan",
-      "text": "Fufu, what do you think? Miss Shirayuki \nPyonko.",
-      "choice_data_list": []
+      "text": "Oh, I know."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hehe. How is it, Frosty Flops?"
     },
     {
       "name": "Rabbit",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Aston Machan",
-      "text": "It's delicious, is it? I see.",
-      "choice_data_list": []
+      "text": "It's yummy? Oh, good."
     },
     {
-      "name": "Zookeeper",
-      "text": "Hahaha, she's totally absorbed in eating \nit. Thank you, Marchan.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "It is all right. Ma-chan is happy too.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "That day, Aston Machan played with her \nclose friend until sundown.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Caretaker",
+      "text": "Haha, she's really digging into that\ncarrot. Thank\nyou, Machan."
     },
     {
       "name": "Aston Machan",
-      "text": "Ouch.",
-      "choice_data_list": []
+      "text": "Don't mention it. I'm happy to see her\nenjoying it."
+    },
+    {
+      "name": "Monologue",
+      "text": "Aston Machan plays with her fluffy little\nfriend\nuntil the sun goes down."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Aston Machan",
-      "text": "A miss, is it? Oh dear, oh my.",
-      "choice_data_list": []
+      "text": "Ouch."
     },
     {
       "name": "Aston Machan",
-      "text": "Still... that's true. Failures are \nactually the easiest things to turn into \nmaterial.",
-      "choice_data_list": []
+      "text": "So I lost? What a shame."
     },
     {
       "name": "Aston Machan",
-      "text": "Why not turn it into a 4-koma manga? I'm \nsure it'll help cheer you up.",
-      "choice_data_list": []
+      "text": "Well, I guess failure makes for a funnier\nstory."
     },
     {
       "name": "Aston Machan",
-      "text": "Beginning: Chan-Mar is thrilled with the \nlottery. Development: Chan-Mar spins the \nraffle wheel.",
-      "choice_data_list": []
+      "text": "Maybe we could make it into a\nfour-panel comic?\nThat'll probably make\nus feel better about losing\ntoo."
     },
     {
       "name": "Aston Machan",
-      "text": "Twist: what came out of that hole was... \nResolution: a losing ball! And so, tears \nwere wiped away with a tissue.",
-      "choice_data_list": []
+      "text": "The first panel can show Machan excited\nfor the\nlottery. Then, she spins the\ntumbler in the second\npanel."
     },
     {
       "name": "Aston Machan",
-      "text": "...Now I just feel even sadder.",
-      "choice_data_list": []
+      "text": "In the third, she opens the capsule! And\nin the last\npanel, she's dabbing away her\ntears with a tissue\nbecause she won\nnothing."
     },
     {
-      "name": "",
-      "text": "With heavy, sorrowful footsteps, Aston \nMa-chan set off on her way home...",
-      "choice_data_list": []
+      "name": "Aston Machan",
+      "text": "...Reliving it has only made me feel\nworse."
+    },
+    {
+      "name": "Monologue",
+      "text": "Aston Machan ends up shambling home\nwith a\nsomber gait..."
     }
   ]
 }

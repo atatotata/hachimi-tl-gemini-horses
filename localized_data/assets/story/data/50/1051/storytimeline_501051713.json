@@ -2,104 +2,76 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Nishino Flower was injured during \ntraining, so we came to the infirmary.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Nishino Flower suffers an injury during\ntraining, so\nI bring her to the infirmary."
     },
     {
       "name": "Nishino Flower",
-      "text": "I'm sorry for having made you worry.",
-      "choice_data_list": []
+      "text": "Sorry to make you worry."
     },
     {
       "name": "Nishino Flower",
-      "text": "Well then, now that you're patched up, \nlet's get back to training.",
-      "choice_data_list": [
-        "Are you really okay?"
-      ]
+      "text": "Now that I'm all patched up, let's get\nback to\ntraining."
     },
     {
       "name": "Nishino Flower",
-      "text": "\"Most likely... Ah, no! I'm really totally \nfine!\"",
-      "choice_data_list": []
+      "text": "I think I... No! I am! Really!"
     },
     {
       "name": "Nishino Flower",
-      "text": "\"Besides, I feel like I shouldn't be \nresting over a minor injury like this... \nThat's why...!\"",
-      "choice_data_list": [
-        "Pushing yourself too hard isn't what makes \nyou an adult.",
-        "Let's look for something we can do."
-      ]
+      "text": "Besides, it wouldn't feel right to take a\nbreak\nover an injury this minor... So,\nplease!"
     },
     {
       "name": "Nishino Flower",
-      "text": "Still... I...",
-      "choice_data_list": [
-        "Let's go with the safer option."
-      ]
+      "text": "Yes... But I..."
     },
     {
       "name": "Nishino Flower",
-      "text": "...You're right. It'd be a real problem if \nthe injury got worse.",
-      "choice_data_list": []
+      "text": "...You're right. It would be bad if I made\nmy injury\nworse."
     },
     {
       "name": "Nishino Flower",
-      "text": "Understood, I'll take the rest of the day \noff to rest...",
-      "choice_data_list": []
+      "text": "Okay, then. I'll just rest up for today..."
     },
     {
-      "name": "Narrator",
-      "text": "Looking disappointed, Nishino Flower \nheaded back to the dorm.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Waah! Thank you very much! Well then, \nlet's get going, Trainer!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Nishino Flower sounds rather\ndisappointed as she\nreturns to her dorm."
     },
     {
       "name": "Nishino Flower",
-      "text": "Phew... Phew... T-This is nothing...",
-      "choice_data_list": []
+      "text": "Really?! Thank you, Trainer! Okay, then!\nLet's go!"
     },
     {
       "name": "Nishino Flower",
-      "text": "...! O-Ouch...",
-      "choice_data_list": [
-        "Does it hurt...?",
-        "Does it hurt...?"
-      ]
+      "text": "<i>Huff... huff...</i> I should be okay at this\nspeed..."
     },
     {
       "name": "Nishino Flower",
-      "text": "When I run, there's this sharp, throbbing \npain...",
-      "choice_data_list": []
+      "text": "...! O-ow..."
     },
     {
       "name": "Nishino Flower",
-      "text": "I'm sorry. I said I'd be fine, but today, \nI just...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Deciding that any more training would be \nimpossible, I sent Nishino Flower back to \nthe dorms.",
-      "choice_data_list": []
+      "text": "I felt a jolt in my leg..."
     },
     {
       "name": "Nishino Flower",
-      "text": "\"Thank goodness...! Trainer-san, as long \nas it's just light running, it doesn't \nhurt!\"",
-      "choice_data_list": []
+      "text": "Sorry. I said I was fine, but I don't think I\ncan push\non today..."
+    },
+    {
+      "name": "Monologue",
+      "text": "We decide that trying to do any more\nwould\nprove fruitless, and Nishino\nFlower goes back to\nher dorm."
     },
     {
       "name": "Nishino Flower",
-      "text": "Training will probably be around this \nlevel for a while, so I look forward to \nworking with you!",
-      "choice_data_list": []
+      "text": "This is great! Trainer, light jogging\ndoesn't hurt at\nall!"
     },
     {
-      "name": "Narrator",
-      "text": "Nishino Flower spoke happily and took part \nin a light workout, making sure not to \nstrain her injury.",
-      "choice_data_list": []
+      "name": "Nishino Flower",
+      "text": "I don't think I can do much more than\nthis for a\nwhile, but I hope you won't\nmind!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A joyful Nishino Flower successfully\ncompletes\nher training session while\ntaking care not to\naggravate her injury."
     }
   ]
 }

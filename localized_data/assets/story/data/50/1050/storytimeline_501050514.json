@@ -2,336 +2,240 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One holiday. Having finished her errands \nnear the station, Narita Taishin was \nwalking back to the academy, when—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "On my day off, I notice Narita Taishin\nnear the\nstation. She must've just\nfinished something,\nbecause she's\nheading back to the academy."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah, the limited character for \"Animal \nHunt\" spawns around here, right?",
-      "choice_data_list": []
+      "text": "Hang on, isn't there supposed to be a\n\nlimited-edition <i>Animal Hunt</i> character\nthat\nspawns around here?"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Might as well catch it while I'm at it.",
-      "choice_data_list": []
+      "text": "I might as well catch it while I have the\nchance."
     },
     {
       "name": "Narita Taishin",
-      "text": "Nothing's showing up on the radar yet, \nbut—",
-      "choice_data_list": []
+      "text": "I don't see it on the radar—"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Wha?!",
-      "choice_data_list": []
+      "text": "Bwah?!"
     },
     {
       "name": "Narita Taishin",
-      "text": "What is this—'Caution: Wet Concrete. Watch \nyour step'?!\"",
-      "choice_data_list": []
+      "text": "What the—?! \"Wet concrete. Please\nwatch your\nstep\"?!"
     },
     {
-      "name": "Construction Man",
-      "text": "I'm sorry to say it, but these boots are \nbeyond saving. Tough luck, little lady.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...I'm sorry.",
-      "choice_data_list": []
+      "name": "Construction Worker",
+      "text": "Sorry, miss. I think your boot's done for.\nSuch a\nshame."
     },
     {
       "name": "Narita Taishin",
-      "text": "(My right foot's still barefoot... How am \nI gonna get home?)",
-      "choice_data_list": [
-        "Huh? Taishin?"
-      ]
+      "text": "...Oops."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Ugh.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Construction Man",
-      "text": "D-Do you know this young lady? She just \nstepped right into some wet concrete with \nher right foot...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Construction Man",
-      "text": "“Still, I'm glad someone you know is here. \nGet home safe, little lady!”",
-      "choice_data_list": []
+      "text": "(Great, now I only have one boot. How\nam I\nsupposed to get home barefoot?)"
     },
     {
       "name": "Narita Taishin",
-      "text": "Aaaaaaaagh!!",
-      "choice_data_list": []
+      "text": "...Ugh."
     },
     {
-      "name": "Narrator",
-      "text": "The construction worker waved goodbye to \nthe blushing Narita Taishin before walking \naway.",
-      "choice_data_list": []
+      "name": "Construction Worker",
+      "text": "Oh, do you know this little lady? She\nstuck her\nfoot straight into the wet\nconcrete."
     },
     {
-      "name": "Narita Taishin",
-      "text": "...I don't need any help, okay? Leave me \nalone.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Having said that, it'll probably be hard \nfor her to make it back to the dorm on her \nown.",
-      "choice_data_list": [
-        "I'll go buy some shoes.",
-        "I'll go buy the shoes!",
-        "Let me help you walk to the shoe store."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Having said that, it'll probably be hard \nfor her to make it back to the dorm on her \nown.",
-      "choice_data_list": [
-        "I'll go buy some shoes.",
-        "I'll go buy the shoes!",
-        "Let me help you walk to the shoe store."
-      ]
+      "name": "Construction Worker",
+      "text": "Good thing your friend's here now, miss!\nTake\ncare getting home!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Like I said, I don't need your help.",
-      "choice_data_list": [
-        "Should we contact the dorm, then?",
-        "Should we contact the dorm, then?"
-      ]
+      "text": "...!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Taishin is bright red with\nembarrassment as\nthe construction\nworker waves goodbye and\nleaves."
     },
     {
       "name": "Narita Taishin",
-      "text": "N-No! That'll just make things even more \ntroublesome, won't it!?",
-      "choice_data_list": []
+      "text": "It's not like I need help or anything.\nLeave me\nalone."
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite what she says, it's clear that\nshe'll have\ntrouble getting back to her\ndorm on her own."
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite what she says, it's clear that\nshe'll have\ntrouble getting back to her\ndorm on her own."
     },
     {
       "name": "Narita Taishin",
-      "text": "...*sigh* Fine. I'll give you the money, \nso go buy it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Having received her consent, I had Narita \nTaishin rest at a nearby park and hurried \noff to the shoe store.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shoe Store Clerk",
-      "text": "This kind is perfect for young folks these \ndays! They're super easy to run in, so \nthey come highly recommended!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shoe Store Clerk",
-      "text": "It'll go perfectly with the street fashion \nyou mentioned, too!",
-      "choice_data_list": [
-        "I see..."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "With the saleswoman's glowing endorsement, \nI felt confident it was the right choice \nand decided to buy the recommended shoes.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward, when I met up with Narita \nTaishin and reported that I had bought the \nshoes—",
-      "choice_data_list": []
+      "text": "You got wax in your ears? I said I don't\nneed your\nhelp."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah... yeah. That was a lifesaver—",
-      "choice_data_list": []
+      "text": "N-no! That'll just make things worse!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Wait, what are those super cute shoes?!",
-      "choice_data_list": []
+      "text": " <i>Sigh.</i> Fine. Here, take this money and\nget me new\nshoes."
+    },
+    {
+      "name": "Monologue",
+      "text": "Since I got her permission, I bring her to\na nearby\npark to wait for me, then rush\nto a shoe shop."
+    },
+    {
+      "name": "Shoe Store Employee",
+      "text": "Young people these days love this style!\nThey're\nalso great to run in, so I highly\nrecommend them!"
+    },
+    {
+      "name": "Shoe Store Employee",
+      "text": "And since you mentioned it earlier,\nthese shoes\ngo great with street fashion\ntoo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I figure I can't go wrong with shoes that\nhave the\nemployee's seal of approval, so\nI buy the pair she\nrecommends."
+    },
+    {
+      "name": "Monologue",
+      "text": "After that, I run back to Narita Taishin\nand show\nher the new shoes."
     },
     {
       "name": "Narita Taishin",
-      "text": "That's totally out of character for me...! \nYou know that, right!?",
-      "choice_data_list": [
-        "Apparently it goes well with street \nfashion too.",
-        "Apparently it goes well with street \nfashion too!"
-      ]
+      "text": "Oh, thanks. You're a lifesav—"
     },
     {
       "name": "Narita Taishin",
-      "text": "...So you just bought into the clerk's \nsales pitch, huh? Well, I'll try them on \nfor now, anyway.",
-      "choice_data_list": []
+      "text": "What the hell's with this cutesy\nnonsense?!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah...",
-      "choice_data_list": []
+      "text": "These aren't my style at all! You should\nknow\nbetter!"
     },
     {
       "name": "Narita Taishin",
-      "text": "(Actually, now that I'm wearing them... \nthey might not be so bad after all?)",
-      "choice_data_list": []
+      "text": "Now you're just admitting you got\nconned by a\nsales pitch. Ugh, whatever. I\nguess I'll put them\non."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Ugh.",
-      "choice_data_list": [
-        "It looks great on you, Taishin!",
-        "It looks great on you, Taishin!"
-      ]
+      "text": "Oh."
     },
     {
       "name": "Narita Taishin",
-      "text": "\"I-I don't need any flattery. ...As long \nas it doesn't look weird, that's good \nenough for me.\"",
-      "choice_data_list": []
+      "text": "(Huh... These actually don't feel so bad\nonce you\nput them on.)"
     },
     {
-      "name": "Narrator",
-      "text": "Despite Narita Taishin's blunt attitude—",
-      "choice_data_list": []
+      "name": "Narita Taishin",
+      "text": "...Urgh."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I-I don't need your flattery. As long as\nthey don't\nlook weird, they're fine."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Taishin seems indifferent about\nher new\nshoes, but..."
     },
     {
       "name": "Super Creek",
-      "text": "My, oh my, Taishin-chan. Are you heading \nout~?",
-      "choice_data_list": []
+      "text": "Oh, Taishin? Heading out somewhere?"
     },
     {
       "name": "Super Creek",
-      "text": "You've completely fallen in love with your \nnew shoes, haven't you~♪ They match \nperfectly with your outfit today, too~",
-      "choice_data_list": []
+      "text": "Looks like you really like those new\nshoes of\nyours! ♪ They look amazing\nwith your outfit\ntoday!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Wait, r-really?",
-      "choice_data_list": []
+      "text": "Y-you think?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Well, yeah... maybe.",
-      "choice_data_list": []
+      "text": "Well, yeah... I guess they do."
     },
     {
       "name": "Narita Taishin",
-      "text": "I don't need it! I'd rather hop on one leg \nthan lean on your shoulder.",
-      "choice_data_list": []
+      "text": "Absolutely not! I'd rather hop there on\nmy own\nthan lean on you!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Hup, whoa... Woah!?",
-      "choice_data_list": []
+      "text": "Hup... Gah!"
     },
     {
-      "name": "Narrator",
-      "text": "\"Narita Taishin tried to hop forward on \none foot, but after a few steps, she \ntottered and lost her balance.\"",
-      "choice_data_list": [
-        "It really is dangerous! Hold on!",
-        "It really is dangerous! Hold on!"
-      ]
+      "name": "Monologue",
+      "text": "Narita Taishin attempts to hop her way\nover but\nloses balance after a few\nbounds."
     },
     {
       "name": "Narita Taishin",
-      "text": "......Yeah, yeah.",
-      "choice_data_list": []
+      "text": "...Ugh, fine."
     },
     {
-      "name": "Narrator",
-      "text": "Saying that, Narita Taishin held onto my \nshoulder, albeit reluctantly.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She reluctantly grabs hold of my\nshoulder."
     },
     {
-      "name": "Narrator",
-      "text": "After walking together for a while, we \npassed by a park, so we decided to take a \nrest on a bench.",
-      "choice_data_list": [
-        "Come to think of it, what were you doing \nover there?",
-        "Come to think of it, what were you doing \nover there?"
-      ]
+      "name": "Monologue",
+      "text": "After walking for a while together, we\ncome\nacross a park and decide to rest on\na bench."
     },
     {
       "name": "Narita Taishin",
-      "text": "......A game. One that uses location data.",
-      "choice_data_list": []
+      "text": "...Playing a game. One of those\nlocation-based\nones."
     },
     {
-      "name": "Narrator",
-      "text": "Apparently, the game she was playing \ninvolves physically going to real-world \nlocations to collect characters placed on \na map identical to reality.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The game involves finding and capturing\n\ncharacters that are projected into the\nreal world\nvia augmented reality."
     },
     {
-      "name": "Narrator",
-      "text": "Apparently, she was trying to collect \nlimited-edition characters while she was \nstopping by the station.",
-      "choice_data_list": [
-        "Then we might find it while we're walking \naround.",
-        "Then we might find it while we're walking \naround."
-      ]
+      "name": "Monologue",
+      "text": "She had been trying to catch a\nlimited-edition\ncharacter when I saw her\nin front of the station."
     },
     {
       "name": "Narita Taishin",
-      "text": "No way. As if things could ever be that \neasy—",
-      "choice_data_list": []
+      "text": "As if it'd be that—"
     },
     {
       "name": "Narita Taishin",
-      "text": "No way! A blip on the radar...?!",
-      "choice_data_list": []
+      "text": "No way! There's a blip on the radar!"
     },
     {
-      "name": "Narrator",
-      "text": "It seems what we're looking for has \nactually appeared. After getting the \ncoordinates, it looks like the spawn \nlocation isn't far from here.",
-      "choice_data_list": [
-        "It's super close, so let's go!"
-      ]
+      "name": "Monologue",
+      "text": "Apparently, the character she's after has\nactually\nappeared. She tells me its\ncoordinates, which\naren't too far from\nwhere we are now."
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh...?",
-      "choice_data_list": [
-        "I gotta blow off steam about ruining my \nshoes!",
-        "I'm venting my frustration over ruining my \nshoes!"
-      ]
+      "text": "What?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah......",
-      "choice_data_list": []
+      "text": "Hm..."
     },
     {
       "name": "Narita Taishin",
-      "text": "If that's how you see it, maybe it works. \nIt'd suck to just go home after having a \nbad time anyway.",
-      "choice_data_list": []
+      "text": "That's not a bad way to look at it. It'd\nsuck to go\nback with a bad taste in my\nmouth because of\nthat."
     },
     {
       "name": "Narita Taishin",
-      "text": "Alright. Now that it's decided, I'm \ndefinitely catching it!",
-      "choice_data_list": []
+      "text": "All right. I'm definitely gonna catch it!"
     },
     {
-      "name": "Narrator",
-      "text": "Lending a shoulder to a nodding Narita \nTaishin, we made our way to where the \ncharacter was supposed to appear.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Taishin nods, and I lend her my\nshoulder\nagain. We head off to where\nthe character has\nappeared."
     },
     {
-      "name": "Narrator",
-      "text": "And— thanks to everyone's cooperation, it \nlooks like Narita Taishin was able to \nobtain the limited character.",
-      "choice_data_list": [
-        "Congratulations, Taishin!"
-      ]
+      "name": "Monologue",
+      "text": "Our teamwork pays off, and Narita\nTaishin\nmanages to capture the\nlimited-edition character."
     },
     {
       "name": "Narita Taishin",
-      "text": "Well... yeah. I feel a little better now, \nI guess.",
-      "choice_data_list": []
+      "text": "Yeah, thanks. I guess I do feel a little\nbetter."
     },
     {
-      "name": "Narrator",
-      "text": "Afterward, taking breaks along the way, we \nheaded to the shoe store. From buying the \nshoes until we parted ways, Narita Taishin \nseemed to be in a slightly better mood.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Having finally arrived at a shop, Narita\nTaishin\nbuys new shoes. She seems to be\nin a better mood\nwhen we part."
     },
     {
-      "name": "Narrator",
-      "text": "Through that series of collaborative \ntasks, I felt like I had become just a \nlittle closer with her.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I feel like I've grown a little closer to\nNarita\nTaishin after working together\nwith her."
     }
   ]
 }

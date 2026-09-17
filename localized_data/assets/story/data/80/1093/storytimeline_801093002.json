@@ -2,141 +2,100 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Hoping to design a training session \nutilizing the terrain for <chrname>, I was walking \nalong the river taking notes on my phone \nwhen――",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I've been thinking of designing a\nschedule for\n<chrname> that\ntakes full advantage\nof the area around\nus, and I'm taking notes on my\nphone by\nthe river when..."
     },
     {
-      "name": "Giant Crow",
-      "text": "Gah! Gwaaah!!",
-      "choice_data_list": [
-        "Waaah?!"
-      ]
+      "name": "Large Crow",
+      "text": "<i>Caaaw! Caaaw!</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Startled by a giant crow that suddenly \nswooped in, I dropped my smartphone!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "While dodging a crow's surprise attack, I\n\naccidentally drop my phone!"
     },
     {
-      "name": "Narrator",
-      "text": "The smartphone kept tumbling noisily \nacross the gravel――",
-      "choice_data_list": [
-        "(At this rate, right into the river...!)"
-      ]
+      "name": "Monologue",
+      "text": "It skips across the gravel, tumbling down\nthe\nincline. I watch in frozen horror as it\nhurtles\ntoward its demise."
     },
     {
       "name": "???",
-      "text": "I'll go!",
-      "choice_data_list": []
+      "text": "I've got it!"
     },
     {
-      "name": "Narrator",
-      "text": "(WHOOSH――!!)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Whooosh!</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Like a sudden gust of wind. A shadow so \nfast it seemed almost an illusion darted \nacross, diving straight into――the river!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A figure flies past me like the wind. I\nonly catch a\nglimpse of their afterimage\nbefore they dive\nstraight into the river!"
     },
     {
       "name": "K.S.Miracle",
-      "text": "*gasp*, ngh――...",
-      "choice_data_list": []
+      "text": "<i>Pant... Pant...</i>"
     },
     {
       "name": "K.S.Miracle",
-      "text": "Ah... Thank goodness! The screen turned on \nproperly. Looks like we made it in time.",
-      "choice_data_list": [
-        "You're soaking wet?!",
-        "Wait, you're soaking wet yourself?!"
-      ]
+      "text": "Oh... what a relief! It still turns on. Looks\nlike I\nmade it just in time."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Huh? ...Oh, right.",
-      "choice_data_list": []
+      "text": "Huh?\nOh... I am."
     },
     {
       "name": "K.S.Miracle",
-      "text": "I'm sorry, with me looking like this, it's \njust going to end up soaking wet either \nway. I'll give it right back, right now—",
-      "choice_data_list": [
-        "Not like that...!"
-      ]
+      "text": "Sorry, I probably shouldn't keep holding\non to\nyour phone while sopping wet.\nHere, you'd best\ntake it before it's too\nlate."
     },
     {
-      "name": "Narrator",
-      "text": "K.S.Miracle looks utterly bewildered, but \nnaturally, things can't be left like \nthis...!",
-      "choice_data_list": [
-        "I'll figure out a way to warm us up right \naway!",
-        "First, let's check your gait to make sure \nyou're not injured!"
-      ]
+      "name": "Monologue",
+      "text": "K.S.Miracle looks at me, bewildered. I\ncan't\npossibly leave her in this state! I'd\nbetter..."
     },
     {
-      "name": "Narrator",
-      "text": "Remembering there was a cafe nearby, I \nhurried over to buy some hot drinks.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Remembering there's a cafe nearby, I\nquickly run\nthere and buy her a warm\ndrink."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Oh... I'm so sorry you went to the \ntrouble.",
-      "choice_data_list": []
+      "text": "Oh... thank you so much. Sorry you had\nto make\nthe trip."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Um... I don't have any money on me right \nnow. Would it be okay if I ran back to the \ndorm to get it and pay you back?",
-      "choice_data_list": [
-        "You don't have to return it!"
-      ]
+      "text": "Um... I don't have any money on me.\nCould you\nwait here for me while I run\nback to the dorm to\nget my wallet?"
     },
     {
       "name": "K.S.Miracle",
-      "text": "I-Is that right?",
-      "choice_data_list": []
+      "text": "A-are you sure?"
     },
     {
       "name": "K.S.Miracle",
-      "text": "Fufu. Trainer... You really are so very \nkind.",
-      "choice_data_list": []
+      "text": "Hehe. You're very kind."
     },
     {
-      "name": "Narrator",
-      "text": "\"Are you really one to talk?\" ...I thought \nfrom the bottom of my heart.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Her compliment leaves me stunned.\nCompared to\nwhat she did, the single\nwarm drink I bought is\nnothing."
     },
     {
-      "name": "Narrator",
-      "text": "\"Are you really one to talk?\" ...I thought \nfrom the bottom of my heart.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Her compliment leaves me stunned.\nCompared to\nwhat she did, the single\nwarm drink I bought is\nnothing."
     },
     {
       "name": "K.S.Miracle",
-      "text": "――Yes, I am fine. Nothing hurts, nor does \nanything feel out of place.",
-      "choice_data_list": [
-        "Are you really okay...?",
-        "Are you really sure you're okay...?"
-      ]
+      "text": "No, I'm not injured. I don't feel any pain,\nand\nnothing seems off."
     },
     {
       "name": "K.S.Miracle",
-      "text": "Ahaha, yes! I'm fine. Nothing to worry \nabout.",
-      "choice_data_list": []
+      "text": "Haha! Yes, I'm sure! I'll be fine, there's\nno need to\nworry."
     },
     {
       "name": "K.S.Miracle",
-      "text": "These legs are my pride and joy. \n...They're mine, protected and raised by \neveryone.",
-      "choice_data_list": []
+      "text": "There's nothing that I'm more proud or\nprotective\nof than my legs. So many\npeople did their best to\nlook after and\ncare for them, you see."
     },
     {
       "name": "K.S.Miracle",
-      "text": "So I'm totally fine. Really, I'm okay!",
-      "choice_data_list": []
+      "text": "So I'll be fine. I <i>am</i> fine!"
     },
     {
-      "name": "Narrator",
-      "text": "She declared it with such straightforward \nconviction that I found myself rendered \ncompletely speechless...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She says this with so much confidence,\nI'm at a\ncomplete loss for words..."
     }
   ]
 }

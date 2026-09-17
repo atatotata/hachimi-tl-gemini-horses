@@ -2,54 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I went to the library on an errand and \nspotted Tosen Jordan.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I run into Tosen Jordan while taking care\nof an\nerrand in the library."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Uuugh, this is rough... My head's still \nthrobbing~...",
-      "choice_data_list": [
-        "Headache?"
-      ]
+      "text": "<i>Groan...</i> My head... I don't feel so good..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Hmm? Oh, it's just you.",
-      "choice_data_list": []
+      "text": "Huh? Oh, it's you."
     },
     {
       "name": "Tosen Jordan",
-      "text": "My pal helped me study earlier, and now my \nhead is pounding~...",
-      "choice_data_list": [
-        "You were studying!? Good for you!",
-        "You were studying!? Great job!"
-      ]
+      "text": "My friend was just helping me study, and\nnow my\nhead is killing me..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "What's with that reaction...?! Ugh, so \nannoying...!",
-      "choice_data_list": []
+      "text": "You know, I don't exactly love that\nreaction!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "My pal cleared their schedule just to \nteach me, so the least I can do is take it \nseriously for once!!",
-      "choice_data_list": []
+      "text": "Anyway, my friend made time to help\nme study,\nso I'm taking it seriously!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "That's why I'm sayin' I'm tired~. I don't \nhave time to deal with you right now.",
-      "choice_data_list": []
+      "text": "Which means I'm tired. I don't have time\nto deal\nwith you."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ngh...! It's starting to throb again~!",
-      "choice_data_list": []
+      "text": "Urgh! It's starting to throb again!"
     },
     {
-      "name": "Narrator",
-      "text": "Her headache persisted for quite a while \nafter that, remaining a constant source of \ntrouble...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Concerningly, her headache continues\nfor a while\nafter that..."
     }
   ]
 }
