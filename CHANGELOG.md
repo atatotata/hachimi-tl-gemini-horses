@@ -1,3 +1,6 @@
+## 2026-09-17 -- Global official EN stories
+736 story timelines (main/event/chara, 37,836 lines) overlaid from Global bundles via libnative chacha20 33B key. Replaces Gemini JP translations with official EN where Global has released them.
+
 # Changelog
 
 ## 2026-09-16 -- Fresh G/Download Log
