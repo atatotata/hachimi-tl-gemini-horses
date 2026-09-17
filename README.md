@@ -20,5 +20,5 @@ https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.j
 ## Quick Tips
 
 - **Upgrading & text/UI looks weird?** Delete `assets/textures`, `assets/atlas`, and `assets/movies` in your `hachimi/localized_data_N` folder (keep `includes_*`) and re-update.
-- **Slow updater or manual install?** Grab the plug-and-play [v8 release zips](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v8) with zero re-download required.
+- **Slow updater or manual install?** Grab the plug-and-play [v8 release zips](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v9) with zero re-download required.
 - **Switching flavors?** Just select another flavor in Hachimi's repo menu anytime.
