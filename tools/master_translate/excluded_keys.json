@@ -1,0 +1,18 @@
+{
+  "_comment": "Keys excluded from localize_dict to prevent Error 102. Game serializes these schedule UI labels into network payloads; English text triggers server rejection. See CHANGELOG 2026-09-17.",
+  "localize_dict": [
+    "SingleMode418025",
+    "SingleMode418026",
+    "SingleMode418027",
+    "SingleMode418028",
+    "SingleMode418029",
+    "SingleMode418030",
+    "SingleMode418031",
+    "SingleMode418032",
+    "SingleMode418033",
+    "SingleMode418034",
+    "SingleMode418035",
+    "SingleMode418036",
+    "SingleMode418037"
+  ]
+}
