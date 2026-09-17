@@ -1,12 +1,10 @@
 {
   "title": "Her Forte: Remembering Things",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daiwa Scarlet",
-      "text": "Oh, it's you from the other day!\nUm, have you seen Ma-chan anywhere?",
-      "choice_data_list": [
-        "I haven't, but... why do you ask?"
-      ]
+      "text": "Oh, we met the other day. Have you, um,\nseen Machan?"
     },
     {
       "name": "Daiwa Scarlet",
@@ -14,194 +12,175 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "*pant, huff, wheeze*...\nAll right, that's the outer lap done! Let's head back to the track, Ma-chan."
+      "text": "<i>Huff, puff...</i> Whew... Okay, laps done! Let's\nget back onto campus,\nMachan."
     },
     {
       "name": "Aston Machan",
-      "text": "…………。"
+      "text": "..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "...Ma-chan? What's with that white pigeon...?\nWait, is that bird...?!"
+      "text": "Machan? What's up with the white pigeon?\nWait, is it..."
     },
     {
       "name": "Aston Machan",
-      "text": "...I see.\nSo Fluffy-san has gone to the sea."
+      "text": "...Oh. You went to sea, Little Floofy."
     },
     {
       "name": "Aston Machan",
-      "text": "May I say goodbye to them one last time?"
+      "text": "Would you allow me to bid you a proper\nfarewell?"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "...Ma-chan...?"
+      "text": "...Machan?"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "The pigeon had passed away. I didn't know what to do,\nand the moment I looked away, she was gone..."
+      "text": "The pigeon was lifeless. I didn't know what\nto do. I looked away for a\nsecond, and the\nnext thing I knew, she was gone."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "She's always been an eccentric girl, constantly wandering off on her own.\nMaybe she just went off to bury it, but still—"
+      "text": "She's a strange girl, always wandering off\nalone. She might have just\ngone off to\nbury the bird somewhere, but still..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "There's this air about her, like she might suddenly vanish somewhere far beyond reach one day... and it just made me so uneasy...",
-      "choice_data_list": [
-        "Somewhere beyond reach...?"
-      ]
+      "text": "She seems like the type to just\nmysteriously disappear someday, so\nI'm\nkind of worried..."
     },
     {
-      "text": "I'd had several chances to talk with Aston Machan over the past few days,\nbut had she ever given off that impression?"
+      "name": "Monologue",
+      "text": "I've talked to Aston Machan a couple of\ntimes over the past few days,\nbut I can't\nsay I ever felt that from her."
     },
     {
-      "text": "...Either way, she must be in shock.\nI agreed to help look for her and headed off campus to search."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "...And with that, all done."
-    },
-    {
-      "text": "Aston Machan was beneath the overpass—\nthe very place she had once napped beside \"Fluffy-san.\""
-    },
-    {
-      "text": "As Aston Machan stood up, before her lay\na freshly made little mound of earth."
+      "name": "Monologue",
+      "text": "In any case, I'm sure she must be in shock.\nI agree to look around for\nher and leave\ncampus."
     },
     {
       "name": "Aston Machan",
-      "text": "Since you're white, Fluffy-san, do you prefer white flowers?\nOr maybe red? There were some yellow ones over there too, though."
+      "text": "And... there."
+    },
+    {
+      "name": "Monologue",
+      "text": "I find Aston Machan at the same overpass\nthat she and Little Floofy\nhad napped\nunder together."
+    },
+    {
+      "name": "Monologue",
+      "text": "She stands up, and in front of her is a\nmound of earth that looks\nfreshly made."
     },
     {
       "name": "Aston Machan",
-      "text": "I should have at least asked what your favorite color was.\nA mistake on Ma-chan's part.",
-      "choice_data_list": [
-        "(She's taking this better than...)"
-      ]
-    },
-    {
-      "text": "Aston Machan was remarkably composed.\nWithout a single trace of tears, she calmly spoke to the grave."
+      "text": "Since you're a white pigeon, are white\nflowers your favorite? Or\nmaybe red? I saw\nsome yellow ones over there too."
     },
     {
       "name": "Aston Machan",
-      "text": "Don't worry. I took both videos and photos, you see.\nMa-chan will never, ever forget you, Fluffy-san."
+      "text": "I should've asked your favorite color at the\nvery least. Machan failed\nthere."
+    },
+    {
+      "name": "Monologue",
+      "text": "It doesn't look like she's been crying at all.\nInstead, she's facing the\ntiny gravestone\nhead-on and talking calmly to it."
     },
     {
       "name": "Aston Machan",
-      "text": "After all, Aston Machan stands for safe and secure.\nYou are flying high and clear in the sky inside me."
+      "text": "Don't worry, I took lots of photos and\nvideos of you. I promise I'll\nnever forget\nyou, Little Floofy."
     },
     {
       "name": "Aston Machan",
-      "text": "...Hm? Why, it's you from before.",
-      "choice_data_list": [
-        "...You're really strong.",
-        "...You're really strong."
-      ]
+      "text": "Your memory's safe and sound with\nMachan. You'll soar around the\nsky forever\nin my heart."
     },
     {
       "name": "Aston Machan",
-      "text": "I am an Umamusume, so naturally I have more muscle than a human.",
-      "choice_data_list": [
-        "No, that's not what I meant..."
-      ]
-    },
-    {
-      "text": "I confessed honestly that, having seen her disappear with the remains of her \"friend\" Fluffy-san,\nI assumed she would be grieving."
+      "text": "...Oh? I didn't see you there."
     },
     {
       "name": "Aston Machan",
-      "text": "I see, so that is why you said \"strong.\"\nIndeed, many humans become sad when someone passes away."
+      "text": "Well, I'm an Umamusume, so I'm more\nmuscular than humans."
+    },
+    {
+      "name": "Monologue",
+      "text": "She disappeared along with her friend\nLittle Floofy's lifeless body, so\nI thought\nshe might've been overcome with grief. I\nexplain that's what\nI meant."
     },
     {
       "name": "Aston Machan",
-      "text": "However, Ma-chan knows: life is something that flows.\nThe hospital taught me so.",
-      "choice_data_list": [
-        "...The hospital did?"
-      ]
+      "text": "I see, that kind of \"strong.\" I've seen a lot\nof people get sad when\nothers died."
     },
     {
       "name": "Aston Machan",
-      "text": "My mother is a doctor, you see,\nso Ma-chan's playground was the hospital. Life flows through a hospital."
+      "text": "But I have a different view. Life always\nfollows the same flow. That's\nwhat I\nlearned in the hospital."
     },
     {
       "name": "Aston Machan",
-      "text": "From upstream to downstream.\nWe are born, we drift along, and everyone inevitably reaches the sea.",
-      "choice_data_list": [
-        "……？"
-      ]
+      "text": "My mother is a doctor, so when I was\ngrowing up, my playground was\nthe\nhospital. The hospital is a place where life\nflows."
     },
     {
       "name": "Aston Machan",
-      "text": "There are no exceptions. Not Fluffy-san, not you... and not me.\nWe all must go to the sea."
+      "text": "It flows from upstream to downstream. All\nlife is born, then it flows,\nand inevitably\ngoes to sea."
     },
     {
       "name": "Aston Machan",
-      "text": "It is completely ordinary—like needing oxygen to breathe, like being unable to grasp the clouds, like the sun setting in the evening."
+      "text": "There are no exceptions. Little Floofy,\nyou, and me—we'll all go to\nsea."
     },
     {
       "name": "Aston Machan",
-      "text": "That is why it is not sad."
-    },
-    {
-      "text": "Whether she noticed I was rendered speechless or not,\nshe continued to speak smoothly and matter-of-factly."
+      "text": "In the same way that we need oxygen to\nbreathe, the clouds are out\nof reach, and\nthe sun sets in the evening, it's a normal\npart of reality."
     },
     {
       "name": "Aston Machan",
-      "text": "What is truly sad is being forgotten.\nFor me, or for you, to forget Fluffy-san completely."
+      "text": "So that's why it's not sad."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm at a loss for words. Unaware of my\nconfusion or simply\nunconcerned, she goes\non."
     },
     {
       "name": "Aston Machan",
-      "text": "That is why the most important thing is a trace.\nA trace that does not vanish even after one is gone.",
-      "choice_data_list": [
-        "(A \"trace that does not vanish\"...)"
-      ]
-    },
-    {
-      "text": "—Suddenly, I remembered Aston Machan's words from the other day."
+      "text": "What <i>is</i> sad is being forgotten. It'd be sad\nif you and I forgot about\nLittle Floofy."
     },
     {
       "name": "Aston Machan",
-      "text": "Ma-chan's dream is to become a mascot."
+      "text": "So what's most important is the mark you\nleave behind. A trace that\nlives on even\nafter you're gone."
     },
     {
-      "text": "...I had jumped to the conclusion that her wish for merchandise was merely an extension of wanting to stand out and be adored."
-    },
-    {
-      "text": "Judging by this, however, her reasoning was fundamentally different.\nBeneath it lay something purely simple, quiet, and poignantly intense..."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "...What is the matter?\nHave you turned to stone?"
-    },
-    {
-      "text": "I suddenly felt an overwhelming urge to confirm her true intention.",
-      "choice_data_list": [
-        "Why do you...",
-        "Why do you..."
-      ]
+      "name": "Monologue",
+      "text": "This reminds me of what she said the other\nday."
     },
     {
       "name": "Aston Machan",
-      "text": "Yes?",
-      "choice_data_list": [
-        "...want to become merchandise?",
-        "...want to become merchandise?"
-      ]
+      "text": "My dream... is to become a mascot."
+    },
+    {
+      "name": "Monologue",
+      "text": "I had jumped to the conclusion that her\nreason for wanting to be a\nmascot was the\nattention."
+    },
+    {
+      "name": "Monologue",
+      "text": "But now I'm convinced that I got it wrong.\nThe real reason is simple,\nhumble, yet\ngut-wrenching..."
     },
     {
       "name": "Aston Machan",
-      "text": "…………。"
+      "text": "What's wrong? Did you turn to stone?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I can't help but want to get to the bottom\nof this."
     },
     {
       "name": "Aston Machan",
-      "text": "Well, you see..."
+      "text": "Yes?"
     },
     {
       "name": "Aston Machan",
-      "text": "Ma-chan is going to run in the exhibition meet tomorrow and do wonderfully,\nso please come and watch."
+      "text": "..."
     },
     {
-      "text": "—Afterward, the two of us searched for flowers to place on the grave.\nIn the end, she never put her answer into words."
+      "name": "Aston Machan",
+      "text": "Well, Machan, you see..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Machan's taking part in the Tracen Meet\ntomorrow, and she's going to\nbe a big\ndeal, so you should come and watch."
+    },
+    {
+      "name": "Monologue",
+      "text": "After that, we look for flowers for the\ngravestone together. I've still\nyet to hear\nher put the answer into words."
     }
-  ],
-  "no_wrap": true
+  ]
 }

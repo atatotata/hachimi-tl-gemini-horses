@@ -1,248 +1,214 @@
 {
   "title": "Hazy Pelargonium",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sweep Tosho",
-      "text": "Rejoice, familiar!\nToday I'm getting you another friend!"
+      "text": "Get this, familiar! I found a new friend for\nyou!"
     },
     {
-      "name": "Narrator",
-      "text": "Why am I in front of the station with Sweep Tosho on our day off?\nThe reason goes back about an hour—"
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Jeez, there you are, familiar! Come on, you're shopping with me!",
-      "choice_data_list": [
-        "That's awfully sudden!?",
-        "That's awfully sudden, isn't it!?"
-      ]
+      "name": "Monologue",
+      "text": "Somehow, I've found myself in front of the\nstation with Sweep Tosho\non my day off.\nAbout an hour ago..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Because I only just found out today! 'Heal your heart with those cute eyes, the Magical Pooch plushie, on sale today!'"
+      "text": "Familiar, I've been looking all over for you!\nC'mon, it's time to go\nshopping!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "It's a magical doggy!? I absolutely have to get one, so hurry up!"
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, in order to find the plushie,\nwe headed to the nearest toy store, but—"
+      "text": "I just found this today. \"Introducing the\nMagical Doggy, a plushie that\nsoothes\nyour soul with its adorable eyes—available\nnow!\""
     },
     {
       "name": "Sweep Tosho",
-      "text": "Gah! What do you mean it's sold out!?"
+      "text": "It's a magical doggy! I'm so getting my\nhands on one, so hurry it up,\nwill you?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Thus, we arrive at the nearest toy shop in\nsearch of this magical\nplushie..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ugh, we can't just stand around dawdling!\nFamiliar, we're going to another store!"
+      "text": "Huh?! What do you mean it's sold out?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Sold out here too!?\nWhy!? Don't tell me you're hiding them from me!"
+      "text": "Geez, this is no time to be standing\naround! Familiar, to the next shop\nwe go!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "It wasn't here either...! \nUgh, stop dragging your feet, Familiar! We're going to keep looking until we find one!"
-    },
-    {
-      "name": "Narrator",
-      "text": "However, even after visiting every toy store we could think of,\nthe 'Magical Pooch' plushies were all sold out.",
-      "choice_data_list": [
-        "If we can't find it even after all this, then..."
-      ]
+      "text": "You're sold out too?! How come?! You\nbetter not be hiding one in the\nback!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Huh? Why are you looking so glum!? I want it, so I'm not giving up!"
+      "text": "None here, either! Urgh, then the search\ncontinues, familiar! We're\ngoing until we\nfind one!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Unfortunately, no matter which toy shop\nwe go to, the \"Magical\nDoggy\" plush is\nsold out."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Besides, it's your fault, Familiar! If you'd run at the same speed as me,\nmaybe we could've bought one before they sold out!"
+      "text": "Huh? What're you down in the dumps for?!\nI definitely want one, so\nwe're not giving\nup this easily!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "...I'm gonna find it, absolutely, positively!\nFamiliar, where's the next shop?!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Sweep Tosho throwing tantrums was nothing new,\nbut her unusual obstinacy caught my attention.",
-      "choice_data_list": [
-        "Why do you want it so badly?",
-        "Why do you want it so badly?"
-      ]
+      "text": "Anyways, this is all your fault, familiar! If\nyou kept up with me, I\nmight've been able\nto buy one before they sold out\neverywhere!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I want it because I want it!\nIt has to be \"Magical Doggy\"!",
-      "choice_data_list": [
-        "Is there something special about \"Magical Doggy\"?"
-      ]
+      "text": "...I'm sooo getting my hands on one.\nFamiliar, where's the next store?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sweep being stubborn is nothing new, but\nI'm a little curious as to\nwhy she's so\nadamant on getting this particular toy."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Yes! Because Grandma had one just like it...!"
+      "text": "I know I want it, and that's that! I <i>need</i> my\nown Magical Doggy!"
     },
     {
-      "name": "Grandmother's Dog",
-      "text": "Woof, woof!"
+      "name": "Sweep Tosho",
+      "text": "That's right! 'Cause Grandma had one just\nlike it!"
+    },
+    {
+      "name": "Sweep's Grandma's Dog",
+      "text": "<i>Bark, bark!</i>"
     },
     {
       "name": "Young Sweep",
-      "text": "Ugh... *sniffle* Don't come near me right now..."
+      "text": "<i>Sob... Hic.</i> Just go away..."
     },
     {
-      "name": "Sweep's Grandmother",
-      "text": "Saying things you don't mean won't work on him.\nI cast a spell on him, you see, so he knows what's in your heart."
+      "name": "Sweep's Grandma",
+      "text": "There's no point in saying things you don't\nmean. I placed a spell on\nher—she can\nread the minds of others."
     },
     {
-      "name": "Sweep's Grandmother",
-      "text": "...What's that?\nSweepy's actually thinking, \"I'm sorry, Papa\"?"
-    },
-    {
-      "name": "Young Sweep",
-      "text": "N-No, I'm not!\nI'm not sorry to Papa at all, you're totally wrong..."
+      "name": "Sweep's Grandma",
+      "text": "...What's that? Deep down, Sweepy wants\nto apologize to her papa?"
     },
     {
       "name": "Young Sweep",
-      "text": "Totally wrong... but,\nGrandma's magic really is amazing..."
+      "text": "Th-that's not what I was thinking at all! I\nmean, there's no way I'd say\nsorry to\nPapa..."
+    },
+    {
+      "name": "Young Sweep",
+      "text": "There's no way... But wow, your magic is so\ncool Grandma."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I want a doggy that understands feelings just like Grandma's!\nBut I can't have a real dog in the dorms, right?"
+      "text": "Just like Grandma, I want a doggy that can\nread minds! But I can't\nkeep pets at the\ndorm, right?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "So I'm gonna use \"Magical Doggy\" instead.\nI'll cast a spell on \"Magical Doggy\" and—"
+      "text": "That's why I want a Magical Doggy. I'll cast\na spell on it..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "If I turn it into a plushie that understands people's feelings,\nthen I'll become a real witch just like Grandma!"
+      "text": "And make it into a mind-reading plushie.\nThen I'll be one step closer\nto becoming a\ngreat witch like Grandma!"
     },
     {
-      "name": "Narrator",
-      "text": "It seemed Sweep Tosho wanted the plushie\nso she could take another step toward becoming like her idolized grandmother."
+      "name": "Monologue",
+      "text": "Sweep Tosho wants the plushie because it\nmakes her feel closer to\nher grandmother."
     },
     {
-      "name": "Narrator",
-      "text": "Still, the sun had set some time ago.\nRunning around all day might leave her exhausted tomorrow.",
-      "choice_data_list": [
-        "It's getting late, so let's head back."
-      ]
+      "name": "Monologue",
+      "text": "But it's gotten dark out already. Sweep\nmight be tired from running\naround all\nday."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I said NO!\nWhy don't you get it?! If you wanna go home so badly, go by yourself!",
-      "choice_data_list": [
-        "I'll look for it in your place!",
-        "I'll look for it in your place!"
-      ]
+      "text": "Didn't I just say no to that! Why don't you\nget it? If you wanna go\nhome that much,\njust go by yourself!"
     },
     {
       "name": "Sweep Tosho",
       "text": "...Huh?"
     },
     {
-      "name": "Narrator",
-      "text": "The next morning, I waited for Sweep Tosho on her way to school and called out to her.",
-      "choice_data_list": [
-        "Good morning!"
-      ]
+      "name": "Monologue",
+      "text": "The next morning, I spot Sweep as I wait\nby the academy gate and\ncall out to her."
     },
     {
       "name": "Sweep Tosho",
-      "text": "...What? Did you come to apologize?"
+      "text": "What, you feel like apologizing now?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "We searched all over yesterday and couldn't find it.\nI bet you didn't find it either, did you?!",
-      "choice_data_list": [
-        "Well then, riddle me this: what's this right here?"
-      ]
+      "text": "Yesterday, I bet you looked for only a\nlittle bit. You probably\ncouldn't find it!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "What do you mean, what's—huh...?"
+      "text": "What? What do you m—huh?"
     },
     {
-      "name": "Narrator",
-      "text": "To a stunned Sweep Tosho, I handed over the promised present."
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Is this... 'Magical Doggie'?! You really found it?!"
+      "name": "Monologue",
+      "text": "I hand over the promised present to a\nspeechless Sweep Tosho."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I mean, it wasn't anywhere...!\nI was sure it was completely impossible..."
-    },
-    {
-      "name": "Narrator",
-      "text": "Apparently, \"Magical Doggo\" was extremely popular,\nand I only managed to secure one after calling stores in neighboring prefectures."
+      "text": "A Magical Doggy! You really found one?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Even though you sent me home first...\nyou really kept looking after that?!",
-      "choice_data_list": [
-        "Because you need it to become a splendid witch.",
-        "Because you need it to become a splendid witch."
-      ]
+      "text": "But, it was sold out everywhere! I totally\nthought it was a lost cause..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The Magical Doggy plushie is really\npopular, so I had to call a toy\nstore in the\nneighboring prefecture to snag one."
     },
     {
       "name": "Sweep Tosho",
-      "text": "For me to... become a witch..."
-    },
-    {
-      "name": "Narrator",
-      "text": "Saying \"to become a witch\" might sound like a leap,\nbut I did it in hopes of giving her a push toward her dream.",
-      "choice_data_list": [
-        "Pet me, woof!"
-      ]
+      "text": "You mean you really kept looking after\nyou sent me home?!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "A-Ahhh! W-Well, fine!\nIf you're begging me that much, I'll take care of you!"
+      "text": "For me... to become a witch..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Saying it would help her become a witch\nwas a bit of a stretch, but I\nalso believed it\nwould give her the push she needed to\nkeep chasing\nher dreams."
     },
     {
       "name": "Sweep Tosho",
-      "text": "I mean... really!\nIt's only natural for a familiar to work for their master, right?"
+      "text": "...Wh-what am I gonna do with you? Fine\nthen, I'll be your new\nmaster!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Even if you hadn't found it,\nI'm sure I would've found and bought it myself anyway!"
+      "text": "Well... Y'know? It's only natural for a\nfamiliar to work for their master,\nright?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Even if my familiar didn't find it, I probably\nwould've found it myself,\nright?"
     },
     {
       "name": "Teacher A",
-      "text": "Your Trainer helped you with this, right?\nMake sure you thank them properly later!"
+      "text": "Your trainer helped you, right? Make sure\nto say thank you later,\nokay?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "...Ngh, I don't know what you're talking about!\nI didn't ask for this. My familiar just did it on its own!"
+      "text": "Hmph, I don't care! It's not like I asked for\nhelp. My familiar did it all\non their own!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "……。"
+      "text": "..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Familiars are so weird... don't you think so too, puppy?"
+      "text": "I really found myself a weird familiar...\nDoggy, you think so too, don't\nyou?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "............What's with that look?"
+      "text": "...What's that face for?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "That's not it!\nI'm not actually grateful or anything, you're way off base!"
+      "text": "You're wrong! I'm not grateful to them at\nall, and you're <i>so</i> off the\nmark!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Forget it! You need to learn how to read minds better, seriously!"
+      "text": "That's enough—you gotta learn how to\nread minds better, you hear\nme?!"
     },
     {
-      "name": "Narrator",
-      "text": "Despite her complaints, Sweep Tosho hugged her 'Magical Puppy' tight and crawled into bed."
+      "name": "Monologue",
+      "text": "Despite her grumbling, Sweep Tosho hugs\nher Magical Doggy tightly\nand crawls\nunder the covers."
     }
-  ],
-  "no_wrap": true
+  ]
 }

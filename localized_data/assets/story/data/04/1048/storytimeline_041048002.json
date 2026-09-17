@@ -1,21 +1,22 @@
 {
   "title": "Unblended, Untouched, a Single Hue",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "A few days after the troubling rumors about Tosen Jordan started,\nI happened to walk past the school gate—"
+      "name": "Monologue",
+      "text": "A few days after first hearing the rumors\nabout Tosen Jordan, I\nhappen to see her\nas I pass by the school gates."
     },
     {
       "name": "Classmate",
-      "text": "Ah! There you are, Jordan! The teacher's been looking for you!"
+      "text": "Ah, there you are, Jordan! The teacher's\nlooking for you!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ugh, yeah. Got a direct call on my phone a minute ago. Just got back now."
+      "text": "Yeah, I know. The school just hit me up.\nI'm headed over now."
     },
     {
       "name": "Classmate",
-      "text": "You'd better get over there right away! She sounded pretty ticked off.\nSkipping is one thing, but if you don't play it smart, you'll get expelled for real!"
+      "text": "Well, you better hurry! She seemed really\nangry... You can't skip class\n<i>and</i> practice.\nYou might get kicked out, you know?"
     },
     {
       "name": "Tosen Jordan",
@@ -23,206 +24,183 @@
     },
     {
       "name": "Teacher A",
-      "text": "Skipping classes, skipping tests... As if that wasn't bad enough,\nyou refuse to run in races, and now you won't even show up for training."
+      "text": "Skipping class, not even showing up for\ntests... All that could be\noverlooked if you\nwere entering races, but you won't even\ntrain."
     },
     {
       "name": "Teacher A",
-      "text": "...What happened? You worked so hard, even through your injuries.\nIf something is troubling you, I'd like to hear it."
+      "text": "What's going on here, Jordan? I know you\nwere injured, but you never\nlet that affect\nyou before... If you need someone to talk\nto, you know\nI'm here for you."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Nothing really, it's just kinda a drag? I don't even know."
+      "text": "I dunno. I'm just, like... low-key in a slump,\nI guess?"
     },
     {
       "name": "Teacher A",
-      "text": "...Please give me a serious answer. I'm worried about you.\nHave you lost all your motivation?"
+      "text": "Please take this seriously... I'm worried\nabout you. Is it an issue of\nmotivation?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Like I said, I don't even know why, I'm just sick of it all!"
+      "text": "I. Don't. Know. Period. End of story."
     },
     {
       "name": "Teacher A",
-      "text": "......I see. For today, at least finish this worksheet before you head home.\nI put together a summary of the main points from this week's classes."
+      "text": "<i>Sigh...</i> All right. Let's call this meeting\nadjourned. For now, I've made\na worksheet\nsummarizing this week's lessons. Once you\nfinish, you\nmay go."
     },
     {
       "name": "Teacher A",
-      "text": "Whenever you feel like talking about racing again, my door is always open."
+      "text": "When you feel like racing again, you know\nwhere to find me."
     },
     {
       "name": "Tosen Jordan",
-      "text": "I told you, even I don't get it myself."
+      "text": "For real though, what was I supposed to\nsay? Even I don't know what the\nproblem\nis."
     },
     {
-      "name": "Narrator",
-      "text": "A few hours after seeing her by the school gate—\nI spotted her in an empty classroom, wrestling with the worksheet."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Let's see... \"Find the natural number such that its square root is a natural number\"...?\nWhat even is a natural number? Like, numbers from nature? What does that mean, trees?!"
+      "name": "Monologue",
+      "text": "Several hours after seeing her at the gates,\nI'm walking down the\nacademy corridors\nwhen I notice Tosen Jordan sitting in an\nempty\nroom, struggling with a worksheet."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Uggghhh! What is this total gibberish nonsense?!\nThere's no way I'm ever finishing this~~!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Tosen Jordan slammed her head onto the desk in frustration.\nAnd as she did... the paper tore cleanly in two."
+      "text": "\"Solve with a natural number, assuming the\nsquare root is also a\nnatural number.\"\nWhat's that mean? Like, numbers in\nnature? What\ndoes <i>that</i> mean? Trees?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "............*Sigh*.\nI'm done. I'm so done. This is impossible. Can't deal with this."
+      "text": "Ugh! This is straight up code! How am I\nsupposed to know what to\ndo? This\nsuuuucks!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She slams her head dramatically into the\ndesk. As she does, the\nworksheet in her\nhands gets caught on something, causing it\nto rip."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Great. Just... great. I am... so done.\nDeceased."
     },
     {
       "name": "Teacher A",
-      "text": "How are things going? —Wait... huh? What happened to the worksheet?\n...Did you rip it on purpose?"
+      "text": "How's the homework coming along—huh?\nDid you... rip up your\nworksheet?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? Well, I mean, technically I ripped it myself, but... sort of."
+      "text": "Huh? Ah, well... I guess I did."
     },
     {
       "name": "Teacher A",
-      "text": "............I see.\n...Understood. It's loud and clear that you have zero motivation."
+      "text": "Well... you've made yourself clear. I see\nyou have no intention of\nimproving\nyourself."
     },
     {
       "name": "Teacher A",
-      "text": "Still...! That doesn't make this okay!\nTearing it up on purpose is unacceptable!",
-      "choice_data_list": [
-        "！"
-      ]
+      "text": "But you MUST learn to use your words! I\ncan't believe you would rip\nup your\nworksheet just to prove a point!"
     },
     {
-      "name": "Narrator",
-      "text": "Tosen Jordan didn't tear it on purpose.\nI expected her to defend herself, but—"
+      "name": "Monologue",
+      "text": "From what I saw, the worksheet ripping\nwas just an unfortunate\naccident. Of\ncourse, if she just explains what happened,\nI'm sure the\nteacher will understand."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Whatever..."
+      "text": "Whatever..."
     },
     {
       "name": "Teacher A",
-      "text": "You always push everyone away. Why won't you\ntake things seriously? We can't help you like this."
+      "text": "I'm <i>trying</i> to help you, you know. But if\nyou don't work with me, I can't\ndo\nanything."
     },
     {
       "name": "Teacher A",
-      "text": "Tell me, have you truly lost your motivation?\nDo you really not want to race anymore? ...Really?"
+      "text": "Have you really lost your drive? You really\nwant to stop racing? Truly?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Don't know. Don't care."
+      "text": "I don't know. How am I supposed to know?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Everyone says so anyway, so guess that's that."
+      "text": "But if that's how everyone sees it, then it\ndoesn't sound that outta\npocket to me."
     },
     {
-      "name": "Narrator",
-      "text": "She turned her back in total resignation without clearing up the\nmisunderstanding. I couldn't just leave her be, so I followed."
+      "name": "Monologue",
+      "text": "Instead of clearing her name, she simply\nturns her back on the teacher\nand walks\naway. It's like she's given up... I decide to\nfollow to make\nsure she's okay."
     },
     {
-      "name": "Narrator",
-      "text": "When I caught up, Tosen Jordan was meticulously applying\nprotective coat to a cracked hoof. Care products lay all around her."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "…………。"
+      "name": "Monologue",
+      "text": "When I finally catch up to her, I find her\ncarefully coating her injured\ntoenail with\nstrengthener. Other nail care products are\nlaid out\naround her."
     },
     {
       "name": "Tosen Jordan",
-      "text": "*sigh* ...Weak, annoying, and doing it in my room makes Ticket-san\ncry, which is even more annoying. Seriously, what is your deal, hooves?"
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "If only... If only you weren't like this............\nIf you were just tougher—give me a break. For real."
-    },
-    {
-      "name": "Narrator",
-      "text": "Despite her exhausted tone, Tosen Jordan\nkept caring for her hooves with endless, delicate patience."
-    },
-    {
-      "name": "Narrator",
-      "text": "Seeing how thoroughly she took care of her hooves,\nit didn't seem like she truly wanted to give up on racing."
-    },
-    {
-      "name": "Narrator",
-      "text": "Which made it all the more puzzling\nwhy Tosen Jordan was avoiding races in the first place.",
-      "choice_data_list": [
-        "(I want to know how she really feels.)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "After watching for an opportunity over the next few days—\nI spotted Tosen Jordan slacking off in town."
+      "text": "<i>Sigh...</i> Stupid toenail. Stupid medical care.\nStupid Tickezo, always\ncrying whenever I\ntreat it in our room, making me do it\noutside. It's all\nso... stupid."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? What's an Academy trainer want with me?",
-      "choice_data_list": [
-        "I wanted to talk with you.",
-        "I was hoping we could talk."
-      ]
+      "text": "If it weren't for my stupid flimsy toe,\nmaybe I—ugh. Forget it."
+    },
+    {
+      "name": "Monologue",
+      "text": "She sounds exhausted, but from her\ncareful application, it's clear\nshe's treating\nher injury as best she can."
+    },
+    {
+      "name": "Monologue",
+      "text": "I can't imagine someone who takes such\ngood care of themselves\nwould want to\nstop racing."
+    },
+    {
+      "name": "Monologue",
+      "text": "So why is she refusing to race?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I get my chance a few days later, when I\nspot Tosen Jordan skipping\nclass and\nwandering aimlessly around town."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Talk? Ah... Did the Academy tell you to bug me?\nSaying I gotta race and show up to training?"
+      "text": "Huh? What's an academy trainer want with\nme?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Sorry 'bout that, but I'm, like, totally unmotivated.\nSo hate to break it to ya, but just give up.",
-      "choice_data_list": [
-        "...I saw you taking care of your hooves."
-      ]
+      "text": "Talk? Ah... Did the school put you up to\nthis? I'm sure having a\nstudent skipping\nclasses and training is a big yikes for\nadmin."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Hah?! Wait, when?!"
-    },
-    {
-      "name": "Narrator",
-      "text": "While genuinely apologizing for having peeked...\nI wasn't about to back down now that I had a chance.",
-      "choice_data_list": [
-        "And it made me think that you actually do want to run."
-      ]
+      "text": "Sorry, but I've, like, lost my motivation or\nwhatever. Don't waste your\ntime on me."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Just 'cause I cared for 'em?\nNah... that's not it. It's just, like, I get restless if I don't do something."
+      "text": "What?! Wait, when?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I quickly apologize for not saying anything\nat the time, but explain\nthat I've wanted to\nspeak with her since then."
     },
     {
       "name": "Tosen Jordan",
-      "text": "So whether I wanna run or not...\n...I dunno."
+      "text": "Uh... Because I was taking care of my\ntoenail? You've got it all wrong.\nI just feel\nweird if I don't treat it regularly."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Wait, what's it to you anyway? Who cares?\nSeriously, just leave someone like me alone!"
-    },
-    {
-      "name": "Narrator",
-      "text": "(*grumble~*)"
+      "text": "You can't tell if I wanna run just from <i>that.</i>\nI mean, even I don't know\nwhat my deal is."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...I just skipped breakfast, okay?!",
-      "choice_data_list": [
-        "How about... I treat you to something?"
-      ]
+      "text": "And, like, why's it any of your business,\nanyway? I'm not exactly\nradiating main\ncharacter energy over here, so what's the\npoint?"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Growl...</i>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "H-Hah? Like I'd fall for cheap bait like that! Don't play with me!",
-      "choice_data_list": [
-        "You really just have to eat. That's all."
-      ]
+      "text": "I-ignore that! I just skipped breakfast,\nokay?!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Hmph. Fine, how 'bout that place?\nLet me eat as much as I want there."
+      "text": "Huh? Now you're trying to bribe me with\nfood?! I have <i>some</i> dignity,\nyou know!"
     },
     {
-      "name": "Narrator",
-      "text": "Tosen Jordan pointed toward\na flashy, junk-food-packed fast food joint."
+      "name": "Tosen Jordan",
+      "text": "Hm... Okay, bet. But only if we go to that\nplace and <i>only</i> if you'll let\nme eat as much\nas I want."
+    },
+    {
+      "name": "Monologue",
+      "text": "Looking at the place Jordan pointed out, I\nfind myself staring at a\nflashy fast food\nrestaurant."
     }
-  ],
-  "no_wrap": true
+  ]
 }

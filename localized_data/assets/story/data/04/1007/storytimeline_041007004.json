@@ -1,163 +1,158 @@
 {
   "title": "Episode 4",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The following day, having safely made it back to\nthe academy with Gold Ship—"
+      "name": "Monologue",
+      "text": "Gold Ship and I successfully make it back\nto school. The next day, I\nattend her\nrace..."
     },
     {
-      "text": "(Murmuring and buzzing...)"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Aaaand we're live at the racetrack.\nReporting is everyone's favorite, Golshi-chan."
-    },
-    {
-      "name": "Gold Ship",
-      "text": "First up, an ambush interview with our rookie Trainer! ☆\nTell us, how are you feeling about today's big race?",
-      "choice_data_list": [
-        "So today really was the race...",
-        "So today really was the race after all..."
-      ]
+      "name": "Monologue",
+      "text": "Students chatter amongst themselves while\nwaiting for the races to\nkick off."
     },
     {
       "name": "Gold Ship",
-      "text": "Whoa there, Buzzkill Jones, you're ruining the bit.\nI told you like ten times that it was, didn't I?"
+      "text": "We're here at the track, and I'm Golshi,\nreporting live from the race."
     },
     {
       "name": "Gold Ship",
-      "text": "I need your help out here today, so get your head in the game.\nYou know you need a Trainer to run in the Twinkle Series, right?"
+      "text": "I've got a fledgling trainer here for an\nexclusive interview. ☆ Tell me,\nare you\nexcited to be here today?"
     },
     {
       "name": "Gold Ship",
-      "text": "I managed to bluff my way through registration without one,\nbut that stunt definitely wasn't gonna fly today.",
-      "choice_data_list": [
-        "So you're saying... any Trainer would've done?"
-      ]
+      "text": "Whoa, way to break the immersion. How\nmany times do I have to drill\nit into you?"
     },
     {
       "name": "Gold Ship",
-      "text": "Huuuh?! ...You seriously still haven't figured out\nwhy I picked you?"
+      "text": "I need you more than ever today, so time\nto step up. Feel me? A racer\nhas to have a\ntrainer to enter the Twinkle Series, see?"
     },
     {
       "name": "Gold Ship",
-      "text": "You're always standing in the corner of the training course,\nstaring at us Umamusume while we run, right?"
+      "text": "I managed to fake my way through the\napplication process without\none, but\nthere's no way that would fly at the actual\nrace."
     },
     {
       "name": "Gold Ship",
-      "text": "Rain or shine, day in and day out, with that look of dead-set conviction...\nAnd when I saw that, it hit me—"
+      "text": "'Scuse me? ...You still have no idea why I\nchose <I>you</I> specifically?"
     },
     {
       "name": "Gold Ship",
-      "text": "'Man, this guy's got way too much free time on his hands.'",
-      "choice_data_list": [
-        "That's harsh..."
-      ]
+      "text": "Look, you've been watching us training\nfrom the sidelines since\nforever, haven't\nya?"
     },
     {
       "name": "Gold Ship",
-      "text": "Aw, chin up! Your reactions are gold, you roll with the punches, and I actually kinda like you!"
+      "text": "Even in the worst weather, you'd be there\nevery day with such\nenthusiasm in your\neyes... Whenever I saw you, all I could\nthink was..."
     },
     {
       "name": "Gold Ship",
-      "text": "—Oops, looks like it's about time."
+      "text": "Wow, this trainer has literally nothing\nbetter to do... Ya know?"
     },
     {
       "name": "Gold Ship",
-      "text": "Alright then, time to unleash all that built-up frustration in style!\nKeep your eyeballs glued to meee!!"
-    },
-    {
-      "text": "Despite being dragged through the wringer, watching Gold Ship walk off made me wonder what kind of race she was about to run."
-    },
-    {
-      "text": "And then, the gates opened for Gold Ship's debut race!"
-    },
-    {
-      "text": "She got off to a decent start and held a solid position as the race unfolded—"
-    },
-    {
-      "name": "Announcer",
-      "text": "Rounding the final bend, they enter the homestretch!\nThe frontrunner is pulling away! Is this race decided?!"
+      "text": "That said, I can always get a decent\nreaction out of you, and we\ngroove\ntogether pretty well. I've kinda grown to\nlike you!"
     },
     {
       "name": "Gold Ship",
-      "text": "WOOOOOOOOOOOOAAAAAAHHHH—!!"
-    },
-    {
-      "name": "Announcer",
-      "text": "Here comes Gold Ship with an explosive surge from behind!\nThree lengths to the lead! Now one length!"
-    },
-    {
-      "name": "Announcer",
-      "text": "She takes the lead right at the wire—GOOOAL!!!!\nGold Ship claims a spectacular victory in her debut race!"
-    },
-    {
-      "text": "What an exhilarating race...!\nI was completely captivated by her running."
+      "text": "Ah, it's just about time."
     },
     {
       "name": "Gold Ship",
-      "text": "HELL YEAAAHHHH!\nVICTORYYY!!"
+      "text": "Welp, I'd better make use of all this\npent-up hunger! Get ready—I'm\nabout to\nblow your mind!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She may mess with me constantly, but as I\nwatch her head off toward\nthe track, I\ncan't help getting excited to see her race."
+    },
+    {
+      "name": "Monologue",
+      "text": "And now, Gold Ship's big debut begins!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Things start off relatively well. As the race\nprogresses, she manages\nto hold onto her\nposition."
+    },
+    {
+      "name": "Caster",
+      "text": "They've made the last turn. It's the final\nstretch! The lead is breaking\nfor it! Will\nthis decide the race?!"
     },
     {
       "name": "Gold Ship",
-      "text": "How's that for raw talent?!\nNow that's what Golshi-chan's running is all about~!!",
-      "choice_data_list": [
-        "That was incredible...!!"
-      ]
+      "text": "URAAAAAAGH!"
+    },
+    {
+      "name": "Caster",
+      "text": "Now Gold Ship is pushing ahead with\nincredible speed! She's three\nlengths\nbehind! One length!"
+    },
+    {
+      "name": "Caster",
+      "text": "And she pulls ahead at the finish! Gold\nShip takes the win with a\nstunning debut!"
+    },
+    {
+      "name": "Monologue",
+      "text": "What an amazing race! I'm completely\nmesmerized by the way she ran!"
     },
     {
       "name": "Gold Ship",
-      "text": "Right?! Faster than anyone else! Stealing the spotlight and taking the win!\nThat's the true essence of Golshi!"
+      "text": "Woohooo! Victory!"
     },
     {
       "name": "Gold Ship",
-      "text": "Judging by the look on your face, you had a blast!\nBest expression you've made yet!"
+      "text": "Well, pretty impressive, huh? The mighty\nGolshi has plenty more\nwhere that came\nfrom!"
     },
     {
       "name": "Gold Ship",
-      "text": "So, we're good to keep going as Trainer and runner, right?!"
-    },
-    {
-      "text": "I had a nagging feeling I'd been cleverly tricked, but there was no denying the thrill of watching Gold Ship run, so—",
-      "choice_data_list": [
-        "Looking forward to working with you!"
-      ]
+      "text": "I know, right? I'm the fastest! I'm the\nbrightest star! Can't help it—I\nwas just born\nthis way!"
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah! Let us protect the peace of mankind together!!"
-    },
-    {
-      "text": "And so, her debut race came to a triumphant close, and I officially became Gold Ship's Trainer, but—"
+      "text": "Well, your face is positively shining after\nwatching me! You've never\nlooked happier\nthan this!"
     },
     {
       "name": "Gold Ship",
-      "text": "GYAAAAAAAHHHHHHHHH!!\nI'm totally running low on frustratiooon!!"
+      "text": "So, that means you have no problem\nstaying on as my trainer, right?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I was sort of duped into all of this, but...\nthe excitement I felt during\nher race was\nreal, so..."
     },
     {
       "name": "Gold Ship",
-      "text": "How many days until the next race?!\nThree days?! Two days?!"
+      "text": "Good! Together we shall defend the world\nfrom evil!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Gold Ship's debut ends in success, and I\nofficially become her trainer.\nI'm sure it'll\nbe smoother sailing from here..."
     },
     {
       "name": "Gold Ship",
-      "text": "A-At this rate, I won't have enough burning spirit,\nand I might not be able to run properly...!"
+      "text": "GAAARGH! I need more hunger!"
     },
     {
       "name": "Gold Ship",
-      "text": "Which means it's treasure hunting time! Treasure hunt!!\nLet's embark on a journey to find the ultimate source of frustration—!!"
+      "text": "How many days till my next race? Three?\nTwo?!"
     },
     {
       "name": "Gold Ship",
-      "text": "Next stop: OUTER SPACEEEEE!!\nHERE WE GOOOOOOOOOOO—!!"
+      "text": "Agh, if this keeps up, my burning spirit\nwon't last much longer! I won't\nbe able to\nrun anymore..."
     },
     {
-      "text": "I had to desperately scramble to keep Gold Ship from attempting to launch herself into space..."
+      "name": "Gold Ship",
+      "text": "You know what that means—treasure\nhunting time! Our adventure for\npure,\nconcentrated agitation begins!"
     },
     {
-      "text": "Wild, boisterous, and unmatched by anyone—Gold Ship.\nBeing her Trainer was clearly going to take a whole lot of work."
+      "name": "Gold Ship",
+      "text": "Our destination awaits—the final frontier,\nSPACE! HRAAAAAGH!"
     },
     {
-      "text": "— Gold Ship: Earth Arc - END —"
+      "name": "Monologue",
+      "text": "After a long, desperate struggle, I finally\nconvince Gold Ship that we\nshouldn't go\nto space."
+    },
+    {
+      "name": "Monologue",
+      "text": "She's the most dynamic Umamusume I've\never seen. I'll need to\nbecome more\nvigorous myself for whatever hurdles are\nsure to come..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<I>Gold Ship and the Battle for Earth\nThe End</I>"
     }
-  ],
-  "no_wrap": true
+  ]
 }

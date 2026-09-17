@@ -1,229 +1,194 @@
 {
   "title": "Slowly and Leisurely, their Free Time.",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "When I was walking the streets after finishing my errands on my day off… I happened to run into Wonder Acute."
+      "name": "Monologue",
+      "text": "One weekend, I'm walking around town\nafter finishing up some\nerrands, when I run\ninto Wonder Acute."
     },
     {
-      "text": "I was taking a leisurely stroll, since I didn't have any errands today. The weather today is nice for that, isn't it?",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "I'm not up to anything in particular, just\ntaking a stroll. I mean, how\ncould I resist\nwith such nice weather?"
     },
     {
-      "text": "It certainly was the best type of weather to take a stroll in.",
-      "choice_data_list": [
-        "… If you don't mind, want to stroll together?"
-      ]
+      "name": "Monologue",
+      "text": "It is indeed prime strolling weather."
     },
     {
-      "text": "Oh my, is that okay?",
-      "choice_data_list": [
-        "I have nothing better to do, so it's fine."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh! ...You wouldn't mind?"
     },
     {
-      "text": "Is that so? Hm, alrighty—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Is that so? Well then, in that case..."
     },
     {
-      "text": "… Ah, I got it. It's a bit far, but I have somewhere I want to show you, would you mind following me?",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "...Oh, that's right. While I have you, there's\nsomeplace I'd like to take\nyou, so why\ndon't you follow me?"
     },
     {
-      "text": "And thus, I followed Wonder Acute to the place she wanted to show me. Surprisingly, that place was a billiard hall.",
-      "choice_data_list": [
-        "Do you play billiards often?",
-        "Do you play billiards often?"
-      ]
+      "name": "Monologue",
+      "text": "I don't know where I was expecting her to\nlead me, but it sure wasn't a\npool hall."
     },
     {
-      "text": "Oh, not at all, this is the first time I've come here. Rickey invited me here to play next time we meet up.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, no, it's my first time, actually. Rickey\nwas saying she wanted to\ntake us here\nsometime, you see."
     },
     {
-      "text": "And I had the thought that you would have an interest in this modern game too—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "But then I got to thinking maybe a trendy\ngame like this would pique\nyour interest\ntoo."
     },
     {
-      "text": "\"The event is now under way! Are you able to pocket the ball in this position!? You get 2 tries! The winner will win an extravagant prize!\"",
-      "name": "Hall Announcer"
+      "name": "Announcement",
+      "text": "Come one, come all! Can you pocket the\nballs in this special\nconfiguration?! You\nget two chances! Winners will be\npresented with a\nluxurious prize!"
     },
     {
-      "text": "An extravagant prize? Oh my, a free \"all you can play\" ticket for the day! Rickey would be quite happy with it, but… I wonder if I can even win it…",
-      "choice_data_list": [
-        "Looks interesting, let's give it a try."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "A luxurious present? Look at that, it's a\none-day free pass! Rickey\nwould be over\nthe moon... You think I could win it?"
     },
     {
-      "text": "(Clack!)"
+      "name": "Monologue",
+      "text": "<i>Roll... Clink!</i>"
     },
     {
-      "text": "Oh my! You're amazing at this! If only it went just a tiny bit further. I'd never be able to do it, but Trainer, you're very skilled at this.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Well, would you look at that! You were so\nclose. I whiffed completely,\nbut you're a\nnatural at this."
     },
     {
-      "text": "Unfortunately, my first attempt ended in failure. I only had one more attempt. I got too nervous that I put too much power in my shoulders."
+      "name": "Monologue",
+      "text": "My first try ends in failure. I get one more\nattempt. My shoulders\nstiffen up from the\npressure."
     },
     {
-      "text": "Fufufu, deep breaths, Trainer, deep breaths～ \nIn times like this, you just need to take one breath.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Hehe. Trainer, deep breaths now, deep\nbreaths. In moments like this,\nit's best to\npause and collect yourself."
     },
     {
-      "text": "After me, Inhale… exhale…",
-      "choice_data_list": [
-        "Inhale… exhale…"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Like this. In... and out..."
     },
     {
-      "text": "… Wonder Acute's smile alongside the relaxed atmosphere, my shoulders started to relax… And with that—"
+      "name": "Monologue",
+      "text": "Her sweet smile and laid-back demeanor\ncombine to take all the\ntension right out\nof my shoulders. Now I'm ready."
     },
     {
-      "text": "(Clack! Rattle rattle plop!)"
+      "name": "Monologue",
+      "text": "<i>Clack! Thud!</i>"
     },
     {
-      "text": "Ho wa wa!",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Ohhh my!"
     },
     {
-      "text": "It went in, you pocketed it! \nAs expected you're really amazing, Trainer!",
-      "choice_data_list": [
-        "It was all thanks to you!"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "And in they go, every last one! You're so\ngood at this, Trainer!"
     },
     {
-      "text": "Now what did I do? All I did was watch. \nIt's your accomplishment.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Nonsense, I didn't do anything but watch.\nThe credit belongs to you."
     },
     {
-      "text": "Falco told me about this place. I thought that you would like a place that's quite \"Uma-stable\".",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Now, this cafe I heard about from Falco. I\nfigured you might like\nthese places that\neveryone posts about on the Umastagram."
     },
     {
-      "text": "Thank you for waiting～! Here's you 'Pancake the Mountain, lots of whipped cream and fruit butter!",
-      "name": "Cafe Employee",
-      "choice_data_list": [
-        "Whoa… it really is a mountain!"
-      ]
+      "name": "Waitress",
+      "text": "Here you are! One Pancake Mountain, with\na big ol' dollop of\nwhipped cream and\nextra fruit and butter!"
     },
     {
-      "text": "Whoa～, wowee… that's quite grand… \nIt feels like we'll be blessed a bit with how grand it looks.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Goodness me... I'm at a loss for words.\nSomething this impressive is\nbound to give\nyou all sorts of good luck."
     },
     {
-      "text": "Thank you kindly, thank you kindly…",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Praise be, praise be!"
     },
     {
-      "text": "Now that she mentioned it, it was a little miraculous to be able to see such an impressive pancake mountain. I should also—",
-      "choice_data_list": [
-        "Thank you kindly, thank you kindly"
-      ]
+      "name": "Monologue",
+      "text": "It does seem plausible that a stack of\npancakes this massive would\nhave some\nkind of divine power."
     },
     {
-      "text": "Fufufu, with that done, how about we partake in this meal.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Hehe. Now then, shall we dig in?"
     },
     {
-      "text": "(Nom nom)"
+      "name": "Monologue",
+      "text": "<i>Nom, nom...</i>"
     },
     {
-      "text": "Oh my! It's so fluffy and delicious!",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Ooh! It's so fluffy—this is to die for!"
     },
     {
-      "text": "It's been a while since I was able to enjoy eating out while feeling grateful like this. It made it taste all the better."
+      "name": "Monologue",
+      "text": "I can't remember the last time I had this\nmuch fun eating out. It makes\nthe food all\nthe more delicious."
     },
     {
-      "text": "Tarumae told me about this shop. Trainer, you said you were looking for a new jacket, right?",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "It was Tarumae who told me about this\nstore. Trainer, you were\ntalking about\nwanting a new jacket, weren't you?"
     },
     {
-      "text": "Look, how about this one? The material seems nice and the durability of it is quite nice too, isn't it?",
-      "choice_data_list": [
-        "Looks good! I'll try it on right now!"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Here, how about this one? The fabric\nlooks of good quality, and the\nmake is\nsturdy too."
     },
     {
-      "text": "Oh, Trainer, it looks great on you! \nCan you turn around for me too?",
-      "choice_data_list": [
-        "Like this?"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, Trainer, it looks wonderful on you!\nNow how about you turn\naround for me\nreal quick?"
     },
     {
-      "text": "Oh deary, the back of it has a hole. \nLooks like some bugs ate through it.",
-      "choice_data_list": [
-        "It's made to look damaged.",
-        "It's made to look damaged."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh dear, there's a big old hole in the back.\nA bug must have gotten\nto it."
     },
     {
-      "text": "Da-mage… um, it's meant to be there on purpose? \nHah～, modern clothes nowadays are quite complicated. I've learnt something new.",
-      "choice_data_list": [
-        "Let's pick out some clothes for you."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Fashion? So you're telling me it's supposed\nto be like that? <i>Sigh.</i> It's\nso hard to keep\nup with all these trends. But I learned\nsomething new."
     },
     {
-      "text": "Oh my, really? Alrighty then, I'll leave it up to you to pick out a more modern outfit for me. Fufufu.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, you mean it? Well, if you're offering,\nthen I suppose I'll have you\ngive my\nwardrobe a trendy makeover. Hehe."
     },
     {
-      "text": "Wowee… thank you, really. You kept me company for the entire day.",
-      "choice_data_list": [
-        "No, I should be the one thanking you."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Well... I owe you a big thank you. Didn't\nmean to keep you all day\nlong."
     },
     {
-      "text": "The billiard hall, a cafe, a clothes store. I was happy that she put in all this effort to choose places I'd like. But when I tried to tell her this—"
+      "name": "Monologue",
+      "text": "From billiards to the cafe and then the\nclothing store, she took care\nto pick\nplaces she thought I would enjoy, and I\nappreciate that."
     },
     {
-      "text": "No way. Those places were very foreign to me, so I ended up causing you a lot of trouble. But—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, I didn't do anything. Everything was so\nnew and unfamiliar to me,\nI'm afraid I only\nwasted more of your time. But, yes..."
     },
     {
-      "text": "I had a really great time… You taught me so many new things and I was happily following along.",
-      "choice_data_list": [
-        "I had fun too, it was very relaxing.",
-        "I had fun too, it was very relaxing."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "It really was a fun day. I learned so many\nnew things from you, it was\nhard for me\nnot to get all giddy."
     },
     {
-      "text": "Even in those places, if I'm with Wonder Acute, time passes by quite leisurely, and I can feel myself smiling just as effortlessly. That's why—",
-      "choice_data_list": [
-        "If it's alright with you, let's do it again!"
-      ]
+      "name": "Monologue",
+      "text": "No matter the place, when I'm with\nWonder Acute, time seems to pass\nmore\nslowly, and I always find a smile on my\nface."
     },
     {
-      "text": "Oh my, hm…",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "You don't say?"
     },
     {
-      "text": "… Yeah. Let's try and line up our schedules to do this again.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "...I'd like that. We'll have to find the time\nto do this again."
     },
     {
-      "text": "Fufufu… \"let's do it again\", saying something like that.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Hehe... We should \"hang\" again? Can you\nbelieve it?"
     },
     {
-      "text": "My, oh my… I'm pleased to see such a happy face. Have some black tea as well, deary. It'll be nice and warm since I kept it in a thermos.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "My, my! Seeing such a look of delight on\nyour face just warms my\nheart. Try the tea\ntoo. I put it in a thermos, so it's nice and\nsteamy."
     },
     {
-      "text": "Trainer, you were smiling just like that time…",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Trainer had that same smile again..."
     },
     {
-      "text": "I see… you were having fun this whole time.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "That's good... Glad to know I wasn't the\nonly one having fun."
     }
   ]
 }

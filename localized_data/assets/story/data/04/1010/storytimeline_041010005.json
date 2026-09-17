@@ -1,128 +1,121 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Large rain drops were incessantly falling, striking the window. \nAccording to the morning weather forecast, it was supposed to \nclear up in the afternoon, though…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Pardon me~~~~!!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer-san, Howdy~! \nToday's a training day but, the rain is really coming down!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "So… I have a request!"
-        },
-        {
-            "text": "Don't tell me that, in the middle of this downpour, she wants to \nrun. She'd probably catch a cold-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Let's make a teru teru bozu!!",
-            "choice_data_list": [
-                "Eh, a teru teru bozu?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Just now, everyone in class was talking about it. \nSaying [I really wanted to run outside, though]."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "They were really really downhearted. \nEven the classroom seems kind of gloomy."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "So then, I had an idea. I wanna make a Teru teru bozu! \nNot just any one, but a super big teru teru bozu!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "If it's super big, then it's power will be just as big! \nEven a hurricane would clear up in an instant!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "So that's why, Trainer-san! \nPlease let me have that curtain!",
-            "choice_data_list": [
-                "Making it out of a curtain?!",
-                "Making it out of a curtain?!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "That's right! Leave it to me! \nWith a powerful teru teru bozu, it'll definitely clear up!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "And with that, everyone will show me their happy smiles. \nAlright, let's get started!"
-        },
-        {
-            "text": "It's hard to refuse Taiki Shuttle's feelings when she's \nthinking about her friends. But, at this rate the \ncurtains will become a teru teru bozu…!",
-            "choice_data_list": [
-                "L-let's use a bigger cloth!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Wha… what?! A bigger one…?!"
-        },
-        {
-            "text": "I went to the infirmary and grabbed a few unused bedsheets. \nI sewed them together into one larger piece."
-        },
-        {
-            "text": "And then-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Alright, now we just need to hang it by the window. \nTrainer-san, cheer up!",
-            "choice_data_list": [
-                "H-heavy…!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Fuuu~. Hanging a big teru teru bozu \nby the window is bone breaking work."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "But, it's a wonderful big bozu! \nAnd the main point is this cute smile it has!"
-        },
-        {
-            "text": "A human-sized teru teru bozu was hanging by the window. \n…it was more like a room in a haunted house."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yahooooo!! Okay! \nNow all those rain clouds will-…Oh?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer-san, it's the sun!!"
-        },
-        {
-            "text": "When I looked outside the window at the sky, at some point the \nrain had stopped and the sun was out between a gap in the clouds."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Amazing! Leave it to a real life magic item! \nAnd, Trainer-san and my power!"
-        },
-        {
-            "text": "Taiki Shuttle was excitedly gazing outside. \n…I won't tell her about the weather report."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "It's completely become a beautiful day for training! \nIf it's like this, I can run using my full power!",
-            "choice_data_list": [
-                "Then, let's get to it-"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yeeees! I'm gonna go see everyone's smiles!"
-        },
-        {
-            "text": "With a loud voice that could reach out, \na lively Taiki Shuttle ran off…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Rain pours from the sky, pounding heavily\nagainst the windows.\nAccording to the\nforecast, it should clear up in the\nafternoon."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Knock, knock!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Howdy, Trainer! It's rainin' cats and dogs\nout there—and on a training\nday, no less!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "On that note, I've got a favor to ask!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Wait, don't tell me she wants to run in this\ndownpour? She'll catch a\ncold!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Let's make sunshine dolls together!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "My classmates were talking about how\nmuch they wanted to run\noutside earlier."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "They were all so disappointed; it was like\nthe gloom from the storm\nhad seeped right\ninto the classroom."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "That's when it hit me—why not make a\nsunshine doll? A super big one!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "If it's super big, it'll be super powerful too,\nright? Not even a\nhurricane will stand a\nchance!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "So hand me that curtain over there,\nTrainer!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "That's right! Just you wait—I'll bring the\nsun out of hidin' with the\nmost powerful\nsunshine doll you've ever seen!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I'm sure this will bring a happy smile to\neveryones' faces! So come on,\nlet's get\nstarted!"
+    },
+    {
+      "name": "Monologue",
+      "text": "While it's great that Taiki's thinking about\nher friends, she's trying to\nturn the school\ncurtains into sunshine dolls!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wh-what? Bigger than a curtain?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We request some old bed sheets from the\nnurse's office and sew them\ntogether into a\nsingle large cloth."
+    },
+    {
+      "name": "Monologue",
+      "text": "And after a bit of refashioning..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Now all that's left is to hang it in the\nwindow! So cheer up, Trainer!\nYou've got\nthis!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Whew! Hanging up such a big sunshine\ndoll is back-breaking work."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "But it sure turned out great! The cute smile\non its face is the best part!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A life-size sunshine doll sways in the\nwindow, making the room feel\nlike\nsomething out of a haunted house."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yeehaaaw! Okay, lookin' good! This bad\nboy'll blow the rain clouds\naway for\nsure—oh!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Look, Trainer! The sun's coming out!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I peer out the window to see that the rain\nhas stopped and the sun is\nbeginning to\npeek through the clouds."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Amazing! Just goes to show what a true\nJapanese magic item and our\npower can\ndo, Trainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Seeing Taiki gazing happily up at the sky,\nI decide not to tell her\nabout the weather\nforecast."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "That's some perfect training weather! Now\neveryone can run at full\npower!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yes! I'm gonna go take a gander at\neverybody's smiling faces!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Oblivious to me calling her name, Taiki\nbolts off with a skip in her\nstep."
+    }
+  ]
 }

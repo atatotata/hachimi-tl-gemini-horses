@@ -1,190 +1,154 @@
 {
   "title": "What makes a reliable trainer...",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Super Creek is a horse girl whose 'excellence' and ability are known both inside and outside the academy."
+      "name": "Monologue",
+      "text": "Word of Super Creek's skills has spread\nbeyond the campus, giving\nbirth to a new\nphrase that is now synonymous with her\n\nname—\"exceedingly talented.\""
     },
     {
       "name": "Super Creek",
-      "text": "Trainer, I took 1st place~.\nEven if it was just a mock race, I'm so happy♪"
+      "text": "Trainer, I won first place! I know it was just\na scrimmage, but I'm still\nvery happy about\nthe results. ♪"
     },
     {
-      "name": "Narrator",
-      "text": "Aside from her ability, she is also widely known for one other major trait—"
-    },
-    {
-      "name": "Super Creek",
-      "text": "Phew, it sure is hot today~... Oh?\nTrainer, you're sweating so much. Let me wipe that off for you.",
-      "choice_data_list": [
-        "I-I'll do it myself!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "I reached into my pocket to grab a handkerchief... but\nthere was nothing there. Looks like I forgot to bring one..."
+      "name": "Monologue",
+      "text": "In addition to her talent, her distinctive\npersonality has also become\nwell-known."
     },
     {
       "name": "Super Creek",
-      "text": "Fufu, don't worry. Leave it to me..."
+      "text": "Phew, it's hot today, isn't it? Oh... you're\nsweating a lot, Trainer. Let\nme help you\nwipe it off."
+    },
+    {
+      "name": "Monologue",
+      "text": "I fish around in my pockets for my\nhandkerchief, except it isn't there.\nLooks\nlike I forgot it..."
     },
     {
       "name": "Super Creek",
-      "text": "There now, hold still.\nGood boy, good boy♪"
-    },
-    {
-      "name": "Narrator",
-      "text": "In the end, I ended up getting pampered again..."
+      "text": "Hehe, don't worry. I'll take care of it. "
     },
     {
       "name": "Super Creek",
-      "text": "All... done! That should feel much fresher♪\nMake sure to double-check for your handkerchief and tissues before heading out, okay?"
+      "text": "Stay still now. There we go! ♪"
     },
     {
-      "name": "Narrator",
-      "text": "Her attentive nature is certainly a wonderful virtue. But as a trainer,\nI can't let myself be babied forever. After all—"
-    },
-    {
-      "name": "Mid-Career Trainer A",
-      "text": "Second place, huh... That was close. But your time has definitely improved.\nLet's keep up this momentum!"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Yes, sir! It's all thanks to your guidance, Trainer!\nI'll keep counting on you!"
-    },
-    {
-      "name": "Narrator",
-      "text": "...A trainer is supposed to be someone a horsegirl can rely on.",
-      "choice_data_list": [
-        "I can't just keep letting her baby me...!"
-      ]
+      "name": "Monologue",
+      "text": "Somehow, I always wind up getting taken\ncare of..."
     },
     {
       "name": "Super Creek",
-      "text": "Did you say something?",
-      "choice_data_list": [
-        "No, it's nothing.",
-        "Nah, it's nothing."
-      ]
+      "text": "Doesn't that feel much better now? ♪\nRemember to check if you've\nbrought\ntissues or a handkerchief with you next\ntime before you\nleave, okay?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her caring nature is wonderful, but I don't\nwant her to keep spoiling\nme like this. I\nneed to step up—"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Second place, huh... You were close. What\nmatters is that your time is\ngetting faster,\nso keep it up!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Yes! It's all thanks to your guidance! I'm\ngoing to work even harder\nfrom now on!"
+    },
+    {
+      "name": "Monologue",
+      "text": "...I need to step up because trainers are\nsupposed to be the rock that\ntrainees can\nlean on!"
     },
     {
       "name": "Super Creek",
-      "text": "Is that so...? \nCome now, it's about time for lunch."
-    },
-    {
-      "name": "Narrator",
-      "text": "Even during lunch, Super Creek keeps on pampering me.\nBut, to change my relationship with her—",
-      "choice_data_list": [
-        "Is there anything you want me to do for you?",
-        "Is there anything you want me to do?"
-      ]
+      "text": "Did you say something?"
     },
     {
       "name": "Super Creek",
-      "text": "Hmm, let's see... I want you, Trainer, to have a well-balanced diet,\nand eat plenty of food.",
-      "choice_data_list": [
-        "That's not what I meant..."
-      ]
+      "text": "Really? Well then, shall we head off to\nlunch now?"
+    },
+    {
+      "name": "Monologue",
+      "text": "But even at lunch, Super Creek continues\nto look after me. I rack my\nbrain to try and\nflip the situation around."
     },
     {
       "name": "Super Creek",
-      "text": "...I'm happiest when I can take care of someone like this, and see them smile and feel energized."
+      "text": "Good question... Well, I'd love for you to\nhave a balanced diet, so\nplease eat lots of\nveggies for me."
     },
     {
       "name": "Super Creek",
-      "text": "So you don't need to worry about it.\nIf anything, please let me pamper you even more♪",
-      "choice_data_list": [
-        "Don't you ever want to be pampered yourself?",
-        "Don't you ever want to be pampered?"
-      ]
+      "text": "...This is just who I am—I love helping\neveryone. Being able to bring a\nsmile to\nsomeone's face makes me happier than\nanything else."
     },
     {
       "name": "Super Creek",
-      "text": "Hmm, let me see.\nEven looking back on my childhood, nothing really comes to mind."
+      "text": "So don't worry about me. Let me keep\ndoing what I do best. ♪"
     },
     {
       "name": "Super Creek",
-      "text": "When I was little and at the daycare my parents ran,\nthey always said I was 'such an easy child to take care of.'"
+      "text": "Hmm, I don't know. When I think back to\nmy childhood, I don't\nremember a time\nwhen I ever felt that way."
     },
     {
       "name": "Super Creek",
-      "text": "In fact, they said I used to help my parents comfort the other children my age whenever they started crying.",
-      "choice_data_list": [
-        "Why are you so good at taking care of others...?",
-        "Why are you so good at taking care of others...?"
-      ]
+      "text": "As a little kid, people often remarked how\nI never really needed\nmuch help with\nanything. I was very easy to handle."
     },
     {
       "name": "Super Creek",
-      "text": "Why...? Hmm, now that you ask me that directly,\nit's a bit hard to say..."
+      "text": "In fact, I remember taking care of other\nkids my age whenever they\nwere crying. I'd\nbe making them feel better along with\ntheir parents."
     },
     {
       "name": "Super Creek",
-      "text": "Watching the children who came to our place...\nand seeing them grow, I realized something."
+      "text": "How? Hmm, that's a good question. It's\nhard to say..."
     },
     {
       "name": "Super Creek",
-      "text": "At first, everyone can't do anything on their own.\nThey need the help of those around them."
+      "text": "Back home, watching the kids at our day\ncare grow up, I began to\nrealize..."
     },
     {
       "name": "Super Creek",
-      "text": "Whether it's their parents, teachers, or friends...\nthey grow up little by little while being helped by someone."
+      "text": "At first, it's hard to do anything by\nyourself. We all need someone's\nhelp to\nlearn how to navigate the world around us."
     },
     {
       "name": "Super Creek",
-      "text": "If I could be the one to help them with that, well...\nwouldn't that be just... absolutely wonderful?"
-    },
-    {
-      "name": "Narrator",
-      "text": "Helping someone grow... that really resonates with my own feelings\nas a Trainer toward my Umamusume."
-    },
-    {
-      "name": "Narrator",
-      "text": "To help them fulfill their wish of 'wanting to be faster than anyone else'—\nthere is no greater wish than to see that come true.",
-      "choice_data_list": [
-        "I feel the exact same way.",
-        "I feel the same way too."
-      ]
+      "text": "No matter who you may be, whether you're\na parent, teacher, or\nfriend, we all can\nbenefit from a little bit of love and\nsupport."
     },
     {
       "name": "Super Creek",
-      "text": "You feel the same way, Trainer...?\nFufu, that makes me so happy somehow."
+      "text": "And that's why, if I can be a part of\nsomeone's journey of growth and\n\nself-discovery... then isn't that just\nwonderful?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her desire to help people develop\nthemselves echoes the same\ndesire that\ntrainers have toward their racers."
+    },
+    {
+      "name": "Monologue",
+      "text": "As a trainer, I want nothing more than to\nhelp students achieve their\ndreams of\nrunning faster than anyone else."
     },
     {
       "name": "Super Creek",
-      "text": "I see, so that's why you wanted me to ask something of you."
+      "text": "Hehe, I'm so happy you feel the same way."
     },
     {
       "name": "Super Creek",
-      "text": "Now, what should I ask for... Hmm...\nAh, I just thought of something.",
-      "choice_data_list": [
-        "What is it?",
-        "What would that be?"
-      ]
+      "text": "Now I understand why you asked me that\nquestion earlier."
     },
     {
       "name": "Super Creek",
-      "text": "Trainer... would you let me...\nsew on that loose button on your shirt?"
+      "text": "Hmm, something that you can do for me...\nOh, I know."
     },
     {
       "name": "Super Creek",
-      "text": "I noticed earlier that it was about to fall off,\nand I just haven't been able to stop thinking about it."
+      "text": "Trainer... will you let me fix the button on\nyour shirt?"
     },
     {
       "name": "Super Creek",
-      "text": "Come now, take it off for me.\nDon't worry~, it'll only take a moment.",
-      "choice_data_list": [
-        "You're still just pampering me!"
-      ]
+      "text": "It caught my eye earlier, and I haven't\nbeen able to stop thinking\nabout it."
     },
     {
       "name": "Super Creek",
-      "text": "Oh no, this is a favor I'm asking of you.\nCome on, hand it over♪"
+      "text": "So please, give me your shirt for a\nmoment. I'll be done in a second!"
     },
     {
-      "name": "Narrator",
-      "text": "It looks like the day I finally graduate from Super Creek's doting\nis still a long, long way off..."
+      "name": "Super Creek",
+      "text": "No, you <i>are</i> doing something nice for me!\nThis is what I want, so come\nhere please. ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "The day that I fully outgrow Super Creek's\npampering still eludes\nme..."
     }
-  ],
-  "no_wrap": true
+  ]
 }

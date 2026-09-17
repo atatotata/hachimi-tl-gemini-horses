@@ -1,149 +1,133 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The weekend was finally here. I'd taken care of \nall the work that had piled up and was getting \nready to start training in the afternoon……"
-        },
-        {
-            "text": "(<i>Thud-ud-ud-ud-ud-ud!!</i>)"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Buueeeenos taardeeeeees!! \nFeeling good, Trainer?!",
-            "choice_data_list": [
-                "I can tell you are.",
-                "I can tell you are."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's right, El's always feeling good! \nOn-track or off-track, I perform in top fooorm!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hn? ……Trainer, you look a little tired. \nWe haven't started yet, you know!?",
-            "choice_data_list": [
-                "Fatigue's been catching up with me…"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué!? Why!? How!? The sun's shining \nright above! It's too early to fizzle out!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "No, no! We're aiming for the world here! \nHow can we do that without energy!?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "¡Hala, find the strength in your core! Take a breath! \nFill your lungs with fresh air!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "¡Vamos, Trainer! We're going to run!!",
-            "choice_data_list": [
-                "<i>We!?</i>",
-                "<i>We!?</i>"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yeah!! When I feel good, I'm always running! \nSo running makes you happy!! Let's goooo!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>¡Uno dos tres!</i> Raise your thighs more!! \nFollow El's lead! A-one, and a-two!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's it! Keep it up! Now get ready to take off with meee!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Shout oouut! Jump uuup! Ignite your fightiing spiriiiit! \n¡¡¡Olé, 10 more tiiiimes!!!"
-        },
-        {
-            "text": "…… Led by El Condor Pasa, I ran laps around the training track."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Bueno!! Now that's El's trainer! \nYou look good when you're fired up!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Especially on that last lap, I felt your burning passion! \nGreat job, you get a flower mark!💮",
-            "choice_data_list": [
-                "T-Thanks……"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>Nah-ha-ha-ha!</i> You're welcome! We sure worked up \na good sweat! Another day of great training…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hmm? Training?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Trainer! We haven't done any actual training yet!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hurry up, ring the gong at full speed! \nIt's training tiii—"
-        },
-        {
-            "text": "(<i>Diing-doong-daang-doong</i>)"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué!? That's the bell……!?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "<i>Aah</i>～ This week was so tiring! \nHey, wanna drop by the convenience store?"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "Sounds good, I want some sweets and just chill for the day～"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Wha— Whawhawha…… Everyone's leaving…… \nThis can't be… It's time to go home already…?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Does that mean our training is over……?",
-            "choice_data_list": [
-                "I'll hang out with you a while longer."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Trainer……!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>Woooh</i>, El's a lucky girl! I'm so happy you're my trainer!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Well, let's pull ourselves together and go train! We're going to \nchase that sunset to the riverbank… no, to the ocean!",
-            "choice_data_list": [
-                "…… Let's keep it reasonable, yeah?",
-                "…… Let's keep it reasonable, yeah?"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yeah, yeaah. I get it so let's gooo!"
-        },
-        {
-            "text": "Training with El Condor Pasa was fun, but very exhausting…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "What are you waiting for, Trainer! I'm gonna leave you behiiind!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "It's finally Friday. I'm finishing up the last\nbit of work and getting\nready for\nafternoon training when..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Thump, thump, thump!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Buuuuuenos tardeeesss! How're you doin',\nTrainer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yup, I'm always full of energy! Whether I'm\non the turf or not, I'm\nalways going full\nthrottle!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hm? Are you feelin' a bit under the\nweather, Trainer? But we were just\nabout\nto start training!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué?! How come?! What happened?! The\nsun's out—it's way too early\nto be burning\nout!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "C'mon, aren't we aiming to be the world's\nstrongest?! If we aren't\npeppy, then what\nare we?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Now, suck in your gut! Then, breathe in!\nGet that fresh air into your\nlungs!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Look alive, Trainer—we're goin' on a run!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí! I always run when I'm energetic! Which\nmeans that running makes\nyou energetic!\nC'mon, let's gooooo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Uno, dos, tres! Raise those thighs! Match\nyour cadence to my rhythm!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Right! Just like that! Next up, fly with me\nthrough the sky!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Shout! Leap! Let the fires of passion burn\nbright! Good, we've only\ngot ten laps to\ngo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, we finish our impromptu training\nsession with El as my trainer."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno! I'm glad I picked you as my trainer!\nWe make a good team!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I really felt your passion on that final lap.\nI'm proud of you. You get\nan A+!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Haaahahaha! You're very welcome! We\nworked up a good sweat,\ndidn't we?\nAnother productive day of training—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Huh? Training?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Trainer! I haven't done any training yet\ntoday!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Quickly, speedily—swiftly! Let us sound\nthe gong! Now's when the\nreal training\nbeg—"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Ding-dong, bing-bong...</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué?! The bell! But that means—"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Sigh...</i> This week was a real doozy. Hey,\nwanna hit up the\nconvenience store?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "You know it. I just wanna grab something\nsweet and chill."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Wh-wh-wha?! Everyone's leaving the\ntrack... Don't tell me... Is it\nalready time to\ngo home?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Trainer, does that mean we're finished\ntoo?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Traaainer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Gah, I'm so happy! I'm glad I picked you as\nmy trainer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "All right, time to get back into gear and\nstart training! Let's run\ntowards the setting\nsun until that riverbank—no, until the sea!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I know, I know. Don't worry so much!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Training with El is a lot of fun, but I\nwonder if I'll be able to walk\ntomorrow..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "What're you spacin' out for, Trainer?! I'll\nleave you behind!"
+    }
+  ]
 }

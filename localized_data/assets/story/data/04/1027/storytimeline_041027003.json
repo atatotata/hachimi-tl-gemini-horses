@@ -1,269 +1,234 @@
 {
   "title": "I Was Watching Your Back",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "The day after the Selection Race, as I was heading home from work—"
+      "name": "Monologue",
+      "text": "The day after the tryouts, I'm about to\nhead home when I spot a\nfrantic—and\nfamiliar—student."
     },
     {
       "name": "Ines Fujin",
-      "text": "—Ah!!\nYou're the Trainer who was at the Selection Race yesterday, right?!",
-      "choice_data_list": [
-        "I am, but is something the matter?",
-        "I am, but is something the matter?"
-      ]
+      "text": "Ah! You're the trainer from yesterday,\nright?!"
     },
     {
       "name": "Ines Fujin",
-      "text": "Well, ever since classes ended,\nI haven't been able to find Ryan-chan anywhere..."
+      "text": "I haven't been able to find Ryan since\nclasses ended..."
     },
     {
       "name": "Ines Fujin",
-      "text": "Ryan-chan trains a ton every single day, so usually\nshe's guaranteed to be on the track or in the gym, but..."
+      "text": "She's always training, so I figured I'd find\nher on the course or in the\ngym..."
     },
     {
       "name": "Ines Fujin",
-      "text": "I checked both places today and couldn't find her at all.\nShe seemed a little off during yesterday's race, too, so I'm worried...",
-      "choice_data_list": [
-        "I'll go look for her too.",
-        "I'll go look for her too."
-      ]
+      "text": "But she wasn't there! And after that weird\nrace yesterday, I'm starting\nto get worried."
     },
     {
       "name": "Ines Fujin",
-      "text": "Really?!\nThank you, Trainer!! That's a huge help...!"
+      "text": "Really?! Thank you so much!"
     },
     {
-      "name": "Narrator",
-      "text": "Ines Fujin and I split up\nand searched everywhere for Mejiro Ryan."
+      "name": "Monologue",
+      "text": "Ines Fujin and I take a quick moment to\ndecide where we should each\nlook, and\nthen we split up to search for Mejiro Ryan."
     },
     {
-      "name": "Narrator",
-      "text": "Not just on campus, but along the nearby riverbank, the park,\nthe shopping district, and around the station. After searching all over, finally—"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "………………。",
-      "choice_data_list": [
-        "Found you at last."
-      ]
+      "name": "Monologue",
+      "text": "After checking the school grounds, I head\nto the nearby river, parks,\nshopping\ndistrict, and even the station. Just when all\nhope seems\nlost..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Huh? Wait... Trainer.\nWhat are you doing here?"
-    },
-    {
-      "name": "Narrator",
-      "text": "I explained that Ines Fujin had been worried about her,\nand that I came looking for her out of concern as well."
+      "text": "..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Is that so... I'm really sorry for causing you trouble.\nI'll make sure to apologize to Ines later, too."
+      "text": "Huh? What are you doing here?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell Mejiro Ryan about Ines Fujin's search\nfor her and how I offered\nto help."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I was just in the mood to go for an outdoor run today.\nI meant to head back before anyone got worried, but..."
+      "text": "Gotcha... Aw, man, sorry about that. I'd\nbetter apologize to Ines when\nI get back."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Taking a break here and looking at the view...\nkind of brought back a lot of memories.",
-      "choice_data_list": [
-        "Memories?"
-      ]
+      "text": "I just really wanted to run outside today. I\nwas planning to be back\nbefore anyone\nstarted worrying, but I guess that was a\nbust..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...There was a hilltop like this near the Mejiro estate, too.\nIf you climbed all the way up that long, steep hill, there was a beautiful view."
+      "text": "I stopped here to take a break, but then I\ngot caught up in the\nscenery... Brings back\na lot of memories."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "So back in the day, we used to race each other up there all the time.\nTo see who could reach that view first... all of us Mejiro kids."
+      "text": "Yeah... You see, there's a steep hill close\nto the Mejiro family home.\nLike <i>steep</i>\nsteep. But if you make it to the top, you\nget an incredible\nview."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Of course, that included McQueen, too."
+      "text": "When I was young, we used to play on that\nhill all the time. We\nMejiro kids would race\nup it to see who would be the first to see\nthat\nbreathtaking view."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Man, she was fast even back then...",
-      "choice_data_list": [
-        "Have you known McQueen for a long time?",
-        "Have you known McQueen for a long time?"
-      ]
+      "text": "That includes McQueen too, of course."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yeah... Even among the Mejiro family, she and I were especially\nclose. We were childhood friends... or more like sisters, I guess?"
+      "text": "She's always been a fast one."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Though, since I've always been like this and McQueen was always so put-together,\nI never really acted like much of an older sister to her."
+      "text": "Yeah... Out of our whole family, she's\nprobably the one I'm closest to.\nI guess\nwe're like childhood friends... Or maybe\nsisters?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "McQueen... she's truly been an amazing girl for as long as I can remember."
+      "text": "But... McQueen's always been the model\nMejiro, and I've been, well...\nme. So even\nthough I'm technically older, I never really\ncould act like\na big sister to her."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "She always thinks about how a horsegirl carrying the Mejiro name ought to act\nand what kind of results she needs to deliver, and pours in the work for it."
+      "text": "She's just... always been amazing."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "She carries herself with grace, always keeps her appearance immaculate,\nand lives up to the expectations of everyone who supports the Mejiro family..."
+      "text": "She knows what it means to be a Mejiro,\nand what sort of standard\nshe's gotta set,\nboth on and off the race course. And then\nshe <i>meets</i>\nthose standards."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I... really respect McQueen."
+      "text": "Her manners are top-notch, and she\nalways looks so elegant. She's\neverything\nthe fans of our family want..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "—She's just so completely different from someone like me.",
-      "choice_data_list": [
-        "You're a wonderful horsegirl too.",
-        "You're a wonderful horsegirl too."
-      ]
+      "text": "I really respect her."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ahaha... \nYou're very kind, Trainer."
+      "text": "She's completely different from me."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But I know the truth.\nI can't do things the way McQueen does."
+      "text": "Ahaha, thanks... You're a good person."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I can't run bearing the weight of our family name, nor do I have that kind of resolve.\nNo, even if I did... I'd never reach the heights of her noble spirit."
+      "text": "But you don't need to lie. I know I could\nnever be like McQueen."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I just happen to like moving my body.\nReally... that's all there is to it."
+      "text": "I don't run with the Mejiro name in mind,\nand I don't think I ever will.\nEven if I could,\nI wouldn't be able to compete with her."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "—Besides, I'm not remotely close to looking like\na 'highborn noble lady'! Ahahaha."
+      "text": "After all, I just like running. Nothing\nmore... nothing less."
     },
     {
-      "name": "Narrator",
-      "text": "Though she put on a bright smile and laughed,\nthe issue she harbored seemed to run remarkably deep..."
+      "name": "Mejiro Ryan",
+      "text": "No one would ever look at me and think of\nme as a distinguished\ndaughter of a noble\nlineage. Ahaha!"
     },
     {
-      "name": "Narrator",
-      "text": "Having honed her physique through relentless day-and-night training,\nMejiro Ryan undeniably possessed immense underlying ability."
+      "name": "Monologue",
+      "text": "She laughs it off, but I can tell that her\nproblems are eating her up\ninside. If only I\ncould do something..."
     },
     {
-      "name": "Narrator",
-      "text": "Yet the self-doubt surrounding her 'reason to run,' which had built up\nsince childhood, seemed to be holding back her true performance."
+      "name": "Monologue",
+      "text": "Her dedication to working out has forged\nher body into a\npowerhouse. She's clearly\ngot more talent than she thinks."
     },
     {
-      "name": "Narrator",
-      "text": "Was there anything I could do for her?\nPondering this, I returned to the academy—"
+      "name": "Monologue",
+      "text": "In any case... it's clear that she's insecure\nabout her motivation, and\nit's been\nhindering her performance."
+    },
+    {
+      "name": "Monologue",
+      "text": "As I try to puzzle out a solution to this\nconundrum, I head back to\nschool."
     },
     {
       "name": "Gold Ship",
-      "text": "Huh, so McQueen's entering the 3200m turf event.\nWhat should I do? Maybe go with the 5000m freestyle after all?"
+      "text": "Wow, so you're doing the 3,200 meter\nturf race, huh? What should I\ndo... Oh,\nmaybe the 5,000 meter freestyle race!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "There is no such event in the tournament!",
-      "choice_data_list": [
-        "(Tournament...?)"
-      ]
+      "text": "There is no such race in the Tracen Meet!"
     },
     {
-      "name": "Narrator",
-      "text": "Come to think of it, the 'Category Tournament'—where every horsegirl at\nTracel Academy competes in their chosen events—was scheduled to begin soon."
+      "name": "Monologue",
+      "text": "I quickly remember that the Tracen Meet,\nan event where students\ncan run in a\ncategory of their choosing, will happen\nsoon."
     },
     {
       "name": "Gold Ship",
-      "text": "Still, Mac-chan, you're going for long distance again?\nWouldn't it be cool if you showed off a 1200m blitz for once?"
+      "text": "Why do you always gotta do the long runs,\nhuh? Why not do the\n1,200 meter and\nmake the competition eat your dust?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "My sights are firmly set on the Tenno Sho, after all."
+      "text": "My goal is to win the Tenno Sho, so I\nobviously need to prepare for\nthat."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Many spectators will be attending the tournament,\nso I must present a performance worthy of the Mejiro name!"
+      "text": "The Tracen Meet attracts all sorts of fans,\nso I must run in a way that\ndoes not\nbesmirch the Mejiro name!"
     },
     {
-      "name": "Narrator",
-      "text": "For the tournament, it seemed Mejiro McQueen intended\nto aim for victory in her specialty, the 3200m turf race."
+      "name": "Monologue",
+      "text": "It sounds like Mejiro McQueen is aiming to\nwin the 3,200 meter turf\nrace."
     },
     {
-      "name": "Narrator",
-      "text": "...The root of the issue Mejiro Ryan is struggling with\nis undoubtedly Mejiro McQueen. In that case—"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Huh...? Me, enter the same race as McQueen?",
-      "choice_data_list": [
-        "I won't force you, but I'd like you to consider it."
-      ]
+      "name": "Monologue",
+      "text": "Mejiro Ryan's problem seems deeply\nlinked to McQueen. Perhaps this\ncould be\na solution."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "That's... well, it's not that I don't want to, but..."
+      "text": "Huh? You think I should enter the same\nrace as McQueen?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Come to think of it... when was the last time\nI had a proper race with McQueen...?"
+      "text": "Well... It's not that I'm opposed..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But why are you bringing this up to me now...?",
-      "choice_data_list": [
-        "Because there might be something you can realize."
-      ]
+      "text": "How long has it been since she and I ran\ntogether anyway?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Something I can... realize..."
+      "text": "And why'd you decide to tell me this now?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...All right. I'll think about it."
-    },
-    {
-      "name": "Narrator",
-      "text": "A few days later, when I went to check on Mejiro Ryan—"
+      "text": "Really?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Phew... that's a wrap, then.\n...Mmh, no, just one more set—"
+      "text": "...All right. No promises, but I'll give it\nsome thought."
+    },
+    {
+      "name": "Monologue",
+      "text": "A few days later, I decide to check on\nMejiro Ryan. I don't see her at\nthe track or\nin classes, so I decide to check the gym."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ah, Trainer!",
-      "choice_data_list": [
-        "Good work. You're really giving it your all.",
-        "Good work. You're really giving it your all."
-      ]
+      "text": "Phew... All done... Nah, let's do <i>one</i> more\nset."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yeah... well, I guess so."
+      "text": "Ah, it's you again!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Um... I submitted my entry yesterday.\nI'm entering the 3200m turf event in the tournament, just like McQueen."
+      "text": "Uh... I guess so, yeah."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Though honestly... I don't even really know\nwhy I ended up deciding to do it."
+      "text": "Hey... I, uh... I did it. I signed up for the\nsame race as McQueen. The\n3,200 meter\nturf race."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Wanting to train even harder than usual might just be\nbecause I can't sit still, but..."
+      "text": "I'll be honest, though... I don't really get\nwhy I decided to do it."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Either way... I'm running.\nPlease come watch if you'd like."
+      "text": "I'm training more than usual, but I think I'm\njust feeling a little antsy.\nNot much more\nto it."
     },
     {
-      "name": "Narrator",
-      "text": "And so, Mejiro Ryan threw herself into\neven more intense training than ever before..."
+      "name": "Mejiro Ryan",
+      "text": "But... I'm still determined to do it. Feel\nfree to come check out the\nrace."
+    },
+    {
+      "name": "Monologue",
+      "text": "With that, Mejiro Ryan returns to her\nworkout, pumping out rep after\nrep."
     }
-  ],
-  "no_wrap": true
+  ]
 }

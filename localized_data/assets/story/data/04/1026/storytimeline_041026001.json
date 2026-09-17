@@ -1,227 +1,201 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "It's been a few days since I've become \na trainer at Tracen Academy."
-        },
-        {
-            "name": "???",
-            "text": "An error occurred. No applicable buildings \nfound at the target coordinates."
-        },
-        {
-            "text": "I spot a lone horse girl standing motionless \nas I walk through the downtown area."
-        },
-        {
-            "name": "???",
-            "text": "My device's GPS function also displays an error. \nReturning error code 404.",
-            "choice_data_list": [
-                "Is everything okay?",
-                "Is everything okay?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "That badge identifies you as a trainer from Tracen Academy. \nNice to meet you. My name is Mihono Bourbon."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I am currently returning error code 404. \nThe newly opened training supplies store could not be found."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I was told to continue along this street for about \n100 meters, so I did. But I cannot find the store here."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Furthermore, my device is now giving me an error \nmaking it impossible to use the navigation software."
-        },
-        {
-            "text": "I'm not familiar with the store, but I should be able \nto look it up on my phone for her.",
-            "choice_data_list": [
-                "I'll see if I can find it."
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Much obliged."
-        },
-        {
-            "text": "It didn't take long before I found it. \nIt says it's about 42 meters from here. \nIn fact, looking closely in the distance, I think I see it.",
-            "choice_data_list": [
-                "<size=40>It's just a little further along the street.</size>",
-                "<size=40>It's just a little further along the street.</size>"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Excuse me but... How far is 'a little?'",
-            "choice_data_list": [
-                "Um... What do you mean?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I need you to tell me the exact distance of 'a little'.",
-            "choice_data_list": [
-                "It's about forty-ish meters?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Forty...ish?",
-            "choice_data_list": [
-                "Um... it's 42 meters ahead."
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Input parsed. Thank you very much. 42 meters ahead. \nConfirming the discrepancy in the distance."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "This was an unexpected lapse in my own research. \nI have logged the error and will work to prevent this issue \nfrom occurring again in the future."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I once again offer you my thanks for your help."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Commencing operation: Moving 42 meters ahead.",
-            "choice_data_list": [
-                "(She's a strange one...)"
-            ]
-        },
-        {
-            "text": "I kept her in sight just in case, and she did indeed reach \nthe store. She stopped right in front of it and entered the door."
-        },
-        {
-            "text": "It is the day after I met that peculiar horse girl. \nI went to see a mock race, looking for horse girls \nwanting to be scouted."
-        },
-        {
-            "name": "Rookie Trainer",
-            "text": "Mihono Bourbon is participating in this race. Didn't she have \ngreat results even before she entered the academy?"
-        },
-        {
-            "name": "Experienced Trainer",
-            "text": "She's a bit like a cyborg though. I've seen her on the grounds \nin person, but her personality's a bit strange..."
-        },
-        {
-            "text": "The stands are chock-full of other trainers looking to scout. \nWe're all looking to snag horse girls who show potential."
-        },
-        {
-            "text": "*clang*"
-        },
-        {
-            "text": "With that sound, the gates open. \nThe horse girls, all wearing jerseys, fly out at once."
-        },
-        {
-            "name": "Rookie Trainer",
-            "text": "The leader's going strong!"
-        },
-        {
-            "text": "One horse girl managed to break away from the pack \nright away. It was Mihono Bourbon. \nShe leads with quite the distance."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff*"
-        },
-        {
-            "name": "Experienced Trainer",
-            "text": "The rumors were right, her speed is truly fascinating. \nThe short distance racers are about to face \nan incredibly talented newcomer!"
-        },
-        {
-            "text": "She impresses everyone as she speeds down the \nhome stretch with a huge lead over the rest."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff* Hngh!"
-        },
-        {
-            "text": "She easily takes first place by a landslide.",
-            "choice_data_list": [
-                "(Damn, she's talented!)",
-                "(Damn, she's talented!)"
-            ]
-        },
-        {
-            "text": "When I met her downtown the other day, I never \nimagined she'd be so fast. Her ability stole my heart."
-        },
-        {
-            "name": "Rookie Trainer",
-            "text": "She looks very promising! \nI've got to get her before anyone else!",
-            "choice_data_list": [
-                "(Right, I've gotta hurry too!)",
-                "(Right, I've gotta hurry too!)"
-            ]
-        },
-        {
-            "name": "Experienced Trainer",
-            "text": "It's no use. It seems she already has a trainer.",
-            "choice_data_list": [
-                "What?!"
-            ]
-        },
-        {
-            "text": "And indeed, when I finally reached her, \nshe was talking to another trainer.",
-            "choice_data_list": [
-                "(A-Am I too late...?)"
-            ]
-        },
-        {
-            "name": "Rookie Trainer",
-            "text": "He's a veteran trainer apparently. A real hotshot. \n<i>Maaan</i>, I can't believe I've been outdone like that."
-        },
-        {
-            "name": "Experienced Trainer",
-            "text": "He said he sees great promise in pursuing \nshort distance races with her."
-        },
-        {
-            "text": "If she's already found a trainer, then that's it for me. \nI guess I'll just secretly cheer her on from the sidelines \nfrom now on."
-        },
-        {
-            "text": "It's evening and time to head home. I take a stroll \naround the school grounds when suddenly..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff*",
-            "choice_data_list": [
-                "(It's her!)"
-            ]
-        },
-        {
-            "text": "I spot Mihono Bourbon, who I suspect \nis doing some training by herself."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff* 1800 meters reached. 1200 meters remaining. \nTime elapsed: 2:04. Severely behind target pace."
-        },
-        {
-            "text": "Is she timing herself? And, wait... \nDid I hear that right?",
-            "choice_data_list": [
-                "(...3000 meters?!)"
-            ]
-        },
-        {
-            "text": "Normally you shouldn't let a horse girl \nrun this distance right after her debut. \nHer body isn't ready for it yet."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Hng!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "*pant pant*"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Ugh...",
-            "choice_data_list": [
-                "Wha—!"
-            ]
-        },
-        {
-            "text": "She just fell over! \nI hurry towards her."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "It's been a few days since I started my life\nas a trainer at Tracen\nAcademy."
+    },
+    {
+      "name": "???",
+      "text": "Error. Specified coordinates do not\ncorrespond with target location."
+    },
+    {
+      "name": "Monologue",
+      "text": "While walking around the shopping\ndistrict, I notice an Umamusume\nstanding\nin the middle of the path."
+    },
+    {
+      "name": "???",
+      "text": "GPS is currently unresponsive. Detecting a\nshift in emotional\nstate—\"despair\" has\nbeen identified."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Tracen Academy trainer badge\nconfirmed. Hello. My name is\nMihono\nBourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I am currently experiencing \"despair\"\nbecause I am unable to locate\nthe new\ntraining equipment store."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Upon inquiry, a passerby instructed me to\nwalk straight for\napproximately\none-hundred meters. However, the\nprovided data\nappears incorrect."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "In addition, my mobile device is\nmalfunctioning. I am unable to access\nthe\nGPS."
+    },
+    {
+      "name": "Monologue",
+      "text": "Sensing her obvious confusion, I pull out\nmy phone and begin to\nsearch on the\ninternet."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thank you. "
+    },
+    {
+      "name": "Monologue",
+      "text": "I quickly find the store—just a mere 42\nmeters away. Squinting ahead,\nI can make\nout the sign from here."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Pardon. Please define \"a bit more.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "If possible, please quantify \"a bit more\" in\nnumerical terms."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...\"Around?\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thank you for confirming that the store is\n42 meters ahead. It seems\nthat my original\ninformant had miscalculated the distance."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Regardless, this could have been avoided\nhad I done sufficient\nresearch. I will log\nthis event in my database to prevent\nfuture\noccurrences."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Once again, thank you for your assistance. "
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Destination—42 meters ahead.\nCommencing navigation."
+    },
+    {
+      "name": "Monologue",
+      "text": "I keep watch as she heads down the street,\nthen disappears into the\ncorrect shop."
+    },
+    {
+      "name": "Monologue",
+      "text": "The day after that odd encounter, I stop\nby a mock race, hoping to\nscout a few\nstudents."
+    },
+    {
+      "name": "New Trainer",
+      "text": "Hey, isn't Mihono Bourbon here today? I\nheard she did well in her\nraces before\nadmission to Tracen."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Oh, that cyborg of a student? I think I saw\nher around, though I\nwouldn't get my\nhopes up if I were you."
+    },
+    {
+      "name": "Monologue",
+      "text": "The voices of excited trainers drown each\nother out as everyone\ngathers information.\nAn electric buzz fills the air as the clock\ncounts\ndown."
+    },
+    {
+      "name": "Monologue",
+      "text": "<I>Bang!</I>"
+    },
+    {
+      "name": "Monologue",
+      "text": "The sound of the opening gates echoes\nthrough the stadium as\nparticipants charge\ndown the track."
+    },
+    {
+      "name": "New Trainer",
+      "text": "Do you see the one in front? Look at her\ngo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Leading the pack is Mihono Bourbon,\ndetermined to put distance\nbetween her\nand the rest."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<I>Pant, pant!</I>"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "The rumors were right—her speed is really\nsomething else. This\nnewcomer's gonna\nchange the game for sprinters!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Mihono Bourbon charges ahead of her\nopponents with overwhelming\nforce. Her\nlone figure quickly approaches the goal."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<I>Huff, huff!</I>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Without losing her lead even once, she\ncalmly crosses the finish line\nin a\nconvincing show of power."
+    },
+    {
+      "name": "Monologue",
+      "text": "A sense of complete awe washes over\nme—it's almost hard to believe\nthe lost\nUmamusume I met days ago is the same\nperson!"
+    },
+    {
+      "name": "New Trainer",
+      "text": "That potential... I gotta scout her before\nthe others do!"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "You're too late. She's already got a trainer."
+    },
+    {
+      "name": "Monologue",
+      "text": "And sure enough, I find Mihono Bourbon\ntalking to someone."
+    },
+    {
+      "name": "New Trainer",
+      "text": "Looks like she's with a veteran too. Agh,\nbetter luck next time I guess."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "I'm surprised you didn't know. That\ntrainer's been gushing about how\nhe'll\nmake Bourbon the perfect sprinter."
+    },
+    {
+      "name": "Monologue",
+      "text": "Reluctantly accepting defeat, I decide to\nquietly support Mihono\nBourbon from the\nsidelines."
+    },
+    {
+      "name": "Monologue",
+      "text": "With the sun long past set, I start making\nmy way back home—only to\nnotice\nsomeone on the track."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<I>Pant, pant.</I>"
+    },
+    {
+      "name": "Monologue",
+      "text": "It looks like she's doing some evening\ntraining by herself."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hah... 1,800 meters completed. 1,200\nmeters remaining. Time—2:04.\nSpeed\ninsufficient to meet target!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Curious, I listen to Mihono Bourbon\ncalculating her time and\ndistance—until\nsomething hits me."
+    },
+    {
+      "name": "Monologue",
+      "text": "My mind reels at the number. It's\npractically unheard of for pre-debut\nracers\nto attempt such long distances. The risk of\ninjury is too great!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ahh... argh..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Panicking, I rush to Mihono Bourbon's side\nto check on her."
+    }
+  ]
 }
