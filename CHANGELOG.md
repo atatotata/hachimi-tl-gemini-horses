@@ -1,3 +1,6 @@
+## 2026-09-17 -- Fix Error 102 (stale atlas manifests)
+Removed 3 stale atlas diff PNGs (common, factorresearch, racecommon) whose dimensions no longer matched current JP meta after game update. Updated atlas JSON bundle hashes. Fixes Communication Error: Error 102 on full flavor.
+
 ## 2026-09-17 -- 100% master.mdb coverage
 Filled all 1,414 previously-untranslated text_data rows (1,281 single-mode story titles in cat 181, 91 character lore in cat 92, 32 UI in cat 191, 8 scenario in cat 290, 2 counters in cat 355). Zero untranslated master rows remain.
 
