@@ -2,283 +2,192 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On the way back from our outing, when I \nasked Mejiro Palmer if there was anywhere \nelse she wanted to go—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After a fun day out, I ask Mejiro Palmer\nif there's\nanywhere else she'd like to go\nbefore we head\nback."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ah, why don't we do the opposite today and \ngo wherever you want to go, Trainer?",
-      "choice_data_list": []
+      "text": "How about we switch things up today\nand go\nsomewhere <i>you</i> wanna go,\nTrainer?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "You look as busy as ever, so let's take a \nlittle breather! Okay?",
-      "choice_data_list": []
+      "text": "You're always busy, so I think a little\nbreak would\ndo you some good!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, we decided to take a stroll around \ntown for a change of pace, but—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Huh!? A golf shop opened up! Whoaaa, that \ndriver looks like it'd hit so far~!",
-      "choice_data_list": [
-        "Want to take a peek?"
-      ]
+      "name": "Monologue",
+      "text": "That's how we end up strolling around\ntown, but\nwe don't get far before..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ah, nah, maybe next time. I'm in the \nmiddle of a walk right now anyway!",
-      "choice_data_list": [
-        "(Huh...?)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Normally she would be thrilled to go \nwatch, but... something seemed off. And \nthat sense of unease continued after that—",
-      "choice_data_list": []
+      "text": "<i>Gasp!</i> They opened up a new golf shop\nhere!\nWooow, that driver looks like it\ncan really let 'em\nfly!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "A movie I want to see? They all look \ninteresting to me! So let's watch whatever \nyou want, Trainer!",
-      "choice_data_list": [
-        "Then how about this \"Featured Pick of the \nMonth\"?"
-      ]
+      "text": "Nah, it's fine. I can check it out another\ntime.\nWe're in the middle of a walk right\nnow, after all!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Usually, she'd jump on the offer and fly\nright into\nthe shop, but something feels\noff about her\ntoday. Her weird behavior\ncontinues too."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Umm, \"Esoteric Art Labyrinth\", huh! \nSomething like this might feel fresh and \nfun!",
-      "choice_data_list": []
+      "text": "Which movie do I wanna watch?\nHonestly, the\nwhole line-up looks super\ninteresting, so\nwhichever one you pick!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "O-Ohh... ohh...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "...True to its reputation as an esoteric \nfilm, I honestly understood almost none of \nit. It seems it was meant for \nconnoisseurs.",
-      "choice_data_list": []
+      "text": "Let's see... Oh, that'll be <i>Brain-Bending\nArt\nLabyrinths</i> ! Always nice to try\nsomething new!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Whew, it's over~! We sure watched it! How \nshould I put it... it was so stylish!",
-      "choice_data_list": [
-        "It certainly was stylish.",
-        "It certainly was stylish."
-      ]
+      "text": "W-whoaaa... U-ummm..."
+    },
+    {
+      "name": "Monologue",
+      "text": "They weren't kidding about the\n\"brain-bending\"\npart. Most of the movie\nwent over my head. It was\nprobably\nmeant for art buffs."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Right, right! The visuals! Watching it on \na movie theater screen really makes it \nimpactful, doesn't it?!",
-      "choice_data_list": []
+      "text": "Whew! What a flick! It was just so... So\nfancy!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "My recent worries? ...Hmm, let me see...",
-      "choice_data_list": []
+      "text": "For sure! The visuals sure packed a\npunch! Stuff\nalways leaves so much\nbigger an impact when it's\nblown up on\nthe silver screen!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Maybe that my golf iron tends to slice? \nAside from that, I don't really have any \nworries~",
-      "choice_data_list": []
+      "text": "Is something bothering me? Hm... Now\nthat you\nmention it..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "What about you, Trainer? How've you been \ndoing lately? If there's anything on your \nmind, I'm here to listen!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Whenever I tried to check in on her during \nbreaks, she would brush me off. And then—",
-      "choice_data_list": []
+      "text": "I've been getting a lot of sliced shots\nduring golf\nlately, but that's about it."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ah, we're at the dorms already. That went \nby so fast.",
-      "choice_data_list": []
+      "text": "How about you? Anything weighing you\ndown\nrecently? I'd be happy to lend you\nan ear,\nwhatever it is!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Every time I try to ask her what's wrong,\nshe\ndodges the question and turns it\nback to me.\nEventually, we wrap up our\nday out."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Thanks for spending the whole day with me! \nDid you have fun, Trainer?",
-      "choice_data_list": [
-        "It was fun, but..."
-      ]
+      "text": "Welp! Here we are at my dorm. Today\nflew by,\nhuh?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Hm? Ah, got something on your mind? Sure, \nsure, I'm all ears!",
-      "choice_data_list": []
+      "text": "Thanks for the fun day! Did you enjoy it\ntoo?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Feel free to ask Palmer anything!",
-      "choice_data_list": [
-        "...Did you have fun, Palmer?",
-        "...Did you have fun, Palmer?"
-      ]
+      "text": "Hm? Looks like something's troubling\nyou big\ntime. Well, come on, then! I'm\nhere to listen!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Me...?",
-      "choice_data_list": []
+      "text": "I'm all ears to whatever you might be\nworrying\nabout!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh, well of course! If you're having fun, \nTrainer, then that makes me happy too!",
-      "choice_data_list": [
-        "I feel the exact same way.",
-        "I feel the exact same way."
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh? What's that mean?",
-      "choice_data_list": [
-        "Did you really have a good time?",
-        "Did you really enjoy yourself?"
-      ]
+      "text": "Of course, I did! Nothing makes me\nhappier than\nseeing you enjoying\nyourself!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Yeah, I had fun... or I guess, more like \nrelieved? Because I didn't cause any \ntrouble for you today!",
-      "choice_data_list": [
-        "A bother?"
-      ]
+      "text": "Um... I don't get what you're trying to\nsay."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ah, no, it's just, I feel like I've been \ncausing trouble for Trainer lately! Like, \njust the other day—",
-      "choice_data_list": []
+      "text": "Yep, sure did! Or I guess, I feel more\nrelieved\nthan anything 'cause I didn't\ncause you any\ntrouble!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Even though you had work scheduled, you \nstill helped me out big time selling milk, \nright?",
-      "choice_data_list": []
+      "text": "No, but like, I do! And I did! Remember\nthe other\nday?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Not just back then, Trainer, you've always \nlistened to my requests—",
-      "choice_data_list": []
+      "text": "You were planning to take care of some\nwork, but\nyou dropped everything just\nto help me sell all\nthat milk."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "\"You really treasure how I feel. And that \nmakes me so incredibly happy! But—\"",
-      "choice_data_list": []
+      "text": "That wasn't the only time, either. You're\nalways\nputting my wants and needs\nahead of yourself."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "I thought dragging you into it might not \nbe the right thing to do.",
-      "choice_data_list": []
+      "text": "I'm happy and grateful that you've\nalways got my\nback, for real! But like..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "\"...Like I said! I was just thinking that \nI need to be more careful from now on!\"",
-      "choice_data_list": [
-        "Palmer..."
-      ]
+      "text": "I don't want you to keep prioritizing me\nif it\nmeans neglecting your own wants\nand needs."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Man, was it really that obvious I was \nwalking on eggshells?",
-      "choice_data_list": []
+      "text": "So... yeah! That's why I decided to be\nmore\ncareful about that from now on!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "\"And here I thought I was acting totally \nnatural~ Guess Trainer really can see \nright through me, huh~\"",
-      "choice_data_list": [
-        "There's no need to walk on eggshells \naround me.",
-        "There's no need to walk on eggshells \naround me."
-      ]
+      "text": "I guess you already saw right through\nme, though,\nhuh?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh?",
-      "choice_data_list": [
-        "Supporting you is what gives my life \nmeaning, after all.",
-        "Supporting you is what I live for.",
-        "It's fine for us to keep our relationship \nthe way it is.",
-        "A relationship that's true to who we are \nis just fine."
-      ]
+      "text": "I was really trying to act natural and\nstuff, but\nyour sixth sense is, like, no\njoke!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh?",
-      "choice_data_list": [
-        "Supporting you is what gives my life \nmeaning, after all.",
-        "Supporting you is what I live for.",
-        "It's fine for us to keep our relationship \nthe way it is.",
-        "A relationship that's true to who we are \nis just fine."
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "! Trainer...",
-      "choice_data_list": []
+      "text": "Huh?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "I see... That's true. After all, back then \ntoo...",
-      "choice_data_list": []
+      "text": "Trainer..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "...? Hold on a sec. What did you just say, \nTrainer?",
-      "choice_data_list": [
-        "\"Because supporting you is my reason for \nliving\"?",
-        "\"Supporting you is what I live for\"?"
-      ]
+      "text": "Oh... Yeah, I gotcha. I mean, even\nwhen..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "No, no, your whole reason for living...? \nTrainer, do you realize how crazy that \nsounds...?",
-      "choice_data_list": [
-        "Huh? What bad thing?"
-      ]
+      "text": "Wait, hold the phone. What did you say\njust now?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ahaha. You're surprisingly oblivious about \nthat sort of thing, aren't you~? Well, \nthat's one of your good points too, \nthough.",
-      "choice_data_list": []
+      "text": "Yeah, that! Do you realize what you just\nsaid?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Well, I'm heading back now! See you \ntomorrow~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"I hope my feelings got through to her...\" \nWith that thought in mind, I watched \nMejiro Palmer's departing back.",
-      "choice_data_list": []
+      "text": "Ahaha! Man, you're so oblivious\nsometimes! Not\nthat that's a bad thing."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "! Trainer...",
-      "choice_data_list": []
+      "text": "Anyway, I'm gonna head back now! See\nyou\ntomorrow!"
+    },
+    {
+      "name": "Monologue",
+      "text": "As I watch Mejiro Palmer jog back to her\ndorm, I\ncan only hope she understood\nwhat I was trying\nto say."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Fufu, we were acting kind of weird today, \nweren't we? Like we were all awkward and \nstiff, or something.",
-      "choice_data_list": [
-        "I think a natural relationship is the \nbest."
-      ]
+      "text": "Trainer..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Totally!",
-      "choice_data_list": []
+      "text": "Hehe! Yeah, we were both acting mad\nsus today,\nweren't we?"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Drop it, drop it! We gotta be true to \nourselves. Keep the vibes high and stay \nhyped, ya know?!",
-      "choice_data_list": []
+      "text": "Yeah, I'm there with you!"
     },
     {
-      "name": "Narrator",
-      "text": "Relieved, I watched Mejiro Palmer, who had \nfinally returned to her usual self.",
-      "choice_data_list": []
+      "name": "Mejiro Palmer",
+      "text": "No more walking on eggshells! You be\nyou and I'll\nbe me. Now lemme hear you\nsay, \"Waheeey!\""
+    },
+    {
+      "name": "Monologue",
+      "text": "Finally, the Mejiro Palmer I know is\nback. What a\nrelief."
     }
   ]
 }

@@ -2,190 +2,160 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "One day, while out shopping—"
+      "name": "Monologue",
+      "text": "One day, after stepping out to go\nshopping..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Jeez, what a terrible selection that shop \nhad! Not a single thread matched the right \ncolor...!",
-      "choice_data_list": [
-        "Are you out shopping?"
-      ]
+      "text": "<i>Geez,</i> that shop's selection was super\nlousy. And\nnone of the colors of thread\nthey had were quite\nright!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ah, you're from the Academy...! Perfect \ntiming! Hey, do you know any other craft \nshops? Take me there!"
+      "text": "Oh! I know you... from the academy!\nPerfect\ntiming. Do you know any other\ncraft stores\naround here? Take me there\nat once!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I'm looking for thread to fix a fray in my \nhat... but nowhere has anything good!",
-      "choice_data_list": [
-        "Ah, that precious hat of yours...?"
-      ]
+      "text": "I'm looking for some thread to fix a\nfrayed spot\non my hat, but I can't find\n<i>anything</i> that'll do the\ntrick!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Exactly! The magical hat I got from \nGrandma! Come on, hurry, hurry!"
+      "text": "Yeah! The magical hat that Grandma\ngave me!\nC'mon, let's go already!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Nngh, just being black isn't good enough! \nIt has to be a deep black imbued with \nmagical power! Next!"
+      "text": "Hmm. It's not like just any black will do,\nyou\nknow! It's gotta be a deeeep black\nbrimming with\nmagical power! Next!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "No good! Grandma told me this brand wears \nout way too fast! On to the next one! \nNext!"
+      "text": "Nope! Granny told me this brand's\nthread gets\ndamaged wayyy too easily!\nMoving on! Next!"
     },
     {
-      "text": "—And so, after checking five more shops, \nwe finally..."
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "—This is the one! The color, the \nthickness, the material, everything is \nperfect! Phew~, I finally found it...!"
+      "name": "Monologue",
+      "text": "This continues until, at long last, after\nvisiting\nfive different stores..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Well then, time to mend it right away! I \nhave to restore the hat's magical power as \nsoon as possible!"
+      "text": "This is it! This one! The color, thickness,\nand\nmaterial are all perfect! <i>Phew!</i> We\nfinally found it!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hey, is there a park around here? I'll do \nit there, take me!"
+      "text": "Okay, let's get stitching right away. I've\ngotta\nrestore my hat's magical power as\nsoon as\npossible!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "All right...! Stitch by stitch, infusing \nmy magical power..."
-    },
-    {
-      "text": "(Stitch, stitch... Jab!)"
+      "text": "Hey, is there a park or something around\nhere?\nLet's go do it there! C'mon, take\nme!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "—Ouuuch?!",
-      "choice_data_list": [
-        "Are you okay?!"
-      ]
+      "text": "Okay, here we go! Stitch by stitch, and\npacking\nplenty of magic into each one..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Poke, poke... Prick!</i>"
     },
     {
       "name": "Sweep Tosho",
-      "text": "H-Hmph! This is nothing...! It doesn't \neven hurt anymore! Back to work, back to \nwork...!"
+      "text": "Ow!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Gaaah~~~! It's crooked again...! I've \nalready resewn this ten times...!",
-      "choice_data_list": [
-        "Why not ask someone good at sewing...?"
-      ]
+      "text": "Hmph! This is nothing! It doesn't even\nhurt\nanymore! I'm gonna keep going!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Only a witch or a magical girl can repair \nthis! Grandma told me that a long time \nago—"
+      "text": "Ughhh... It's still a total mess! And I've\nalready\nresown it ten times!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "This hat can <i>only</i> be fixed by a witch or\na magical\ngirl! That's what Grandma told\nme long ago."
     },
     {
       "name": "Young Sweep",
-      "text": "—Daddy! The ornament on my hat fell off! \nFix it, pleeease~~!!"
+      "text": "Daddy! Daddy! My hat's accessory came\noff! Fix it\npleeease!"
     },
     {
-      "name": "Sweep's Grandmother",
-      "text": "Now, now, Sweepy, go easy on him. Daddy \nhas to get to work. Besides... Those \nwithout magical power cannot fix this hat."
+      "name": "Sweep's Granny",
+      "text": "Hey, hold on now, Sweepy. Your\ndaddy's about\nto head off to work...\nBesides, it'll take someone\nwho can\nwield magic to fix your hat up."
     },
     {
       "name": "Young Sweep",
-      "text": "Ehh?! Really...?! Then, then... what \nshould I do...?"
+      "text": "What?! Really?! So, so... what should I\ndo?"
     },
     {
-      "name": "Sweep's Grandmother",
-      "text": "Why, you'll fix it yourself of course! \nPouring your heart into it, stitch by \nstitch. This is also part of your training \nto become a witch—"
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "—So I have to do it all by myself. No \nmatter how hard it is."
-    },
-    {
-      "text": "...Her grandmother likely framed it that \nway so she would grow up able to solve \nproblems with her own strength...",
-      "choice_data_list": [
-        "What a wonderful grandmother.",
-        "Your grandma sounds lovely."
-      ]
+      "name": "Sweep's Granny",
+      "text": "You should fix it yourself, of course! Put\nyour\nheart into it, one stitch at a time.\nThat's part of\nyour witch training, too,\nyou know?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hmph, of course she is! ...Anyway! I'll \nredo it as many times as it takes until it \nlooks pretty...!"
+      "text": "...So, that's why I'm doing it myself. No\nmatter\nhow tough it is."
     },
     {
-      "text": "She prepared to return to her work. After \nhearing that story, I couldn't just step \nin and do it for her. Still, I wanted to \nhelp somehow...",
-      "choice_data_list": [
-        "Why not watch a video to learn sewing \ntechniques?",
-        "Ah~ if only we could fix it fast with \nmagic!"
-      ]
+      "name": "Monologue",
+      "text": "I'm guessing the reason Sweep Tosho's\n\ngrandmother encouraged her in that\nmanner was\nso she would become a girl\nwho can resolve her\nown problems."
     },
     {
       "name": "Sweep Tosho",
-      "text": "A video? Like on UmaTube? ...Hmph, is that \nactually gonna help?",
-      "choice_data_list": [
-        "How about this one?"
-      ]
+      "text": "Heh, of course she is! ...Anyway! I'm just\ngonna\nkeep on sewing over and over\nuntil my hat's nice\nand pretty again!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And with that, she gets back to work.\nAfter\nhearing her story, I feel like\nhelping her is out of\nthe question. I still\nwant to do something useful,\nthough..."
     },
     {
       "name": "Sweep Tosho",
-      "text": "Let me see? Huh... that's surprisingly \neasy to follow. So I just need to do it \nlike this... Hmm, hmm...!"
+      "text": "A video? Like on UmaTube? ...Hm. You\nthink\nthat'd help?"
     },
     {
       "name": "Sweep Tosho",
-      "text": "—I-It's finished!! A flawless finish!",
-      "choice_data_list": [
-        "You did it!",
-        "Awesome job!"
-      ]
+      "text": "Let's see, here. Hmm... This is pretty\nsimple to\nfollow. So I just have to do it\nlike this? I see!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Fufun~♪ In the hands of magical girl \nSweepy, something like this is a piece of \ncake!"
+      "text": "I, I did it! It's totally perfect!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Well, you were actually pretty helpful, \ntoo, so as a reward, I'll cast a 'Good \nFortune Spell' on you!"
+      "text": "Hehe! ♪ This stuff's a piece of cake for\nMagical\nGirl Sweepy!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Here goes—!! 'Phalaenopsis Orchid☆'!"
-    },
-    {
-      "text": "Her cheerful voice echoed high beneath the \nclear blue sky. It felt like something \nwonderful was about to happen...!"
+      "text": "But you did help out a little, I guess. As\nthanks,\nI'm gonna cast a good luck spell\non you!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "That's it! There's always that option! You \nactually have good ideas sometimes!"
+      "text": "Here I go! Phalaenopsis Orchid! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her cheerful voice echoes high up into\nthe blue\nsky. I feel like something good\nis going to come\nmy way!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I'll cast a 'Speed Up Spell'! 'Finish in \nthe blink of an eye! Alstroemeria☆'!",
-      "choice_data_list": [
-        "As expected of a magical girl!"
-      ]
+      "text": "Oh yeah! That's another way we could\ndo it! Hey,\nnice idea!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Fufun! Amazing, right? Now then, let's \nwrap this up in no time!",
-      "choice_data_list": [
-        "(Glad to see her motivation went through \nthe roof.)"
-      ]
+      "text": "Okay, I'm going to use a speed-up spell!\nFinish in\nan instant! Alstroemeria! ☆"
     },
     {
       "name": "Sweep Tosho",
-      "text": "—A-And... I'm dooooone~~~~!!"
+      "text": "Hehe! That was super impressive, right?\nOkay, I'm\ngonna get this finished right\naway!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "I am... seriously magical! To think I \nfinished it all within today...!",
-      "choice_data_list": [
-        "That spell earlier was amazing too.",
-        "Your magic really worked wonders."
-      ]
+      "text": "I-I did iiiiit!"
     },
     {
       "name": "Sweep Tosho",
-      "text": "Right, right? The effect was super potent!"
+      "text": "My magical power must be off the\ncharts! I can't\nbelieve I got it done in\none day!"
     },
     {
-      "text": "Whether it was truly the power of magic... \naside. I walked back to the dorms \nalongside a very happy Sweep."
+      "name": "Sweep Tosho",
+      "text": "You know it! And the results were\nfantastic!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Leaving aside the matter of whether\nthere was\nactually any magic at work, I\nhead back to the\ndorm together with a\ndelighted Sweep Tosho."
     }
   ]
 }

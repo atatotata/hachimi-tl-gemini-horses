@@ -2,96 +2,72 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "Inari One got injured during training, so \nI took her to the infirmary.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I escort Inari One to the infirmary after\nshe gets\ninjured during training."
     },
     {
       "name": "Inari One",
-      "text": "Geez, you're making a big deal over a \nminor scrape. Just spit on it and it'll \nheal right up, I tell ya.",
-      "choice_data_list": []
+      "text": "Gimme a break, it's only a li'l scrape! A\nlittle spit\nand grit and I'll be as good as\nnew!"
     },
     {
       "name": "Inari One",
-      "text": "Right, can't be loafing around forever. \nTime to get right back to special \ntraining.",
-      "choice_data_list": [
-        "Let's make sure to rest properly today.",
-        "Let's keep it within reason."
-      ]
+      "text": "I can't be sittin' on my butt all day. Let's\nhurry and\nget back to trainin'!"
     },
     {
       "name": "Inari One",
-      "text": "What're you talkin' about? If I say it's \nfine, then it's fine.",
-      "choice_data_list": [
-        "Because it'll be too late once something \nhappens..."
-      ]
+      "text": "What're you talkin' about? I'm tellin' ya\nI'm fine!"
     },
     {
       "name": "Inari One",
-      "text": "Good grief, you really are a worrywart, \naren't you?",
-      "choice_data_list": []
+      "text": "Geez. Never took ya for such a\nworrywart!"
     },
     {
       "name": "Inari One",
-      "text": "\"...Geez, lookin' at that gloomy face next \nto me is giving me a headache. Fine, I'll \ntake it easy and rest today, just for \nyou.\"",
-      "choice_data_list": []
+      "text": "...Seriously, do you <i>have</i> to sit next to\nme with\nthat gloomy expression? Fine...\nI'll take the day\noff."
     },
     {
-      "name": "",
-      "text": "With those words, Inari One headed back to \nthe dorm looking rather disappointed.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Inari One",
-      "text": "Don't sweat it so much! Come on, let's get \nfired up all over again!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Inari One goes back to her dorm with a\nmiserable\nlook on her face."
     },
     {
       "name": "Inari One",
-      "text": "—Kuh!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I had Inari One do a light run to assess \nthe extent of her injury, but her face \ntwisted in pain.",
-      "choice_data_list": []
+      "text": "I told ya not to worry! Right, time to get\nmy head\nback in the game!"
     },
     {
       "name": "Inari One",
-      "text": "Damn pain's flared back up... Not like I \ncan't bear through it, but...",
-      "choice_data_list": [
-        "Let's call it a day here"
-      ]
+      "text": "Ow!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Although I only tasked her with a light\nrun to\ncheck her condition, Inari One's\nface contorts\nwith pain."
     },
     {
       "name": "Inari One",
-      "text": "...*sigh*, can't be helped. It's probably \nsmarter to just keep quiet...",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Inari One cut her training short and \nheaded back to the dorms with slumped \nshoulders...",
-      "choice_data_list": []
+      "text": "Okay, so the pain's back... but I can still\nwork\nthrough it, I swear!"
     },
     {
       "name": "Inari One",
-      "text": "Heheh! How's that, Boss?! Looks like a \nlight run won't be a problem at all!",
-      "choice_data_list": []
+      "text": "<i>Sigh...</i> Guess you've got a point. Best to\ndo as I'm\ntold and play it smart."
+    },
+    {
+      "name": "Monologue",
+      "text": "After I cut our training session short,\nInari One\nslumps her shoulders and\ntrudges back to the\ndorm."
     },
     {
       "name": "Inari One",
-      "text": "Heheh! How's that, Sis?! Looks like a \nlight run won't be a problem at all!",
-      "choice_data_list": []
+      "text": "Hehe! Howzat, Boss? No problem if I just\nkeep it\nlight, eh?"
     },
     {
       "name": "Inari One",
-      "text": "I'm a true-blue child of Edo! A little \nscratch like this ain't gonna slow me \ndown!",
-      "choice_data_list": []
+      "text": "Hehe! Howzat, Boss? No problem if I just\nkeep it\nlight, eh?"
     },
     {
-      "name": "",
-      "text": "Inari One trained sensibly within a safe \nrange while being mindful of her injury.",
-      "choice_data_list": []
+      "name": "Inari One",
+      "text": "I'm an Edo girl, born and bred! No way a\nli'l injury\nlike this'll stop me!"
+    },
+    {
+      "name": "Monologue",
+      "text": "While monitoring her injury, Inari One\ncompletes\na light training session."
     }
   ]
 }

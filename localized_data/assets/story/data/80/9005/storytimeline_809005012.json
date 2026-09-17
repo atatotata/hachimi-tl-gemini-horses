@@ -2,115 +2,88 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "When I came to visit the injured <chrname>, there \nwas a figure in the infirmary.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I head to the infirmary to pay\n\n<chrname> a visit to since\nshe\nrecently got injured... only to see a\nfamiliar figure\nalready standing by her\nbedside."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Here goes, Sasami! I'll fix up that injury \nwith a good poke in no time!",
-      "choice_data_list": [
-        "What are you planning to do?!"
-      ]
+      "text": "Here I go! A little poke, and your injury\nwill be as\ngood as healed!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "A treatment, of course! A precious \nUmamusume is in a pinch!",
-      "choice_data_list": []
+      "text": "Treating a patient, duh! This poor\nUmamusume\nneeds medical attention!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "If an acupuncturist doesn't stick needles \ninto people, who will?!",
-      "choice_data_list": []
+      "text": "And if not an acupuncturist to give her a\ngood\npoke, then who?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "I've even studied secret pressure points \nthat work wonders on injuries! Please, \nplease, let me try them out on you~!",
-      "choice_data_list": []
+      "text": "I've even looked up chakra points that\nhelp treat\ninjuries! You have to give me\na chance! Please!"
     },
     {
-      "name": "Narrator",
-      "text": "I want to do everything I can for <chrname>'s sake. \n...Still, leaving it all up to her makes \nme uneasy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "You seem to be misunderstanding something. \nIt's not that I... want to perform the \nprocedure.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Even though I want to do everything I\ncan for\n<chrname>'s benefit,\nit doesn't feel\nsafe leaving her in the\nhands of Sasami\nAnshinzawa."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "As the one and only bamboo needle \nacupuncturist... I must protect the future \nof Umamusume!",
-      "choice_data_list": [
-        "To care that deeply about Umamusume...!"
-      ]
+      "text": "I think you might be misunderstanding\nmy\nintentions. I'm not treating\nUmamusume just for\nacupuncture's sake."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "If that future comes about with a clean \nstab, it'd be totally awesome...",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "It's the other way around! I'm doing\nacupuncture\nfor all Umamusume kind's\nsake!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Leave the rest to me. No entry during the \nprocedure...!",
-      "choice_data_list": []
+      "text": "And I'd be elated if their futures\ninvolved more\nneedles..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "—Since I'm here, I'm totally gonna try all \nsorts of stuff~☆",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(Bang bang! Clang clang! Vroooom!) \n(VRRRROOOOM!!)",
-      "choice_data_list": []
+      "text": "Leave the rest to me. Sorry, I can't have\npeople\nmilling about while I'm providing\ntreatment, so\noff you go!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Incredible, absolutely incredible! You're \nin better shape than before your injury... \nhow?!",
-      "choice_data_list": []
+      "text": "And while I'm at it, I'll take this\nopportunity to try\na few things! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Th-thump! Kablam! Zrrrt! Whirrr!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Got a little panicked when I hit the wrong \npressure point, though! Wow, I'm such a \ngenius~☆",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Just as she predicted, <chrname> powered up and \nmade a full, triumphant comeback!",
-      "choice_data_list": []
+      "text": "I-it's a miracle! She's in even better\nshape than\nbefore she got injured... How\ncan this be?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "It went without a hitch! I guess \ninformation from Umatter actually can be \npretty useful...",
-      "choice_data_list": []
+      "text": "It sure was nerve-wracking when I poked\nthe\nwrong chakra, but wow! I'm a\ngenius! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "Just as Sasami proclaimed,\n\n<chrname> has made a\ncomplete\nrecovery and is now stronger\nthan ever!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Oh, and while I was at it, I gave your \npressure points a good jab to boost your \nphysical stats☆",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Just as she predicted, <chrname> grew stronger and \nreturned from her injury!",
-      "choice_data_list": []
+      "text": "It was a great success! I guess info on\nUmatter can\nbe pretty trustworthy after\nall..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Hrmm, something just doesn't feel right~. \nLike I'm not getting proper feedback from \nit...",
-      "choice_data_list": []
+      "text": "Oh, by the way, I took the liberty of\nactivating a\nfew extra chakra that'll\nboost her strength! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "Just as Sasami proclaimed,\n\n<chrname> has recovered\nfrom her\ninjury and grown stronger!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Yeah, that happens sometimes! I'll leave \nthe rest to you~☆",
-      "choice_data_list": []
+      "text": "Hmm... Something doesn't feel quite\nright... It's\nalmost like the treatment's\nnot working or\nsomething..."
     },
     {
-      "name": "Narrator",
-      "text": "The state of the injury hadn't changed... \nStill, let's just be thankful that <chrname> is \nsafe.",
-      "choice_data_list": []
+      "name": "Sasami Anshinzawa",
+      "text": "Well, everyone has off days! Anyways,\nI'll be\ngoing! The rest is up to you! ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "She might not have healed from her\ninjuries, but\nI'm just glad that\n<chrname> is safe\nand sound."
     }
   ]
 }

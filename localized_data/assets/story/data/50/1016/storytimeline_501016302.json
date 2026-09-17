@@ -2,301 +2,228 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Stopping by the shopping district after \nafternoon training to buy equipment...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Brian and I head to the shopping\ndistrict to\nbuy some equipment one day\nafter training."
     },
     {
       "name": "Narita Brian",
-      "text": "...Mm. What is that?",
-      "choice_data_list": []
+      "text": "...What's going on over there?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Narita Brian",
-      "text": "A lottery, huh. Come to think of it, I \nreceived a ticket earlier.",
-      "choice_data_list": [
-        "Wanna draw one?"
-      ]
+      "text": "So, it's a raffle. Come to think of it,\ndidn't you get\na ticket earlier?"
     },
     {
       "name": "Narita Brian",
-      "text": "There's no point if you don't use it.",
-      "choice_data_list": []
+      "text": "Well there's no point in not using it,\nright?"
     },
     {
       "name": "Narita Brian",
-      "text": "...Mm.",
-      "choice_data_list": []
+      "text": "...Okay."
     },
     {
       "name": "Narita Brian",
-      "text": "Hand over the tickets already.",
-      "choice_data_list": []
+      "text": "Hand it over."
     },
     {
       "name": "Narita Brian",
-      "text": "According to Sis, spinning the raffle \nwheel is my job. Just sit back and watch.",
-      "choice_data_list": []
+      "text": "My sister always says that I'm good at\nturning the\ntumbler. Just watch."
     },
     {
-      "name": "Narrator",
-      "text": "I hand the ticket over to a strangely \nconfident Narita Brian.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I hand the raffle ticket to a strangely\nconfidant\nNarita Brian."
     },
     {
-      "name": "Narrator",
-      "text": "And Narita Brian courageously spun the \nlever of the raffle machine!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She steps up boldly and spins the lever\nof the\nraffle machine."
     },
     {
-      "name": "Narrator",
-      "text": "And the result was—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\nticket for your hot\nspring vacation!\nCongratulations!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Narita Brian",
-      "text": "Oho... The grand prize, is it?",
-      "choice_data_list": [
-        "That's incredible!",
-        "Isn't that amazing!"
-      ]
+      "text": "Oh... the grand prize."
     },
     {
       "name": "Narita Brian",
-      "text": "Haha, you're way too excited. You're \nacting just like a proud big sister.",
-      "choice_data_list": []
+      "text": "Haha, you're a little too happy. You\nlook just like\nmy sister."
     },
     {
       "name": "Narita Brian",
-      "text": "Every time the wheel was spun and a prize \nwas drawn, they clapped both hands \ntogether repeatedly to welcome it...",
-      "choice_data_list": []
+      "text": "Every time I won a prize, she would clap\nher\nhands and run up to get it."
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Well, enough reminiscing. Here, you \ncan have the prize.\"",
-      "choice_data_list": [
-        "Why?"
-      ]
+      "text": "But that's ancient history. Anyway, I'll\ngive you\nthe prize this time."
     },
     {
       "name": "Narita Brian",
-      "text": "...What do you mean, 'why'? You're the one \nwho owned the ticket in the first place.",
-      "choice_data_list": []
+      "text": "Why not? You're the one who got the\nticket to\nplay in the first place."
     },
     {
       "name": "Narita Brian",
-      "text": "I merely drew the raffle ticket. The right \nto claim the prize belongs to you.",
-      "choice_data_list": [
-        "Since we're already here, though..."
-      ]
+      "text": "All I did was spin the lever. If anyone\ndeserves the\nprize, it's you."
     },
     {
       "name": "Narita Brian",
-      "text": "...*Sigh*. What an overly serious fellow.",
-      "choice_data_list": []
+      "text": "...Hah. You're taking this too seriously."
     },
     {
       "name": "Narita Brian",
-      "text": "Then when the time comes, I shall use it \nwhenever I see fit. You have no objections \nto that, do you?",
-      "choice_data_list": []
+      "text": "Fine. I'll use it when I decide the time is\nright.\nOkay?"
     },
     {
-      "name": "Narrator",
-      "text": "And so, the hot spring trip voucher was \nhanded over to Narita Brian.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And so, Narita Brian ends up taking the\nticket for\nthe hot spring vacation."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Narita Brian",
-      "text": "Hmm... Another delicious-looking prize.",
-      "choice_data_list": []
+      "text": "Hm... Another delicious-looking prize."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Ooh~, you've got a sharp eye! Truth is, \nthe price of this hamburg steak is... \n*whisper whisper*",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "What?! Impossible! Such a luxury item as a \nmere lottery prize?!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Oho, you've got a good eye! Actually,\nthe retail\nvalue of this hamburger steak\nis... <i>mumble,\nmumble.</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "...*Gulp*.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "I recommend eating it right away. \nFreshness is the most important thing for \nany food!",
-      "choice_data_list": []
+      "text": "What?! Are you insane, giving away\nsomething\nthis extravagant as a raffle\nprize?!"
     },
     {
       "name": "Narita Brian",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "<i>...Gulp.</i>"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "I recommend you eat it soon. All food is\nbest\nwhen it's fresh!"
     },
     {
       "name": "Narita Brian",
-      "text": "Let's head back quickly, Trainer. And \nprepare the rice.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Narita Brian",
-      "text": "The lottery isn't over until I devour this \nmeat...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Walking alongside Narita Brian, who was \npacing much faster than usual, we headed \nback to the Academy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Let's hurry back and get cooking,\nTrainer."
     },
     {
       "name": "Narita Brian",
-      "text": "Oh, did I hit the mark?",
-      "choice_data_list": [
-        "Brian, you're amazing!"
-      ]
+      "text": "Who knew you could get meat like this\nfrom a\nraffle..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Well aren't you something, missy! Winning \n2nd prize!\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Brian and I head back to the\nschool faster\nthan usual."
     },
     {
-      "name": "Narita Brian",
-      "text": "...Stop that. Don't praise me over \nsomething like this. It's embarrassing.",
-      "choice_data_list": [
-        "Still, that's amazing!"
-      ]
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Narita Brian",
-      "text": "...I told you to quit it. Sheesh.",
-      "choice_data_list": []
+      "text": "Oh, we won something.."
     },
     {
-      "name": "Narrator",
-      "text": "I shared the prize carrots with Narita \nBrian, who seemed just a little bit shy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Not bad, getting second prize and all!"
     },
     {
       "name": "Narita Brian",
-      "text": "...Third prize, huh.",
-      "choice_data_list": [
-        "Still, we're lucky to have won anything at \nall."
-      ]
+      "text": "...Come on, don't praise me over\nsomething like\nthis. It's embarrassing."
     },
     {
       "name": "Narita Brian",
-      "text": "………… ……Heh.",
-      "choice_data_list": []
+      "text": "...I said cut it out already. Geez..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian splits the carrots with me,\nlooking\nslightly embarrassed."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Narita Brian",
-      "text": "Yeah. That's just how the lottery goes.",
-      "choice_data_list": []
+      "text": "...Third place."
     },
     {
       "name": "Narita Brian",
-      "text": "Fortunately, the prize was a carrot. At \nleast it's a vegetable I can actually eat, \nso I got lucky.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Even though she disliked vegetables, \ncarrots were apparently an exception. I \nended up giving the prize to her.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "...Hmph."
     },
     {
       "name": "Narita Brian",
-      "text": "......A miss, huh.",
-      "choice_data_list": [
-        "There are times like this too."
-      ]
+      "text": "Yeah, I guess so. Raffles are like that."
     },
     {
       "name": "Narita Brian",
-      "text": "Well, a lottery without losing tickets is \npretty boring anyway.",
-      "choice_data_list": []
+      "text": "At least the prize is a carrot. It's good\nluck\ngetting something I can eat."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian takes the prize. Although\nshe's not a\nfan of vegetables, it seems\nthat carrots are an\nexception."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Narita Brian",
-      "text": "It is all down to fate. It's precisely \nbecause you never know what will pop out \nwhen you give it a spin that makes it so \nfun.",
-      "choice_data_list": []
+      "text": "...I lost?"
     },
     {
       "name": "Narita Brian",
-      "text": "...Though naturally, hitting the jackpot \nwould've been better.",
-      "choice_data_list": []
+      "text": "True. Playing a raffle you can't lose\nwould be\nboring."
     },
     {
-      "name": "Narrator",
-      "text": "For a while, Narita Brian's tail remained \ncompletely droopy...",
-      "choice_data_list": []
+      "name": "Narita Brian",
+      "text": "Everything happens by chance. Not\nknowing what\nwill happen is exactly\nwhat makes it interesting."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Although, winning still would've been\nnicer."
+    },
+    {
+      "name": "Monologue",
+      "text": "Her tail drops dejectedly and doesn't\nperk up\nagain for a while after."
     }
   ]
 }

@@ -2,61 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Narita Taishin—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while I'm out with Narita\nTaishin..."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Wait, is that...",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Hang on."
     },
     {
       "name": "Narita Taishin",
-      "text": "What do you mean 'what's wrong'... You can \nsee for yourself if you look over there.",
-      "choice_data_list": []
+      "text": "Nothing special... Just take a look over\nthere."
     },
     {
-      "name": "Narrator",
-      "text": "Looking where Narita Taishin pointed, \nthere was a claw crane game filled with \nplushies themed after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "I heard that's trending lately. Not that \nI'm interested, though.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I turn in the direction Narita Taishin is\npointing\nand see a claw machine filled\nwith Umamusume\nplushies."
     },
     {
       "name": "Narita Taishin",
-      "text": "\"I see girls with it attached to their \nbags every now and then.\"",
-      "choice_data_list": [
-        "Why not try putting it on?"
-      ]
+      "text": "They're apparently all the rage right\nnow. Not\nthat I'm interested or anything."
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh? Were you listening to me? I told you \nI'm not interested—",
-      "choice_data_list": [
-        "The plushie is really well-made, too!"
-      ]
+      "text": "I sometimes see 'em dangling from other\npeople's\nbags and stuff, though."
     },
     {
       "name": "Narita Taishin",
-      "text": "...*Sigh*. Do whatever you want. Just so \nyou know, I'm not doing it.",
-      "choice_data_list": []
+      "text": "Excuse me? Were you even listening? I'm\nnot\nintere—"
     },
     {
       "name": "Narita Taishin",
-      "text": "\"If you want it done, do it yourself. \n...Not that I know if you can actually get \nit, though.\"",
-      "choice_data_list": []
+      "text": "<i>Sigh...</i> Do whatever you feel like. Just\ndon't drag\nme into it."
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Narita Taishin",
+      "text": "If you want one so badly, get it yourself.\nI mean,\nif you <i>can.</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

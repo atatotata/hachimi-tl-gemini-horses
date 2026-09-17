@@ -2,45 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "While having a meeting with Fine Motion \nover a cup of tea...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Fine Motion and I are drinking some tea\nwhile we\nhave a meeting."
     },
     {
       "name": "Fine Motion",
-      "text": "Oh my, where did the sugar bowl go...? Ah! \nFound it, found it~♪",
-      "choice_data_list": []
+      "text": "Hm, where's the sugar? Ah! Here it is! ♪"
     },
     {
-      "name": "",
-      "text": "(Splash, splash, splash... Splash, plop... \nplop!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fine Motion",
-      "text": "“—So, Trainer. About this practice \nmenu...”",
-      "choice_data_list": [
-        "(Isn't that a lot of sugar cubes...?)",
-        "(Aren't there a lot of sugar cubes...?)"
-      ]
+      "name": "Monologue",
+      "text": "<i>Plip, plip, plip... Plop, plop... PLOP!</i>"
     },
     {
       "name": "Fine Motion",
-      "text": "How about we adjust based on the race \nresults? I think it'd be best if we can \nstay flexible.",
-      "choice_data_list": [
-        "Ah, yeah...!",
-        "Y-Yeah...!"
-      ]
+      "text": "So then, Trainer, about our training\nregimen..."
     },
     {
       "name": "Fine Motion",
-      "text": "Fufu, then it's a deal♪ All right, let's \nkeep giving it our all tomorrow too!",
-      "choice_data_list": []
+      "text": "What do you think about making some\nchanges\nbased on my race results? I\npersonally believe\nflexibility is key."
     },
     {
-      "name": "",
-      "text": "It doesn't show on her face at all, but \ncraving sweets is likely due to fatigue. \nIt might be best to review her race \nschedule.",
-      "choice_data_list": []
+      "name": "Fine Motion",
+      "text": "Hehe, it's decided then! ♪ Okay, I'm\ngoing to\ngive it my all tomorrow!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Fine Motion doesn't let her fatigue\nshow, but it\nmight be the reason she's\ncraving all that sugar. I\nmight want to\ntake another look at her race\nschedule."
     }
   ]
 }

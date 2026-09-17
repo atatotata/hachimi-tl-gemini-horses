@@ -2,302 +2,224 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "While out shopping with Kawakami Princess \nin the shopping district—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I've come to the shopping district with\nKawakami\nPrincess."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Urk, the raffle...!",
-      "choice_data_list": []
+      "text": "Urgh... a raffle..."
     },
     {
-      "name": "Narrator",
-      "text": "Come to think of it, I should have \nreceived one lottery ticket when I went \nshopping earlier.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Ugh... uuu... old memories are flooding \nback...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Which reminds me, I'm sure we got a\nraffle ticket\nwhile shopping earlier."
     },
     {
       "name": "Kawakami Princess",
-      "text": "I remember trying so hard to win the 1st \nprize PreFy Phone, and ending up with a \nwhole mountain of tissues...!",
-      "choice_data_list": [
-        "Let's rewrite those memories with this \nsingle shot!"
-      ]
+      "text": "Ngh... Ohh... My old memories are\ncoming back!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Guh. But the greedier one gets, the more \nlikely one is to draw a blank...",
-      "choice_data_list": [
-        "It's okay, the Purify Phone isn't one of \nthe prizes"
-      ]
+      "text": "I remember trying really hard to get the\nfirst-prize\nPrincess Fighter phone, but all\nI ended up with\nwas a mountain of tissue\npackets!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "...I see.",
-      "choice_data_list": []
+      "text": "Urk... But the more you desire\nsomething, the\nmore you're likely to\ndraw a dud..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Understood. Today's the day I win \nsomething other than tissues! Here I go!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And together with Kawakami Princess, I \nturn the raffle crank.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "...That's a good point."
     },
     {
       "name": "Kawakami Princess",
-      "text": "It's heeeere!!",
-      "choice_data_list": []
+      "text": "All right. Today's the day I'm going to\nwin\nsomething other than tissues! Let's\ndo this!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, Kawakami Princess and I turn\nthe lever on\nthe raffle tumbler."
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "\"Did you see that, Trainer?! I won the \ngrand prize!!\"",
-      "choice_data_list": [
-        "You did it!",
-        "You did it!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Kawakami Princess jumped for joy. If I let \nher keep the prize as well, it would \nbecome an even better memory for her...",
-      "choice_data_list": []
+      "text": "I did it!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Yes! Now it's time for us to head off on a \nhot spring trip together!",
-      "choice_data_list": [
-        "Together!?"
-      ]
+      "text": "Did you see that, Trainer?! I won the\ngrand prize!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Kawakami Princess leaps around happily.\nNow if I\nlet her have the prize all to\nherself, she'll have her\nperfect happy\nmemo—"
     },
     {
       "name": "Kawakami Princess",
-      "text": "? ...Is that not it?",
-      "choice_data_list": []
+      "text": "This is great! Now we can go on a hot\nspring\nvacation together!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Because this grand prize was won through \nthe power of our bond, Trainer-san! If \nwe're going to enjoy it, I want us to do \nit together!",
-      "choice_data_list": []
+      "text": "...?\nYou don't want to?"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Hot spriiings♪ Hot spriiings♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "...Leaving her dancing with joy, I checked \nthe schedule in my hand. If we were to go \ntogether, I'd need to match a full day off \nwith hers.",
-      "choice_data_list": [
-        "It looks like it'll still be a while, is \nthat okay?"
-      ]
+      "text": "We won this prize through the power of\nour bond,\nTrainer! It's only right that we\nshould both enjoy\nit!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Of course! Hot springsâª Hot springsâª",
-      "choice_data_list": []
+      "text": "Hot springs! ♪ Hot springs! ♪"
     },
     {
-      "name": "Narrator",
-      "text": "She was completely overjoyed by the hot \nsprings. Her face, which had been \nunusually stiff lately, softened with a \nsmile during this moment alone.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I leave Kawakami Princess to her dance\nof joy and\nlook at our schedule. If we're\ngoing together, I'll\nneed to find a time\nwhen we both have the day\noff."
     },
     {
       "name": "Kawakami Princess",
-      "text": "...1st prize!",
-      "choice_data_list": [
-        "Congratulations!!"
-      ]
+      "text": "Not a problem! Hot springs! ♪ Hot\nsprings! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "Kawakami Princess is overjoyed at the\nprospect\nof visiting the hot springs. She\nhad been looking\noddly strained\nrecently, so it's nice to see her\nsmiling\nagain."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "This is... victory through pure \nselflessness...! I have finally won 1st \nplace...!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Yes! Here's your prize, the \"Special \nDeluxe Carrot Hamburg Steak\"!",
-      "choice_data_list": []
+      "text": "First prize!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ah, thank you very much.",
-      "choice_data_list": []
+      "text": "So it was all true... Victory truly does\ncome to\nthose who are free from desire!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Here's your prize—a deluxe carrot\nhamburger\nsteak!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "…………。",
-      "choice_data_list": [
-        "...What's wrong?",
-        "...What's wrong?"
-      ]
+      "text": "Th-thank you very much."
     },
     {
       "name": "Kawakami Princess",
-      "text": "\"...I was hoping to try the lottery one \nmore time before the period ended, but...\"",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Seeing a hamburger steak that looks this \ngood, I'm worried I won't be able to hold \nback my cravings again...!",
-      "choice_data_list": []
+      "text": "I was thinking about trying to draw from\nthe raffle\none more time, but..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Awawa... My mouth is watering so much... \nTrainer, u-um, about that hamburger \nsteak...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "I ended up yielding the prize to Kawakami \nPrincess, whose eyes were completely glued \nto the hamburger steak.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Now that I've seen this scrumptious\nhamburger\nsteak, I'm not sure I'll be able\nto suppress my\ndesire a second time!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Oh my, second prize?!",
-      "choice_data_list": []
+      "text": "Hwaaah... I'm starting to drool...\nT-Trainer, I don't\nsuppose you mind if I..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I hand over the prize to Kawakami\nPrincess, who's\nbecome thoroughly\nspellbound by the tasty\ndelicacy."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "L-Look at that! All those carrots packed \ninto that cardboard box!",
-      "choice_data_list": []
+      "text": "Oh my, the second prize?!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "It's a world of difference from tissues! \nCould we not call this practically a \nvictory!?",
-      "choice_data_list": [
-        "Has your memory of the raffle been \noverwritten?"
-      ]
+      "text": "L-look at all those carrots crammed into\nthe box!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Yes, of course!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "I shared a massive pile of carrots with an \noverjoyed Kawakami Princess.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "That's a heck of a lot better than tissues!\nI'd say\nthis counts as a victory, right?!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Saafe...! Somehow I managed to avoid the \ntissues.",
-      "choice_data_list": [
-        "As expected of the princess!"
-      ]
+      "text": "Yes, definitely!"
+    },
+    {
+      "name": "Monologue",
+      "text": "An overjoyed Kawakami Princess and I\nshare the\nbountiful supply of carrots\nbetween ourselves."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ehe, leave it to me. I too grow day by \nday!",
-      "choice_data_list": []
+      "text": "Thaaat's... good enough! I'll take\nanything as long\nas it's not another pack\nof tissues."
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Even if it's only little by little!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Having safely avoided the tissue, Kawakami \nPrincess seemed in a slightly better mood.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Eheh, just leave this kind of thing to me.\nI'm\ngrowing each and every day!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Waaaah, I knew it would be like this~!",
-      "choice_data_list": [
-        "...Sorry.",
-        "...Sorry."
-      ]
+      "text": "Little by little, of course!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Having avoided the dreaded tissues,\nKawakami\nPrincess seems in slightly\nhigher spirits."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "\"No, Trainer is not at fault!\"",
-      "choice_data_list": []
+      "text": "Waaahhh! I knew it!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "It's all because Princess Right Hand is \nfilled with such worldly desires! Curse \nyou, right hand! Curse youuu...!!",
-      "choice_data_list": []
+      "text": "No, it's not your fault, Trainer!"
     },
     {
-      "name": "Narrator",
-      "text": "I kept encouraging Kawakami Princess, who \nwas completely down in the dumps.",
-      "choice_data_list": []
+      "name": "Kawakami Princess",
+      "text": "It's all because of my greedy princess\nright hand!\nCurse this right hand of mine!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I try to cheer up a thoroughly downcast\n\nKawakami Princess."
     }
   ]
 }

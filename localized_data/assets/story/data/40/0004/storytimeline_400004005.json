@@ -2,128 +2,92 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Campus Broadcast",
-      "text": "\"—Trainer <username>, please report to the \nChairwoman's Office immediately.\"",
-      "choice_data_list": []
+      "name": "Academy PA",
+      "text": "Trainer\n<username>, please\n\ncome to the director's office\nimmediately."
     },
     {
-      "name": "Narrator",
-      "text": "\"Summoned by an alarming broadcast, I \nhurried over to the Chairwoman's office.\"",
-      "choice_data_list": [
-        "This is <username>."
-      ]
+      "name": "Monologue",
+      "text": "The announcement sounds serious, so I\nmake my\nway to the director's office in\nsomething of a\nfluster."
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Indeed, come in.",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Please enter."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "...Please, have a seat.",
-      "choice_data_list": []
+      "text": "Do take a seat."
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "……。",
-      "choice_data_list": [
-        "U-Um...?"
-      ]
+      "name": "Director Akikawa",
+      "text": "..."
     },
     {
-      "name": "Tazuna & Chairwoman",
-      "text": "……。",
-      "choice_data_list": []
+      "name": "Tazuna & Director Akikawa",
+      "text": "..."
     },
     {
-      "name": "Narrator",
-      "text": "An eerie silence...! The stillness \ncontinued for several minutes afterwards—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The silence is downright unsettling! As\nthe\nwordless minutes start to feel like\nhours..."
     },
     {
-      "name": "Narrator",
-      "text": "\"...I'm starting to get uneasy. Could it \nbe that something terrible has happened?\"",
-      "choice_data_list": [
-        "Um! What in the world is going on...?!"
-      ]
+      "name": "Monologue",
+      "text": "...I grow more and more uneasy. Has\nsomething\nterrible happened?"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Appreciation!!",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "name": "Director Akikawa",
+      "text": "Gratitude!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Today, I asked you out here so I could \nexpress my gratitude to you, Trainer!",
-      "choice_data_list": []
+      "text": "We called you here today to express our\n\ngratitude to you, Trainer!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Oh, right! The trainee you're in charge \nof, <chrname>, isâ",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Indeed! Your trainee\n<chrname>..."
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "She ran through the crucial third year of \nthe Twinkle Series with a magnificent \nbrilliance!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Well, she's put on a brilliant display\nthroughout\nthis vital third year in her\nTwinkle Series career!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "\"The path she carves will without a doubt \nbecome a shining beacon not just for her \npeers, but for future generations of \nUmamusume too!\"",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "We've no doubt that the track she\nblazed will\nserve as a shining beacon for\nnot only her\nclassmates, but the next\ngeneration as well!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Therefore... You have my huuuuuge \ngratitude!! Splendidly done, Trainer!",
-      "choice_data_list": [
-        "Ah, thank you very much!"
-      ]
+      "name": "Director Akikawa",
+      "text": "As such, we are... INCREDIBLY grateful!\nSplendid\nwork, Trainer!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Indeed! And... EXPECTATION!! I eagerly \nawait your unprecedented, legendary \ntriumphs from here on out!!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Right! Also... Expectations! I greatly look\nforward\nto the unprecedented glory\nyou're sure to achieve\nin the future!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"From me as well... truly, thank you for \nall your hard work as always. If there's \nanything I can help with, please feel free \nto ask me anytime.\"",
-      "choice_data_list": []
+      "text": "I'd like to thank you for your continued\nefforts as\nwell. Please don't hesitate to\nlet me know if\nthere's anything I can\nassist you with."
     },
     {
-      "name": "Narrator",
-      "text": "It seems I've received some words of \npraise! I'm grateful, but... there was one \nthing that caught my attention.",
-      "choice_data_list": [
-        "What was that silence all about?"
-      ]
+      "name": "Monologue",
+      "text": "It seems all they had in store was a heap\nof praise!\nI'm very appreciative, of\ncourse, but something's\nstill bugging me."
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Of course!! A surprise!!",
-      "choice_data_list": [
-        "A-A surprise..."
-      ]
+      "name": "Director Akikawa",
+      "text": "A surprise! Naturally!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Indeed! I just felt like... that would \nbuild up more excitement!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Yes! I figured building a little suspense\nwould\nsweeten the payoff!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I-I'm sorry. I did try to stop them, \nbut...",
-      "choice_data_list": []
+      "text": "I-I'm sorry. I did try to stop her..."
     },
     {
-      "name": "Narrator",
-      "text": "...I do feel like retorting, but I'm \nhonestly glad to be praised.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "...There's a thing or three I'd like to\nquestion, but\nI'm happy to know I'm\nappreciated."
     },
     {
-      "name": "Narrator",
-      "text": "A few days later, I told <chrname> about this, and \nthe two of us shared the joy together!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Later, I tell <chrname> about\nwhat\nhappened and we share in the joy!"
     }
   ]
 }

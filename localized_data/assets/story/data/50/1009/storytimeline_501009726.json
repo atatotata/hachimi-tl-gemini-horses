@@ -2,64 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Daiwa Scarlet—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while I'm in town with Daiwa\nScarlet..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ah! Look, look at that!",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Ah! Trainer! Look over there!"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "That crane game over there. Look, the \nprize is a Paka Petit!",
-      "choice_data_list": []
+      "text": "That claw machine! It's full of plush\nCuties!"
     },
     {
-      "name": "Narrator",
-      "text": "Looking in the direction Daiwa Scarlet \npointed, there was a crane game filled \nwith plushies designed after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "Fufu, aren't they adorable! And it looks \nlike there's quite a variety, too.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Daiwa Scarlet points toward a claw\nmachine filled\nwith Umamusume\nplushies."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "I can't help but wonder what kind of girls \nare there...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Daiwa Scarlet looked at the plushie with a \njoyful smile on her face.",
-      "choice_data_list": [
-        "...Shall I get that for you?"
-      ]
+      "text": "Aren't they just adorable? Look, there\nare so\nmany!"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ngh... I was just looking. It's not like I \nactually wanted it or anything.",
-      "choice_data_list": []
+      "text": "I want to collect them all!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Daiwa Scarlet practically sparkles with\nexcitement\nas she stares at the plushies."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Still, if you insist on giving it to me, I \nsuppose I'll accept it.",
-      "choice_data_list": []
+      "text": "I... I was just looking, is all. It's not like I\nactually\nwant one or anything."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "So, um, you'd better do your best...!",
-      "choice_data_list": []
+      "text": "But if you <i>really</i> want to give me a\npresent, then I\nguess I can humor you."
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Daiwa Scarlet",
+      "text": "So, uh, do your best, I guess..."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

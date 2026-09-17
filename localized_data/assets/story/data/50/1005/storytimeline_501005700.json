@@ -2,41 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "After the break. When I visited the \nTrainer's office for a meeting with Fuji \nKiseki—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "We're just coming back from break and\nI'm\nscheduled to have a meeting with\nFuji Kiseki. I\nstep in my office to find..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "...*snooze*, *snooze*...",
-      "choice_data_list": []
+      "text": "<i>Zzz... Zzz...</i>"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "...Hm?",
-      "choice_data_list": []
+      "text": "Ngh?"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "T-Trainer...!? Did I fall asleep, by any \nchance—",
-      "choice_data_list": [
-        "Slept like a log, of course."
-      ]
+      "text": "T-Trainer! I was just resting my eyes, I\nswear!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ah... I'm sorry. I've shown you an \nunsightly side of myself.",
-      "choice_data_list": []
+      "text": "<i>Sigh.</i> I'm sorry you had to see me like\nthat."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "One of the girls in the dorm was feeling \nhomesick, you see. I stayed by her side \nuntil she fell asleep, but... *yawn*.",
-      "choice_data_list": []
+      "text": "One of my residents was inconsolable\nwith\nhomesickness last night, so I stayed\nby her side\nuntil she fell asleep...\n<i>Yaaawn.</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Thanks to Fuji Kiseki, the girl in the \ndorm was able to sleep peacefully, though \nit seems Fuji herself didn't get much \nrest.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Fuji Kiseki must not have gotten enough\nsleep\nherself because of that. She looks\nexhausted."
     }
   ]
 }

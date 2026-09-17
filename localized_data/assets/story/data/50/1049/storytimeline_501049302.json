@@ -2,350 +2,252 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "After finishing training, as I was \ntreating Nakayama Festa to some taiyaki—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After training, as I'm treating Nakayama\nFesta to\na tasty taiyaki treat..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't be shy! Spin the wheel and try\nyour luck! Do\nwe have any takers?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Oho, the raffle.",
-      "choice_data_list": [
-        "Want to give it a shot?",
-        "Do you want to try taking on the \nchallenge?"
-      ]
+      "text": "Oh, a raffle."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Well, of course. What else would I do?",
-      "choice_data_list": []
+      "text": "Of course I do. Have you forgotten who I\nam?"
     },
     {
-      "name": "Narrator",
-      "text": "And so, along with taiyaki, we stocked up \non drinks and other items at the shopping \ndistrict stores and received raffle \ntickets.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Thanks. Then I'll make sure to put that \none ticket to good use.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And so, we grab some drinks and stuff\nfrom the\nshopping district to claim a\nraffle ticket."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Hup!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Nakayama Festa enthusiastically turned the \nlever of the raffle machine!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Thanks. I won't let this go to waste."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hell yeah!",
-      "choice_data_list": [
-        "Oho!"
-      ]
+      "text": "Let's go!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Magnificent~! So here is your \"Hot Springs \nTrip Ticket\"~!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Nakayama Festa gives the raffle wheel a\nmighty\nspin!"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Well, guess I'll head back.",
-      "choice_data_list": [
-        "You cooled off real quick?!",
-        "You cooled off real quick?!"
-      ]
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Well, I mean... it's just a regular hot \nspring, right?",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Ah. Here, Trainer, have this travel \nvoucher. Consider it thanks for letting me \nspin the lottery.",
-      "choice_data_list": [
-        "Are you sure...?",
-        "Are you sure...?"
-      ]
+      "text": "Hell yeah!"
     },
     {
-      "name": "Narrator",
-      "text": "Nakayama Festa shows almost no interest in \nthe prize she won.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "This hot spring inn is famous as a retreat \nused by top Umamusume, but...",
-      "choice_data_list": [
-        "I'll decide whether to use it based on \nyour results, then."
-      ]
+      "name": "Raffle Clerk",
+      "text": "Fantastic job! Here's your hot spring\ncoupon!\nEnjoy!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haaah? My race record?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"If you're going abroad with her, you \nshould give her a chance to catch her \nbreath and rest up before the final \nadjustments.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "However, on the other hand, if we end up \nwith a disastrous result that demands we \nget our act together—there will be no time \nfor hot springs.",
-      "choice_data_list": [
-        "So whether you can use this or not is up \nto you.",
-        "So whether you can use this or not is up \nto you."
-      ]
+      "text": "Okay. Wanna head back?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "...! Heh-heh... If our training had gone \noff the rails, that hot springs trip \nwould've gone down the drain, huh.",
-      "choice_data_list": []
+      "text": "I'm still excited. This doesn't look like\nyour\nordinary hot spring."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Real risk with real return. Now that's a \nwager proposed by someone who knows the \nropes.",
-      "choice_data_list": [
-        "That should help fuel your fire a bit, \nright?",
-        "That should help fuel your fire a bit, \nwouldn't you say?"
-      ]
+      "text": "Here, you take it. Call it a thanks for\nletting me\nspin the raffle wheel."
+    },
+    {
+      "name": "Monologue",
+      "text": "Nakayama Festa shows almost zero\ninterest in the\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "The coupon earns us a free trip to a\nfamous\ngetaway spot for top\nUmamusume."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Ah. It seems you understand me quite well?",
-      "choice_data_list": []
+      "text": "Oh? Like a reward?"
     },
     {
-      "name": "Narrator",
-      "text": "And so, a new bet with Nakayama Festa was \nmade.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "If we get the chance to race overseas, it\ncould\nbenefit her to relax and rest up\nbefore\ncompleting our final\npreparations."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "However, if she can't deliver the results\nwe need,\nwe'll have to refocus our\nefforts. In that case,\nwe'll forget about\nthe hot springs idea."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Oh, 1st prize! Today really is my lucky \nday.",
-      "choice_data_list": []
+      "text": "Heh... So if our preparations don't go\nwell, the\nhot springs getaway is off the\ntable, huh?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hmph, just one? We can't split this \nevenly.",
-      "choice_data_list": [
-        "Since we're here, you should have it!",
-        "Since we have it, why don't you eat it?"
-      ]
+      "text": "A suggestion with both risk and\nreward—now\n<i>that's</i> what I call a gamble!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haha, well then...",
-      "choice_data_list": []
+      "text": "Too right. Heh. You know me."
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, Nakayama Festa and I have\nplaced a new\nwager."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Whoa, that ain't it. Let's try reading \nbetween the lines a bit more.",
-      "choice_data_list": []
+      "text": "Oh, first-prize! Not too shabby."
     },
     {
       "name": "Nakayama Festa",
-      "text": "\"There is one reward, but two people \npresent. If so... what should be done?\"",
-      "choice_data_list": []
+      "text": "Tch, just one, though? We can't split the\nspoils\nthen."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Now, let's open it!",
-      "choice_data_list": []
+      "text": "Haha, in that case..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Straight flush! Now, what've you got...?",
-      "choice_data_list": [
-        "Another one pair..."
-      ]
+      "text": "No... that wouldn't be right. Let me think\nthis over\nagain."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Alright. With this, all the carrot hamburg \nsteaks and cup noodles at your place \nbelong to me.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, as smooth as could be, she cleaned \nout not just the carrot hamburg steaks, \nbut every scrap of food in the house.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "There are two people and only one\nreward. So,\nwhat do we do?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Got a nice gloss to it, not bad. Look like \nit'd be tasty grilled just like this, \nbut...",
-      "choice_data_list": []
+      "text": "Okay, flip them!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "…………。",
-      "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
-      ]
+      "text": "Straight flush! What have you got?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "\"This is thanks for the taiyaki from \nearlier, and for letting me spin the \nraffle.\"",
-      "choice_data_list": []
+      "text": "All right. That makes both the carrot\nhamburger\nsteak and cup noodles from\nyour house all mine."
     },
     {
-      "name": "Narrator",
-      "text": "(Wahahaha...)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And just like that, Nakayama Festa takes\nthe\ncarrot hamburger and cleans out my\nkitchen."
     },
     {
-      "name": "Cheerful Middle-Aged Man",
-      "text": "Oh, Nakayama's Trainer. Eat up, eat up! \nIt's on the house today!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
     },
     {
-      "name": "Oden Stall Owner",
-      "text": "\"Of course not. ...Here, Nakayama. Stewed \ncarrots for you.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Thanks, pops. Come on, you too, Trainer.",
-      "choice_data_list": []
+      "text": "Not a bad haul! They'll taste nice after a\nstint on\nthe grill."
     },
     {
       "name": "Nakayama Festa",
-      "text": "The dashi broth here is the best under the \nsun. Eat up.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Oden Stall Owner",
-      "text": "No need to pay, you two. Consider it \nthanks for bringing all those carrots.",
-      "choice_data_list": [
-        "Ah, thank you very much...!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "At Nakayama Festa's regular spot, we have \nthem cook up a mountain of carrots. The \nflavor warmed my very soul.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Ah... is that all? Well, green and blue \nballs are pretty much all you ever get.",
-      "choice_data_list": [
-        "But the ball was yellow...?"
-      ]
+      "text": "Consider it a thanks for the taiyaki and\nletting me\nspin the raffle wheel."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Chatter, chatter.</i>"
+    },
+    {
+      "name": "Cheerful Man",
+      "text": "If it isn't, Nakayama! Eat up! It's my treat\ntoday!"
+    },
+    {
+      "name": "Oden Store Owner",
+      "text": "That won't be necessary! Come over\nhere,\nNakayama. I got a bowl of carrot\nstew with your\nname on it."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Yeah. Well, the point is that similar \ncolors tend to come out. You've seen that \nkind of thing at arcades before, right?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Nakayama Festa begins fiddling with the \nprize carrot. Together with her, I made my \nway back to the academy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Thanks, Pops. Come on, Trainer. There's\nsome for\nyou too."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Ah.",
-      "choice_data_list": [
-        "That was unfortunate...",
-        "That was unfortunate..."
-      ]
+      "text": "The broth here's the best in Japan. So,\neat up."
+    },
+    {
+      "name": "Oden Store Owner",
+      "text": "This one's on the house. A little thanks\nfor all\nthose carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We get the bushel of carrots turned into\nsome\ndelicious food at one of Nakayama\nFesta's go-to\nrestaurants. The taste\nleaves a warm feeling\ninside."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haha, you're getting way too down. It's \nusually like this. Feels like a miss 90% \nof the time.",
-      "choice_data_list": [
-        "Is that so..."
-      ]
+      "text": "Well, I expected as much. It's usually the\nlow-tier\ngreen or blue balls that'll come\nout, after all."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Ah, right. So don't fret over it for \nnothing.",
-      "choice_data_list": []
+      "text": "Meh. Same difference—you know what I\nmean.\nHaven't you played games at the\narcade before?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Nakayama Festa begins flipping the\nprize carrot\nbetween her fingers. Just\nlike that, we set off\nback to the\nacademy."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Nakayama Festa",
-      "text": "......*sigh*......",
-      "choice_data_list": []
+      "text": "...Aahh."
     },
     {
-      "name": "Narrator",
-      "text": "Despite all her complaining, Nakayama \nFesta let out a sigh as well.",
-      "choice_data_list": []
+      "name": "Nakayama Festa",
+      "text": "Haha, don't feel too bad. It's pretty\nnormal. I get\nduds like ninety-percent of\nthe time."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh yeah. So no point in fretting over it."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Sigh...</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Nakayama Festa tries her best to\nconsole me, but\nthen accidentally lets\nout a sigh."
     }
   ]
 }

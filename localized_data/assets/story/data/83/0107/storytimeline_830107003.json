@@ -2,182 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "At Maruzensky's invitation, I ended up \ngoing to the resort hotel's pre-opening \nevent."
+      "name": "Monologue",
+      "text": "Maruzensky invites me down to the hotel\nresort\nfor their soft opening event."
     },
     {
       "name": "Gold Ship",
-      "text": "Man, look at this turnout! Total madness! \nAlright you, wanna play 100-board Human \nShogi with me?! I'm the King, and you're \nthe superstar hair stylist!",
-      "choice_data_list": [
-        "I-It's so crowded you could actually \nimagine that!",
-        "I-It's lively enough to make you think so!"
-      ]
+      "text": "This place is popping off! Let's do a\n\nhundred-square human shogi contest! I'll\nbe the\nking, and you can be a\ncharismatic beautician!"
     },
     {
       "name": "Reporter A",
-      "text": "Hmm, I came because I heard about a grand \nrenewal, but it really doesn't look any \ndifferent at all."
+      "text": "I heard they renovated the place, but I\ndon't see\nany changes."
     },
     {
       "name": "Reporter B",
-      "text": "Even with the famous Maruzensky doing PR, \nthis is kind of a letdown. Did she just \nget asked and couldn't say no...?"
+      "text": "Maruzensky might be their ambassador,\nbut this is\nlooking to be a letdown. Was\nshe cajoled into the\nrole?"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "U-Um, excuse me...! Maruzen-san wouldn't \ndo something like—"
+      "text": "H-hey! Maruzen isn't the type to—"
     },
     {
       "name": "Maruzensky",
-      "text": "Hiiya! Everyone! Welcome, and thank you \nfor traveling so far to our resort!"
+      "text": "Hi, everybody! And welcome to this\noff-the-road\nparadise resort!"
     },
     {
       "name": "Maruzensky",
-      "text": "Now then, I'd like you all to enjoy the \nspecial highlight course of our renewal! \nWe call it—"
+      "text": "Without any further ado, I would like to\npresent\nthe special new service we've\nconcocted for the\nhotel's renewal. We\ncall it..."
     },
     {
       "name": "Maruzensky",
-      "text": "The 'One-Day Noble Lady & Gentleman' \nExperience!"
+      "text": "The \"Be a Noble for a Day\" experience!"
     },
     {
       "name": "Maruzensky",
-      "text": "From now until the end of the day, each \nguest will have a dedicated butler to \nattend to their every need♪"
+      "text": "And so, we've prepared a personal\nbutler for\nevery guest! ♪"
     },
     {
-      "name": "Staff Playing Butler",
-      "text": "Lord <username>, I shall be attending to your side \ntoday. Please feel free to command me as \nyou see fit.",
-      "choice_data_list": [
-        "N-Nice to meet you...!"
-      ]
+      "name": "Butler",
+      "text": "<username>, I will\nbe\naccompanying you for the day. Let\nme know if\nyou have any requests."
     },
     {
       "name": "Maruzensky",
-      "text": "First up is spa time! Please take your \ntime and soak away all your daily fatigue♪"
+      "text": "Let's start off with the spa! The steam\nwill melt\naway your built-up fatigue. ♪"
     },
     {
-      "name": "Staff Playing Butler",
-      "text": "My Lady, how is the water temperature? May \nI fetch you something to drink?"
+      "name": "Butler",
+      "text": "How do you find the water? Would you\nlike any\nrefreshments?"
     },
     {
       "name": "Gold Ship",
-      "text": "Oho, you're pretty attentive, ain't ya! \nThen get me some oden broth, and make sure \nit's ice-freakin'-cold!"
+      "text": "Ooh, you just read my mind! Get me\nsome oden\nbroth, and put some of those\ncold blocks in it so\nthe glass will go\n\"cling cling\"!"
     },
     {
-      "name": "Staff Playing Butler",
-      "text": "Understood. Please allow me a moment.",
-      "choice_data_list": [
-        "You can actually prepare that...?!",
-        "You can really make that...?!"
-      ]
+      "name": "Butler",
+      "text": "Understood. Coming right up."
     },
     {
       "name": "Reporter A",
-      "text": "W-Well... this level of service is \nsomething any place could pull off if they \nreally tried."
+      "text": "Well, this is nothing special. Any\nestablishment\ncould provide the same\nservice if they wanted to."
     },
     {
       "name": "Maruzensky",
-      "text": "Next, please enjoy afternoon tea in a \nsalon that was once used as a high-society \ngathering parlor!"
+      "text": "And now for some delicious afternoon\ntea! This\nluxurious room will have you\nfeeling like one of\nthe elites."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "My, to serve without using a tea stand... \nThis is remarkably authentic, desu wa!"
+      "text": "The absence of a tea stand makes this\nexperience\nfeel quite authentic!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "From the teacups down to the silverware, \nevery single piece of furniture is \ntop-notch— one can truly feel the immense \ndedication, desu wa!"
+      "text": "And I do appreciate the attention to\ndetail with\nthese matching tea cups and\nsilverware!"
     },
     {
       "name": "Manager",
-      "text": "We are deeply honored by your praise. In \nfact, a famous Taisho-era \nsemi-autobiographical novel was written \nbased on our establishment's tea time—"
+      "text": "Thank you for the gracious compliment.\nIn fact,\nour establishment's teatime was\nonce featured in\na novel written during\nthe Taisho era."
     },
     {
       "name": "Reporter B",
-      "text": "What?! This was the setting for that \nmasterpiece?! To think we could experience \nthe very same taste described in the \nbook..."
+      "text": "Huh?! This place was mentioned in that\n\nmasterpiece?! Who knew I would ever\nget the\nchance to experience the flavors\ndescribed in that\ntext..."
     },
     {
       "name": "Maruzensky",
-      "text": "Now, it's photo shoot time! Please pick \nyour favorite dress and accessories from \nthis wardrobe!"
+      "text": "All right, time for a photo shoot! Pick\nout your\ndress of choice and accessories\nfrom this\nwonderful closet!"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Wow, they're all so wonderful, I can't \ndecide! 'A gorgeous dress outshines even a \ncat's paw pads,' as the saying might \ngo...!"
+      "text": "Wow, it's hard to choose when they all\nlook so\ngreat! I guess I could say a\nwell-made dress\noutshines even the\nsoftest paw!"
     },
     {
       "name": "Reporter A",
-      "text": "I see. 'In modern times where formal dress \nis rare, it offers a remarkably fresh \nexperience'... got it. ...Excuse me, how \nmany participants can you accommodate?"
+      "text": "I get it. In our modern age, rarely do we\nget the\nchance to dress in such formal\nwear, making this\nexperience all the\nmore fresh... Um, how many\nparticipants\nare allowed?"
     },
     {
-      "text": "And so, the dazzling noble lady and \ngentleman experience continued throughout \nthe entire day—"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Well then, that concludes our course! To \nwrap things up, our manager would like to \nsay a few words!"
-    },
-    {
-      "name": "Manager",
-      "text": "...Everyone, thank you very much for \ncoming today. In these times where trends \nshift with dizzying speed, our \nestablishment is undoubtedly 'outdated'."
-    },
-    {
-      "name": "Manager",
-      "text": "However, we firmly believe. Even as eras \nchange, the human heart remains unchanged."
-    },
-    {
-      "name": "Manager",
-      "text": "When it comes to what captivates and \nflutters one's heart, whether something is \nnew or old is irrelevant. What truly \nmatters is—"
-    },
-    {
-      "name": "Manager",
-      "text": "That it is an 'authentic masterpiece', \ncrafted and polished with relentless \ndedication."
-    },
-    {
-      "name": "Manager",
-      "text": "Believing this, we decided to present our \nhospitality in this manner today."
+      "name": "Monologue",
+      "text": "And so, the Be a Noble for a Day\nexperience\ncomes to an end."
     },
     {
       "name": "Maruzensky",
-      "text": "...Believing in what makes our hearts \nflutter, and desperately keeping that \npassion alive—"
+      "text": "And that's the last of it! I'll let the\nmanager do the\nclosing honors!"
+    },
+    {
+      "name": "Manager",
+      "text": "I would like to thank everyone for\ncoming. In\ntoday's landscape of\never-changing trends, our\nresort could\nappear outdated to some."
+    },
+    {
+      "name": "Manager",
+      "text": "But I firmly believe that while the times\nmay\nchange, people's hearts are\nunchanging."
+    },
+    {
+      "name": "Manager",
+      "text": "What captures the heart is neither\ninnovation nor\nnostalgia. The important\nthing is..."
+    },
+    {
+      "name": "Manager",
+      "text": "Authenticity. It's about staying true to\nyourself\nand honing your strengths."
+    },
+    {
+      "name": "Manager",
+      "text": "That is what drives us to provide our\nvision of\nquality service."
     },
     {
       "name": "Maruzensky",
-      "text": "If you were able to feel the passionate \nand proud spirit of our staff throughout \nthis day, I couldn't be happier."
+      "text": "Believing in your heart, and striving to\nreach out\nwith it..."
     },
     {
-      "name": "All Staff Members",
-      "text": "We eagerly await your visit. We look \nforward to serving you again...!"
+      "name": "Maruzensky",
+      "text": "I hope that today's experience allowed\nyou to\nfeel the great pride and passion\neach member of\nthis hotel's staff holds."
     },
     {
-      "text": "(...Clap, clap, clap, clap!)"
+      "name": "All the Staff",
+      "text": "Thank you for joining us today. We hope\nthat\nyou'll choose us for your next trip!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Clap, clap, clap!</i>"
     },
     {
       "name": "Reporter A",
-      "text": "Man, that was magnificent...! The \nfacility's history and everyone's burning \npassion really got through to us... It \nfeels as though my soul has been cleansed."
+      "text": "I have to say, that was marvelous! The\nstaff's\npassion and the history of this\nplace really shines\nthrough... My heart\nfeels a little lighter, strangely\nenough."
     },
     {
       "name": "Reporter B",
-      "text": "We'll definitely write up a full feature \non this: 'The Revival of a Prestigious \nResort'!",
-      "choice_data_list": [
-        "I'm definitely coming back again!"
-      ]
+      "text": "I have to write a piece on this! I'll call it,\n\"Historic\nHotel Sees a Grand Revival.\""
     },
     {
       "name": "Manager",
-      "text": "!! Ah, ...!"
+      "text": "Oh! Th-thank you so much!"
     },
     {
-      "text": "While getting ready to leave, I saw \nMaruzensky standing by the beach."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Phew, the sea breeze feels wonderful...! I \ntruly love this ocean so much."
+      "name": "Monologue",
+      "text": "I'm readying myself to go home when I\nspot\nMaruzensky down by the shore."
     },
     {
       "name": "Maruzensky",
-      "text": "It's calm, it's vast, and besides— it \nsomehow looks extraordinarily sparkling \ntoday."
+      "text": "Whew... the breeze feels wonderful! I\ncan never\nget enough of this beach."
     },
     {
       "name": "Maruzensky",
-      "text": "I will always believe in what makes my \nheart skip a beat. Even if it's old, even \nif it's outdated."
+      "text": "The shoreline is long. It's tranquil... And\ntoday, it\nsomehow looks more radiant\nthan usual."
     },
     {
       "name": "Maruzensky",
-      "text": "I've gotta cherish my own definition of \n'trendy' even more from now on, too♪"
+      "text": "I'll trust in my heart when it beats with\n\nexcitement. However old or outdated\nthe reason\nmay be."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "What matters most to me is what's\ntrendy! Don't\nyou think? ♪"
     }
   ]
 }

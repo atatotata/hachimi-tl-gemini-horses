@@ -3,26 +3,19 @@
   "text_block_list": [
     {
       "name": "Smart Falcon",
-      "text": "\"...Uuuugh. Trainer, can I take a little \nbreak?\"",
-      "choice_data_list": [
-        "Are you still feeling tired?",
-        "Are you still feeling tired?"
-      ]
+      "text": "<i>...Groan.</i> Trainer, can we take a break?"
     },
     {
       "name": "Smart Falcon",
-      "text": "No, I'm just running on a little less \nsleep than usual. I was up late writing \nthe comments for the flyers.",
-      "choice_data_list": []
+      "text": "Well, I maybe didn't get enough sleep. I\nwas up\nlate writing messages on all my\nflyers."
     },
     {
       "name": "Smart Falcon",
-      "text": "Isn't a hard-working Falco cute too? \n*yaaawn*... Well then, good night...",
-      "choice_data_list": []
+      "text": "But aren't I just the cutest when I'm\nworking so\nhard? <i>Yaaawn...</i> Anyway,\ngood night..."
     },
     {
-      "name": "Narrator",
-      "text": "Her dedication was admirable, but it \nseemed Smart Falcon wasn't getting proper \nrest...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I appreciate her passion, but it seems\nlike Smart\nFalcon isn't resting properly."
     }
   ]
 }

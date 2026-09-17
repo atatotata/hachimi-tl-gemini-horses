@@ -2,391 +2,284 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One evening, while walking through the \nshopping district with Grass Wonder—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One evening, while I'm walking through\nthe\nshopping district with Grass\nWonder..."
     },
     {
       "name": "Grass Wonder",
-      "text": "\"It's quite lively over there. Did \nsomething happen?\"",
-      "choice_data_list": []
+      "text": "Look at that lively crowd. Is there an\nevent taking\nplace?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
       "name": "Grass Wonder",
-      "text": "I see, so it's the lottery raffle~",
-      "choice_data_list": []
+      "text": "I see... It's a raffle."
     },
     {
       "name": "Grass Wonder",
-      "text": "\"Come to think of it... Did you know, \nTrainer?\"",
-      "choice_data_list": []
+      "text": "Which reminds me... Were you aware,\nTrainer?"
     },
     {
       "name": "Grass Wonder",
-      "text": "I hear lotteries originally began as \nentertainment devised by the nobility in \nancient times.",
-      "choice_data_list": []
+      "text": "It's said that raffles were originally\nconceived by\nthe nobility long ago as a\nway to entertain\nthemselves."
     },
     {
       "name": "Grass Wonder",
-      "text": "\"Apparently, people would draw paper \nstrips with writing on them and receive \nprizes such as cloth and thread.\"",
-      "choice_data_list": []
+      "text": "They would have people draw strips of\npaper with\nletters on them and give out\nprizes like cloth and\nstring."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Oh, you sure know your stuff, missy! Care \nto give it a try if you've got time?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Indeed. We just so happen to have lottery \ntickets, too...♪",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Aren't you well-informed! How about\ngiving it a\ngo?"
     },
     {
       "name": "Grass Wonder",
-      "text": "Trainer, would it be alright if I gave it \njust one spin?",
-      "choice_data_list": [
-        "We're aiming for the grand prize!",
-        "We're aiming for the grand prize!"
-      ]
+      "text": "Well, why not? I just happen to have a\nraffle\nticket right here. ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "Fufu, I'll do my best to meet your \nexpectations.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Grass Wonder firmly holds the lever with \nboth hands and turns the raffle wheel.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Trainer, you wouldn't mind if I try just\nonce,\nwould you?"
     },
     {
       "name": "Grass Wonder",
-      "text": "Huh? R-Really?",
-      "choice_data_list": []
+      "text": "Hehe. I'll do my best to not let you\ndown."
+    },
+    {
+      "name": "Monologue",
+      "text": "Grass Wonder firmly grasps the lever\nwith both\nhands and gives the raffle\nmachine a spin."
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Grass Wonder",
-      "text": "That poses a bit of a problem, though. A \ntrip sounds lovely, but I can't just leave \nright away—",
-      "choice_data_list": [
-        "Is it tough to make time for it?",
-        "Is it tough to make time for it?"
-      ]
+      "text": "What? R-really?"
     },
     {
       "name": "Grass Wonder",
-      "text": "...Indeed.",
-      "choice_data_list": []
+      "text": "I'm overjoyed, truly, but I'm afraid I\ndon't have\nthe time for a vacation at the\nmoment."
     },
     {
       "name": "Grass Wonder",
-      "text": "“Still, once everything has settled down, \nspending some time looking back on the \nroad we've walked won't be so bad.”",
-      "choice_data_list": [
-        "You mean after the Twinkle Series?"
-      ]
+      "text": "Not right now, I'm afraid."
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes. Whether the path I ran with an \nunyielding spirit of \"No Retreat\" was \ntruly satisfying or not—",
-      "choice_data_list": []
+      "text": "But I suppose once things settle down, I\ncould use\nthis as an opportunity to\nreflect on the path I'll\nhave traveled thus\nfar."
     },
     {
       "name": "Grass Wonder",
-      "text": "I think this will be a good opportunity to \nlook back on the path we've walked so far.",
-      "choice_data_list": []
+      "text": "Yes. That way, I'll be able to ascertain\nmy level of\nsatisfaction with the path I've\ntaken."
     },
     {
       "name": "Grass Wonder",
-      "text": "So... Trainer, would you please come with \nme when that time comes?",
-      "choice_data_list": [
-        "Is it okay for me to tag along on the trip \ntoo?",
-        "Can I come along on the trip too?"
-      ]
+      "text": "It would be the perfect time to take a\nstep back\nand reflect on my progress."
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes♪",
-      "choice_data_list": []
+      "text": "Would you come along with me too,\nTrainer?"
     },
     {
       "name": "Grass Wonder",
-      "text": "I don't want anyone else. It has to be the \nTrainer who walked this path with me.",
-      "choice_data_list": []
+      "text": "Yes. ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "Give me a promise, Trainer. If you do, I \nknow I can try even harder.",
-      "choice_data_list": [
-        "Got it, I'm looking forward to it",
-        "Got it, I'm looking forward to it!"
-      ]
+      "text": "You're the one who has been with me\nevery step\nof the way."
     },
     {
       "name": "Grass Wonder",
-      "text": "...Thank you very much. I will continue \npushing forward in preparation for the \ntime to come.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Nodding to her as she stood with firm \nresolve, I agreed to hold onto the hot \nsprings vacation ticket for her.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Make it a promise, Trainer. It would\nstrengthen\nmy motivation."
     },
     {
       "name": "Grass Wonder",
-      "text": "My, that looks delicious~♪",
-      "choice_data_list": []
+      "text": "Thank you. I'll commit myself to training\nin\npreparation for that day."
+    },
+    {
+      "name": "Monologue",
+      "text": "I take the hot spring ticket from her with\nan\naffirmative nod."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Grass Wonder",
-      "text": "If we pour Japanese-style grated radish \nsauce over it, it's bound to taste \nabsolutely exquisite.",
-      "choice_data_list": [
-        "Then should I buy some sauce on the way \nhome?",
-        "Then should I pick up some sauce on the \nway home?"
-      ]
+      "text": "My, that looks delicious. ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "Hmm... Since we're at it, I'd like to buy \na daikon radish and make the sauce from \nscratch too.",
-      "choice_data_list": []
+      "text": "Add some grated Japanese radish sauce\nand I'm\nsure it'll taste absolutely\nspectacular."
     },
     {
       "name": "Grass Wonder",
-      "text": "Excuse me, would you mind if we stopped by \nthe greengrocer's?",
-      "choice_data_list": [
-        "Yeah, sounds good.",
-        "Yeah, sure."
-      ]
-    },
-    {
-      "name": "",
-      "text": "Handmade sauce. It must be delicious... \nJust as I thought that, my stomach let out \na growl.",
-      "choice_data_list": []
+      "text": "Hmm... I think I would rather buy the\nradishes and\nmake the sauce myself."
     },
     {
       "name": "Grass Wonder",
-      "text": "Fufu. It's almost dinner time, after all~.",
-      "choice_data_list": []
+      "text": "So, could we visit the greengrocer\ninstead?"
+    },
+    {
+      "name": "Monologue",
+      "text": "The idea of making homemade sauce\nsounds so\ngood that my stomach starts\ngrumbling."
     },
     {
       "name": "Grass Wonder",
-      "text": "Trainer, would it be alright if I came by \nlater to share some with you?",
-      "choice_data_list": [
-        "...Are you sure?",
-        "...Are you sure?"
-      ]
+      "text": "Hehe. It's almost dinnertime, after all."
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes♪ They say food always tastes better \nshared between two people rather than \neaten alone~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Taking advantage of Grass Wonder's \nkindness, I was treated to a share of her \nspecial deluxe carrot hamburg steak.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Trainer, would you like to share it with\nme?"
     },
     {
       "name": "Grass Wonder",
-      "text": "\"This is... certainly a portion worthy of \nbeing called 'heaping'~.\"",
-      "choice_data_list": []
+      "text": "Yes. ♪ Food is always more enjoyable\nwith\ncompany."
+    },
+    {
+      "name": "Monologue",
+      "text": "I take Grass Wonder up on her offer and\neat some\nof the deluxe carrot hamburger\nsteak with her."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Grass Wonder",
-      "text": "Would you like a few skewers as well, \nTrainer? ♪",
-      "choice_data_list": [
-        "Are you sure?",
-        "Are you sure?"
-      ]
+      "text": "Lucky indeed... This certainly is a lot of\ncarrots."
     },
     {
       "name": "Grass Wonder",
-      "text": "Of course. And then there's Spe-chan, El, \nSei-chan—",
-      "choice_data_list": []
+      "text": "Trainer, would you like a few of them? ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "Maybe I should give some to Tazuna-san \ntoo, as thanks for everything she always \ndoes~?",
-      "choice_data_list": [
-        "Are you sure it's okay to hand out that \nmany?",
-        "Are you sure it's okay to hand out that \nmany?"
-      ]
+      "text": "Of course. I'll also give some to Spe and\nEl."
     },
     {
       "name": "Grass Wonder",
-      "text": "\"Yes. If I had this entire amount to \nmyself, I'd end up eating way too much, \nso—\"",
-      "choice_data_list": []
+      "text": "And, since she does so much for me,\nperhaps\nTazuna, too."
     },
     {
       "name": "Grass Wonder",
-      "text": "\"As a reminder to myself, I thought I'd \nshare some with everyone too♪\"",
-      "choice_data_list": [
-        "Impressive, as always.",
-        "Impressive, as always."
-      ]
+      "text": "Well, yes. But hoarding them all to\nmyself would\npresent a risk of\novereating."
     },
     {
       "name": "Grass Wonder",
-      "text": "Fierce battles will continue from here on, \nso we must keep our condition in perfect \nshape.",
-      "choice_data_list": []
+      "text": "Sharing them is my best method of\nself-control. ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "...Ah, don't worry. I'll make sure to \nsecure my own portion♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Admiring Grass Wonder's mindset, the two \nof us headed on our way home.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Competition will be fierce for the\nforeseeable\nfuture, so maintaining a\nperfect condition is key."
     },
     {
       "name": "Grass Wonder",
-      "text": "Hmm, I wish we could have aimed a bit \nhigher if possible.",
-      "choice_data_list": []
+      "text": "Oh, but don't worry. I won't neglect to\nkeep a\nportion for myself, either! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "Impressed by her self-discipline, I return\nto the\nacademy with Grass Wonder."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Grass Wonder",
-      "text": "Still, that worked out just perfectly♪",
-      "choice_data_list": []
+      "text": "Hmm... I set my hopes too high, it seems."
     },
     {
       "name": "Grass Wonder",
-      "text": "I forgot to buy carrots for the salad, so \nthis is a total lifesaver~.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "I see, I see! Maybe that carrot was \ncalling out to you, little miss!",
-      "choice_data_list": []
+      "text": "Then again, this might be just what I\nneeded."
     },
     {
       "name": "Grass Wonder",
-      "text": "I see. I suppose this is a kind of fate as \nwell.",
-      "choice_data_list": []
+      "text": "I forgot to purchase carrots for tonight's\nsalad at\nthe supermarket earlier today,\nso the timing\ncouldn't be better."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "True, true. You might've been wishing\nfor a carrot\nthe whole time, and you just\ndidn't know it!"
     },
     {
       "name": "Grass Wonder",
-      "text": "This outcome might have ended up being a \nlucky strike for me too~.",
-      "choice_data_list": [
-        "Lucky you, Grass.",
-        "Lucky you, huh, Grass."
-      ]
+      "text": "So, you mean... fate may have had a\nhand in this,\ntoo?"
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes♪ Today's salad is going to taste even \nmore delicious than usual~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I headed home alongside a very \nhappy-looking Grass Wonder.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "In that case, this could very well be <i>my</i>\n\ngrand-prize."
     },
     {
       "name": "Grass Wonder",
-      "text": "It's unfortunate. I was hoping we might \ntake home an award of some kind.",
-      "choice_data_list": []
+      "text": "It really did. ♪ Tonight's salad is going\nto taste\nthat much better."
+    },
+    {
+      "name": "Monologue",
+      "text": "Grass Wonder gains some hop in her\nstep as we\nhead back to the academy."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Grass Wonder",
-      "text": "It's really hard to win anything in a \nlottery, isn't it...?",
-      "choice_data_list": [
-        "Have you not drawn much from raffles \nbefore?"
-      ]
+      "text": "Well, this is disappointing. I had hoped\nfor an\nactual prize of some sort."
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes. I had never done a lottery raffle \nbefore coming to Japan.",
-      "choice_data_list": []
+      "text": "Winning raffles must be quite the rare\noccurrence."
     },
     {
       "name": "Grass Wonder",
-      "text": "Before drawing, I thought just spinning \nthe wheel would be fun enough, but—",
-      "choice_data_list": []
+      "text": "I haven't. I never had the opportunity\nbefore\ncoming to Japan, you see."
     },
     {
       "name": "Grass Wonder",
-      "text": "Missing out in reality is... quite \nfrustrating, isn't it...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Well, don't let this discourage you; give \nit another shot if you ever get the \nchance.",
-      "choice_data_list": []
+      "text": "Before I tried, I thought it would be\nenough fun\njust to spin the tumbler,\nbut..."
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes...",
-      "choice_data_list": []
+      "text": "Losing stings a lot more than I\nexpected..."
     },
     {
-      "name": "",
-      "text": "With Grass Wonder's shoulders slumped in \ndisappointment, we began our journey back.",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Hey, don't get so down on yourself.\nBetter luck\nnext time."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "If you say so..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Grass Wonder's shoulders sink as we\nhead back."
     }
   ]
 }

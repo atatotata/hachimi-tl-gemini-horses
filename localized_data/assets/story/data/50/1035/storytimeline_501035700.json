@@ -2,42 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "After the break, I exchanged greetings \nwith Winning Ticket in the central plaza, \nbut...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After her day off, I greet Winning Ticket\nin the\ncentral plaza..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Fwaaaaaahhh~~~... Trainer-san, good \nmorniiing~...",
-      "choice_data_list": [
-        "You look sleepy, what were you doing \nyesterday?",
-        "You look sleepy, what were you doing \nyesterday?"
-      ]
+      "text": "<i>Yawn...</i> Oh, hey, Trainer... good\nmorning..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Well, you see, I wanted to spend my day \noff to the fullest. There were sooooo many \nthings I wanted to do, so—",
-      "choice_data_list": []
+      "text": "Well, I enjoyed my day off as much as I\ncould.\nAnd I had looots of things I\nwanted to do..."
     },
     {
       "name": "Winning Ticket",
-      "text": "We spent the whole day doing \neee-ve-ry-thing! Manga, movies, food, and \ncycling!",
-      "choice_data_list": []
+      "text": "So I did all those things in a single day!\nReading\nmanga, watching movies, eating\ntasty food, going\ncycling—everything!"
     },
     {
       "name": "Winning Ticket",
-      "text": "It was so much fun. But... after that—",
-      "choice_data_list": []
+      "text": "It was sooo much fun. But then..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Before I knew it, it was already \nmorning... Huaaaahhh...",
-      "choice_data_list": []
+      "text": "Before I knew it, it was morning again...\n<i>Yawn...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "It seems Winning Ticket went all out even \non her day off, and ended up \nsleep-deprived...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It looks like Ticket really enjoyed her\ntime off—so\nmuch that she didn't get a\nsingle wink of sleep."
     }
   ]
 }

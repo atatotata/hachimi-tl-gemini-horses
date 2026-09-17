@@ -2,418 +2,304 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On the way back from stopping by the \nshopping district with Mejiro Ardan to \nrestock training supplies—",
-      "choice_data_list": [
-        "Thanks for keeping me company while \nshopping."
-      ]
+      "name": "Monologue",
+      "text": "After picking up some training supplies\nat the\nshopping district, Mejiro Ardan\nand I are on our\nway back."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "No. These are all things I'll be using, \nand you're busy as well, Trainer, so I'm \nhappy to help out like this.",
-      "choice_data_list": []
+      "text": "Not at all. These are all things I use\nregularly\nduring training, and besides,\nI'm sure you're very\nbusy, so it's my\npleasure to be of assistance."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Oh? Is that—",
-      "choice_data_list": []
+      "text": "...Oh? Isn't that..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh my, a lottery raffle...!",
-      "choice_data_list": []
+      "text": "Oh my, a raffle!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "It has been quite a while since I last saw \none in action...! That lottery wheel has \nsuch charming character, too.",
-      "choice_data_list": []
+      "text": "It's been such a long time since I last saw\none!\nAnd it's quite an old-school raffle\nmachine, isn't\nit?"
     },
     {
-      "name": "Narrator",
-      "text": "I suddenly remember that the training gear \nI just bought came with a single lottery \nticket.",
-      "choice_data_list": [
-        "Wanna try the raffle?"
-      ]
+      "name": "Monologue",
+      "text": "I suddenly remember that we received a\n\ncomplimentary raffle ticket when I\npurchased the\ntraining supplies earlier."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Huh—",
-      "choice_data_list": []
+      "text": "R-really?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "\"However, wasn't that acquired with your \nown shopping, Trainer?\"",
-      "choice_data_list": [
-        "Today's shopping is for Aldan as well."
-      ]
+      "text": "But the ticket came with something that\n<i>you</i>\nbought."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "――――",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Fufu. If you say so, I'd gladly take \nyou up on that offer and give it a try.",
-      "choice_data_list": []
+      "text": "...Hehe. Well, when you put it that way, I\nfind\nmyself quite tempted to see\nwhether I can win."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Hey there, miss. Care to give it a try?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Yes. I look forward to working with you.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Mejiro Ardan eagerly turned the lottery \nwheel's handle!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Greetings, young lady! Care to try your\nluck?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "――――",
-      "choice_data_list": [
-        "Nice going, Ardan!",
-        "You did it, Ardan!"
-      ]
+      "text": "Yes please, I'd like to have a go."
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro Ardan gives the raffle machine a\npowerful\nspin!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Um... so... are 'Grand Prizes' something \nthat comes up a lot?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "\"No, no, missy, what are you saying?! The \n'Grand Prize' is only the 'Grand Prize' \nprecisely because it rarely ever comes \nout!\"",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "You're right. I apologize. I was so \nsurprised, my mind just... went blank—",
-      "choice_data_list": []
+      "text": "Um... Are the grand prizes won quite\nfrequently?"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Not at all, young lady! The grand prize is\ncalled\nthe grand prize precisely <i>because</i>\nof its rarity!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Still... Is it really all right for me to \ndraw the \"Special Grand Prize\"...?",
-      "choice_data_list": [
-        "Must be good karma from your everyday \nactions.",
-        "It's probably good karma from how well you \nbehave every day."
-      ]
+      "text": "Oh yes, of course. My apologies, I was\nsimply so\nstunned that I..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "If that's the case... I am honored, yet \ntruly humbled.",
-      "choice_data_list": []
+      "text": "Even so... is it really all right for me to\naccept the\ngrand prize?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Given that I have strove to etch myself \ninto the 'now' with the spirit of defying \ndestiny... I never imagined I would \nreceive such a blessing.",
-      "choice_data_list": []
+      "text": "In that case... I'm equally honored and\nthankful."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "—Trainer, you mentioned earlier that I \ndrew the ticket myself, but originally, it \nwas still your raffle ticket.",
-      "choice_data_list": []
+      "text": "Considering that I've been defying fate\nitself in\nan effort to leave my mark on\nthe present... I\nnever expected to\nreceive such a blessing."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "So, could you... hold onto this ticket for \nme, Trainer?",
-      "choice_data_list": [
-        "I don't mind, but this belongs to Aldan.",
-        "I don't mind, but this is Aldan's."
-      ]
+      "text": "Your phrasing earlier implied that this\nwin was my\ndoing, Trainer, but the raffle\nticket was yours to\nbegin with."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I was the one who drew the prize with your \nticket, Trainer. Therefore, I was thinking \nwe should discuss how to use it \ntogether...",
-      "choice_data_list": []
+      "text": "As such, this coupon... should be left in\nyour\nhands, don't you think?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Besides, the \"me\" of today is dedicating \neverything to racing. Sparing the time and \nfocus for a trip would be rather \ndifficult.",
-      "choice_data_list": [
-        "If that's the case, all right."
-      ]
+      "text": "Well, since I won the grand prize using\nyour raffle\nticket, Trainer, I was thinking\nthat it might be\nbest if the two of us\ndiscussed how best to use it."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Thank you.",
-      "choice_data_list": []
+      "text": "In this moment, I'm pinning absolutely\neverything\non racing. I expect I'd\nstruggle to spare the time\nand mental\nspace needed to enjoy a vacation."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "When the right time comes... let's discuss \nhow we should use this travel voucher, \nokay?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Thank you."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "First prize...!? To get this from a random \nlottery draw, something like this is—",
-      "choice_data_list": [
-        "Nice going, Ardan!",
-        "You did it, Ardan!"
-      ]
+      "text": "When the time is suitable... let us discuss\nhow\nbest to utilize this travel coupon."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Yes.",
-      "choice_data_list": []
+      "text": "The first prize?! To think that I'd have\nsuch luck\nplaying a raffle on a whim..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "—Still, look at the sheer size of it. And \nit's not merely massive, but a masterwork \nshowing such meticulous craftsmanship...",
-      "choice_data_list": []
+      "text": "...Yes."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I'm really torn on how to eat this.",
-      "choice_data_list": [
-        "I bet it'll be super delicious.",
-        "I'm sure it'll be delicious."
-      ]
+      "text": "All things considered, though, this is a\nvery\ngenerous serving. And it's not\nsimply an enormous\nportion either—it's\nbeen cooked to perfection as\nwell..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "――――",
-      "choice_data_list": []
+      "text": "I wonder how one might best savor this\ndish."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Trainer. These Salisbury steaks... If \nyou'd like, would you want to eat together \nafter this?",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "text": "..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "When you think about it, those lottery \ntickets came from your shopping, Trainer. \nAnd yet you let me draw them...",
-      "choice_data_list": []
+      "text": "Trainer... would you like to partake of\nthis\nhamburger steak with me later?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "So to speak, this is a prize that the two \nof us won together. Therefore, it only \nstands to reason that we eat it together.",
-      "choice_data_list": [
-        "If that's the case, maybe I'll join you."
-      ]
+      "text": "Well, this all started with the raffle\nticket you\nreceived with your shopping. I\nmerely used the\nticket."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Yes. By all means.",
-      "choice_data_list": []
+      "text": "One could say that we earned this prize\n<i>together,</i>\nso it follows that we should\nalso enjoy it\ntogether..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Now that that is decided, shall we buy the \ningredients for the sauce and side dishes \nhere before heading back?",
-      "choice_data_list": []
+      "text": "Yes, I insist."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Since this is such an exquisite delicacy, \nlet us enjoy it in the absolute finest way \npossible right now.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward, Mejiro Ardan and I thoroughly \nrelished the deluxe carrot hamburg \nsteak...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "With that decided, let's purchase some\nsauce and\ngarnishes on our way back."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "We did it...!",
-      "choice_data_list": []
+      "text": "This meal's going to be a special treat,\nso I'd very\nmuch like to <i>present</i> it as\nnicely as possible."
+    },
+    {
+      "name": "Monologue",
+      "text": "Later on, Mejiro Ardan and I enjoy the\n\nmouthwateringly delicious deluxe carrot\n\nhamburger steak together."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Fufu. To be honest, I never expected to \nactually draw a winning prize.",
-      "choice_data_list": []
+      "text": "I did it!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Even so, this amount— While it does make \nme happy, it's far too much for me to \nhandle alone.",
-      "choice_data_list": [
-        "Why not consider sharing some with your \nfriends?"
-      ]
+      "text": "Hehe. Honestly, I never even considered\nthat I\nmight win something."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I see...! That sounds like a very good \nidea.",
-      "choice_data_list": []
+      "text": "Delighted as I am, the sheer number of\ncarrots\nhere is simply overwhelming."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Then, I'll take portions for Trainer who \ngave me the tickets and myself who drew \nthem first, and share the rest with my \nfriends.",
-      "choice_data_list": []
+      "text": "Oh, of course! What a splendid idea."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Shall we cook something with our share of \ncarrots later?",
-      "choice_data_list": []
+      "text": "These carrots here are for you, Trainer,\nsince you\nobtained the ticket. And these\ncarrots are mine,\nas I won the prize. I\nshall give the rest of them to\nmy friends."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Trainer-san, what's the first dish that \ncomes to mind when you think of carrots?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward, while eating the carrot dishes \nMejiro Ardan made, we recharged our energy \nfor tomorrow...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "I'm thinking of making a meal out of our\n\ncombined share of carrots. What do you\nthink?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Fufu, correct.",
-      "choice_data_list": []
+      "text": "Do any recipes that use carrots come to\nmind?"
+    },
+    {
+      "name": "Monologue",
+      "text": "That night, after thoroughly enjoying the\ncarrot\ndish Mejiro Ardan makes, I feel\ngreatly revitalized\nand ready to take on\ntomorrow!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "What a gorgeous carrot. I can tell it was \ngrown with great care. It looks delicious \nenough to eat raw—",
-      "choice_data_list": [
-        "Then, do you want to try eating it now?"
-      ]
+      "text": "Hehe, I won something."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Huh—",
-      "choice_data_list": []
+      "text": "What a lovely carrot. One can tell it was\ngrown\nwith painstaking care and\nattention. In fact, I\nexpect it would taste\nquite wonderful as is..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Isn't this a bit improper?",
-      "choice_data_list": [
-        "It's pretty much just street food, so \ndon't worry about it.",
-        "It's pretty much just street food, so \ndon't worry about it."
-      ]
+      "text": "Oh?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Fufu. Is that how it is? Even so—",
-      "choice_data_list": []
+      "text": "...Wouldn't that be a little uncouth?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I can't deny that I'm interested.",
-      "choice_data_list": []
+      "text": "Hehe. \"A quick snack,\" you say?"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh, right. Since it's a special occasion, \nwould you like to join us, Trainer?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward, Mejiro Ardan and I split a \ncarrot in half and ate it as we walked \nhome.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "...I must admit, that does sound fun."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh. A miss, was it...?",
-      "choice_data_list": [
-        "That was unfortunate...",
-        "That was unfortunate..."
-      ]
+      "text": "Oh, of course. Seeing as one doesn't get\nto see a\ncarrot of this caliber every day,\nwould you like to\nshare it with me?"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, on our way back, Mejiro Ardan\nand I\nenjoy the delicious carrot together."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Fufu. Now that it actually missed... It's \nsurprisingly disheartening.",
-      "choice_data_list": []
+      "text": "Oh... It's a consolation prize..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "It seems a lottery naturally builds up \nthat much anticipation before you even \ndraw. It was a good experience.",
-      "choice_data_list": []
+      "text": "Hehe. Only receiving the consolation\nprize is...\nunexpectedly disheartening."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Thank you for letting me draw. I was \nhoping to win something so I could share \nit with you, Trainer, but—",
-      "choice_data_list": []
+      "text": "I suppose one can't help but feel\nsuddenly\noptimistic as one pulls the\nraffle lever. This has\nbeen a great\nlearning experience."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I'm sorry I couldn't make it take shape.",
-      "choice_data_list": [
-        "Oh, there's no need to apologize."
-      ]
+      "text": "Thank you for allowing me to partake in\nthe\nraffle, Trainer. Considering how rare\nan\nopportunity this was, I was hoping to\nwin\nsomething we might share..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Shall we head back?",
-      "choice_data_list": []
+      "text": "I apologize for having failed to make\nthat a\nreality."
     },
     {
-      "name": "Narrator",
-      "text": "Though she didn't show it overtly in her \nwords or actions, I somehow knew that \nMejiro Ardan was feeling a little down...",
-      "choice_data_list": []
+      "name": "Mejiro Ardan",
+      "text": "...Shall we head back?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Although she doesn't say or show it, I\ncan tell\nMejiro Ardan feels a little\ndejected..."
     }
   ]
 }

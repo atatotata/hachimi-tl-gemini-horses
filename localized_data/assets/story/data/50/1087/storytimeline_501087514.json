@@ -2,238 +2,184 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, hearing a commotion on the stairs \nlanding, I went to check and saw Aston \nMa-chan being dragged along by Sakura \nBakushin O.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I hear some commotion coming\nfrom the\nend of the hallway. Heading to\ninvestigate, I find\nAston Machan taking\norders from Sakura\nBakushin O."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Now, Chan-san! Make sure you keep up with \nyour Class Rep!",
-      "choice_data_list": []
+      "text": "C'mon, Machan! You're with the one and\nonly\nclass representative! You have to\nstick close!"
     },
     {
       "name": "Aston Machan",
-      "text": "Roger that, Ma-chan.",
-      "choice_data_list": [
-        "Wait, wait, what in the world are you \ndoing?",
-        "Wait, wait, what are you doing?"
-      ]
+      "text": "Affir-<i>machan.</i>"
     },
     {
       "name": "Aston Machan",
-      "text": "Oh, Trainer-san. Ma-chan is currently \ntraining to become the class \nrepresentative.",
-      "choice_data_list": []
+      "text": "Oh, Trainer. I'm training to be a class\n\nrepresentative."
     },
     {
       "name": "Aston Machan",
-      "text": "Being the Class Rep is amazing. Since \nthere's only one per class, you stand out \nlike crazy.",
-      "choice_data_list": []
+      "text": "Class representatives are amazing.\nThere's only\none per class, so they stand\nout a ton."
     },
     {
       "name": "Aston Machan",
-      "text": "That is why I apprenticed myself to the \ncurrent Class Rep. I will definitely show \nyou that I can become a splendid Class \nRep!",
-      "choice_data_list": []
+      "text": "That's why I decided to start training\nunder the\ncurrent one. I'm pretty sure I'd\nmake a fantastic\nclass rep."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "\"Leave it to me! This class rep will raise \na splendid apprentice, you'll see!\"",
-      "choice_data_list": []
+      "text": "I've got you covered! I'm about to shape\nyou into\na class rep for the ages!"
     },
     {
-      "name": "",
-      "text": "A mentor and student from different \ngrades... That said, if you want to become \nclass rep, you could just run for it—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Now, here we gooo! Bakushin, BAKUSHIIIN!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Marchin', marchin'~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Worried about what she might start doing, \nI decided to follow her.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A master and her pupil transcending the\n\nboundaries of their school years...\nThough if she\nwants to become a class\nrep, wouldn't it be easier\nto simply stand\nas a candidate?"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oho?! It seems the equipment has been left \nout! Put it back where it belongs once \nyou're done!",
-      "choice_data_list": []
+      "text": "Okay, let's gooo! Bakushin! BAKUSHIIIN!"
     },
     {
       "name": "Aston Machan",
-      "text": "Let's fix it up real quick. That's what a \nClass Rep does, after all, right?",
-      "choice_data_list": []
+      "text": "Mashin, Mashiiin."
+    },
+    {
+      "name": "Monologue",
+      "text": "Concerned about what this training\nmight entail, I\ndecide to tag along."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oh no! It looks like someone left some\ntools out!\nPeople should put things back\nwhen they're\nfinished with them!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Let's put these away lickety-split. That's\nwhat a\nclass representative would do,\nright?"
     },
     {
       "name": "Umamusume A",
-      "text": "—That's right. It seems I dropped it \nsomewhere...",
-      "choice_data_list": []
+      "text": "...That's right. I must have dropped it\n\nsomewhere..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Goodness, you must be in quite a bind! \nLeave it to this Class Representative to \ntake full responsibility and find—",
-      "choice_data_list": []
+      "text": "Oh, that's quite the pickle you're in! As\nclass\nrepresentative, I'll take\nresponsibility and help\nyou look for—"
     },
     {
       "name": "Aston Machan",
-      "text": "Excuse me. Is this the item you lost? \nSomeone turned it in, so I was holding \nonto it. Here you go.",
-      "choice_data_list": []
+      "text": "Excuse me, is this your lost item?\nSomebody\nfound it and handed it to me.\nHere you are."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh, marvelous performance! You're already \ngetting quite natural at this!!",
-      "choice_data_list": []
+      "text": "Wow, you're doing an amazing job!\nYou're taking\nto the role like a natural!"
     },
     {
       "name": "Umamusume B",
-      "text": "S-Somebody, heeeelp meee!!",
-      "choice_data_list": []
+      "text": "S-somebody help me!"
     },
     {
-      "name": "Class Rep Duo",
-      "text": "Your class rep is on her way!",
-      "choice_data_list": []
+      "name": "Class Representatives",
+      "text": "Help is on the way!"
     },
     {
       "name": "Umamusume B",
-      "text": "A crow suddenly attacked me, and... I, \nI...!",
-      "choice_data_list": []
+      "text": "This crow just started attacking me all of\na\nsudden! I didn't know what to do!"
     },
     {
       "name": "Aston Machan",
-      "text": "Apparently, she was fascinated by your \nshiny earrings. I've already told Johannes \nSchwarz not to do it again, though.",
-      "choice_data_list": []
+      "text": "Your shiny earrings must have drawn\nJohannes\nSchwarz's attention. Don't\nworry, I just told him\nnot to bother\nanyone like that again."
     },
     {
       "name": "Umamusume B",
-      "text": "\"Thank you so very much. I won't ever \nforget this kindness, Class Rep!\"",
-      "choice_data_list": []
+      "text": "Thank you so much. I owe you one, class\nrep!"
     },
     {
-      "name": "",
-      "text": "(Yay, *clap clap clap*!)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Clap, clap, clap!</i>"
     },
     {
-      "name": "Watching Umamusume",
-      "text": "As expected of the Class Rep! You're \namazing, Class Rep!",
-      "choice_data_list": []
+      "name": "Onlooking Students",
+      "text": "You're not class rep for nothing, class\nrep!\nThat was amazing, class rep!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Most splendidly done! You can proudly call \nyourself a Class Rep now!",
-      "choice_data_list": []
+      "text": "You're doing a fantastic job! I think\nyou're about\nready to call yourself a\nbona fide class rep!"
     },
     {
       "name": "Aston Machan",
-      "text": "Mhu-. Amazing, Class Rep. You're standing \nout ultra big time. Heh-heh, perfect.",
-      "choice_data_list": [
-        "Good on you for being so helpful.",
-        "Good on you for being so helpful."
-      ]
+      "text": "Ooh, class representatives really are\namazing.\nThey stand out to the ultra\nmax. That's clear to\nme now."
     },
     {
       "name": "Umamusume C",
-      "text": "Yeah, yeah. Thank you, Class Rep. I was so \nsurprised you could talk to crows!",
-      "choice_data_list": []
+      "text": "Yep, yep. Thank you, class rep. I can't\nbelieve\nyou can talk to crows!"
     },
     {
       "name": "Umamusume D",
-      "text": "Class Reps, you guys cleaned under the \nstairs earlier too, right? Thank you!",
-      "choice_data_list": []
+      "text": "You cleaned up under the stairs earlier\ntoo, right?\nThanks so much, class rep!"
     },
     {
       "name": "Aston Machan",
-      "text": "\"...Oh my? What's this... Something feels \noff—\"",
-      "choice_data_list": []
+      "text": "...Oh? What's going on? This feels a\nlittle odd..."
     },
     {
       "name": "Aston Machan",
-      "text": "Ah. If I'm the Class Rep, does that mean \neveryone will just call me 'Class Rep'?",
-      "choice_data_list": []
+      "text": "Wait. When you're the class\nrepresentative, does\neveryone call you\n\"class rep\" all the time?"
     },
     {
       "name": "Aston Machan",
-      "text": "Come to think of it, Ma-chan doesn't recall \nhaving her name called even once for a \nwhile now.",
-      "choice_data_list": []
+      "text": "Now that I think about it, I can't\nremember a\nsingle person calling me by\nmy name today."
     },
     {
       "name": "Aston Machan",
-      "text": "Gah. Oh no, this is a huge miscalculation. \nMa-chan is not being Ma-chan anymore!",
-      "choice_data_list": [
-        "Still, they definitely remember your face \nnow!",
-        "Maybe we should think about a different \ncommittee..."
-      ]
+      "text": "Oh my... What a catastrophic oversight.\nNobody\nsees me as Machan anymore!"
     },
     {
-      "name": "Umamusume Attacked by Crows",
-      "text": "Ah... Um, thank you for earlier. Er—",
-      "choice_data_list": []
+      "name": "Pecked Student",
+      "text": "U-um... Thank you for earlier. Um..."
     },
     {
       "name": "Aston Machan",
-      "text": "Ugh... *sniff*. Ma-chan. Aston Machan.",
-      "choice_data_list": []
+      "text": "<i>Sniffle...</i> Machan. Aston Machan."
     },
     {
-      "name": "Umamusume Attacked by Crows",
-      "text": "I see, thank you, Ma-chan. I won't forget \nhow you helped me...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Ah! ...Yes. ...Ehehe, it's a promise.",
-      "choice_data_list": []
+      "name": "Pecked Student",
+      "text": "I see. Thank you, Machan. I'll never\nforget how\nyou saved me."
     },
     {
       "name": "Aston Machan",
-      "text": "Trainer. I think Chan-me will pass on \nbeing class representative after all. \nHowever—",
-      "choice_data_list": []
+      "text": "Oh! Good. I hope you'll keep your word.\nHehe."
     },
     {
       "name": "Aston Machan",
-      "text": "Maybe I could keep helping people out... \njust a teeny bit. Just a teeny bit.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Aston Machan says with a hint of joy. It \nseemed she had gained something beyond \njust being remembered.",
-      "choice_data_list": []
+      "text": "Trainer, I think I'm going to move on\nfrom this\nclass representative business\nafter all. But still..."
     },
     {
       "name": "Aston Machan",
-      "text": "Hmm... Other committees, you say...",
-      "choice_data_list": []
+      "text": "I think it might be nice to keep helping\npeople\nout sometimes. Just every now\nand then."
     },
     {
-      "name": "",
-      "text": "The next morning, in front of the school \ngate—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Aston Machan wears a subtle smile as\nshe speaks.\nIt seems like she's gotten\nsomething out of\nthis—besides being\nremembered."
     },
     {
       "name": "Aston Machan",
-      "text": "Hello. I'm Aston Machan. Call me Ma-chan, \nokay?",
-      "choice_data_list": []
+      "text": "Hm... Another committee..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The next morning, at the academy\nentrance..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hello. I'm Aston Machan. Please call me\nMachan."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Your voice carries well, sir! But I'd \nappreciate it if your morning greeting was \n\"Good morning\"!",
-      "choice_data_list": []
+      "text": "That's a nice, clear voice you've got! But\nfor the\nmorning greeting, just a simple\n\"good morning\"\nwould be enough!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Also, no need to give your name or \nanything!",
-      "choice_data_list": []
+      "text": "Oh, and you don't have to tell everyone\nyour\nname either!"
     },
     {
-      "name": "",
-      "text": "Apparently, she's now striving in a \ngreeting campaign as an apprentice to the \nDisciplinary Committee. I watched with a \nsmile as she gave it her best.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Apparently, Aston Machan is now in\ntraining as a\nmember of the disciplinary\ncommittee. I smile as I\nwatch her doing\nher best to master the morning\ngreeting."
     }
   ]
 }

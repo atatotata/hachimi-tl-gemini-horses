@@ -3,113 +3,83 @@
   "text_block_list": [
     {
       "name": "Narita Brian",
-      "text": "Ouch...!",
-      "choice_data_list": []
+      "text": "Ouch!"
     },
     {
       "name": "Narita Brian",
-      "text": "I messed up, didn't I... Did I twist my \nleg...?",
-      "choice_data_list": []
+      "text": "I screwed up... I think I twisted my\nankle..."
     },
     {
-      "name": "Narrator",
-      "text": "Checking the swollen area, it feels hotter \nthan expected. It might be best to proceed \nwith caution.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Don't overthink things. I can run. Just \nbelieve in that.",
-      "choice_data_list": [
-        "Let's take it easy and rest for a bit.",
-        "I'll do my best to patch you up!"
-      ]
+      "name": "Monologue",
+      "text": "I check the swollen area and find it\nhotter than\nexpected. This may warrant\nextra caution."
     },
     {
       "name": "Narita Brian",
-      "text": "\"A while\"...? Hey, how long is that \nsupposed to be?",
-      "choice_data_list": [
-        "Until the swelling goes down..."
-      ]
+      "text": "...Don't get any ideas! I can still run.\nBelieve me."
     },
     {
       "name": "Narita Brian",
-      "text": "We don't have time to be talking so \nleisurely. Just hurry up and—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "I told her we'd be in trouble if she \ndeveloped bad habits in her running form \nfrom trying to protect the injury.",
-      "choice_data_list": []
+      "text": "For a <i>while...</i> Hey, how long is that?!"
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Tch, fine, got it. You got a point \nthere, too.\"",
-      "choice_data_list": []
+      "text": "We don't have that kind of time. It's\nfine, so let's\njust hurry up and—"
+    },
+    {
+      "name": "Monologue",
+      "text": "I explain that running while trying to\nbear the\npain may lead to unwanted\nchanges in her running\nform."
     },
     {
       "name": "Narita Brian",
-      "text": "For now, I'll hold it in...",
-      "choice_data_list": []
+      "text": "...Tch! Fine. You have a point."
     },
     {
       "name": "Narita Brian",
-      "text": "Yeah, please.",
-      "choice_data_list": []
+      "text": "I'll hold off for now..."
     },
     {
       "name": "Narita Brian",
-      "text": "Gh... !?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "The moment I went to treat the injury, \nNarita Brian scowled.",
-      "choice_data_list": [
-        "Let's rest today after all."
-      ]
+      "text": "Okay, thanks."
     },
     {
       "name": "Narita Brian",
-      "text": "Hey, this is nothing... nggh...",
-      "choice_data_list": []
+      "text": "Agh!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian grimaces the moment I start\npatching\nher up."
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Tch, fine, got it. That's the best \ncall to make, right?\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Even after agreeing to take a rest and \nleaving the infirmary, Narita Brian still \nlooked gloomy...",
-      "choice_data_list": []
+      "text": "Hey, this is noth—ouch!"
     },
     {
       "name": "Narita Brian",
-      "text": "Alright, then I leave it to you. As soon \nas first aid is complete, I wish to resume \nimmediately.",
-      "choice_data_list": [
-        "I won't let you do anything reckless.",
-        "I won't let you do anything reckless."
-      ]
+      "text": "...Tch! Fine. If that's what you think is\nbest."
+    },
+    {
+      "name": "Monologue",
+      "text": "Forced to take a break, Narita Brian\ndoesn't look\nhappy when she leaves the\ninfirmary."
     },
     {
       "name": "Narita Brian",
-      "text": "Hmph, unreasonable? Hardly. You're a \nTrainer, aren't you?",
-      "choice_data_list": []
+      "text": "All right, thanks. I want to get back to\ntraining as\nsoon as you're done wrapping\nme up."
     },
     {
       "name": "Narita Brian",
-      "text": "I know you're knowledgeable about taping \nand icing. And that you treat things \nproperly, too.",
-      "choice_data_list": []
+      "text": "Hmph, overdo it? You're a trainer, aren't\nyou?"
     },
     {
       "name": "Narita Brian",
-      "text": "...Hey, you're slacking off. Take this \nseriously.",
-      "choice_data_list": []
+      "text": "Whatever happens, you know how to\nbandage\nand apply ice. And I know\nyou'll take care of me\nproperly."
     },
     {
-      "name": "Narrator",
-      "text": "Thanks to proper treatment, Narita Brian \nwas able to overcome her injury.",
-      "choice_data_list": []
+      "name": "Narita Brian",
+      "text": "...Hey, what's with the grin? Just take\ncare of it."
+    },
+    {
+      "name": "Monologue",
+      "text": "The treatment is effective and Narita\nBrian\novercomes her injury."
     }
   ]
 }

@@ -2,95 +2,92 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "—After the race, on my way back to the \nwaiting room, I ran into a reporter."
+      "name": "Monologue",
+      "text": "On my way back to the waiting room\nafter the\nrace, a reporter corners me."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Thank you for your time. I'm Otonashi \nEtsuko from Twinkle Monthly."
+      "name": "Reporter Otonashi",
+      "text": "Thank you for taking the time to speak\nwith me.\nI'm Etsuko Otonashi from\n<i>Twinkle Monthly</i>."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "… I watched the race. First of all, thank \nyou very much for your hard work."
+      "name": "Reporter Otonashi",
+      "text": "I had the pleasure of watching the race\nfirsthand,\nand I'd just like to commend\nyou on all your hard\nwork."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Although she did not take first place, I \nthink her unique personality came out in \nthis race."
+      "name": "Reporter Otonashi",
+      "text": "It's a shame she didn't get first place,\nbut your\ntrainee really put her unique\npersonality on full\ndisplay with her\nperformance."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "… Well, trainer. How are you planning to \nadjust next race?",
-      "choice_data_list": [
-        "I will seriously reflect on this result.",
-        "We'll keep pushing forward!"
-      ]
+      "name": "Reporter Otonashi",
+      "text": "So, Trainer, how do you intend to steer\nyour ship\nback on course?"
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "I see, I see…"
+      "name": "Reporter Otonashi",
+      "text": "How interesting..."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Adjusts training based on result. \nPersonally contacts chairwoman about \ndeficiencies, doing everything for the \nsake of Uma Musume…"
+      "name": "Reporter Otonashi",
+      "text": "More flexible regimen, confer with the\ndirector\nabout anything the academy\nlacks... All for the\nsake of the\nUmamusume."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "While accepting the results, they are \nlooking to the future. That's the kind of \ntrainer you'd expect at Tracen!"
+      "name": "Reporter Otonashi",
+      "text": "Taking your results in stride while\nlooking ahead\nto your next race—just\nwhat I'd expect from a\nTracen trainer!"
     },
     {
-      "text": "Looks like I handled that well!"
+      "name": "Monologue",
+      "text": "Looks like I handled that pretty well!"
     },
     {
-      "text": "I told <chrname> after the race that the interview \nhad been a success and thanked her for her \nefforts."
+      "name": "Monologue",
+      "text": "I then tell <chrname> about\nthe\nsuccessful interview and praise her\nhard work."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Yes, I see. I am a little disappointed \nbecause I was expecting to hear something \nmore concrete after this result."
+      "name": "Reporter Otonashi",
+      "text": "Is that so? Considering these results, I\nexpected\nto hear somewhat more\nconcrete plans..."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Thank you for your comment. … I hope you \nwin the next race!"
+      "name": "Reporter Otonashi",
+      "text": "Thank you for your statement. I hope\nyou find\nmore success in the next race!"
     },
     {
-      "text": "This time, it didn't seem like I was able \nto sway the reporters much…"
+      "name": "Monologue",
+      "text": "It seems like I wasn't able to make a\ngood\nimpression on the reporter..."
     },
     {
-      "text": "… Setting aside the coverage, I went to \ncheer up <chrname> after the race.",
-      "color_text_info_list": [
-        "<chrname>"
-      ]
+      "name": "Monologue",
+      "text": "I decide not to mention the interview\nwhen I go to\npraise\n<chrname> for her hard\nwork."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "…"
+      "name": "Reporter Otonashi",
+      "text": "..."
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "How… Glorious! You're the quintessential \nTracen Academy trainer!"
+      "name": "Reporter Otonashi",
+      "text": "S-simply amazing! I should have\nexpected no less\nfrom a Tracen\nAcademy trainer!"
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Only believe in and develop her unique \ntraits! So you mean, yes!? I understand! \nAll that's missing is strategy and \nexperience!"
+      "name": "Reporter Otonashi",
+      "text": "You're saying you simply need to draw\nout her\ninnate abilities, right?! Of\ncourse! All she needs is\na little strategy\nand experience!"
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Perhaps you're planning an all-nighter to \ncome up with a hundred strategies!? Of \ncourse! It's to make sure your Uma wins!"
+      "name": "Reporter Otonashi",
+      "text": "And now you plan to forgo sleep and\ndevise\ncountless clever stratagems?!\nNaturally! Anything\nto help your trainee\nclaim victory!"
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Haa… What a passionate relationship of \ntrust…! I'm deeply impressed…!"
+      "name": "Reporter Otonashi",
+      "text": "The deep trust you have for one\nanother—it's\nsimply overwhelming!"
     },
     {
-      "name": "Otonashi Etsuko",
-      "text": "Our next feature is set! Quick… I need to \nhurry and talk to the editor-in-chief…!"
+      "name": "Reporter Otonashi",
+      "text": "The next feature article is decided! I\nhave to talk\nto the editor-in-chief right\naway!"
     },
     {
-      "text": "… Looks like things were a little \nembellished, but at least it was taken \nwell (?)."
+      "name": "Monologue",
+      "text": "It feels like my statement was taken way\nout of\nproportion, but I guess I handled\nthe interview\nwell enough."
     },
     {
-      "text": "I tended to <chrname> after the race and told her \nabout the interview.",
-      "color_text_info_list": [
-        "<chrname>"
-      ]
+      "name": "Monologue",
+      "text": "I then go and tell <chrname>\nabout\nthe interview and praise her hard\nwork."
     }
   ]
 }

@@ -2,45 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I spotted Eishin Flash looking somewhat \ngloomy.",
-      "choice_data_list": [
-        "Did something happen?",
-        "Did something happen?"
-      ]
+      "name": "Monologue",
+      "text": "I happen across Eishin Flash, but she\nlooks upset\nfor some reason."
     },
     {
       "name": "Eishin Flash",
-      "text": "No, it's really nothing much.",
-      "choice_data_list": []
+      "text": "Oh, it's nothing important."
     },
     {
       "name": "Eishin Flash",
-      "text": "I searched for ingredients to cook a dish \nI used to eat a lot back home, but...",
-      "choice_data_list": [
-        "Were they not selling it?",
-        "Was it sold out?"
-      ]
+      "text": "I was looking for a particular ingredient\nso I could\nmake a dish I often ate back\nhome, but..."
     },
     {
       "name": "Eishin Flash",
-      "text": "They were selling it. However—",
-      "choice_data_list": []
+      "text": "No, they did. Except..."
     },
     {
       "name": "Eishin Flash",
-      "text": "Caviar is really expensive in Japan, isn't \nit...? There's no way I could afford it \nwith my allowance.",
-      "choice_data_list": []
+      "text": "Caviar is very expensive in Japan... It is\nfar\nbeyond what I could afford on my\nbudget."
     },
     {
       "name": "Eishin Flash",
-      "text": "...*sigh*",
-      "choice_data_list": []
+      "text": "<i>Sigh...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "I couldn't bring myself to say, \"I'll buy \nit for you\"... Eishin Flash walked away \nlooking crestfallen...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She's not wrong about the price, and I\n\nunfortunately can't offer to buy it for\nher. Eishin\nFlash trudges away\ndesolately."
     }
   ]
 }

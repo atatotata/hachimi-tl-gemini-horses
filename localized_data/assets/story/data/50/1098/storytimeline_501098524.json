@@ -2,85 +2,64 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, I went shopping in town with \nCopano Rickey, but...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I head into town with Copano\nRickey to\ndo some shopping, however..."
     },
     {
-      "name": "Narrator",
-      "text": "(Wheeeew... Splat)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Whoa!? A birdie's dropping... landed on my \nshoe!?",
-      "choice_data_list": [
-        "That's... quite a disaster...",
-        "That's... quite a disaster..."
-      ]
+      "name": "Monologue",
+      "text": "<i>Whooosh... Splat!</i>"
     },
     {
       "name": "Copano Rickey",
-      "text": "Ahaha, not really! If you wipe it down \nproperly and clean it, there won't be any \nproblem!",
-      "choice_data_list": []
+      "text": "Wha?! Bird poop landed on my shoe?!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Besides, people say things like this bring \ngood luck, so you can think of it as a \nfortune boost! ☆",
-      "choice_data_list": []
+      "text": "Haha, not at all! If I wipe it clean,\nthere'll be no\nmore problems!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Everything is all about perspective! \nSeeing things positively and maintaining a \nsense of gratitude is, in Feng Shui, above \nall else—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(SPLASH!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Florist Staff",
-      "text": "Kyaaaah, I'm so sorry!! I wasn't looking \nand sprayed water all over you...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Copano Rickey ended up getting completely \ndrenched in water. Although she managed to \ndry her wet clothes...",
-      "choice_data_list": [
-        "That was one misfortune after another...",
-        "That was one misfortune after another..."
-      ]
+      "text": "If anything, now I'm extra motivated to\ngive my\nshoes some care. That's lucky! ☆"
     },
     {
       "name": "Copano Rickey",
-      "text": "Hmm... Come on, like I just said, it's all \nabout how you look at it!",
-      "choice_data_list": []
+      "text": "It all comes down to your mindset! Feng\nshui is all\nabout positive thinking and\nalways showing\ngratitu—"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Splash!</i>"
+    },
+    {
+      "name": "Flower Shop Staff",
+      "text": "AAAH! I'm <i>so</i> sorry! I didn't see you\ncoming as I\nwas throwing the water!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Copano Rickey gets completely soaked.\nWe\nmanage to dry her clothes\nafterwards, but still..."
     },
     {
       "name": "Copano Rickey",
-      "text": "Getting splashed washed the dirt off my \nshoes too, so keep feeling grateful and \nhappy! Staying positive is the basic rule \nfor attracting good luck♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "Clerk",
-      "text": "We're running a special campaign today~! \nOrder our limited-time Hachimi, and get a \nvoucher for a free regular-size Hachimi!",
-      "choice_data_list": []
+      "text": "Hmm... well, what I said before still\nstands. It's all\nabout keeping a positive\nmindset!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Waah, they're having a special campaign! \nAren't we super lucky?",
-      "choice_data_list": []
+      "text": "At least my shoes got a free wash! I need\nto stay\nthankful and happy! Positivity\nattracts fortune\nafter all! ♪"
+    },
+    {
+      "name": "Store Clerk",
+      "text": "We have a special deal today! All\ncustomers who\norder a limited-time\nhoneyade will also receive a\ncoupon for\none free regular-size honeyade!"
     },
     {
       "name": "Copano Rickey",
-      "text": "Looking forward really is the best way to \ninvite good luck! Excuse me, one \nlimited-edition Hachimi, please!",
-      "choice_data_list": []
+      "text": "Wow, they're offering a promotional\ndeal! That's\nsuper lucky, right?"
     },
     {
-      "name": "Narrator",
-      "text": "Her positive attitude, backed by feng \nshui, seemed to invite a bit of good luck. \nAfter sharing some Hachimi together, we \nwere both filled with happiness.",
-      "choice_data_list": []
+      "name": "Copano Rickey",
+      "text": "Being positive <i>is</i> the best way to raise\nyour luck\nafter all! Excuse meee, one\nlimited-time\nhoneyade, pleeease!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It looks like her feng shui-fueled\noptimism\nbrought her a little luck. We\nboth smile as we\ndrink our honeyade\ntogether."
     }
   ]
 }

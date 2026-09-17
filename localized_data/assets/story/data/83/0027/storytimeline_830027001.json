@@ -2,155 +2,144 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while walking through the academy \ngrounds..."
+      "name": "Monologue",
+      "text": "One day, while I'm walking around the\nacademy..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...It must be worthy of the Mejiro name... \nand above all, I must extend heartfelt \nhospitality to them..."
+      "text": "...Festivities worthy of the Mejiro name.\nAnd I\nmust also put on a genuine display\nof true\nhospitality..."
     },
     {
-      "name": "Narrator",
-      "text": "(*bump!*)"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Ah, my sincere apologies.",
-      "choice_data_list": [
-        "Are you okay?"
-      ]
+      "name": "Monologue",
+      "text": "<i>SLAM!</i>"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes, I was merely deep in thought..."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Oh, McQueen! ...Wait, what's with the \nsuper serious face? Something up?"
+      "text": "Oh, my apologies."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The truth is, as a representative of the \nMejiro family horse girls, I am tasked \nwith delivering a greeting to our foreign \nguests..."
+      "text": "Yes, I was just a little caught up in my\nthoughts..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Oh! Heya, McQueen! Whoa, why so\nserious?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I have been racking my brain trying to \ncraft a speech that will bring no dishonor \nto the Mejiro name, but..."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "I see, I see~... Now that you mention it, \nI feel like I heard about some party."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Alright! Come with me! Ah, since you're \nhere, you too!",
-      "choice_data_list": [
-        "Me too!?",
-        "Me too!?"
-      ]
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Yeah, the more the merrier, right? Please, \nthink of it as helping a girl out!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Actually, I got some baseball tickets, and \nI was wondering who I should go with~"
+      "text": "I've been tasked with greeting an\ninternational\nvisitor as the Umamusume\nrepresentative of the\nMejiro estate."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I hardly have time to watch baseball right \nnow... To fool around instead of \nfulfilling my Mejiro duties would be..."
+      "text": "I've spent such a long time trying to\ncompose a\nspeech that will do justice to\nthe Mejiro name,\nand yet..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "I'm a daughter of the Mejiro family too, \ny'know~ Even if I did try running away \nfrom home once."
+      "text": "Oooh, I getcha. I heard there's gonna be\na party\ntoo."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Thanks to all the different things I \nexperienced back then, I feel like I was \nable to rediscover my true self."
+      "text": "M'kay, come with me! Oh, and you might\nas well\ntag along too, Trainer!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "So, I was thinking maybe if you take a \nbreak and run away for a bit, you might \nfind the answer you're looking for, \nMcQueen."
+      "text": "Yeah! The more the merrier! Please? I\nthink you'd\nbe a big help!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "So actually, I got some tickets for a\nbaseball\ngame, but I've been strugglin'\nto decide who to\ngo with."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Your case was truly exceptional, desu \nwa... However, I cannot simply run away."
+      "text": "Baseball, at a time like this? No, I must\nfulfill my\nduties as a Mejiro before—"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "You think so? Pretty sure Grandma wants \nhappiness for all us Mejiro kids, though."
+      "text": "Hey, I'm a prim and proper daughter of\nthe\nMejiro family too. Although\nadmittedly I don't\nspend much time at\nhome."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "But I think those experiences away from\nhome are\nwhat helped me rediscover\nwhat makes me <i>me.</i>"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "You might learn something by throwing\ncaution\nto the wind and sneaking out\ntoo."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "……"
+      "text": "Well, you're a bit of a special case,\nwouldn't you\nsay? I doubt I would be\ngranted leniency if I were\nto run away\nfrom my duties."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Look, baseball has the \"uncaught third \nstrike\" rule, right? Where the batter can \ndash to first base even after swinging and \nmissing."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Turning a pinch into a chance— that's what \na \"breakaway\" escape is all about, right?"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Right now might feel like a pinch for you, \nMcQueen, but taking a bold escape might \njust become your golden chance!"
+      "text": "You sure about that? 'Cause I'm pretty\nsure\nGrandma wants all of us Mejiros to\nbe happy."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Indeed... when you put it like that, there \nare escapes of that nature..."
+      "text": "..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Totally, totally! Super valid! Let's run \naway, escape, and clear our heads for a \nbit!",
-      "choice_data_list": [
-        "Let's escape to the fullest just for today",
-        "Going at your own pace might be important"
-      ]
+      "text": "You know about that uncaught third\nstrike rule in\nbaseball, right? Where the\nbatter gets to run to\nfirst base when\nthey'd usually get struck out."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Right on! Having peace of mind is exactly \nwhy you can break away!"
+      "text": "Maybe you could look at it like that.\nYou know,\nturn a crisis into an\nopportunity by running away."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "You might be in a real sticky situation\nright now,\nbut if you put your head\ndown and run, you might\njust run into\nsomething new."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Understood, desu wa. If you insist so far, \nI shall enjoy myself to the fullest today."
+      "text": "I suppose running away in such a fashion\nmay be\nacceptable. However..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "It's more than acceptable—it's\nexceptional! Come\non, run far, far away\nand clear that head of yours!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Yeah! Besides, I know you've got things\nunder\ncontrol, so you <i>can</i> run away!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Knock it out of the park! Yu-ta-kaaa!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Nice, round the bases! Round 'em! Run, \nrun, run away!"
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, by taking a nice breather watching \nbaseball, Mejiro McQueen was able to \nfulfill her heavy responsibilities \nsuccessfully."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Totally! Walking your own path no matter \nwhat is what matters most!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "The usual McQueen has an iron core and an \nunwavering vibe that's super cool, right?"
+      "text": "Very well. If you insist, then I shall also\nallow\nmyself to have some fun today."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...You are quite right, desu wa. Even to \ncarry out one's duties, one must first \nregain one's own pace."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Let's go, let's go, Yu-ta-kaaa!"
+      "text": "<i>BRING 'EM HOME, YU-TA-KA!</i>"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ooh, getting hyped up now! You're sounding \nlike the true McQueen again!"
+      "text": "Nice! Round the base! Keep going! Keep\ngoing!"
     },
     {
-      "name": "Narrator",
-      "text": "Mejiro McQueen had a wonderful change of \npace, and went on to deliver a truly \nmagnificent speech."
+      "name": "Monologue",
+      "text": "After enjoying a breather at the baseball\ngame,\nMejiro McQueen fulfills her\nimportant duties."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Yeah! It's always super important to go\nyour own\nway!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Besides, everyone knows you're super\nserious.\nHeck, that's what makes you so\ncool."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Well... I suppose I could not fulfill my\nduties if I\nwere to overwhelm myself."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>THAT'S THE WAY, YU-TA-KA!</i>"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Oh yeah, now you're gettin' pumped!\n<i>That's</i> the\nMcQueen I know!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro McQueen benefits from the\nchange of\npace and embodies the best\nversion of herself\nwhen she gives her\nspeech."
     }
   ]
 }

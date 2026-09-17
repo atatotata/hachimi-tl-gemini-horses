@@ -2,209 +2,172 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while walking down the street—"
+      "name": "Monologue",
+      "text": "One day, as I'm taking a stroll through\nthe\nstreets..."
     },
     {
-      "name": "Man in Black A",
-      "text": "...This way. Hurry up.",
-      "choice_data_list": [
-        "That figure is...!"
-      ]
+      "name": "Figure in Black A",
+      "text": "...Over here. Hurry."
     },
     {
       "name": "Woman in Tuxedo",
-      "text": "Welcome to our company's casino game \ntournament! All you wager against each \nother is your own pride. Please enjoy this \none-day-only competition♪",
-      "choice_data_list": [
-        "Th-This place is..."
-      ]
+      "text": "Ladies and gentlemen! I cordially\nwelcome you to\nour casino tournament!\nThe stakes—nothing but\nyour dignity as\na high roller! Compete to your\nheart's\ncontent, for today and today only! ♪"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Sheesh. I thought I spotted a face that \ndidn't belong, and of course it's you \nagain."
+      "text": "Oh, for cryin' out loud. I thought I saw a\nfish outta\nwater, and here you are again."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Just so you know, this is a clean and \nproper tournament, got it? Even if an \nunregistered guy sticks his nose in—"
+      "text": "Before you get any funny ideas, this\ntournament\nis completely legit, all right?\nDespite the\nunregistered busybodies\nstickin' their noses in."
     },
     {
-      "name": "Spectator",
-      "text": "H-Hey. It's her...! The legendary dealer, \n\"Angel-sama\"...! Ah, to think I'd actually \nlay eyes on her in person...!!",
-      "choice_data_list": [
-        "Angel-sama, as in the one from the \nriverbank before...?"
-      ]
+      "name": "Crowd",
+      "text": "Pssst! Look, it's her...\nThe legendary\ndealer—the Angel of the Night!\nOh, I\ncan't believe I get to see her in person!"
     },
     {
-      "name": "Midnight Angel",
-      "text": "Oh, you guys are... hehe. Long time no \nsee."
+      "name": "Angel of the Night",
+      "text": "Oh, my. Who do we have here? Hehe.\nLong time\nno see."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Well, well. From the looks of it, \nAngel-sama's quite the popular celebrity \naround here."
+      "text": "...Well, well, well. Looks like <i>Your\nHoliness</i> is\npretty popular."
     },
     {
-      "name": "Midnight Angel",
-      "text": "And the one chosen by that popular \ncelebrity is you. Well then—shall we wager \nour mutual pride?"
+      "name": "Angel of the Night",
+      "text": "Indeed, and I've chosen you as my\nopponent.\nWhat do you say? Care to put\nyour pride on the\nline?"
     },
     {
-      "name": "Spectator",
-      "text": "An opponent personally picked by \nAngel-sama herself...?! Who is that... \nHorse Girl...? Giggle, there's no way she \ncan beat Angel-sama..."
+      "name": "Crowd",
+      "text": "No way! An opponent handpicked by\nthe Angel\nherself?\nWho is that?\n<i>Snicker.</i>\nNobody beats the Angel..."
     },
     {
-      "name": "Midnight Angel",
-      "text": "The game is roulette. You place your \nchips, and I spin the wheel. A \nstraightforward, one-shot showdown."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "...Instead of numbers, is it fine if I bet \non color?"
-    },
-    {
-      "name": "Midnight Angel",
-      "text": "Sure. As long as you pick either Black or \nRed. Well then... I'm spinning it."
-    },
-    {
-      "name": "Narrator",
-      "text": "Angel-sama tosses the white ball onto the \nspinning wheel. As the ball rattles \npleasantly around the rim, the surrounding \ncrowd watches with bated breath—"
+      "name": "Angel of the Night",
+      "text": "The name of the game is roulette. You\nlay down\nyour chips, and I'll spin the\nwheel. We'll decide\nthis with a single\nround, nice and simple."
     },
     {
       "name": "Nakayama Festa",
-      "text": "............",
-      "choice_data_list": [
-        "Aren't you going to look?",
-        "Aren't you going to look?"
-      ]
+      "text": "Don't suppose there's any issue with\nbetting on a\ncolor rather than a number?"
+    },
+    {
+      "name": "Angel of the Night",
+      "text": "Not at all. Take your pick, black or red.\n\nAll right, time to spin the wheel."
+    },
+    {
+      "name": "Monologue",
+      "text": "The Angel throws the white roulette ball\nonto the\nspinning wheel. It makes a\nstrangely satisfying\nsound as it rolls, and\nthe throng of bystanders\nwatch with\nsweaty palms and bated breath."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Do you remember that talk about habits?",
-      "choice_data_list": [
-        "If I recall, the one about Special Week..."
-      ]
+      "text": "..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Yeah. When it's crunch time in a match, it \nputs anyone on high alert. That's why \nhabits form naturally. For instance—"
+      "text": "Do you remember when we talked about\nhabits?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "The habit where, whenever Angel-sama aims \nfor a specific pocket, the rolling ball \nticks out a distinct rhythm... for \nexample."
-    },
-    {
-      "name": "Midnight Angel",
-      "text": "!",
-      "choice_data_list": [
-        "Can you really tell something like that?",
-        "Can you really tell something like that?"
-      ]
+      "text": "Yeah. Competition sets your body into a\n\ncombative state, no matter who you're\nfacing.\nThat's why habits develop\nwithout one's\nknowledge."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Well, with a dealer as famous as \nAngel-sama, there's no shortage of \nmaterial out there to study."
+      "text": "For example, when the Angel here's\naimin' for a\nspecific pocket, she has a\nhabit of rollin' the ball\nto a certain\nrhythm."
+    },
+    {
+      "name": "Angel of the Night",
+      "text": "...?!"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Besides, anyone who lives on the track \nends up training an internal \"clock\" to \npace their laps. Cross-reference that \nclock with the rhythm you analyzed, and—"
-    },
-    {
-      "name": "Midnight Angel",
-      "text": "—Tch, stop! We're resetting this."
-    },
-    {
-      "name": "Narrator",
-      "text": "The match was abruptly halted. A break was \ncalled, and the game was set to restart \nonce things settled down.",
-      "choice_data_list": [
-        "If I hadn't spoken to you back then...",
-        "If I hadn't spoken to you back then..."
-      ]
+      "text": "It helps that a dealer as well-known as\nshe has an\nextensive amount of material\nto study."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Worried that my strategy went down the \ndrain? Haha... Don't sweat it."
+      "text": "Plus, as someone who lives and breathes\nthe\nraces, I've developed an internal\nclock to count\nmy laps. If I combine that\nwith what I know about\nthe Angel's\nhabits..."
+    },
+    {
+      "name": "Angel of the Night",
+      "text": "Th-that's enough! Let's start over."
+    },
+    {
+      "name": "Monologue",
+      "text": "The game comes to a sudden halt. They\ndecide to\nresume the match after a short\nbreather."
     },
     {
       "name": "Nakayama Festa",
-      "text": "All that talk about habits was a total \nbluff anyway."
+      "text": "Are you worried that you might've\nruined my\nplan? Haha... Not to worry."
     },
     {
       "name": "Nakayama Festa",
-      "text": "It worked like a charm, though. Seeing how \nrattled she got... that should be enough \nto warn her that cheap tricks won't fly."
+      "text": "I was just bluffing when I said all that\nstuff about\nher habits."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Well then, let's head in. —To a real test \nof luck, with no petty schemes attached."
+      "text": "And did you see how flustered she\nlooked? It\npaid off in spades. With this,\nshe now knows that\nunderhanded tricks\nwon't work."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Black it is, then. Let's wager on \nAngel-sama's defeat."
-    },
-    {
-      "name": "Narrator",
-      "text": "Hearing her declaration, the \"Angel\" calls \nout, \"No more bets!\" And the white ball \nspins round and round—"
-    },
-    {
-      "name": "Narrator",
-      "text": "The venue erupts into an uproar. The \npocket the ball landed in was black. The \nvictor was... Nakayama Festa."
-    },
-    {
-      "name": "Narrator",
-      "text": "But what caused a real commotion came \nright after. Having won, she didn't take \non any of the other gamblers and promptly \nleft the venue—"
-    },
-    {
-      "name": "Narrator",
-      "text": "—A few days later. At the academy, I \nspotted Nakayama Festa.",
-      "choice_data_list": [
-        "You're...",
-        "Are you..."
-      ]
+      "text": "All right, let's do this. No more tricks,\njust a bona\nfide test of luck."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Whoops, it's you. Thanks for your help \nback then. Though when things get that \nnoisy, anyone would make a break for it."
+      "text": "...I bet on black. Who wants to bet on\nthe Angel\ngoin' down?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Hearing that, the Angel of the Night\nquickly\nproclaims that bets are closed.\nSoon after, the\nwhite roulette ball goes\nrolling and rolling, until..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The crowd goes wild. The ball has\nlanded in a\nblack pocket. Which means...\nNakayama Festa\nhas won."
+    },
+    {
+      "name": "Monologue",
+      "text": "But the real commotion comes after the\ngame,\nwhen everyone realizes that she\nhas disappeared\nfrom the premises\nwithout playing anyone else."
+    },
+    {
+      "name": "Monologue",
+      "text": "Days later, I spot Nakayama Festa at the\n\nacademy."
     },
     {
       "name": "Nakayama Festa",
-      "text": "I didn't go there to become popular, I \nwent to make a gamble."
-    },
-    {
-      "name": "Narrator",
-      "text": "As she spoke, a bus was waiting ahead. \n...Come to think of it, I feel like I saw \ninfo about her race entry on the news this \nmorning.",
-      "choice_data_list": [
-        "If I recall, you're the 8th favorite..."
-      ]
+      "text": "Oh, it's you. Sorry to leave you in the\nthick of it\nthe other day, but ya can't\nblame anyone for\nwantin' to get away\nfrom all that commotion."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Heh, you knew? Even so..."
+      "text": "I wasn't after fame, after all. I just\nwanted a\nchallenge."
+    },
+    {
+      "name": "Monologue",
+      "text": "I notice there's a bus parked up ahead of\nher.\nCome to think of it, the morning\nnews said that\nshe's racing today."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Hey, between black and white, which one \nwould you bet on?",
-      "choice_data_list": [
-        "...Probably white."
-      ]
+      "text": "Heh, so you've heard. Well..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haha... Yeah, I'm betting on that color \ntoo. Well then, see ya around."
-    },
-    {
-      "name": "Narrator",
-      "text": "...I felt that no matter who she faced, \nshe would overtake them from behind and \nseize victory."
+      "text": "Hey, black or white. Which do ya wanna\nbet on?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Hey, between black and white, which one \nwould you bet on?",
-      "choice_data_list": [
-        "Well, that's..."
-      ]
+      "text": "Haha... Yeah, me too. All right, see ya\naround."
+    },
+    {
+      "name": "Monologue",
+      "text": "I get the feeling that she can overtake\nany racer\nand claim victory today."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...You don't have to force an answer. \nHesitation is only natural."
+      "text": "Hey, black or white. Which do ya wanna\nbet on?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "But I'm betting on white. Whoever the \nopponent, I'll slip right past their \nthroat at the wire... Later."
+      "text": "Don't push yourself to answer. It's\nnormal to\nwaffle."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "I'd bet on white, though. No matter who\nmy\nopponent is, I'll overtake them. See\nya around."
     }
   ]
 }

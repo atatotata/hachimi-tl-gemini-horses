@@ -2,95 +2,72 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, I received a phone call from \nReporter Otonashi.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I receive a phone call from\nReporter\nOtonashi."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"‘Sorry for calling so suddenly! I just \nhad to tell you right away!’\"",
-      "choice_data_list": []
+      "text": "\"I'm sorry for the abrupt call, but there's\n\nsomething I need to tell you right away!\""
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"Actually, in recognition of <chrname>'s \nperformances this year—\"",
-      "choice_data_list": []
+      "text": "\"<chrname>'s efforts this\nyear have\nbeen recognized...\""
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"I was chosen to be the Best Junior \nUmamusume!\"",
-      "choice_data_list": [
-        "！！"
-      ]
+      "text": "\"And she's been selected as the Best\nJunior Year\nUmamusume!\""
     },
     {
-      "name": "",
-      "text": "Reporter Otonashi continued to offer her \npolite congratulations afterwards as well.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Otonashi continues, offering me warm\nwords of\npraise."
     },
     {
-      "name": "",
-      "text": "I finished the call and was savoring the \njoy, thinking about how we'd keep doing \nour best together, when—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I hang up the phone and bask in feelings\nof joy,\nmotivated to work even harder\nwith my partner.\nThen, all of a sudden..."
     },
     {
-      "name": "",
-      "text": "(Knock knock)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Knock, knock</i>"
     },
     {
-      "name": "",
-      "text": "Trainer Kiryuin paid a visit, along with \nthe gentle Umamusume under her charge, \nHappy Meek.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm visited by Trainer Kiryuin and her\ngentle\npartner, Happy Meek."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Excuse me! Trainer <username>! I heard the news \nabout your selection!",
-      "choice_data_list": []
+      "text": "Sorry to disturb you, Trainer\n\n<username>, but I\njust heard\nabout your award!"
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Congratulations! Your achievements this \nyear have truly been nothing short of \nspectacular after all!",
-      "choice_data_list": []
+      "text": "Congratulations! Your accomplishments\nthis year\nhave been truly remarkable!"
     },
     {
       "name": "Happy Meek",
-      "text": "Congratulations.",
-      "choice_data_list": [
-        "Thank you!"
-      ]
+      "text": "Congratulations."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Thinking that your trainee is from the \nsame class as me makes me feel so \nnostalgic!",
-      "choice_data_list": []
+      "text": "I felt emotional finding out that a runner\ntrained\nby my colleague earned the\naward!"
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I just couldn't sit still! Huge \ncongratulations to you!",
-      "choice_data_list": []
+      "text": "I just had to come by and congratulate\nyou!"
     },
     {
       "name": "Happy Meek",
-      "text": "Mm. Cheers.",
-      "choice_data_list": []
+      "text": "Mm. Cheeers."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Besides, it really made me feel like... \nnext year, it'll definitely be our turn!",
-      "choice_data_list": [
-        "！"
-      ]
+      "text": "And now, I'm motivated to make sure it's\nme who\ncomes out on top next year!"
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "\"Let's both keep doing our best as \nclassmates and as rivals!\"",
-      "choice_data_list": []
+      "text": "Let's keep doing our best as fellow\ntrainers and\nrivals!"
     },
     {
-      "name": "",
-      "text": "Afterward, <chrname> and I promised each other to \ndo our best next year so that we wouldn't \nlose.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Later, <chrname> and I vow\nto work\nhard and be the best next year,\ntoo."
     }
   ]
 }

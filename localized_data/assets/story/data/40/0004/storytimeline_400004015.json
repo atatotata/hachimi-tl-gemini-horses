@@ -3,38 +3,31 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "<chrname> achieved <achievement_name>.",
-      "choice_data_list": []
+      "text": "<chrname> has earned\n\n<achievement_name>."
     },
     {
       "name": "Monologue",
-      "text": "<achievement_info>",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "One day, Chairwoman Akikawa paid a visit \nto the Trainer's office.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "So moving!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "<chrname>'s performance was truly fierce! And \nheroic!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Splendid! You have shown a truly wonderful \nperformance worthy of being the pride of \nTracen Academy!",
-      "choice_data_list": []
+      "text": "<achievement_info>"
     },
     {
       "name": "Monologue",
-      "text": "I received high praise in person...! It \nseems I've achieved a truly wonderful \nresult!",
-      "choice_data_list": []
+      "text": "I'm in my office one day when Director\nAkikawa\npays me a visit."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Impressive!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "<chrname>'s magnificent\nperformance\nhas been the definition of\n<i>fierce!</i> And valiant!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Well done indeed! Your incredible\nefforts are the\npride of Tracen Academy!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I receive plenty of direct and heartfelt\npraise! It\nsounds like we've achieved a\nfantastic result!"
     }
   ]
 }

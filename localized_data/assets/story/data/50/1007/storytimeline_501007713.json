@@ -2,113 +2,80 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "I brought an injured Gold Ship to the \nnurse's office, but...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Gold Ship is injured, so I bring her to the\n\ninfirmary."
     },
     {
       "name": "Gold Ship",
-      "text": "D-D-Damage confirmed. Golshi-roid, \nexecuting scan.",
-      "choice_data_list": [
-        "W-What happened?!",
-        "W-What's wrong!?"
-      ]
+      "text": "<i>Beep-beep-beep...</i> Damage detected.\nGolshiroid,\ncommencing scan."
     },
     {
       "name": "Gold Ship",
-      "text": "Damage minor, able to continue mission. \nAwaiting Commander's decision... \nBeep-beep-beep.",
-      "choice_data_list": [
-        "Repairing the damaged areas comes first",
-        "Let's upgrade the program right now!"
-      ]
+      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>"
     },
     {
       "name": "Gold Ship",
-      "text": "Rescanning... Beep. Mission execution is \npossible. Requesting withdrawal of your \nproposal.",
-      "choice_data_list": [
-        "Denied. Prioritizing repairs."
-      ]
+      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders."
     },
     {
       "name": "Gold Ship",
-      "text": "\"Heeey!! Like I said, I told you I'm \ntotally fine!\"",
-      "choice_data_list": [
-        "Commander's orders!"
-      ]
+      "text": "Oh, c'mon! I'm fine, I tell you!"
     },
     {
       "name": "Gold Ship",
-      "text": "Orders from the commander, huh... Grrr. As \nGolshiroid, I can't go against that...!",
-      "choice_data_list": []
+      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to..."
     },
     {
       "name": "Gold Ship",
-      "text": "*Sigh*... Roger, prioritizing repairs... \nBeep beep beep.",
-      "choice_data_list": []
+      "text": "<i>Sigh.</i> Order acknowledged. Prioritizing\nrepairs...\n<i>Beep, beep, beep...</i>"
     },
     {
-      "name": "",
-      "text": "Afterward, Gold Ship took time off to rest \nwith a grumpy look, but a few days later, \nher injury was fully healed and she was \nback to running wild.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Proposal confirmed. Golshi-roid, upgrade \napproved!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Gold Ship isn't happy about being put\non bed rest\nfor a few days and goes wild\nonce she makes a\nfull recovery."
     },
     {
       "name": "Gold Ship",
-      "text": "Initiating immediate upgrade...",
-      "choice_data_list": []
+      "text": "Suggestion approved. Golshiroid,\ninitiating\nupgrade sequence!"
     },
     {
       "name": "Gold Ship",
-      "text": "Wait, ow?!",
-      "choice_data_list": []
+      "text": "Engaging instantaneous upgrade."
     },
     {
       "name": "Gold Ship",
-      "text": "What the heck... Everything was totally \nfine just a minute ago...",
-      "choice_data_list": []
+      "text": "Ouch!"
     },
     {
       "name": "Gold Ship",
-      "text": "At this rate, I'm just a complete \nfailure... *sigh*",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "\"Whether downcast from the self-diagnosis \nresults or not, Gold Ship grew eerily \nquiet for a while...\"",
-      "choice_data_list": []
+      "text": "What gives?! Everything was fine just a\nsecond\nago..."
     },
     {
       "name": "Gold Ship",
-      "text": "C-C-Commander's proposal confirmed. \nUpgrade approved!",
-      "choice_data_list": [
-        "Let's get even stronger!"
-      ]
+      "text": "Great, now I'm just a pile of scrap. <i>Sigh...</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her self-diagnostics clearly didn't\nproduce good\nresults, because she\nsuddenly gets eerily quiet."
     },
     {
       "name": "Gold Ship",
-      "text": "Hmm... Still under deliberation.",
-      "choice_data_list": []
+      "text": "<i>B-b-beep.</i> Suggestion confirmed.\nInitiating\nupgrade sequence!"
     },
     {
       "name": "Gold Ship",
-      "text": "Okay. Under these conditions, I request an \nupgrade to the existing workout program.",
-      "choice_data_list": [
-        "Conditions?"
-      ]
+      "text": "Hmm... Confirmation pending."
     },
     {
       "name": "Gold Ship",
-      "text": "BEEP BEEP BEEP... Requesting ice cream \nfrom the store. Until approved, upgrade to \nGolshi-roid is suspended.",
-      "choice_data_list": []
+      "text": "Approved. The current operating\nprogram can\nonly be upgraded under\none condition."
     },
     {
-      "name": "",
-      "text": "Realizing there was no point in resisting, \nI meekly accepted her conditions, and \ntogether we revised our training regimen.",
-      "choice_data_list": []
+      "name": "Gold Ship",
+      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no getting around it. I accept her\n\ncondition, and then two of us rework her\ntraining\nschedule."
     }
   ]
 }

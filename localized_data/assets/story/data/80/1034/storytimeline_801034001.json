@@ -2,112 +2,84 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Walking near the training track, I heard \nsome kind of commotion.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, I'm walking by the track when I\nhappen\nto hear what sounds like a\ncommotion."
     },
     {
       "name": "Umamusume A",
-      "text": "Big trouble! It's a fight! There's a \nfight!",
-      "choice_data_list": []
+      "text": "<i>Gasp!</i> Th-there's a fight!"
     },
     {
-      "name": "Narrator",
-      "text": "I couldn't just leave it alone. Hurrying \nover to check on the situation――",
-      "choice_data_list": []
-    },
-    {
-      "name": "Inari One",
-      "text": "Whoa, whoa, whoa, look at that spirit! \nDon't let up, both of you—show some \nbackbone!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "That's something I can't overlook. I rush\ntowards\nthe source of all the noise, only\nto find..."
     },
     {
       "name": "Inari One",
-      "text": "Whoa, a dead-even tie in the scuffle, huh? \nThen let's settle this with a rogue race!",
-      "choice_data_list": [
-        "Unauthorized racing is unacceptable.",
-        "Unauthorized racing is unacceptable."
-      ]
+      "text": "Aw yeah, now zat's the spirit! Show me\nwhatcha\ngot, and don't either of you\ndare lose!"
     },
     {
       "name": "Inari One",
-      "text": "Whoa, Trainer?! Throwing cold water on a \nclash of pride is pretty uncool, y'know.",
-      "choice_data_list": []
+      "text": "Aww, what? A draw? How 'bout you two\nsettle the\nscore with a casual race?!"
     },
     {
       "name": "Inari One",
-      "text": "Mm, that's it! Even if it's an impromptu \nrace, if you give the word, it's a bona \nfide mock race, ain't it?!",
-      "choice_data_list": [
-        "No, that's just reckless……"
-      ]
+      "text": "Yowza! You scared me! But don't be\nsuch a\nbuzzkill. These two're in the\nmiddle of a fight!"
     },
     {
       "name": "Inari One",
-      "text": "What's the big deal, stingy? Fires and \nbrawls are the flowers of Edo, and mock \nraces are the flowers of this academy!",
-      "choice_data_list": []
+      "text": "Oh, I know! Why don'tcha supervise the\nrace?\nThen it'll be a nice 'n proper\nscrimmage!"
     },
     {
       "name": "Inari One",
-      "text": "Just own up to it and let 'em race! That's \nthe real Edo spirit right there!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And just like that, one thing led to \nanother, and an impromptu mock race \nbegan――!",
-      "choice_data_list": []
+      "text": "Oh come on, live a little. Fire and fight is\nwhat\nmakes Edo bright. And seeing that\nfight in a\nscrimmage is what Tracen's all\nabout!"
     },
     {
       "name": "Inari One",
-      "text": "Hell yeah! Great start! Run brisk and \nsharp, the sun itself is watching over ya!",
-      "choice_data_list": []
+      "text": "Give the okay and let 'em compete\nalready!\nC'mon, we gotta settle this,\nEdo-style!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, I find myself wrangled into\noverseeing the\nscrimmage!"
     },
     {
       "name": "Inari One",
-      "text": "Go, right there, close in, close in! Hang \nin there on the other side toooooo!!",
-      "choice_data_list": []
+      "text": "There ya go, good start! Now look alive\nand\nproud! Feel that sunshine beamin'\ndown on ya!"
     },
     {
       "name": "Inari One",
-      "text": "Man, that nose-to-nose duel was one hell \nof a scrap. Just look at those bright, \nrefreshed looks on their faces!",
-      "choice_data_list": []
+      "text": "Go gooo! Close that gap! Hey, you in\nthe lead!\nDon't just give up!"
     },
     {
       "name": "Inari One",
-      "text": "This is how Umamusume oughta be. Now, all \nthat's left is to wrap it up cleanly...",
-      "choice_data_list": [
-        "Let's praise their good effort.",
-        "Maybe bring them some drinks?"
-      ]
+      "text": "Maan, whatta race that was! Came down\nto a\nnose too! And just lookit those\nbright smiles on\ntheir faces!"
     },
     {
       "name": "Inari One",
-      "text": "Right then. How about we wrap this up with \na nice, classy ceremonial clap!",
-      "choice_data_list": []
+      "text": "Us Umamusume were born for this stuff.\nNow, to\nwrap things up nicely..."
     },
     {
       "name": "Inari One",
-      "text": "We both gave it our all. In honor of that \nfighting spirit, clap your hands, \neveryone! Yo—!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(BANG!!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "With Inari One's booming call, the crisp \nclap of a ceremonial hand-clap echoed into \nthe blue sky――",
-      "choice_data_list": []
+      "text": "Good thinkin'. Then let's finish this with\nsome\nstylin' clappin'!"
     },
     {
       "name": "Inari One",
-      "text": "I getcha! Wash away all the bad blood \nclean with a cup of cold tea, eh! Thanks, \nTrainer.",
-      "choice_data_list": []
+      "text": "You two put on one helluva show! As\nthanks, on\nmy mark, let's all clap in\nunison to finish off!\nYooo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Clap!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Following Inari One's cue, the three of\nthem clap\ntheir hands together in sync,\nsending a clear\nsound ringing through\nthe clear blue sky."
     },
     {
       "name": "Inari One",
-      "text": "Hey guys, drink this and shake off that \nfatigue!",
-      "choice_data_list": []
+      "text": "Oh yeah, nothin' like a cold drink to\nwash away\nany bitter feelings, right?\nGood thinkin'!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hey, you two! How'd ya like a nice cold\ndrink to\ncool off?!"
     }
   ]
 }
