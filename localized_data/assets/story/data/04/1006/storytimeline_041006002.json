@@ -1,226 +1,214 @@
 {
   "title": "The Pulse of the Strong",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "A few days after showing a lost Oguri Cap the way,\nI spotted her wandering the academy grounds with a troubled look once again..."
+      "name": "Monologue",
+      "text": "A few days after helping Oguri Cap get\nback to her dorm, a familiar\ndistraught\nface can be seen wandering the academy\ngrounds."
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmh... I have ended up back here again...",
-      "choice_data_list": [
-        "Where are you trying to go today?",
-        "Where are you headed today?"
-      ]
+      "text": "Hrmmm... I'm back here again..."
     },
     {
       "name": "Oguri Cap",
-      "text": "You are... from the other day."
+      "text": "Oh, it's you..."
     },
     {
       "name": "Oguri Cap",
-      "text": "My apologies, but could you give me directions again?\nI want to go to the training track."
+      "text": "Sorry, could you show me the way again?\nI'm trying to get to the\ntraining course this\ntime."
     },
     {
-      "text": "I escorted Oguri Cap to the track."
+      "name": "Monologue",
+      "text": "I lead Oguri Cap directly to the training\ncourse."
     },
     {
       "name": "Oguri Cap",
-      "text": "Sorry to keep you waiting, Tama."
+      "text": "Sorry for the wait, Tama."
     },
     {
       "name": "Tamamo Cross",
-      "text": "Ooh, there ya are, Oguri! Well look at you!\nYa finally managed to memorize the way to the track, huh?!"
+      "text": "About time ya showed up, Oguri! A bit\nlate, but I'm prouda ya, findin'\nyour way\nhere all by yourself!"
     },
     {
       "name": "Tamamo Cross",
-      "text": "I was worried ya'd get lost, but I can't be holding yer hand\nevery time. Guess playin' the tough guy paid off after—"
+      "text": "I was worried you'd get lost again. And\ny'know, since I can't go 'round\nleadin' ya\neverywhere, I thought it'd be a good idea\nto try leavin' ya\nto your own devices..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes, I figured out the way.\nBecause the Trainer guided me the whole time."
+      "text": "I got here just fine. This trainer here\nshowed me the way."
     },
     {
       "name": "Tamamo Cross",
-      "text": "So ya just had someone bring ya here after all, ya big goof!!"
+      "text": "AND HERE I THOUGHT YA DID IT ON\nYOUR OWN!"
     },
     {
       "name": "Tamamo Cross",
-      "text": "...W-Well, whatever.\nLet's get right down to our mock race, then!"
+      "text": "Ugh, it's fine. Now that you're here, let's\nhurry up 'n' get this\nscrimmage started."
     },
     {
       "name": "Oguri Cap",
-      "text": "Let us. I will go get ready."
+      "text": "Sounds good. I'll go get ready."
     },
     {
       "name": "Tamamo Cross",
-      "text": "Alright, me too!"
+      "text": "A'ight. Me too."
     },
     {
-      "text": "Oguri Cap's opponent for the mock race was\nTamamo Cross, a formidable horsegirl who had already made her debut."
+      "name": "Monologue",
+      "text": "A racer of the utmost caliber, Tamamo\nCross has already made her\ndebut, and she\nlooks ready to prove to Oguri Cap\nprecisely why."
     },
     {
-      "text": "Word of the matchup spread across the academy in no time—"
+      "name": "Monologue",
+      "text": "Word of their race quickly spread around\nthe academy, and rightfully\nso—both\nparticipants are racers of remarkable\ntalent."
     },
     {
-      "name": "Horsegirl A",
-      "text": "Tamamo-senpai and that transfer student\nare about to have a mock race over there right now!!"
+      "name": "Umamusume A",
+      "text": "Hey, did you hear the news? Tamamo and\nthe new girl are gonna race\nover at the\npractice grounds!"
     },
     {
-      "name": "Horsegirl B",
-      "text": "Really?! We finally get to see what Oguri Cap-san\ncan do up close~! Come on, let's go!"
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Mmh...?"
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "It is awfully noisy.\nIs there a festival about to start here?",
-      "choice_data_list": [
-        "I think everyone came to watch you two race.",
-        "They're all here to watch your race."
-      ]
+      "name": "Umamusume B",
+      "text": "Seriously?! You mean we finally get to see\nOguri Cap in action? We\n<i>gotta</i> see this."
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh... Is that so?\nTo have this many other horsegirls gather..."
+      "text": "Hm?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmm...",
-      "choice_data_list": [
-        "Why are you fidgeting like that?",
-        "Why are you fidgeting like that?"
-      ]
+      "text": "It's awfully loud here. Is there some kind of\nfestival going on today?"
     },
     {
       "name": "Oguri Cap",
-      "text": "No, it's just... back home, I was never\nsurrounded by so many people around my age..."
+      "text": "Is... that so? That's quite the crowd..."
     },
     {
       "name": "Oguri Cap",
-      "text": "I guess I'm not used to it... It makes me feel restless."
+      "text": "Hrmm..."
     },
     {
       "name": "Oguri Cap",
-      "text": "It's the same during mealtimes... When I pile my plate high with food,\npeople can't help but stare..."
+      "text": "Errr, well... I've never been watched by so\nmany people around my\nage. It wasn't like\nthis back home..."
     },
     {
       "name": "Oguri Cap",
-      "text": "I'm not fond of that, so lately I've been eating in my room—"
+      "text": "I'm not used to it... It's making me restless."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "It's the same whenever I eat... The other\ngirls are always staring at the\nmountain of\nfood on my plate..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "And it kinda bothers me, so I've been\neating alone in my room\nlately..."
     },
     {
       "name": "Tamamo Cross",
-      "text": "Aight, sorry to keep ya waitin', Oguri!\nI'm good an' ready to—..."
+      "text": "Sorry for holdin' ya up, Oguri! I'm rea—"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Whoa, hold up?! What's with this massive crowd?!"
+      "text": "<i>Whoa!</i> The stadium's packed, yeah?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah, Tama..."
+      "text": "Um, Tama?"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Hm? What's the matter, Oguri, ya nervous?\nYa'll never survive a GⅠ lookin' like that!"
+      "text": "What? Don't tell me ya got butterflies,\nOguri! How're ya s'posed to\nrun in any of\nthe G1 races?"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Well, if yer gettin' stage fright,\njust picture all their faces as takoyaki!"
+      "text": "I got just the thing for ya! All ya gotta do\nis imagine that eeeveryone\nwatching ya is\na piece of takoyaki!"
     },
     {
       "name": "Oguri Cap",
-      "text": "\"Takoyaki\"... I see. Understood.\nI'll give it a try."
+      "text": "Takoyaki, huh? Hm... I'll give it a shot."
     },
     {
       "name": "Oguri Cap",
-      "text": "..................Now I've gone and made myself hungry."
+      "text": "Hrmmm... Now I'm hungry..."
     },
     {
       "name": "Tamamo Cross",
-      "text": "Y-Yer a real piece of work, ya know that...?"
+      "text": "Ya sure are one peculiar gal..."
     },
     {
-      "text": "And so, the mock race between Oguri Cap\nand Tamamo Cross was finally underway...!"
+      "name": "Monologue",
+      "text": "Finished with their preparations, the\nscrimmage between Oguri Cap\nand Tama\nCross can finally begin."
     },
     {
       "name": "Oguri Cap",
-      "text": "Ngh...!!"
+      "text": "Hnng!"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Lemme show ya what pure Naniwa grit looks like—!!"
+      "text": "I'll show ya what a girl from Naniwa's really\nmade of!"
     },
     {
-      "text": "The distance is 800 meters. Their powerful strides gouge the turf.\nNeither gives a single inch...!"
+      "name": "Monologue",
+      "text": "Each of their steps digs deep into the\nground. It may be just a\nscrimmage, but it\nlooks like neither of them are holding back\nin this\n800 meter dash."
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmh...!!"
+      "text": "Nngh!"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Oguri...! Heh, the real race starts now!!"
+      "text": "I'm just getting started, Oguri!"
     },
     {
-      "text": "The two trade the lead back and forth, over and over, until—!"
-    },
-    {
-      "name": "Tamamo Cross",
-      "text": "*pant*, *whew*...! A dead heat with the exact\nsame time, huh...? Not bad at all, Oguri."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Tama... you're fast, too. Even faster than I expected."
+      "name": "Monologue",
+      "text": "They overtake each other again and again,\nuntil finally—"
     },
     {
       "name": "Tamamo Cross",
-      "text": "Heh, you bet I am! But next time,\nI'm gonna blow right past yer expectations."
+      "text": "<i>Pant, pant...</i> A perfect tie, huh? Not bad,\nOguri."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "You too, Tama. You're faster than I\nexpected."
     },
     {
       "name": "Tamamo Cross",
-      "text": "—Alright! Now I'm all fired up!\nThink I'll go do some roadwork. Catch ya later, Oguri!"
+      "text": "Heh. Right? But I'm gonna beat ya next\ntime, just ya wait and see."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Anyway! Now that I'm all fired up, might\nas well go for a quick run.\nCatch ya later,\nOguri!"
     },
     {
       "name": "Oguri Cap",
-      "text": "………………。",
-      "choice_data_list": [
-        "Great work out there. That was a wonderful race.",
-        "Great work out there. That was a wonderful race."
-      ]
+      "text": "..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah... You were watching?"
+      "text": "Ah, you were watching, huh?"
     },
     {
       "name": "Oguri Cap",
-      "text": "...It's strange. I've always had a pretty strong heart,\nso usually my pulse settles right down after a race..."
+      "text": "It's weird. Doctors told me I had a steady\nheart. Even right after a\nrace, my heart\nrate would go straight back to normal."
     },
     {
       "name": "Oguri Cap",
-      "text": "Right now... it's still pounding fast.\nWhenever I think back to our race just now, my heart won't stop racing."
+      "text": "But... my heart's still pounding. And when I\nthink about the race just\nnow, my heart... it\nraces even faster."
     },
     {
       "name": "Oguri Cap",
-      "text": "It's so strange... yet it feels wonderful.\nCould this be... what excitement feels like...?",
-      "choice_data_list": [
-        "Sounds like you found yourself a great rival.",
-        "Sounds like you found yourself a great rival."
-      ]
+      "text": "It's a strange sensation, but... I think I like\nit. Am I... excited? Is this\nwhat excitement\nfeels like?"
     },
     {
       "name": "Oguri Cap",
-      "text": "A rival..."
+      "text": "A rival... Huh..."
     },
     {
       "name": "Oguri Cap",
-      "text": "I see. So this is what the Central—"
+      "text": "I see. So this is what central has to offer..."
     },
     {
-      "text": "Oguri Cap lingered where she stood for a long time,\nas if trying to hold on to every last bit of that sensation..."
+      "name": "Monologue",
+      "text": "Oguri Cap stood in place, deep in\nthought, reflecting upon this\nbrand-new\nexperience."
     }
-  ],
-  "no_wrap": true
+  ]
 }

@@ -1,156 +1,130 @@
 {
   "title": "Today's a Good Day for a Warm Bento",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Ah, Trainer. \nIs it lunchtime?",
-      "choice_data_list": [
-        "Acute, is that a bento?"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, Trainer. Going to eat lunch?"
     },
     {
-      "text": "Indeed it is. I made it when I was fixing breakfast.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "That's right. I made it together with my\nbreakfast."
     },
     {
-      "text": "A bento that Wonder Acute made. My head ran imagining what the contents of her bento could be, but then—"
+      "name": "Monologue",
+      "text": "I wonder what kind of lunches Wonder\nAcute makes. My imagination\n(or stomach)\nstarts running wild."
     },
     {
-      "text": "Trainer, if you haven't eaten yet, \nwould you like to eat this together?",
-      "choice_data_list": [
-        "Really?",
-        "Really?"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Say, if you haven't had lunch yet, would\nyou like to join me? I could\nuse some help."
     },
     {
-      "text": "Of course. I made a lil too much today and if you ate some of it, it'll make me really happy.",
-      "choice_data_list": [
-        "Okay then, thank you for the meal."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Sure as can be. I made a bit too much\ntoday, so I'd be delighted if\nyou'd take\nsome of it off my plate."
     },
     {
-      "text": "Okay then, thank you for the meal.",
-      "choice_data_list": [
-        "Sorry, I'm already booked today."
-      ],
-      "name": "Senior Trainer"
+      "name": "Senior Trainer",
+      "text": "Oh, <username>! A\nbunch of us were about to\ngrab lunch, you\nwant in? Apparently the new ramen place\nby the\nstation is pretty good."
     },
     {
-      "text": "Oh my! Are you sure you're fine with staying with lil ol' me?",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh! Trainer, you don't have to decline on\nmy account."
     },
     {
-      "text": "If it's the bento, we can always eat together another time, there'll be plenty of opportunities. You should go with them since they invited you.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "I'm sure we'll have plenty more chances to\nshare a bento again. If your\ncompany's\nwanted, you ought to go."
     },
     {
-      "text": "No way I was leaving. I was happy they invited me, sure, but I already agreed to have lunch with her, so I told them—",
-      "choice_data_list": [
-        "Sorry, maybe next time!"
-      ]
+      "name": "Monologue",
+      "text": "I've already made up my mind. Thanking\nhim for the invite, I explain\nto the other\ntrainer that I have plans to eat lunch with\nWonder Acute."
     },
     {
-      "text": "Ah, gotcha gotcha. You already had prior plans. \nAlright, next time it is!",
-      "name": "Senior Trainer"
+      "name": "Senior Trainer",
+      "text": "Oh, okay, didn't know you already had\nplans. Catch you next time,\nthen!"
     },
     {
-      "text": "A bacon and cheese sandwich and meatloaf— \nLooks like Wonder Acute whipped up a homemade western-style bento today."
+      "name": "Monologue",
+      "text": "Wonder Acute lifts the lid off her bento to\nreveal a meal of Western\nhome cooking:\nbacon and cheese sandwiches with\nmeatloaf."
     },
     {
-      "text": "It was difficult to choose between them, but first, I stuffed my face with the sandwich. A thick cut of bacon with tomato on savory rye bread, they all worked well together.",
-      "choice_data_list": [
-        "It's delicious!"
-      ]
+      "name": "Monologue",
+      "text": "It all looks tempting, but a sandwich is my\nfirst victim. The thick slices\nof bacon\nharmonize perfectly with the tomatoes and\nfragrant slices of\nrye bread."
     },
     {
-      "text": "My, oh my… I'm pleased to see such a happy face. Have some black tea as well, deary. It'll be nice and warm since I kept it in a thermos.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "My, my! Seeing such a look of delight on\nyour face just warms my\nheart. Try the tea\ntoo. I put it in a thermos, so it's nice and\nsteamy."
     },
     {
-      "text": "I sipped the black tea. The gentle aroma of the tea leaves wafted into my nose.",
-      "choice_data_list": [
-        "(How relaxing…)"
-      ]
+      "name": "Monologue",
+      "text": "As I take a few sips of tea, the fragrance of\nthe leaves fills my nostrils."
     },
     {
-      "text": "For dessert, I prepared a cherry pie. \nYou can eat as much as you'd like.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "And for dessert, there's a cherry pie with\nyour name on it. You can\nhave as much as\nyou like."
     },
     {
-      "text": "Phew～, we sure ate our fill, didn't we. \nAlso… the sunlight is peaceful…",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Ahh, now that was a satisfying meal. And\nthe sun... is shining just\nright..."
     },
     {
-      "text": "A day like today is perfect for a lil nap basking in the sunlight.",
-      "choice_data_list": [
-        "It really is.",
-        "It really is."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Days like this make you want to lie around\nin the sun and take a nice\nnap."
     },
     {
-      "text": "(Chirp Chirp)"
+      "name": "Monologue",
+      "text": "<i>Chirp, chirp!</i>"
     },
     {
-      "text": "Aw, it's a little bird. Oh, are you making a nest right there? Your little ones seem to be doing well as well.",
-      "choice_data_list": [
-        "I hope they grow up big and strong."
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Oh, the birds are out. Look at that, what a\ncozy place for a nest. The\nlittle ones look\nfull of life."
     },
     {
-      "text": "Thank you for going out of your way for this. I'm sorry I made you turn down an invitation for me.",
-      "choice_data_list": [
-        "No, I wanted to do this, so it's okay…",
-        "No, I wanted to do this, so it's okay…"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Trainer, thank you for spending time with\nme. And I'm sorry you had\nto turn down\nthat invitation."
     },
     {
-      "text": "Fufu… you don't need to over do it. \nYou really are someone who's considerate.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Hehe, you don't have to pretend. You\nreally are the most considerate\nperson,\nyou know that?"
     },
     {
-      "text": "Since you're like that, I've always been #1 in your mind, right? If I think about it, it's always been like that ever since we met—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Just like you did now, you always find a\nway to put me first in your\nmind. Looking\nback, it's been like that ever since we met."
     },
     {
-      "text": "Immediately finding a pecularity and recommending a stretch for it—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "You noticed my quirk right away and\nsuggested a better way I could\nbe\nstretching."
     },
     {
-      "text": "Paying close attention to my condition, making training regimens that perfectly suit me—",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "You looked at me with those keen eyes of\nyours and made a training\nplan tailored\njust so to my needs."
     },
     {
-      "text": "You're such an amazing person, that I can't help but think of myself as the luckiest gal on Earth.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "And to think, I get to have such an\nincredible person as my trainer—I\ncount\nmy blessings every single day."
     },
     {
-      "text": "But, it's okay to value your own pace more, okay?",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "But you know, I think it would do you\nsome good to take things at\nyour own\npace too."
     },
     {
-      "text": "It'd make me very happy if I could see you take it easy for once.",
-      "choice_data_list": [
-        "But, I haven't been over doing it—"
-      ],
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "When I see you going about your business\nnice and slow, that's what\nreally brings a\nsmile to my face."
     },
     {
-      "text": "(Ding dong Ding dong)"
+      "name": "Monologue",
+      "text": "<i>Ding, dong...</i>"
     },
     {
-      "text": "Oh dear, is it that time already? I'll see you again after school. So don't overwork yourself, okay.",
-      "name": "Wonder Acute"
+      "name": "Wonder Acute",
+      "text": "Well, time sure flies by. I'll see you after\nschool, then. Remember not\nto overwork\nyourself, you hear?"
     },
     {
-      "text": "I wanted to clear up this misunderstanding with her, but I was also happy that she was so concerned for my well-being."
+      "name": "Monologue",
+      "text": "I'm glad she's looking out for me, but it\nsounds like there's a\nmisunderstanding that\nneeds clearing up."
     },
     {
-      "text": "I wasn't going to press the issue further, but hopefully she'd come to understand it naturally with time… \nThat's what I thought at the time."
+      "name": "Monologue",
+      "text": "Well, there's no rush. If we just take things\nat our own pace, I'm sure\nwe'll grow to\nunderstand one another in time."
     }
   ]
 }

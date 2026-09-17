@@ -1,264 +1,242 @@
 {
   "title": "An Incident Afoot?! Run, Bamboo!",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "The annual summer training camp—in this refreshing new environment,\nBamboo Memory put even more passion into her training."
+      "name": "Monologue",
+      "text": "As per yearly tradition, it's time for\nTracen's summer camp. The\nchange of\nscenery has Bamboo fired up more than\never."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Feel the burn! Hot-blooded training!!\nSummer Camp Edition: Part Teeeeen!!!!"
+      "text": "Get that blood boiling for an <i>extra</i> red-hot\nstep ten! Feel that summer\nheat and ruuun!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Phaaah!\nHow was that?! What'd you think of my beach dash?!",
-      "choice_data_list": [
-        "Looking sharp!",
-        "Looking sharp!"
-      ]
+      "text": "Haaah... So, what do you think of those\nsand sprints?!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Alright! The sand puts a heavy load on your legs,\nbut not having to worry about hoof wear is a huge plus!"
+      "text": "Yesss! Sand takes more leg strength to run\nthan normal tracks, but it's\nnice not having\nto worry so much about my nails."
     },
     {
       "name": "Bamboo Memory",
-      "text": "...Hm?\nThose two over there... from the arcade incident—"
+      "text": "...Hm? Those two—aren't they the ones\nfrom the arcade that one\ntime?"
     },
     {
-      "name": "Familiar Horsegirls",
-      "text": "Haaaaaaah!!!"
+      "name": "Arcade Duo",
+      "text": "Haaaaah!"
     },
     {
-      "name": "Horsegirl B",
-      "text": "Hehe♪\nAt this rate, looks like we'll wrap up early, huh?"
+      "name": "Student B",
+      "text": "Hehe! ♪ At this pace, we'll smash through\nthe assignment early."
     },
     {
-      "name": "Horsegirl A",
-      "text": "Yeah, totally!\nWe worked so hard, we deserve to have a little fun, right?"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Heh... Blowing off steam is important, after all."
+      "name": "Student A",
+      "text": "Yeah! We did plenty of training, so I say\nwe wrap up and have some\nfun!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Alright, time for another set for me toooo!!"
+      "text": "Heh. Breaktime is important too."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh?\nThose two haven't come back yet?"
-    },
-    {
-      "name": "Horsegirl C",
-      "text": "Yeah...\nI sent them messages, but getting no response."
+      "text": "I've still got plenty of energy for another\nlap, though!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Mmmgh, this is a grave situation!\nDid they mention where they were going?!"
+      "text": "Huh? They still haven't come back?"
     },
     {
-      "name": "Horsegirl C",
-      "text": "Not really... but earlier, some random guy was talking to them.\nSaying stuff like he'd show them around, or they should hang out—"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "That's it!!"
+      "name": "Student C",
+      "text": "No... I've been messaging them, but they\nhaven't replied."
     },
     {
       "name": "Bamboo Memory",
-      "text": "The Disciplinary Committee protects students in danger!\nI'm going to save them!!"
+      "text": "Hrmmm, I've got a bad feeling about this!\nDid they say anything\nabout where they\nwere going?"
     },
     {
-      "name": "Horsegirl C",
-      "text": "Ah, wait, shouldn't we contact a Trainer\nor an adult first...?!"
-    },
-    {
-      "name": "Horsegirl C",
-      "text": "...We really should, right?\nUmm, Bamboo's Trainer is—"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Hmm... Was this really a good idea?"
-    },
-    {
-      "name": "Shady Guy",
-      "text": "Totally fine, totally fine!\nNobody's gonna notice if you're a little late♪"
+      "name": "Student C",
+      "text": "Not really... But this afternoon, I saw a man\nstart a conversation with\nthem. He was\nsaying he could show them around some\nfun places in\nthe area..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "HOLD IT RIGHT THERE!\nEveryone already noticed!!"
+      "text": "THAT'S OUR PERP!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Keep this up and a strict warning won't be the end of it!\nBoth of you, come back with me right now!"
+      "text": "Rest assured, the disciplinary committee is\nhere to keep students safe!\nI'll go save\nthem!"
     },
     {
-      "name": "Horsegirl B",
-      "text": "There you go again...! We just—!"
+      "name": "Student C",
+      "text": "Wait! We should tell an adult first!"
+    },
+    {
+      "name": "Student C",
+      "text": "We're supposed to get a trainer, right?\nUm, I think Bamboo's trainer\nwas..."
+    },
+    {
+      "name": "Student A",
+      "text": "Umm... Are you sure this is okay?"
+    },
+    {
+      "name": "Shallow Man",
+      "text": "It's fiiine. No one'll notice if you're back a\nbit late."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Having fun is just as important as running, right?\nProbably just as important as kendo is to me..."
+      "text": "Stop right there! I know what you're up to!"
     },
     {
-      "name": "Horsegirl A",
+      "name": "Bamboo Memory",
+      "text": "And you two—you're not getting off with a\nwarning this time! C'mon,\nI'm taking you\nback!"
+    },
+    {
+      "name": "Student B",
+      "text": "Not the fun police... Just leave us alone!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "I'm not here to take away your free time.\nIt's just as important as\nrunning, right? I\nknow I wouldn't want to give up my kendo\ntime..."
+    },
+    {
+      "name": "Student A",
       "text": "Huh?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I learned that lesson too.\nHow fun and important it is to blow off steam—"
+      "text": "I reconsidered a lot of stuff since last time.\nAnd now, I get why having\ntime to play is\nso essential."
     },
     {
       "name": "Bamboo Memory",
-      "text": "But if you break the rules like this, you won't be able to run OR have fun!\nThat would be an absolute waste!"
+      "text": "But what you're doing right now is\ndangerous. That man could take\nboth\nracing and leisure away from you! And I\ncan't let that happen!"
     },
     {
-      "name": "Horsegirl B",
-      "text": "M-Mind your own business!\nYou don't know the first thing about us!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "...It's true, I might not know\nevery single detail about you."
+      "name": "Student B",
+      "text": "W-what we do is none of your business!\nWe're not taking orders from\nsome jerk\nwho doesn't even know us!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "But there's one thing I know for sure!\nYou're horsegirls who want to win your races!"
+      "text": "...I'll admit, I may not know much about\nyou or your hobbies."
     },
     {
       "name": "Bamboo Memory",
-      "text": "If you just wanted to mess around, you could do that anytime. But you\npower through grueling training and keep pouring your souls into running!"
+      "text": "But even so, deep down... I know you're\njust like me. You wanna run,\nand you\nwanna <i>win!</i>"
     },
     {
       "name": "Bamboo Memory",
-      "text": "You have dreams, right?! You have that burning desire to win!\nBut if you cause trouble here, you'll throw all of that away..."
+      "text": "If all you cared about was having fun, you\ncould've quit racing. But\nyou didn't. You\nstuck it out through all the rigorous\ntraining!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I can't stand the thought of that happening!!"
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Committee head..."
-    },
-    {
-      "name": "Shady Guy",
-      "text": "Listen, that whole hot-blooded straight shooter routine?\nIt's totally out of style. Ancient history, kid."
-    },
-    {
-      "name": "Shady Guy",
-      "text": "These girls said they wanna come, so back off.\nCome on, let's go, girls."
+      "text": "Because you've both got dreams! You've\ngot races you wanna win!\nAnd if you invite\ntrouble here, all the work you've done'll\ngo down\nthe drain..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hey, hold on! Stop right there!!"
+      "text": "I won't <i>ever</i> let that happen!"
     },
     {
-      "name": "Shady Guy",
-      "text": "Let go!\n...Damn it! My bag...!"
+      "name": "Student B",
+      "text": "Chairman..."
     },
     {
-      "name": "Horsegirl B",
-      "text": "What is this memo...\n'Prestigious Tracen Academy Students Night Out During Training Camp'...?!"
+      "name": "Shallow Man",
+      "text": "Blegh, am I watching a kid's show or\nsomething? That motivational\nsports crap\nwas dumb, even for a toddler."
     },
     {
-      "name": "Bamboo Memory",
-      "text": "This phone has video recording turned on... I see now.\nYou're a tabloid paparazzi fishing for a scandal!"
-    },
-    {
-      "name": "Shady Guy",
-      "text": "You little punk...! Give that back right now!!",
-      "choice_data_list": [
-        "BAMBOO!!!"
-      ]
-    },
-    {
-      "name": "Police Officer",
-      "text": "You there, freeze! Police!!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Just in the nick of time—right before the suspicious man could grab\nBamboo Memory, we managed to rush in alongside the police."
+      "name": "Shallow Man",
+      "text": "These little ladies here already said they'd\nrather be out having fun.\nC'mon, let's go."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Trainer?!\nThe police too... but why...",
-      "choice_data_list": [
-        "One of the students told me you guys might be in danger.",
-        "One of the students told me you guys might be in danger."
-      ]
+      "text": "Hey, wait! Stop!"
     },
     {
-      "name": "Police Officer",
-      "text": "That wraps it up.\n...Alright pal, let's hear the rest of your story down at the station!"
+      "name": "Shallow Man",
+      "text": "Let go! ...Damn it, you made me drop\neverything!"
     },
     {
-      "name": "Horsegirl A",
-      "text": "Th-That was so scary...!"
+      "name": "Student B",
+      "text": "What are all these notes? \"Tracen Elites\nDitch Camp for Local\nNightlife\"?!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Everything's okay now!\nPublic order has been successfully defended!",
-      "choice_data_list": [
-        "It is NOT okay at all!!"
-      ]
+      "text": "It looks like his phone's been recording\neverything you said... I see\nhow it is. You're\nsome tabloid jerk trying to stir up trouble!"
+    },
+    {
+      "name": "Shallow Man",
+      "text": "You brat... Give that back!"
+    },
+    {
+      "name": "Policeman",
+      "text": "Put your hands up! This is the police!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Just as the man starts to lunge at Bamboo\nfor the phone, our shouts\nstartle him just\nlong enough for the officer to grab him.\nI'm so glad we\nmade it in time..."
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh?",
-      "choice_data_list": [
-        "I was terrified you'd get caught up in something dangerous!",
-        "I was terrified you'd get caught up in an incident!"
-      ]
+      "text": "Trainer?! And a police officer?"
+    },
+    {
+      "name": "Policeman",
+      "text": "I'm going to take this man in for\nquestioning.\n...And <i>you</i> are gonna have a\nlot to answer for at the station!"
+    },
+    {
+      "name": "Student A",
+      "text": "I-I was so scared!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "I-I'm really sorry, sir..."
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Pfft, look who's getting an earful~"
+      "text": "It's okay now! Discipline and order have\nbeen restored!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "S-Shut it! You're the ones who\ngot us into this mess in the first place—"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Yeah, we were in the wrong. The Disciplinary\nCommittee head was genuinely worried about us, too."
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Well, we definitely learned our lesson. Besides...\nwe've got one too, y'know. A dream of our own, that is."
+      "text": "Huh?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Then that's all that matters!\nLet's all sprint toward our dreams at full throttle together, sirrr!!"
+      "text": "Oh, I-I'm sorry..."
     },
     {
-      "name": "Narrator",
-      "text": "After that, the two girls strictly adhered to the rules,\nand had the time of their lives letting loose at the\nsummer festival held on the final day of the training camp."
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Right on! Keeping it wholesome while running\nand having fun is definitely the best, sir!",
-      "choice_data_list": [
-        "Make sure you enjoy yourself too, Bamboo.",
-        "You have some fun too, Bamboo."
-      ]
+      "name": "Student B",
+      "text": "Heh, who's the rule-breaker now?"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes, sir! I'll uphold discipline, take a breather,\nand absolutely win every single race!!"
+      "text": "Sh-shut up! I wouldn't be out here if <i>you</i>\nhadn't—"
+    },
+    {
+      "name": "Student A",
+      "text": "It's fine, we get it. We messed up bad, and\nyou really <i>were</i> just trying\nto help us."
+    },
+    {
+      "name": "Student B",
+      "text": "Yeah, I think we learned our lesson with\nthis one. And, uh... you're not\nexactly\nwrong... We do have dreams."
     },
     {
       "name": "Bamboo Memory",
-      "text": "But... if I ever make a mistake like this again,\nplease make sure to scold me properly, sir."
+      "text": "I'm glad to hear it! Let's all keep running\nstrong and steady towards\nthose goals!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Following the close call, the rule-breaking\npair amend their ways.\nEveryone puts their\nheart and soul into training—and into\nenjoying\nthe festival and fireworks\nafterwards!"
     },
     {
       "name": "Bamboo Memory",
-      "text": "Trainer! I look forward to working hard\nunder your guidance, sir!!"
+      "text": "Mm-hm! Y'know what? \"Work hard, play\nhard\" really is the way to go!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Yep! I'll uphold all the rules perfectly, get\nplenty of rest and\nrelaxation, and then I'll\nwin all my races when we get home from\n\ncamp!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "But, uh... If I do anything dumb like the\nother night, don't hesitate to\nput me back\non track."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Got it?! I'm looking forward to LOTS more\nred-hot training with you!"
     }
-  ],
-  "no_wrap": true
+  ]
 }

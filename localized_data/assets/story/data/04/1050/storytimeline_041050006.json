@@ -1,276 +1,242 @@
 {
   "title": "Nobody goes in.",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Taishin",
-      "text": "*pant*... *pant*... *pant*...!"
+      "text": "<i>Huff... Puff...</i>"
     },
     {
       "name": "Narita Taishin",
-      "text": "—Alright, that's it for today's routine...!"
+      "text": "There, that's all of today's drills!"
     },
     {
-      "name": "Narrator",
-      "text": "Training with Narita Taishin has been progressing smoothly.\nI can tell she feels the results herself. However—"
+      "name": "Monologue",
+      "text": "Narita Taishin's training is going well, and\nshe's getting into the swing\nof it. But\nsomething is still missing..."
     },
     {
-      "name": "Rookie Trainer",
-      "text": "—Great work again today!\nYou're coming along nicely for the next race!"
+      "name": "New Trainer",
+      "text": "Really nice results today! You're almost\nready for the next race!"
     },
     {
-      "name": "Friendly Horsegirl",
-      "text": "Really?! Ehehehe, guess I can look forward\nto a nice reward after the race then~, just saying♪"
+      "name": "Cheerful Umamusume",
+      "text": "For real?! Hehehe, guess I better get\nready for my big reward, huh? ♪"
     },
     {
-      "name": "Rookie Trainer",
-      "text": "Oh, that's what you want?! All right then, I gotta make sure\nto book that special premium dessert course from you-know-where!"
+      "name": "New Trainer",
+      "text": "Ah, there it is! Sure thing, lemme just make\na reservation for that\npremium dessert\nbuffet you've been dreaming about!"
     },
     {
-      "name": "Narrator",
-      "text": "Watching the dynamic between other Trainers and their horsegirls\nsometimes gives me pause for thought.",
-      "choice_data_list": [
-        "(Should I try to get to know Taishin better...?)"
-      ]
+      "name": "Monologue",
+      "text": "Seeing other trainers with their racers, I\ncan't help but think..."
     },
     {
-      "name": "Narrator",
-      "text": "The only time I see her is during training sessions.\nBecause of that, I know next to nothing about her private life.",
-      "choice_data_list": [
-        "Taishin, got a minute?",
-        "Taishin, do you have a second?"
-      ]
+      "name": "Monologue",
+      "text": "For the most part, I only see her during\ntraining. I know next to\nnothing about\nTaishin herself."
     },
     {
       "name": "Narita Taishin",
-      "text": "...What?\nI finished today's workout already. You still want something?",
-      "choice_data_list": [
-        "Is there anywhere you'd like to go sometime?"
-      ]
+      "text": "What? I did all my routines. Am I missing\nsomething?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh...?"
+      "text": "Huh?"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Not really. I don't have time to fool around with you.\nAnyway, I'm cooling down and calling it a day."
+      "text": "Not really. I don't have time to keep you\ncompany anyway. I'm gonna\ncool down\nand head back."
     },
     {
-      "name": "Narrator",
-      "text": "...And off she went.\nMaybe an opportunity to learn more will present itself as our bond deepens, but..."
+      "name": "Monologue",
+      "text": "And she's gone... Hopefully I'll get to\nknow her better as we train\nmore."
     },
     {
-      "name": "Narrator",
-      "text": "Then one day, a letter arrived addressed \"To All Academy Staff.\"\nEnclosed was an aquarium ticket given as a token of appreciation from the Academy."
+      "name": "Monologue",
+      "text": "One day, a letter goes out to all faculty. It\nturns out to be a bonus\nfrom the\nacademy—tickets to an aquarium."
     },
     {
-      "name": "Narrator",
-      "text": "I thought about taking Narita Taishin along, but she'd just turned down my invitation.\nWith no other choice, I decided to go alone on my day off."
+      "name": "Monologue",
+      "text": "I would've invited Taishin, but she turned\nme down last time I tried.\nSo, I head off by\nmyself."
     },
     {
-      "name": "Narrator",
-      "text": "A small aquarium situated out on the city outskirts. Quiet, with barely anyone around.\nAs a sparse trickle of people passed by now and then—"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "…………。"
-    },
-    {
-      "name": "Narrator",
-      "text": "—I suddenly spotted a very familiar figure.",
-      "choice_data_list": [
-        "(...Taishin?)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "I thought about calling out to her, but—"
+      "name": "Monologue",
+      "text": "It's a small aquarium in the suburbs, quiet\nand with only a sprinkling of\nvisitors."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Guess I'll move along.",
-      "choice_data_list": [
-        "(Her expression... looks so gentle.)",
-        "(Her face looks so calm...)"
-      ]
+      "text": "..."
     },
     {
-      "name": "Narrator",
-      "text": "It was completely different from her usual self. Seeing her like that made me hesitate,\nand before I knew it, I was simply watching her walk away in silence."
+      "name": "Monologue",
+      "text": "...One of whom I recognize."
     },
     {
-      "name": "Narrator",
-      "text": "...Then again, it was a pretty small aquarium.\nAs I kept strolling, I ended up spotting her again."
-    },
-    {
-      "name": "Narrator",
-      "text": "The sign read \"Exciting Touch Pool.\"\nApparently, you could dip your hands in the tank to interact directly with doctor fish."
+      "name": "Monologue",
+      "text": "While I debate whether to say something,\nshe mumbles to herself."
     },
     {
       "name": "Narita Taishin",
-      "text": "…………。"
+      "text": "...What's next?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Something's different than usual.\nPerplexed, I watch silently as she\ndrifts off\nto another area."
+    },
+    {
+      "name": "Monologue",
+      "text": "But it's a small aquarium, and as I stroll\naround, I wind up seeing her\nagain."
+    },
+    {
+      "name": "Monologue",
+      "text": "She's standing by the \"Fishy-Fun-Time\"\ntouch tank, staring down the\ndoctorfish\ninside."
     },
     {
       "name": "Narita Taishin",
-      "text": "...All right."
-    },
-    {
-      "name": "Narrator",
-      "text": "After cautiously making sure nobody was around,\nshe steeled her nerves and plunged her hands into the tank...!"
+      "text": "..."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Eeeek!"
+      "text": "Here I go."
     },
     {
-      "name": "Narrator",
-      "text": "The result of her daring attempt—\nJudging by her reaction, it tickled like crazy."
-    },
-    {
-      "name": "Narrator",
-      "text": "Before long, dusk began to settle in..."
-    },
-    {
-      "name": "Narrator",
-      "text": "The crowd thinned out even further, leaving the place almost entirely empty.\nThe interior had fallen dead silent, like the depths of the ocean floor."
+      "name": "Monologue",
+      "text": "She cautiously checks if anyone is around,\nthen gathers her courage\nand dips a hand\nin."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Hehe."
+      "text": "...!"
     },
     {
-      "name": "Narrator",
-      "text": "Right in the middle of it all, all on her own,\nshe was happily snapping photos of a school of fish."
+      "name": "Monologue",
+      "text": "Her worry melts away as the squirming fish\ntickles her fingers."
     },
     {
-      "name": "Narrator",
-      "text": "A girl who hates crowds, smiling at a school of fish.\nGiven how she usually acts, it was an incredibly rare sight—"
+      "name": "Monologue",
+      "text": "Later, as the sun begins to set..."
     },
     {
-      "name": "Narita Taishin",
-      "text": "...Hm?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "—Ack! What are you doing here...?"
-    },
-    {
-      "name": "Narrator",
-      "text": "By the time I realized it was too late to look away, I had to awkwardly scramble to greet her.",
-      "choice_data_list": [
-        "Ah, haha, what a coincidence.",
-        "U-Um, yeah, small world, isn't it?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Would she snap at me, asking if I'd been quietly watching her?\nBracing myself, I timidly searched her face—"
+      "name": "Monologue",
+      "text": "There are barely any visitors now. The\naquarium is still and noiseless\nas the deep\nsea."
     },
     {
       "name": "Narita Taishin",
-      "text": "...This place is always like this, you know."
+      "text": "Hehe."
     },
     {
-      "name": "Narrator",
-      "text": "All I saw was a gentle, relaxed smile."
+      "name": "Monologue",
+      "text": "And all alone, joyfully snapping pics of the\nenergetic sea creatures, is\nTaishin."
     },
     {
-      "name": "Narrator",
-      "text": "Perhaps it was this endless expanse of tranquil blue that put her at ease.\n...Narita Taishin quietly continued."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "There's that much bigger, flashy aquarium pretty close by, right?\nBig tour groups and crowds usually just flock over there instead."
+      "name": "Monologue",
+      "text": "For someone who hates groups, she has an\nawfully big smile looking\nat the school of\nfish."
     },
     {
       "name": "Narita Taishin",
-      "text": "So it's pretty much always quiet here. Lots of solo visitors, too.\nEven when there are people, they're just fish geeks glued to the tanks, so—"
+      "text": "Hm?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Not a single soul gives a damn about me."
+      "text": "Wha! It's you!"
     },
     {
-      "name": "Narrator",
-      "text": "The quiet building. The understated background music. The familiar girl before me—"
+      "name": "Monologue",
+      "text": "I freeze like a deer in headlights. A wave\nof embarrassment washes\nover me as I\nstruggle to reply."
     },
     {
-      "name": "Narrator",
-      "text": "Yet the expression she wore was one I had never seen before."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Though, the fish—who knows?\nI wonder if these guys even realize I'm here... Heh."
+      "name": "Monologue",
+      "text": "Smooth. If she realizes I was watching her,\nI don't even want to <i>think</i>\nhow mad she'll\nbe..."
     },
     {
       "name": "Narita Taishin",
-      "text": "Well, either way's fine by me.\nIt feels like they're just \"existing.\""
+      "text": "It's always like this here, you know."
+    },
+    {
+      "name": "Monologue",
+      "text": "She smiles, not a hint of anger to be heard\nin her voice."
+    },
+    {
+      "name": "Monologue",
+      "text": "Maybe it's the tranquil blue ambience...\nbut she seems so gentle."
     },
     {
       "name": "Narita Taishin",
-      "text": "I don't really mind... It's easier for me that way, honestly."
+      "text": "There's another bigger, fancier aquarium\nnearby. So pretty much\neveryone goes\nthere now."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Hm? What are you smiling at?",
-      "choice_data_list": [
-        "Oh, nothing... Not a thing.",
-        "Nothing... Just happy to see you."
-      ]
+      "text": "That's why it's always quiet here. Most\ncome by themselves. And\nthey're all\nfish-lovers, so they just stare at the tanks\nthe whole time."
     },
     {
       "name": "Narita Taishin",
-      "text": "Whatever... Weirdo."
+      "text": "They don't give a second thought to me."
+    },
+    {
+      "name": "Monologue",
+      "text": "She pauses, her words fading into the\nbackground music."
+    },
+    {
+      "name": "Monologue",
+      "text": "For all the time we've spent together, I've\nnever seen her make a face\nlike this."
     },
     {
       "name": "Narita Taishin",
-      "text": "Anyway, I'm heading out.\n...This place closes pretty early, so keep an eye on the time."
-    },
-    {
-      "name": "Narrator",
-      "text": "And with that, I quietly watched her walk away.",
-      "choice_data_list": [
-        "(Today turned out to be a pretty nice day.)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "That thought gently crossed my mind..."
-    },
-    {
-      "name": "Friendly Horsegirl",
-      "text": "—Yesss, new personal best! Trainer, don't you think\nyou oughta go ahead and book that deluxe dessert set right now~?!"
-    },
-    {
-      "name": "Rookie Trainer",
-      "text": "Hold your horses! A new record is amazing and all,\nbut sweets are a reward for winning an actual race...!"
-    },
-    {
-      "name": "Narrator",
-      "text": "Seeing other Trainers and horsegirls sharing laughs looks fun, sure.\nHowever—"
+      "text": "But how about you, fishies? I wonder if\nthey notice me... Hehe."
     },
     {
       "name": "Narita Taishin",
-      "text": "—*Pant*, *pant*, *pant*... Whew.",
-      "choice_data_list": [
-        "Great work, Taishin."
-      ]
+      "text": "Whatever, it doesn't matter. They aren't\nreally watching. They're just\naround."
     },
     {
       "name": "Narita Taishin",
-      "text": "Yeah. ...Skip the pep talk, what's next?",
-      "choice_data_list": [
-        "Right on it!"
-      ]
+      "text": "It's fine... I like it that way—makes it easier\nfor me."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Why are you so pointlessly energetic today?"
+      "text": "Hm? Hey, what's that grin for?"
     },
     {
-      "name": "Narrator",
-      "text": "The way things are between Narita Taishin and me is just fine.\nI had finally come to believe that with all my heart."
+      "name": "Narita Taishin",
+      "text": "That so? You're kinda weird sometimes."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Well, I gotta go. This place closes pretty\nearly, so watch out."
+    },
+    {
+      "name": "Monologue",
+      "text": "I look on as the mysterious aquarium-goer\ndisappears into the\ndistance."
+    },
+    {
+      "name": "Monologue",
+      "text": "Hopefully, it's a sign of progress."
+    },
+    {
+      "name": "Cheerful Umamusume",
+      "text": "Whoo-hoo! A new record! Hey, maybe it's\ntime to make reservations\nfor the premium\ndessert buffet, huh?"
+    },
+    {
+      "name": "New Trainer",
+      "text": "Hold on a minute! Breaking your record's\namazing, but the dessert's\nyour big prize\nfor when you win the race!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The banter between trainer and trainee\nlooks fun, but this time... I\nfeel a little less\nenvious."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Huff, puff...</i> Phew..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yep... Enough chitchat though. Let's keep\nit moving."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Umm, is it me, or are you crazy happy\ntoday?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I've come to realize that I'm happy the way\nthings are."
     }
-  ],
-  "no_wrap": true
+  ]
 }
