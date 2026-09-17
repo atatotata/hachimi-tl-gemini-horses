@@ -1,5 +1,5 @@
 ## 2026-09-17 -- Fix Error 102 (schedule UI keys)
-Excluded 13 career schedule UI keys from localize_dict that were being serialized into network payloads during schedule Load (SingleMode418025..418037: Load, Save changes, Schedule {0}, etc.). Game validates these strings server-side; English text triggers Error 102. localize_dict now has 7,559 keys (down from 7,900).
+Excluded 13 career schedule UI keys from localize_dict that were being serialized into network payloads during schedule Load (SingleMode418025..418037: Load, Save changes, Schedule {0}, etc.). Game validates these strings server-side; English text triggers Error 102. localize_dict now has 7,887 keys (13 excluded from 7,900).
 
 ## 2026-09-17 -- Fix Error 102 (stale atlas manifests)
 Removed 3 stale atlas diff PNGs (common, factorresearch, racecommon) whose dimensions no longer matched current JP meta after game update. Updated atlas JSON bundle hashes. Fixes Communication Error: Error 102 on full flavor.
