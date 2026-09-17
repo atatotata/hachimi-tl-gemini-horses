@@ -1,3 +1,6 @@
+## 2026-09-17 -- 100% master.mdb coverage
+Filled all 1,414 previously-untranslated text_data rows (1,281 single-mode story titles in cat 181, 91 character lore in cat 92, 32 UI in cat 191, 8 scenario in cat 290, 2 counters in cat 355). Zero untranslated master rows remain.
+
 ## 2026-09-17 -- Global official EN home + lyrics
 653 home voice timelines and 32 song lyric files overlaid from Global bundles. Home keeps 794 JP-only lines; 2 lyric-less songs keep repo placeholders.
 
