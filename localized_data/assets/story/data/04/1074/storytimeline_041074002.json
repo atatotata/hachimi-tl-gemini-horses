@@ -1,242 +1,206 @@
 {
   "title": "A Guiding Light of Fond Devotion",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "—One week remaining until Mejiro Bright's Debut Selection Race. I had to\nbring out more of her running potential before then, and yet..."
+      "name": "Monologue",
+      "text": "There's a week left until Mejiro Bright's\nrace in the tryouts. I've got to\nfigure out\nhow to realize her potential before then."
     },
     {
       "name": "Mejiro Bright",
-      "text": "—And so, allow me to introduce everyone~."
+      "text": "First things first, let me introduce you to\neveryone."
     },
     {
       "name": "Mejiro Bright",
-      "text": "From the left: Dober, with her dignified strength; the proud McQueen-sama;\nand my dearest, kindest big sister, Ryan-oneesama~."
+      "text": "From the left, we have the elegant Dober,\nfollowed by the proud\nMcQueen. And last\nbut not least, the kind Ryan, whom I love\nvery\ndearly."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ehehe. Welcome to our tea party!\nSo, Bright... who is this?"
+      "text": "Hehe, welcome to our tea party. Oh, and\nBright? Who's this again?"
     },
     {
       "name": "Mejiro Bright",
-      "text": "Yes. This is my Temporary Trainer-sama~."
+      "text": "Oh, this is Provisional Trainer."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Temporary...?",
-      "choice_data_list": [
-        "I'm supervising her training until the Debut Selection Race..."
-      ]
+      "text": "...Provisional?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Ah... I see. That is coming up very soon, isn't it?\nReceiving focused guidance from a professional is of the utmost importance."
+      "text": "Ah, I see. The tryouts are indeed\napproaching, and having a\nprofessional\ngive you feedback is very important."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "So, so, how's training with Bright going?\nI know you two just got started, though!",
-      "choice_data_list": [
-        "Well, about that...",
-        "Well, you see..."
-      ]
+      "text": "So? Spill the beans—how's Bright holding\nup? You two might've just\nstarted training,\nbut still, I gotta know!"
     },
     {
       "name": "Mejiro Bright",
-      "text": "*pant*... *pant*~... ...All right, here I...!\n...Oh, my? I have crossed the finish line again~..."
+      "text": "Hah, whew... Aaand now! O-oh my. It\nseems I've crossed the finish\nline again..."
     },
     {
-      "name": "Narrator",
-      "text": "Just as I had observed, her easygoing nature resulted in sluggish starts,\nand she struggled with pacing, unable to judge when to accelerate on her own."
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "May I run a little more~?\nI am still full of energy. Please, give me any instruction you wish~."
-    },
-    {
-      "name": "Narrator",
-      "text": "Even so, her running was by no means lacking. Looking past that first\nimpression revealed just how long and sustained her late drive could be."
-    },
-    {
-      "name": "Narrator",
-      "text": "With clear tactical directions on when to make her move, we could cover\nher weaknesses. All that remained for victory was—"
+      "name": "Monologue",
+      "text": "Just as I'd suspected, her starts could use\nsome work—probably due\nto her mellow\nmanner. On top of that, she tends to\nforget to\naccelerate in the final stretch."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Temporary Trainer-sama, would you care for some tea~?\nPlease try adding these stewed apples to it. Here you are~.",
-      "choice_data_list": [
-        "...Oh, this is delicious!"
-      ]
+      "text": "Do you mind if I keep running for a bit?\nI'm still brimming with energy,\nso let us\nmove on to the next training item."
+    },
+    {
+      "name": "Monologue",
+      "text": "Still, her running form itself isn't bad at all.\nFrom an objective\nstandpoint, she\ndefinitely has the ideal legs for racing."
+    },
+    {
+      "name": "Monologue",
+      "text": "If I can coach some strategy and timing\ninto her, then she should be\nable to make\nup for her weaknesses. Now she just\nneeds—"
     },
     {
       "name": "Mejiro Bright",
-      "text": "Isn't it~? It warms you up right down to your heart~.\nA cup of hot tea is truly a blessing during the cold winter."
+      "text": "Provisional Trainer, would you like some\ntea? It goes very well with a\ndash of apple\ncompote. Give it a try."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Dober was the one who taught me to drink it this way~. She is so dependable\nand teaches me so many things... Isn't she wonderful~?"
+      "text": "Pleasant, isn't it? A cup of tea can make\nyou feel all warm and fuzzy.\nPerfect for a\ncold winter's day."
     },
     {
       "name": "Mejiro Bright",
-      "text": "McQueen-sama is terribly kind as well. Whenever I am sunbathing,\nshe drapes a blanket over me..."
+      "text": "To tell you the truth, Dober taught me\nthis. She has it all together,\nand she's\ntaught me countless things. Isn't she just\nlovely?"
     },
     {
       "name": "Mejiro Bright",
-      "text": "And above all else, her running form is simply breathtaking~!\nGraceful, gorgeous, and ideal. It leaves me utterly enchanted every time."
+      "text": "And when I'm out basking in the sun,\nMcQueen often comes to drape\na blanket\nover me. I'm blessed by her kindness."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "And I haven't even begun to speak of her\nbeautiful running! She's\nelegant and\ngorgeous—my ideal. Every time she runs,\nI'm <i>mesmerized.</i>"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I know, right?!\nMcQueen really does have such a beautiful stride~."
+      "text": "Right?! It doesn't get better than\nMcQueen's running."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Ufufu~.\nI adore your running just as much, Ryan-oneesama."
+      "text": "Teehee. I love your running too, Ryan."
     },
     {
       "name": "Mejiro Bright",
-      "text": "So powerful, making the ground rebound with every single stride...\nIt reflects your strong spirit, and I admire it deeply."
+      "text": "Each of your steps is filled with power, as\nif you're bounding off the\nearth with each\nstride. It reflects your strength of will, and\nI admire\nthat very much."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Waaah, you're exaggerating way too much!"
+      "text": "Whoa, now you're just laying it on thick!"
     },
     {
       "name": "Mejiro Bright",
-      "text": "I am not exaggerating at all.\nI truly love and respect all of you from the bottom of my heart."
+      "text": "It's all true, you know? I sincerely respect\nand admire all of you here."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Indeed. Everyone in our family, staff included, is truly remarkable.\n...Bright might have made a delightful host for our upcoming event.",
-      "choice_data_list": [
-        "An event?"
-      ]
+      "text": "Indeed, we're surrounded by brilliant\ntalents. I'm sure that if Bright\nhosted the\nupcoming event, it would turn out to be a\ngreat success."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes, we are hosting a talk show event for our fans soon,\ngathering the members of the Mejiro family who have already debuted."
+      "text": "A meet and greet is being held soon where\nMejiro racers who've\nmade their debuts\ninteract with their fans."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Dober and I haven't debuted yet, so we are merely going to observe~.\nOh, if you would like, please come along with us, Temporary Trainer-sama.",
-      "choice_data_list": [
-        "I'd love to!"
-      ]
+      "text": "Dober and I have yet to debut, so we shall\nonly be watching. Ah, but\nif you would\nlike, please do join us, Provisional Trainer."
     },
     {
-      "name": "Narrator",
-      "text": "After enjoying tea for a while longer, we all headed back to the academy.\nWhile waiting alone for Mejiro Bright to change for training..."
+      "name": "Monologue",
+      "text": "After the tea party, everyone returns to\nthe academy. I'm currently\nwaiting for my\nprovisional trainee, Mejiro Bright."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Bright's Trai—er, Temporary Trainer!\nThank you so much for today. I had a great time thanks to you!",
-      "choice_data_list": [
-        "Sorry for barging in on you all so suddenly.",
-        "Sorry for barging in on you all so suddenly."
-      ]
+      "text": "Bright's train—I mean Provisional Trainer!\nJust wanted to say thanks\nfor today. It was\nfun having you around!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Not at all! Bright brought you along, right?\nThen I'm sure there's a good reason for it."
+      "text": "Hey, don't sweat it. Didn't Bright drag you\nthere anyways? I'm sure\nshe had her own\nreasons."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "She might seem a bit spacey on the outside, you know?\nBut deep down, she's got an incredibly strong core.",
-      "choice_data_list": [
-        "A strong core...?"
-      ]
+      "text": "You know how she's always so chill and\nlaid-back? Actually, she's a\nreal tough\ncookie."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Hehe, yeah! ...I'm really not the kind of person anyone should look up to.\nYet whenever Bright says something... it gives me real confidence."
+      "text": "Haha, yup! I'm not the kind of gal\nsomeone should be lookin' up to.\nBut when\nBright tells me how much I mean to her,\neven I... can believe\nin myself a little bit."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "So I'm sure she has a solid reason for choosing you, too.\n...Please, take good care of her!"
+      "text": "So if Bright's picked you out as her trainer,\nthen I bet she's got a\ngood reason. Make\nsure you take good care of her, all right?"
     },
     {
-      "name": "Narrator",
-      "text": "...Speaking of which, we should explain the situation and ask them to wait.\nI'm sure they'll understand, though they might get bored in the meantime..."
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "—Well, you see...\nIt's because you paused to gaze at the fallen leaves with me~.",
-      "choice_data_list": [
-        "Fallen leaves...?"
-      ]
+      "name": "Monologue",
+      "text": "Ryan brings up a good point. Why did\nMejiro Bright trust me with\noverseeing her\ntraining? I guess I should ask her."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Yes~. By nature, I seem to be quite the slowpoke~.\nBoth my thoughts and my growth lag behind everyone else."
+      "text": "Well, if I had to say, it's because you\nwatched that leaf together with\nme."
     },
     {
       "name": "Mejiro Bright",
-      "text": "Ever since I was little, straight through to this very day...\nI have let down so many people who placed their hopes in me."
+      "text": "Yes. As you can probably tell, I'm a bit of\nan airhead. Compared to\nmy peers, it\ntakes me longer to gather my thoughts,\nand even longer\nto improve myself."
     },
     {
       "name": "Mejiro Bright",
-      "text": "—As a Mejiro horsegirl, it is truly shameful.",
-      "choice_data_list": [
-        "……！"
-      ]
+      "text": "I've always been like this, even when I was\na child. I've failed to live\nup to the\nexpectations of so many people."
     },
     {
       "name": "Mejiro Bright",
-      "text": "...Even so, I do not believe I am a lost cause.\nThough my steps may be leisurely, I too am a daughter of Mejiro."
+      "text": "As an Umamusume of the Mejiro family,\nthere is no greater shame."
     },
     {
       "name": "Mejiro Bright",
-      "text": "I entered the Debut Race thinking it was time to prove my strength.\nYet deep down, I knew I could not achieve the results I longed for as I was."
+      "text": "Be that as it may, I still believe in my own\nabilities. Though I may walk\nin the shadow\nof my peers, I am still a Mejiro through and\nthrough."
     },
     {
       "name": "Mejiro Bright",
-      "text": "That was when I met you. Someone who looked up at the sky\nat the very same unhurried pace as me..."
+      "text": "I wanted to enter the tryouts so I could\nfinally show the world my true\npotential.\nYet as I was, I could not hope to\naccomplish that goal."
     },
     {
       "name": "Mejiro Bright",
-      "text": "I felt that together, you could help me show the world who I truly am.\nFollowing in the footsteps of Ryan-onesama and the others who have shone so brightly..."
+      "text": "That is when I met you. When I was\nspacing out towards the sky, you\nadapted\nyourself to my pace and accompanied me."
     },
     {
       "name": "Mejiro Bright",
-      "text": "—To become a brand-new light for the Mejiro family...!"
-    },
-    {
-      "name": "Narrator",
-      "text": "\"To become a brand-new light\"... Beneath her languid demeanor\nflickered a firm, unyielding resolve. That must be her very reason for running."
-    },
-    {
-      "name": "Narrator",
-      "text": "And that conviction was the final piece needed for victory.\nBelief can propel someone to take that decisive final step. With that in place—"
+      "text": "You understood me for who I was, and who\nI could yet become. Just\nas Ryan once\nshowed me glimmers of hope, you ignited\na new spark\nwithin me."
     },
     {
       "name": "Mejiro Bright",
-      "text": "—Haa... haah...!\nWhen I hear your voice, I run faster... When I hear your voice—",
-      "choice_data_list": [
-        "Bright!"
-      ]
+      "text": "I've decided—I will become the light of the\nMejiro family!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The light of the Mejiro family... Behind her\ngentle tone lies a fiery,\nsmoldering\ndetermination—her reason for running."
+    },
+    {
+      "name": "Monologue",
+      "text": "That resolve is the final piece of the\npuzzle. After all, the first step to\nany\njourney starts with a wish. Now we just\nhave to put in the work."
     },
     {
       "name": "Mejiro Bright",
-      "text": "! Right...!\nTime to... pick up the pace...!"
-    },
-    {
-      "name": "Narrator",
-      "text": "What I taught her was the precise timing to accelerate. Since it takes time for her\nengine to rev up, I give the cue early. And when I do—"
+      "text": "<i>Pant, pant...</i> Once I hear the signal, I'll\npick up the pace... I just need\nto be\nready—"
     },
     {
       "name": "Mejiro Bright",
-      "text": "Haa... haah~...\nProvisional Trainer, how was my timing~?",
-      "choice_data_list": [
-        "Yeah, spot-on!",
-        "Yep, spot-on!"
-      ]
+      "text": "<i>Pant...</i> Right! Here... I go!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm trying to teach her when to accelerate.\nIt takes time to speed up,\nso I give her the\nsignal a bit early."
     },
     {
       "name": "Mejiro Bright",
-      "text": "I am so glad~. ...Signals are truly wonderful, aren't they?\nKnowing just when that moment arrives makes running feel so delightful~."
+      "text": "Hah, hah... Provisional Trainer, did I\naccelerate at the right time?"
     },
     {
-      "name": "Narrator",
-      "text": "In an actual race, things might not go as smoothly as in practice. But...\nshe has a reason she cannot lose. That resolve will surely lead to results."
+      "name": "Mejiro Bright",
+      "text": "I'm so glad. Having a signal to watch out\nfor is very helpful. I can run\nmore freely\nwhen I have something like that."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no guarantee Bright will be able to\nreplicate this success\nduring the tryouts.\nStill, she has her own reasons for winning,\nand\nthat'll surely push her past the finish\nline."
     }
-  ],
-  "no_wrap": true
+  ]
 }

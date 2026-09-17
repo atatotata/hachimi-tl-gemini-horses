@@ -1,224 +1,190 @@
 {
   "title": "Episode 1",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "While taking a morning walk along the riverbank—"
+      "name": "Monologue",
+      "text": "One morning, while on a stroll along the\nriver, I notice a certain\nrunner out of the\ncorner of my eye."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Hup, hup...\nAh, <username>!!",
-      "choice_data_list": [
-        "Good morning! Full of energy today, aren't you?",
-        "Morning! Look at all that energy!"
-      ]
+      "text": "<i>Huff, puff...</i> Ah, good morning!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Heheh, <username>!\nIt's such a refreshing morning today, isn't it?!"
+      "text": "Hehe, you bet! How could I not be when\nit's so nice outside?!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I feel like I could run laps all day! Have a great walk, okay?\nSee ya around!"
+      "text": "I feel like I could do laps forever in this\nweather. Anyway, I'll let you\nget back to\nyour walk! See ya!"
     },
     {
-      "text": "Mejiro Ryan called out cheerfully before dashing off.\nThough she was only jogging at an easy pace, her solid, stable form was mesmerizing."
+      "name": "Monologue",
+      "text": "Our short exchange now over, Mejiro Ryan\ntakes off. Her jog seems to\nbe more for fun\nthan sport, but her form is still consistent.\nIt's honestly\nimpressive."
     },
     {
-      "text": "...Still, it's about time students start getting ready for school.\nWill she be okay?"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Hah, hah... Huh?!",
-      "choice_data_list": [
-        "(Did she realize what time it is...?)"
-      ]
+      "name": "Monologue",
+      "text": "But that thought is quickly replaced by\nanother, more immediate\nconcern...\nShouldn't she be headed to school?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Oh, right, right! I wanted to try out that new running drill!\nAll right, one more lap... No, five more laps...!",
-      "choice_data_list": [
-        "Hold on, stop, stop!"
-      ]
+      "text": "<i>Huff, puff...</i> Ah!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Whoa?!\nHuh, from earlier... What's the matter?",
-      "choice_data_list": [
-        "You're going to be late!",
-        "You'll be late for school!"
-      ]
+      "text": "Right, right. I wanted to try out that new\nrunning routine! Better do\none... no, five\nmore laps!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Huh, late?\n...Wait, GAAAH! Is that really the time?!"
+      "text": "Whoa! Ah, it's you again... What's up?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Whoa-whoa-whoa, <username>...!!\nThe morning felt so great that I totally lost track of time!!"
+      "text": "Huh? Late? For wha—aaah! School! I gotta\ngo, and quick!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Sorry, I gotta run!\nThank you so, so much—!!"
-    },
-    {
-      "text": "Displaying her magnificent stride once more,\nMejiro Ryan bolted off in a flash..."
-    },
-    {
-      "text": "Later that day, after classes—"
+      "text": "Aw man, thanks for the heads-up! It was so\nnice this morning, I totally\nzoned out!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Huh? You're the person from this morning...!"
+      "text": "Anyway, gotta run! Thanks again!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro Ryan dashes off towards the school,\nonce again displaying her\nflawless running\nform."
+    },
+    {
+      "name": "Monologue",
+      "text": "That same day, after classes..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Looking closely at your lapel pin...\nOh! You're an Academy Trainer!"
+      "text": "Huh? You're the person from this morning!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Thank you so much for this morning!\nThanks to you, I didn't end up late... You really saved me!",
-      "choice_data_list": [
-        "Glad to hear that."
-      ]
+      "text": "Wait, that badge... Ah, that's how you\nknew I was running late! You're\na trainer\nhere, huh?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I really want to thank you properly, but, hmm...\nOh, I know!!"
+      "text": "Thanks again for the save! And don't\nworry, I made it to school in\ntime!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Um, would you mind coming with me right now?!"
+      "text": "I'd like to pay you back somehow, but\nhow... Ah, I know!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "All right, here we are!!\nNow, to thank you for this morning—"
+      "text": "Um, could you come with me for a second?"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Let's do some strength training together!",
-      "choice_data_list": [
-        "Workout as a thank-you?!"
-      ]
+      "text": "All right, we're finally here! As thanks for\nhelping me this morning..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yep! Because this is probably the best kind of thank-you I can give!!"
+      "text": "We're gonna work out together!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ever since I was little, I've just loved moving my body, so to be honest,\nI don't really have many other strong points besides that..."
+      "text": "You bet! As far as thanks go, this is\nprobably the best I've got!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But because of that, I can teach you all about the joy of working out!\nI can even design a workout routine tailored perfectly to your muscles!"
+      "text": "I've always loved moving my body, you\nsee. In fact, exercise might be\nthe only\nthing I'm good at."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Wait... um, was that too sudden?\nIs something like this really no good as a thank-you after all...?"
-    },
-    {
-      "text": "Seeing my hesitation, Mejiro Ryan's shoulders slumped dejectedly.\nIt would be too cruel to leave her like this...",
-      "choice_data_list": [
-        "Well, since we're here, why not..."
-      ]
+      "text": "But hey, that just makes me the best kind\nof coach—the kind that\nshows you how fun\nworkouts can be! I'll even come up with\nthe\nperfect routine for you!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Whoa, really?! Awesome!!\nGo get changed, and let's get straight to it!!"
+      "text": "Ah... Suddenly being asked to work out\nmust be kinda strange, right?\nSorry, I can\ncome up with something else if you like..."
+    },
+    {
+      "name": "Monologue",
+      "text": "My hesitation clearly has Mejiro Ryan\nfeeling down. I decide to step\nup."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Phew...! How is it, Trainer?!\nAre you feeling the raw awesomeness of lifting right in your muscles?!",
-      "choice_data_list": [
-        "..."
-      ]
+      "text": "Seriously?! Awesome! In that case, let's get\nchanged and pump some\niron!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Looks tough, but you're doing great!\nEverything we've done so far has officially awakened your dormant muscles!!"
+      "text": "Phew! How's that, Trainer?! Feelin' the\nburn yet?!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Alright, let's get you a full-on workout next!!\nAre you hydrated? Then let's do this—muscle up!!"
+      "text": "Hey, don't sweat it if you're having trouble\nkeeping up! We've just\nbeen waking up\nyour muscles!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "One more! Just one more! ...Hit your limit?\nThen one last rep! ...Alright, that's a wrap!!"
+      "text": "All right, time for the <i>real</i> workout! Well\nhydrated?! Great! Let's get\nSWOLE!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Outstanding! Way to go! Your body's thanking you for it!\nCan you hear it? Your pecs cheering in sheer joy!!",
-      "choice_data_list": [
-        "I think I actually hear them...!"
-      ]
+      "text": "That's it! One more rep! One more! Hm?\nCan't keep going? Okay, just\none more to\nfinish out the set and... Yeah! You did it!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "That's the spirit! Looking great!\nLet's keep this momentum rolling right into the second half!!"
+      "text": "Great job! Do you feel that, Trainer? I bet\nyour heart, your\npectorals—your whole\nbody's screaming out in gratitude!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Alright, this is really, truly the final stretch!!\nTrainer, count it out loud with me!!"
+      "text": "Perfect! Then let's scream back and show\nyour body what it's made of!\nOn to the\nsecond round!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Ooooone!",
-      "choice_data_list": [
-        "Twooooo!!"
-      ]
+      "text": "Okay, Trainer... This is it! The final stretch!\nCome on! Count out the\nreps with me!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Threeeeeeeee!!\n...Alright, awesome work today!!"
-    },
-    {
-      "text": "A pleasant exhaustion washes over my whole body. The routine\nshe put together was serious, high-level training...!",
-      "choice_data_list": [
-        "Is this what your normal solo training looks like...?",
-        "Is this what your normal solo training looks like...?"
-      ]
+      "text": "One!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Today was a routine customized just for you, Trainer.\nNormally, I do... about three times that much."
+      "text": "Threeee! Woohoo! You did it!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Exhaustion consumes me... but it's\naccompanied by a strong feeling of\n\naccomplishment and pride! After all, that\nwas one intense workout!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Still, the harder you push, the more refined your body gets.\nAnd if you keep putting in the work, it'll pay off in the end!"
+      "text": "Nah, today's workout was made with you\nin mind. I'd say I usually do...\nabout four\ntimes more in total."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Shaving even a single second off your time feels amazing...\nAnd the moment you produce real results in a race is something else entirely."
+      "text": "But any exercise is good exercise as far as\nyour muscles are\nconcerned! Keep it up,\nand you'll see results in no time!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Crossing the finish line faster than anyone else, ahead of the whole pack—\nthat feeling..."
+      "text": "Nothing beats seeing your time go down,\neven by a single second.\nAnd when your\nhard work shows on the track... Man, that's\nsomething\nentirely different!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "That rush of heat slowly spreading through a body you built yourself...\nThere's nothing else in the world like it.",
-      "choice_data_list": [
-        "So that's why you run.",
-        "So that's why you run."
-      ]
+      "text": "That moment when you're the fastest on\nthe track... when you cross\nthat finish line\nbefore anyone else..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yeah!!"
+      "text": "Feeling your muscles burn and that heat\nspread throughout your\nbody... No better\nexperience than that."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...Though I guess that's really all there is to it.",
-      "choice_data_list": [
-        "（……？）"
-      ]
+      "text": "You bet!"
     },
     {
-      "text": "Mejiro Ryan seemed a little off for a second,\nbut before I could ask her about it, someone came running up."
+      "name": "Mejiro Ryan",
+      "text": "Hope that's not... too disappointing."
+    },
+    {
+      "name": "Monologue",
+      "text": "Ryan's reaction to my question is a bit\nperplexing, but before I can\ncontinue,\nanother Umamusume approaches her."
     },
     {
       "name": "Ines Fujin",
-      "text": "Ryan-chan?\n...Ah, knew I'd find you here!"
+      "text": "Ryan! Where are yo—ah, there you are!\nFigures you'd be in the gym!"
     },
     {
       "name": "Mejiro Ryan",
@@ -226,30 +192,31 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "The Debut Selection Race is coming right up, yeah?\nWe're at the final prep stage, so I was hoping we could do some parallel running!"
+      "text": "The tryouts are coming up, remember? I\nfigured you'd be training for\nthat, so let's\nrun together!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Oh, sweet! Count me in!\nAlright, let's head out right now!!"
+      "text": "Whoa, really?! That'd be amazing! Wanna\nget started right now?!"
     },
     {
       "name": "Ines Fujin",
-      "text": "That's my Ryan-chan, always ready to roll♪\nI'll go on ahead and wait for you!"
+      "text": "I knew you'd say yes! ♪ I'll go get\nchanged!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Well, Trainer, thanks a ton for today!\nI'm gonna head out now."
+      "text": "Guess I better get going too. Great work\ntoday—I mean it!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Catch ya later!!"
+      "text": "See ya 'round!"
     },
     {
-      "text": "...Entering a Selection Race with her future on the line meant\nI'd soon get to see Mejiro Ryan running all-out, powered by her hard-trained body."
+      "name": "Monologue",
+      "text": "Judging from that conversation, Mejiro\nRyan's running in the tryouts...\nWhich\nmeans I'll be able to see how she runs at\nher best."
     },
     {
-      "text": "Quietly looking forward to that moment, I left the gym."
+      "name": "Monologue",
+      "text": "With something to look forward to, I pack\nup and leave the gym with\na spring in my\nstep. Or... I would if I wasn't so sore."
     }
-  ],
-  "no_wrap": true
+  ]
 }

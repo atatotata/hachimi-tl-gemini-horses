@@ -1,305 +1,170 @@
 {
   "title": "Lunchboxes smell seductive.",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
-      "text": "What kind of Umamusume is Pearl-san? Are you asking that of me, a princess?!",
-      "choice_data_list": [
-        "Yeah, we're in the same room, right?",
-        "Yeah, we're in the same room, right?"
-      ],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "\"What kind of person is Pearl?\" You came\nto me, <i>a princess,</i> for that?"
     },
     {
-      "name": null,
-      "text": "I decided to ask Kawakami Princess, her dorm roommate, about the true nature of Seeking the Pearl.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "I decide to ask Kawakami Princess,\nSeeking the Pearl's roommate,\nabout\nPearl's everyday behavior."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Well, let's see. Pearl-san is always so vibrant and full of energy, but sometimes she gets remarkably quiet. For instance...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Let me think... Pearl is always loud and full\nof energy, but every now\nand then she\nbecomes uncharacteristically quiet. For\nexample..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "The other day, we were all having a game of takoyaki Russian roulette with a super spicy one mixed in. Pearl-san shouted, 'I shall never back down! Nothing is impossible!'",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "The other day, a group of us were trying\nthe \"Super Spicy Takoyaki\nRoulette.\" Pearl\nyelled, \"Nothing is impossible for me—I\nwon't get the\nspicy one!\""
     },
     {
       "name": "Kawakami Princess",
-      "text": "And then she ate the very last one that nobody dared touch! Right after that, it was as if all that boisterous noise had been an absolute lie.",
-      "choice_data_list": [
-        "I see. Thank you...",
-        "I see. Thank you..."
-      ],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Even when there was only one left, and\neveryone knew what it was,\nshe gobbled it\ndown fearlessly. Let me tell you, she got\nreeeal quiet\nafter that..."
     },
     {
-      "name": null,
-      "text": "No matter how 'impossible' didn't exist for her... eating every last one meant she was guaranteed to get the super spicy one.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "Just because something isn't <i>technically</i>\nimpossible, that doesn't make\nit any less\nunlikely."
     },
     {
-      "name": null,
-      "text": "Was my intuition wrong after all? My assumption that Seeking the Pearl wasn't merely an eccentric jester...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "I had believed that Seeking the Pearl was\nmore than just a boisterous\nloudmouth,\nbut maybe I was wrong..."
     },
     {
-      "name": null,
-      "text": "Even after that, Seeking the Pearl kept acting temperamentally during mock races.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "Some time later, I think back to the\nscrimmage where she got labeled\n\"difficult\nto work with.\""
     },
     {
-      "name": "中堅トレーナーA",
-      "text": "Wh-What was that?! Right after start, Seeking the Pearl made massive leap toward outside rail! Didn't look like collision either?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Skilled Trainer A",
+      "text": "Wh-what?! Seeking the Pearl is going\nsideways out of the gate,\nstraight to the\nouter edge of the track! Did she hit the\ngate on her\nway out?"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Pushed out to outermost lane... Positioned dead last...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I'm on the outermost lane, and currently in\nlast place..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "However! Huge mistake if you think I surrender! No surrender!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "But! If you think I'm waving the white flag\nhere, then you've got\nanother one coming!\nNever surrender!"
     },
     {
-      "name": "シーキングザパール",
-      "text": "HAAAAAAAAAH!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Hyaaaaah!"
     },
     {
-      "name": "メジロドーベル",
-      "text": "Wait, Pearl-san...? No way, from that position...?! ",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mejiro Dober",
+      "text": "Huh?! Pearl? You're entering your last\nspurt from that position?!"
     },
     {
-      "name": "中堅トレーナーA",
-      "text": "Impressive how Seeking the Pearl stormed into 3rd place, but why did she jump sideways in first place?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Skilled Trainer A",
+      "text": "Seeking the Pearl, I'm impressed you made\nit to third after that start,\nbut why did you\ngo sideways in the first place?"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Side leap... Reason for that...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "The reason... I ran sideways..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Listen closely. See? You can still hear it now, right?",
-      "choice_data_list": [
-        "耳を……？"
-      ],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Open your ears and listen carefully. There,\nyou can hear it, can't you?"
     },
     {
-      "name": null,
-      "text": "Closed eyes as told. Then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "I close my eyes and try to listen..."
     },
     {
-      "name": "お弁当屋",
-      "text": "Bento here~, Bento here~♪ Fresh and hot~♪ Any box just 500 yen~♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Bento Seller",
+      "text": "Bentos, bentos! ♪ Get them hot and\nfresh! ♪ Only 500 yen! ♪"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Drawn in by that voice! Lunch box! In other words, bento is one of my favorites...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I was charmed by that voice! Bento\nboxes—they're one of my favorite\nfoods!"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Fufu, race is over, let's grab lunch.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Well, the race is over, so I'm going to grab\nlunch."
     },
     {
-      "name": null,
-      "text": "Leaving behind words unclear whether serious or joking, Seeking the Pearl departed gallantly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "Is she joking, or is she serious about that\nbeing her reason? Either\nway, Seeking the\nPearl dashes off."
     },
     {
-      "name": "中堅トレーナーA",
-      "text": "Hahaha... Completely unpredictable Uma Musume. Ability to close gap after starting that late is terrifying, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Skilled Trainer A",
+      "text": "Haha... I can't get a read on her at all. The\nfact she managed to\nrecover after such a\npoor start speaks volumes to her talent..."
     },
     {
-      "name": "中堅トレーナーA",
-      "text": "Temperament is real issue. Getting distracted by bento vendor during race and leaping all way to outer rail.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Skilled Trainer A",
+      "text": "But I just don't know about her\npersonality. I've never heard of an\n\nUmamusume who runs sideways just\nbecause she heard someone\nselling bento\nboxes."
     },
     {
-      "name": null,
-      "text": "That's what she claimed—but feels fishy. Never seemed like person with bento hobby.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "She did say that, but I feel like there's\nmore to it than just that. I\nmean, she\ndoesn't look like the type to be super\nfascinated by bento\nboxes anyway."
     },
     {
-      "name": null,
-      "text": "Feels like hidden motive. Keeps saying bento, bento... Bento...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "What is she hiding? Let's see... when it\ncomes to bentos..."
     },
     {
-      "name": null,
-      "text": "While pondering that... ended up at basement bento floor of department store on day off. Subconsciously influenced. Then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "Unable to unravel the mystery, I find\nmyself scanning bento stalls in\nthe mall's\ndeli on my day off. I guess Seeking the\nPearl's words are\nstill on my mind."
     },
     {
-      "name": "シーキングザパール",
-      "text": "My, what coincidence, Trainer who spoke to me of world. Bento your hobby too?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Oh, what a coincidence. If it isn't the\ntrainer who wanted to turn the\nworld\nupside-down. Are bento boxes your hobby\nas well?"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Fufu, cannot miss \"National Ekiben Fair\". Let's chat while eating by seaside nearby!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Haha, I don't blame you—it's not easy to\npass up the International\nBento Fair.\nCome, let's go eat while we take a stroll\nby the shore!"
     },
     {
-      "name": null,
-      "text": "...Turns out bento really was her hobby. Ended up enjoying strange dinner together.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "...I guess bentos really are her hobby. And\nso, I enjoy an unexpected,\nbut not\nunwelcome, dinner with Pearl."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Mmm~ delicious. Japanese, Western, Chinese—jewelry box packed full of charm...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Ahhh, that was magnificent. It was like a\njewelry box brimming with\nthe sights of the\nworld..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Italian grilled lamb, French croquettes, properly customized for bento...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Even the Italian roast lamb and the French\ncroquette were customized\nto fit in the\nbento box..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "What felt here is pure \"infinite possibility\". Single dish, yet razor-sharp individuality never buried. Must be like this. Side dishes...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "This meal was a tribute to limitless\npossibility. Each food is\nwell-defined, and\nyet each item has its own individuality.\nThis goes\nboth for side dishes..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "—And us Uma Musume, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "And for us Umamusume."
     },
     {
-      "name": null,
-      "text": "Casual remark offered glimpse of true self. Seeking the Pearl really is—",
-      "choice_data_list": [
-        "……レースで横っ跳びしたのはなぜ？"
-      ],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "Pearl's final sentence shows me a glimpse\ninto her inner dialogue.\nPerhaps I wasn't\nmistaken..."
     },
     {
-      "name": null,
-      "text": "Took plunge and decided to ask.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Monologue",
+      "text": "I pluck up my courage and ask her the\nquestion that's been on my\nmind."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Side leap? Ah, mock race. Already told reason, did I not?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Why I ran sideways? Ah, you mean that\nscrimmage from the other day.\nI believe I\nalready answered this question, didn't I?"
     },
     {
-      "name": "シーキングザパール",
-      "text": "Drawn by bento vendor's voice.",
-      "choice_data_list": [
-        "――本当は？"
-      ],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I was charmed by the bento seller's voice."
     },
     {
-      "name": "シーキングザパール",
-      "text": "....................",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Fufu, tricky one, aren't you. But...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Haha, you're a little different from the\nrest. But, you know..."
     },
     {
-      "name": "シーキングザパール",
-      "text": "Don't dislike it. Fine, I will tell.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I don't hate that. Right, I'll spill the beans."
     },
     {
-      "name": "シーキングザパール",
-      "text": "—My thoughts. As after-meal dessert only, okay?♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I'll tell you the truth. Think of it as a\ndessert to our meal, okay? ♪"
     }
-  ],
-  "no_wrap": false
+  ]
 }

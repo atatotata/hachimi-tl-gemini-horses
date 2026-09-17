@@ -1,255 +1,210 @@
 {
   "title": "Her Daily Routine: Naming Her Friends",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "A few days after filming Aston Machan's video.\nWhile walking under an overpass on my way back from shopping..."
+      "name": "Monologue",
+      "text": "It's been a few days since I met Aston\nMachan and took a video for\nher. I'm on\nmy way home from a shopping trip, when..."
     },
     {
       "name": "Aston Machan",
-      "text": "You're very fluffy, Mr. Fluff-Fluff.\nSo fluffy I feel like I might catch your fluffiness."
+      "text": "Little Floofy, you're so floofy. You're so\nfloofy, you make me feel all\nfloofy."
     },
     {
-      "name": "Narrator",
-      "text": "I came across her relaxing. ...For some reason, a white pigeon\nwas beside her, and she was casually chatting with it."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Oh?\nYou must be... the Trainer from the video the other day.",
-      "choice_data_list": [
-        "You remembered me."
-      ]
+      "name": "Monologue",
+      "text": "I happen to bump into her, and for some\nreason, she's sitting down\ntalking to a\nwhite pigeon."
     },
     {
       "name": "Aston Machan",
-      "text": "Yes, Ma-chan never forgets.\nOnce I meet someone, I remember them forever."
-    },
-    {
-      "name": "Narrator",
-      "text": "Aston Machan stated this with unusual seriousness.\nThe pigeon beside her let out a \"coo-coo\" as if chiming in.",
-      "choice_data_list": [
-        "...Is that your pet?",
-        "...Is that your pet?"
-      ]
+      "text": "Oh... I've met you before. You're the\ntrainer who took a video for me,\nright?"
     },
     {
       "name": "Aston Machan",
-      "text": "A friend. Not a pet.\nThough we did just meet moments ago."
+      "text": "Yes, Machan never forgets. Once I meet\nyou, I remember forever."
+    },
+    {
+      "name": "Monologue",
+      "text": "She sounds like she genuinely means it.\nThe white pigeon next to her\ncoos in\nagreement."
     },
     {
       "name": "Aston Machan",
-      "text": "I was taking a nap, and when I woke up, it was sleeping next to me.\nAnd so, we were having a little chat together."
-    },
-    {
-      "name": "Narrator",
-      "text": "A wild pigeon just wandering over to nap beside someone... does that actually happen?"
+      "text": "Oh no, this is my friend. Well, I say friend,\nbut we've only just met."
     },
     {
       "name": "Aston Machan",
-      "text": "Perhaps Chloe Harvard introduced us,\nsince she lives around here.",
-      "choice_data_list": [
-        "(Chloe Harvard?)"
-      ]
+      "text": "I was taking a nap, and when I woke up,\nLittle Floofy was here\nsleeping next to me.\nThat's how we got to talking."
+    },
+    {
+      "name": "Monologue",
+      "text": "(A wild pigeon just decided to sleep next\nto her? Is that a thing?)"
     },
     {
       "name": "Aston Machan",
-      "text": "Oh, or maybe Shinobimaru Hattori. Or was it Mr. Arimura?",
-      "choice_data_list": [
-        "(Hattori... and Mr. Arimura...???)"
-      ]
+      "text": "Well, I'm not sure, but since Chloe\nHarvard lives around here, she\nmight've\ntold Little Floofy about me."
     },
     {
       "name": "Aston Machan",
-      "text": "Shall I introduce you?"
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, I was taken to be introduced.\nLed to the edge of the shopping district, what I met was—"
+      "text": "Oh wait, it could've been Hattori\nShinobimaru. Or Antley maybe?"
     },
     {
       "name": "Aston Machan",
-      "text": "Miss Chloe, you're looking energetic as ever today.\nHow are the babies doing?"
+      "text": "Would you like to meet them?"
+    },
+    {
+      "name": "Monologue",
+      "text": "She takes me down to the end of the\nshopping street to meet the first\nof her\nfriends."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hello, Chloe! You look well as always!\nHow is your baby doing?"
     },
     {
       "name": "Crow",
-      "text": "Caww!",
-      "choice_data_list": [
-        "(It's a crow...)"
-      ]
+      "text": "Caaaw!"
     },
     {
       "name": "Aston Machan",
-      "text": "Shinobimaru Hattori~!\nEhehe, it's so nice out today, perfect for an afternoon nap."
+      "text": "Hattori Shinobimaru! Hehe, it's the perfect\nweather for a nap in the\nsun, isn't it?"
     },
     {
       "name": "Cat",
-      "text": "Meoow.",
-      "choice_data_list": [
-        "(It's a stray cat...!)"
-      ]
+      "text": "Mrrreooow."
     },
     {
       "name": "Aston Machan",
-      "text": "You're such a hard worker, Mr. Arimura.\nDid you find some new food?"
+      "text": "You're so hardworking, Antley. Have you\nfound any more food?"
     },
     {
       "name": "Ant",
-      "text": "…………。",
-      "choice_data_list": [
-        "(An ant?!)"
-      ]
+      "text": "..."
     },
     {
       "name": "Aston Machan",
-      "text": "I see, I see.\nThen it might be a good idea to take a break soon."
+      "text": "Oh, really? Maybe you should take a little\nbreak, then."
     },
     {
       "name": "Aston Machan",
-      "text": "Oh! There's something I want to show you, Mr. Arimura.\nMa-chan's special treasure. Would you like to see it? Yes, of course you would."
+      "text": "Oh yeah! There's something I want to show\nyou, Antley. It's Machan's\nspecial surprise.\nWant to see it? Okay."
     },
     {
       "name": "Aston Machan",
-      "text": "And so, shall we be on our way?",
-      "choice_data_list": [
-        "Um... where to?"
-      ]
+      "text": "Well then, let's get going."
     },
     {
       "name": "Aston Machan",
-      "text": "To the special treasure."
+      "text": "It's a secret."
     },
     {
-      "name": "Narrator",
-      "text": "And so, with the ant resting on her hand, where she led me was...\nan Umamusume merchandise shop in the city."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Ouch.",
-      "choice_data_list": [
-        "What is it this time?",
-        "What is it this time?"
-      ]
+      "name": "Monologue",
+      "text": "Carrying the ant on one hand, she takes us\nto the Umamusume merch\nstore in town."
     },
     {
       "name": "Aston Machan",
-      "text": "There are no Ma-chan mascots yet. In fact, there isn't\na single piece of merch. I really wanted to show Mr. Arimura, too..."
+      "text": "Ouch."
     },
     {
       "name": "Aston Machan",
-      "text": "I was super eye-catching in the mock race the other day, though.\nThe road to becoming an ultra-super mascot is long."
-    },
-    {
-      "name": "Narrator",
-      "text": "Setting aside how rare it is for merch to be made before a debut...\nI recalled her talking about becoming a \"mascot\" before."
+      "text": "They still don't have any Machan dolls.\nNot only that, they don't have\nany merch\nof me at all. I wanted to show Antley..."
     },
     {
       "name": "Aston Machan",
-      "text": "Ma-chan's dream is to become a mascot."
+      "text": "I thought I made a big impression at\ntryouts the other day. I guess it's\nnot that\neasy to become a super ultra mascot."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's a bit early for merch considering she\nhasn't even debuted yet, but\nputting that\naside... This isn't the first time she's\nbrought up the\nsubject of being a mascot."
     },
     {
       "name": "Aston Machan",
-      "text": "—Appearing in every corner of the world, held in everyone's hands...\nThat kind of super—no, ultra-super mascot is what I want to be!"
-    },
-    {
-      "name": "Narrator",
-      "text": "From the look of things, Aston Machan's talk\nabout \"wanting to be a mascot\" was surprisingly serious.",
-      "choice_data_list": [
-        "(But why make that her goal in racing...?)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Most horsegirls debut out of passion and longing for the races themselves,\nor for personal fulfillment achieved through success on the track."
-    },
-    {
-      "name": "Narrator",
-      "text": "Debuting purely to get merchandise made was unprecedented.\nHer motives were a complete mystery.",
-      "choice_data_list": [
-        "Why is getting merchandise made your goal?",
-        "Why is getting merchandise made your goal?"
-      ]
+      "text": "My dream... is to become a mascot."
     },
     {
       "name": "Aston Machan",
-      "text": "It is a top-priority mission. An Aston Machan in every household.\nI think it would be wonderful if an era like that arrived."
+      "text": "I want to appear everywhere, by\neverybody's side, and be a\nsuper—no—a\nsuper <i>ultra</i> mascot!"
     },
     {
-      "name": "Narrator",
-      "text": "...It seemed to be her habit to always give slightly elusive answers.",
-      "choice_data_list": [
-        "Meaning...?"
-      ]
+      "name": "Monologue",
+      "text": "Watching her scan the store, I'm starting\nto believe she was actually\nbeing serious\nabout becoming a mascot."
     },
     {
-      "name": "Aston Machan",
-      "text": "How it started, you mean? Well, you see... A few years ago.\nBack when Ma-chan was just a tiny bit smaller than she is now."
+      "name": "Monologue",
+      "text": "Most Umamusume do it because they love\nrunning or dream of\nwinning a specific\nrace. For some, it's about working hard\nand\nfulfilling their potential."
     },
     {
-      "name": "Narrator",
-      "text": "With an oddly solemn expression,\nAston Machan began to speak fluidly."
+      "name": "Monologue",
+      "text": "But debuting in the racing world for the\nsole purpose of having merch\nis really\nunusual. I don't get what's behind it."
     },
     {
       "name": "Aston Machan",
-      "text": "Ma-chan was troubled. Even though the Ma-chan dolls were finished,\nI didn't know how to hand them out."
+      "text": "It's my number-one mission—an Aston\nMachan in every house. I'd love\nto make\nthat a reality someday."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm starting to notice a pattern... She never\nreally seems to give a\nstraight answer."
     },
     {
       "name": "Aston Machan",
-      "text": "How could I get everyone to take one in their hands?\nIsn't there an innovative, more efficient way than handing them out directly?"
+      "text": "The idea? That came to me... a few years\nago. When I was just a little\nsmaller than I\nam now."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's something mysterious about her\nfacial expression as she starts\nrecounting\nher story."
     },
     {
       "name": "Aston Machan",
-      "text": "Rage-bait marketing—do something bad that makes headlines on talk shows!\n...Rejected. I don't want to be called Aston Villain-chan."
+      "text": "I was stuck with a problem. I had just\nfinished making my Machan\ndolls, but I\ndidn't know how to get them out to the\npublic."
     },
     {
       "name": "Aston Machan",
-      "text": "Then study business! ...Hmm, not bad.\nWhile formulating that strategy, I also wanted a quick method."
+      "text": "I wonder how I can get them into\neveryone's hands. I could give them\nout\none by one, but there has to be a more\noriginal and efficient way\nof doing it."
     },
     {
       "name": "Aston Machan",
-      "text": "I couldn't quite think of a good idea. Then one day—\nMa-chan happened to visit an Umamusume merchandise shop."
+      "text": "All press is good press! I'll cause a scandal\nto get myself all over the\ntabloids! ...No,\nwait. I don't want to be known as\nMischievous\nMachan."
     },
     {
       "name": "Aston Machan",
-      "text": "And there... lo and behold...\nwere Umamusume mascots selling like hotcakes...!"
+      "text": "I'll study business instead! Yes, that might\nwork. That way I can learn\nthe best\nstrategy while I come up with my plan."
     },
     {
       "name": "Aston Machan",
-      "text": "It was astonishing! I had no idea that mascots of\nhorsegirls who excelled in races were sooooo popular!"
+      "text": "I couldn't come up with any good ideas.\nBut then one day, I just so\nhappened to go\ninto an Umamusume merch shop."
     },
     {
       "name": "Aston Machan",
-      "text": "Mascots loved by everyone...\nI see. With this... if I do this... Ma-chan too!"
+      "text": "And what I saw was... miniature\nUmamusume dolls, flying off the\nshelves\none after another!"
     },
     {
       "name": "Aston Machan",
-      "text": "And so, Ma-chan enrolled in Tracen Academy,\nscheming to make a name for herself in the Twinkle Series!"
-    },
-    {
-      "name": "Narrator",
-      "text": "I understood that her enrollment was entirely based on getting merch made, and that\nher passion for merchandise was extraordinary. However—",
-      "choice_data_list": [
-        "(Why did she want merch made in the first place?)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Whether she forgot to mention that fundamental reason or skillfully dodged it,\nthere was no answer in her words. Although curious—"
+      "text": "It was eye-opening! Until then, I had no\nidea that active racers could\nbe such\npopular mascots!"
     },
     {
       "name": "Aston Machan",
-      "text": "The dream is nationwide expansion, and then global expansion.\nRight now, alongside racing, I am also studying bookkeeping. Ahem."
+      "text": "They're mascots loved by all... So, maybe,\nthat means... I could be\none too!"
     },
     {
       "name": "Aston Machan",
-      "text": "Ma-chan has fortunately been lovely since the day she was born, so\nshe thinks winning her debut should make everything work out nicely.",
-      "choice_data_list": [
-        "(...Maybe she just likes being the center of attention.)"
-      ]
+      "text": "And so, that's how Machan entered Tracen\nAcademy and set her\nsights on the Twinkle\nSeries!"
     },
     {
-      "name": "Narrator",
-      "text": "Accepting that answer at face value,\nI never did manage to uncover the truth."
+      "name": "Monologue",
+      "text": "I've gathered that she entered Tracen to\nget her own merch, and how\nmuch that\nmerch means to her, but what I still don't\nunderstand is..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I can't tell whether she forgot to share the\nmost important part of the\nstory, or if she\ndodged the question, but either way, she\nhasn't\nanswered it."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "The dream is to expand nationwide, and\nthen worldwide. So outside\nof racing, I'm\nalso studying bookkeeping. Hehe."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Thankfully, I've been lovable ever since I\nwas born, so I'm sure it'll all\ngo well as\nlong as I debut and win my races."
+    },
+    {
+      "name": "Monologue",
+      "text": "Being the only explanation that seems to\nmake sense right now, I\ndraw that\nconclusion by the end of our encounter."
     }
-  ],
-  "no_wrap": true
+  ]
 }

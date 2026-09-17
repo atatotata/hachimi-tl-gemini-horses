@@ -2,54 +2,52 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "I waited for Seiun Sky prior to the start of training, but…"
+      "name": "",
+      "text": "I'm waiting for Sky to show up so we can\nstart training, but..."
     },
     {
-      "text": "(<i>Chatter… chatter…</i>)"
+      "name": "",
+      "text": "<i>Chatter, chatter...</i>"
     },
     {
-      "text": "Since there was a huge racing event coming to Tracen Academy \nsoon, the racetrack was filled with horsegirls wanting to train."
+      "name": "",
+      "text": "Maybe it's because the academy's big\nTracen Meet is coming up, but\nthe track is\njam-packed with students."
     },
     {
-      "text": "With how crowded it is she's probably thinking \n\"if I can't give it my all, what's the point?\" \nAnd because of that she'll probably ditch"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Trainer-san, hello!!"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Today's a great day for training, doncha think!? \nI'm really itching to race right now!",
-      "choice_data_list": [
-        "Did you eat something bad?",
-        "Did you eat something bad?"
-      ]
+      "name": "",
+      "text": "I can already see Sky skipping practice\nwith an excuse like, \"There's\nno point if I\ncan't run my best.\""
     },
     {
       "name": "Seiun Sky",
-      "text": "Woah, that's how you react when the horsegirl you're training \narrives? How depressing. I thought you'd be glad to see me.",
-      "choice_data_list": [
-        "I just figured you'd ditch."
-      ]
+      "text": "Trainer, hello!"
     },
     {
       "name": "Seiun Sky",
-      "text": "No no, my next race is coming up soon, so I wouldn't \ndream of skipping out on training."
+      "text": "It's a fine day for training! I'm practically\nshaking with excitement at\nthe thought of\nrunning!"
     },
     {
       "name": "Seiun Sky",
-      "text": "Plus I'm feeling great today! \nI can't just sit around, I just wanna run!"
+      "text": "Whoa, your trainee came all the way here\nand <i>that's</i> your reaction?\nNow I'm sad... I\nthought you'd be happy."
     },
     {
       "name": "Seiun Sky",
-      "text": "So I'm gonna do just that! \nOh, by the way…"
+      "text": "Nah, even I wouldn't skip training with our\nnext race coming up so\nsoon."
     },
     {
       "name": "Seiun Sky",
-      "text": "Trainer-san, you'll be keeping a close eye on \nme, won't you? I'm looking forward to being \nrewarded for all of my hard work after this…"
+      "text": "Actually, I'm feeling great today! I'm\nitching for a good run!"
     },
     {
-      "text": "Just like she said, Seiun Sky ran with great form \nin an aggressive manner. Then…"
+      "name": "Seiun Sky",
+      "text": "And with that, I'm off to get started! Oh,\nand before I forget..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Keep your eyes on me, okay? I'm\nexpecting a nice reward for my\nefforts."
+    },
+    {
+      "name": "",
+      "text": "True to her word, Sky sprints toward the\ntrack energetically."
     },
     {
       "name": "Seiun Sky",
@@ -57,85 +55,79 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "The course is packed today, and there's not much room \nto run, so would you mind if I ran alongside you?"
+      "text": "The track's real crowded today, so you\nmind if I join you for some\nrunning?"
     },
     {
-      "name": "Horsegirl A",
-      "text": "Yes, that's fine. Securing a spot on the track \ntoday's really tough, huh?"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Hmm, who should I train with next… Oh!"
+      "name": "Umamusume A",
+      "text": "Sure, no problem. Finding a spot today\ncan be pretty rough, after all."
     },
     {
       "name": "Seiun Sky",
-      "text": "Excuse me. Until a separate spot opens up, \nwould you mind if I ran with you?"
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Guess that's fine. Let's go for a run then."
-    },
-    {
-      "text": "It's rare for Seiun Sky to show off her abilities, so seeing her \ncall out and train with others was stunning."
-    },
-    {
-      "text": "Looking closely, all the girls she raced with \nwere favored to win in the upcoming race."
-    },
-    {
-      "text": "Then that means… she's doing this to gather \ninformation on her rivals? If so…",
-      "choice_data_list": [
-        "I know what I have to do!",
-        "I know what I have to do!"
-      ]
-    },
-    {
-      "text": "Since Seiun Sky's been putting in so much \neffort, I should give it my all as well."
+      "text": "Okay, next—ah."
     },
     {
       "name": "Seiun Sky",
-      "text": "Haa… How was today's training? Don't you think I \ndid a great job despite how crowded it was?"
+      "text": "Excuse me. Do you mind if I join you until\nanother spot opens up?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "I guess that's fine. Let's get running, then."
+    },
+    {
+      "name": "",
+      "text": "The usually secretive Sky is going up to\nothers and joining them for\npartner\nrunning out of her own volition."
+    },
+    {
+      "name": "",
+      "text": "What's more, everyone she's gone up to\nare also her opponents in her\nupcoming\nrace."
+    },
+    {
+      "name": "",
+      "text": "Wait... is she running with them to gather\nintel? Then..."
+    },
+    {
+      "name": "",
+      "text": "Not wanting Sky's efforts to go in vain, I\ndecide to put in my own\nshare of hard\nwork as well."
     },
     {
       "name": "Seiun Sky",
-      "text": "Don't you think I deserve a reward for my hard work today?",
-      "choice_data_list": [
-        "You did amazing, here's your reward.",
-        "You did amazing, here's your reward."
-      ]
+      "text": "Whew... How did I do in today's training?\nI'd say I did pretty well\nconsidering how\ncrowded it was, don't you think?"
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh, what's this data? Hmm…"
+      "text": "Anyways, it'd be nice if I got rewarded for\nmy hard work. Maybe some\ntime... right\nabout now."
     },
     {
       "name": "Seiun Sky",
-      "text": "The first girl that I raced against has a habit of getting \noverzealous and pushing too hard to get ahead…"
+      "text": "Oooh, what are these notes? Let's see\nhere..."
     },
     {
       "name": "Seiun Sky",
-      "text": "The second girl I raced against seemed to struggle \nwhen she was directly behind me…"
+      "text": "\"The first person you ran with is easily\nswayed by her emotions and\nhas a bad\nhabit of getting rushed.\""
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh… I get it now. You were preparing this \"reward\" \nfor me while I was training.",
-      "choice_data_list": [
-        "Are you happy with it?"
-      ]
+      "text": "\"The second person isn't good at running\nwhen someone is marking\nher from\nbehind.\""
     },
     {
       "name": "Seiun Sky",
-      "text": "Yup, this is perfect. I knew it, you know me so well."
+      "text": "Hmm... I see, I see. You did well preparing\nthis reward for me while I\nwas running."
     },
     {
       "name": "Seiun Sky",
-      "text": "Thanks to this wonderful \"reward\", Sei-chan's bond level \nhas increased by one. Pirorirori～n♪"
+      "text": "Yup, it's perfect. Nobody gets me like you\ndo."
     },
     {
       "name": "Seiun Sky",
-      "text": "If things stay like this, we might just catch something \nbig in the upcoming race… Just kidding."
+      "text": "Thanks to this reward, our bond has\nleveled up again.\nDa-dada-daaah! ♪"
     },
     {
-      "text": "She seems happy with the data I gave her. \nAfter all, she looked back at it multiple times."
+      "name": "Seiun Sky",
+      "text": "At this rate, I might be able to reel in the\nbig one at my next race...\nJust kidding."
+    },
+    {
+      "name": "",
+      "text": "Seemingly satisfied with my present, Sky\ncontinues to swipe back and\nforth through\nmy notes."
     }
   ]
 }

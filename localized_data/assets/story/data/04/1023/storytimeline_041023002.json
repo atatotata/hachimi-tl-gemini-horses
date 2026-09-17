@@ -1,256 +1,238 @@
 {
   "title": "Sisters' Hypothesis",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "A few days after the Selection Race—"
+      "name": "",
+      "text": "Several days after the tryouts..."
     },
     {
-      "text": "I happened upon the sisters, Biwa Hayahide and Narita Brian,\nsurrounded by a crowd of Trainers."
+      "name": "",
+      "text": "The siblings Biwa Hayahide and Narita\nBrian find themselves\nsurrounded by\nenthusiastic trainers."
     },
     {
-      "name": "Mid-Career Trainer",
-      "text": "Please! Just hear me out, that's all I ask!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Tch... What a drag.\nI haven't even run my Selection Race yet."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Do not dismiss them so hastily. Receiving scout offers before your debut\nis proof of how high their expectations are for you."
+      "name": "Skilled Trainer",
+      "text": "I'm beggin' ya! Just gimme a minute of\nyour time!"
     },
     {
       "name": "Narita Brian",
-      "text": "Like I care..."
-    },
-    {
-      "name": "Mid-Career Trainer",
-      "text": "I know I can guide you all the way to the Triple Crown!\nMy passion won't lose to anyone! Please, Brian the \"Monster\"!"
-    },
-    {
-      "name": "Rookie Trainer",
-      "text": "Our support system is top-notch! What do you say, Brian?!\nWe will prioritize your natural physical gifts and your personal wishes above all!"
-    },
-    {
-      "name": "Rookie Trainer",
-      "text": "Oh, and Biwa Hayahide, you're welcome to join as well!\nWould you consider our team? Sisters pushing each other to new heights—we'd love that!"
+      "text": "Tch... What a pain. I told them I haven't\neven raced in tryouts yet."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...I appreciate the offer, but I have yet to make my decision.\nI must respectfully decline."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Well then. ...Do your best with the rest, Brian."
+      "text": "Don't say that. You're receiving scouting\noffers regardless. That's\nproof of their\nconfidence in you."
     },
     {
       "name": "Narita Brian",
-      "text": "Huh?! Hey! If you're bailing, take these guys with—!"
+      "text": "I still don't like it..."
     },
     {
-      "text": "Biwa Hayahide offered a smile and walked away—\nbut behind that smile, there seemed to be a faint shadow of melancholy."
+      "name": "Skilled Trainer",
+      "text": "No one beats my drive! I can lead you\nstraight to the Triple Crown!\nPlease, Beast!"
     },
     {
-      "text": "Concerned, I decided to follow after her..."
+      "name": "New Trainer",
+      "text": "I'd treat you the best! What do you say,\nBrian? No one would pay\nmore respect to\nyour natural talent than me!"
     },
     {
-      "name": "Biwa Hayahide",
-      "text": "Hm... It's you.\nCome to think of it, you were watching us from a distance earlier, weren't you—"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Did you follow me here?\n...Heh, between this and the glasses, you truly are quite the soft touch.",
-      "choice_data_list": [
-        "Are you all right?",
-        "Is everything okay?"
-      ]
+      "name": "New Trainer",
+      "text": "Oh, that goes for you too, Biwa Hayahide!\nLet me train you! A little\nsibling rivalry to\nsharpen our training! Sounds great, doesn't\nit?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "………………。"
-    },
-    {
-      "name": "Younger Sister",
-      "text": "Big sis, wait up! Pleeaaase!!\n*pant*, *pant*..."
-    },
-    {
-      "name": "Older Sister",
-      "text": "Ahahaha! Come on, hurry up!\nThe goal is just around the corner~!"
+      "text": "I'm pleased at the offer, but I remain\nundecided. I must humbly\ndecline."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...She is my pride and joy.\nShe may seem blunt and standoffish now, but she is an honest, adorable girl at heart.",
-      "choice_data_list": [
-        "Narita Brian?"
-      ]
+      "text": "Well then... I will be going on ahead,\nBrian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Huh? Hey, if you're gonna leave, take\nthese scavengers with you!"
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide departs with a smile on her\nface. But under that smirk,\nI glimpse a hint\nof concern."
+    },
+    {
+      "name": "",
+      "text": "I decide to follow her out of curiosity."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Indeed. ...When we were little, we used to race in parks just like this every single day.\nBack then, I was the faster one, and she'd often cry because she hated losing so much."
+      "text": "Hm? Oh, it's you again. I believe I saw you\nwatching us from a\ndistance earlier."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Even so... she always told me, \"Running with you is fun,\" and \"I love racing!\"\nShe was always chasing after my back."
+      "text": "Did you follow me? Haha, seeing as how\nyou helped with my glasses,\nI suspect you\nmean no harm."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...I only wish I could have remained that \"proud big sister\" forever.",
-      "choice_data_list": [
-        "And you feel you aren't anymore...?"
-      ]
+      "text": "..."
+    },
+    {
+      "name": "Girl A",
+      "text": "Please, Sis! Wait for me! <i>Huff, huff...</i>"
+    },
+    {
+      "name": "Girl B",
+      "text": "Hahaha! Come on, hurry up! We're almost\nat the finish!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Since those days, we have always aspired to run in the Twinkle Series.\nBrian and I, together."
+      "text": "...My cherished little sister. She may\nappear aloof, but she is actually\nan earnest\nand good person."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Because I was always by her side... I could feel it firsthand.\nThe creeping realization of how truly exceptional my sister... \"Narita Brian\" was becoming."
+      "text": "Yes... As children we always amused\nourselves racing in parks like\nthis. She was\ncompetitive and often wound up crying,\nsince I was the\nfaster one then."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Her physical abilities, in particular, outstripped mine in the blink of an eye.\nPower, speed, stamina... she excels beyond measure in every single metric."
+      "text": "But... she said she loved racing and had\nfun running with me. She was\nalways\nfollowing in my footsteps."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Anyone can see that Brian is... \"extraordinary.\"\nIn time, she will surely become a \"Monster\" on par with President Symboli Rudolf.",
-      "choice_data_list": [
-        "A \"Monster\"..."
-      ]
+      "text": "I wish I could've always been a sister she\ncould look up to."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "—That is why I required a weapon of my own.\nA weapon entirely different from Brian's."
+      "text": "Ever since then, our goal has remained\nunchanged—to race in the\nTwinkle Series\ntogether."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If raw talent falls short, compensate with meticulously formulated strategy.\nIf training time is finite, maximize its efficiency to the absolute limit."
+      "text": "We were always together... That's why I\ncould sense it. My sister's...\nNarita Brian's\nunique qualities began to surface."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Just as one constructs a hypothesis, builds the formula, and derives the solution...\nI will conquer my races with my very own \"Formula for Victory\"!",
-      "choice_data_list": [
-        "So that's your weapon...!",
-        "So that's the weapon you forged...!"
-      ]
+      "text": "And then her physical abilities swiftly grew\nto surpass mine. Power,\nspeed, stamina...\nShe has them all in spades."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Heh, though it is still very much a work in progress.\nI have not yet grown into someone worthy of standing alongside Brian as an equal."
-    },
-    {
-      "name": "Little Sister",
-      "text": "*sniff*, I don't wanna anymore~...\nI wanna go super-duper fast like big sis, tooooo..."
-    },
-    {
-      "name": "Big Sister",
-      "text": "Aw, don't cry! There, there.\nLook, big sis will show you the trick to it!"
+      "text": "Everyone knows she's a rare phenomenon.\nIn time, she'll become a\n\"Beast\" on par\nwith President Symboli Rudolf."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...We made a promise."
+      "text": "That's why I needed an edge. But one that\ndiffers from hers."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "She might not even remember it anymore... but that's fine.\nAs her sister, and as a fellow horsegirl, someday without fail—"
+      "text": "What I lack in physical prowess, I make up\nfor in precisely planned\nstrategies. And\nwhen there is a limit to training time, I\nmaximize\nefficiency."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "On the grand stage of the Twinkle Series, I will run the ultimate race against my sister."
+      "text": "I have constructed formulas based on my\ntheories, and I will find the\nsolution to\nvictory—using my \"winning equation!\""
     },
     {
       "name": "Biwa Hayahide",
-      "text": "And with my perfected \"Formula for Victory\"...\nI will show her that I can defeat Brian!"
+      "text": "Haha, it's still a work in progress. My\nequation can't contend with\nBrian yet."
     },
     {
-      "text": "Biwa Hayahide, who always seemed so mysterious, cool, and collected,\nhad such burning passion hidden deep within her heart."
+      "name": "Girl A",
+      "text": "<i>Sniffle.</i> No fair! I wanna run super fast like\nyou..."
     },
     {
-      "text": "And the theory-driven racing she described...\nIt felt like I had just glimpsed a brand-new frontier of potential for horsegirls...!",
-      "choice_data_list": [
-        "...Please, let me help you!"
-      ]
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "...Huh? What did you just say?",
-      "choice_data_list": [
-        "I want to build your \"Formula for Victory\" together!"
-      ]
+      "name": "Girl B",
+      "text": "Don't cry! There, there. Here, I'll tell you\nmy secret!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "D-Does that mean...!?\nNo, but wait, you haven't made up your mind yet..."
+      "text": "We made a promise."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "First and foremost... Are you really sure about this?"
+      "text": "She may not even remember, but... it\ndoesn't matter. As her older\nsister and as\nan Umamusume, I must keep my word."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "......Are you sure you want 'the older sister'?",
-      "choice_data_list": [
-        "I want to be your Trainer!",
-        "Please let me be your Trainer!"
-      ]
+      "text": "We will stand together at the Twinkle\nSeries—and we will have the\ngreatest race\nof our lives!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "………………。"
+      "text": "And with my perfected winning\nequation—I <i>will</i> claim victory!"
+    },
+    {
+      "name": "",
+      "text": "The mysterious, ever calm, and collected\nBiwa Hayahide actually\nhides an intensely\nburning desire within."
+    },
+    {
+      "name": "",
+      "text": "And in her empirical running, I see entirely\nnew possibilities for\nracing!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "This notebook contains numerous theories currently under construction.\nIncluding, of course, the \"Formula for Victory.\""
+      "text": "Huh? What did you say?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "However, it seems today,\nthere is one crucial element that must be added."
+      "text": "S-so you mean?! But... I'm still not sure if\nI'm ready."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Trainer.\nI shall inscribe your name on the very first page."
-    },
-    {
-      "text": "And so, I signed a contract to become Biwa Hayahide's Trainer."
-    },
-    {
-      "text": "Together with this composed, brilliant girl, I would formulate the ultimate \"Formula for Victory\"—\nand I resolved then and there to lead her to triumph."
-    },
-    {
-      "text": "A few days later—"
+      "text": "And more importantly... are you certain?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(Hmm...? What's this? I'm hearing Brian's name\nmentioned even more frequently than usual...?)"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "—Wait, so it's really true!?\nAbout Brian-senpai running in the Sprout Memorial...!?"
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Yeah, looks pretty certain!"
+      "text": "...That I'm the sibling you want?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(The Sprout Memorial...! That exhibition race where only the most\nhighly anticipated runners up through the Junior Class earn a spot...?!)"
-    },
-    {
-      "name": "Horsegirl A",
-      "text": "Eeeek, that's insane...! A pre-debut horsegirl getting chosen?\nIsn't that completely unprecedented!?"
-    },
-    {
-      "name": "Horsegirl B",
-      "text": "Brian-senpai really is built different, huh~!!"
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...You keep pulling further and further ahead, don't you?"
+      "text": "I've written all the theories I'm developing\nin this notebook. Of\ncourse, my winning\nequation is here as well."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Which is precisely why............!!"
+      "text": "But today it seems I must write about an\nadditional important matter."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "It concerns you, Trainer. I'll label this\nsection with your name."
+    },
+    {
+      "name": "",
+      "text": "And so, I become Biwa Hayahide's trainer."
+    },
+    {
+      "name": "",
+      "text": "Together, we vow to complete the\nunbeatable winning equation and\nachieve\nher goal."
+    },
+    {
+      "name": "",
+      "text": "A few days pass since teaming up..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Hm, what is this? I hear more talk of Brian\nthan usual.)"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "So is it true?! That Brian's gonna race in\nthe Sprout Kinen!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Yeah, seems legit!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(The Sprout Kinen... Even among Junior\nrunners, only the most\nesteemed racers\ncan gain entry!)"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Wooow! Amazing! It's totally unheard-of\nfor a pre-debut Umamusume\nto be chosen!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Brian's on a completely different level!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "So you've run even further ahead."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "And that's why I <i>will</i> complete my winning\nequation!"
     }
-  ],
-  "no_wrap": true
+  ]
 }

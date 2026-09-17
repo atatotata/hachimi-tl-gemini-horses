@@ -2,219 +2,224 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The Umamusume were running the Selection Race. Wondering what kind of Umamusume I'd meet, I headed to the venue full of anticipation…"
+      "name": "",
+      "text": "I head to the racecourse for tryouts,\nimagining what diamond in the\nrough I'll\nsee debut today."
     },
     {
       "name": "Gold City",
-      "text": "It's fine… I trained properly. I can definitely win. I'll take first. With my own two legs…"
+      "text": "I've got this. I did my training. I can win. I\n<i>will</i> win, with the strength of\nmy own two\nlegs."
     },
     {
-      "text": "I saw Gold City on the entry list. She was psyching herself up, visibly tense…",
-      "choice_data_list": [
-        "Are you okay?",
-        "Are you okay?"
-      ]
+      "name": "",
+      "text": "I spot Gold City getting ready to race.\nLooks like nerves are getting\nthe best of\nher."
     },
     {
       "name": "Gold City",
-      "text": "Huh? What gives all of a sudden… Who're you? Those clothes… Tracen Academy trainer?"
+      "text": "Huh? Where'd you come from? And who\nare you? Wait, that get-up...\nYou're a\ntrainer with the academy?"
     },
     {
       "name": "Gold City",
-      "text": "Sorry, but if you wanna talk, wait till after the Selection Race. Till then, pass."
+      "text": "Look, if you've got something to say to\nme, save it for after the race.\nOtherwise,\nI'll pass."
     },
     {
-      "text": "After brushing me off coldly, Gold City walked away…"
+      "name": "Monologue",
+      "text": "Her words sting a bit as she turns a cold\nshoulder and saunters off."
     },
     {
-      "text": "Selection Race got underway, looking over next heat's paddock sheet—"
+      "name": "Monologue",
+      "text": "I turn my focus to the races, and before\nlong we're already halfway\nthrough the\nday. Scanning the field of the upcoming\nrace, I spot a\nfamiliar face."
     },
     {
       "name": "Trainers",
-      "text": "Whoa, gorgeous…! Look at her…! Is she the one from the rumors?"
+      "text": "Wow, she's so pretty! Just look at her!\n\nSo she's the one they're all talking about!"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "Um… A-Are you who I think you are…!?"
-    },
-    {
-      "name": "Gold City",
-      "text": "…Yeah? You talkin' to me?"
-    },
-    {
-      "name": "Rookie Trainer A",
-      "text": "I knew it! You're that model City-chan, right? Saw you in magazines, but you're ridiculously pretty in person~…!"
+      "name": "New Trainer A",
+      "text": "Oh, um... e-excuse me! Are you..."
     },
     {
       "name": "Gold City",
-      "text": "Ah-… Thanks a lot."
+      "text": "...Yes? Are you talking to me?"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "I knew it! You're the model, City, aren't\nyou? I've seen you in a\nmagazine. You're\n<i>so</i> gorgeous!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah... Yeah, thank you."
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Well now, with such a beauty on track, I can't wait for the race~. Do your best, City-chan!"
+      "text": "Whew, with looks like that, you can't help\nbut get excited to see her\nrace. Go get\n'em, City!"
     },
     {
       "name": "Gold City",
-      "text": "Sure. I'll do my best so my running captivates you."
+      "text": "...Right. I'll be sure to deliver a captivating\nperformance."
     },
     {
-      "text": "After all that buzz, race kicked off—"
+      "name": "Monologue",
+      "text": "But despite all the attention, during the\nactual race..."
     },
     {
-      "name": "Commentator",
-      "text": "Gold City can't make up ground from behind! Final 400m! Is it too late!?"
-    },
-    {
-      "name": "Gold City",
-      "text": "*pant*… *pant*… Like hell I'm done…! I've still got… plenty left…!"
-    },
-    {
-      "name": "Commentator",
-      "text": "—And across the line!"
+      "name": "Caster",
+      "text": "Gold City is still trailing the pack with 400\nmeters to go! Not looking\ngood for her!"
     },
     {
       "name": "Gold City",
-      "text": "*pant*, *gasp*… *pant*… 5th place, huh… Damn it."
+      "text": "<i>Pant, pant...</i> Come on! I... I'm not done yet!\nI can still do this!"
     },
     {
-      "text": "Gold City surged hard near the end, but unfortunately, it wasn't enough for a top spot…"
+      "name": "Caster",
+      "text": "And she crosses the finish!"
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Pant, pant...</i> Fifth... Damn it."
+    },
+    {
+      "name": "Monologue",
+      "text": "Gold City puts up a good fight at the very\nend, but it's not enough."
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Hmm, nice burst at the final stretch, but overall nothing special—just run-of-the-mill. Guess balancing modeling and racing really is too much to ask."
+      "text": "Hmm. That late rally showed a glimmer of\npotential, but overall a\nmiddling... or\nlackluster performance. Well, not bad for\na model\nrunning as a side gig."
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "More importantly, look at that form! That tail and chestnut hair flowing in the wind was pure art. Man, what a treat for the eyes!"
+      "name": "New Trainer A",
+      "text": "Did you <i>see</i> her running, though? That\ngolden hair waving in the\nwind—simply\nenchanting. Wow, am I glad I got to see\nthat!"
     },
     {
       "name": "Gold City",
-      "text": "…Tch."
+      "text": "..."
     },
     {
-      "text": "Gold City walked off in silence. The bitter frustration written across her face left a deep impression on me…"
+      "name": "Monologue",
+      "text": "Gold City leaves without a word, but the\nlook of raw frustration on\nher face leaves a\nlasting impression on me."
     },
     {
-      "text": "Walking along riverbed at dusk, turning over Selection Race in mind—"
+      "name": "Monologue",
+      "text": "I'm still going through her race in my mind\nas I take an evening stroll\nalong the\nriverbank."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Hey, City, timeout-timeout~! Seriously dyin' here~!"
+      "text": "Hey, City! Time out, time out! You're\nliterally going to kill me!"
     },
     {
       "name": "Gold City",
-      "text": "*pant*… *pant*… What, Jordan, gassed out already?"
+      "text": "<i>Pant, pant...</i> What, Jordan, you already\nbeat?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "No, feet are killin' me too… But City, aren't your legs totally shot? You just raced today, don't overdo it~."
+      "text": "I mean, <i>yeah</i> I'm beat. But City, you're\nfeeling it in your legs too,\naren't you? It's\nright after a big race—you seriously need\nto rest."
     },
     {
-      "name": "City's Manager",
-      "text": "…City, Jordan-san is right."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Whoa, where'd you pop in from? Scared the crap outta me~…"
-    },
-    {
-      "name": "Gold City",
-      "text": "Manager… What, were you watching?"
-    },
-    {
-      "name": "City's Manager",
-      "text": "Pushing yourself like this will affect tomorrow's shoot. What if you trip and injure yourself running all sloppy like that?"
-    },
-    {
-      "name": "Gold City",
-      "text": "…Yeah, yeah. I won't damage your merchandise."
-    },
-    {
-      "name": "City's Manager",
-      "text": "City… Please understand. I'm saying this for your own sake."
-    },
-    {
-      "name": "City's Manager",
-      "text": "Picked job perfectly matching your brand tomorrow. Cool, refined, dazzling—"
-    },
-    {
-      "name": "Gold City",
-      "text": "…I do my job properly!"
-    },
-    {
-      "name": "Gold City",
-      "text": "You've taken care of me and I'm grateful. It's my work, so I'm not saying I'll quit modeling right this second."
-    },
-    {
-      "name": "Gold City",
-      "text": "But running and training is what I wanna do! How many times do I gotta say \"stay out of my way\"!?"
-    },
-    {
-      "name": "City's Manager",
-      "text": "…I've been against this from the start. City, you truly don't grasp your own worth…!"
-    },
-    {
-      "name": "Gold City",
-      "text": "Huh? Worth? That's not my worth—"
+      "name": "Gold City's Manager",
+      "text": "City, Jordan's right."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Crap! I am crave-craving some hot stew right now~!"
+      "text": "Whoa, what the—?! Geez, that scared me."
     },
     {
       "name": "Gold City",
-      "text": "…Huh?"
+      "text": "Manager... Hmph. What are you doing\nhere?"
     },
     {
-      "name": "Tosen Jordan",
-      "text": "'Cause like~, you kept saying City, City! Doesn't \"City\" and \"stew\" kinda sound alike? Got me super hungry~."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "So hey, Manager-san. Mind if we grab a bite~?"
-    },
-    {
-      "name": "City's Manager",
-      "text": "…Understood. In that case, I have prep work for tomorrow's meeting… City, please be careful not to hurt yourself."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "…She gone? Phew~, that was intense~. Manager-san hasn't changed a bit~."
+      "name": "Gold City's Manager",
+      "text": "Any more of this and it'll affect your work\ntomorrow. Just look at\nthose wobbly\nlegs—what if you fall and hurt yourself?"
     },
     {
       "name": "Gold City",
-      "text": "*sigh*… Sorry, Jordan. You bailed me out, thanks."
+      "text": "Yeah, yeah. Wouldn't want a scratch on\nyour precious money\nmannequin."
+    },
+    {
+      "name": "Gold City's Manager",
+      "text": "City... Listen to me. I <i>care</i> about you, and\nI'm saying this for your sake."
+    },
+    {
+      "name": "Gold City's Manager",
+      "text": "I've set up this next shoot to <i>perfectly</i> fit\nyour image—cool, fierce,\ngorgeous, and—"
+    },
+    {
+      "name": "Gold City",
+      "text": "I <i>get it!</i> I'll do my job, all right?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "You've done a lot for me—I'm thankful.\nAnd I owe you big time, so I'm\nnot trying\nto quit modeling or anything."
+    },
+    {
+      "name": "Gold City",
+      "text": "But I'm <i>also</i> going to keep running and\ntraining! And I've told you\nagain and again\nto stay out of that!"
+    },
+    {
+      "name": "Gold City's Manager",
+      "text": "...And I've always said that I'm against it.\nCity, you don't know your\ntrue worth!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh? My worth?! Choose your words more\ncarefully if you're trying to\ncurry favor! I\nknow I'm worth more than being your\npinup—"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ehehe! City actually droppin' a legit \"thanks\", that's hilarious✰"
+      "text": "Oh my gosh! I'm <i>totally</i> craving a bowl of\ncurry right now!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...What?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Also, totally wasn't kidding about being starved. Wanna go hit dinner soon?"
-    },
-    {
-      "name": "Gold City",
-      "text": "…Sorry. Gonna run a bit more. Go on ahead."
+      "text": "I mean, it totally sounded like you said\n\"curry flavor,\" yeah? You\nmade me hungry."
     },
     {
       "name": "Tosen Jordan",
-      "text": "For real~? Gotcha~. Don't push too hard, 'kay? Catch ya later~."
+      "text": "So yeah, uh, Manager? Mind if the two of\nus head out to eat?"
+    },
+    {
+      "name": "Gold City's Manager",
+      "text": "...All right. I have a meeting about\ntomorrow, anyway. Don't get\nyourself hurt,\nokay?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...She gone? Phew, talk about tension.\nYour manager never changes,\nhuh."
     },
     {
       "name": "Gold City",
-      "text": "…Alright. Let's do this."
+      "text": "<i>Sigh...</i> Sorry, Jordan. And nice thinking.\nThank you."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ahaha! City with a sincere thank you? Who\neven are you? ★"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, I wasn't kidding about being hungry,\nthough. Can we go eat, like,\nnow?"
     },
     {
       "name": "Gold City",
-      "text": "Not just something pretty to gawk at. Not some hollow doll—"
+      "text": "...Nah, I'm gonna run a bit more. You go on\nahead."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "For real? Okaaay. Don't overdo it, yeah?\nCatch you later."
     },
     {
       "name": "Gold City",
-      "text": "I'm gonna prove who I really am…!"
+      "text": "...Okay. Let's do this."
     },
     {
-      "text": "Drenched in sweat, pushing through the setting sun, she was more breathtaking than any Umamusume I'd ever seen…"
+      "name": "Gold City",
+      "text": "I'm not all looks. I'm not some dumb\ndress-up doll."
+    },
+    {
+      "name": "Gold City",
+      "text": "I'm going to be... the <i>real</i> me!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Glistening with sweat and bathing in the\nglory of the setting sun as\nshe runs, I am\nstruck by a profound beauty."
     }
   ]
 }

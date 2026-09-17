@@ -1,197 +1,186 @@
 {
   "title": "A Trial into the Clouds",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The meeting with the representatives of the Satono Group—Satono Diamond's parents—was held in the reserved student council room."
+      "name": "Monologue",
+      "text": "I've borrowed the student council room\ntoday to meet with Satono\nDiamond and\nher parents, representatives of the Satono\nGroup."
     },
     {
       "name": "Satono Diamond",
-      "text": "Father, Mother. This is the Trainer I have chosen!\nThey possess an incredible keenness of eye. So please, give us your approval—!"
+      "text": "Father, Mother, please meet my trainer!\nThere's nobody with a better\neye for\nracers. If you could just give your\npermission..."
     },
     {
       "name": "Dia's Father",
-      "text": "I understand how you feel, but we cannot grant our approval\nwithout seeing their capabilities firsthand."
+      "text": "I respect your enthusiasm, but we can't\napprove of someone we don't\nknow\nanything about."
     },
     {
       "name": "Dia's Father",
-      "text": "Therefore, I must ask you to undergo an examination.\nBoth you... and my daughter.",
-      "choice_data_list": [
-        "An... examination?"
-      ]
+      "text": "Your trainer will need to take a test... No, I\nsuppose you'll be taking it\ntogether."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "And so, Satono-san, Trainer-san, I shall be your examiner.\nOne month from now, you will race against me to show just how far you can go."
+      "text": "As such, Satono, Trainer, I shall be your\nexaminer. You'll be racing me\none month\nfrom now, so show me what you're capable\nof."
     },
     {
       "name": "Satono Diamond",
-      "text": "Wait, McQueen-san is the examiner?!\nThe gap in our abilities seems far too immense... But are you both ready for the briefing?"
+      "text": "Huh?! <i>You're</i> testing us, McQueen?! That's\nquite the tall order... But\nwhy is it you?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "It cannot be helped. One simply does not defy your mother.\nThe distance will be \"2,400 meters, just like the Japan Derby.\""
+      "text": "It's quite simple really. I just couldn't say\nno to a request from your\nmother. The\ndistance will be the same as the Japanese\nDerby—2,400\nmeters."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "A classic distance demanding not just a sharp turn of foot, but stamina and precise pacing.\nShow me that you two are undeniably the right match for one another."
+      "text": "That distance won't simply test your\naccelerating abilities, but your\nstamina and\npacing too. I hope you two will convince\nme that you're\nthe perfect team."
     },
     {
       "name": "Satono Diamond",
-      "text": "I'm so sorry... I was the one who asked for this,\nand now it's come to this..."
+      "text": "I'm sorry. When I asked you to be my\ntrainer, I didn't think it'd turn\nout like\nthis..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Um... would you rather not?\nTake on McQueen-san together with me, that is."
+      "text": "Um, are you having second thoughts?\nChallenging McQueen with me\nwon't be\neasy..."
     },
     {
       "name": "Satono Diamond",
-      "text": "McQueen-san is... formidable... And with 2,400 meters full of\nunknowns, earning her approval won't be easy."
+      "text": "She's an amazing runner, and there are so\nmany variables in a\n2,400-meter race. It\nwon't be easy to gain her approval."
     },
     {
       "name": "Satono Diamond",
-      "text": "Yet I truly believe! You looked directly at my running without being\nblinded by my family name... I can only truly shine by your side! So...!"
+      "text": "But I know we can do it! When you\nwatched my running, you saw <i>me,</i>\nnot my\nfamily or status. I can't reach my full\npotential without you!"
     },
     {
       "name": "Satono Diamond",
-      "text": "...! Will you lend your strength, your future, to Dia?\nEveryone will understand in time. Please...!",
-      "choice_data_list": [
-        "...Understood, let's do this!"
-      ]
+      "text": "Please! Will you share your strength—and\nfuture—with me? We'll show\neveryone\nwhat we can do, so..."
     },
     {
       "name": "Satono Diamond",
-      "text": "Are you... truly certain?",
-      "choice_data_list": [
-        "Let's do it. And one day, we'll reach the very top.",
-        "Let's do it. And together, we'll reach the very top."
-      ]
+      "text": "You... really don't mind?"
     },
     {
-      "text": "Win a GⅠ and shine at the pinnacle of the Twinkle Series.\nAs our first step toward that goal, the two of us began running toward the trial."
+      "name": "Monologue",
+      "text": "Our goal is clear—have Satono Diamond\nwin a G1 and shine at the\ntop of the\nTwinkle Series. But for our first step, we'll\nhave to pass her\nfamily's test."
     },
     {
       "name": "Dia & Kitasan",
-      "text": "Yaaaaaaahhhhhhhh!!\nHaaahhhhhhhh!!"
+      "text": "Yaaaaaahhh!\nHaaaaaahhh!"
     },
     {
-      "text": "Her best friend readily stepped forward to serve as the ideal training partner."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Haa... haa... *gasp*... haa...! Kita-chan, one more lap!\nJust one more...!"
+      "name": "Monologue",
+      "text": "When Satono Diamond and I looked for a\ntraining partner, a certain\nclose friend of\nhers leaped at the chance."
     },
     {
       "name": "Satono Diamond",
-      "text": "It's not enough... This is nowhere near enough...! A burst of speed alone\nwon't let me compete with McQueen-san over 2,400 meters...!"
+      "text": "<i>Huff... huff... huff... huff...</i> Let's go one\nmore, Kita! Please!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "This isn't enough—not at all! I'll need more\nthan just a burst of\nacceleration to keep\nup with McQueen over 2,400 meters!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Dia-chan... what incredible intensity...\nS-Sure thing. Let's go again!",
-      "choice_data_list": [
-        "Satono Diamond, run with composure and vary your pace!"
-      ]
+      "text": "Dia... You're so intense... A-all right. Let's\ngo again!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Yes, Trainer! Please keep watching Dia,\nlearn more about me, and guide me forward!"
+      "text": "Got it, Trainer! Keep watching me! Learn\nall you can, and tell me how\nto improve!"
     },
     {
       "name": "Satono Diamond",
-      "text": "...I want to become a true diamond! Recognized by Father, by Mother,\na diamond that shines throughout our family's history...!"
+      "text": "I want to be a diamond. I want to shine so\nbrilliantly that I burn our\nfamily name into\nhistory... and make my parents proud!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Haa... haa... *cough, cough*... haah..."
+      "text": "<i>Huff... huff... cough, cough! Huff...</i>"
     },
     {
       "name": "Kitasan Black",
-      "text": "Dia-chan... you're amazing... truly amazing...\nKeeping up with the exact same routine as me, when stamina is my whole thing..."
+      "text": "Dia... that was incredible. I mean that.\nEndurance is my forte, but you\nkept up\nthrough the whole training routine."
     },
     {
       "name": "Kitasan Black",
-      "text": "But Trainer... she really can't go any further.\nDia-chan hasn't even had her debut yet..."
+      "text": "But Trainer, we need to stop. This is too\nmuch for someone who hasn't\neven\ndebuted yet."
     },
     {
       "name": "Kitasan Black",
-      "text": "The reason we didn't debut together was because I developed faster...\nPushing her to my limits like this is just..."
+      "text": "We were meant to debut together, but I\nskipped ahead because my\nbody became\nrace-ready faster. She still can't push as\nhard as I can."
     },
     {
       "name": "Satono Diamond",
-      "text": "I can... I can still keep going, Trainer!!\nIf I'm falling short, it's simply because I haven't done enough...!"
+      "text": "I can... I can keep going, Trainer! I haven't\nhit my limit yet—I'm just\nbeing weak!"
     },
     {
       "name": "Satono Diamond",
-      "text": "At this rate, I won't stand a chance against McQueen-san, right?\nWinning would be out of the question, wouldn't it?"
+      "text": "I won't be a match for McQueen unless I\ndo more, right? Winning as I\nam now\nwould be a pipe dream, right?"
     },
     {
       "name": "Satono Diamond",
-      "text": "Please give me your honest assessment.\nAs things stand right now, what will happen?",
-      "choice_data_list": [
-        "Honestly... as you are now, I don't think you can match her."
-      ]
+      "text": "Be honest with me. At this rate, will I stand\na chance?"
     },
     {
       "name": "Satono Diamond",
-      "text": "...I figured as much."
+      "text": "I knew it..."
     },
     {
-      "text": "As her partner, I can't lie to her.\nI offer a calm, realistic outlook."
+      "name": "Monologue",
+      "text": "I'm her partner, so I can't lie to her. I\nexplain her chances calmly and\n\nobjectively."
     },
     {
-      "text": "Her opponent is one of Tracen Academy's premier stayers. With her current preparation,\nrunning a strong 2,400-meter trial and earning approval will be a steep uphill battle."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "...I want to walk the path of the Twinkle Series\nwith you, Trainer. I truly do."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Unless we overcome this hurdle together, neither my dream nor the Satono dream will come true...\nAnd if so, what was I even born for...?"
+      "name": "Monologue",
+      "text": "Mejiro McQueen is one of Tracen\nAcademy's best stayers. Meeting\nher\nstandards in a 2,400-meter race will be far\nfrom easy at\nDiamond's current level."
     },
     {
       "name": "Satono Diamond",
-      "text": "So please, please, Trainer.\nTrain Dia. Help me earn McQueen-san's approval!"
+      "text": "I... I want to do this with you, Trainer. I\nwant to take on the Twinkle\nSeries\ntogether."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "If we can't overcome this test together, my\ndream—the Satono\nfamily's dream—will\nremain out of reach. The very dream I was\nborn to\nachieve..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "So please! I can take it! Push me as far as it\ntakes to gain McQueen's\napproval!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Stop, Dia-chan! You're going to hurt yourself!\nTrainer, stop her!"
+      "text": "You can't keep going, Dia! You'll hurt\nyourself!\nTrainer, stop her!"
     },
     {
-      "text": "Two colliding wills and a desperate cry... This is a pivotal crossroad.\nI have to choose what to keep and what to sacrifice—and set our course."
+      "name": "Monologue",
+      "text": "Their pleas vie for my attention. This one\ndecision could determine\nDia's fate as a\nrunner."
     },
     {
-      "text": "Back to square one. The most important thing is deciding what comes first.\nThe greatest reason for joining hands with Satono Diamond is...",
-      "choice_data_list": [
-        "...Satono Diamond, there's something important we need to discuss."
-      ]
+      "name": "Monologue",
+      "text": "I need to ground myself. What's our first\npriority? Why did she offer\nme her hand in\nthe first place?"
     },
     {
-      "text": "A few days after that fateful decision.\n—The day of reckoning arrived."
+      "name": "Monologue",
+      "text": "It's been a number of days since my fateful\ndecision. The test is finally\nupon us."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "――?! Satono-san, you...\nCovered in mud like that... can you even run properly?"
+      "text": "...!\nSatono, you're... you're covered in dirt.\nAre you certain you're fit to\nrun?"
     },
     {
       "name": "Satono Diamond",
-      "text": "……………………。"
+      "text": "..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "You appear quite focused, I see.\n...Well, as long as you can run, it makes no difference to me."
+      "text": "I see you're too focused to hear me. Very\nwell, so long as you're in\nrunning\ncondition."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Show me on the turf just what you have honed and how far you have come.\nNaturally, I shall not hold back in the slightest."
+      "text": "Use this race to show me how far you've\ncome. Naturally, I won't hold\nback."
     },
     {
       "name": "Satono Diamond",
-      "text": "(I've done everything... everything I possibly could.\nAll that's left is—)"
+      "text": "(I've done everything I can—everything I\nmust. All that's left...)"
     },
     {
       "name": "Satono Diamond",
-      "text": "(To unleash it all against McQueen-san!)"
+      "text": "(...Is to show McQueen what I can do!)"
     }
-  ],
-  "no_wrap": true
+  ]
 }

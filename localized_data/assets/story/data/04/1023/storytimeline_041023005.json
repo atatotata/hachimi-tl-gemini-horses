@@ -1,140 +1,126 @@
 {
   "title": "Fluctuating Mind",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, Biwa Hayahide and I were having a meeting\nto formulate our strategy for the upcoming race."
+      "name": "Monologue",
+      "text": "Following our big win, Biwa Hayahide and\nI meet to devise a plan of\nattack for our\nnext race."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "—Based on these figures, we can deduce that this race will feature\na slightly aggressive early pace. Now, let us review the entered runners once more."
+      "text": "With these values, we can make a\nprediction for the upcoming race.\nNow I'd\nlike to review our data on the other\nrunners."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "As mentioned earlier, runner number four will be key.\nObserve her data over the past three races. Consequently—"
+      "text": "The key to the previous problem was racer\nnumber four, yes? We will\nrefer to the\ndata of her past three races, and..."
     },
     {
-      "name": "Narrator",
-      "text": "Her theories were sophisticated as ever, and I could barely keep up.\nAs I frantically took notes to stay on track..."
+      "name": "Monologue",
+      "text": "As usual, her theories are so advanced that\nI can barely keep up. I\nfuriously scratch\ninto my notebook to make sure I don't get\nleft\nbehind."
     },
     {
       "name": "Classmate A",
-      "text": "Hey, look over there.\nHayahide-san is talking about some crazy complicated stuff."
+      "text": "Hey, check it out. Hayahide's talking\nabout some super-complicated\nstuff."
     },
     {
       "name": "Classmate B",
-      "text": "Whoa, you're right. As expected of the top genius in our grade.\nShe really is incredible... On a totally different level."
+      "text": "Wow, for real. As expected from one of\nour school's top brains. She's\nreally\nextraordinary... Out of our league, for sure."
     },
     {
       "name": "Classmate A",
-      "text": "I wonder what you even have to do to get that smart.\nJust study like crazy or something?"
+      "text": "How'd she get so smart though? Maybe if I\nstudy harder, I can be like\nthat too."
     },
     {
       "name": "Classmate B",
-      "text": "People like her are just built different from birth!\nThere's no way we could ever pull that off~."
+      "text": "No way—she's one of those people who\nwere just born that way! We\ncould never\nbe like her."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...'Incredible,' is it?",
-      "choice_data_list": [
-        "Hayahide?"
-      ]
+      "text": "\"Extraordinary,\" huh?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No... it is nothing.\nNow then, let us continue our meeting."
+      "text": "Oh... It's nothing. Let's continue with the\nmeeting."
     },
     {
-      "name": "Narrator",
-      "text": "However, throughout the rest of our discussion,\nBiwa Hayahide occasionally drifted into pensive silence—"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "……。"
-    },
-    {
-      "name": "Narrator",
-      "text": "—and even after leaving the cafeteria, a subtle gloom lingered over her expression.",
-      "choice_data_list": [
-        "...Are you bothered by what our classmates said?"
-      ]
+      "name": "Monologue",
+      "text": "However, for the rest of the discussion,\nHayahide occasionally looks\nlike she's got\nsomething else on her mind."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Ah. No... You're right, my apologies.\nIt really is nothing of consequence.",
-      "choice_data_list": [
-        "If you're willing, I'd like to hear what's on your mind.",
-        "If you're willing, I'd like to hear what's on your mind."
-      ]
+      "text": "..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Even after leaving the cafeteria, she seems\nlost in thought."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "……。"
+      "text": "Ah... Actually, no. My apologies. It's\nnothing."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Being described as 'incredible' feels discordant to me.\nThat word inherently implies something extraordinary, does it not?"
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Certainly, to an outside observer, approaching everything through rigorous logic\nmight appear to be an arduous, complex feat. But..."
+      "text": "It... it just feels strange being described as\n\"extraordinary.\" That word\ninfers that I'm\n<i>special.</i>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Being utterly ordinary, arming myself with theory was the only path available to me.\nOtherwise, I wouldn't have even managed to enroll in this academy."
+      "text": "I always endeavor to follow logic, so from\nthe outside, I may appear\nto be doing\ndifficult things..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Thus, originally, the word \"amazing\" ought to be reserved\nfor those horsegirls blessed with innate, natural genius."
-    },
-    {
-      "name": "Narrator",
-      "text": "She was likely picturing her younger sister—\nthe \"Monster,\" Narita Brian."
-    },
-    {
-      "name": "Narrator",
-      "text": "Having such a legendary sister may have left her harboring complex feelings\nthat outsiders could never truly grasp. Even so—",
-      "choice_data_list": [
-        "Your theories are an \"amazing\" weapon!",
-        "Your theories are an \"amazing\" weapon!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Biwa Hayahide has honed a weapon unique to herself through sheer, relentless effort.\nI told her there was no doubt in my mind that she was truly magnificent."
+      "text": "But I'm actually an average person—one\nwho had no other tools but\nreason to get\ninto the academy."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "…Thank you."
+      "text": "So I'm not worthy of such praise as\n\"extraordinary.\" It is much better\nsuited for\nsomeone with natural talent."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm sure by <i>natural talent,</i> she must be\nreferring to the Beast, Narita\nBrian."
+    },
+    {
+      "name": "Monologue",
+      "text": "She may have complicated feelings about\nher exceptional sibling that\nothers\nwouldn't understand. But even so..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She works tirelessly on developing her\nunique strength. So I tell her\nstraight-out\nwhat an amazing person she is."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Indeed. I will polish this weapon even further and navigate\nthese fierce battles by your side. That resolve remains unshakable."
+      "text": "Thank you..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yet, Trainer… it is also my honest feeling\nthat I simply wished to be superior, as an older sister."
+      "text": "You're right. I'll sharpen my ability even\nfurther, and together we'll\nmake it through\nthis battle. My determination remains firm."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "To yearn for raw potential—something that no amount of effort\ncan ever alter—even I find myself utterly appalled by such folly."
-    },
-    {
-      "name": "Narrator",
-      "text": "As Biwa Hayahide gazed into the distance, a faint trace of insecurity was visible in her eyes.\nEven as calm and composed as she always is, she has her vulnerable side."
+      "text": "But you know, Trainer. As her big sister...\nwhat I really wanted was to\noutperform\nher."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No, pay me no mind; that was foolish talk. Moving on… it isn't on the schedule,\nbut I'd like to get in some training based on our earlier meeting."
+      "text": "I'm embarrassed at myself for foolishly\nchasing something as\nunattainable as\nnatural talent."
+    },
+    {
+      "name": "Monologue",
+      "text": "As she looks off into the distance, I can\nsense a lack of\nself-confidence in her eyes.\nI see that within her cool-headed self\nalso\nlies fragility."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Formulas require swift verification. If we delay,\nit will only take longer to correct any underlying errors."
+      "text": "Ah, I'm sorry for droning on about such a\ndull subject... Anyway, it's\nnot on our\nschedule, but I'd like to incorporate what\nwe drew from the\nmeeting into training."
     },
     {
-      "name": "Narrator",
-      "text": "Watching Biwa Hayahide hurry ahead as if driven by something unseen,\nI was left pondering how I could help her find true confidence in herself."
+      "name": "Biwa Hayahide",
+      "text": "Making corrections later will only slow us\ndown, so let's verify the\nformula first."
+    },
+    {
+      "name": "Monologue",
+      "text": "Biwa Hayahide's driven to keep moving\nforward, and I feel compelled\nmyself to\nfind a way to give her confidence."
     }
-  ],
-  "no_wrap": true
+  ]
 }
