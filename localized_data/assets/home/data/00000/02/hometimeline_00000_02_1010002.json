@@ -1,4 +1,5 @@
 {
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
@@ -6,7 +7,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "<i>What's up?</i> Hm… Oh! <i>Yes, I'm dancing!!</i>"
+      "text": "<i>What's up?</i> Hm... Oh! <i>Yes, I'm dancing!</i>"
     },
     {
       "name": "Taiki Shuttle",
@@ -14,7 +15,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "<i>Hang…?</i> Haha! <i>Let's have a gorgeous night!</i>"
+      "text": "<i>Hang?</i> Haha! <i>Let's have a gorgeous\nnight!</i>"
     },
     {
       "name": "Taiki Shuttle",
@@ -22,8 +23,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Heh… I see you understand \nthe universal language!"
+      "text": "Heh... I see you understand the universal\n\nlanguage!"
     }
-  ],
-  "no_wrap": true
+  ]
 }
