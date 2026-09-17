@@ -2,514 +2,384 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "While out shopping for daily necessities \nwith Yaeno Muteki, we came across a crowd \nin the shopping district.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Yaeno Muteki and I have come to the\nshopping\ndistrict to buy some daily\nnecessities when we\nspot a throng of\npeople ahead of us."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Things seem quite lively here, don't they?",
-      "choice_data_list": []
+      "text": "It appears something is happening up\nahead."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I see, the lottery raffle, is it?",
-      "choice_data_list": []
+      "text": "Ah, a raffle."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Hey there, folks! If you're on your way \nback from shopping, do you have any \nlottery tickets?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "A lottery ticket... Ah, yes indeed. I have \nreceived it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Then c'mon, over here!",
-      "choice_data_list": [
-        "You've got the chance, so go ahead and \ndraw!"
-      ]
+      "name": "Raffle Clerk",
+      "text": "Oh, hello there. Are you two heading\nhome?\nBefore you do, you wouldn't\nhappen to have a\nraffle ticket on you,\nwould you?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Hmm... I hesitate to let the ticket go to \nwaste. And yet...",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "A raffle ticket? As a matter of fact, I do.\nI\nreceived one earlier."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Great! Come on over, then!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "\"...To tell the truth, back in the day, I \ncouldn't accept my lottery result, threw a \nfit, and destroyed the raffle machine.\"",
-      "choice_data_list": []
+      "text": "Hmm... I wouldn't want the ticket go to\nwaste,\nbut..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "\"I had been banned from my local lottery \ndraw.\"",
-      "choice_data_list": []
+      "text": "When I was a child, I once destroyed a\nraffle\nmachine in a fit of rage because I\ncouldn't accept\nthe results."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I am unaccustomed to lotteries... Will I \nbe able to remain unshaken by the \noutcome...!",
-      "choice_data_list": []
+      "text": "Afterward, I was forbidden from entering\nany\nmore local raffles."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Trainer-dono. If it pleases you, I would \nbe honored if you would pull alongside me!",
-      "choice_data_list": [
-        "Got it!"
-      ]
+      "text": "Since I'm still unaccustomed to them,\nI'm... quite\nnervous about how I'll react!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Thank you. Now then—",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Together with Yaeno Muteki, I slowly \nturned the handle of the raffle machine.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Please, won't you turn the lever with\nme?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "The grand prize...!",
-      "choice_data_list": []
+      "text": "You have my thanks. Now, then..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Yaeno Muteki and I give the raffle\nmachine a\ngentle spin."
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "—...Mmm... ...Humph.",
-      "choice_data_list": []
+      "text": "The grand prize!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "—A stroke of luck.",
-      "choice_data_list": [
-        "No, no, no! Shouldn't you be happier?!"
-      ]
+      "text": "HNGH! ...Phew."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Nay! Being swayed by one's emotions is \nproof of immaturity!!",
-      "choice_data_list": []
+      "text": "How fortuitous."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I must remain calm at all times!!",
-      "choice_data_list": [
-        "There's no need to hold back your joy!"
-      ]
-    },
-    {
-      "name": "",
-      "text": "I explained that as long as she didn't \ncross the line, celebrating to her heart's \ncontent wouldn't cause trouble for anyone, \nso she should go for it.",
-      "choice_data_list": []
+      "text": "I will not! There's no greater mark of\nimmaturity\nthan being swept up in\nemotion."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...D-Do you really think so...? Is it \ntruly all right to openly express this \nthrilling excitement...?",
-      "choice_data_list": [
-        "Let's celebrate together!!"
-      ]
+      "text": "I must remain composed at all times!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I explain that as long as she doesn't go\nrunning\naround wildly or something, it's\nfine to show as\nmuch happiness as she\nwants."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Together...! I-If that's the case...!",
-      "choice_data_list": [
-        "—Ready, set...!"
-      ]
+      "text": "I-is that so? So it's all right for me to let\nloose this\ndelight I'm feeling?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Grand! Prize! Banzaiii!!",
-      "choice_data_list": []
+      "text": "Let's!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Trainer-dono, please feel free to use this \n\"Hot Springs Voucher.\"",
-      "choice_data_list": [
-        "Huh? But it's your raffle ticket...",
-        "Huh? But they're your raffle tickets..."
-      ]
+      "text": "HURRAAAY!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Observing your gait, Trainer-dono, the \nmovement in your neck, shoulders, and hips \nappears rather stiff.",
-      "choice_data_list": []
+      "text": "I'd like for you to use this coupon."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Perhaps your muscles are stiff? I \nrecommend hot spring therapy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Just as Yaeno Muteki observed, my \nshoulders and back are definitely stiff. \nHowever, when I tell her that she must be \ntired too—",
-      "choice_data_list": []
+      "text": "I've been observing you as you walk and\nnoticed\nthat your movements are a bit\nrigid, especially in\nthe neck, shoulders,\nand lower back."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I am in perfect health. Thanks to your \nguidance, Trainer, no fatigue has built \nup.",
-      "choice_data_list": [
-        "Still, taking time to refresh is important \ntoo.",
-        "Still, you need to take time to refresh \ntoo, you know?"
-      ]
+      "text": "I suspect you're suffering from stiff\nmuscles, in\nwhich case I recommend\ngoing to a hot spring to\nrecuperate."
     },
     {
-      "name": "",
-      "text": "Taking time to refresh is especially \nimportant for stoic types like Yaeno \nMuteki.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She's right. My shoulders and back <i>do</i>\nfeel stiff,\nbut when I point out that she\nmust be tired as\nwell..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Hm, training at a hot spring has its \nown charm. A change of pace might do us \ngood.",
-      "choice_data_list": []
+      "text": "Nonsense. I'm the picture of health.\nThanks to\nyour guidance, nary a trace of\nfatigue lingers\nwithin my body."
+    },
+    {
+      "name": "Monologue",
+      "text": "I'd even argue it's especially important\nfor\nsomeone like Yaeno Muteki, who\nkeeps herself to\nsuch militantly high\nstandards, to take breaks."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Fortunately, the travel vouchers seem to \nbe for a pair, so let us do this.",
-      "choice_data_list": []
+      "text": "Hmm... training at a hot spring might be\na\nrefreshing change of pace."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Once things settle down, you and I could \nuse this hot spring voucher. How does that \nsound, Trainer?",
-      "choice_data_list": [
-        "Let's do that!"
-      ]
+      "text": "Fortunately, the coupon's for two, so\nhow about\nthis?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Thank you for readily agreeing. In that \ncase, I shall leave this ticket in \nTrainer-dono's care.",
-      "choice_data_list": []
+      "text": "Once our schedule opens up, why don't\nwe both\ngo together?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Fufu, I'm looking forward to it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "We've added one more exciting promise to \nlook forward to with Yaeno Muteki!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Then it's decided. I shall leave the\ncoupon in your\ncare."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...T-This carrot hamburg steak is...!",
-      "choice_data_list": []
+      "text": "...Hehe. I can hardly wait."
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, Yaeno Muteki and I make a fun\nplan to\nlook forward to!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "—Trainer-dono.",
-      "choice_data_list": []
+      "text": "Th-this carrot hamburger steak!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "It's rice.",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "Trainer."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "It's rice.",
-      "choice_data_list": []
+      "text": "Rice."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I have eaten this carrot hamburger steak \nbefore. It was sent to my family home as a \nyear-end gift.",
-      "choice_data_list": []
+      "text": "We need rice."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "The deeply rich demiglace sauce goes \nwonderfully with rice! The entire rice tub \nemptied out in no time at all!",
-      "choice_data_list": []
+      "text": "I've had this hamburger steak before\nback at\nhome. Someone gave one to my\nfamily as a\nyear-end gift."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Taking home only a Carrot Hamburger Steak \ncannot be considered fully prepared.",
-      "choice_data_list": []
+      "text": "The succulent demi-glace sauce goes\n\nexceptionally well with rice! We refilled\nour bowls\nso quickly, we ran out of rice\nbefore we knew it!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Let's buy some rice on our way back too!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Following Yaeno Muteki's strong \nrecommendation, we ended up buying rice to \nbring home as well.",
-      "choice_data_list": []
+      "text": "It won't suffice to bring back this deluxe\ncarrot\nhamburger steak on its own."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...*nom nom nom nom nom nom*.",
-      "choice_data_list": [
-        "The rice... I can't stop eating it...!"
-      ]
+      "text": "Let's buy some rice and hurry back!"
+    },
+    {
+      "name": "Monologue",
+      "text": "At Yaeno Muteki's request, we go buy a\nbag of\nrice before heading home."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Yes, truly. The pure bliss brought by this \npremium carrot hamburg steak and rice is \nsimply sublime...!",
-      "choice_data_list": []
+      "text": "<i>...Munch, munch, munch.</i>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "A magnificent demi-glace sauce!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Thanks to Yaeno Muteki, I was able to \nsavor the Special Deluxe Carrot Hamburg \nSteak and rice to my heart's content!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Isn't it wonderful? What can you call this\n\ncombination of deluxe carrot hamburger\nsteak\nand rice if not pure bliss?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Goodness, this much...?!",
-      "choice_data_list": []
+      "text": "Long live demi-glace sauce!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Thanks to Yaeno Muteki, I get the\nchance to\ndelight in the ultimate pairing\nof deluxe carrot\nhamburger steak and\nrice!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "There's no way this is an amount just two \npeople can finish.",
-      "choice_data_list": []
+      "text": "What?! That's so many!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Trainer-dono, pardon me for asking \nsomething out of the blue.",
-      "choice_data_list": []
+      "text": "By no means can we finish all these with\njust the\ntwo of us."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I am rather unfamiliar with socializing \nbetween friends, so I was hoping you could \noffer me some advice...",
-      "choice_data_list": []
+      "text": "Forgive me for pressing such a silly\nquestion upon\nyou, but..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Would it be impolite to bring carrot \ndishes as a gift for my classmates...?",
-      "choice_data_list": [
-        "Yeah, I'm okay!",
-        "Yeah, it's all right!"
-      ]
+      "text": "Since I'm unfamiliar with the details of\nhow\nfriendships work, there's something\nI'd like to\nconfirm with you."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Is that so...! In that case, let's bring \nsome refreshments to Chiyono O-san and \nArdan-san.",
-      "choice_data_list": []
+      "text": "Would it be considered rude to offer my\n\nclassmates food made with these\ncarrots?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Really? Then I think I'll prepare some\ndishes for\nChiyono O and Ardan."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Mmm, that was delicious!",
-      "choice_data_list": []
+      "text": "Mmm! That was delicious!"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "\"Yaeno-san, thank you for the 'Carrot Set \nMeal'!\"",
-      "choice_data_list": []
+      "text": "Thanks for the home-cooked carrot\nfeast, Yaeno!"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Every single dish was exquisite. In \nparticular, I quite fancy the delicate \nseasoning of this carrot takikomi gohan.",
-      "choice_data_list": []
+      "text": "Everything was delectable. I particularly\nliked the\nrefreshing taste of the carrot\nrice."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...! I'm so glad it suits your taste.",
-      "choice_data_list": []
+      "text": "...!\nI... I'm glad you both enjoyed the\nmeal."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Carrots are a highly nutritious \nvegetable... When I acquired a large \nquantity of them, your faces came to mind.",
-      "choice_data_list": []
+      "text": "Carrots are highly nutritious, so when I\ncame into\npossession of a wealth of\ncarrots, I immediately\nthought of you\ntwo."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I know this may be presumptuous of me, but \nplease forgive my selfishness in wanting \nto wait for both of you.",
-      "choice_data_list": []
+      "text": "I know it was presumptuous, but I hope\nyou'll\nforgive me for showing up\nsuddenly with so many."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh my... Thank you very much. Fufufu, I am \ndelighted.",
-      "choice_data_list": []
+      "text": "Oh my... You have nothing to apologize\nfor,\nYaeno. Thank you so much for this.\nHehehe. I'm\nso glad you think so dearly\nof us."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Yeah, yeah! It's just like the proverb: \n\"Salt for your enemies! Carrots for your \nrivals!\" right?",
-      "choice_data_list": []
+      "text": "Same! That's precisely what they mean\nwhen they\nsay, \"Show humanity to your\nenemy and a carrot\nto your rival!\""
     },
     {
       "name": "Yaeno Muteki",
-      "text": "……? ……I'm getting deja vu……",
-      "choice_data_list": []
+      "text": "...Hmm? Why do I feel like I've heard\nsomething\nsimilar before?"
     },
     {
-      "name": "",
-      "text": "—Maxims aside, Yaeno Muteki seemed \nsatisfied and pleased that her gift of \ncarrot dishes was enjoyed.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Interesting proverb aside, Yaeno Muteki\nseems\nmore than pleased that the two\nenjoyed the\ncarrot dishes she made."
     },
     {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
     },
     {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "—Hmm. One carrot...",
-      "choice_data_list": []
+      "text": "Hmm, a single carrot..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Let's go with pickles. They'll provide a \ngood amount of sodium, making them the \nperfect snack for training.",
-      "choice_data_list": []
+      "text": "I think I'll pickle this. Pickles are great\nfor\nreplenishing one's sodium levels, and\nare perfect\nfor snacking on during\nbreaks between training."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Pair it with rice balls, and it turns into \na bento meal.",
-      "choice_data_list": [
-        "That's a great idea!",
-        "That's a great idea!"
-      ]
+      "text": "They make a good lunch served with rice\nballs as\nwell."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Yes, if I do say so myself, it's quite a \nclever idea.",
-      "choice_data_list": []
+      "text": "So it is, if I do say so myself."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "With this level of freshness, \nquick-pickling is the way to go.",
-      "choice_data_list": []
+      "text": "One look at this carrot's luster was\nenough to\nconvince me to pickle it."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "If you would like, would you care for a \ntaste as well, Trainer-dono? I shall bring \nsome to training.",
-      "choice_data_list": []
+      "text": "Would you like to try some once it's\nready? I'll\nbring it to our next training\nsession."
     },
     {
-      "name": "",
-      "text": "The next day, during a break in training, \nthe two of us snacked on some lightly \npickled carrots made by Yaeno Muteki. The \nperfectly balanced saltiness was \nexquisite!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The next day, Yaeno Muteki and I have\nthe\npickled carrot. It's delightful, with\njust the right\namount of salt!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
     },
     {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "……………………。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "――...I see. So this is a trial for me, \nthen.",
-      "choice_data_list": [
-        "A trial?"
-      ]
+      "text": "...I see. This must have been a test."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Were you testing whether I could stay calm \neven in the face of an unacceptable \noutcome?",
-      "choice_data_list": []
+      "text": "Yes. Were you not testing to see if I\nwould be\nable to calmly accept even the\nbitterest of raffle\noutcomes?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Whaah!? I-I had zero intention of doing \nthat!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "Heh, no need to hide it. It stems from my \nown unworthiness in the first place.",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "What?! Why would I even consider doing\nsuch a\nthing?!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Even with such a humiliating result, I \nshall endure without losing my composure!!",
-      "choice_data_list": []
+      "text": "Heh. You needn't try to hide the truth. I\nknow I\nam merely reaping what I sowed\nlong, long ago."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "*Deep inhale*... *Deep exhale*...",
-      "choice_data_list": []
+      "text": "I'll show you how capable I am of\nenduring this\nhumiliating outcome with\nfull composure!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Tissues...! A prize optimized for all \nmankind that will never go to waste...!",
-      "choice_data_list": []
+      "text": "<i>Inhale... Exhale...</i>"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Heh... Purely in terms of quantity, a \nsingle lottery ticket has multiplied into \nso many pieces of paper...!",
-      "choice_data_list": []
+      "text": "Tissues... What more perfect and\nuniversally\nutilitarian a prize could one\nask for?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "If this isn't a stroke of good fortune, I \ndon't know what is! And after that...",
-      "choice_data_list": []
+      "text": "Heh... Behold! I was able to transform a\nsingle\nraffle ticket into <i>this</i> much paper!"
     },
     {
-      "name": "",
-      "text": "Though she seemed somewhat flustered \nalready... Yaeno Muteki managed to keep \nher composure, yet radiated frustration \nthe entire time.",
-      "choice_data_list": []
+      "name": "Yaeno Muteki",
+      "text": "If that isn't the definition of good\nfortune, then\nwhat is? Not only that..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I wouldn't say Yaeno Muteki is perfectly\n\ncomposed, but she manages to stay\nreasonably\ncalm, showing only a hint of\ndisappointment."
     }
   ]
 }

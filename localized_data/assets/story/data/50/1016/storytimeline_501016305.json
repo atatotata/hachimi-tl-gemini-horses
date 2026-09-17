@@ -2,156 +2,116 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Commentary",
-      "text": "In the lead is Narita, Narita, Narita! \nNarita Brian crosses the finish line now!",
-      "choice_data_list": []
+      "name": "Caster",
+      "text": "It's Narita! Narita is in the lead! Narita\nBrian has\ncrossed the finish line!"
     },
     {
-      "name": "Narrator",
-      "text": "(WOOO--!)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Wooooo!"
     },
     {
-      "name": "Narrator",
-      "text": "Screams and joyous cheers shook the venue. \nEven though it was only the first leg of \nthe Classic Triple Crown, an extraordinary \nlevel of feverish excitement hung in the \nair.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Cheers and cries of joy shake the venue.\nEven\nthough it's only the first race of the\nClassic Triple\nCrown, there's an\nunprecedented sense of\nexcitement in\nthe air."
     },
     {
       "name": "Narita Brian",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
-      "name": "Mid-Level Trainer",
-      "text": "\"...What an unbelievable Umamusume. To \nthink I'll have to keep facing someone \nlike this...!\"",
-      "choice_data_list": []
+      "name": "Skilled Trainer",
+      "text": "...What an amazing runner! I can't\nbelieve she's\nour competition this year!"
     },
     {
       "name": "Reporter",
-      "text": "Treating everyone around her like \nchildren... She's on a completely \ndifferent level...",
-      "choice_data_list": []
+      "text": "She made the other racers look like\namateurs.\nShe's just on a whole other\nlevel..."
     },
     {
-      "name": "Cameraman",
-      "text": "There's no doubt about it...! That girl is \ngoing to become a Triple Crown \nUmamusume...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...I'll head back to the waiting room \nfirst.",
-      "choice_data_list": [
-        "Yeah, leave this part to me.",
-        "Yeah, leave this to me."
-      ]
+      "name": "Photographer",
+      "text": "There's no doubt about it... She's going\nto be the\nTriple Crown Champion!"
     },
     {
       "name": "Narita Brian",
-      "text": "...Mm.",
-      "choice_data_list": []
+      "text": "...I'm going ahead. I'll be in the waiting\nroom."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Okay."
     },
     {
       "name": "Reporter",
-      "text": "Ah, please wait! Narita Brian-san!! At \nleast say a word!",
-      "choice_data_list": [
-        "Excuse me!"
-      ]
+      "text": "Please wait! Narita Brian! At least a few\nwords,\nplease!"
     },
     {
-      "name": "Cameraman",
-      "text": "\"H-Hey! Just one! Just let me have one \nphoto~~!!\"",
-      "choice_data_list": []
+      "name": "Photographer",
+      "text": "W-wait just a moment! One shot! Just\none shot!"
     },
     {
-      "name": "Narrator",
-      "text": "(Buzz, chatter, murmur, murmur...)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Chatter, chatter.</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "...Heh.",
-      "choice_data_list": []
+      "text": "...Heh."
     },
     {
-      "name": "Narrator",
-      "text": "Unable to cause a scene in the underground \ntunnel, I continued dealing with the press \nin the entrance lobby, but...",
-      "choice_data_list": [
-        "It's finally over..."
-      ]
+      "name": "Monologue",
+      "text": "I handle the press at the entrance to\navoid\ncausing a commotion in the\nrunners' tunnel."
     },
     {
-      "name": "Narrator",
-      "text": "I should hurry to the waiting room where \nNarita Brian is. She'll want to discuss \nwhat's next, too.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I should hurry up and head to Narita\nBrian. She\nprobably wants to discuss our\nupcoming schedule\nas well."
     },
     {
       "name": "Umamusume A",
-      "text": "\"Hey, did you see that? She was a \nstraight-up monster on that final \nstretch.\"",
-      "choice_data_list": []
+      "text": "Hey, did you see that one racer? She\nwas a total\nbeast on that final stretch."
     },
     {
       "name": "Umamusume B",
-      "text": "It's Brian, right? Wonder if she's running \nin the Derby too. I just got in touch with \nmy Trainer to ask about that.",
-      "choice_data_list": []
+      "text": "You mean Brian, right? I wonder if she'll\nbe at the\nDerby too. I just messaged my\ntrainer that we\nneed to talk about it."
     },
     {
-      "name": "Umamusume A & Umamusume B",
-      "text": "Haaah... Narita Brian, huh...",
-      "choice_data_list": []
+      "name": "Both",
+      "text": "<i>Sigh...</i> Narita Brian..."
     },
     {
-      "name": "Narrator",
-      "text": "...It seems today's race shocked not just \nthe spectators and reporters, but everyone \npresent.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Apparently, today's race made quite an\n\nimpact—not only on the spectators and\nreporters,\nbut on everyone present."
     },
     {
       "name": "Narita Brian",
-      "text": "Too slow.",
-      "choice_data_list": [
-        "Sorry to keep you waiting."
-      ]
+      "text": "Took you long enough."
     },
     {
       "name": "Narita Brian",
-      "text": "...Tsk. It's not like I wanted an apology.",
-      "choice_data_list": []
+      "text": "Tch... I didn't want you to apologize."
     },
     {
       "name": "Narita Brian",
-      "text": "\"There isn't much time until the next \nrace, the Tokyo Yushun (Japanese Derby). \nSay what you have to say, quickly.\"",
-      "choice_data_list": []
+      "text": "The Japanese Derby is going to be here\nbefore\nwe know it, so let's hurry up and\ntalk."
     },
     {
       "name": "Narita Brian",
-      "text": "\"Will you be able to compete again with \nthose who ran in this Satsuki Sho?\"",
-      "choice_data_list": [
-        "Do you want to compete again?",
-        "Did you feel like competing again?"
-      ]
+      "text": "Will I be competing against the same\nrunners as\ntoday's Satsuki Sho?"
     },
     {
       "name": "Narita Brian",
-      "text": "Ha, what are you saying?",
-      "choice_data_list": []
+      "text": "Hah, what are you even saying?"
     },
     {
       "name": "Narita Brian",
-      "text": "Naturally. No matter what anyone says, \nduring that race, not a single soul was \nlooking down.",
-      "choice_data_list": []
+      "text": "Of course! No matter what others may\nsay, not a\nsingle person looked down\nduring that race."
     },
     {
       "name": "Narita Brian",
-      "text": "No one except those who stood on the turf \ncould ever understand that exhilaration. \nThis is the Classic Triple Crown... A \ncontest among peers of the same \ngeneration.",
-      "choice_data_list": []
+      "text": "The exhilaration of that race can only be\n\nunderstood by those who were on the\nturf. This is\nthe Classic Triple Crown—the\ncompetition of my\ngeneration."
     },
     {
       "name": "Narita Brian",
-      "text": "I retract my statement from before the \nrace. I intend to enjoy this year to the \nabsolute fullest.",
-      "choice_data_list": []
+      "text": "I take back what I said before the race.\nI'm going\nto enjoy this year to the\nfullest!"
     },
     {
-      "name": "Narrator",
-      "text": "Back then, I felt Narita Brian possessed a \nlevel of fiery passion completely \ndifferent from those around her.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "In this moment, Narita Brian seems to\npossess a\npassion altogether apart from\nthose around her."
     }
   ]
 }

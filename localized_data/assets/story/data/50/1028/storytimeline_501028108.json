@@ -2,297 +2,232 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "The Fan Appreciation Festival. If I \nrecall, Hishi Akebono said she was \nentering the sumo tournament.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It's the day of the Fan Fest, and I\nbelieve Hishi\nAkebono said she was\ngoing to participate in a\nsumo wrestling\ntournament."
     },
     {
-      "name": "Narrator",
-      "text": "Heading to the venue to cheer her on—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Teyaaaah!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Event Announcer",
-      "text": "Overarm throw! Hishi Akebono wins! \n—Advancing to the finals is confirmed!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "The venue seemed to be buzzing with great \nexcitement.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I head over to the venue to cheer for\nher, and\nwhen I arrive there..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "âAh, Trainer-san! You came to watch~!",
-      "choice_data_list": [
-        "She's really popular.",
-        "She's really popular."
-      ]
+      "text": "Hiii-yah!"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "And she's pushed her opponent out with\nan\noverhand throw! It's a win for Hishi\nAkebono, so\nshe'll be moving on to the\nfinals!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The entire place is already bursting with\nenergy\nand excitement."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe, that's right! They were super happy \nwith it~.",
-      "choice_data_list": []
+      "text": "Hi Trainer! Thanks for coming to watch\nme!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"I've always loved sumo too, so I couldn't \nhelp but get all hyped up~!\"",
-      "choice_data_list": []
+      "text": "Hehe! Yeah, I'm glad they're enjoying\nthemselves\nso much!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Doing it really is totally different from \njust watching. Grappling chest-to-chest is \nso much fun~!",
-      "choice_data_list": []
+      "text": "I've loved sumo wrestling for a long time\nnow, so I\ncan't help but get really fired\nup about it!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Everyone's come to cheer us on, so we've \ngotta make the finals the hottest match \never!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Fan A",
-      "text": "U-Um! I always watch your races and your \nUmasta Lives! Please do your best in the \nfinals...!",
-      "choice_data_list": []
+      "text": "Actually wrestling is so different from\njust\nwatching it. Getting to grapple\nothers with all I've\ngot is tons of fun!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Wah, so many people are cheering for me! \nThank you~!",
-      "choice_data_list": []
+      "text": "Everyone's cheering for me, so I've gotta\nmake\nsure the final match is as exciting\nas possible!"
+    },
+    {
+      "name": "Female Fan",
+      "text": "U-um, excuse me! I-I love watching your\nraces\nand Umastalives! So, um, good\nluck in the final\nmatch!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"Look forward to today's bout too, okay?♪ \nI'll do my best, so cheer for me~!\"",
-      "choice_data_list": []
+      "text": "Wow, thank you so much for all your\nsupport! It\nmeans a lot to me!"
     },
     {
-      "name": "Female Fan A",
-      "text": "Y-Yeees...!",
-      "choice_data_list": []
+      "name": "Hishi Akebono",
+      "text": "I hope you'll enjoy today's match, too! ♪\nI'm\ngonna do my best, so keep your eyes\non me!"
     },
     {
-      "name": "Narrator",
-      "text": "And finally, the finals of the sumo \ntournament were about to begin!",
-      "choice_data_list": []
+      "name": "Female Fan",
+      "text": "I-I will!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And just like that, the curtains rise on\nthe final\nmatch of the sumo wrestling\ntournament!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "No matter the time or place, I will never \ngive up on victory! Now, let us compete~!",
-      "choice_data_list": []
+      "text": "No matter the time or place, I must\nnever forfeit\nvictory! Come, let us battle!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe, I'm gonna give it my all too, here \nI gooo~!",
-      "choice_data_list": []
+      "text": "Hehe! I'll give it my all too! Let's go!"
     },
     {
-      "name": "Event Announcer",
-      "text": "—Hakkeyoi, nokotta!",
-      "choice_data_list": []
+      "name": "Event Commentator",
+      "text": "...Aaand <i>begin!</i>"
     },
     {
       "name": "Bono & Kawakami",
-      "text": "Hngnnnnn~~!",
-      "choice_data_list": []
+      "text": "Graaaaah!"
     },
     {
-      "name": "Event Announcer",
-      "text": "Whoa, they're locked in a dead heat! It's \na pure test of strength, a battle of \nbrawn!",
-      "choice_data_list": []
+      "name": "Event Commentator",
+      "text": "<i>Oh!</i> They've got each other in a tight\ngrip! It's a\nbattle of pure strength now!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "K-Kawakami-chan! You've got some serious \nguts!",
-      "choice_data_list": []
+      "text": "K-Kawakami! You're... really strong!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ah, you're the one who's p-powerful, \nAkebono-san...!",
-      "choice_data_list": []
+      "text": "R-right back at you... Akebono! You're\nquite\npowerful... yourself!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "—Right here!",
-      "choice_data_list": []
+      "text": "I've got you now!"
     },
     {
-      "name": "Event Announcer",
-      "text": "Hishi Akebono takes the outside grip \nfirst! Can she force her out? Will it be a \nfrontal force-out?!",
-      "choice_data_list": []
+      "name": "Event Commentator",
+      "text": "And Hishi Akebono has managed to\ngrasp onto\nher opponent's belt! Will she\nbe able to force\nKawakami Princess out\nof the ring?!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "As a princess...! Even when all hope is \nlost, one must fight through with sheer \nwillpower!",
-      "choice_data_list": []
+      "text": "As a princess... I must fight with all my\nspirit, even\nin the most dire of situations!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Deyaaaah!!",
-      "choice_data_list": []
+      "text": "Yaaaaah!"
     },
     {
-      "name": "Event Announcer",
-      "text": "Whoa, she turns it around—an overarm \nthrow! Kawakami Princess wins!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Aaargh! So frustrating~! But that was \nsuper fun~!!",
-      "choice_data_list": []
+      "name": "Event Commentator",
+      "text": "Oh, and the tables have turned! That's a\nclean\noverhand throw and—Kawakami\nPrincess wins!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Kawakami-chan, you're so strong~!",
-      "choice_data_list": []
+      "text": "Aah! I was <i>so</i> close! But still, I had lotsa\nfun!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "You really are strong, Kawakami!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "No, well, Akebono-san was just so strong \nthat I lost myself in the heat of the \nmoment—",
-      "choice_data_list": []
+      "text": "Oh, goodness. Truthfully, you were so\nstrong that\nI completely forgot myself\nand went overboard..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "\"I might have thrown that with too much \nforce. Are you alright?\"",
-      "choice_data_list": []
+      "text": "I think I might have thrown you a little\ntoo hard,\nbut are you all right?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ahaha! It's totally fine~! In fact, I was \nsuper happy that you threw it with all \nyour might!",
-      "choice_data_list": []
+      "text": "Ahaha! I'm totally fine! Actually, I'm glad\nyou\nthrew me with all your might,\nwithout holding\nback!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "So let's compete again sometime, okay~?",
-      "choice_data_list": []
+      "text": "Let's have another match one day, okay?"
     },
     {
       "name": "Kawakami Princess",
-      "text": "B-By all means! Let us clash head-on \nagain!",
-      "choice_data_list": []
+      "text": "Y-yes, of course! I would be delighted to\nwrestle\nwith you once more!"
     },
     {
-      "name": "Narrator",
-      "text": "Did their bond deepen through the bout...? \nA loud round of applause enveloped the two \nas they exchanged a firm, passionate \nhandshake!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Their bond has deepened after their\nintense bout,\nand as the pair shake\nhands, the crowd showers\nthem with\ndeafening applause!"
     },
     {
-      "name": "Female Fan A",
-      "text": "D... Do your best, Hishi Akebono...!",
-      "choice_data_list": []
+      "name": "Female Fan",
+      "text": "H-Hishi Akebono! Please do your best!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ah!",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Toryaaaah!",
-      "choice_data_list": []
+      "text": "Yaaaaah!"
     },
     {
-      "name": "Event Announcer",
-      "text": "Yorikiri—! Hishi Akebono wins!",
-      "choice_data_list": []
+      "name": "Event Commentator",
+      "text": "Hishi Akebono has hoisted Kawakami\nPrincess out\nof the ring by her belt! Hishi\nAkebono wins!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Haaah~! Kawakami-chan was so strong~!",
-      "choice_data_list": []
+      "text": "Phew! You were so strong, Kawakami!"
     },
     {
       "name": "Male Fan A",
-      "text": "She really is amazing! That heated bout \nwas so moving!",
-      "choice_data_list": []
+      "text": "Dang, that was <i>intense!</i> I got\ngoosebumps just\n<i>watching</i> that match!"
     },
     {
       "name": "Male Fan B",
-      "text": "I'll keep cheering for you!",
-      "choice_data_list": []
+      "text": "Yeah, we're fans for life now!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe, thanks for enjoying it! I'm \ncounting on you from now on too☆",
-      "choice_data_list": []
+      "text": "Hehe! Thank you! I'm glad you had fun!\nThanks for\nyour support! ☆"
     },
     {
-      "name": "Female Fan A",
-      "text": "U-Um! C-Congratulations...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Ah! You know, I could hear your cheers~! \nIt made me so happy~.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Fan A",
-      "text": "Huh.",
-      "choice_data_list": []
+      "name": "Female Fan",
+      "text": "Um! I, uh, just wanted to say...\ncongratulations on\nyour win!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"Hearing your voice gave me the strength \nto give it my all~! Hehe, you're amazing. \nThank you so much~!\"",
-      "choice_data_list": []
+      "text": "Oh, it's you! I heard you cheering for me!\nIt made\nme really happy!"
     },
     {
-      "name": "Female Fan A",
-      "text": "N-No, not at all...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "You know what? Actually, we're gonna hold \na little chanko nabe party right here \nafter this!",
-      "choice_data_list": []
+      "name": "Female Fan",
+      "text": "Huh? You heard me?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Feel free to drop by anytime! And make \nsure you eat till you're full before \nheading home♪",
-      "choice_data_list": []
+      "text": "Yeah! Thanks to you, I found one last\nspurt of\nenergy! It's amazing how strong\nyou made me\nfeel! Thank you for that!"
     },
     {
-      "name": "Female Fan A",
-      "text": "H-H-Hyeees!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "All riiiight, then I've gotta get ready \nright away! Could you lend me a hand, \nTrainer?",
-      "choice_data_list": []
+      "name": "Female Fan",
+      "text": "O-oh no, I hardly did anything!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"We've prepared about 100 servings, so \nit's a bit much for me. Would you mind \nhelping me carry it~?\"",
-      "choice_data_list": [
-        "100 servings?!"
-      ]
+      "text": "We're actually going to have a little\nchanko party\nafter this!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Is it still not enough after all?",
-      "choice_data_list": [
-        "No. You really worked hard on the \npreparations.",
-        "No. You really worked hard on the \npreparations."
-      ]
+      "text": "Come along if you like! You can eat till\nyou're\nfull, then head on home! ♪"
+    },
+    {
+      "name": "Female Fan",
+      "text": "Oh! Th-thank you!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Heh-heh-heh! That's right! Actually, I \nprepped it last night, you see.",
-      "choice_data_list": []
+      "text": "Okay, then! Time to get ready for the\nparty!\nTrainer, could you lend me a\nhand, please?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "\"Since I finally get to meet all the fans, \nI want them to eat something delicious \nbefore heading home~!\"",
-      "choice_data_list": []
+      "text": "I made about a hundred servings' worth\nof\nchanko, and it's kind of a lot. I was\nhoping you\ncould help me carry it out!"
     },
     {
-      "name": "Narrator",
-      "text": "The chankonabe gathering held afterward \nseemed to serve as a wonderful exchange \nwith the fans.",
-      "choice_data_list": []
+      "name": "Hishi Akebono",
+      "text": "You think we'll need more?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hehe! I sure did! I've been letting it\nsimmer since\nlast night!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's not every day I get to meet my fans,\nso I want\nto make sure everyone can\nhave something\nyummy before they go\nhome!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The chanko party that day proves to be\na great\nopportunity for Hishi Akebono\nto get to know her\nfans a lot better."
     }
   ]
 }

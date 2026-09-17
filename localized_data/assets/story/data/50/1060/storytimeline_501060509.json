@@ -2,54 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I spotted Nice Nature on the riverbank.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I spot Nice Nature at the riverbank."
     },
     {
       "name": "Nice Nature",
-      "text": "Haaah... It really is weird, isn't it? I \njust can't seem to shake this fatigue from \nthe race at all.",
-      "choice_data_list": []
+      "text": "<i>Sigh.</i> Something's not right after all... I'm\nstill beat\nafter that last race..."
     },
     {
-      "name": "Narrator",
-      "text": "Seeing that she seemed different from \nusual, I wondered whether I should call \nout to her, when...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm wondering if I should stop and talk\nto her\nafter seeing her acting so\nstrangely, when..."
     },
     {
-      "name": "Dried Fish Shop Lady",
-      "text": "Oh, if it isn't Nei-chan~... Wait, you \nlook awfully exhausted! Aren't you pushing \nyourself a bit too hard?",
-      "choice_data_list": []
+      "name": "Dry Goods Store Lady",
+      "text": "Oh, Natie! You look a bit tired. Are you\npushing\nyourself too hard?"
     },
     {
       "name": "Nice Nature",
-      "text": "I-I'm fine, totally fine! Piece of cake! I \nwas just spacing out a bit, really~.",
-      "choice_data_list": []
+      "text": "N-no, not at all! I'm fresh as a daisy! I\nwas just\nthinking about some stuff."
     },
     {
-      "name": "Dried Fish Shop Lady",
-      "text": "...Well, have some of my dried stingray! \nPushing yourself too hard won't do ya any \ngood. Later then!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Ah...",
-      "choice_data_list": []
+      "name": "Dry Goods Store Lady",
+      "text": "Okay, well, why don't ya have some\ndried ray\nfins? It's not good to be lost in\nyour thoughts for\ntoo long."
     },
     {
       "name": "Nice Nature",
-      "text": "...Look at what a mess I am. Wearing \nmyself out in the race and making you \nworry on top of it.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Nice Nature",
-      "text": "Nnh... The dried stingray fin is sweet and \nsalty. ...Gotta eat up and get my energy \nback fast.",
-      "choice_data_list": []
+      "text": "What am I doing? Tiring myself out with\nracing is\nonly gonna make people worry."
     },
     {
-      "name": "Narrator",
-      "text": "She's probably fatigued from the recent \nstring of races. It looks like we'll need \nto reconsider her racing schedule...",
-      "choice_data_list": []
+      "name": "Nice Nature",
+      "text": "Mmm, dried ray fin... Sweet and salty...\nGotta eat\nup and get my energy back."
+    },
+    {
+      "name": "Monologue",
+      "text": "Running back-to-back races recently is\ntaking its\ntoll on her. I'd better adjust\nher race schedule..."
     }
   ]
 }

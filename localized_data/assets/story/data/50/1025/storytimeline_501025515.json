@@ -2,253 +2,184 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On my day off, I visited an antique café \nwith Manhattan Cafe, one of her regular \nhaunts.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It's our day off, and I'm accompanying\nManhattan\nCafe to the antique cafe she\noften visits."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "What should I get today...? —Ah.",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "What should I get today... Oh."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "No, I just happened upon a brand of coffee \nwith a rather nostalgic name...",
-      "choice_data_list": []
+      "text": "Oh, nothing. I just saw a coffee blend\nthat takes\nme back a little..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "If you'd like, would you care to try some \nas well, Trainer...? I can vouch for the \ntaste...",
-      "choice_data_list": [
-        "I don't mind."
-      ]
+      "text": "Would you like to try some with me? It\ntastes\ngood, I assure you..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Thank you... Then, allow me to place our \norder...",
-      "choice_data_list": []
+      "text": "Thank you. I'll go ahead and order it..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "What a lovely scent... Listen to the \nmusic... Let go of your thoughts—",
-      "choice_data_list": []
+      "text": "This aroma... Lend your ear to the\nmusic... and\nfree your mind of any\nthoughts."
     },
     {
-      "name": "Narrator",
-      "text": "A cozy space, the aroma of brewing coffee. \nIt brings about a deeply relaxing mood...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Coupled with the comforting\natmosphere, the\nfragrant coffee puts me\ncompletely at ease..."
     },
     {
-      "name": "Narrator",
-      "text": "—While doing so, a mysterious melody \ndrifted in from somewhere. Opening my \neyes...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As I relax, I come to hear a strange\nmelody\nplaying. I open my eyes to find..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"Oh my... Have you wandered in and gotten \nlost as well...?\"",
-      "choice_data_list": [
-        "This is...!?"
-      ]
+      "text": "Oh, so you've found your way here too?"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I don't know... I drank some coffee, \nclosed my eyes, and when I opened them, I \nwas here...",
-      "choice_data_list": []
+      "text": "I'm not sure... I drank some of that\ncoffee, closed\nmy eyes, and the next\nthing I knew I was here..."
     },
     {
-      "name": "Narrator",
-      "text": "I walked around searching for an exit for \na while, but there didn't seem to be \nanything like that. In that case—",
-      "choice_data_list": [
-        "Since we're here, shall we stay and play \nfor a bit?"
-      ]
+      "name": "Monologue",
+      "text": "We walk around in search of an exit, but\ncan't\nfind anything that looks like a way\nout. In that\ncase..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I was thinking the same thing... Since we \ncame all the way to an amusement park and \nall...",
-      "choice_data_list": []
+      "text": "I was thinking the same thing... This <i>is</i> an\n\namusement park, after all..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "So, where should we go...?",
-      "choice_data_list": [
-        "Let's go into the haunted house.",
-        "Let's ride the Ferris wheel."
-      ]
+      "text": "So, where should we go?"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "A haunted house within an illusion, is \nit...? Fufu, it seems we should proceed \nwith caution...",
-      "choice_data_list": []
+      "text": "A haunted house... within an illusion?\nHehe, we\nshould probably proceed with\ncaution..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "What an elaborately crafted illusion... It \nhas quite the atmosphere—",
-      "choice_data_list": []
+      "text": "This illusion is very polished... It's so\natmospheric."
     },
     {
-      "name": "Narrator",
-      "text": "Isn't this place a bit *too* \natmospheric...? Just as I felt a shiver \nrun down my spine—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Ah—!",
-      "choice_data_list": [
-        "Whoa!?",
-        "Wah!?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Suddenly, the ground beneath me felt \nweightless, and it felt like I was falling \ninto darkness...! In a panic, I reached my \nhand upward—!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Maybe it's a little <i>too</i> polished... I start\nto feel a\nchill running down my spine\nand—"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"It's okay, I've got you...! This way...!\"",
-      "choice_data_list": []
+      "text": "Ah!"
     },
     {
-      "name": "Narrator",
-      "text": "With a firm tug, I finally managed to \nsteady my footing.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "The footing seems unstable here... Please \nfollow close behind me...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(—Tap, tap!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "With every step Manhattan Cafe took, the \nground beneath her lit up like a starry \nnight sky. I followed closely in her \nfootsteps, as if chasing after it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Truly a dreamlike spectacle— perhaps \nbecause of the frightening ordeal, every \nsingle light felt all the more dazzlingly \nbright.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Feeling fully contented, I grew a bit \ndrowsy... and when I opened my eyes once \nmore—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Suddenly, I'm overwhelmed by the\nsensation of\nfalling into a bottomless pit!\nI throw my hands up\nin a desperate\npanic!"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "How wonderful... I wonder what kind of \nview awaits us at the top...",
-      "choice_data_list": []
+      "text": "Don't worry, I've got you! This way!"
     },
     {
-      "name": "Narrator",
-      "text": "We moved on and boarded an empty Ferris \nwheel. Swaying gently as we finally seemed \nto reach the very top—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(――BANG!!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "—A loud noise echoed out! I don't know \nwhat happened, but I have to protect \nManhattan Cafe no matter what...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Manhattan Cafe yanks me up, and I\nfinally find\nmy footing again."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"...Trainer, it's alright. Please lift \nyour head...\"",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "I think we'd better watch where we step\nhere...\nFollow me..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Tap, tap!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "As Manhattan Cafe leads the way,\nglittering light\ntrails her every step. I\nfollow after her, guided by\nher light."
+    },
+    {
+      "name": "Monologue",
+      "text": "The scene feels straight out of a dream.\nMaybe\nit's because of the terrifying\nexperience I just had,\nbut it feels like\neach speck of light shines brighter\nas if\nto balance things out."
+    },
+    {
+      "name": "Monologue",
+      "text": "Feeling more comfortable, I grow a little\nsleepy...\nAnd when I open my eyes\nagain..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Fireworks... They're so colorful and \npretty...",
-      "choice_data_list": [
-        "Then that sound earlier was..."
-      ]
+      "text": "I like the sound of that... I wonder what\nwe'll be\nable to see from the top..."
+    },
+    {
+      "name": "Monologue",
+      "text": "We walk over to the empty ferris wheel\nand climb\ninto a carriage. It lurches and\nsways as it makes\nthe ascent, and just as\nwe reach the top..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Bang!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "I hear a loud noise! I have no idea what's\ngoing\non, but I've got to keep\nManhattan Cafe safe!"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Yes... That must have been the sound of \nfireworks going off...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Watching the massive fireworks blossom in \nthe sky, I felt a sense of relief, as if \nthe tension had drained away—but then—",
-      "choice_data_list": []
+      "text": "...It's all right. Look up..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Thank you very much... for protecting me \nearlier...",
-      "choice_data_list": []
+      "text": "Fireworks... They're so colorful..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Shielding me without hesitation like \nthat... made me really happy...",
-      "choice_data_list": []
+      "text": "It must have been the fireworks..."
     },
     {
-      "name": "Narrator",
-      "text": "Hearing Manhattan Cafe say that made me \nfeel like all my efforts were rewarded.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Feeling fully contented, I grew a bit \ndrowsy... and when I opened my eyes once \nmore—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The fireworks explode, scattering their\n\nshimmering sparks. As I watch them, I\nfeel my\nheart growing calm."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"...Welcome back. I've just returned as \nwell...\"",
-      "choice_data_list": [
-        "What was that just now...?"
-      ]
+      "text": "Thank you for protecting me earlier..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "It is likely a phantom reached through a \nshared resonance of taste...",
-      "choice_data_list": []
+      "text": "I was happy... that you tried to keep me\nsafe..."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's somehow rewarding to hear\nManhattan Cafe\nexpress her gratitude."
+    },
+    {
+      "name": "Monologue",
+      "text": "Feeling more comfortable, I grow a little\nsleepy...\nAnd when I open my eyes\nagain..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"And the origin of that lies in my \nmemories... You see, this coffee... is one \nmy parents used to drink often.\"",
-      "choice_data_list": []
+      "text": "...Welcome back. I just got here myself..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I wonder if that joyful feeling from my \nchildhood has been rekindled...",
-      "choice_data_list": [
-        "I had fun too!",
-        "It made me happy too!"
-      ]
+      "text": "It must have been the taste of the\ncoffee. It\ncaused our senses to resonate\nand whisked us off\nto that illusion..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "............ ...I'm glad to hear that.",
-      "choice_data_list": []
+      "text": "And the source of the illusion was my\nown\nmemories... I used to drink this\ncoffee all the time\nwith my parents."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "To see the same phantom as someone else... \nis extremely... extremely rare, after \nall...",
-      "choice_data_list": []
+      "text": "Tasting it again brought back the joy I\nfelt in my\nchildhood..."
     },
     {
-      "name": "Narrator",
-      "text": "Manhattan Cafe didn't seem to notice— but \non the way home, her shadow swayed as if \ndancing.",
-      "choice_data_list": []
+      "name": "Manhattan Cafe",
+      "text": "...I'm glad to hear that."
     },
     {
-      "name": "Narrator",
-      "text": "Sharing the same experience with someone \nmight have actually made me quite happy.",
-      "choice_data_list": []
+      "name": "Manhattan Cafe",
+      "text": "You see, it's very... <i>very</i> rare for two\npeople to\nexperience the same illusion..."
+    },
+    {
+      "name": "Monologue",
+      "text": "We walk home, and though it doesn't\nseem\nManhattan Cafe notices, her\nshadow sways as if it\nwere dancing."
+    },
+    {
+      "name": "Monologue",
+      "text": "Maybe she's actually quite happy to\nhave shared\nan experience with\nsomeone."
     }
   ]
 }

@@ -2,382 +2,292 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I came to the cafeteria with Narita Brian \nto have a meal.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Narita Brian and I head to the cafeteria\nto get\nsome food."
     },
     {
       "name": "Narita Brian",
-      "text": "I'll go place the order.",
-      "choice_data_list": [
-        "Have you made up your mind already?",
-        "Have you made up your mind already?"
-      ]
+      "text": "I'm going to go order."
     },
     {
       "name": "Narita Brian",
-      "text": "I made up my mind this morning to eat \nthick meat. I will accept nothing else.",
-      "choice_data_list": []
+      "text": "I've been wanting a thick-cut steak since\nmorning.\nI won't accept anything else."
     },
     {
-      "name": "Both",
-      "text": "Ma'am, one extra-thick steak, please!",
-      "choice_data_list": []
+      "name": "Brian and Amazon",
+      "text": "One mega-thick steak, please!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Well now, what a coincidence, Brian. Never \nthought you'd order the exact same thing.",
-      "choice_data_list": []
+      "text": "Fancy seein' you here. And ordering the\nsame\nthing, no less."
     },
     {
-      "name": "Cafe Lady",
-      "text": "I'm so sorry. We've only got one \nextra-thick steak left~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...I ordered first. Give it to me.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Hah!? What're you talking about, we \nfinished at the same time, didn't we!?",
-      "choice_data_list": []
+      "name": "Cafeteria Lady",
+      "text": "I'm sorry, girls. There's only one left."
     },
     {
       "name": "Narita Brian",
-      "text": "I decided on steak this morning. I'm not \ncompromising.",
-      "choice_data_list": []
+      "text": "...I ordered first. Give it here, please."
     },
     {
       "name": "Hishi Amazon",
-      "text": "My mouth is totally set for steak too! I'm \nnot backing down!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "\"If that's how it is, it's one-on-one! The \nwinner gets the steak. How's that sound!?\"",
-      "choice_data_list": []
+      "text": "What are you talking about?! We\nordered at the\nsame time!"
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... It can't be helped.",
-      "choice_data_list": []
+      "text": "I've been wanting steak all day, so\nthere's no way\nI'm giving up."
     },
     {
       "name": "Hishi Amazon",
-      "text": "As for what the match will be... Brian's \nTrainer, you decide fairly for us!!",
-      "choice_data_list": [
-        "Let's call off the match and do a \ndifferent training menu instead?",
-        "Speed Showdown! Habanero Nikuman Eating \nContest!",
-        "A battle of stamina! Dance FEVER!",
-        "A Test of Power! A Ruthless Menko Battle!"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Hey, I told you I was in the mood for \nthick-cut meat. Were you not listening?",
-      "choice_data_list": [
-        "Let's try a different meat dish."
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "No good. I need that feeling of sinking my \nteeth in.",
-      "choice_data_list": []
+      "text": "I've been talking about steak all day! I\nwon't let\nyou have it!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "You mean you want it as thick as that \n\"Mega Pork Cutlet Set\"?",
-      "choice_data_list": []
+      "text": "We'll settle this with a\none-on-one—winner takes\nthe steak!\nHow's that sound?"
     },
     {
       "name": "Narita Brian",
-      "text": "\"Tonkatsu... Hmm, not bad. Let's go with \nthat.\"",
-      "choice_data_list": []
+      "text": "Tch... Fine."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Alright! Let's battle it out for the \n'Extra-Large Tonkatsu Set'!",
-      "choice_data_list": []
+      "text": "As for what kind of competition...You!\nBrian's\ntrainer. You decide, to keep\nthings fair."
     },
     {
       "name": "Narita Brian",
-      "text": "Why? I'm giving up the steak. There's no \npoint in doing this.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Huh...? Ahh, right! I shouldn't have \nmentioned tonkatsu!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "\"Daaamn it! I was all geared up for battle \ntoo!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Narita Brian was thoroughly satisfied \nafter eating a thick tonkatsu.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "\"Sounds interesting! No objections from \nyou either, Brian, right?\"",
-      "choice_data_list": []
+      "text": "Hey! I told you I was in the mood for\nthick-cut\nmeat. Are you even listening?"
     },
     {
       "name": "Narita Brian",
-      "text": "Ah, you're on...!",
-      "choice_data_list": []
+      "text": "No way. I need something I can really\nsink my\nteeth into."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heheh, there's a crazy spicy habanero in \nhere...! I can tell just from the smell \nhow \"deadly\" it is!",
-      "choice_data_list": []
+      "text": "What about this fried pork steak? Thick\nenough?"
     },
     {
       "name": "Narita Brian",
-      "text": "I'll devour it before I even have time to \ntaste the heat!",
-      "choice_data_list": [
-        "Ready... start!!"
-      ]
+      "text": "Fried pork steak... doesn't sound bad,\nactually.\nMaybe I'll go with that."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hafu, hafu! *munch munch*! This is... so, \ns-spicyyy...!!",
-      "choice_data_list": []
+      "text": "All right! The time has come for the fried\npork\nsteak showdown!"
     },
     {
       "name": "Narita Brian",
-      "text": "I shall... leave flavor behind!",
-      "choice_data_list": []
+      "text": "Why? I gave up on the regular steak, so\nyou can\njust have it."
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"Wh-What the...? She's so fast! How can \nshe chew at that speed!?\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Don't think, don't feel! Chew it up and \nswallow it down!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I'll take the steak. My apologies.",
-      "choice_data_list": []
+      "text": "Huh? Oh, right! There's no reason to\nbattle\nanymore!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"Did you really push for the win even at \nthe cost of hurting your throat?!\"",
-      "choice_data_list": []
+      "text": "Ugh, I got into battle mode for nothin',\nthen!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian looks totally satisfied as she\neats her\npork steak."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Haha, you got me! That extra-thick steak \nis all yours!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Despite being battered and exhausted, \nNarita Brian dug into a massive, thick \nsteak...!",
-      "choice_data_list": []
+      "text": "Sounds interesting! You got any\ncomplaints,\nBrian?"
     },
     {
       "name": "Narita Brian",
-      "text": "I'll devour it before I even have time to \ntaste the heat!",
-      "choice_data_list": [
-        "Ready... start!!"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "*chomp chomp chomp chomp...* Ngh!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Too spicy!! Am I not fast enough!?",
-      "choice_data_list": []
+      "text": "Not at all. Let's do it."
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"Well, well, your hands have stopped! In \nthat case, excuse me while I take the \nlead!\"",
-      "choice_data_list": []
+      "text": "Hehe. Within these buns lies an\nexcruciatingly\nspicy habanero pepper!\nJust a whiff of one of\nthese beauties is\nenough to set off your internal\nfire\nalarm!"
     },
     {
       "name": "Narita Brian",
-      "text": "Feels like my tongue is on fire! Dammit... \nI can't take... any more of this...!!",
-      "choice_data_list": []
+      "text": "I'll just finish it before I have time to\ntaste it."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh heh heh! The parhait is all mine!!",
-      "choice_data_list": []
+      "text": "<i>Chomp, chomp.</i> Now, that is... S-SPICY!"
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... If you're gonna eat steak, cool \nyour mouth down first.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Defeated in the contest, Narita Brian \ndidn't get to have any steak...",
-      "choice_data_list": []
+      "text": "I just have to leave my taste buds in the\ndust!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh, so it's not about crushing the \nopponent, it's a battle against myself!",
-      "choice_data_list": [
-        "It's kicking up dust, so let's move \nsomewhere else."
-      ]
+      "text": "What the—that's so fast! How can you\nchew so\nfast?!"
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... You really had to pick the most \ntroublesome way, didn't you.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Ooh, this looks like a good spot! Alright, \ngive me the signal to start!",
-      "choice_data_list": [
-        "Dance battle, start!!"
-      ]
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Come on, Brian! Let's dance until we're \nbone-dry!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "The curtain rose on a fierce battle over \nthe steak......!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Heh... You look like you're pretty close \nto your limit. Why don't you just give \nup... !?",
-      "choice_data_list": []
+      "text": "No thinking, no feeling! Just chew it all\nup and\ngulp it down!"
     },
     {
       "name": "Narita Brian",
-      "text": "Don't be ridiculous. Everything up until \nnow... was just the warm-up!!",
-      "choice_data_list": []
+      "text": "Da shtake ij mine. Shorry."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Wha—are you serious...!? What kind of \nnerves of steel does she have?!",
-      "choice_data_list": []
+      "text": "You wanted to win so bad you injured\nyour own\nthroat?!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "I'm... at my limit~~! I can't even lift a \nsingle finger anymore...",
-      "choice_data_list": []
+      "text": "Haha, you're really somethin'! The\nmega-thick\nsteak belongs to you!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian digs into the steak despite\nher\ninjuries."
     },
     {
       "name": "Narita Brian",
-      "text": "All done? Then the meat is mine.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Having achieved complete victory, Narita \nBrian savored an extra-thick steak to her \nheart's content!",
-      "choice_data_list": []
+      "text": "I'll just finish it before I have time to\ntaste it."
     },
     {
       "name": "Narita Brian",
-      "text": "Ngh!! ......Wh-What is that!?",
-      "choice_data_list": []
+      "text": "<i>Chomp chomp chomp...</i> Augh!"
     },
     {
       "name": "Narita Brian",
-      "text": "My body won't listen to me...!",
-      "choice_data_list": []
+      "text": "...That's hot! Am I not eating fast\nenough?!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "...Heheh, that was close for me too. \nStill, a win's a win!",
-      "choice_data_list": []
+      "text": "Oho, looks like you're slowin' down!\nTime to finish\nyou off!"
     },
     {
       "name": "Narita Brian",
-      "text": "*pant* *pant*... Damn it. ...Take it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Narita Brian lost the dance battle, \nmissing out on her steak.",
-      "choice_data_list": []
+      "text": "It feels like my tongue is on fire! Ugh... I\ncan't\ntake any more..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "I like that! Overpowering your opponent \nwith sheer force, huh? The victor of this \nbattle is the one truly worthy of the \nmeat!!",
-      "choice_data_list": []
+      "text": "Heh heh heh! Da shteak ij mine!"
     },
     {
       "name": "Narita Brian",
-      "text": "Hmph, I'm not giving up the meat!",
-      "choice_data_list": []
+      "text": "Tch... At least wait for your mouth to\ncool off\nbefore you eat it."
+    },
+    {
+      "name": "Monologue",
+      "text": "The battle is lost, and so is Narita Brian's\nchance\nto eat steak today..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "All right, let's get started right away. \nThe rules are standard \"Okoshi\"!",
-      "choice_data_list": []
+      "text": "Ahhh. Instead of crushin' our opponents,\nwe have\nto battle ourselves!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... You sure picked an annoying way\nto settle\nthis."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Seiya!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Two at once, not bad. ...However!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "This ends with one strike!!",
-      "choice_data_list": []
+      "text": "This looks like a good spot! All right, on\nyour\nsignal!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "T-The blinkers went flying! It's like an \neruption...!!",
-      "choice_data_list": []
+      "text": "Okay, Brian! Let's dance till we drop!"
     },
     {
-      "name": "Narita Brian",
-      "text": "There is no point in continuing any \nfurther. The match is decided.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Heheh, that was quite a show! An \nextra-thick steak is totally fitting for \nyou!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Narita Brian got to savor an extra-thick \nsteak while basking in the afterglow of \nher victory!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Hmph!!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "And so begins the fierce battle for the\nsteak!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "You've got the spirit, but... it hasn't \nbudged an inch. Put more muscle into it!",
-      "choice_data_list": []
+      "text": "Had enough yet? You can give up\nanytime!"
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... It's not going well.",
-      "choice_data_list": []
+      "text": "Don't be stupid. I'm just getting warmed\nup!"
     },
     {
-      "name": "Narrator",
-      "text": "No matter how many times she tried, the \nmenko card wouldn't flip, and Narita Brian \nsuffered defeat.",
-      "choice_data_list": []
+      "name": "Hishi Amazon",
+      "text": "Huh, you serious?! Now <i>that's</i> heart!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ahh, I can't go on! I can't even lift a\nfinger..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Done already? Looks like the steak is\nmine."
+    },
+    {
+      "name": "Monologue",
+      "text": "Having achieved total victory, Narita\nBrian\nthoroughly enjoys her mega-thick\nsteak!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... Wh-what?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "My body isn't doing what I'm telling it\nto!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Hehe, that was close for me too, but a\nwin's a\nwin!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Huff...</i> Damn... Take it, then."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian loses the dance battle and\nher\nchance to eat the steak."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Just subdue your opponent by force,\nhuh? Very\ngood. Perfect for a steak\nprize."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph. That steak is mine!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "All right, let's get this started already.\nStandard\nrules, you know the drill."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Yaaah!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You managed to flip two. Not bad... <i>but!</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'll finish this in one shot!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Th-they all went flyin'! It was like an\neruption!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It's pointless to continue. Victory is mine."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hehe, that was quite the showing!\nYou've proven\nyourself worthy of the\nmega-thick steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Basking in the afterglow of victory,\nNarita Brian\nenjoys her mega-thick steak!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hmph!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Nice effort, but nothing budged. Put\nmore power\ninto it!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... This isn't going well..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian can't seem to flip any milk\ncaps, no\nmatter how many times she\ntries. Victory escapes\nher grasp,"
     }
   ]
 }

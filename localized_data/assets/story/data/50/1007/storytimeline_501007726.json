@@ -2,55 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Gold Ship—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while I'm out and about with\nGold\nShip..."
     },
     {
       "name": "Gold Ship",
-      "text": "Whoa!? What in the world is that!?",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Whoa?! The heck is that?!"
     },
     {
       "name": "Gold Ship",
-      "text": "Look at that...! Inside that transparent \nbox...! There are so many Umamusume \ntrapped in there!",
-      "choice_data_list": []
+      "text": "Look at that clear box over there! There\nare tons\nof Umamusume trapped in it!"
     },
     {
-      "name": "Narrator",
-      "text": "Looking where Gold Ship points, I see a \ncrane game filled with plushies modeled \nafter various Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Who the hell did something so awful!? \nDammit, I'm definitely gonna save you!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Gold Ship is calling out to the plushies \ninside the crane game...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Gold Ship points toward a claw machine\nfilled\nwith Umamusume plushies."
     },
     {
       "name": "Gold Ship",
-      "text": "\"Hey, Trainer. You're not the kind of \nsoftie who'd abandon a captured Umamusume, \nare you?\"",
-      "choice_data_list": [
-        "Ah, yeah...",
-        "Y-yeah..."
-      ]
+      "text": "Who would do such a thing?! Hang on,\neveryone!\nHelp is on the way!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Gold Ship reassures the plushies behind\nthe glass."
     },
     {
       "name": "Gold Ship",
-      "text": "Alright, go raise some serious hell out \nthere! I'll be right here bearing witness \nto the rescue of the century!",
-      "choice_data_list": []
+      "text": "Hey, you're not the type that would\nabandon all\nthese poor Umamusume, are\nyou?"
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Gold Ship",
+      "text": "Good! Go in there and show us your\nstuff! I'm\nready to witness the greatest\nrescue operation of\nthe century!"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

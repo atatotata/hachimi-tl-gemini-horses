@@ -2,37 +2,28 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "In the morning, on my way to the Trainer's \nRoom, I spotted Daiwa Scarlet.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm heading toward my office one\nmorning when I\nspot Daiwa Scarlet."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ugh... Since it's relative frequency... I \ncalculate the total frequency... and \nthen... um... *sigh*",
-      "choice_data_list": [
-        "What are you doing?",
-        "What are you doing?"
-      ]
+      "text": "Ngh... You take the relative frequency...\nand then\nto get the cumulative... you...\nyou, uh... <i>Yawn...</i>"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ah...!! G-Good morn—!",
-      "choice_data_list": []
+      "text": "Ah! G-good morn—"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Wait, oh... it's just you. I'm studying, \nobviously... The exams are coming up \nsoon...",
-      "choice_data_list": []
+      "text": "Oh... it's only you. Can't you see I'm\nstudying? I\nhave a test... coming up..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Haaah... An honor student is expected to \nget a perfect score... right? There's no \ntime... to sleep... at all...",
-      "choice_data_list": []
+      "text": "<i>Yawn...</i> Model students... have to get\nstraight\nA's... I don't have time... to...\nsleep..."
     },
     {
-      "name": "Narrator",
-      "text": "It seems she hasn't been getting much \nsleep. We'll need to keep a close eye on \nher physical condition.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It looks like she's barely slept. I should\nprobably\nlighten her workload a bit."
     }
   ]
 }

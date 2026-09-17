@@ -2,389 +2,284 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Evening. On my way back from shopping for \nsome extra training gear we'd run out of—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It's the evening, and Biwa Hayahide and\nI have\njust finished buying some training\nsupplies. We're\non our way home,\nwhen..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hm? Seems awfully noisy over that way...",
-      "choice_data_list": []
+      "text": "Hm? It looks like something's going on\nover\nthere..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hmm, a raffle, is it? Come to think of it, \nduring my shopping earlier, I received \nwhat appeared to be a ticket.",
-      "choice_data_list": []
+      "text": "A raffle, huh? Didn't we get something\nthat\nlooked like a raffle ticket from the\nstore?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Since we have the chance, shall we give \nit a try? Now then, Trainer――\"",
-      "choice_data_list": [
-        "Hang in there, Hayahide!"
-      ]
+      "text": "Since we have one, why don't you give it\na—"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Huh?",
-      "choice_data_list": []
+      "text": "What?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I-I'm the one drawing the lottery ticket? \nNot you?",
-      "choice_data_list": [
-        "Did you not like it?"
-      ]
+      "text": "You want <i>me</i> to go up there?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No, I do not dislike it! It is just \nthat... the thought had never crossed my \nmind.",
-      "choice_data_list": []
+      "text": "It's not that! I just... hadn't considered\ngoing\nmyself."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I was usually the one just watching from \nthe sidelines with stuff like this.",
-      "choice_data_list": [
-        "...Behind your little sister?"
-      ]
+      "text": "I'm usually the one watching things\nunfold, not\nthe one participating in the\nactual event..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mmm... She looked really adorable when it \nhit her.",
-      "choice_data_list": []
+      "text": "Well, yes... She was always so sweet\nwhen she won\nsomething."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "That was back when she was still shy and \nquiet. When she won a prize, she actually \nshouted 'Yay!' for once...",
-      "choice_data_list": [
-        "Today it's your turn to go 'Yay!'",
-        "Today it's your turn to go \"Hooray!\""
-      ]
+      "text": "Back when she was still quiet and shy,\nthe only\ntime she would get excited and\nyell aloud was\nwhen she won something."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mmh... I may not be able to live up to \nthose expectations, however.",
-      "choice_data_list": []
+      "text": "Um... I'd hate to disappoint you, but I\ndon't think\nthat'll be happening..."
     },
     {
-      "name": "Narrator",
-      "text": "Biwa Hayahide eagerly stepped up to the \nraffle machine and spun the lever.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Biwa Hayahide gathers her courage,\nwalks up to\nthe raffle spinner, and gives\nthe handle a crank."
     },
     {
-      "name": "Narrator",
-      "text": "And the result was—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "......Huh?",
-      "choice_data_list": []
+      "text": "...What?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Oh, I won...! The grand prize...!\"",
-      "choice_data_list": [
-        "That's incredible!",
-        "Amazing!"
-      ]
+      "text": "I won the grand prize?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Y-Yeah……",
-      "choice_data_list": []
+      "text": "I-indeed..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "………… ……。",
-      "choice_data_list": [
-        "...Are you okay?"
-      ]
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"I-I'm fine. I'm just still in a bit of a \ndaze.\"",
-      "choice_data_list": []
+      "text": "I-I'm fine. I'm just still in shock..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Still, the grand prize... Assuming each \nlottery machine holds roughly 300 balls, \nthe grand prize ball is—",
-      "choice_data_list": []
+      "text": "The odds seem so impossible. There\nmust be 300\nballs in the machine, and of\nthose, there can't be\nmany for the grand\nprize—"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Just one, right!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "We won a 1-in-300 chance with just a \nsingle ticket...?!",
-      "choice_data_list": [
-        "It just means we got lucky!",
-        "It just means luck was on our side!"
-      ]
+      "name": "Raffle Clerk",
+      "text": "That's right! There's only <i>one</i> ball for the\ngrand\nprize!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "U-Um……",
-      "choice_data_list": []
+      "text": "We beat 300-to-1 odds on our first try?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hot spring trip tickets, though, huh...? \nHmm, once things settle down after a \nwhile, I'd certainly like to use them, \nbut...",
-      "choice_data_list": [
-        "Do you want Hayahide?"
-      ]
+      "text": "I-I guess..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ah. S-Sorry! You received this, so you \nhave the right to go with someone else \ntoo, of course! Why on earth did I assume \nyou'd go with me...",
-      "choice_data_list": []
+      "text": "But wow, a voucher for a hot spring\nvacation...\nIt'd be nice to go once things\ncalm down."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Haa... It's no use. It seems the shock is \nstill lingering in my head.",
-      "choice_data_list": [
-        "Either one's fine by me.",
-        "Either way is fine with me."
-      ]
+      "text": "Oh! I'm sorry! This is your prize too, so of\ncourse\nyou're free to invite whoever\nyou'd like. I'm not\nsure why I assumed it\nwould be me."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Wh-what... You're leaving it to me?! \nM-mmgh...",
-      "choice_data_list": []
+      "text": "What was I thinking? I guess I must still\nbe in\nshock."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Then, at the appropriate time. Perhaps \nafter the Twinkle Series concludes, we \nshall consider \"who should use it, and \nhow.\"",
-      "choice_data_list": []
+      "text": "What?! You're all right letting me have\nit?! Hm..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...If we're both free, then. We can \nfigure it out when the time comes.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Biwa Hayahide carefully put away the hot \nsprings trip ticket.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "All right, how's this? After the Twinkle\nSeries is\nover, we can give more thought\nas to which one\nof us should use it and\nhow."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes! Trainer-kun!!",
-      "choice_data_list": []
+      "text": "And if we both happen to be free...\nWell, we can\ncross that bridge when we\nget to it."
+    },
+    {
+      "name": "Monologue",
+      "text": "And with that, Biwa Hayahide puts away\nthe\nvoucher very carefully."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Fufu. Impressive, right? Even I can win \nfirst—",
-      "choice_data_list": []
+      "text": "Yay! I won something!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "……。",
-      "choice_data_list": []
+      "text": "Hehe! I can't believe I actually won—"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...*ahem* Admittedly, I can understand the \nurge to jump for joy upon winning first \nprize.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"I won this Salisbury steak with a ticket \nI got while out buying training \nequipment.\"",
-      "choice_data_list": []
+      "text": "Ahem... Yes, well, now I can certainly\nsee how one\nmight get a little excited\nabout winning first\nprize."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Then it would only be right for the two of \nus to split it.",
-      "choice_data_list": [
-        "Are you sure?",
-        "Are you sure?"
-      ]
+      "text": "We won this with that ticket we got at\nthe\ntraining supply store, so..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Very well. However, you must keep how I \nacted just now a secret.",
-      "choice_data_list": [
-        "You want me to keep quiet...?"
-      ]
+      "text": "I think it's only fair if we split it."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"N-No! Please!\"",
-      "choice_data_list": []
+      "text": "Of course! But only if you promise not to\ntell\nanyone about my little outburst\nhere."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If word got around to my sister that her \nolder sister was getting all hyped up over \na raffle at this age... well, she'd \nprobably die of embarrassment too.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "After making that promise to Biwa \nHayahide, the two of us enjoyed the carrot \nhamburg steak together.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "N-no! Just... please don't let anyone\nknow."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ooh... That's quite a lot. With this much, \nwe won't have to worry about carrots for a \nwhile, but—",
-      "choice_data_list": []
+      "text": "If Brian were to find out I was acting like\na little\nkid over some raffle... Ugh, the\nwhole thing would\nbe far too\nembarrassing..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I promise to take her secret to the grave,\nand we\nenjoy the hamburger steak\ntogether."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Since we're here, and as a token of my \ndaily appreciation, would you mind if I \nshared some with you?",
-      "choice_data_list": [
-        "To those two as well?"
-      ]
+      "text": "Wow, this is... a lot of carrots. Well, I\nguess I\nwon't need to buy any for a\nwhile."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, you figured it out without me even \nsaying it? That's right, it's those two.",
-      "choice_data_list": []
+      "text": "Since I have so many, I'd like to give you\nsome as\na small token of my gratitude\nfor all your hard\nwork!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Tickeeet! Taishiiin!! Over hereee!!",
-      "choice_data_list": []
+      "text": "You read my mind. I was planning to\nshare some\nwith them too."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ticket! Taishin! Over here!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Thank youuu!",
-      "choice_data_list": []
+      "text": "Thank youuu!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Fufu, Trainer. First, Ticket will be \ncharging in at full speed. Take care not \nto get run over, okay...",
-      "choice_data_list": []
+      "text": "Hehe! Look out, Trainer. Make sure she\ndoesn't\nknock you over when she comes\nflying over he—"
     },
     {
-      "name": "Narrator",
-      "text": "(BAAAANNNGG!!)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Trainer-kun?! Ticket?!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "...And so, I shared the massive pile of \ncarrots with Winning Ticket and Narita \nTaishin as well.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Crash!</i>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes!",
-      "choice_data_list": [
-        "You did it!",
-        "You did it!"
-      ]
+      "text": "Oh my gosh! Are you two okay?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And that's how we end up sharing a\nwhole bushel\nof carrots with Winning\nTicket and Narita Taishin."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "！",
-      "choice_data_list": []
+      "text": "Yay!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Mm, yeah. Right, even if it's only 3rd \nprize, I'm glad I managed to pull it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Biwa Hayahide snapped the 3rd-prize carrot \nin half, and we decided to split it evenly \nat 0.5 each.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "<i>Gasp!</i>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Wh... Tissues...?!",
-      "choice_data_list": [
-        "That's too bad.",
-        "That's too bad."
-      ]
+      "text": "Ahem... Yes, well, winning third prize is\nquite a\nfeat."
+    },
+    {
+      "name": "Monologue",
+      "text": "We decide to split the prize, so we each\nhave half\na carrot."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...M-Mmh... However, taking on the \nchallenge taught me a few things.",
-      "choice_data_list": []
+      "text": "What? I only get a pack of tissues?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "When my sister lost the lottery, she \nlooked so downcast, which was cute in its \nown way, but...",
-      "choice_data_list": []
+      "text": "I... guess not. But I did learn something."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I never realized how heartbreaking it felt \nto be the one who lost the draw...",
-      "choice_data_list": []
+      "text": "Brian used to be crushed when she didn't\nwin. I\nthought she was adorable\nwhenever she wilted\nlike that."
     },
     {
-      "name": "Narrator",
-      "text": "Comforting Biwa Hayahide as she slumped \nher shoulders, we left the shopping \ndistrict behind...",
-      "choice_data_list": []
+      "name": "Biwa Hayahide",
+      "text": "But now I understand how disappointing\nit\nactually feels not to win anything."
+    },
+    {
+      "name": "Monologue",
+      "text": "I console Biwa Hayahide as we resume\nour walk\nback home..."
     }
   ]
 }

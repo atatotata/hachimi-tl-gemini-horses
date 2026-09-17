@@ -2,54 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Internet Cafe Clerk",
-      "text": "Excuse me~, we are fully booked for \ntoday~!",
-      "choice_data_list": []
+      "name": "Internet Cafe Staff",
+      "text": "I'm terribly sorry, but we're full up\ntoday!"
     },
     {
       "name": "Air Shakur",
-      "text": "(That's unusual... I should look \nelsewhere...)",
-      "choice_data_list": []
+      "text": "(That's rare. I'll try somewhere else.)"
     },
     {
-      "name": "Cafe Clerk",
-      "text": "Welcome~, just one for today?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Ah—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Group Customers",
-      "text": "Huh, here!? Isn't this incredible? It \nlooks just like the photos on Umastagram!!",
-      "choice_data_list": []
+      "name": "Cafe Staff",
+      "text": "Welcome! Table for one?"
     },
     {
       "name": "Air Shakur",
-      "text": "Nah, on second thought, I'll pass...",
-      "choice_data_list": []
+      "text": "Ah..."
+    },
+    {
+      "name": "Group of Customers",
+      "text": "Is that really her?! No way! That's insane!\n\nShe looks exactly like she does on\nUmasta!"
     },
     {
       "name": "Air Shakur",
-      "text": "(If it's here, surely...)",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "(CLANG! ZZZT! CLINK CLINK CLINK!)",
-      "choice_data_list": []
+      "text": "Actually, never mind."
     },
     {
       "name": "Air Shakur",
-      "text": "Dammit!! Why did they have to do repair \nwork today of all days?!",
-      "choice_data_list": []
+      "text": "(This place has gotta be okay.)"
     },
     {
-      "name": "",
-      "text": "Unable to enjoy some peace and quiet, Air \nShakur was in a sour mood.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Bang, bang! Whirrr! Clang, clang!</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ah, hell! Why do they have to be\nrenovating\ntoday of all days?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Unable to find a quiet place to pass\nsome time,\nAir Shakur ends up in a foul\nmood."
     }
   ]
 }

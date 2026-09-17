@@ -2,41 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "While walking around the academy... I \nspotted Seeking the Pearl dancing with \ncomplete abandon.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As I stroll around the academy, I spot\nSeeking the\nPearl completely absorbed\nin a dance."
     },
     {
       "name": "Seeking the Pearl",
-      "text": "*Haa*... *haa*... Th-This is great...! My \nheart is getting... all revved—",
-      "choice_data_list": []
+      "text": "<i>Pant... pant...</i> Th-that's it! My heart... is\nrac—"
     },
     {
       "name": "Seeking the Pearl",
-      "text": "*pant*... *pant*...",
-      "choice_data_list": [
-        "A-Are you okay? You shouldn't push \nyourself..."
-      ]
+      "text": "<i>Huff... Wheeze...</i>"
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Yes... That may certainly be true... \nFatigue from the race still lingers, after \nall. However—",
-      "choice_data_list": []
+      "text": "I know... I shouldn't. I'm still tired from\nmy race,\nbut..."
     },
     {
       "name": "Seeking the Pearl",
-      "text": "I am Flower Pearl, here to show the world \nendless possibilities! I must inspire them \nwith my dance!",
-      "choice_data_list": []
+      "text": "I'm the precious pearl who reveals\npossibilities to\nthe world! It's my duty to\nstir people's hearts\nthrough my dance!"
     },
     {
       "name": "Seeking the Pearl",
-      "text": "I'm pumping up the beat even more!! \nFatigue, just... GO AWAYYYYY!!!",
-      "choice_data_list": []
+      "text": "I need to up the beat even more! Go\naway,\nfatigue and exhaustion! No one\nneeds you here!"
     },
     {
-      "name": "Narrator",
-      "text": "Seeking the Pearl is staying positive, but \nthe fatigue from the race seems to be \nlingering. We might need to review our \nupcoming schedule.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Seeking the Pearl is as enthusiastic as\never, but\nshe seems worn out from her\nraces. I'll need to\nrethink her upcoming\nrace schedule."
     }
   ]
 }

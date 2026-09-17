@@ -2,58 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "While looking for Meisho Doto, who hadn't \nshown up even though it was time for \ntraining—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Meisho Doto has yet to show up to\ntraining, so I\ndecide to search for her."
     },
     {
       "name": "Meisho Doto",
-      "text": "P-P-Positivity from cosmic energy...? And \nthe effects last forever?!",
-      "choice_data_list": []
+      "text": "Th-the energy from the cosmos gives\nyou\np-positivity? And you say the results\nare\npermanent?!"
     },
     {
       "name": "Meisho Doto",
-      "text": "T-To think such an amazing product \nexisted...! I'll buy it! Give me one, \nplease!",
-      "choice_data_list": []
+      "text": "I never knew a p-product so amazing\ncould be\nreal! I'll take one please!"
     },
     {
-      "name": "Suspicious Woman",
-      "text": "Fufu, purchasing the Space Wristband, are \nwe? Well then, as for the price...",
-      "choice_data_list": [
-        "Is this really effective?"
-      ]
+      "name": "Suspicious Lady",
+      "text": "Hehe, so you would like to purchase the\ncosmic\nwristband. Now, how will you be\npaying?"
     },
     {
       "name": "Meisho Doto",
-      "text": "Fueh, Trainer-san!? Why are you here...?",
-      "choice_data_list": []
+      "text": "Gyah, Trainer?! What are you doing\nhere?"
     },
     {
-      "name": "Suspicious Woman",
-      "text": "Oho, ohohoho~! I just remembered I have \nsomething to do, so excuse me~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "\"Eeeehhh?! What about my cosmic \nwristband~~~?!\"",
-      "choice_data_list": [
-        "More importantly, it's time for training."
-      ]
+      "name": "Suspicious Lady",
+      "text": "Oh, ho, ho, ho! I must take my leave, for\nI have\nnow remembered my very tight\nand busy\nschedule!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Trai... awawawawa~~!!",
-      "choice_data_list": []
+      "text": "Huuuh?! But what about my cosmic\nwristband?!"
     },
     {
       "name": "Meisho Doto",
-      "text": "I completely forgot~! S-S-Soooorryyyyy!!",
-      "choice_data_list": []
+      "text": "Training ti—Oh nooo!"
     },
     {
-      "name": "Narrator",
-      "text": "I warned Meisho Doto to be more mindful of \ntraining time...",
-      "choice_data_list": []
+      "name": "Meisho Doto",
+      "text": "I completely forgot! I'm s-so sorry!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I remind Meisho Doto to be more\ncognizant of\nher training schedule."
     }
   ]
 }

@@ -2,388 +2,276 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, when I went out to buy a \nmagazine, I ran into Fuji Kiseki and Zenno \nRob Roy.",
-      "choice_data_list": [
-        "That's an unusual combination.",
-        "That's an unusual combination."
-      ]
+      "name": "Monologue",
+      "text": "I'm out one day to grab some magazines\nwhen I\nhappen to see Fuji Kiseki and\nZenno Rob Roy\ntogether."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"Fufu. Today, you see, I'm playing the big \nsister for Rob Roy.\"",
-      "choice_data_list": [
-        "Miss... what do you mean???",
-        "Miss... what do you mean???"
-      ]
+      "text": "Hehe. I'm Rob Roy's sister today."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah, umm... About when I first came here—",
-      "choice_data_list": []
+      "text": "Um, well... It all started when I first got\nhere..."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "\"The bookstore's location is... still a \nways ahead. I wonder if there are any \nsigned copies from the author left...?\"",
-      "choice_data_list": []
+      "text": "I'm still a ways off from the bookstore...\nOh, I\nhope they'll still have signed\ncopies of the book I\nwant..."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ugh... Fancy places like this really don't \nsuit me at all~...",
-      "choice_data_list": []
+      "text": "Urgh... Being in such a fancy place is just\ntoo\nmuch for me!"
     },
     {
-      "name": "Female Promoter A",
-      "text": "Hey, hey, glasses girl over there~! Care \nto buy a jar of happiness~?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "Huh!? No, well, I have something I need to \ndo...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Promoter A",
-      "text": "Aww, don't be like that~♪ It's in a \nbuilding right nearby, okay?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "There you are! Sorry to keep you waiting, \nRob Roy.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Promoter A",
-      "text": "Oh, were you waiting for your sister? Hey, \nhey, do you want to come check out this \nVase of Fortune with me~?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "No, the two of us are on our way to my \nmother's workplace—the police station—to \ndrop off something she forgot...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Promoter A",
-      "text": "T-The police!? ...I see. Well, that can't \nbe helped then. What a shame~♪",
-      "choice_data_list": []
+      "name": "Scammer A (Woman)",
+      "text": "Hey there, miss! Can I interest you in a\njar of\nfortune?"
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Y-You really saved me... I wouldn't have \nbeen able to turn them down on my own...",
-      "choice_data_list": []
+      "text": "Wha?! A-are you talking to me? Sorry,\nI... I have\nsomewhere to be..."
+    },
+    {
+      "name": "Scammer A (Woman)",
+      "text": "Aw, don't be like that! ♪ Look, our\nstore's right\naround the corner!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "It's no trouble at all! Still, to see you \nin a place like this... Is there a book \nyou can only find around here?",
-      "choice_data_list": []
+      "text": "There you are, Rob Roy! Sorry I'm late."
+    },
+    {
+      "name": "Scammer A (Woman)",
+      "text": "Oh, so you were waiting for your sister!\nWhy don't\nyou both come check out our\nwares?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sorry, but we have to drop off\nsomething we\nfound at the police\nstation. Our mom works there,\nso she'll\nknow what to do with it."
+    },
+    {
+      "name": "Scammer A (Woman)",
+      "text": "Your mom's a cop?! ...Ahem. I mean, it's\ntoo bad\nyou're busy, but oh well! ♪"
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Yes! I heard that signed copies from my \nfavorite mystery author were available, \nso...!",
-      "choice_data_list": []
+      "text": "Th-thanks for that... I didn't know how to\nget out\nof that situation alone..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I see... Say, I have a quick favor to ask— \nwould you mind accompanying me to the \nbookstore?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "I had books I wanted to buy, and I \ncouldn't help but worry about letting my \n\"cute little sister\" go alone.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "And so, big sis here ended up serving as \nher bodyguard on the way to the bookstore.",
-      "choice_data_list": [
-        "Then I'll protect Fuji!",
-        "Then I'll protect Fuji!",
-        "True, you almost could pass as sisters.",
-        "Yeah, I can see how you two could be \nmistaken for sisters."
-      ]
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "And so, big sis here ended up serving as \nher bodyguard on the way to the bookstore.",
-      "choice_data_list": [
-        "Then I'll protect Fuji!",
-        "Then I'll protect Fuji!",
-        "True, you almost could pass as sisters.",
-        "Yeah, I can see how you two could be \nmistaken for sisters."
-      ]
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Huh? Trainer-san... wants me...?",
-      "choice_data_list": [
-        "Hey, I am older than you, you know!",
-        "Hey, I'm still older than you, you know!"
-      ]
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Fufu... So then, Trainer, you're going to \nbe my big brother?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Fufu... So then, Trainer, you're going to \nbe my big sister?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Sounds good. That'll make shopping even \nmore fun!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"After arriving at the bookstore and \nsafely finishing Zenno Rob Roy's \nshopping—\"",
-      "choice_data_list": [
-        "Huh, where's Fuji?"
-      ]
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "\"...Like I've been saaaaying, debut with \nour agency and you're guaranteed to be a \nsmash hit!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "No, thank you for the generous offer, but \nmy mind is made up—",
-      "choice_data_list": [
-        "Do you need something from my little \nsister?"
-      ]
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "Oh, are you this girl's brother? I was \njust scouting your little sister for the \nentertainment industry~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "Oh, are you this girl's sister? I was just \nscouting your little sister for the \nentertainment industry~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "She told me she'd rather choose the racing \nworld over show business, but... you think \nthe entertainment industry would be \nbetter, right, mister~?",
-      "choice_data_list": [
-        "No, I want to respect my little sister's \nfeelings."
-      ]
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "She told me she'd rather choose the racing \nworld over show business, but... you think \nthe entertainment industry would be \nbetter, right, miss~?",
-      "choice_data_list": [
-        "No, I want to respect my little sister's \nfeelings."
-      ]
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "\"No waay~!? You're saying the glamorous \nshowbiz world suits her way better than \ngritty racing~?!\"",
-      "choice_data_list": [
-        "Her dream lies in racing, so..."
-      ]
-    },
-    {
-      "name": "Female Promoter B",
-      "text": "Mmmgh... Siiigh, alright, fine. It'll be \ntoo late to regret it later, got it?",
-      "choice_data_list": []
+      "text": "It's no problem! But what are you doing\nhere,\nanyway? Is there a book you want\nthat you can't\nget anywhere else?"
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Scouted for the entertainment industry...? \nThat's Fuji-senpai for you...!",
-      "choice_data_list": []
+      "text": "That's exactly it! A store nearby is\nselling signed\ncopies of my favorite\nmystery writer's newest\nbook!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"Nah, things like that are usually \nborderline scams. Besides—\"",
-      "choice_data_list": []
+      "text": "Huh. Well, would it be all right if I\naccompanied\nyou?"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "My dream lies in racing... and that's why. \nThank you, Brother, for affirming the path \nI've chosen.",
-      "choice_data_list": [
-        "You're welcome!"
-      ]
+      "text": "There's a book I want to buy too. And\nbesides,\nI'm too worried about letting\nmy dear <i>little sister</i>\ngo there by herself."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "My dream lies in racing... and that's why. \nThank you, Sister, for affirming the path \nI've chosen.",
-      "choice_data_list": [
-        "You're welcome!"
-      ]
+      "text": "So, I'm going to be Rob Roy's personal\n\nbodyguard until we reach the bookstore."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "So, I'm going to be Rob Roy's personal\n\nbodyguard until we reach the bookstore."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Can you really protect me?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe. Does that make you my\noverprotective\nolder brother, then?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe. Does that make you my\noverprotective\nolder sister, then?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "How fun! Looks like shopping is getting\nmore and\nmore exciting!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Thankfully, the bookstore does still have\nsigned\ncopies of the book Zenno Rob\nRoy wants."
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "Like I said, if you debut with our\ncompany, you're\nsure to become rich\nand famous! I guarantee it!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thanks for your offer, but I have no\nintention of\nchanging careers."
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "Oh my! Are you her brother? I was just\noffering\nyour sibling a chance to make it\nbig in the world\nof entertainment!"
+    },
+    {
+      "name": "Scammer A (Woman)",
+      "text": "Oh my! Are you her sister? I was just\noffering your\nsibling a chance to make it\nbig in the world of\nentertainment!"
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "She said she'd rather continue racing\nthan\nbecome an entertainer, but don't\nyou think she'd\nbe better off in show\nbusiness?"
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "She said she'd rather continue racing\nthan\nbecome an entertainer, but don't\nyou think she'd\nbe better off in show\nbusiness?"
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "But come on! Just look at her! She's\nclearly better\nsuited to a life filled with\nglitz and glam, not\nsweat and dirt!"
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "Ugh... Fine. Don't say I didn't try to give\nyou a\nchance."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "...Hehe, my older brothers and sisters are \ntruly wonderful people.",
-      "choice_data_list": []
+      "text": "Wow! I can't believe you were scouted\nlike that,\nFuji!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Talent scouts\" like that are usually\nscammers.\nThey're nothing to get\nstarry-eyed over."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Also... Thanks for defending my dream.\nI'm glad I\nhave an older brother who's so\nsupportive of me."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Also... Thanks for defending my dream.\nI'm glad I\nhave an older sister who's so\nsupportive of me."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "...Hehe, my older sisters are truly \nwonderful people.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Afterward—by the time we took a break at a \ncafé and returned to the academy, night \nhad completely fallen.",
-      "choice_data_list": []
+      "text": "Hehe. I'm so glad my older siblings are\nsuch\nwonderful people."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Um, you were a huge help today! If it's \nalright with you, please let me thank you \nnext time...!",
-      "choice_data_list": []
+      "text": "Hehe. I'm so glad my older sisters are\nsuch\nwonderful people."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "Now then, I have to head back too... As \nmuch as I hate to part, I suppose my time \nwith you is over for now, Big Brother.",
-      "choice_data_list": [
-        "If you want, I can be your big brother \nanytime.",
-        "If you want, I can be your big sister \nanytime."
-      ]
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Now then, I have to head back too... As \nmuch as I hate to part, I suppose my time \nwith you is over for now, Big Sister.",
-      "choice_data_list": [
-        "If you want, I can be your big brother \nanytime.",
-        "If you want, I can be your big sister \nanytime."
-      ]
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Fufu, thank you. But next time, I'd like \nto be the one escorting you.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "I was happy you protected me today... but \nhonestly, I want to be the one showing you \nhow cool I can be.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Especially to Big Bro, right?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Especially to Big sis, okay?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "When she tilts her head with that \nmischievous look, I have no choice but to \nnod. —Because I always want to make all \nher wishes and dreams come true.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "When I mentioned that their hair and eye \ncolors were so similar they could easily \npass as sisters—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "After that, we dip into a cafe for a\nbreak, then\nhead back home. It's fully\ndark by the time we\nreach the academy."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Oh, no... That's far too much praise. \nSomeone like me couldn't possibly compare \nto the wonderful Fuji-senpai...",
-      "choice_data_list": []
+      "text": "Thank you so much for everything today!\nI'll be\nsure to pay you back for your\nkindness!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"I'd be thrilled, you know? If I had a \nlittle sister like you, every day would be \nso much fun.\"",
-      "choice_data_list": []
+      "text": "I'd better go too. It was fun having you\nas my\nolder brother today."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I can talk with Rob Roy about plays, and \nyour interpretation of the story is quite \nfascinating, after all.",
-      "choice_data_list": []
+      "text": "I'd better go too. It was fun having you\nas my\nolder sister today."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe, thanks. But I'll be <i>your</i> bodyguard\nnext\ntime."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Knowing you were there to protect me\ntoday\nmade me happy, but I want to\nshow off my cool\nside too."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "And that goes double when I'm showing\noff to my\nolder brother."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "And that goes double when I'm showing\noff to my\nolder sister."
+    },
+    {
+      "name": "Monologue",
+      "text": "She winks mischievously at me, and I\nlaugh.\nWhatever she wishes for or\ndreams of, I'll be there\nto make sure\nthey come true."
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell them that their hair and eye color\nare so\nsimilar, I'm sure nobody would\nraise an eyebrow if\nthey claimed to be\nsisters."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah, thank you very much...! I also... find \ntalking with you so fun, Fuji-senpai.",
-      "choice_data_list": []
+      "text": "But Fuji is so wonderful, and I'm nothing\nlike her...\nI couldn't possibly claim to be\nher sister..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I'm honored. Well then, shall we head to \nthe bookstore together like good sisters?♪",
-      "choice_data_list": []
+      "text": "Why not, though? I'd love to have a\nsister like\nyou. Every day would be so\nfun!"
     },
     {
-      "name": "Narrator",
-      "text": "Afterward—since we were headed to the same \nplace, I ended up going to the bookstore \nwith the two of them.",
-      "choice_data_list": []
+      "name": "Fuji Kiseki",
+      "text": "We could talk about plays together.\nAfter all, you\nalways have the most\ninteresting story analysis!"
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah, I finally managed to get it...! Thank \nyou both so very much!",
-      "choice_data_list": []
+      "text": "Th-thank you. I always have a great time\nwhen we\ntalk too."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "That's good to hear. Hey, do you two still \nhave some time to spare?",
-      "choice_data_list": []
+      "text": "I'm honored to hear that. Now come on,\nlittle\nsister! Off to the bookstore we\ngo! ♪"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "There's a live viewing of my mother's \nstage play happening right now. Would you \nlike to come with me?",
-      "choice_data_list": [
-        "Sounds like fun, let's go!",
-        "Sounds like fun, let's go!"
-      ]
+      "name": "Monologue",
+      "text": "Since I was headed for the bookstore\nmyself, we\nall go together."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Yes. I want to see it too...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, after arriving at the cinema, the \nthree of us enjoyed the stage play.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Fuji Kiseki's mother remained immensely \npopular, and her performance on this \noccasion, too, touched the hearts of the \naudience deeply.",
-      "choice_data_list": []
+      "text": "Oh, I'm so glad I finally got a copy!\nThank you,\nboth of you!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Haaah... That was a wonderful play, wasn't \nit? If possible, I'd love to see the vow \nscene just one more time.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "I completely agree...! That scene implying \nthe canyon wolf was her late mother's \nreincarnation was just so incredible...!",
-      "choice_data_list": []
+      "text": "No problem. By the way, do you two\nhappen to\nbe free after this?"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"That wolf did? I see... In that case, the \nduel scene takes on a whole different \nmeaning.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Fuji Kiseki seemed full of life as she \nshared her impressions. It seemed Zenno \nRob Roy's presence was having a positive \ninfluence on her.",
-      "choice_data_list": []
+      "text": "The theaters are showing a live\nbroadcast of the\nplay my mother's in,\nand I was wondering if you'd\nlike to\nwatch it together."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "...Um, is something the matter? Is there \nsomething on my face...?",
-      "choice_data_list": [
-        "No, I just hope you'll stay good friends \nwith Fuji from now on."
-      ]
+      "text": "I'd love to go as well!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We make our way to the movie theater\nand enjoy\nthe play together."
+    },
+    {
+      "name": "Monologue",
+      "text": "Fuji Kiseki's mother is still as popular as\never. Her\nperformance, as always,\ncaptures the hearts of\neveryone\nwatching."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "“You're right. If Rob Roy wouldn't mind, \nI'd love to watch a play together again \nand share our thoughts on it.”",
-      "choice_data_list": []
+      "text": "Ah... That was incredible. I wish I could\nrewatch\nthe part where they made an\noath together."
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "I-If you're really okay with someone like \nme, I'd love to...!",
-      "choice_data_list": []
+      "text": "Me too! I was so moved by the scene\nwhere they\nhinted that the river wolf was\nthe reincarnation of\nthe protagonist's\nlate mother!"
     },
     {
-      "name": "Narrator",
-      "text": "\"They seemed like an unusual pair at \nfirst, but after spending time together, \nit felt completely natural—they truly were \nlike sisters.\"",
-      "choice_data_list": []
+      "name": "Fuji Kiseki",
+      "text": "Wait, if the river wolf was the mother...\nHm, that\nwould entirely change the\nmeaning of that fight\nscene..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Fuji Kiseki is bright and animated as she\ntalks\nabout the play. She seems so\nhappy to have\nfound a kindred spirit in\nZenno Rob Roy."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "U-um, what's the matter? Is there\nsomething on\nmy face?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I feel the same. If you don't mind, Rob\nRoy, I'd\nlove to watch another play with\nyou sometime\nand discuss it after."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "O-oh, if you don't think I'd be a bother,\nI'd be\ndelighted to join you!"
+    },
+    {
+      "name": "Monologue",
+      "text": "They seemed like an odd pair at first,\nbut after a\nday together, it's clear\nthey're sisters in all but\nblood."
     }
   ]
 }

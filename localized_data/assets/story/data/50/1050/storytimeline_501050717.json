@@ -2,147 +2,116 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "Narita Taishin seemed to be under the \nweather, so I brought her to the \ninfirmary.",
-      "choice_data_list": [
-        "You get some proper rest, you hear?",
-        "Take your time and get some rest, okay?"
-      ]
+      "name": "Monologue",
+      "text": "Narita Taishin isn't looking well, so I\naccompany\nher to the infirmary."
     },
     {
       "name": "Narita Taishin",
-      "text": "Yeah, yeah... Jeez. You worry way too \nmuch.",
-      "choice_data_list": []
+      "text": "Yeah, yeah. You worry too much."
     },
     {
       "name": "Narita Taishin",
-      "text": "...I'm gonna sleep. You should get back to \nwork.",
-      "choice_data_list": []
+      "text": "I'm gonna snooze so leave me alone and\nget back\nto work."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Huh? What is this place...",
-      "choice_data_list": []
+      "text": "...Huh? Where am I?"
     },
     {
-      "name": "？？？",
-      "text": "Taishin! Taaishiiin!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Nnh...? Is that Ticket's voice? Though \nshe's usually way louder than that...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Taishin, Taishin, Taaishiiin! I'm over \nheeeere!",
-      "choice_data_list": []
+      "name": "???",
+      "text": "Taishin... Taishiiiiin..."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Wait, Ticket!? You're tiiiiny! What the \nheck, you look like a grain of rice!!",
-      "choice_data_list": []
+      "text": "Hmm? Is that Ticket? She's usually so\nmuch\nlouder..."
     },
     {
-      "name": "Chibiwa Hayahide",
-      "text": "Hey, Taishin. Watch your step, please. It \nwould be quite troublesome if you got \ntrampled underfoot.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Whoa, Hayahide too!? Aw, c'mon...",
-      "choice_data_list": []
+      "name": "Teensy Ticket",
+      "text": "Taishin, Taishin, TAISHIIIIN! I'm down\nheeeeere!"
     },
     {
       "name": "Narita Taishin",
-      "text": "...Hk, hahahahaha!! Look at you guys, \nacting all cute.",
-      "choice_data_list": []
+      "text": "Ticket?! Why are you so small?! You\nlook like a\ngrain of rice!"
+    },
+    {
+      "name": "Pint-size Hayahide",
+      "text": "Taishin! Watch where you're stepping!\nI'd really rather\nnot be squished."
     },
     {
       "name": "Narita Taishin",
-      "text": "So this is what looking down on Hayahide \nand Ticket feels like. Hmmm...",
-      "choice_data_list": []
+      "text": "You're tiny too, Hayahide?! What in the\nworld..."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Want me to carry you in my pocket or \nsomething? It's dangerous being so tiny.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Yay! Taishin, thank you sooo much!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chibiwa Hayahide",
-      "text": "Thank you.",
-      "choice_data_list": []
+      "text": "Pffhaha! You two're so cute!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Nope, it's nothing at all. ...Hahaha!!",
-      "choice_data_list": []
+      "text": "So this is what it feels like to look down\non you\nguys. Huh, not bad."
     },
     {
       "name": "Narita Taishin",
-      "text": "...What was that dream just now?",
-      "choice_data_list": []
+      "text": "Want me to carry you around in my\npocket? It's\ndangerous for you to run\naround like that since\nyou're so small."
+    },
+    {
+      "name": "Teensy Ticket",
+      "text": "Yay! Thanks, Taishin!"
+    },
+    {
+      "name": "Pint-size Hayahide",
+      "text": "I appreciate it."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah... My body feels light.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Narita Taishin seems to have gotten her \ngroove back!",
-      "choice_data_list": []
+      "text": "Sure... It's no biggie! Hahaha!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Whoa!? My body is...?!",
-      "choice_data_list": []
+      "text": "What was that dream just now?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Whoa, whoa, whoa...! It's—it's getting \nbigger and bigger...!?",
-      "choice_data_list": []
+      "text": "Huh. My body feels so light."
     },
     {
-      "name": "Winning Ticket",
-      "text": "Aah?! Taishin, Taishi— ...!! ......!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chibiwa Hayahide",
-      "text": "――……！！",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It seems Narita Taishin's back in tip top\nshape!"
     },
     {
       "name": "Narita Taishin",
-      "text": "What?! I can't hear you...! Did I get too \nmassive...?!",
-      "choice_data_list": []
+      "text": "What?! My body..."
     },
     {
       "name": "Narita Taishin",
-      "text": "Hey, seriously! This is just too much...!!",
-      "choice_data_list": []
+      "text": "Wh-whoa! Why am I getting bigger and\nbigger?!"
+    },
+    {
+      "name": "Teensy Ticket",
+      "text": "Aaaah! Taishin, Taishi... Tai..."
+    },
+    {
+      "name": "Pint-size Hayahide",
+      "text": "...!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Whoa!!",
-      "choice_data_list": []
+      "text": "What? What are you saying?! Did I get\ntoo big to\nhear them?"
     },
     {
       "name": "Narita Taishin",
-      "text": "...The absolute worst. I had a weird \ndream...",
-      "choice_data_list": []
+      "text": "Oh, come on! Why is this happening?!"
     },
     {
-      "name": "Narrator",
-      "text": "It seems Narita Taishin wasn't able to get \nback into top shape...",
-      "choice_data_list": []
+      "name": "Narita Taishin",
+      "text": "Aagh!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yikes. That was a weird nightmare."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Taishin's condition doesn't\nimprove at all..."
     }
   ]
 }

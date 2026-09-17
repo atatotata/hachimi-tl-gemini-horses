@@ -2,281 +2,220 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, Air Groove and I went to the \nshopping district to buy supplies for the \ntrainer's office...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, Air Groove and I head out to a\nstore to\nbuy some supplies for my office."
     },
     {
       "name": "Air Groove",
-      "text": "Hm, that's...",
-      "choice_data_list": []
+      "text": "Hm? What's that?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Come on, miss over there! Why not give it \na try?!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "How about you? The elegant\nUmamusume over\nthere! Care to try your\nluck?"
     },
     {
       "name": "Air Groove",
-      "text": "\"Come to think of it, we got a lottery \nticket from our shopping earlier.\"",
-      "choice_data_list": []
+      "text": "Now that I think about it, we did receive\na raffle\nticket while shopping earlier,\ndidn't we?"
     },
     {
       "name": "Air Groove",
-      "text": "I'm not particularly interested in the \nprizes, but—",
-      "choice_data_list": []
+      "text": "I'm not particularly interested in the\nrewards..."
     },
     {
       "name": "Air Groove",
-      "text": "\"Participating in seasonal events is a \nmeaningful endeavor.\"",
-      "choice_data_list": []
+      "text": "However... this <i>could</i> be considered a\nseasonal\nactivity. In which case, it would\ngo against my\nvalues <i>not</i> to participate."
     },
     {
       "name": "Air Groove",
-      "text": "Let's give it a try here.",
-      "choice_data_list": [
-        "I'm counting on you!"
-      ]
+      "text": "Yes... I suppose we may as well give it a\nwhirl."
     },
     {
       "name": "Air Groove",
-      "text": "\"It troubles me to have you expect so much \nover something like this. ...Oh well, just \nwatch.\"",
-      "choice_data_list": []
+      "text": "I don't really need your support for\nsomething\nlike this, but okay."
     },
     {
-      "name": "Narrator",
-      "text": "Air Groove boldly turned the lottery \nwheel's crank!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove gives the raffle machine a\npowerful\nspin!"
     },
     {
-      "name": "Narrator",
-      "text": "And the result is—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Air Groove",
-      "text": "Wait... Grand Prize!?",
-      "choice_data_list": []
+      "text": "I... won?!"
     },
     {
       "name": "Air Groove",
-      "text": "Ho... I thought you'd take it seriously if \nyou did it, but I didn't expect you to \nactually enter.",
-      "choice_data_list": []
+      "text": "Heh... Everything I do, I do to the best\nof my\nabilities, but I didn't actually\nexpect to win this\none."
     },
     {
       "name": "Air Groove",
-      "text": "And a hot springs trip voucher, no less... \nI've ended up drawing something \nsurprisingly grand.",
-      "choice_data_list": []
+      "text": "A hot spring vacation ticket... Quite the\n\ngrandiose prize."
     },
     {
       "name": "Air Groove",
-      "text": "(Hm? —No, wait.)",
-      "choice_data_list": []
+      "text": "(Hold on...)"
     },
     {
       "name": "Air Groove",
-      "text": "(I was the one who drew the lottery \nticket, but considering the two of us came \nto buy supplies for the Trainer's Room...)",
-      "choice_data_list": []
+      "text": "(I was the one who spun the lever, but\nwe were\noriginally given that raffle\nticket while buying\nsupplies for the\noffice...)"
     },
     {
       "name": "Air Groove",
-      "text": "(—Who will claim this hot spring trip \nvoucher?)",
-      "choice_data_list": []
+      "text": "(So who does this actually belong to?)"
     },
     {
       "name": "Air Groove",
-      "text": "(Who should use it, and what would be the \nproper way...?)",
-      "choice_data_list": [
-        "Why the long face? Is something wrong?"
-      ]
+      "text": "(Who should have the privilege of\nredeeming it?)"
     },
     {
       "name": "Air Groove",
-      "text": "...It is nothing. I was merely thinking \nabout the owner of this ticket.",
-      "choice_data_list": []
+      "text": "...It's nothing. I was just wondering who\nthe\nrightful owner of the prize is."
     },
     {
       "name": "Air Groove",
-      "text": "Keep hold of it for now. I shall decide \nwhat to do with it later.",
-      "choice_data_list": []
+      "text": "You can hold onto it for the time being.\nI'll tell\nyou when I determine how we\nshould use it."
     },
     {
-      "name": "Narrator",
-      "text": "Air Groove practically forced me to take \nthe hot spring trip tickets.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove forces the ticket into my\nhands,\nleaving it in my care."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Air Groove",
-      "text": "Ho, quite the fine quality of meat. It \ntruly earns its 'Special Grade' title.",
-      "choice_data_list": []
+      "text": "Well, well—this <i>does</i> look high quality. I\ncan see\nwhy they call it \"deluxe.\""
     },
     {
       "name": "Air Groove",
-      "text": "All that's left is the seasoning, then... \nHmm.",
-      "choice_data_list": []
+      "text": "Now the question is, how should we\nflavor it?\nHmm..."
     },
     {
       "name": "Air Groove",
-      "text": "Alright, let's do another round of the \nshops around here.",
-      "choice_data_list": [
-        "Why is that?",
-        "Why?"
-      ]
+      "text": "I've got it. Let's do another round at the\nstores."
     },
     {
       "name": "Air Groove",
-      "text": "\"It is only natural. A masterpiece \nrequires seasoning worthy of its stature, \ndoes it not?\"",
-      "choice_data_list": []
+      "text": "Isn't it obvious? You need the perfect\n\ncombination of flavors for a delicacy like\nthis."
     },
     {
       "name": "Air Groove",
-      "text": "For this dish... yes, demi-glace sauce \nwould go nicely.",
-      "choice_data_list": []
+      "text": "I think this would benefit from some\ndemi-glace\nsauce."
     },
     {
       "name": "Air Groove",
-      "text": "I shall gather the finest ingredients and \nwhip up a first-class sauce for you.",
-      "choice_data_list": []
+      "text": "We'll get the highest quality ingredients\nand\nmake a sauce to match our prize."
     },
     {
-      "name": "Narrator",
-      "text": "I took another lap around the shopping \ndistrict to find a sauce worthy of the \nhamburg steak.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "So we go around the stores once more to\ncook up\na sauce fit for the meal."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Air Groove",
-      "text": "Ho, this is quite nice.",
-      "choice_data_list": []
+      "text": "Oh... Not bad at all."
     },
     {
       "name": "Air Groove",
-      "text": "There were a few students who mentioned \nwanting to practice cooking, right?",
-      "choice_data_list": []
+      "text": "A number of students were telling me\nthat they\nwished to practice their\ncooking."
     },
     {
       "name": "Air Groove",
-      "text": "If we give them to those girls, they'll \nput them to meaningful use.",
-      "choice_data_list": []
+      "text": "I'm sure they could use a gift like this."
     },
     {
       "name": "Air Groove",
-      "text": "We're taking it back. Help me carry it.",
-      "choice_data_list": []
+      "text": "Let's go. Help me carry everything."
     },
     {
-      "name": "Narrator",
-      "text": "Alongside a satisfied Air Groove, I \ncarried the carrots back to the academy.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove looks satisfied as we haul the\nmassive\namount of carrots back to the\nacademy."
     },
     {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!"
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Air Groove",
-      "text": "Hmm, not bad at all.",
-      "choice_data_list": []
+      "text": "Hmm... Not awful."
     },
     {
       "name": "Air Groove",
-      "text": "Even with just a single carrot, there are \nall kinds of creative ways to prepare it.",
-      "choice_data_list": []
+      "text": "Even a single carrot can unlock many\npossibilities\nin the kitchen."
     },
     {
       "name": "Air Groove",
-      "text": "It's great in a salad, great for kinpira, \nand it can even be made into juice.",
-      "choice_data_list": []
+      "text": "It can be used for a salad, for stir-fry, for\njuice..."
     },
     {
       "name": "Air Groove",
-      "text": "How do you prefer your food cooked?",
-      "choice_data_list": []
+      "text": "Tell me, Trainer—what would you make\nwith it?"
     },
     {
-      "name": "Narrator",
-      "text": "We walked home together, chatting about \nthe carrot dishes Air Groove recommended.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove and I talk about our favorite\ncarrot\ndishes as we head back."
     },
     {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
     },
     {
-      "name": "Narrator",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Air Groove",
-      "text": "...A miss, huh.",
-      "choice_data_list": []
+      "text": "A mere consolation prize..."
     },
     {
       "name": "Air Groove",
-      "text": "\"Well, fine. This is usually what happens \nwhen you rely purely on luck.\"",
-      "choice_data_list": []
+      "text": "No matter. Luck-based games result in\nmore\nlosers than winners."
     },
     {
       "name": "Air Groove",
-      "text": "Therefore, in a serious bout, luck alone \nis not enough; true ability is \nindispensable.",
-      "choice_data_list": []
+      "text": "That's why in real competitions, we must\nrely on\nskill and talent, not luck alone."
     },
     {
       "name": "Air Groove",
-      "text": "Well, having that driven home by a packet \nof tissues leaves me with rather mixed \nfeelings, though...",
-      "choice_data_list": []
+      "text": "Heh... Imagine learning that from a pack\nof\ntissues..."
     },
     {
-      "name": "Narrator",
-      "text": "Air Groove stared at the packet of tissues \nwith a slight look of disappointment.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Air Groove stares at the pack of tissues,\nlooking\nslightly upset."
     }
   ]
 }

@@ -2,197 +2,184 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Horse Girls",
-      "text": "Sh-She's dead—!?"
+      "name": "Umamusume",
+      "text": "SH-SHE'S DEAD?!"
     },
     {
-      "name": "Narrator",
-      "text": "While walking down the hallway, I suddenly \nheard the screams of horse girls...! \nHurrying over to check on the situation—"
+      "name": "Monologue",
+      "text": "As I'm walking down the hallway, I hear\nominous\nshrieks from somewhere nearby!\nI rush over in a\npanic, only to find..."
     },
     {
       "name": "Seiun Sky",
-      "text": "To think King would die after eating \npoisoned chawanmushi...",
-      "choice_data_list": [
-        "Wait, what!?"
-      ]
+      "text": "Man, who would've thought King's food\nwas\npoisoned?"
     },
     {
       "name": "Grass Wonder",
-      "text": "Fufu, there is no need to worry, passing \nTrainer-san."
+      "text": "Hehe. We're terribly sorry to have\nalarmed you,\nbut everything is under\ncontrol."
     },
     {
       "name": "El Condor Pasa",
-      "text": "This is a \"Murder Mystery\" game! The real \nKing is alive and well!"
+      "text": "It's a murder mystery game, amigo!\nKing's fine!"
     },
     {
-      "name": "Narrator",
-      "text": "\"Murder Mystery\"... It seems to be a game \nwhere players work together using clues to \nfind the culprit of a murder case."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Oh, right. We actually don't have a Game \nMaster. Would you mind filling in for us?",
-      "choice_data_list": [
-        "I don't mind, but..."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "—And so, I ended up jumping in to \nparticipate as the GM."
+      "name": "Monologue",
+      "text": "They explain that the game involves\nsolving a\nmurder case based on the clues\ngiven to each\nindividual player."
     },
     {
       "name": "Seiun Sky",
-      "text": "...First, the victim's situation. In the \nevening, King was found collapsed in a \nguest room of the inn."
+      "text": "Oh, right! We don't actually have a GM\n\nyet—that's \"game master,\" by the way.\nWould you\nmind being ours?"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so I find myself game-mastering a\nmurder."
     },
     {
       "name": "Seiun Sky",
-      "text": "The cause of death was poison in the \nchawanmushi. Also, right before the victim \ndied, a \"crash!\" sound was reportedly \nheard near the crime scene."
+      "text": "...Let's start with the circumstances\nsurrounding\nour victim. King was found\nin the evening,\ncollapsed in one of the\ninn's guest rooms."
     },
     {
-      "name": "Narrator",
-      "text": "True to the name \"Murder Mystery,\" it's \nquite an ominous opening..."
+      "name": "Seiun Sky",
+      "text": "The cause of death seems to be poison\nmixed into\na bowl of egg custard served\nwith dinner. Other\nthan that, there were\nreports of a loud shattering\nsound just\nbefore King died."
+    },
+    {
+      "name": "Monologue",
+      "text": "A fittingly ominous start to a murder\nmystery..."
     },
     {
       "name": "Special Week",
-      "text": "Ugh, how awful... Who could do such a \nthing...?"
+      "text": "Geez, that's horrible... Who would do\nsuch a\nthing?"
     },
     {
       "name": "Grass Wonder",
-      "text": "It would be difficult to narrow down the \nculprit as we are now. After all, we know \nnothing about one another."
+      "text": "I don't believe we know each other well\nenough\nto judge that, unfortunately."
     },
     {
       "name": "El Condor Pasa",
-      "text": "Then let's start by getting to know each \nother! First, self-introductions!"
+      "text": "Then let's get started by breakin' the\nice! First off,\nself-introductions! Ándale!"
     },
     {
       "name": "Grass Wonder",
-      "text": "Shall we share our roles and our actions \nthroughout the day?"
+      "text": "Shall we begin by detailing our roles,\nand what\nwe've done today?"
     },
     {
       "name": "Special Week",
-      "text": "Umm, I am Special Week, the chef. Today, I \ngave it my all making the dishes to serve \nto King-chan...!"
+      "text": "Um, I'm Special Week and I'm the cook.\nToday, I\nwas toiling away cooking up a\nfeast for King!"
     },
     {
       "name": "Grass Wonder",
-      "text": "Likewise, I am an inn waitress~. I served \nKing-chan her meal."
+      "text": "And I am a waitress who works at the\nsame inn! I\nserved King her meal."
     },
     {
       "name": "El Condor Pasa",
-      "text": "I am a traveling poet staying at the inn, \nseeee! I became friends with King today, \nso after dinner was served, I went to hang \nout in her room."
+      "text": "Hola! I'm a traveling poet staying at the\ninn! I got\nacquainted with King today, so\nI dropped by her\nroom to hang out after\nher meal was served."
     },
     {
       "name": "Seiun Sky",
-      "text": "'Sup, I'm the inn's cleaner~. I was \ncleaning the building the whole time."
+      "text": "Heyyy, I'm a housekeeper at this inn,\nand I've\nbeen cleaning all day long."
     },
     {
-      "name": "Narrator",
-      "text": "With everyone's introductions finished, I \nfelt like the overall picture was starting \nto take shape."
+      "name": "Monologue",
+      "text": "With everyone's introductions over, I\nfeel like I've\ngot a better picture of the\nsituation now."
     },
     {
       "name": "Grass Wonder",
-      "text": "This means... everyone is suspicious~."
+      "text": "Well, well... It seems that everyone is\nsuspicious."
     },
     {
       "name": "Seiun Sky",
-      "text": "Yeah, yeah, definitely.",
-      "choice_data_list": [
-        "Meaning?"
-      ]
+      "text": "Mm-hmm, you said it."
     },
     {
       "name": "Seiun Sky",
-      "text": "Spe-chan could've slipped poison in during \ncooking, and Grass-chan could've slipped \nit in during serving."
+      "text": "Spe could've added the poison while she\n\nprepared the meal, and Grass could've\nspiked it\non the way to the room."
     },
     {
       "name": "Grass Wonder",
-      "text": "El could have poisoned it after serving, \nand Sei-chan could have done so while \ncleaning, respectively."
+      "text": "Likewise, El could have snuck it in when\nshe\nvisited King, and Sei could have\ntampered with\nthings while cleaning."
     },
     {
       "name": "Special Week",
-      "text": "No way! I didn't poison anything~...!"
+      "text": "No way! I didn't add any poison!"
     },
     {
       "name": "Seiun Sky",
-      "text": "There, there, it's just a game."
+      "text": "Chillax. This is a game, remember?"
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh right, Trainer-san, is there anything \nyou're curious about? You can set aside \nthe GM role for a bit.",
-      "choice_data_list": [
-        "Did Seiun Sky clean during dinner as well?",
-        "The chawanmushi looked so delicious, \ntoo..."
-      ]
+      "text": "Oh yeah—has anything caught your\nattention yet,\nTrainer? You can go\nahead and forget about\nbeing the GM\nfor a minute."
     },
     {
       "name": "Seiun Sky",
-      "text": "Yeah, 'cause I'm the cleaner. I tried to \nclean areas where guests weren't around as \nmuch as possible, though."
+      "text": "Yep, I'm a housekeeper after all. I do try\nto stick\nto places where there aren't any\nguests around,\nthough."
     },
     {
       "name": "Seiun Sky",
-      "text": "Still, being suspected when I have the job \nfarthest away from guests is pretty \nshocking~."
+      "text": "In fact, I barely spend any time around\nthe\nguests, so I'm not sure why you're\nsuspecting <i>me.</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Seiun Sky shrugged as she looked down at \nthe collapsed King Halo. At that moment—"
+      "name": "Monologue",
+      "text": "Seiun Sky shrugs as she looks over to the\n\ncollapsed King Halo. And right then..."
     },
     {
       "name": "Special Week",
-      "text": "...Huh? Come to think of it, the bowl for \nthe chawanmushi is a different color! When \nI made it, it was yellow!"
+      "text": "Huh? Wait, the bowl is a different color!\nI know I\nused a yellow one!"
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, you are right. It was yellow when I \nserved it as well."
+      "text": "My goodness, you're right. It was yellow\nwhen I\ndelivered it as well."
     },
     {
       "name": "Seiun Sky",
-      "text": "Right now... it's a blue bowl. Did someone \nwho entered the room after it was served \nswap it?"
+      "text": "But now it's in a blue bowl. Maybe\nsomeone came\ninto the room and\nswapped the bowls around\nafter it was\nserved?"
     },
     {
-      "name": "Narrator",
-      "text": "Based on what was said earlier, the only \nperson who entered the room after it was \nserved was El Condor Pasa..."
+      "name": "Monologue",
+      "text": "Going by the introductions from earlier,\nthe only\none who came into the room\nafter the dish was\nserved was El Condor\nPasa..."
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡¿Qué!? What is this about!?"
+      "text": "Qué?! Me?!"
     },
     {
-      "name": "Narrator",
-      "text": "—Everyone cast a suspicious gaze towards \nher."
-    },
-    {
-      "name": "Special Week",
-      "text": "Yes, to think poison was slipped into \nit... Even though the vegetables Sei-chan \nbrought were so delicious, too..."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Having well-regarded cuisine turned into a \nmurder weapon is truly tragic..."
-    },
-    {
-      "name": "Narrator",
-      "text": "Everyone hung their heads and looked at \nthe collapsed King Halo. At that moment—"
+      "name": "Monologue",
+      "text": "Everyone glances over at her with\naccusing eyes."
     },
     {
       "name": "Special Week",
-      "text": "...Huh? Come to think of it, the bowl for \nthe chawanmushi is a different color! When \nI made it, it was yellow!!"
+      "text": "I know, right? I can't believe there's\npoison in\nthere... And after Sei brought\nme such nice\nveggies to cook with, too..."
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh... you are right. It was yellow when I \nserved it as well."
+      "text": "It saddens me greatly that such\nrenowned cuisine\nwas used as a means\nfor murder..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Everyone looks over to the collapsed\nKing Halo\nwith bowed heads, when..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Huh? Wait, the bowl is a different color!\nI know I\nused a yellow one!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "My goodness, you're right. It was yellow\nwhen I\ndelivered it as well."
     },
     {
       "name": "Seiun Sky",
-      "text": "Right now... it's a blue bowl. Did someone \nwho entered the room after it was served \nswap it?"
+      "text": "But now it's in a blue bowl. Maybe\nsomeone came\ninto the room and\nswapped the bowls around\nafter it was\nserved?"
     },
     {
-      "name": "Narrator",
-      "text": "Based on what was said earlier, the only \nperson who entered the room after it was \nserved was El Condor Pasa..."
+      "name": "Monologue",
+      "text": "Going by the introductions from earlier,\nthe only\none who came into the room\nafter the dish was\nserved was El Condor\nPasa..."
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡¿Qué?! ¡¿What do you mean?!"
+      "text": "Qué?! Me?!"
     },
     {
-      "name": "Narrator",
-      "text": "—Everyone looked at her suspiciously."
+      "name": "Monologue",
+      "text": "Everyone glances over at her with\naccusing eyes."
     }
   ]
 }

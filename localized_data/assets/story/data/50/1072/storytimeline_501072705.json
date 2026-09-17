@@ -2,218 +2,168 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "On the way back from an outing with Yaeno \nMuteki, she stopped in front of a \nsecondhand bookstore.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Yaeno Muteki and I are on our way\nhome after a\nday out when she stops in\nfront of an old book\nstore."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Trainer-dono. I humbly ask permission to \nmake a slight detour.",
-      "choice_data_list": [
-        "Going shopping?",
-        "Shopping?"
-      ]
+      "text": "Trainer, would it be okay if we took a\nslight\ndetour?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Yes. I found an old book at this store \nthat I've wanted for quite some time, so I \nwas saving up funds to purchase it.",
-      "choice_data_list": []
+      "text": "Yes. This store has an old book I've been\nwanting\nto buy for some time. I've been\nsaving up to buy\nit."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "A book documenting the physical training \nmethods of various jujutsu styles... It \ncontains records of schools whose lineages \nhave now died out, making it an \nexceedingly precious document.",
-      "choice_data_list": []
+      "text": "It's a book that documents the physical\ntraining\nmethods of various jujitsu\nschools, as well as\ntechniques of schools\nwhose lineages have come\nto an end. It's\nan extremely valuable record."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Lost techniques... I look forward to \ndiscovering what lessons they may hold.",
-      "choice_data_list": []
+      "text": "The mere thought of those lost\ntechniques... I\ncan't wait to see how\nmuch I can learn."
     },
     {
-      "name": "Narrator",
-      "text": "And so, I was waiting for Yaeno Muteki in \nfront of the shop, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "...It's not here! That book is gone...! I \nknow for sure it was on that shelf...!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I wait for Yaeno Muteki in front of the\nshop.\nSoon, however..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Shopkeeper! There was a rare book on the \nback shelf...! Did it already sell!?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Elderly Shop Owner",
-      "text": "Mm? Ah, a young lady bought the books from \nthat shelf just a moment ago.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Elderly Shop Owner",
-      "text": "Look, someone wearing the exact same \nuniform as you... What academy was it \nagain—",
-      "choice_data_list": []
+      "text": "It's gone! The book is nowhere in sight!\nI'm certain\nit was there just the other\nday!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "A Tracen Academy student...!? And if it \nhappened just moments ago, they must still \nbe nearby...!",
-      "choice_data_list": []
+      "text": "Pardon me, shopkeeper! The valuable\nbook that\nwas on the back shelf—has it\nbeen sold?!"
+    },
+    {
+      "name": "Elderly Shopkeeper",
+      "text": "Hm? Oh yes, a girl came and bought\nthat book\njust a few moments ago."
+    },
+    {
+      "name": "Elderly Shopkeeper",
+      "text": "In fact, you two were wearing the same\nuniform.\nWhat school is that again?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "At the very least, I want to see just a \nfew pages of its contents...! I'm going \nafter them!",
-      "choice_data_list": []
+      "text": "A student from Tracen Academy?! And if\nshe\nrecently bought the book, she must\nstill be\nnearby!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I'd like to peruse a few of its pages at\nthe very\nleast...\nLet's chase after her!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I got some great buys~♪ Alright, I'm gonna \nread them right here.",
-      "choice_data_list": []
+      "text": "I got some great shopping done! ♪ ...All\nright,\nthis looks like a solid reading spot."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "That's... Ryan-san! And what she's holding \nin her hand is a bag from that shop...!",
-      "choice_data_list": []
+      "text": "It's Ryan! And look! She's holding a bag\nfrom the\nstore!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I thought Ryan-san was more of a \nspecialist in modern training, but... hmm. \nTo think you're also interested in \ntraditional training methods.",
-      "choice_data_list": []
+      "text": "I always thought Ryan specialized in\nmodern\ntraining methods, but to think\nshe holds an\ninterest in traditional\ntechniques as well..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "—Ryan-san! I have a once-in-a-lifetime \nrequest!",
-      "choice_data_list": []
+      "text": "Ryan! I have a life-or-death request!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Huh, Yaeno? What's wrong? Why do you look \nso desperate...?",
-      "choice_data_list": []
+      "text": "Whoa, Yaeno? What's got you looking\nso\ndesperate?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "\"That book you purchased... Would you \nplease allow me to see it as well!\"",
-      "choice_data_list": []
+      "text": "That book you just purchased... Would it\nbe\npossible for me to take a look at it?!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "W-What!? Th-This!?",
-      "choice_data_list": []
+      "text": "Huh?! Y-you mean this?!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I had no idea you were interested in \"that \nsort of thing\" as well, Ryan-san.",
-      "choice_data_list": []
+      "text": "I had no idea that you were also\ninterested in this\nsubject matter."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Which means... Yaeno, don't tell me you... \num... read stuff like this too?",
-      "choice_data_list": []
+      "text": "Wait a sec... Are you saying... you, uh,\nwant to\nread this book too?"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "\"If anything, reflecting upon the path I \nhave walked, not reading it would be \nnegligence on my part.\"",
-      "choice_data_list": []
+      "text": "It would be more accurate to say that,\n\nconsidering the path I've walked, it\nwould be a\nfailure for me <i>not</i> to read it."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I-Is that so...!? Now I'm really curious \nabout Yaeno's past!?",
-      "choice_data_list": []
+      "text": "R-really?! Suddenly, I want to know all\nabout your\npast!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "And so, I'd love to join you! Please allow \nme to accompany you!",
-      "choice_data_list": []
+      "text": "I'd be eternally grateful if you'd let me\njoin you!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "W-Wait, wait! Alright! I'll show you, just \ncalm down!",
-      "choice_data_list": []
+      "text": "O-okay, okay! I get it! I'll show you the\nbook, so\njust take it easy!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "!! Thank you very much! I will never \nforget this favor for the rest of my life!",
-      "choice_data_list": []
+      "text": "You have my deepest gratitude! I will\nremember\nyour selfless gesture for the\nrest of my life!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Whaaaat!?!?",
-      "choice_data_list": []
+      "text": "Whaaa?!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Wh-Wh... What is this book?! As soon as I \nopened it, a k-k... kiss...?!",
-      "choice_data_list": []
+      "text": "Wh-what <i>is</i> this book? On the very first\npage we\nturn to... <i>c-c-canoodling?!</i>"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Wait, wait, wait!? Don't say it out loud! \nEven for a shojo manga, it's... well... \nit's got a lot of pretty bold scenes, \nokay~!",
-      "choice_data_list": []
+      "text": "Whoa, whoa, whoa! Don't say that out\nloud! Even\nfor a romance comic... this\none's got a load\nof—ahem—<i>bold</i> scenes!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "\"Wh-What is the meaning of this?! I \nthought it contained the training methods \nof an ancient style...!\"",
-      "choice_data_list": []
+      "text": "Wh-what is the meaning of this? I\nthought this\nbook covered traditional\ntraining methods!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Ah-wawawa... A-And holding hands... Eeeh, \ny-you'd even do something like that!?",
-      "choice_data_list": []
+      "text": "Aaaagh... Th-they're holding hands,\nand... they're\neven doing <i>that!</i>"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "W-W-Wait... stop! Don't say it so \nloudly~~!!",
-      "choice_data_list": []
+      "text": "Wh-whoa, shhh! Keep it down!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "A-Ah-wa-wa-wa... *pssshhhh*...",
-      "choice_data_list": [
-        "So this is the ancient style of \ntraining...",
-        "So where did that book go?"
-      ]
+      "text": "Aaaah! Nooooo..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "No!! Absolutely not!!",
-      "choice_data_list": []
+      "text": "No! This is definitely the wrong book!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Th-This... it was all just a \nmisunderstanding on my part... Ahh, \nseriously... why did this happen...?!",
-      "choice_data_list": []
+      "text": "Th-this... was all a misunderstanding on\nmy part.\nBut how?! Why?!"
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Aaaah!! I'm such an idiot!! Everyone is \nan idiooooot!!",
-      "choice_data_list": []
+      "text": "Ahhh! I'm such a fool! We're all fooools!"
     },
     {
-      "name": "Narrator",
-      "text": "\"...By the way, it turned out that the old \nbook was simply moved to a different spot \nwhen the shopkeeper organized the \nshelves.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "I-Indeed... Where on earth could they have \ngone?",
-      "choice_data_list": [
-        "Should we try searching again?",
-        "Want to try searching again?"
-      ]
+      "name": "Monologue",
+      "text": "...It turns out that the shopkeeper had\njust moved\nthe book in question when\nreorganizing the\nshelves."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Right... Exactly. W-Well then, Ryan-san, \npardon me!",
-      "choice_data_list": []
+      "text": "Y-yes, indeed... Where in the world\ncould it be?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes... Right away.\nUm, apologies, Ryan!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "W-Wait, what!? Hold on a second!? Doesn't \nthat just mean I embarrassed myself for \nnothing~?!",
-      "choice_data_list": []
+      "text": "H-hey?! Hold on a sec! You're just going\nto take\noff after embarrassing me like\nthat?!"
     },
     {
-      "name": "Narrator",
-      "text": "\"...By the way, it turned out that the old \nbook was simply moved to a different spot \nwhen the shopkeeper organized the \nshelves.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "...It turns out that the shopkeeper had\njust moved\nthe book in question when\nreorganizing the\nshelves."
     }
   ]
 }

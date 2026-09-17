@@ -2,44 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "I shared our plans for the upcoming \npromotional live show and training for the \nGrand Live with Mihono Bourbon.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I tell Mihono Bourbon about our plans\nregarding\ntraining and promo concerts\nleading up to the\nGrand Concert."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Order comprehended. Executing \ninstructions.",
-      "choice_data_list": [
-        "No, it's not an order, I'm just asking for \nyour advice.",
-        "No, it's not an order, just a discussion."
-      ]
+      "text": "Orders received."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Consultation?",
-      "choice_data_list": []
+      "text": "...What I think?"
     },
     {
-      "name": "Narrator",
-      "text": "Light Hello said, \"The Grand Live is a \nconcert meant for expressing gratitude.\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Light Hello described the Grand Concert\nas a\nstage for runners to convey their\ngratitude."
     },
     {
-      "name": "Narrator",
-      "text": "\"That's precisely why, especially for \nMihono Bourbon, I wanted her to take the \nstage through her own will and \nfeelings—not just because of an order.\"",
-      "choice_data_list": [
-        "You can just observe first, and decide \nafter that."
-      ]
+      "name": "Monologue",
+      "text": "That's why, if Bourbon's going to\nperform, I want\nher to do it because she\n<i>wants</i> to, not because I\n\"order\" her to."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "……。",
-      "choice_data_list": []
+      "text": "..."
     },
     {
-      "name": "Narrator",
-      "text": "If the day comes when Mihono Bourbon \nwishes to participate of her own accord... \nwe'll have her join us on stage then.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "If there ever comes a day when she\nwants to\nperform of her own volition,\nthen we'll talk about\ngetting her up on\nstage."
     }
   ]
 }

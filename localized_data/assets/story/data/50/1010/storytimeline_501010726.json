@@ -2,50 +2,36 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while out with Taiki Shuttle—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, while out and about with Taiki\nShuttle..."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Wow! Amazing! Trainer!",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Whoa! Trainer, look! It's amazing!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Look at that machine! It's packed full of \nUmamusume toys!",
-      "choice_data_list": []
+      "text": "Take a gander at that machine! It's\nchock-full of\nUmamusume toys!"
     },
     {
-      "name": "Narrator",
-      "text": "Looking in the direction Taiki Shuttle \npointed, there was a crane game filled \nwith plushies modeled after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "It says \"Paka Petit\"! Ahaha, it's so very \ncute!",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She points toward a claw machine filled\nwith\nUmamusume plushies."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "If I send these souvenirs to my little \nsisters in America, they will surely be \nthrilled!",
-      "choice_data_list": [
-        "Alright, I'll get it!",
-        "Alright, I'll get it!"
-      ]
+      "text": "It says they're called \"Cuties\"! I'll be\ndarned if\nthey don't live up to their\nname, hehe!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Wow! Really!? Thank you! I have high \nhopes!",
-      "choice_data_list": []
+      "text": "Betcha my little sisters would appreciate\none of\nthese. I should send 'em some!"
     },
     {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
+      "name": "Taiki Shuttle",
+      "text": "Ya will?! Thanks so much! Now, go\non—show me\nwhat ya got!"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way I can fail now!"
     }
   ]
 }

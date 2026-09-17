@@ -2,163 +2,124 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "When I went to a ramen shop, I happened to \nspot Narita Brian and Biwa Hayahide there.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I spot Narita Brian and Biwa Hayahide at\na ramen\nshop."
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Thanks for the food. It was good.\"",
-      "choice_data_list": []
+      "text": "Ahhh, that hit the spot."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yeah, thank you for the meal.",
-      "choice_data_list": []
+      "text": "Yeah, it was delicious!"
     },
     {
       "name": "Narita Brian",
-      "text": "...Well then, I'll be on my way.",
-      "choice_data_list": []
+      "text": "...Well, I'm going to call it here."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Are you leaving already? You really ought \nto rest a bit after eating...",
-      "choice_data_list": [
-        "Want to have lunch together?"
-      ]
+      "text": "You're going already? Don't you want to\nlet your\nfood settle first?"
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Oh, it's you. We just happened to run \ninto each other, that's all.\"",
-      "choice_data_list": []
+      "text": "...Oh, it's you. No, we just happened to\nboth be\nhere."
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Oh, welcome! Let me know whenever you're \nready to order!",
-      "choice_data_list": []
+      "text": "Welcome! Let me know when you're\nready to\norder!"
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Right now, it comes with \"Extra Specialty \nChashu\" on the house!",
-      "choice_data_list": [
-        "Extra chashu... extra chashu..."
-      ]
+      "text": "We've got a special on offer! The Roast\nPork\nMountain!"
     },
     {
       "name": "Narita Brian",
-      "text": "\"That stuff is delicious. Every single \nbite just bursts with juice.\"",
-      "choice_data_list": []
+      "text": "It's delicious. Every single bite was so\njuicy, it was\nalmost like meat broth."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Isn't this leaning a bit too heavily \ntoward meat...? You even moved all the \nvegetables that were on top over to my \nplate.",
-      "choice_data_list": []
+      "text": "Aren't you a bit too focused on meat?\nYou even\nput all your veggies in my\nbowl."
     },
     {
       "name": "Narita Brian",
-      "text": "...It's probably just your imagination.",
-      "choice_data_list": []
+      "text": "...Did not."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Imagination, nothing! I saw you. You need \nto eat more vegetables, too...!",
-      "choice_data_list": []
+      "text": "You did too! I saw you! You need to eat\nsome\nvegetables too!"
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Ah ha ha! But if you like it, then I'm \nhappy!",
-      "choice_data_list": []
+      "text": "Ahaha! As long as you enjoyed it, I'm\nhappy!"
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "\"If you like it that much, how about some \nextra chashu on the house?\"",
-      "choice_data_list": []
+      "text": "If you liked it that much, how about\nsome extra\npork? On the house."
     },
     {
       "name": "Narita Brian",
-      "text": "Are you sure?",
-      "choice_data_list": [
-        "You're eating too much.",
-        "Why not take them up on the offer?"
-      ]
+      "text": "Really?"
     },
     {
       "name": "Narita Brian",
-      "text": "...Yeah. Eat too much, and it'll slow down \nyour movements.",
-      "choice_data_list": []
+      "text": "...I suppose you're right. Eating too much\njust will\njust slow me down."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yeah, I think that's a wise decision. And \ngood advice from you, too.",
-      "choice_data_list": [
-        "Thank you...?"
-      ]
+      "text": "Indeed. I think that's a wise decision.\nYou give\ngood advice, Trainer."
     },
     {
       "name": "Narita Brian",
-      "text": "Tch, my sis is meddlesome about every \nlittle thing, or rather, she acts too much \nlike a big sister.",
-      "choice_data_list": []
+      "text": "Tch. What a meaningless remark. You're\ntrying\ntoo hard to play the part of big\nsister."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Is that so? Still, the fact remains that \nyou are the older sister—",
-      "choice_data_list": []
+      "text": "Well, I <i>am</i> your big sister..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hey, Brian! Don't run on the way back! \nTake it slow!",
-      "choice_data_list": []
+      "text": "Hey, Brian! We're not racing back! Slow\ndown!"
     },
     {
-      "name": "Narrator",
-      "text": "While warmly watching the sisters' \nexchange, I went ahead and ordered the \nramen with extra chashu pork.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As I watch the amusing exchange\nbetween the\nsisters, I order myself the\nRoast Pork Mountain."
     },
     {
       "name": "Narita Brian",
-      "text": "...Yeah. Until every last bite is gone!",
-      "choice_data_list": []
+      "text": "...That's what I'm talking about. Gotta\nfinish every\nlast bite!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "How reckless can you girls be...! Wait, \nare you really fine with just chashu?!",
-      "choice_data_list": []
+      "text": "That's absurd! You're just going to eat\nthe pork\nplain?!"
     },
     {
       "name": "Narita Brian",
-      "text": "I can keep going. Pops, give me an extra \nserving of chashu.",
-      "choice_data_list": []
+      "text": "Why not? Hey, I'll take you up on that\nextra pork!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Good grief.",
-      "choice_data_list": []
+      "text": "...Geez."
     },
     {
       "name": "Narita Brian",
-      "text": "......Phew. That was a bigger catch than I \nimagined.",
-      "choice_data_list": []
+      "text": "...Phew. That was more than I expected."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "That shopkeeper was so moved by how much \nyou ate, he kept bringing out one refill \nafter another...",
-      "choice_data_list": []
+      "text": "The owner was so impressed with you\nthat he kept\nbringing more..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Are you all right, Brian? That clearly \nexceeds a sensible portion size...\"",
-      "choice_data_list": []
+      "text": "Are you going to be okay? You've\nclearly\nexceeded the appropriate\namount of food for the\nday..."
     },
     {
       "name": "Narita Brian",
-      "text": "No problem... I'm going to run and burn it \noff right away... anyway...",
-      "choice_data_list": []
+      "text": "It's not a problem... In any case... I'll burn\nit off\nrunning in no time..."
     },
     {
-      "name": "Narrator",
-      "text": "Narita Brian fully enjoyed the chashu \npork, but ended up feeling a bit bloated \nfrom overeating...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "While Narita Brian certainly seems to\nhave had\nher fill of roast pork, she may\nhave overdone it..."
     }
   ]
 }

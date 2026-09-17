@@ -2,248 +2,184 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "(Clack... clack...)",
-      "choice_data_list": [
-        "(This place is...?)"
-      ]
+      "name": "Monologue",
+      "text": "<i>Click, clack...</i>"
     },
     {
-      "name": "Narrator",
-      "text": "If I recall correctly, they were supposed \nto be training with Manhattan Cafe until \njust a moment ago—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm sure I was training with Manhattan\nCafe a\nminute ago..."
     },
     {
-      "name": "Narrator",
-      "text": "Why is that in a place like this...?",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "So how did I end up in a place like this?"
     },
     {
       "name": "Manhattan Cafe",
-      "text": "This place is— a hazy dream, a fluctuation \nof time... a place where thoughts twist \nand intertwine...",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "This place is a fleeting dream... A chasm\nin time...\nwhere thoughts bend and\nintersect..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "And now, 'something' is weeping in \nsorrow... So powerfully, so plaintively \nthat it keeps this train running...",
-      "choice_data_list": []
+      "text": "Right now, <i>something</i> is crying, drowning\nin\nsadness... Their sadness runs deep,\nand it's strong\nenough to power this\ntrain..."
     },
     {
-      "name": "Narrator",
-      "text": "Startled, I look out the window to find \nthe night sky stretching endlessly. It \ndefinitely doesn't seem to be the real \nworld...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Surprised, I turn to the window and see\nthe night\nsky stretching out before me\nendlessly. She's\nright. This sure isn't the\nreal world..."
     },
     {
-      "name": "Narrator",
-      "text": "Before I knew it, the train had picked up \nspeed... Just where is it heading...?",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I notice that the train's beginning to pick\nup\nspeed. Where could it be taking us?"
     },
     {
       "name": "Announcement?",
-      "text": "\"‘Next stop, Keradabashi— Keradabashi—’\"",
-      "choice_data_list": []
+      "text": "The next station is Frutetinifni... I repeat,\n\nFrutetinifni..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Unfamiliar place names are surely \nmanifestations of wishes... Something that \n'someone' yearns for endlessly...",
-      "choice_data_list": []
+      "text": "Doesn't sound like any station I know...\nIt must\nstand for something... <i>their</i> desire\nmaybe... An\nendless yearning..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"Ponder deeply upon the place names... and \ndecide whether to disembark or not...\"",
-      "choice_data_list": []
+      "text": "Think hard about the station name...\nthen decide\nwhether or not to get off\nthe train..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "If we do that, surely that 'something' \nwill—",
-      "choice_data_list": []
+      "text": "Do so, and I'm sure that <i>something</i> will—"
     },
     {
-      "name": "Narrator",
-      "text": "(――*snap*)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Creak!</i>"
     },
     {
-      "name": "Narrator",
-      "text": "The moment Manhattan Cafe's tone grew \nserious, the voice cut out, and the train \nscreeched to a halt. Outside the window \nlay an uphill slope, dirt, and—",
-      "choice_data_list": [
-        "(Turf...?)"
-      ]
+      "name": "Monologue",
+      "text": "Before she can finish speaking, the train\n\nscreeches to a halt and cuts her off.\nOutside the\nwindow, I see slopes, a dirt\ntrack, and..."
     },
     {
-      "name": "Narrator",
-      "text": "Manhattan Cafe said, \"Ponder the place \nnames carefully... and decide whether to \ndisembark or not.\" In that case—",
-      "choice_data_list": [
-        "Get off",
-        "I'm on a roll."
-      ]
+      "name": "Monologue",
+      "text": "Manhattan Cafe really urged me to think\nabout\nthe name of this place. And that's\nwhy I'm going\nto..."
     },
     {
-      "name": "Narrator",
-      "text": "The place name 'Keradabashi'... Could it \nbe...? Acting on a hunch, I decided to get \noff.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Frutetinifni... What if... Acting on a gut\nfeeling, I\ndecide to get off the train."
     },
     {
-      "name": "Narrator",
-      "text": "And then— unlike moments before, the \nground felt solid beneath my feet.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I step off and, instead of falling down a\n\nbottomless pit, find myself on solid\nground."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer... So this is where you were...",
-      "choice_data_list": []
+      "text": "Trainer... There you are."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...? What on earth is that white thing...?",
-      "choice_data_list": [
-        "...Something white?"
-      ]
+      "text": "Huh? What's that white stuff?"
     },
     {
-      "name": "Narrator",
-      "text": "I spun around in a panic, and just as she \nsaid, something like a white mist was \nrising into the air.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I spin around in a panic to see that, sure\nenough,\nsomething like a white mist is\nrising up behind me."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I see, Keradabashi— read backwards, it's \n\"shiba darake\" (covered in turf).",
-      "choice_data_list": []
+      "text": "I understand now... If you read\n\"Frutetinifni\"\nbackwards... you get\n\"infinite turf.\""
     },
     {
       "name": "Manhattan Cafe",
-      "text": "It seems the \"something\" in the dream \nwanted to come here once more together \nwith someone.",
-      "choice_data_list": []
+      "text": "The <i>something</i> that's in this dream... it\nwanted to\nvisit this place one more time,\nand not alone\neither."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "And now, that wish has been granted... \nFarewell—",
-      "choice_data_list": []
+      "text": "And now its dream has come true...\nFarewell..."
     },
     {
-      "name": "Narrator",
-      "text": "A white mist sparkles as it fades into the \nsky. Having fulfilled its wish, \"that \nsomething\" seems to have vanished.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Today... I feel like I've once again \nexperienced just how kind you are, \nTrainer...",
-      "choice_data_list": [
-        "Is that so?",
-        "Really?"
-      ]
+      "name": "Monologue",
+      "text": "The white mist dissipates into a shimmer\nof\nsparkles and fades away into the sky.\nWhatever\nthat was, it seems to have\nfound peace and\nmoved on."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Yes... You accept the existence of things \nunseen... And you listen to their \nvoices...",
-      "choice_data_list": []
+      "text": "You really are a kind person... Today\nreminded\nme of that."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I'm not the only one being saved... That \nmuch was made crystal clear to me...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "I felt a true sense of kindness in her \nactions—connecting with the mysterious and \ngiving voice to it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Feeling that I shouldn't get off just \nyet, I decided to stay on board. The train \nbegins to move once more—\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(Clack... clack...)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(—*clatter-clatter, clatter-clatter*) \n(—*clatter-clatter, clatter-clatter*)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Is it just my imagination...? I feel like \nthe train is speeding up even more.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(—*clatter-clatter, clatter-clatter!!*) \n(—*clatter-clatter, clatter-clatter!!*) \n(—*clatter-clatter, clatter-clatter!!*)",
-      "choice_data_list": [
-        "(It's definitely not my imagination...!!)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "\"The moment I thought things looked bad, I \nfelt as if I were being shoved aside. And \nthen—\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "(*tap-tap-tap-tap—!!*)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Before I knew it, it was rolling across \nthe central plaza, and a student just \nhappened to be running right towards \nit...! At this rate—",
-      "choice_data_list": []
+      "text": "Yes... You accept the existence of those\nyou\ncannot see... and you lend an ear to\ntheir voices..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer—!",
-      "choice_data_list": []
+      "text": "I'm not the only one who's grateful for\nthat...\nThat's become very clear to me..."
     },
     {
-      "name": "Narrator",
-      "text": "—Just in the nick of time. Manhattan Cafe \nrushed over and saved me...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "If anything, I feel like Manhattan Cafe's\nefforts to\nunderstand and advocate for\nthe mysterious show\nmore kindness."
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "I see, so that happened in your dream... \nKeradabashi— read backwards, it's \"shiba \ndarake\" (covered in turf).",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Feeling that I probably shouldn't get off\nyet, I\nchoose to stay on the train. Before\nlong, it begins\nto move again..."
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "It seems the \"something\" in the dream \nwants to visit that place once more \ntogether with someone. ...Let's go and \nsee.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Click, clack...</i>"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "\"...Yeah, I knew it. You really wanted to \ncome here, didn't you...?\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "<i>Click, clack. Click, clack.</i>"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "May you find peace, if even for the \nbriefest of moments... Farewell—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "It is just me or... is the train getting\nfaster?"
     },
     {
-      "name": "Narrator",
-      "text": "Something like a white mist rises, \nsparkling as it fades into the sky... \nHaving fulfilled its wish, \"that \nsomething\" seems to have vanished.",
-      "choice_data_list": [
-        "You really understood my wish, huh?",
-        "You really understood my wish, didn't you?"
-      ]
+      "name": "Monologue",
+      "text": "<i>Click, clack! Click, clack! Click, clack!</i>"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "They're weak, and they disappear so \nquickly...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "The moment I realize the gravity of the\nsituation,\nI feel as if I've been sent flying\nthrough the air.\nAnd that's when..."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Clatter, clatter, clatter!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "I stumble right onto the central plaza\nand notice\nseveral students running this\nway! If they come\nany closer..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Before they transiently scatter and fade—I \nwant to be by their side as much as I \ncan...",
-      "choice_data_list": []
+      "text": "Trainer!"
     },
     {
-      "name": "Narrator",
-      "text": "From those words, one could feel her \nkindness as she tried to reach out to the \nmysterious.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Manhattan Cafe darts to my side and\nsaves me\njust in the nick of time..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I understand the dream now... If you\nread\n\"Frutetinifni\" backwards, you get\n\"infinite turf.\""
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "The <i>something</i> that's in this dream... it\nwants to\nvisit that place one more time,\nand not alone\neither. Let's go..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...I knew it. This is where you wanted to\ncome,\nisn't it?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I hope you find peace, no matter how\nfleeting it\nmight be... Farewell."
+    },
+    {
+      "name": "Monologue",
+      "text": "The white mist dissipates into a shimmer\nof\nsparkles and fades away into the sky.\nWhatever\nthat was, it seems to have\nfound peace and\nmoved on."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "They're fragile, only a moment from\n\ndisappearing..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I want to share their feelings as best as I\ncan,\nbefore they fade away..."
+    },
+    {
+      "name": "Monologue",
+      "text": "As Manhattan Cafe talks about her\nefforts to\nconnect with the strange and\nmysterious, I sense a\ndeep kindness in\nher."
     }
   ]
 }

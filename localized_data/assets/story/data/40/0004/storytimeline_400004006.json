@@ -2,367 +2,276 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "It happened after today's training was \nover, right after I walked <chrname> back to the \ndorms.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I finish escorting <chrname>\nback to\nthe dorms after training when all\nof a sudden..."
     },
     {
-      "name": "",
-      "text": "(Murmur, murmur... murmur, murmur...)",
-      "choice_data_list": [
-        "(Is it noisier over by the school \ngate...?)"
-      ]
+      "name": "Monologue",
+      "text": "<i>Murmur... Murmur...</i>"
     },
     {
       "name": "Reporter A",
-      "text": "Just a moment is all I need! If I could \njust confirm the facts with you!",
-      "choice_data_list": []
+      "text": "Just a smidgeon of info will do! Please\nallow us to\ncorroborate this story!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "E-Excuse me, no! You're causing a \ndisturbance to the students, so please \ntake your leave!",
-      "choice_data_list": [
-        "Tazuna-san, what's wrong!?"
-      ]
+      "text": "I-I'm very sorry, but no! You're\ninconveniencing\nour students, so I'd\nappreciate it if you would\nleave the\narea!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "T-Trainer...! You can't, don't come out \nright now!",
-      "choice_data_list": []
+      "text": "T-Trainer?! Oh no, you mustn't make an\n\nappearance!"
     },
     {
       "name": "Reporter B",
-      "text": "Hey, isn't that that trainer everyone's \ntalking about?",
-      "choice_data_list": []
+      "text": "Hey, isn't that the trainer in question?"
     },
     {
       "name": "Reporter B",
-      "text": "...Excuse me! Are you Trainer <username>?",
-      "choice_data_list": [
-        "That's true, but..."
-      ]
+      "text": "Excuse me! Would you happen to be\nTrainer\n\n<username>?"
     },
     {
       "name": "Reporter B",
-      "text": "Are the rumors true that you are putting \nyour Umamusume through overly harsh \ntraining!?",
-      "choice_data_list": [
-        "Yes!?"
-      ]
+      "text": "Are the rumors true?! Are you forcing\nyour trainee\nto undergo brutal training?!"
     },
     {
       "name": "Reporter B",
-      "text": "Rumors like making them run laps until \nmidnight, sitting on a stone for three \ndays straight, or doing handstand laps \naround the track...",
-      "choice_data_list": [
-        "Th-that's simply not true!"
-      ]
+      "text": "They say you make her run late into the\nnight\nevery day, or make her sit atop a\nstone for three\ndays straight, or make\nher do laps while\nhandstand walking."
     },
     {
       "name": "Reporter B",
-      "text": "But an exposé article has already been \npublished!",
-      "choice_data_list": []
+      "text": "But there's already been a news story\npublished\nabout it!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "That is why I have been explaining to you \nfor a while now that the article is \ncomplete nonsense...!",
-      "choice_data_list": []
+      "text": "This whole time, I've been trying to tell\nyou all\nthat that article is nothing but\nlibel!"
     },
     {
       "name": "Reporter C",
-      "text": "Are you certain it's untrue? The trust of \nthe entire Tracen Academy is on the line!",
-      "choice_data_list": []
+      "text": "So you claim that it's all untrue? This\nmatter\nconcerns the very reputation of\nTracen Academy\nitself!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Halt! Halt, I say—!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Restraint! I call for restraint!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "I must vehemently! Object to that premise \nfirst! There is absolutely no one at our \nacademy who would bring suffering to our \nbeloved Umamusume!!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "First, allow me to reject those claims!\n\nCategorically! <i>Nobody</i> at this academy\nwould\never subject our beloved students\nto such\nsuffering!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "And! The academy will soon issue an \nofficial statement regarding this matter!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Furthermore! The academy will make an\nofficial\ndeclaration regarding this matter\nin due course!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "To all members of the media, please! I \nimplore you to hold your patience and wait \non standby!!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "All members of the media, I beseech\nyou! Please\nbe patient for the time\nbeing!"
     },
     {
       "name": "Reporter B",
-      "text": "\"...Understood. Please make sure to let me \ninterview you next time.\"",
-      "choice_data_list": []
+      "text": "...Very well. But next time you must\ngrant us an\ninterview."
     },
     {
-      "name": "",
-      "text": "With Chairwoman Akikawa's commanding word, \nthe reporters reluctantly dispersed, \ndespite their dissatisfaction...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Thankfully, Director Akikawa's words\nmanage to\nconvince the openly\ndiscontent reporters to\nleave."
     },
     {
-      "name": "",
-      "text": "Afterward, according to Reporter Otonashi, \nwho came to the Chairwoman's office during \nthe strategy meeting—",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "We later hold a meeting in the director's\noffice\nregarding the issue. According to\nReporter\nOtonashi..."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...And so, as a result of focusing too \nheavily on seeking cooperation from \nnumerous media outlets, quality control \nfell behind.",
-      "choice_data_list": []
+      "text": "...Essentially, our focus on gaining the\n\ncooperation of as many media outlets as\npossible\ncaused our quality control to\nlag behind."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "As a result of fabricated articles \ncirculating, unwarranted suspicions have \nfallen upon Trainer <username>...",
-      "choice_data_list": []
+      "text": "And now, owing to that fabricated\narticle making\nthe rounds, Trainer\n\n<username>'s\nreputation has\nbeen cast into doubt."
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I am terribly sorry...!",
-      "choice_data_list": []
+      "text": "I'm terribly sorry!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Absolved! This is not on Otonashi-kun \nalone!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Forgiveness! It is not your responsibility\nalone,\nMiss Otonashi!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "That's right! At the end of the day, the \nperson who writes those weird articles is \nthe most at fault!",
-      "choice_data_list": []
+      "text": "That's right. The real culprit is the\nindividual who\nwrote that strange article\nin the first place!"
     },
     {
-      "name": "Chairwoman Akikawa",
-      "text": "Mm! However, now that things have \nescalated this much, bringing the \nsituation under control will be \ndifficult...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "\"Once a misunderstanding spreads, it's \ndifficult to completely clear it up...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Mm! On the Academy's part, ensuring the \nstudents' safety is of utmost urgency!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "If that's the case, perhaps we really \nshould suspend media press permissions for \nthe time being...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "...! Pl-Please wait!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "There are no excuses for what happened. It \nwas simply because I wasn't strong enough!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "However, without Tracen Academy's \ncooperation, we cannot hold the Twinkle \nStar Climax...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Naturally, we will not cut off all \ncooperation! It is just that for now, we \nshould scale back media coverage until \npublic opinion settles down—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Public interest settling down means the \nworld has completely forgotten about you!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Mmh...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Of course, the reporter and the outlet \nthat published those fabricated articles \nwill never be allowed near any race ever \nagain!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "I know it's a selfish request...! But \nplease, won't you let us continue our \nreporting as we have before?!",
-      "choice_data_list": [
-        "Why go that far...?"
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "We do not want the excitement around the \n\"Twinkle Star Climax\" to fade away.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "\"...This new race is meant for Umamusume \nwho possess the strength worthy of being \ncalled 'the strongest.'\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Robbed of the title of \"Strongest\" by a \ntwist of fate, yet possessing undeniable \nstrength... Such Umamusume, too, can grasp \nthe ultimate glory...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "That is precisely why, when they seize \nvictory, it must be at the absolute peak \nof excitement! I want to make it the \ngrandest spectacle possible!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "I will take full responsibility for this \nsituation and do everything in my power to \nbring it to a close. So please, I beg of \nyou...!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "\"...Query! In that case, how does Ms. \nOtonashi intend to bring the situation \nunder control?!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Your passion has reached me loud and \nclear! However! As Chairwoman of Tracen \nAcademy, I cannot grant approval on \nenthusiasm alone!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "...I would like you to allow me to conduct \nan interview.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "An interview? Hmm, bewildering... To go \nfrom discussing media regulations to being \ninterviewed ourselves.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "We'll call it... 'Up Close and Personal \nwith Trainer <username>'!",
-      "choice_data_list": [
-        "A-An exclusive interview!?"
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes! By reporting on it every day, we can \nbroadcast these wonderful training \nsessions to the entire world.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "\"I figured if we did that, it would serve \nas proof that we aren't engaging in \nproblematic conduct like reckless \ntraining...!\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "And what's more, it can even serve as \npublicity! You really thought this \nthrough... You have my sincere praise!",
-      "choice_data_list": []
+      "name": "Director Akikawa",
+      "text": "Indeed! It won't be easy to rein matters\nin again,\ngiven how far the situation has\nescalated."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "If Reporter Otonashi handles it, perhaps \nit won't be much of a burden on the \nTrainers.",
-      "choice_data_list": [
-        "Indeed... With that much knowledge..."
-      ]
+      "text": "Once a misunderstanding gets out there,\nthere's\nalmost no way to quash it for\ngood..."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Indeed. But from the academy's\nperspective, it's\nimperative that we\nensure the safety of our\nstudents!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "With that in mind, it may be best to\ntemporarily\nsuspend the media's access\nto the academy."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Huh?! Please wait a moment!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "There are no excuses for this incident. <i>I</i>\nallowed\nthings to get out of hand!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "But we simply can't make the Twinkle\nStar Climax\nhappen without your\ncooperation!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "We don't intend to cut ties with the\nevent\ncompletely, of course! But we\nmust scale down\nnews coverage until\npublic sentiment settles\ndown."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Until things settle down? You mean\nwhen the\nevent's been completely\nforgotten by everyone?!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Ngh!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Naturally, the reporter and media outlet\n\nresponsible for that libelous article will\nno longer\nhave any involvement with the\nraces!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I'm aware that this is a selfish request!\nBut would\nyou please allow news\ncoverage to continue as\nnormal?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I don't want this incident to be a damper\non the\nhype surrounding the Twinkle\nStar Climax."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "This race is for <i>all</i> Umamusume who\npossess the\nskills worthy of being\ndubbed the \"greatest.\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "A chance for all those talented runners\nwho, by\nsome cruel twist of fate, let that\nhighest honor\nslip by to claim what is\nrightfully theirs!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Their moment of victory deserves to be\n<i>glorious!</i> I\nwant the atmosphere to be\npositively\nintoxicating!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I'll take responsibility for this situation\nand do\neverything in my power to get it\nunder control. So\nplease!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Misgivings! How exactly do you intend\nto resolve\nthe situation, Miss Otonashi?"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Your passion is evident. However! As\ndirector of\nthis academy, I am not in a\nposition to make\nconcessions on the\ngrounds of passion alone!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Please allow me to conduct a report."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "A report? Hmm, perplexing... We're\nplanning to\nlimit all news coverage, and\nyou're asking to write\na report?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It will be called \"Up Close and Personal\nwith\nTrainer\n<username>\"!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes! By following you every day, I'll be\nable to\nshow the world your amazing\ntraining methods."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "My report will prove that any claims of\nyou\nconducting reckless training sessions\nare\ncompletely unfounded!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "And it could double as a publicity piece!\nYou've\nreally thought this through... I am\nall for it!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "It's just, um... Reporter Otonashi, aren't \nyou very busy right now preparing for the \nnew race?",
-      "choice_data_list": []
+      "text": "I suppose if it's her conducting the\nreport, then it\nshouldn't place too much\nof a burden on you."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"If you suddenly couldn't make it and were \nreplaced by another reporter halfway \nthrough, that would be...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "No, no matter what happens, I will cover \nit. Even if every bone in my body is \nbroken, I'll crawl if I have to!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Because I believe taking responsibility \nmeans doing just that...!",
-      "choice_data_list": []
+      "text": "But aren't you awfully busy preparing for\nthe\nevent, Reporter Otonashi?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "If every bone in her body is shattered, \nI'd really want her to go to the hospital, \nthough... What should we do, Chairwoman?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Mm. That is true... Naturally, I shall \nbear the responsibility on the Academy's \nside, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "Question! Trainer <username>, what is it that you \nwant to do?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "I am convinced that as <chrname>'s partner, you are \nthe only one who can decide this!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "For a moment, I'm at a loss for words. A \nstable training environment or cheers from \nthe crowd— which one is truly better for <chrname>?",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "True, Reporter Otonashi's knowledge would \nbe a powerful weapon. However, can I truly \ntrust her—",
-      "choice_data_list": []
+      "text": "What happens if you need to pull out\nbefore your\nreport's finished, and\nsomeone else has to replace\nyou?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...Please... Just let me chase my dream a \nlittle longer...!",
-      "choice_data_list": [
-        "...I am—",
-        "...I—"
-      ]
+      "text": "Don't worry, I'll be handling this entire\nreport\nmyself, no matter what. Even if I\nbreak every\nbone in my body and have\nto crawl on my\nstomach!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Good morning! We look forward to covering \nyour story up close starting today!",
-      "choice_data_list": []
+      "text": "This will be my way of taking\nresponsibility!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I do hope you'll go to the hospital if that\ncomes\nto pass... What do you think,\nDirector?"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Hmm... Naturally, as head of Tracen\nAcademy, I\nwill bear responsibility for\nthe outcome..."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Query! I'd like to hear your opinion,\nTrainer\n<username>."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "I am of the firm belief that the final\ndecision\nshould rest with you,\n<chrname>'s\npartner!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm suddenly at a loss for words. A stable\ntraining\nenvironment or public\nsupport—which would be\nbest for\n<chrname>'s development?"
+    },
+    {
+      "name": "Monologue",
+      "text": "It's true that Reporter Otonashi's\nknowledge will\nbe a powerful asset. But\ncan I really trust her?"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"...To think you would truly give your \npermission. Truth be told, I am a bit \nsurprised.\"",
-      "choice_data_list": [
-        "Because I didn't want to shut the door on \nanyone's dreams"
-      ]
+      "text": "Please... Allow me to chase my dream for\na little\nwhile longer!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Huh? A dream... you say?",
-      "choice_data_list": [
-        "No, not at all. I look forward to working \nwith you!"
-      ]
+      "text": "Good morning! Today marks the\nbeginning of my\ncoverage on you. I\nappreciate your cooperation!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Y-Yes! I will do everything I can not to \nget in your way!",
-      "choice_data_list": []
+      "text": "To be honest, I'm actually a little\nsurprised that\nyou gave the okay."
     },
     {
-      "name": "",
-      "text": "I still don't know what Reporter \nOtonashi's dream is. However, to deny her \ndesire to chase that dream would be—",
-      "choice_data_list": []
+      "name": "Reporter Otonashi",
+      "text": "Hm? Dream, you say?"
     },
     {
-      "name": "",
-      "text": "It felt as though I would be turning my \nback on the dream I swore to chase \ntogether with <chrname>.",
-      "choice_data_list": []
+      "name": "Reporter Otonashi",
+      "text": "R-right! I'll do my best not to get in your\nway!"
     },
     {
-      "name": "",
-      "text": "\"...And so began the days of being closely \ncovered by Reporter Otonashi!\"",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "I'm still not sure what Reporter\nOtonashi's dream\nis, but if I were to\ndeny her the opportunity to\npursue it..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I feel like I'd also be turning my back on\nthe\ndream that <chrname>\nand I vowed to\nrealize."
+    },
+    {
+      "name": "Monologue",
+      "text": "And so begins Reporter Otonashi's \"up\nclose and\npersonal\" coverage!"
     }
   ]
 }

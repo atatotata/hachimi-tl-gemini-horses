@@ -3,301 +3,231 @@
   "text_block_list": [
     {
       "name": "Twin Turbo",
-      "text": "Anyone hoooome?!",
-      "choice_data_list": []
+      "text": "There you are! I hope you're prepared!"
     },
     {
       "name": "Aston Machan",
-      "text": "Nnn. Master Turbo-san, are you challenging \nour dojo? Is Chan-me being challenged to \nsomething?",
-      "choice_data_list": []
+      "text": "Oooh... Is this some kind of challenge?\nAre you\nhere to duke it out with me?"
     },
     {
       "name": "Twin Turbo",
-      "text": "Yep! Turbo came to challenge you! 'Cause \nTurbo's way better at this than you!",
-      "choice_data_list": [
-        "What do you mean, 'good'?"
-      ]
+      "text": "You betcha! I'm here to brawl! I'll show\nyou my\nway's the yummiest!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hey Turbo, don't just go running off on \nyour own! I only said \"kinda like how Chan \ndoes it.\"",
-      "choice_data_list": []
+      "text": "Hey, Turbo! What do you think you're\ndoing\nrunnin' off like that?! All I said was\nto do it like\nMachan."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Sorry to barge in out of nowhere, you \ntwo~! You see... while we were kneading \nthe udon dough, they told me, \"Ma-chan, you \nshould set an example\"—",
-      "choice_data_list": []
+      "text": "Sorry to barge in on you like this! We\nwere\nstomping udon noodle dough, and\nHishiama said\nto use you as inspiration..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ahaha, you don't need to push that hard! \nTake quick, short steps, like running with \na high pitch cadence. Come on, just like \nAston Machan!",
-      "choice_data_list": []
+      "text": "Ahaha! No need to stomp the living\ndaylights out\nof it. Try to take shorter,\nmore precise steps. Oh!\nPretend you're\nrunning with a short stride, like\nMachan!"
     },
     {
       "name": "Twin Turbo",
-      "text": "Huh!? Not only can Chan run, but she's \nalso good at kneading udon dough!?",
-      "choice_data_list": []
+      "text": "What?! You mean Machan's good at\nrunning <i>and</i>\nmaking udon?!"
     },
     {
       "name": "Twin Turbo",
-      "text": "Still, Turbo's definitely better at it! \nI'll prove it! I'm bringing someone \noverrr!!",
-      "choice_data_list": []
+      "text": "But I bet <i>my</i> noodles will be waaay\nyummier! And\nI'll prove it! I'll be right\nback!"
     },
     {
       "name": "Aston Machan",
-      "text": "Hmm, I see. Got it, got it. Running \nswiftly, Chan-style, with udon in hand. I \nhadn't thought of that idea before.",
-      "choice_data_list": []
+      "text": "Ohhh, I see. What a revelation. It never\noccurred\nto me to use my quick stride to\nmake udon."
     },
     {
       "name": "Twin Turbo",
-      "text": "Whether it's front-running or stomping \nudon dough, Turbo is way stronger at both, \nyou know~~~!! So let's settle this with a \nmatch!!",
-      "choice_data_list": []
+      "text": "I'm the better front runner! And the\nbetter udon\nstomper! 'Cause I'm the\nbest, period! So let's go!"
     },
     {
       "name": "Aston Machan",
-      "text": "Hmm, hmmm... Should I accept this \nchallenge, or decline it?",
-      "choice_data_list": []
+      "text": "Hmmm. Is this a challenge I ought to\naccept or refuse?"
     },
     {
       "name": "Aston Machan",
-      "text": "What do you think, Trainer? Ma-chan thinks \nboth are \"delicious.\"",
-      "choice_data_list": [
-        "(\"Delicious\"... as in?)"
-      ]
+      "text": "What do you think, Trainer? Either way\nsounds\nyummy to me."
     },
     {
-      "name": "",
-      "text": "Either way, cooking together with everyone \nshould be a nice change of pace. Though it \nseems like a rather tiring pastime...",
-      "choice_data_list": [
-        "I'll take you on!",
-        "I think I'll pass this time."
-      ]
+      "name": "Monologue",
+      "text": "Cooking with everyone might be a good\nchange\nof pace. Then again, it could tire\nher out..."
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. Let's leave an unforgettable mark \nwith a blazing-hot battle. Turbo-san, \nchallenge accepted.",
-      "choice_data_list": []
+      "text": "Okay. I'll leave my mark with an\nunforgettable\nclash.\nYou're on, Turbo."
     },
     {
       "name": "Twin Turbo",
-      "text": "All riiiight!! Let's do this, do this, do \nthisss!! Turbo is definitely not gonna \nloseee!!!",
-      "choice_data_list": []
+      "text": "All riiight! Let's go, go, goooo! I'm gonna\nwipe the\nfloor with you!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Good grief... But well, not bad at all. \nHaving rivals gets you all fired up, after \nall!",
-      "choice_data_list": []
+      "text": "Good grief... Still, there's nothing like a\nrival to\nget your competitive juices\nflowing!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"Times like this call for a public \nshowdown! I already got permission from \nthe venue, so go all out!\"",
-      "choice_data_list": []
+      "text": "Know what would make this really epic?\nAn\naudience! I've got permission for you\nto use this\nspace, so knock yourselves\nout!"
     },
     {
-      "name": "Umamusume",
-      "text": "What's this? An udon-kneading showdown? \nThe one who kneads it the best wins? \nAhaha, hilarious~~! Actually, now I wanna \neat some♪",
-      "choice_data_list": []
+      "name": "Students",
+      "text": "What's going on? An udon dough\nstomping\ncompetition?\nWhoever makes\nthe best noodles wins?\nHahaha! That's\nfunny! I wanna try some! ♪"
     },
     {
       "name": "Aston Machan",
-      "text": "The attention is right on point. Mhm, mhm. \nJust as expected, it's delicious.",
-      "choice_data_list": [
-        "(So that's what you meant by \n\"delicious\"...)"
-      ]
+      "text": "So many eyes on me, hehe. It's just as\nyummy as I\nthought."
     },
     {
       "name": "Hishi Akebono",
-      "text": "All right, finished laying out the plastic \ntarp~! Now then... You have 1 minute☆ As \nmany times as you like☆ Whoever can tread \nit the most 'buono' wins~♪",
-      "choice_data_list": []
+      "text": "All right, we've got the dough set in\nplastic bags!\nNow... You have one\nminute! ☆ Step on the\ndough as much or\nas little as you want. ☆ The\nmost buono\nnoodles win! ♪"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Here we go! Ready... GOOO!",
-      "choice_data_list": []
+      "text": "On your maaarks... Get seeet... GO!"
     },
     {
-      "name": "Both",
-      "text": "Taaaah... Taaaaahhh!!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Stooop! That's far enough~☆ All right, \ntime to go chop and boil it~♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And then came the taste test... So, which \none was truly the tastiest—?",
-      "choice_data_list": []
+      "name": "Machan and Turbo",
+      "text": "Hyaaaaah!\nRaaaaah!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Buono~~♪ Your udon is so smooth, chewy, \nand perfectly firm, Ma-chan~♪",
-      "choice_data_list": []
+      "text": "Aaaand... time's up! ☆ Let's slice the\ndough and\nstart boiling! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "The moment of truth has arrived. Let's\nfind out\nwhose udon is the best!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Buono! ♪ Machan's noodles are so\nsmooth and\nfirm! ♪"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Turbo's is a bit stiff, huh. Hmm, maybe \nstepped on it too much...",
-      "choice_data_list": []
+      "text": "Turbo's are a bit <i>too</i> firm. I think they\nmighta\nbeen stomped a bit too heavily..."
     },
     {
       "name": "Twin Turbo",
-      "text": "Guuuuughhh...! It's true... Turbo's is all \nsquishy-squishy~!",
-      "choice_data_list": []
+      "text": "Nnngh! You're right... Mine are kinda\nchewy..."
     },
     {
       "name": "Twin Turbo",
-      "text": "\"Ununununu, Ma-chan's stuff is delicious!! \nSeconds, please!\"",
-      "choice_data_list": []
+      "text": "Grrr! Machan's are so yummy! I want\nseconds!"
     },
     {
-      "name": "Umamusume",
-      "text": "Yours is so delicious, Chan-chan! Isn't \nthis better than the store's? It's a \nflavor I won't soon forget...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Oh my. An unforgettable taste... Could it \nbe that Ma-chan has a talent for making \nudon?",
-      "choice_data_list": []
+      "name": "Students",
+      "text": "Machan's really <i>are</i> good!\nThese might\nbe even better than the stuff from\nthe\nstore!\nI'll never forget this flavor!"
     },
     {
       "name": "Aston Machan",
-      "text": "Ah. Could it be that becoming an udon \nartisan would make me more memorable to \neveryone than running?",
-      "choice_data_list": []
+      "text": "Oh my. An unforgettable flavor? Have I\nfound a\nsecret talent lurking within me?"
     },
     {
       "name": "Aston Machan",
-      "text": "Alright. Let's change course. We'll open a \nsmall shop in a corner of the shopping \ndistrict. Aiming to become a beloved \nclassic across generations.",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "text": "<i>Gasp.</i> Is it possible I can make a bigger\n\nimpression on the world with my noodles\nthan my\nrunning?"
     },
     {
       "name": "Aston Machan",
-      "text": "Fufu, it was just a little joke. That's \nnot the place where Ma-chan is meant to \nshine.",
-      "choice_data_list": []
+      "text": "That settles it. It's time to change\ncourse. I'll open\na noodle stand in the\nshopping district and it'll be\nloved for\ngenerations."
     },
     {
       "name": "Aston Machan",
-      "text": "If Chan-me ends up being overshadowed by \noverly delicious udon, that would defeat \nthe whole purpose.",
-      "choice_data_list": []
+      "text": "Hehe, just kidding. That's not where I'm\nmeant to\nshine."
     },
     {
-      "name": "",
-      "text": "I was relieved that she seemed willing to \ncontinue racing. Aston Machan was elusive \nas ever, but she looked a little happier \nthan usual.",
-      "choice_data_list": []
+      "name": "Aston Machan",
+      "text": "If the noodles took center stage and\n\novershadowed me, it would defeat the\nwhole\npurpose."
+    },
+    {
+      "name": "Monologue",
+      "text": "I breathe a huge sigh of relief. She's\ngoing to\nkeep racing. I can't read her, as\nusual, but Aston\nMachan does seem to\nbe enjoying herself more\nthan normal."
     },
     {
       "name": "Hishi Akebono",
-      "text": "Both are buono-buono~! They both turned \nout super delicious~♪",
-      "choice_data_list": []
+      "text": "Buono! Buono! Both are buono! Beyond\ndelicious,\nboth of you! ♪"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Yeah, both go down super smooth! If I had \nto pick, though... Turbo wins?",
-      "choice_data_list": []
+      "text": "Agreed. They both go down great! But if\nI <i>had</i> to\nchoose one... I'd say Turbo's got\nthe edge."
     },
     {
       "name": "Twin Turbo",
-      "text": "Really!? Turbo won!? Yaaaayyyyy!!!",
-      "choice_data_list": []
+      "text": "Really?! I win?!\nYAAAAAY!"
     },
     {
-      "name": "Umamusume",
-      "text": "Ahahaha, Turbo really worked hard on it, \nafter all. It's super delicious~!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Aston Machan",
-      "text": "And so, Chan-chan's Udon Road ended in \ncomplete and utter 'Defeat.' The end.",
-      "choice_data_list": []
+      "name": "Students",
+      "text": "Ahaha! Turbo always works so hard.\nHer\nnoodles are to die for!"
     },
     {
       "name": "Aston Machan",
-      "text": "It's delicious, isn't it? The memories of \nlively meals shared together remain deeply \netched in one's heart.",
-      "choice_data_list": []
+      "text": "It appears my noodle journey has ended\nearly,\nand in failure. Womp womp."
     },
     {
       "name": "Aston Machan",
-      "text": "Truth be told, at the end of the day, that \nalone makes it totally \"worth it\" for \nMa-chan.",
-      "choice_data_list": [
-        "Wait, you don't care about winning or \nlosing?"
-      ]
+      "text": "Well, today was yummy indeed. I'm sure\nthe great\ntime we had eating udon\ntogether will leave a\nlong-lasting\nimpression on everyone."
     },
     {
       "name": "Aston Machan",
-      "text": "I thought winning dramatically might leave \na lasting impression. However, since I \nlost, it is essential to switch gears.",
-      "choice_data_list": []
+      "text": "In the end, that's the yummiest thing of\nall as far\nas I'm concerned."
     },
     {
       "name": "Aston Machan",
-      "text": "Right now, Chan intends to captivate \neveryone's eyes with a lovely food review.",
-      "choice_data_list": []
+      "text": "A victory would've been more\nmemorable and\ndramatic. At least, that's\nwhat I thought. But since\nI lost, the key\nthing is to roll with it."
     },
     {
       "name": "Aston Machan",
-      "text": "—*huff, puff, blow, blow*... ...*glance*.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "It made sense, and yet it didn't... \nRegardless, the lovely image of her eating \nwith such relish was burned into my mind.",
-      "choice_data_list": []
+      "text": "Now it's time for me to deliver a food\ncritique so\nlovely it roots everyone to\nthe spot in rapt\nattention."
     },
     {
       "name": "Aston Machan",
-      "text": "Indeed. Let's refrain from doing so for \ntoday.",
-      "choice_data_list": []
+      "text": "Hot! <i>Blow, blow, blow...\nGlance.</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "I <i>think</i> I see what she's going for... Either\nway, she\nmakes for a lovely image as she\nrelishes the\nnoodles. I won't be\nforgetting this any time soon."
     },
     {
       "name": "Aston Machan",
-      "text": "By deliberately avoiding a showdown, \nMa-chan's true strength remains an unknown.",
-      "choice_data_list": []
+      "text": "You're right. I suppose I'd better decline\nthis time."
     },
     {
       "name": "Aston Machan",
-      "text": "A changeable future, Schrödinger's Chan. \nThat makes me \"Schröding-chan.\"",
-      "choice_data_list": []
+      "text": "I'm choosing not to participate in this\nchallenge\nso that my true potential\nremains a mystery."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "There's a multitude of potential futures\nwithin me.\nThat's right, I'm Schrödinger's\n\nMachan—Schrödimachan!"
     },
     {
       "name": "Twin Turbo",
-      "text": "Eeeehhh!? What does that even mean!!? Why, \nwhy, whyyyyy!?",
-      "choice_data_list": []
+      "text": "Whaaat?! Oh, come on! Why won't you\ntake on\nmy noodle challenge?!"
     },
     {
       "name": "Aston Machan",
-      "text": "Fufu, are you curious? You're curious, \naren't you?",
-      "choice_data_list": []
+      "text": "Hehe. The question of \"What if?\" is a\ntantalizing\none, isn't it?"
     },
     {
       "name": "Aston Machan",
-      "text": "Intrigued and captivated, everyone's heads \nare already completely filled with \nChan-chan.",
-      "choice_data_list": []
+      "text": "As time goes on, you'll only become\nmore and\nmore curious, until eventually\nI'm the only thing\nyou can think about."
     },
     {
       "name": "Aston Machan",
-      "text": "And with that, let's call it a day. Our \nmatch will be 'next time.' Deal?",
-      "choice_data_list": []
+      "text": "And that's how I'll leave you for today.\nWe can\ncompete later. Someday. Okay?"
     },
     {
       "name": "Twin Turbo",
-      "text": "Ughhh! I don't really get it, but rain \ncheck, okay? We promised! Don't you dare \nforget!",
-      "choice_data_list": []
+      "text": "Nnngh! I don't really get what you're\ntalking\nabout, but you said \"someday\"!\nI'm holding you to\nthat, so don't you\nforget!"
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. Please make sure none of you ever \nforget it, okay?",
-      "choice_data_list": []
+      "text": "I won't. And that goes for everyone else\ntoo."
     },
     {
       "name": "Aston Machan",
-      "text": "About Chan.",
-      "choice_data_list": []
+      "text": "Don't forget about me."
     },
     {
-      "name": "",
-      "text": "I see... Put that way, she couldn't \npossibly be forgotten... Aston Machan \nsmiled with deep satisfaction.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Ahhh... So that's her plan. How could\nanyone\nforget after hearing that?\nAston\nMachan smiles with satisfaction."
     }
   ]
 }

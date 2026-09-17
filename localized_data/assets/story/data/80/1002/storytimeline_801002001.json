@@ -2,52 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day, while walking along the \nriverbank――",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "One day, as I'm walking along the\nriverbank..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Um... Excuse me. Do you have a moment?",
-      "choice_data_list": []
+      "text": "Um... Excuse me, do you have a\nmoment?"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Could you please time my run? It's quite \ndifficult to do properly on my own...",
-      "choice_data_list": [
-        "I don't mind at all.",
-        "Try running at full throttle."
-      ]
+      "text": "Could I ask you to time my run? It's hard\nfor me\nto do it on my own..."
     },
     {
       "name": "Silence Suzuka",
-      "text": ". Well then, see you.",
-      "choice_data_list": []
+      "text": "Thank you very much. I appreciate it."
     },
     {
       "name": "Silence Suzuka",
-      "text": "*pant*, *pant*, *pant*, *pant*...!",
-      "choice_data_list": []
+      "text": "<i>Huff! Huff! Huff!</i>"
     },
     {
-      "name": "Narrator",
-      "text": "Though overwhelmed by Silence Suzuka's \nsheer speed, I helped her with her \ntraining.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Give it my all... Yes, understood. I'm \ncounting on you, then.",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "As I help Silence Suzuka train, I'm\ncompletely\nblown away by her\nincredible speed."
     },
     {
       "name": "Silence Suzuka",
-      "text": "*pant*, *pant*, *pant*, *pant*...! Hehe, \nthis feels so good...!",
-      "choice_data_list": []
+      "text": "As fast as I can? Okay. I'll do my best, so\nplease\nbe sure to get my time."
     },
     {
-      "name": "Narrator",
-      "text": "Silence Suzuka tore past at blistering \nspeed... and simply kept running off into \nthe distance.",
-      "choice_data_list": []
+      "name": "Silence Suzuka",
+      "text": "<i>Huff! Huff! Huff!</i> Hehe! This feels\namazing!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Silence Suzuka races past me at an\nastounding\nspeed... then disappears into\nthe distance."
     }
   ]
 }

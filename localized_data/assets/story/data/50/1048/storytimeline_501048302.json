@@ -2,422 +2,304 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "On the way back from training, I stopped \nby the shopping district...",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "On the way back from training, we stop\nby the\nshopping district..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Hmm...?",
-      "choice_data_list": []
+      "text": "Huh?"
     },
     {
-      "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
-      "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-      "choice_data_list": []
+      "name": "Raffle Clerk",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"Huh, a lottery raffle, huh... ...Hm?\"",
-      "choice_data_list": []
+      "text": "Oh, a raffle... Huh?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "I think it was in my pocket... Wait, or \nwas it in my bag...?",
-      "choice_data_list": []
+      "text": "That's weird, I'm sure I had a ticket in my\npocket...\nIs it in my bag, then?"
     },
     {
-      "name": "",
-      "text": "Tosen Jordan fidgeted around, rummaging \nthrough her skirt pocket.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Ah! It's in my phone case! I bought a new \none for New Year's! I slipped it between \nthe case and the phone... Whoa!?",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "(Slip... clunk!)",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "Tosen Jordan starts fumbling around,\nchecking\nher pockets."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Aaaaah!? My phoooone!?",
-      "choice_data_list": [
-        "The screen isn't cracked!?"
-      ]
+      "text": "Ah! It's in my phone case! I bought a new\none for\nNew Year's! I just slipped it\nbetween the case and\nmy phone,\nand—whoa!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Thunk!</i>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "Ahhh! My phooooone!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "It's a little cracked...",
-      "choice_data_list": [
-        "My condolences..."
-      ]
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Whoaaa... aaahh...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "U-Um... Would you like to draw a lottery \nticket?",
-      "choice_data_list": []
+      "text": "It's a little cracked..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "…………。",
-      "choice_data_list": []
+      "text": "Ugh... Nooo..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "U-um... Do you wanna try the raffle?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Trainerrr...",
-      "choice_data_list": [
-        "I'll do it instead!",
-        "I'll do it for you!"
-      ]
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Y-Yeah. Is that so! Do your best out \nthere!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "In place of Tosen Jordan, I \nenthusiastically crank the raffle wheel!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And the result was—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "……！",
-      "choice_data_list": []
+      "text": "Trainer..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "All right! Good luck!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I give the lever a powerful spin on Tosen\nJordan's\nbehalf!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Awesome! That's amazing! Trainer!! The \ngrand prize?!",
-      "choice_data_list": [
-        "It was worth digging those tickets out!",
-        "It was worth digging those tickets out, \nwasn't it!"
-      ]
+      "text": "...!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"See? See!? That should totally make up \nfor the luck I lost when my smartphone \nscreen cracked!\"",
-      "choice_data_list": []
+      "text": "Holy crap! That's amazing, Trainer! You\ngot the\ngrand prize!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "To cover the broken smartphone...",
-      "choice_data_list": [
-        "It's the grand prize! It's the grand \nprize, so please don't cry!!"
-      ]
+      "text": "You can say that again! Maybe we got\nlucky\nbecause my phone broke!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Yeah.",
-      "choice_data_list": []
+      "text": "My phone... broke..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "A hot spring trip ticket, huh... Hehe, I \nwonder who I should go with~",
-      "choice_data_list": [
-        "You do have plenty of friends, after all.",
-        "You have plenty of friends, after all."
-      ]
+      "text": "...Sure."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Right?! How are you supposed to pick just \none? Totally impossible, right? I wanna go \nwith everyone, but I'm broke!",
-      "choice_data_list": []
+      "text": "It's a coupon for a hot spring getaway,\nright?\nHehe, wonder who I should take..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Maybe we should just sell this ticket and \nall go to karaoke instead~...",
-      "choice_data_list": []
+      "text": "Right?! How am I supposed to choose\njust one\nperson? I want to go with\neveryone, but I'm\nbroke!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "……。",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
+      "text": "Maybe I should just sell the tickets and\ntake\neveryone to karaoke..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "No, I was just thinking that you were the \none who won the grand prize.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Looking closely, it hasn't expired yet. \nI'll think a bit more about who to go \nwith.",
-      "choice_data_list": [
-        "Have fun while you're there."
-      ]
+      "text": "Yeah. I was just thinking about how\nyou're the\none who actually won."
     },
     {
       "name": "Tosen Jordan",
-      "text": "……。",
-      "choice_data_list": []
+      "text": "...It looks like there's ages left before it\nexpires,\nanyway. Guess I'll take my\nsweet time to think\nabout who to bring."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...You're a huge idiot too. Show off at a \ntime like this, at least.",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Like, bragging that you're the one who \nwon it, or something.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "You're really dumb too. You should be\nmaking a\ncase for yourself right now."
     },
     {
       "name": "Tosen Jordan",
-      "text": "!! Whoa, that looks super delicious!",
-      "choice_data_list": [
-        "Do you like Jordan too?",
-        "You like Jordan too?"
-      ]
+      "text": "You could say it's only fair because you\nwon it or\nwhatever."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Yeah, I love it! I love it so much!!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "I see, I see! Good on ya! Here's your \nprize, missy!",
-      "choice_data_list": []
+      "text": "Oh my gosh, that looks delicious!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Hehe. Yay, it's a carrot hamburg steak!",
-      "choice_data_list": [
-        "Looks like you're in a better mood now, \nhuh.",
-        "Looks like you're in a better mood now, \nhuh?"
-      ]
+      "text": "Like them? I <i>love</i> them!"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Is that right? Glad to hear it! Here's your\nprize!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "……！ …………。",
-      "choice_data_list": []
+      "text": "Hehe. All right, a carrot hamburger\nsteak."
     },
     {
       "name": "Tosen Jordan",
-      "text": "That look on your face... is so annoying. \nYou're treating me like a kid, aren't you? \nSeriously...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Still, Tosen Jordan's tail was swishing up \nhigh. It seems she really was happy about \nwinning first prize.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Ooh~! You did it! Look, Trainer just won \n2nd prize!",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ngh, not bad, Trainer!",
-      "choice_data_list": [
-        "It's a whole cardboard box full of \ncarrots!"
-      ]
+      "text": "I hate it when you give me that face...\nLike you're\ntreating me like I'm a little\nkid. Ughhh..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She says that, but her tail is up and\nwagging\nquickly. It looks like she's\ndelighted to have won\nfirst prize."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Whoa! Nicely done! Look, your trainer\ngot the\nsecond prize!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Seriously!? Isn't that crazy!? You can eat \nso much!",
-      "choice_data_list": []
+      "text": "Way to go, Trainer!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"Whoa, who should we invite! City, right? \nPalmer and Helios, the usual crew! Oh, and \nlet's invite Ticket-san sometimes too~\"",
-      "choice_data_list": []
+      "text": "Seriously?! Awesome, we can eat\nourselves sick!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Fuha, this is so much fun~.",
-      "choice_data_list": [
-        "I'm glad to see you've got your energy \nback."
-      ]
+      "text": "Who should I call?! City, of course. And\nPalmer\nand Helios—all the regulars! Oh,\nI should hook\nTickezo up too."
     },
     {
       "name": "Tosen Jordan",
-      "text": "！",
-      "choice_data_list": []
+      "text": "Ohh, this is gonna be so much fun!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...*Sigh*. I forgot that's just the kind \nof person you are.",
-      "choice_data_list": []
+      "text": "...!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Here, hold out your hand.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "A single orange carrot was placed onto my \noutstretched palm.",
-      "choice_data_list": []
+      "text": "<i>Sigh...</i> That's just like you."
     },
     {
       "name": "Tosen Jordan",
-      "text": "...That's your portion. Make sure you eat \nevery last bite.",
-      "choice_data_list": []
+      "text": "Here, give me your hand."
     },
     {
-      "name": "",
-      "text": "Since I was given the carrot, I cooked and \nate it that very day.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "3rd prize~! The prize is \"one carrot\"!",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "name": "Monologue",
+      "text": "She places a single carrot in my palm."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Just one carrot...",
-      "choice_data_list": [
-        "I wanted to win a good prize, but..."
-      ]
+      "text": "...That's your share. Don't waste it."
+    },
+    {
+      "name": "Monologue",
+      "text": "Since she was nice enough to give me a\ncarrot, I\ndecide to cook it up and eat it\nwithin the day."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!"
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Forget about it. The way I am right \nnow, I might've drawn bad luck anyway. \nThis is way better.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Huh!? Little lady! You forgot your prize, \nlittle lady!!",
-      "choice_data_list": [
-        "She looks seriously down in the dumps..."
-      ]
+      "text": "A single carrot..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? What's this bag? Inside... carrot \nchips?",
-      "choice_data_list": [
-        "I tried making this with those carrots \nfrom the other day."
-      ]
+      "text": "It's whatever. If I had tried, I probably\nwouldn't\nhave gotten anything, so..."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Hey! Don't forget your prize!"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...You?",
-      "choice_data_list": []
+      "text": "Huh? What's in this bag? ...Wait, carrot\nchips?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Haha, hilarious. Your wood chips are all \ncompletely different sizes. Cut 'em \nevenly! You're terrible at this~.",
-      "choice_data_list": [
-        "...Even so, I still gave it my all.",
-        "...Even so, I still gave it my all."
-      ]
+      "text": "...You did?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Hmm.",
-      "choice_data_list": []
+      "text": "Haha, oh my gosh, they're all totally\ndifferent\nsizes. C'mon, at least make\nthem match."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Well, I guess I'll take it off your hands.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shopping District Local",
-      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "text": "Yeah?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "…………。",
-      "choice_data_list": [
-        "Sorry..."
-      ]
+      "text": "Well, I'll take 'em."
+    },
+    {
+      "name": "Raffle Clerk",
+      "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize."
+    },
+    {
+      "name": "Monologue",
+      "text": "You obtained:\n<itemname>"
     },
     {
       "name": "Tosen Jordan",
-      "text": "...More importantly. Can you file a claim \nfor a phone repair, I wonder...",
-      "choice_data_list": []
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Is there insurance for that sort of \nthing...?",
-      "choice_data_list": [
-        "...I'll come with you."
-      ]
+      "text": "Forget about it. I wonder if I can get my\nphone\nfixed."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Thaanks...",
-      "choice_data_list": []
+      "text": "I think there was some insurance or\nsomething..."
     },
     {
-      "name": "",
-      "text": "With her shoulders slumped, Tosen Jordan \nleft the shopping district.",
-      "choice_data_list": []
+      "name": "Tosen Jordan",
+      "text": "Thanks..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I leave the shopping district with a\ndispirited\nTosen Jordan."
     }
   ]
 }
