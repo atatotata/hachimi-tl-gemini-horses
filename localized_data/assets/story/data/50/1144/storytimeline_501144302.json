@@ -1,0 +1,432 @@
+{
+  "title": "Raffle Chance!",
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "One day, while accompanying Rose Kingdom on\na stroll through the city streets."
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is officially open~!\nAnd the grand prize is none other than a 'Hot Springs Trip Ticket'!",
+      "color_text_info_list": [
+        {
+          "Text": "温泉旅行券",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "First prize is a 'Special Deluxe Carrot Hamburg Steak'!\nSecond prize is a 'Heaping Mountain of Carrots'!\nThird prize is 'A Single Carrot'!"
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, it's our fun-filled raffle!\nAnyone and everyone is welcome~!"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I see. A \"fukubiki\" lottery, is it?\nI have heard of the concept."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Dating back to the Nara period, it was an auspicious parlor game played with poetry slips for New Year's festivities, was it not?",
+      "choice_data_list": [
+        "Indeed, it is—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, it was likely a bit different from what she imagined.\nI explained the lottery wheel to her, emphasizing that\nit was a much lighter, more common form of amusement."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I see. So one rotates that octagonal... lottery machine, yes?",
+      "choice_data_list": [
+        "Would you care to try it?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Anticipating such an occasion,\nI brought along the raffle ticket I had gotten the other day."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "—Thank you.\nWill you entrust your destiny to me?"
+    },
+    {
+      "name": "Narrator",
+      "text": "Full of vigor, Rose Kingdom turned\nthe lottery crank!"
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—"
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulaaaations!!\nWe have our grand prize winner for the 'Hot Springs Trip Voucher'~~~~!!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "color_text_info_list": [
+        {
+          "Text": "<itemname>",
+          "FontColor": 8
+        }
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I am astonished.\nIt seems I have drawn an unexpectedly grand prize."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Still, a 'Hot Springs Trip Ticket', hm?\nIt seems there is plenty of time before it expires."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "It seems they even offer rose baths depending on the season.\nFloating some six hundred fresh blossoms, they say."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Once the Twinkle Series has quieted down, let us go together.",
+      "choice_data_list": [
+        "Understood—however, this is precious leisure time."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as I was about to add, “Perhaps you might invite your schoolmates rather than someone like myself”――"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Hmm.\nSo you would reject my wish?",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "—Heh.\nForgive me, merely a jest."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "It is precisely because you are the Trainer who has shared in my trials and triumphs that I wish to share in our leisure together as well."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Please, keep some time open for me.",
+      "choice_data_list": [
+        "……As you command."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so it was decided that once things settled down, we would take a hot spring trip together."
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, first prize~!\nYour prize is the 'Special Deluxe Carrot Salisbury Steak'!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "color_text_info_list": [
+        {
+          "Text": "<itemname>",
+          "FontColor": 8
+        }
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "First prize, is it?\nI wonder which of us possesses such fortune—you, or I?"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "\"'A hamburger steak kneaded from A5-rank Kuroge Wagyu and premium pork.\nThe specially crafted demi-glace sauce pairs exquisitely\nwith white rice'—\""
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "(...\nIt looks familiar somehow—no, is it merely my imagination?)",
+      "choice_data_list": [
+        "Lady Rose?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "—Ah, forgive me.\nIt is a splendid delicacy, after all. Let us savor it together tonight."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Thank you for the meal."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "An astonishing amount of meat juice bursts forth.\nJust as the instructions noted, the sauce pairs exquisitely with white rice.\nI could easily find myself asking for a second bowl――"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "――？\n…………。",
+      "choice_data_list": [
+        "What is the matter?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "No—so it truly is as I thought.\nI wondered if it was merely my imagination..."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "It tastes just like the Salisbury steak\nfrom the Western diner I used to frequent."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "It was a downtown yoshoku diner—an unusual spot for our family.\nYet the food was exquisite, and my parents\noften brought me there as a regular."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Knowing I was at a growing age, they would sometimes kindly give me an extra-large helping of rice."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "The owner closed up shop citing advanced age, you see.\nI found myself feeling dreadfully lonely about it."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "To think the day would come when I could eat it again.\nAnd yet, why—?"
+    },
+    {
+      "name": "Narrator",
+      "text": "I looked up information based on the shop name\nwritten in the instruction manual. And then—"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "To think,\nthe son had carried on the family recipe."
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems they had just opened a Western-style restaurant\nin the shopping district specializing in Salisbury steak,\nand happened to be helping out with the lottery this time."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Now it makes sense.\nNo wonder the flavor tasted so familiar."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "The shopping district... Then I can visit again.\n—Trainer.",
+      "choice_data_list": [
+        "Yes, by all means, sometime soon."
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Thank you.\nYou have given me an unexpected pleasure to look forward to."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...Still, to think I would draw such a fateful prize."
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a 'Heaping Mountain of Carrots'!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "color_text_info_list": [
+        {
+          "Text": "<itemname>",
+          "FontColor": 8
+        }
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Still, this quantity of carrots...\nShall we bring them back to the main estate?"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—To cross paths with you beneath this twilight sky...\nMy dear friend."
+    },
+    {
+      "name": "Narrator",
+      "text": "Tanino Gimlet—\nAn Umamusume close with Rose Kingdom, possessing a peculiar way of speaking and an eccentric worldview.",
+      "color_text_info_list": [
+        {
+          "Text": "タニノギムレット",
+          "FontColor": 29
+        }
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh!\nFrom the look of things, you seem to have wandered into a labyrinth, have you not?"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Gimlet-senpai—\nYes, in truth...",
+      "color_text_info_list": [
+        {
+          "Text": "ギムレット",
+          "FontColor": 29
+        }
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Kuku, I see!\nTruly—the guidance of destiny itself!"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...? Guidance, you say?"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "I was wandering the wastes,\nin search of an abundant bounty of carrots."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "I am currently concocting a new mocktail.\nMy ideal—a carotene-rich libation\nstarring none other than the noble carrot."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "The more carrots, the better.\nProvided you have no objections, I shall purchase them all."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Is that so...!\nIndeed, what an extraordinary twist of fate."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I always thoroughly enjoy your mocktails, Senpai.\nPlease, allow me to present you with this gift."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "I see... You have my gratitude.\nOnce it is finished, I shall deliver it to you first."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "A peerless cup—magnificent enough to shatter common sense itself!"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Destroying common sense, is it?\nHa-ha, that sounds just like you, Gimlet-senpai.\nI eagerly await it."
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later, the delivered mocktail was\na refreshingly sweet-and-sour creation—an exquisite flavor\nthat truly shattered conventional wisdom, or so they say."
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Third prize~!\nYour prize is \"one carrot\"!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "color_text_info_list": [
+        {
+          "Text": "<itemname>",
+          "FontColor": 8
+        }
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Carrots, was it—\nI recall hearing of them from Grandmamma once."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "A panacea widely used since millennia past for the prevention and treatment of all manner of ailments—"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "It seems that before their cultivation began, they were exceedingly rare\nand commandingly expensive."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Above all, its appearance and name.\n—Written with the characters for \"person\" and \"to bow down,\" \"ninjin.\"\n...Do you not find it resembles something?",
+      "choice_data_list": [
+        "Don't tell me—"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Yes, a human."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "There is even a legend that Korean ginseng actually sprouts legs and flees into the woods to escape harvest. However—"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "For some time now, a thought had lingered in my mind.\nWas it truly nothing more than a legend?",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "They say certain algae can move via the action of flagella.\nThough it depends on what one defines as a 'plant,'\ncan you truly claim with certainty that they never move?"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Perhaps by spending a moment with this carrot, its true intent may reveal itself to me."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...—What do you think?"
+    },
+    {
+      "name": "Narrator",
+      "text": "Despite it being a completely baseless claim,\nthe sheer intensity of the question made me flinch in spite of myself.\nWas it serious, or was it a joke—?",
+      "choice_data_list": [
+        "I'm not so sure about that..."
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "……。"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Fufu!\nForgive me—I indulged in teasing you a bit too much."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Carrots do not move. Yet, they brim with nourishment.\nTonight, I shall partake with gratitude."
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nHere's a pack of tissues for participating~"
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "color_text_info_list": [
+        {
+          "Text": "<itemname>",
+          "FontColor": 8
+        }
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "A blank, is it?\nI suppose fortune does not favor me so easily."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Still, being able to enjoy the raffle\nwas a pleasant experience."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Next time, I would like to draw something\nother than 'pocket tissues'."
+    },
+    {
+      "name": "Narrator",
+      "text": "Even so, Rose Kingdom looked\nsomewhat disappointed..."
+    }
+  ],
+  "no_wrap": true
+}
