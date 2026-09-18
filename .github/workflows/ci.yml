@@ -1,0 +1,148 @@
+name: CI Validation
+on:
+  push:
+    branches: [main, community, lore, full, full-slim]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: pip install blake3
+      
+      - name: Validate index.json
+        run: |
+          python -c "
+          import json, pathlib, sys
+          
+          idx = json.loads(pathlib.Path('index.json').read_text())
+          files = idx['files']
+          branch = '${{ github.ref_name }}'
+          
+          # Check required fields
+          errors = []
+          if 'base_url' not in idx:
+              errors.append('Missing base_url')
+          if 'zip_url' not in idx:
+              errors.append('Missing zip_url')
+          if 'zip_dir' not in idx:
+              errors.append('Missing zip_dir')
+          
+          # Check base_url matches branch
+          expected_base = f'https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/{branch}/localized_data'
+          if idx.get('base_url') != expected_base:
+              errors.append(f'base_url mismatch: {idx.get(\"base_url\")} != {expected_base}')
+          
+          # Check zip_url matches branch
+          expected_zip = f'https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/{branch}'
+          if idx.get('zip_url') != expected_zip:
+              errors.append(f'zip_url mismatch: {idx.get(\"zip_url\")} != {expected_zip}')
+          
+          # Check zip_dir matches branch
+          expected_dir = f'hachimi-tl-gemini-horses-{branch}/localized_data'
+          if idx.get('zip_dir') != expected_dir:
+              errors.append(f'zip_dir mismatch: {idx.get(\"zip_dir\")} != {expected_dir}')
+          
+          # Check for binary media files (should be excluded unless .full_media allows)
+          media_exts = {'.png', '.usm', '.mp4', '.webm', '.jpg', '.jpeg', '.gif', '.bmp', '.tga', '.psd'}
+          media_files = [f for f in files if pathlib.Path(f['path']).suffix.lower() in media_exts]
+          
+          if media_files:
+              # Check if .full_media allows them
+              full_media = pathlib.Path('.full_media')
+              if not full_media.exists():
+                  errors.append(f'{len(media_files)} media files in index but no .full_media sentinel')
+              else:
+                  sentinel = full_media.read_text()
+                  has_atlas = '+atlas' in sentinel
+                  has_movies = '+movies' in sentinel
+                  
+                  for f in media_files:
+                      p = f['path']
+                      if 'atlas' in p and not has_atlas:
+                          errors.append(f'Atlas file {p} not allowed by .full_media')
+                      elif 'movie' in p and not has_movies:
+                          errors.append(f'Movie file {p} not allowed by .full_media')
+          
+          # Check for Error 102 keys in localize_dict
+          loc_path = pathlib.Path('localized_data/localize_dict.json')
+          if loc_path.exists():
+              loc = json.loads(loc_path.read_text())
+              excluded = [
+                  'SingleMode418025', 'SingleMode418026', 'SingleMode418027', 'SingleMode418028',
+                  'SingleMode418029', 'SingleMode418030', 'SingleMode418031', 'SingleMode418032',
+                  'SingleMode418033', 'SingleMode418034', 'SingleMode418035', 'SingleMode418036', 'SingleMode418037'
+              ]
+              found = [k for k in excluded if k in loc]
+              if found:
+                  errors.append(f'Error 102 keys found in localize_dict: {found}')
+          
+          # Check for empty strings in text_data_dict
+          tdd_path = pathlib.Path('localized_data/text_data_dict.json')
+          if tdd_path.exists():
+              tdd = json.loads(tdd_path.read_text())
+              empty = []
+              for cat, entries in tdd.items():
+                  for idx, text in entries.items():
+                      if not str(text).strip():
+                          empty.append(f'{cat}:{idx}')
+              if empty:
+                  errors.append(f'{len(empty)} empty strings in text_data_dict: {empty[:5]}')
+          
+          # Report
+          if errors:
+              print('VALIDATION FAILED:')
+              for e in errors:
+                  print(f'  - {e}')
+              sys.exit(1)
+          else:
+              print(f'Validation passed: {len(files)} files, branch={branch}')
+          "
+      
+      - name: Sample hash verification
+        run: |
+          python -c "
+          import json, pathlib, hashlib, random, sys
+          
+          def blake3_hash(data):
+              try:
+                  import blake3
+                  return blake3.blake3(data).hexdigest()
+              except ImportError:
+                  return hashlib.sha256(data).hexdigest()
+          
+          idx = json.loads(pathlib.Path('index.json').read_text())
+          files = idx['files']
+          ld = pathlib.Path('localized_data')
+          
+          # Sample 100 random files
+          sample = random.sample(files, min(100, len(files)))
+          mismatches = 0
+          
+          for f in sample:
+              p = ld / f['path']
+              if not p.exists():
+                  mismatches += 1
+                  continue
+              if p.stat().st_size != f['size']:
+                  mismatches += 1
+                  continue
+              h = blake3_hash(p.read_bytes())
+              if h != f['hash']:
+                  mismatches += 1
+          
+          if mismatches > 0:
+              print(f'HASH VERIFICATION FAILED: {mismatches}/{len(sample)} mismatches')
+              sys.exit(1)
+          else:
+              print(f'Hash verification passed: {len(sample)} samples, 0 mismatches')
+          "
