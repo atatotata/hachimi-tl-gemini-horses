@@ -1,3 +1,8 @@
+## 2026-09-18 -- JP Game Update: Rose Kingdom (1144) + 100% master coverage
+- Translated 463 new master.mdb rows (184 character voice lines, 279 text_data rows: story titles, missions, press interviews, skills, and UI).
+- Extracted and translated 119 new timeline assets (112 story timelines + 7 home voice timelines) for new playable character Rose Kingdom (ローズキングダム) and related scenario updates.
+- 100% master.mdb coverage verified (0 untranslated rows). Error 102 exclusion guards verified.
+
 ## 2026-09-17 -- Fix Error 102 (schedule UI keys)
 Excluded 13 career schedule UI keys from localize_dict that were being serialized into network payloads during schedule Load (SingleMode418025..418037: Load, Save changes, Schedule {0}, etc.). Game validates these strings server-side; English text triggers Error 102. localize_dict now has 7,887 keys (13 excluded from 7,900).
 
