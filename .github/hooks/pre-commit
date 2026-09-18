@@ -1,0 +1,57 @@
+#!/bin/bash
+# Pre-commit hook: validate localize_dict.json before commit
+# Install: cp .github/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+# Only run if localize_dict.json is being committed
+if git diff --cached --name-only | grep -q "localized_data/localize_dict.json"; then
+    echo "Running Error 102 key guard..."
+    python tools/master_translate/guard_excluded_keys.py
+    if [ $? -ne 0 ]; then
+        echo "ERROR: Error 102 keys detected in localize_dict.json!"
+        echo "Run: python tools/master_translate/guard_excluded_keys.py --fix"
+        exit 1
+    fi
+fi
+
+# Only run if index.json is being committed
+if git diff --cached --name-only | grep -q "index.json"; then
+    echo "Validating index.json..."
+    python -c "
+import json, pathlib, sys
+
+idx = json.loads(pathlib.Path('index.json').read_text())
+branch = '$(git branch --show-current)'
+errors = []
+
+# Check required fields
+for key in ['base_url', 'zip_url', 'zip_dir', 'files']:
+    if key not in idx:
+        errors.append(f'Missing {key}')
+
+# Check branch-specific URLs
+expected_base = f'https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/{branch}/localized_data'
+if idx.get('base_url') != expected_base:
+    errors.append(f'base_url mismatch: {idx.get(\"base_url\")} != {expected_base}')
+
+# Check for binary media (unless .full_media allows)
+media_exts = {'.png', '.usm', '.mp4', '.webm', '.jpg', '.jpeg', '.gif', '.bmp', '.tga', '.psd'}
+media_files = [f for f in idx['files'] if pathlib.Path(f['path']).suffix.lower() in media_exts]
+
+if media_files:
+    full_media = pathlib.Path('.full_media')
+    if not full_media.exists():
+        errors.append(f'{len(media_files)} media files in index but no .full_media sentinel')
+
+if errors:
+    print('INDEX VALIDATION FAILED:')
+    for e in errors:
+        print(f'  - {e}')
+    sys.exit(1)
+else:
+    print(f'Index validation passed: {len(idx[\"files\"])} files')
+"
+    if [ $? -ne 0 ]; then
+        echo "ERROR: index.json validation failed!"
+        exit 1
+    fi
+fi

@@ -303,11 +303,43 @@ def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
                 added += 1
     return updated, added
 
+def _detect_branch() -> str:
+    """Detect current git branch name."""
+    import subprocess
+    try:
+        r = subprocess.run(["git", "branch", "--show-current"], capture_output=True, text=True)
+        return r.stdout.strip() or "main"
+    except Exception:
+        return "main"
+
+def _validate_branch_urls(idx: dict, branch: str) -> dict:
+    """Ensure base_url, zip_url, zip_dir match the current branch."""
+    expected_base = f"https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/{branch}/localized_data"
+    expected_zip = f"https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/{branch}"
+    expected_dir = f"hachimi-tl-gemini-horses-{branch}/localized_data"
+
+    changed = []
+    if idx.get("base_url") != expected_base:
+        changed.append(f"base_url: {idx.get('base_url')} -> {expected_base}")
+        idx["base_url"] = expected_base
+    if idx.get("zip_url") != expected_zip:
+        changed.append(f"zip_url: {idx.get('zip_url')} -> {expected_zip}")
+        idx["zip_url"] = expected_zip
+    if idx.get("zip_dir") != expected_dir:
+        changed.append(f"zip_dir: {idx.get('zip_dir')} -> {expected_dir}")
+        idx["zip_dir"] = expected_dir
+    if changed:
+        print(f"Auto-corrected branch URLs for '{branch}':")
+        for c in changed:
+            print(f"  {c}")
+    return idx
+
 def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> int:
     """Regenerates index.json using the official Hachimi list schema."""
-    base_url = "https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/localized_data"
-    zip_url = "https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/main"
-    zip_dir = "hachimi-tl-gemini-horses-main/localized_data"
+    branch = _detect_branch()
+    base_url = f"https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/{branch}/localized_data"
+    zip_url = f"https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/{branch}"
+    zip_dir = f"hachimi-tl-gemini-horses-{branch}/localized_data"
     if index_file.exists():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
@@ -317,6 +349,10 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
                 zip_dir = old_idx.get("zip_dir", zip_dir)
         except Exception:
             pass
+    # Always auto-correct URLs to match current branch
+    base_url = f"https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/{branch}/localized_data"
+    zip_url = f"https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/{branch}"
+    zip_dir = f"hachimi-tl-gemini-horses-{branch}/localized_data"
 
     # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
     # Only these two non-JSON files are indexed; all other media stays out,
