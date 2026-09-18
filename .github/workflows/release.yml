@@ -1,0 +1,100 @@
+name: Auto Release
+on:
+  push:
+    tags:
+      - 'text-v*'
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: pip install blake3
+      
+      - name: Extract tag
+        id: tag
+        run: echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+      
+      - name: Build release ZIPs
+        run: |
+          python -c "
+          import io, json, zipfile, subprocess, pathlib, os
+          
+          TAG = '${{ steps.tag.outputs.version }}'
+          RELEASES = pathlib.Path('releases')
+          RELEASES.mkdir(exist_ok=True)
+          
+          MEDIA_EXTS = {'.png', '.usm', '.mp4', '.webm', '.jpg', '.jpeg', '.gif', '.bmp', '.tga', '.psd'}
+          
+          branches = ['main', 'community', 'lore', 'full-slim', 'full']
+          zips = []
+          
+          for b in branches:
+              # Get index from branch
+              r = subprocess.run(['git', 'show', f'origin/{b}:index.json'], capture_output=True)
+              if r.returncode != 0:
+                  print(f'Skipping {b}: no index.json')
+                  continue
+              idx = json.loads(r.stdout)
+              
+              # Build cache from index
+              files = {f['path']: f['hash'] for f in idx['files']}
+              cache = {'base_url': idx['base_url'], 'files': files}
+              
+              # Build ZIP from git archive
+              base = io.BytesIO(subprocess.check_output(['git', 'archive', '--format=zip', b, '--', 'localized_data']))
+              out = RELEASES / f'hachimi-tl-gemini-horses_{b}_{TAG}.zip'
+              
+              with zipfile.ZipFile(io.BytesIO(base.getvalue())) as zin:
+                  names = zin.namelist()
+                  # For full branch, exclude media from ZIP to keep it small
+                  if b == 'full':
+                      kept = [n for n in names if not any(n.startswith(p) for p in [
+                          'localized_data/assets/atlas/',
+                          'localized_data/assets/movies/',
+                          'localized_data/assets/textures/',
+                      ])]
+                  else:
+                      kept = names
+                  
+                  with zipfile.ZipFile(out, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zout:
+                      for n in kept:
+                          zout.writestr(n, zin.read(n))
+                      zout.writestr('.tl_repo_cache_TEMPLATE', json.dumps(cache, ensure_ascii=False))
+                      zout.writestr('INSTALL.txt', f'MANUAL INSTALL for branch: {b}\n1. Extract localized_data/ to hachimi/localized_data_N/\n2. Copy .tl_repo_cache_TEMPLATE to hachimi/.tl_repo_cache_N\n')
+              
+              size_mb = out.stat().st_size / 1048576
+              zips.append(str(out))
+              print(f'Built {out.name} ({size_mb:.1f} MB, {len(kept)} files)')
+          
+          # Write zip list for upload step
+          pathlib.Path('release_zips.txt').write_text('\n'.join(zips))
+          "
+      
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.version }}
+          name: "${{ steps.tag.outputs.version }}"
+          body: |
+            Automated release ${{ steps.tag.outputs.version }}
+            
+            **Branches included:** main, community, lore, full-slim, full
+            
+            **Install:** Extract `localized_data/` to `hachimi/localized_data_N/`, copy `.tl_repo_cache_TEMPLATE` to `hachimi/.tl_repo_cache_N`
+            
+            **Auto-update:** Add repo URL to `.tl_repos` in hachimi config, Hachimi will download and update automatically.
+          files: releases/*.zip
+          draft: false
+          prerelease: false
