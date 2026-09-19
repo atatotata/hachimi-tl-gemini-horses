@@ -1,9 +1,11 @@
 # Changelog
 
-## 2026-09-18 -- Rose Kingdom update
+## 2026-09-18 -- Rose Kingdom update & Full package fix
 - New character Rose Kingdom (1144): 119 story timelines + 7 home voices translated.
 - 463 new master.mdb strings covered (voice lines, titles, skills, UI).
 - 100% master.mdb coverage confirmed.
+- Fixed Full branch index: restored all 1,760 media files (506 MB / ~435 MB ZIP) so Full package selection downloads all UI pictures and movies.
+- Added GitHub Actions CI validation, auto-release workflow, and pre-commit hook.
 
 ## 2026-09-17 -- Error 102 fix
 - 13 schedule UI keys excluded from localize_dict (Load, Save, Schedule, etc.). Game was sending English text to server and getting rejected. 7,887 keys remain.
