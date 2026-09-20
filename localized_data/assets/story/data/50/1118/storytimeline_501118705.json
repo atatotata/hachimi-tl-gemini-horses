@@ -17,7 +17,10 @@
     {
       "name": "Admire Groove",
       "text": "Haaah, haaah... ...Phew.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……俺は散歩してから帰ろうかな）",
+        "（……私は散歩してから帰ろうかな）"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -129,7 +132,9 @@
     {
       "name": "",
       "text": "\"Perhaps as fellow introverts, we can talk \nwith peace of mind... I found myself \nfeeling a bit relieved.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（なんだか、ふたりとも柔らかい雰囲気？）"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -179,30 +184,34 @@
       "name": "Alv & Ayabe",
       "text": "Next time, at a time that doesn't overlap.",
       "choice_data_list": [
-        "How did it end up like this!?",
-        "How does it end up like that!?",
-        "(Ah, so it went in that direction~)"
+        "どうしてそうなるっ！？",
+        "どうしてそうなるのっ！？",
+        "（そっちにいっちゃったか～）"
       ]
     },
     {
       "name": "Alv & Ayabe",
       "text": "……。",
       "choice_data_list": [
-        "...Ah."
+        "どうしてそうなるっ！？",
+        "どうしてそうなるのっ！？",
+        "（そっちにいっちゃったか～）"
       ]
     },
     {
       "name": "Admire Groove",
       "text": "...Were you watching?",
       "choice_data_list": [
-        "Ah, I just happened to be passing by, \nthat's all!",
-        "Yeah, but I just happened to be passing \nby!"
+        "……あっ"
       ]
     },
     {
       "name": "",
       "text": "I hurriedly explained that I certainly \nhadn't followed her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、でも偶然通りかかっただけだから！",
+        "うん、でも偶然通りかかっただけだから！"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -219,7 +228,9 @@
     {
       "name": "Admire Groove",
       "text": "...It seems something unnecessary is on \nyour mind.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（交流は芽生えなかったかぁ……）"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -231,7 +242,9 @@
     {
       "name": "",
       "text": "She was unwavering to the very end— and \nseeing that brought a fond smile to my \nface.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そっか"
+      ]
     },
     {
       "name": "",
@@ -243,7 +256,9 @@
     {
       "name": "Admire Vega",
       "text": "...Well then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（おひとり様同士だと、そうならないかぁ）"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -261,14 +276,16 @@
       "name": "Admire Groove",
       "text": "......Yeah, looks good.",
       "choice_data_list": [
-        "(I should head home too.)",
-        "(I should head home too.)"
+        "（まあ、らしいといえばらしいかな……）"
       ]
     },
     {
       "name": "",
       "text": "So as not to disturb her alone time, I \nquietly left the scene.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（俺も帰ろう）",
+        "（私も帰ろう）"
+      ]
     }
   ]
 }

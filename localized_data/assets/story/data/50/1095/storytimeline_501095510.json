@@ -203,42 +203,45 @@
       "name": "Narrator",
       "text": "What she showed me then was an elaborately \ncrafted \"Hero's Belt,\" its center adorned \nwith constellation motifs.",
       "choice_data_list": [
-        "Oh, that's so cool!",
-        "Wow, so cool!"
+        "ん？どうしたんだ？",
+        "ん？どうしたの？"
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "Ehehe, pretty cool, right? It's finally \ndone! A Transformation Belt! I made it \ntogether with Believe-senpai!",
       "choice_data_list": [
-        "Huh, is that so?",
-        "Wait, really?"
+        "おお、カッコいいな！",
+        "わあ、カッコいいね！"
       ]
     },
     {
       "name": "Believe",
       "text": "Yes. I'll take care of the decorations.",
       "choice_data_list": [
-        "Huh... You can really tell how much \nthought went into this!",
-        "Huh... You can really tell how much \nthought went into this!",
-        "What are you going to do with this?",
-        "What are you going to do with this?"
+        "え、そうなのか？",
+        "え、そうなの？"
       ]
     },
     {
       "name": "Believe",
       "text": "Yes. I'll take care of the decorations.",
       "choice_data_list": [
-        "Huh... You can really tell how much \nthought went into this!",
-        "Huh... You can really tell how much \nthought went into this!",
-        "What are you going to do with this?",
-        "What are you going to do with this?"
+        "へえ……何だか、こだわりを感じるな！",
+        "へえ……何だか、こだわりを感じるね！",
+        "これを使って、何をするんだ？",
+        "これを使って、何をするの？"
       ]
     },
     {
       "name": "Believe",
       "text": "......Thank you very much.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "へえ……何だか、こだわりを感じるな！",
+        "へえ……何だか、こだわりを感じるね！",
+        "これを使って、何をするんだ？",
+        "これを使って、何をするの？"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -266,7 +269,10 @@
     {
       "name": "Believe",
       "text": "No, I...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、ビリーヴも出るのか？",
+        "えっ、ビリーヴも出るの？"
+      ]
     },
     {
       "name": "Biko Pegasus",

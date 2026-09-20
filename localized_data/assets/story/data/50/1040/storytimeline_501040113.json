@@ -19,11 +19,17 @@
     },
     {
       "name": "Gold City",
-      "text": "You too. It's not often you come along\nwith me to\nmy shoots. So, what do you\nthink?"
+      "text": "You too. It's not often you come along\nwith me to\nmy shoots. So, what do you\nthink?",
+      "choice_data_list": [
+        "お疲れ、シチー"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Well, we are pros."
+      "text": "Well, we are pros.",
+      "choice_data_list": [
+        "プロって感じ！"
+      ]
     },
     {
       "name": "Gold City",
@@ -43,7 +49,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Thanks. I'll contact the editor to have\nthem reach\nout."
+      "text": "Thanks. I'll contact the editor to have\nthem reach\nout.",
+      "choice_data_list": [
+        "わかった、確認しておく！"
+      ]
     },
     {
       "name": "Gold City",
@@ -135,7 +144,10 @@
     },
     {
       "name": "",
-      "text": "Is it frustration or disappointment?\nPerhaps she's\nhurt that her serious\nattempt at running is being\ntreated as a\nmere accessory."
+      "text": "Is it frustration or disappointment?\nPerhaps she's\nhurt that her serious\nattempt at running is being\ntreated as a\nmere accessory.",
+      "choice_data_list": [
+        "（声が少しだけ震えてる……）"
+      ]
     },
     {
       "name": "",
@@ -143,15 +155,24 @@
     },
     {
       "name": "Gold City",
-      "text": "Huh? ...Trainer?"
+      "text": "Huh? ...Trainer?",
+      "choice_data_list": [
+        "彼女の走りだけを見てください"
+      ]
     },
     {
       "name": "Photo Shoot Staff",
-      "text": "Um... Okay?"
+      "text": "Um... Okay?",
+      "choice_data_list": [
+        "シチーは“今”のために走るんです"
+      ]
     },
     {
       "name": "Photo Shoot Staff",
-      "text": "Um, of course, the editorial team is\ngoing to\ncome, but..."
+      "text": "Um, of course, the editorial team is\ngoing to\ncome, but...",
+      "choice_data_list": [
+        "レースを見ればわかります。来てください！"
+      ]
     },
     {
       "name": "Photo Shoot Staff",
@@ -187,11 +208,18 @@
     },
     {
       "name": "Gold City",
-      "text": "I'm glad you realize that. My coworkers\nare all\nreally good people, so just be\ncareful."
+      "text": "I'm glad you realize that. My coworkers\nare all\nreally good people, so just be\ncareful.",
+      "choice_data_list": [
+        "余計な口を挟んでごめん"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "でも、弱気に笑う君を見たくなかった",
+        "でも、弱気に笑う貴方を見たくなかった"
+      ]
     },
     {
       "name": "Gold City",
@@ -223,7 +251,10 @@
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "走りでみんなに伝えよう"
+      ]
     },
     {
       "name": "Gold City",
@@ -235,7 +266,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Nothing. Let's go practice!"
+      "text": "Nothing. Let's go practice!",
+      "choice_data_list": [
+        "何が？"
+      ]
     }
   ]
 }

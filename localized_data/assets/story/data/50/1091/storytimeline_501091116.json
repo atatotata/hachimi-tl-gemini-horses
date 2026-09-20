@@ -37,13 +37,15 @@
       "name": "Narrator",
       "text": "(Thud...!)",
       "choice_data_list": [
-        "Vivlos!"
+        "ヴィブロス？"
       ]
     },
     {
       "name": "Narrator",
       "text": "—Vivlos collapsed out of nowhere, so we \nrushed her straight to the hospital. The \nresults of her examination were...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ヴィブロス！"
+      ]
     },
     {
       "name": "Doctor",
@@ -115,7 +117,9 @@
     {
       "name": "Vivlos",
       "text": "...Hey, Trainer-san.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（落ち込んでる……当たり前か）"
+      ]
     },
     {
       "name": "Vivlos",
@@ -138,14 +142,16 @@
       "name": "Narrator",
       "text": "Depending on her performance in the \nNakayama Kinen, we might be able to judge \nwhether she can withstand a grueling \noverseas campaign.",
       "choice_data_list": [
-        "Let's take it one step at a time and \nlisten to your body again, alright?",
-        "Let's take it one step at a time and \nlisten to your body again, okay?"
+        "……『中山記念』で確かめよう"
       ]
     },
     {
       "name": "Vivlos",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "また体と向き合って一歩ずつ、な？",
+        "また体と向き合って一歩ずつ、ね？"
+      ]
     },
     {
       "name": "Verxina",
@@ -182,7 +188,9 @@
     {
       "name": "Verxina",
       "text": "...Yes, indeed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……とりあえず、学園に戻ろうか"
+      ]
     },
     {
       "name": "Verxina",
@@ -240,13 +248,15 @@
       "name": "Narrator",
       "text": "\"Right now, a heavy atmosphere hangs over \nher and everyone around her. I want to at \nleast do something to brighten her mood.\"",
       "choice_data_list": [
-        "(If it's Vivlos, it's gotta be—that, \nright?)"
+        "（息抜きをさせてあげたいな）"
       ]
     },
     {
       "name": "Vivlos",
       "text": "Kyaaah! Suuuuper celeb!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ヴィブロスなら、やっぱり――アレか）"
+      ]
     },
     {
       "name": "Narrator",
@@ -284,21 +294,23 @@
       "name": "Verxina",
       "text": "Was it really alright for us to join you?",
       "choice_data_list": [
-        "Of course! Have fun!"
+        "（喜んでくれてよかった）"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...Enjoy it, huh?",
       "choice_data_list": [
-        "You like this kind of thing, don't you?",
-        "You like this sort of thing, don't you?"
+        "もちろん！楽しんで"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...! Ah, no...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君はこういうの、好きじゃない？",
+        "貴方はこういうの、好きじゃない？"
+      ]
     },
     {
       "name": "Verxina",
@@ -332,14 +344,17 @@
       "name": "Verxina",
       "text": "Huh?",
       "choice_data_list": [
-        "It'll be a fun memory, right?",
-        "It'll be a fun memory, won't it?"
+        "どうして謝るんだ？",
+        "どうして謝るの？"
       ]
     },
     {
       "name": "Vivlos",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "楽しい思い出だろう？",
+        "楽しい思い出でしょう？"
+      ]
     },
     {
       "name": "Vivlos",
@@ -416,7 +431,9 @@
     {
       "name": "Cheval Grand",
       "text": "...It's so dazzling. And yet, I...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（シュヴァルグランは……）"
+      ]
     },
     {
       "name": "Vivlos",
@@ -439,7 +456,10 @@
     {
       "name": "Vivlos",
       "text": "So Cheval-chi, you too—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -497,7 +517,10 @@
     {
       "name": "Vivlos",
       "text": "...It's okay. I understand Cheval-chi, \nafter all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ",
+        "うん"
+      ]
     },
     {
       "name": "Narrator",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "What do you mean?"
+      "text": "What do you mean?",
+      "choice_data_list": [
+        "誰かと一緒にトレーニングなんて珍しいな",
+        "誰かと一緒にトレーニングなんて珍しいね"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -23,7 +27,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Our schedules just happened to overlap."
+      "text": "Our schedules just happened to overlap.",
+      "choice_data_list": [
+        "え、そうなのか？",
+        "え、そうなの？"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -55,7 +63,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yes, well... I wouldn't mind that. But how\nabout\nyou, Ayabe?"
+      "text": "Yes, well... I wouldn't mind that. But how\nabout\nyou, Ayabe?",
+      "choice_data_list": [
+        "2人で一緒にトレーニングしたら？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -91,7 +102,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Yeah."
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "今日はこのくらいにしておこうか"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -115,7 +129,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Really? I'm not so sure about that..."
+      "text": "Really? I'm not so sure about that...",
+      "choice_data_list": [
+        "すごいな、君たち……",
+        "すごいね、貴方たち……"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -135,11 +153,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Yeah. I get that too."
+      "text": "Yeah. I get that too.",
+      "choice_data_list": [
+        "運命的なものがあるのかも",
+        "いい友人だな",
+        "いい友人だね"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "Don't be so dramatic."
+      "text": "Don't be so dramatic.",
+      "choice_data_list": [
+        "運命的なものがあるのかも",
+        "いい友人だな",
+        "いい友人だね"
+      ]
     },
     {
       "name": "Admire Vega",

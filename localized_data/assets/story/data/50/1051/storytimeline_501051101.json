@@ -7,7 +7,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Nishino Flower offers me a New Year's\ngreeting as\nwe begin our first meeting of\nthe year."
+      "text": "Nishino Flower offers me a New Year's\ngreeting as\nwe begin our first meeting of\nthe year.",
+      "choice_data_list": [
+        "おめでとうございます"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -19,11 +22,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Nishino Flower's smile is dazzling. As I\nthink about\nhow this year is shaping up\nto be as peaceful as\nthe last one, I ask\nher a question."
+      "text": "Nishino Flower's smile is dazzling. As I\nthink about\nhow this year is shaping up\nto be as peaceful as\nthe last one, I ask\nher a question.",
+      "choice_data_list": [
+        "こちらこそよろしく！"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "今年の目標はある？"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -35,7 +44,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Mm-hmm!"
+      "text": "Mm-hmm!",
+      "choice_data_list": [
+        "おっきく……？"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -55,7 +67,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Urgh... I know you're right, but still..."
+      "text": "Urgh... I know you're right, but still...",
+      "choice_data_list": [
+        "焦らなくて大丈夫だよ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -67,11 +82,19 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...Jumping?"
+      "text": "...Jumping?",
+      "choice_data_list": [
+        "いっぱいジャンプしに行く？",
+        "おっきい子の話を聞こう！",
+        "大きくなる勉強をしようか"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Wow! Everyone's bouncing on\ntrampolines!"
+      "text": "Wow! Everyone's bouncing on\ntrampolines!",
+      "choice_data_list": [
+        "いいところがあるよ！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -79,7 +102,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "But everyone here is smaller than me...\nWouldn't I\njust get in their way?"
+      "text": "But everyone here is smaller than me...\nWouldn't I\njust get in their way?",
+      "choice_data_list": [
+        "遊んでおいで"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -223,11 +249,17 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "That is quite an enticing offer.\nHowever..."
+      "text": "That is quite an enticing offer.\nHowever...",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "It seems your trainer is opposed to the\nnotion.\nAnd besides, such an experiment\noffers no merit\nfor me. Not at this time,\nanyway."
+      "text": "It seems your trainer is opposed to the\nnotion.\nAnd besides, such an experiment\noffers no merit\nfor me. Not at this time,\nanyway.",
+      "choice_data_list": [
+        "ちょっと持ち帰らせて……！"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -243,7 +275,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yeah! So I'll do my best!"
+      "text": "Yeah! So I'll do my best!",
+      "choice_data_list": [
+        "ああなれるかもな",
+        "ああなれるかもね"
+      ]
     }
   ]
 }

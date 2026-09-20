@@ -151,7 +151,11 @@
     },
     {
       "name": "Dream Journey",
-      "text": "...Fufu."
+      "text": "...Fufu.",
+      "choice_data_list": [
+        "あの人形って……",
+        "あ、アストンマーチャン？"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -166,7 +170,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Nfufu, which means you've fallen right \ninto the trap. ...Both you and me, right?"
+      "text": "Nfufu, which means you've fallen right \ninto the trap. ...Both you and me, right?",
+      "choice_data_list": [
+        "？？？"
+      ]
     }
   ]
 }

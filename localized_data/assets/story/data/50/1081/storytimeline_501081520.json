@@ -22,7 +22,10 @@
     {
       "name": "Espoir City",
       "text": "Huh? You can tell just by looking. It's \nfree throws, free throws.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
     },
     {
       "name": "Espoir City",
@@ -115,7 +118,10 @@
     {
       "name": "Teammate A",
       "text": "Um... I heard Espo-san was still \npracticing. So I thought I'd come take a \nquick peek...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "やあ、何を見ているんだ？",
+        "やあ、何を見ているの？"
+      ]
     },
     {
       "name": "Espoir City",
@@ -147,7 +153,9 @@
     {
       "name": "Teammate A",
       "text": "Incredible... Espo-san was struggling so \nmuch at first...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "すごい、モノにした……！"
+      ]
     },
     {
       "name": "Teammate B",
@@ -159,7 +167,9 @@
     {
       "name": "Teammates",
       "text": "—...Yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "まだ間に合うんじゃない？"
+      ]
     },
     {
       "name": "Teammates",
@@ -238,24 +248,27 @@
       "name": "Espoir City",
       "text": "\"Yeah... Wait, what's with that smirk?! \nY-You think I was getting carried away or \nsomething?! Well, you're wrong, alright?!\"",
       "choice_data_list": [
-        "It's thanks to you firing everyone up.",
-        "It's all thanks to you firing everyone up",
-        "Anyway, congratulations on the victory!"
+        "やったな、エスポ！",
+        "やったね、エスポ！"
       ]
     },
     {
       "name": "Espoir City",
       "text": "\"Yeah... Wait, what's with that smirk?! \nY-You think I was getting carried away or \nsomething?! Well, you're wrong, alright?!\"",
       "choice_data_list": [
-        "It's thanks to you firing everyone up.",
-        "It's all thanks to you firing everyone up",
-        "Anyway, congratulations on the victory!"
+        "君がみんなに気合いを入れたおかげだな",
+        "貴方がみんなに気合いを入れたおかげだね",
+        "ともかく優勝おめでとう！"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Don't go saying I got them fired up... \nThey just jumped on the bandwagon on their \nown.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君がみんなに気合いを入れたおかげだな",
+        "貴方がみんなに気合いを入れたおかげだね",
+        "ともかく優勝おめでとう！"
+      ]
     },
     {
       "name": "Teammate A",

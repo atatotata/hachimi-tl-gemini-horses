@@ -63,11 +63,18 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "The most prestigious of households?"
+      "text": "The most prestigious of households?",
+      "choice_data_list": [
+        "“華麗なる一族”かな"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "They're an old and noble family known\nnot only in\nracing world, but also in the\npolitical and\nfinancial worlds as well.\nTheir dignity is as lofty as\ntheir social\nstanding."
+      "text": "They're an old and noble family known\nnot only in\nracing world, but also in the\npolitical and\nfinancial worlds as well.\nTheir dignity is as lofty as\ntheir social\nstanding.",
+      "choice_data_list": [
+        "ああ、厳格な伝統ある家だ",
+        "うん、厳格な伝統ある家だよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +94,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "There's nothing for you to worry about!\nI've got a\nsecret plan!"
+      "text": "There's nothing for you to worry about!\nI've got a\nsecret plan!",
+      "choice_data_list": [
+        "え？でも断られるような……"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,7 +133,11 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Secrets?"
+      "text": "Secrets?",
+      "choice_data_list": [
+        "いいのか、そんな秘密を？",
+        "いいの、そんな秘密？"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -319,7 +333,11 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Maybe I do! However small a grain of\nsand may\nbe at the beginning..."
+      "text": "Maybe I do! However small a grain of\nsand may\nbe at the beginning...",
+      "choice_data_list": [
+        "それは……俺？",
+        "それは……私？"
+      ]
     },
     {
       "name": "Seeking the Pearl",

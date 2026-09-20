@@ -19,11 +19,18 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes?"
+      "text": "Yes?",
+      "choice_data_list": [
+        "……たとえ観客が俺だけでも",
+        "……たとえ観客が私だけでも"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Umm, but... The myriad spectators here\nin the\nstands are praising your\nachievement."
+      "text": "Umm, but... The myriad spectators here\nin the\nstands are praising your\nachievement.",
+      "choice_data_list": [
+        "『最強』はうちのウマ娘だと断言できます"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -35,15 +42,25 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Huh? O-of course I do. The Twinkle Star\nClimax\nwas a massive success and—"
+      "text": "Huh? O-of course I do. The Twinkle Star\nClimax\nwas a massive success and—",
+      "choice_data_list": [
+        "言いきれてないじゃないですか"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "貴方は自分の中の『最強』を信じている"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...The greatest in my heart?"
+      "text": "...The greatest in my heart?",
+      "choice_data_list": [
+        "俺と同じです",
+        "私と同じです"
+      ]
     },
     {
       "name": "Young Umamusume",
@@ -99,7 +116,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...You might be right. Everyone places\ntheir hopes\non the shoulders of the\nUmamusume they believe\nin."
+      "text": "...You might be right. Everyone places\ntheir hopes\non the shoulders of the\nUmamusume they believe\nin.",
+      "choice_data_list": [
+        "夢の数だけ『最強』はあるのかも"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -111,7 +131,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And thus, in both name and reality,\n\n<chrname> becomes the\ngreatest\nUmamusume."
+      "text": "And thus, in both name and reality,\n\n<chrname> becomes the\ngreatest\nUmamusume.",
+      "choice_data_list": [
+        "……<chrname>が、『最強』です！"
+      ]
     },
     {
       "name": "Monologue",

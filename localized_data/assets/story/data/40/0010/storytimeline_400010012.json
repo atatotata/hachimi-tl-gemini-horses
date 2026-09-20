@@ -73,13 +73,17 @@
       "name": "Haiseiko",
       "text": "—<nickname>-chan, were you feeling fired up?",
       "choice_data_list": [
-        "Yes, very much!"
+        "<nickname>、勝つぞ！",
+        "<nickname>、勝つよ！",
+        "<chrname>様、勝ちましょう！"
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "All the other runners were radiating pure \nambition, too.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい、とっても！"
+      ]
     },
     {
       "name": "Speed Symboli",
@@ -101,7 +105,9 @@
     {
       "name": "Saint Lite",
       "text": "Oh, my apologies.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "セントライトさん？"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -118,7 +124,9 @@
     {
       "name": "Speed Symboli",
       "text": "\"...'The strongest' was your epithet as \nwell, wasn't it?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Saint Lite",

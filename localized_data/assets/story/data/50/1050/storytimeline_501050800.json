@@ -43,7 +43,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, I decide to pitch in, and\neveryone starts\ntaking down the set. We\nseem to be making\npretty good\nheadway, but..."
+      "text": "And so, I decide to pitch in, and\neveryone starts\ntaking down the set. We\nseem to be making\npretty good\nheadway, but...",
+      "choice_data_list": [
+        "それじゃあ、俺も手伝うよ",
+        "それじゃあ、私も手伝うよ"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -71,7 +75,10 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Sure, we kinda banged things up a bit,\nbut we still\ngot the job done!"
+      "text": "Sure, we kinda banged things up a bit,\nbut we still\ngot the job done!",
+      "choice_data_list": [
+        "みんな、お疲れ様"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -95,7 +102,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "<i>Siiigh...</i> Damn it. Let's just get this over\nwith."
+      "text": "<i>Siiigh...</i> Damn it. Let's just get this over\nwith.",
+      "choice_data_list": [
+        "最後まで手伝うよ",
+        "効率のいいやり方を考えよう"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -123,7 +134,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm not doing this out of the kindness of\nmy heart.\nI'm only here for the reward."
+      "text": "I'm not doing this out of the kindness of\nmy heart.\nI'm only here for the reward.",
+      "choice_data_list": [
+        "でも、最後まで付き合ってあげるんだな",
+        "でも、最後まで付き合ってあげるんだね"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -139,7 +154,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I continue the game metaphor and tell\nher to\ndecide where to position her\nparty members."
+      "text": "I continue the game metaphor and tell\nher to\ndecide where to position her\nparty members.",
+      "choice_data_list": [
+        "ゲームのクエストになぞらえて考えよう"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -155,11 +173,18 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...You're a villager."
+      "text": "...You're a villager.",
+      "choice_data_list": [
+        "ちなみに、俺は？",
+        "ちなみに、私は？"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "And as a villager, you get the fun task of\ndoing all\nof the menial odd jobs. Now\nget to work."
+      "text": "And as a villager, you get the fun task of\ndoing all\nof the menial odd jobs. Now\nget to work.",
+      "choice_data_list": [
+        "えっ"
+      ]
     },
     {
       "name": "Monologue",

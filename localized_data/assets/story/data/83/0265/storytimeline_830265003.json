@@ -15,13 +15,16 @@
     {
       "text": "The turnout today gave the event a \nfestival-like feel that didn't pale in \ncomparison to any other race day.",
       "choice_data_list": [
-        "The racers seem pretty nervous too.",
-        "The racers seem pretty nervous too."
+        "盛り上がってるな～"
       ]
     },
     {
       "name": "Festive Uma",
-      "text": "H-Hey! Is the ribbon on the back of my \noutfit crooked?"
+      "text": "H-Hey! Is the ribbon on the back of my \noutfit crooked?",
+      "choice_data_list": [
+        "これは出走者も結構緊張してそうだ",
+        "これは出走者も結構緊張してそう"
+      ]
     },
     {
       "name": "Level-headed Uma",
@@ -136,7 +139,10 @@
     },
     {
       "name": "Admire Groove",
-      "text": "<i>Hah, hah… </i> ………"
+      "text": "<i>Hah, hah… </i> ………",
+      "choice_data_list": [
+        "なんて走り……でも、なんか――"
+      ]
     },
     {
       "name": "Admire Groove",

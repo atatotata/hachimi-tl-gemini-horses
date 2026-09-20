@@ -17,14 +17,16 @@
       "name": "Dantsu Flame",
       "text": "……。",
       "choice_data_list": [
-        "What's wrong?",
-        "What's wrong?"
+        "よし、1回休憩にしようか"
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "Ah, no! I'm off to take a break!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうした？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "",
@@ -46,7 +48,9 @@
     {
       "name": "Dantsu Flame",
       "text": "Ah, that's right, isn't it...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、次は下半身の筋トレメニューだよ"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -69,7 +73,10 @@
     {
       "name": "Dantsu Flame",
       "text": "...Um... Nothing in particular from my \nend. Thank you very much!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何か意見はないか？",
+        "何か意見はない？"
+      ]
     },
     {
       "name": "",
@@ -96,7 +103,9 @@
     {
       "name": "",
       "text": "It was only a slight concern, but... in my \nconversations with Dants Flame, I somehow \nfelt a lack of personal will from her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（それに――）"
+      ]
     },
     {
       "name": "Fellow Trainer",
@@ -114,7 +123,10 @@
     {
       "name": "",
       "text": "—A few days later.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うーん……そうだよなぁ",
+        "うーん……そうだよねぇ"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -348,21 +360,24 @@
       "name": "Dantsu Flame",
       "text": "Trainer, let's go grab a bite to eat. Is \nthere anything specific you want to eat?",
       "choice_data_list": [
-        "...Ramen, I think. How about you?",
-        "...Ramen, perhaps. What about you?"
+        "（やっぱり、言うべきことなのか）",
+        "（やっぱり、言うべきことなのかな）"
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "Ah, I want to eat ramen too!",
       "choice_data_list": [
-        "...Really?"
+        "……ラーメンかな。君は？",
+        "……ラーメンかな。貴方は？"
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "...? Yes! It's... really true, you know?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……本当に？"
+      ]
     },
     {
       "name": "",
@@ -385,7 +400,10 @@
     {
       "name": "",
       "text": "Before I could point out the gentle \ndemeanor ingrained in her as a flaw, I \nneeded just a little more certainty.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、君も食べたいのならよかった",
+        "いや、貴方も食べたいのならよかった"
+      ]
     }
   ]
 }

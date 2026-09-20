@@ -111,7 +111,11 @@
     },
     {
       "name": "Monologue",
-      "text": "It's difficult to know what the future\nholds for an\nUmamusume..."
+      "text": "It's difficult to know what the future\nholds for an\nUmamusume...",
+      "choice_data_list": [
+        "ああ、そうだな……",
+        "うん、そうだね……"
+      ]
     },
     {
       "name": "Monologue",
@@ -227,11 +231,18 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Huh? What are you thanking me for all\nof a\nsudden?"
+      "text": "Huh? What are you thanking me for all\nof a\nsudden?",
+      "choice_data_list": [
+        "ありがとう、キタサンブラック"
+      ]
     },
     {
       "name": "Kitasan Black",
-      "text": "A-aw, cut that out! Don't just say stuff\nlike that\nout of nowhere! I'm the one\nwho should be\nthanking you!"
+      "text": "A-aw, cut that out! Don't just say stuff\nlike that\nout of nowhere! I'm the one\nwho should be\nthanking you!",
+      "choice_data_list": [
+        "君の力になれてよかった……本当に",
+        "貴方の力になれてよかった……本当に"
+      ]
     },
     {
       "name": "Kitasan Black",

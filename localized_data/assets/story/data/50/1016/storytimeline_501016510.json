@@ -15,7 +15,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...What are you doing? Let's go."
+      "text": "...What are you doing? Let's go.",
+      "choice_data_list": [
+        "（視線を感じるような……？）"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -31,7 +34,11 @@
     },
     {
       "name": "???",
-      "text": "Uh, uh-oh!"
+      "text": "Uh, uh-oh!",
+      "choice_data_list": [
+        "誰かいるのか？",
+        "誰かいるの？"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -51,7 +58,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?"
+      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?",
+      "choice_data_list": [
+        "ウオッカだったのか",
+        "ウオッカだったんだ"
+      ]
     },
     {
       "name": "Vodka",
@@ -67,7 +78,10 @@
     },
     {
       "name": "Vodka",
-      "text": "No way! It's... an homage. I totally\nrespect Brian!"
+      "text": "No way! It's... an homage. I totally\nrespect Brian!",
+      "choice_data_list": [
+        "……もしかして、真似してる？"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -111,11 +125,21 @@
     },
     {
       "name": "Vodka",
-      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!"
+      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!",
+      "choice_data_list": [
+        "その信念は、きっと力になる",
+        "併走で力比べしてみるか？",
+        "併走で力比べしてみる？"
+      ]
     },
     {
       "name": "Vodka",
-      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!"
+      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!",
+      "choice_data_list": [
+        "その信念は、きっと力になる",
+        "併走で力比べしてみるか？",
+        "併走で力比べしてみる？"
+      ]
     },
     {
       "name": "Vodka",

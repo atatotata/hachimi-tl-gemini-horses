@@ -19,7 +19,11 @@
     },
     {
       "name": "Special Week",
-      "text": "Really?! Yes! Yaaay!"
+      "text": "Really?! Yes! Yaaay!",
+      "choice_data_list": [
+        "構わないぞ",
+        "構わないよ"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -59,7 +63,11 @@
     },
     {
       "name": "Special Week",
-      "text": "<i>Gasp!</i> Wh-when did it..."
+      "text": "<i>Gasp!</i> Wh-when did it...",
+      "choice_data_list": [
+        "2人とも、もう夜だぞ？",
+        "2人とも、もう夜だよ？"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -71,7 +79,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Understood."
+      "text": "Understood.",
+      "choice_data_list": [
+        "直線のトレーニングで",
+        "左回りのトレーニングで"
+      ]
     },
     {
       "name": "Silence Suzuka",

@@ -175,16 +175,21 @@
       "name": "Dream Journey",
       "text": "Of course. Thank you so much... for \neverything the other day.",
       "choice_data_list": [
-        "Did something happen?",
-        "Did something happen?",
-        "You two really get along well, don't you?",
-        "You two really get along well, huh?"
+        "何かあったのか？",
+        "何かあったの？",
+        "2人は仲がいいんだな",
+        "2人は仲がいいんだね"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "No, no, it's nothing! It's just, out of \nnowhere, I received a drawing of Mother.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何かあったのか？",
+        "何かあったの？",
+        "2人は仲がいいんだな",
+        "2人は仲がいいんだね"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -197,13 +202,15 @@
       "name": "Dream Journey",
       "text": "……――",
       "choice_data_list": [
-        "……！"
+        "（ジャーニーが、なんの理由もなく……？）"
       ]
     },
     {
       "name": "Dream Journey",
       "text": "...Ah, I'm sorry.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -225,7 +232,9 @@
     {
       "name": "Dream Journey",
       "text": "...Ah, I'm sorry.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（好ましく、か……）"
+      ]
     },
     {
       "name": "Dream Journey",

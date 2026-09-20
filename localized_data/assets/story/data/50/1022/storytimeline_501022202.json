@@ -15,7 +15,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hehe, it's a secret. ♪ You'll just have to\nwait and\nsee!"
+      "text": "Hehe, it's a secret. ♪ You'll just have to\nwait and\nsee!",
+      "choice_data_list": [
+        "結果は？"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,11 +154,18 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "待って"
+      ]
     },
     {
       "name": "Fine Motion",
-      "text": "...Right. Okay, I'm off!"
+      "text": "...Right. Okay, I'm off!",
+      "choice_data_list": [
+        "君も自分らしく走っておいで",
+        "貴方も自分らしく走っておいで"
+      ]
     }
   ]
 }

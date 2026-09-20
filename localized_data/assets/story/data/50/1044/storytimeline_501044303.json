@@ -31,7 +31,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Don't speak for me! I can make my own\ndecisions!"
+      "text": "Don't speak for me! I can make my own\ndecisions!",
+      "choice_data_list": [
+        "いや、今は――"
+      ]
     },
     {
       "name": "Reporter B",
@@ -51,11 +54,17 @@
     },
     {
       "name": "Monologue",
-      "text": "It's a junior G1 held at Hanshin\nRacecourse. It's\nalso a mile race, so it's\nwell-suited to her."
+      "text": "It's a junior G1 held at Hanshin\nRacecourse. It's\nalso a mile race, so it's\nwell-suited to her.",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Reporter B",
-      "text": "You're going straight for a G1?! You\nmust really\nbe looking for a challenge..."
+      "text": "You're going straight for a G1?! You\nmust really\nbe looking for a challenge...",
+      "choice_data_list": [
+        "（……しっかり調べていたのかな）"
+      ]
     },
     {
       "name": "Reporter A",
@@ -131,7 +140,11 @@
     },
     {
       "name": "Monologue",
-      "text": "...Since she brought it up herself, I\ndecide to\nmake the Hanshin J.F. her next\ngoal for now."
+      "text": "...Since she brought it up herself, I\ndecide to\nmake the Hanshin J.F. her next\ngoal for now.",
+      "choice_data_list": [
+        "確か『阪神JF』を希望していたよな",
+        "確か『阪神JF』を希望していたよね"
+      ]
     }
   ]
 }

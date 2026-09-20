@@ -43,11 +43,14 @@
       "name": "Fleeing Crowd",
       "text": "R-Run for it! I-It's a whole swarm of \nUFOs!",
       "choice_data_list": [
-        "...Eh!?"
+        "！？風景が、変わった……！？"
       ]
     },
     {
-      "text": "Before anyone realized it, UFOs filled the \nsky— And from the craft landing by the \ncafe, aliens holding ray guns emerged!"
+      "text": "Before anyone realized it, UFOs filled the \nsky— And from the craft landing by the \ncafe, aliens holding ray guns emerged!",
+      "choice_data_list": [
+        "……えっ！？"
+      ]
     },
     {
       "text": "(Bzzzzzzzzt!!!!)"
@@ -89,7 +92,10 @@
     },
     {
       "name": "Biko Pegasus",
-      "text": "M... Marvelous-senpaaai!!"
+      "text": "M... Marvelous-senpaaai!!",
+      "choice_data_list": [
+        "危ない！？光線銃が！"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -148,7 +154,10 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "...See? As long as you open your heart to \nmarvelous, it'll definitely lead to a \nbrand new marvelous☆"
+      "text": "...See? As long as you open your heart to \nmarvelous, it'll definitely lead to a \nbrand new marvelous☆",
+      "choice_data_list": [
+        "元の世界に、戻ってきた……？"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -163,7 +172,10 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "Ahaha, Marvelous Signal firing☆ Everyone \nin the universe, please receive it★"
+      "text": "Ahaha, Marvelous Signal firing☆ Everyone \nin the universe, please receive it★",
+      "choice_data_list": [
+        "そ、そう……なのかな？"
+      ]
     }
   ]
 }

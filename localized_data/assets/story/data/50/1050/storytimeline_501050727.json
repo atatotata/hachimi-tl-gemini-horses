@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh? No, and I don't want them."
+      "text": "Huh? No, and I don't want them.",
+      "choice_data_list": [
+        "持って帰れそうか？",
+        "持って帰れそう？"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -19,7 +23,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "<i>Sigh...</i> Fine. I'll take <i>one.</i>"
+      "text": "<i>Sigh...</i> Fine. I'll take <i>one.</i>",
+      "choice_data_list": [
+        "せっかくだし！"
+      ]
     },
     {
       "name": "Narita Taishin",

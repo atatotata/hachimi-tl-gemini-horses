@@ -43,7 +43,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Yeah... The lottery is all sold out, so I\ncan't even\nbuy another one. Both my\nluck and mood are\ndown the drain!"
+      "text": "Yeah... The lottery is all sold out, so I\ncan't even\nbuy another one. Both my\nluck and mood are\ndown the drain!",
+      "choice_data_list": [
+        "とんだ災難だったな",
+        "とんだ災難だったね"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -111,7 +115,11 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "You're right! Let's at least see if anyone\nknows\nanything. Things might turn out to\nour benefit!"
+      "text": "You're right! Let's at least see if anyone\nknows\nanything. Things might turn out to\nour benefit!",
+      "choice_data_list": [
+        "スタッフに事情を説明してみようよ",
+        "ここ以外にもお土産屋さんがあるかも"
+      ]
     },
     {
       "name": "Staff",
@@ -127,7 +135,10 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "So, then, what are you going to do now,\n\nFukukitaru?"
+      "text": "So, then, what are you going to do now,\n\nFukukitaru?",
+      "choice_data_list": [
+        "お役に立ててなによりだよ"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

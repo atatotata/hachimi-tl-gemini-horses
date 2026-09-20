@@ -82,22 +82,24 @@
       "name": "Efforia",
       "text": "Yes. I wish to consume that in order to \nrecover from fatigue.",
       "choice_data_list": [
-        "Eating your favorite foods really washes \naway the fatigue, huh?",
-        "I only know regular berry ice cream, \nbut..."
+        "アイス？カシスの？"
       ]
     },
     {
       "name": "Efforia",
       "text": "Does consuming things you \"like\" actually \naid in recovering from fatigue?",
       "choice_data_list": [
-        "Wait, isn't that why you're eating it?",
-        "Wait, isn't that why you're eating it?"
+        "好きなもの食べると、疲れとれるよね",
+        "普通のベリー系アイスなら知ってるけど……"
       ]
     },
     {
       "name": "Efforia",
       "text": "No. I was told the ingredients were \neffective, so...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あれ、だから食べるんじゃないのか？",
+        "あれ、だから食べるんじゃないの？"
+      ]
     },
     {
       "name": "Efforia",
@@ -109,7 +111,9 @@
     {
       "name": "Efforia",
       "text": "Understood. In that case, as I thought, I \nwould like to consume cassis ice cream.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、そんなこともないと思うけど……"
+      ]
     },
     {
       "name": "Efforia",
@@ -131,7 +135,9 @@
     {
       "name": "",
       "text": "I mention that lemons are rich in vitamins \nand citric acid, making them very \neffective for recovery from fatigue.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "疲労回復目的なら、レモンソルベはどう？"
+      ]
     },
     {
       "name": "Efforia",
@@ -143,7 +149,9 @@
     {
       "name": "Efforia",
       "text": "Yes, that is fine.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、いいの？"
+      ]
     },
     {
       "name": "Efforia",

@@ -37,20 +37,22 @@
       "name": "Cheval Grand",
       "text": "Hyah! I-I'm so sorry...!!",
       "choice_data_list": [
-        "? You have nothing to apologize for, you \nknow...?"
+        "シュヴァル、次のメニューだけど……"
       ]
     },
     {
       "name": "",
       "text": "\"If anything, her condition is so good \nthat I'm thinking of increasing the \nworkload a bit more than planned. I went \non to explain the details—\"",
       "choice_data_list": [
-        "Think you can make it?"
+        "？謝ることなんか何もないよ……？"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "Y-Yes... I'm really sorry. I-I'll do my \nbest, so...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いけそう？"
+      ]
     },
     {
       "name": "",
@@ -67,7 +69,9 @@
     {
       "name": "Cheval Grand",
       "text": "...T-Thank you for your hard work...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（シュヴァルは頑張り屋さんだなぁ）"
+      ]
     },
     {
       "name": "",
@@ -79,7 +83,9 @@
     {
       "name": "Cheval Grand",
       "text": "—Kh! I-I'm so sorry!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お疲れ様！シュヴァル、今日は――"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -91,7 +97,9 @@
     {
       "name": "",
       "text": "I was about to review things and praise \nher, when she suddenly ran off. I have to \nchase after her for now...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、シュヴァル……！？"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -103,7 +111,9 @@
     {
       "name": "Cheval Grand",
       "text": "—Kh!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "シュヴァル！"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -115,7 +125,9 @@
     {
       "name": "",
       "text": "For now, I calmed Cheval Grand down and \nasked her what had happened...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "待って、一旦落ち着いて……！"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -138,7 +150,10 @@
     {
       "name": "Cheval Grand",
       "text": "......Huh? H-Huh...? Y-Yes...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……そうだったのか？",
+        "え……そうだったの？"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -150,7 +165,9 @@
     {
       "name": "Cheval Grand",
       "text": "...!? I-I'm so sorry! I... misunderstood \ncompletely...!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いやいや、違うよ……！"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -162,7 +179,9 @@
     {
       "name": "Cheval Grand",
       "text": "......I-I want to live up to it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "考えごとって……何か悩み？"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -198,24 +217,29 @@
       "name": "",
       "text": "To think that you wanted to live up to my \nexpectations... Knowing you felt that way \nfills me with the utmost warmth.",
       "choice_data_list": [
-        "I was actually meaning to praise you \nearlier.",
-        "I was actually meaning to praise you \nearlier.",
-        "Look at you, such a hard worker after all.",
-        "Look at you, such a hard worker after all, \nhuh?"
+        "さっきは褒めようと思ってたんだ",
+        "さっきは褒めようと思ってたの",
+        "なんだ、やっぱり頑張り屋さんだな",
+        "なんだ、やっぱり頑張り屋さんだね"
       ]
     },
     {
       "name": "",
       "text": "Cheval Grand is truly a hard worker. She \ndutifully carries out her training \nregimen, making steady progress day by \nday, even if it's slow.",
       "choice_data_list": [
-        "This is the result of your hard work to \nlive up to expectations.",
-        "This is the result of your hard work to \nlive up to expectations."
+        "さっきは褒めようと思ってたんだ",
+        "さっきは褒めようと思ってたの",
+        "なんだ、やっぱり頑張り屋さんだな",
+        "なんだ、やっぱり頑張り屋さんだね"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "……！！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "応えようと頑張ってくれた成果だな",
+        "応えようと頑張ってくれた成果だね"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -233,7 +257,10 @@
     {
       "name": "Cheval Grand",
       "text": "—A-Are you happy...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の成長は、嬉しく思うよ",
+        "貴方の成長は、嬉しく思うよ"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -245,7 +272,9 @@
     {
       "name": "Cheval Grand",
       "text": "――...Yes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うん、一緒に頑張ろう！"
+      ]
     },
     {
       "name": "",
@@ -258,7 +287,10 @@
     {
       "name": "",
       "text": "Cheval Grand works harder than anyone \nelse. ...Sometimes even a little too hard. \nThat's why I need to make sure to pace her \nproperly—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺は、それだけで頑張れる",
+        "私は、それだけで頑張れるよ"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -270,7 +302,9 @@
     {
       "name": "Cheval Grand",
       "text": "—Ah, I-I'm so sorry, so sorry! Talking all \ncheekily like that...!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Cheval Grand",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh, it's nothing. Or at least, nothing big."
+      "text": "Oh, it's nothing. Or at least, nothing big.",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -51,11 +55,18 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Really?"
+      "text": "Really?",
+      "choice_data_list": [
+        "断りたいのならすぐ断ると思う"
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "何か理由があるんじゃないか？",
+        "何か理由があるんじゃない？"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -63,7 +74,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "ああ",
+        "うん"
+      ]
     },
     {
       "name": "Seiun Sky",

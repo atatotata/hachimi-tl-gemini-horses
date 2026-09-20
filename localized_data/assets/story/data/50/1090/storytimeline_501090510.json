@@ -213,21 +213,24 @@
       "name": "Verxina",
       "text": "Oh, you too, Trainer...!?",
       "choice_data_list": [
-        "Me 'too'...?",
-        "Me \"too\"...?"
+        "ふたりに差し入れを持ってきたよ！",
+        "気が合うトレーニング仲間がいていいね"
       ]
     },
     {
       "name": "Win Variation",
       "text": "Ahaha, looks like you and Verxina-san get \nalong great, Trainer!",
       "choice_data_list": [
-        "What does this mean...?"
+        "俺『も』……？",
+        "私『も』……？"
       ]
     },
     {
       "name": "Verxina",
       "text": "Fufu, it's a bit of a long story, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どういうこと……？"
+      ]
     },
     {
       "name": "Verxina",
@@ -249,7 +252,9 @@
     {
       "name": "Win Variation",
       "text": "Huh!? No way, it's actually me who's \nalways being looked after by you, \nVerxina-san...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これからもヴィルシーナのことをよろしくね"
+      ]
     },
     {
       "name": "Verxina",

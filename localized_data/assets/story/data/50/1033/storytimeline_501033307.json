@@ -51,7 +51,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She had always been a solemn\n\nUmamusume—silently bound to realizing\nher\nself-imposed duty. But now, for the\nfirst time..."
+      "text": "She had always been a solemn\n\nUmamusume—silently bound to realizing\nher\nself-imposed duty. But now, for the\nfirst time...",
+      "choice_data_list": [
+        "（っ！アヤベ……！？）"
+      ]
     },
     {
       "name": "Monologue",
@@ -111,7 +114,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "……アヤベ、今日のメニューは終わったぞ？",
+        "……アヤベ、今日のメニューは終わったよ？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -151,7 +158,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...I'm heading back. Thanks for today."
+      "text": "...I'm heading back. Thanks for today.",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Monologue",
@@ -163,7 +173,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Winning for her sister is meaningful in\nitself."
+      "text": "Winning for her sister is meaningful in\nitself.",
+      "choice_data_list": [
+        "（きっと、いい変化だ）"
+      ]
     },
     {
       "name": "Monologue",
@@ -171,15 +184,27 @@
     },
     {
       "name": "Monologue",
-      "text": "On my way home one day, my attention\nsuddenly\nturns to the sky."
+      "text": "On my way home one day, my attention\nsuddenly\nturns to the sky.",
+      "choice_data_list": [
+        "（それは、すごくいいことだよな）",
+        "（それは、すごくいいことだよね）"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Speaking of which..."
+      "text": "Speaking of which...",
+      "choice_data_list": [
+        "今日もぱっとしない天気だな……",
+        "今日もぱっとしない天気……"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The cloudy days continue as we begin\ntraining for\nthe Japanese Derby."
+      "text": "The cloudy days continue as we begin\ntraining for\nthe Japanese Derby.",
+      "choice_data_list": [
+        "最近、星を観に行けているだろうか？",
+        "最近、星を観に行けているのかな？"
+      ]
     }
   ]
 }

@@ -12,14 +12,16 @@
       "name": "Narrator",
       "text": "\"She gets lost easily. I tried to keep an \neye on her, but she seems to have gotten \nswallowed up by the holiday crowd. When I \nhurry to give her a call...\"",
       "choice_data_list": [
-        "(Is that ringtone coming from inside my \nbag...?!)",
-        "(Is that ringtone coming from inside my \nbag...?!)"
+        "オグリが、いない……！"
       ]
     },
     {
       "name": "Narrator",
       "text": "...Come to think of it, I was holding onto \nher smartphone before the interview. I \nhave to hurry and find her...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（着信音が、俺のバッグの中から……！？）",
+        "（着信音が、私のバッグの中から……！？）"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -42,7 +44,10 @@
     {
       "name": "Oguri Cap",
       "text": "\"...Right. Let's eat and calm down. It \nwill be fine... If it's my Trainer.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ！あとは俺が見つけるから、安心して！",
+        "うん！あとは私が見つけるから、安心して！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -70,14 +75,16 @@
       "name": "Narrator",
       "text": "I ponder while staring at the croquettes \non display. For some reason, she seems to \nbe heading somewhere while eating her \nrice...",
       "choice_data_list": [
-        "...Wait a second, croquettes...?",
-        "...Wait, by croquette, you mean..."
+        "ほ、本当ですか！ありがとうございます！"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"Come to think of it, when we went over \nwhat to do if we got lost before leaving, \nshe asked me, 'What should I eat to calm \ndown?'...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……待てよ、コロッケって……",
+        "……待って、コロッケって……"
+      ]
     },
     {
       "name": "Narrator",
@@ -89,7 +96,9 @@
     {
       "name": "Oguri Cap",
       "text": "Alright, finished the omurice too. Now if \nI just eat some ramen, I should be able to \nsee Trainer...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "まさか……それを全部！？"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -107,27 +116,29 @@
       "name": "Narrator",
       "text": "Oguri Cap is making her way through town, \ntracing the very food menu she mentioned \nearlier! What was the next item on her \nlist...?",
       "choice_data_list": [
-        "(I said something Oguri likes...!)"
+        "（これは……間違いない！）"
       ]
     },
     {
       "name": "Narrator",
       "text": "I look at the takeout menu and ponder. But \nthere's no way I can remember such a \nfleeting conversation. Which means, from \nhere on...",
       "choice_data_list": [
-        "—All I can do is guess her preferences and \ntake action!"
+        "（オグリが好きなものを言ったはず……！）"
       ]
     },
     {
       "name": "Narrator",
       "text": "Aside from ramen shops, diners, \ntraditional sweet shops... Every single \nplace we visited had reports of Oguri Cap \nsightings!",
       "choice_data_list": [
-        "My intuition is sharp! But..."
+        "――彼女の好みを、予想して動くしかない！"
       ]
     },
     {
       "name": "Narrator",
       "text": "I just can't catch up to her. Relying on \nthe Japanese sweets shop clerk saying, \n\"She headed that way just a moment ago,\" I \nhead toward the riverbank, and...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "勘は冴えてる！けど……"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -141,44 +152,47 @@
       "name": "Oguri Cap",
       "text": "Yeah, it's all thanks to you, Trainer! I \nmade sure to eat just as you told me so I \nwouldn't get hungry.",
       "choice_data_list": [
-        "(So that's what it was after all...!)",
-        "(I knew it, so that's what it was...!)"
+        "オグリ……！大丈夫だったか！？",
+        "オグリ……！大丈夫だった！？"
       ]
     },
     {
       "name": "Narrator",
       "text": "I meant to tell her to calm down... but it \nseems she interpreted it as \"eat your food \nas you're told.\"",
       "choice_data_list": [
-        "(Whatever it was... I'm glad it was found)"
+        "（やっぱり、そうだったのか……！）",
+        "（やっぱり、そうだった……！）"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "...Hm? Trainer, what's in that bag? It \nsmells really good.",
       "choice_data_list": [
-        "Yeah, this is..."
+        "（なんであれ……見つかってよかった）"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "Whoa! Fried food from the shopping \nstreet... omelet rice, and even dumplings \nfrom the ramen shop! These are all places \nI've been to...!",
       "choice_data_list": [
-        "I bought this while looking for you, \nOguri.",
-        "I bought this while I was looking for you, \nOguri."
+        "ああ、これは……"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "(Grrrrrr............)",
       "choice_data_list": [
-        "...I figured you'd be hungry after all \nthat walking.",
-        "...I figured you'd be hungry after all \nthat walking."
+        "オグリを捜しながら、買っておいたんだ",
+        "オグリを捜しながら、買っておいたの"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "Ah... That's amazing, Trainer. Are you a \npsychic?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……たくさん歩いたら、お腹空くと思ってな",
+        "……たくさん歩いたら、お腹空くと思ってね"
+      ]
     },
     {
       "name": "Narrator",
@@ -195,7 +209,9 @@
     {
       "name": "Oguri Cap",
       "text": "Ah, no, that's not what I meant. How \nshould I put it... let's see...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "気に入ってくれたなら、よかった"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -222,7 +238,9 @@
     {
       "name": "Oguri Cap",
       "text": "You're always thinking of me, aren't you? \nThat makes me really happy.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -251,21 +269,24 @@
       "name": "Oguri Cap",
       "text": "Is that... omurice? These soft, runny \neggs... seem tricky to make.",
       "choice_data_list": [
-        "Well, you don't cook much, do you, Oguri?",
-        "Well, you don't cook much, do you, Oguri?"
+        "お店のテイクアウト品を食べる",
+        "商店街のコロッケを食べる"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "Yeah... During the last cooking class, \nTama was awfully worried about me too. She \nwouldn't even let me hold a kitchen knife.",
       "choice_data_list": [
-        "...Somehow, I think I understand how you \nfeel."
+        "オグリ、料理はあまりしないもんな",
+        "オグリ、料理はあまりしないもんね"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "What, you understand Tama and the others \ntoo? You really are psychic...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……なんとなく、気持ちはわかるかも"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -278,14 +299,16 @@
       "name": "Oguri Cap",
       "text": "No, let's split them in half. There are 5 \nin total, so... ah.",
       "choice_data_list": [
-        "Three for Oguri, two for me!",
-        "Three for Oguri, two for me!"
+        "それなら、オグリが食べる？"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "Are you sure!? ...Thank you, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "オグリが3個、俺が2個で！",
+        "オグリが3個、私が2個で！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -298,20 +321,22 @@
       "name": "Oguri Cap",
       "text": "\"Nice to meet you.\"",
       "choice_data_list": [
-        "Huh?"
+        "ん？なに？"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "\"Give my regards to Trainer!\" ...The lady \nfrom the shopping district asked me to \npass that along. This is what she meant, \nright?",
       "choice_data_list": [
-        "Pfft... No, that's...!"
+        "え？"
       ]
     },
     {
       "name": "Oguri Cap",
       "text": "...Hm? Could it be that something is \ndifferent?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ぷっ……いやそれは……！"
+      ]
     }
   ]
 }

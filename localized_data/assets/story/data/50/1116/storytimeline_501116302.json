@@ -37,7 +37,10 @@
     {
       "name": "Gentildonna",
       "text": "You seem surprised. I don't dislike \ntesting my luck, you know.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "興味があるのか？",
+        "興味があるの？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -60,14 +63,16 @@
       "name": "Gentildonna",
       "text": "It's just that I'm not very familiar with \nlucky draws.",
       "choice_data_list": [
-        "Alright, wanna give it a shot?",
-        "Alright, wanna give it a try?"
+        "（……聞かなかったことにしよう）"
       ]
     },
     {
       "name": "",
       "text": "From the shopping earlier, I had been \ngiven exactly one lottery ticket.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃあ、やってみるか？",
+        "じゃあ、やってみる？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -114,7 +119,9 @@
     {
       "name": "Gentildonna",
       "text": "...Ah, was the grand prize a ticket for a \nhot spring trip?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "というか、おめでとう！"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -126,7 +133,9 @@
     {
       "name": "Gentildonna",
       "text": "You like hot springs, don't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え、どうして？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -140,20 +149,23 @@
       "name": "",
       "text": "Gentildonna is remarkably stoic. Even if \nshe knows how to unwind, she won't take a \nreal break unless practically forced to.",
       "choice_data_list": [
-        "...Let's think about why you won this \nticket."
+        "でも……君は行かないだろう",
+        "でも……貴方は行かないでしょう"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "Because I won a test of luck. That's all \nit is.",
       "choice_data_list": [
-        "No, maybe God is telling me to rest."
+        "……この券が当たった理由を考えてみよう"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、神様が休めって言ってるのかも"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -191,7 +203,10 @@
     {
       "name": "Gentildonna",
       "text": "Understood. When the right time comes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "休んでくれ、ジェンティル",
+        "休んでね、ジェンティル"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -204,7 +219,10 @@
     {
       "name": "Gentildonna",
       "text": "Yes. As my Trainer... you will let me rest \nplenty, won't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も？",
+        "私も？"
+      ]
     },
     {
       "name": "",
@@ -237,14 +255,16 @@
       "name": "Gentildonna",
       "text": "\"...It certainly has visual impact. So you \nlike this sort of thing too, I see.\"",
       "choice_data_list": [
-        "Doesn't it appeal to you?",
-        "Aren't you drawn to it?"
+        "美味しそう……！"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "As a sculpture, I find it quite \nfascinating.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君は惹かれない？",
+        "貴方は惹かれない？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -281,7 +301,9 @@
     {
       "name": "Gentildonna",
       "text": "...Understood. Then I shall partake.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（なんだろう、この緊張感……！）"
+      ]
     },
     {
       "name": "",
@@ -299,13 +321,15 @@
       "name": "Gentildonna",
       "text": "...Thank you for the meal.",
       "choice_data_list": [
-        "How was it...?"
+        "（ドキドキ……）"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうだった……？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -317,7 +341,9 @@
     {
       "name": "",
       "text": "Afterward, I shared Gentildonna's thoughts \nwith the shopping district folks over the \nphone... We rejoiced together, feeling a \nstrangely touching sense of emotion.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！今すぐに！"
+      ]
     },
     {
       "name": "Shopping District Local",
@@ -350,7 +376,10 @@
     {
       "name": "Gentildonna",
       "text": "\"Which question are you asking?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そういえば、君は料理するのか？",
+        "そういえば、貴方は料理するの？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -368,20 +397,22 @@
       "name": "Gentildonna",
       "text": "\"And you? Do you cook?\"",
       "choice_data_list": [
-        "If it's something simple, sure."
+        "なるほど……"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "...Then, would you take a few of these \ncarrots with you?",
       "choice_data_list": [
-        "...Hm?"
+        "簡単なものなら"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "\"As a Trainer, you ought to have knowledge \nof dietary management as well.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ん？"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -413,7 +444,9 @@
     {
       "name": "Umamusume A",
       "text": "...A food critic and a chef?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ううっ、精進します……！"
+      ]
     },
     {
       "name": "Shopping District Local",
@@ -441,7 +474,10 @@
     {
       "name": "Gentildonna",
       "text": "If that's the case—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、すごく美味しそうだぞ",
+        "でも、すごく美味しそうだよ"
+      ]
     },
     {
       "name": "",
@@ -458,7 +494,9 @@
     {
       "name": "Shopping District Local",
       "text": "H-Holy crap... The carrot's split clean in \ntwo...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、ありがとう……"
+      ]
     },
     {
       "name": "",
@@ -487,13 +525,16 @@
       "name": "Gentildonna",
       "text": "…………。",
       "choice_data_list": [
-        "...Gentil?"
+        "残念だったな",
+        "残念だったね"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "\"It is merely an entertainment. \nHowever...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ジェンティル？"
+      ]
     },
     {
       "name": "Gentildonna",

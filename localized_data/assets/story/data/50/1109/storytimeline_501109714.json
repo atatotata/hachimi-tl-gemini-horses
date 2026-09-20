@@ -17,13 +17,15 @@
       "name": "Rhein Kraft",
       "text": "Ah, no... yes... this much is... no \nproblem at all!",
       "choice_data_list": [
-        "You don't have to put on a brave face."
+        "大丈夫？"
       ]
     },
     {
       "name": "Rhein Kraft",
       "text": "I'm not... putting on a brave face. ...I'm \nreally not.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "やせ我慢しなくていい"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -61,7 +63,10 @@
     {
       "name": "Narrator",
       "text": "I persuaded her that she couldn't train to \nher full potential while carrying the \nanxiety of an injury.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今は休むべき時だよ",
+        "ケガをしていない部位のトレーニングなら"
+      ]
     },
     {
       "name": "Rhein Kraft",

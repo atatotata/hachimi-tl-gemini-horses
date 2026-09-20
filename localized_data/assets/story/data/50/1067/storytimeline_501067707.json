@@ -19,7 +19,11 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "...Actually, I left myself out intentionally."
+      "text": "...Actually, I left myself out intentionally.",
+      "choice_data_list": [
+        "君自身のことは？",
+        "貴方自身のことは？"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -35,11 +39,17 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Something... else?\nSuch as?"
+      "text": "Something... else?\nSuch as?",
+      "choice_data_list": [
+        "なら、違うことをお願いすればいい"
+      ]
     },
     {
       "name": "Satono Diamond",
-      "text": "Ahhh, sure! Hehe! I'll go pray one more\ntime,\nthen!"
+      "text": "Ahhh, sure! Hehe! I'll go pray one more\ntime,\nthen!",
+      "choice_data_list": [
+        "乗り越えるのを見守っててほしいって"
+      ]
     },
     {
       "name": "Monologue",

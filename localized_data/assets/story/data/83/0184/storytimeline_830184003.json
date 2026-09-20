@@ -80,12 +80,15 @@
       "name": "Tazuna Hayakawa",
       "text": "Trainer-san, perfect timing! I'm worried \nabout them. Could you please go after \nthem?",
       "choice_data_list": [
-        "I-I'm on it!"
+        "何かあったんですか？"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Chasing after them by taxi, I arrived at \nthe organizer's headquarters. The two of \nthem were trying to negotiate directly \nwith the event staff."
+      "text": "Chasing after them by taxi, I arrived at \nthe organizer's headquarters. The two of \nthem were trying to negotiate directly \nwith the event staff.",
+      "choice_data_list": [
+        "わ、わかりました！"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -124,7 +127,10 @@
     },
     {
       "name": "North Flight",
-      "text": "...!! Trainer-san!"
+      "text": "...!! Trainer-san!",
+      "choice_data_list": [
+        "失礼します。私から説明させてください"
+      ]
     },
     {
       "name": "Narrator",
@@ -151,14 +157,19 @@
       "name": "North Flight",
       "text": "So that's what you meant by fair... Fufu, \nthat's so like you, Bakushin O-chan.",
       "choice_data_list": [
-        "You two have a great rivalry.",
-        "You two have a wonderful rivalry.",
-        "I can't wait for the event race!"
+        "いいライバル関係だな",
+        "いいライバル関係だね",
+        "イベントレースが楽しみだ！"
       ]
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Why, of course! Flight-san is an \nabsolutely indispensable presence to me!"
+      "text": "Why, of course! Flight-san is an \nabsolutely indispensable presence to me!",
+      "choice_data_list": [
+        "いいライバル関係だな",
+        "いいライバル関係だね",
+        "イベントレースが楽しみだ！"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

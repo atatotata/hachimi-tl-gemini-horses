@@ -23,7 +23,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I get the impression we've weathered a\nvery\nstrange storm..."
+      "text": "I get the impression we've weathered a\nvery\nstrange storm...",
+      "choice_data_list": [
+        "そうか、よかった",
+        "そう、よかった"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I can't answer right away. Too many\naspects of\nher health are still shrouded\nin mystery."
+      "text": "I can't answer right away. Too many\naspects of\nher health are still shrouded\nin mystery.",
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -73,18 +73,21 @@
       "name": "Stay Gold",
       "text": "Well, soil froze over during winter. Gotta \nprep it like this first.",
       "choice_data_list": [
-        "No not that, why today of all days…?"
+        "なぜ、土ならしを……"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Well, it's only meaningful because it's \ndone today. Ceremonies got conditions you \ngotta meet first!",
       "choice_data_list": [
-        "Yeah, so then what's all this!?"
+        "そういうことじゃなくて、なんで今日……？"
       ]
     },
     {
-      "text": "I stopped her to ask what she was doing; \nturns out there was a ritual she wanted to \ntry after hearing about it on one of her \njourneys."
+      "text": "I stopped her to ask what she was doing; \nturns out there was a ritual she wanted to \ntry after hearing about it on one of her \njourneys.",
+      "choice_data_list": [
+        "いや、だからどういうこと！？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -99,7 +102,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Right? Knew you'd say that!"
+      "text": "Right? Knew you'd say that!",
+      "choice_data_list": [
+        "……旅路の祝福か……いいかも"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -111,7 +117,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Simply put, we're just planting tree seed \n—— just few special steps to follow."
+      "text": "Simply put, we're just planting tree seed \n—— just few special steps to follow.",
+      "choice_data_list": [
+        "儀式って、何をすればいいんだ？",
+        "儀式って、何をすればいいの？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -140,13 +150,17 @@
       "name": "Stay Gold",
       "text": "That, and —— journeys, y'know, gotta be \nfun.",
       "choice_data_list": [
-        "For you to enjoy this journey freely",
-        "For you to enjoy this journey freely"
+        "君が心躍るレースに多く出会えますように",
+        "貴方が心躍るレースに多く出会えますように"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "——Hey, you're not making any wishes for \nyourself, are you?"
+      "text": "——Hey, you're not making any wishes for \nyourself, are you?",
+      "choice_data_list": [
+        "君がこの旅路を自由に楽しめますように",
+        "貴方がこの旅路を自由に楽しめますように"
+      ]
     },
     {
       "text": "Her words made me realize it. Wishing her \njourney goes well… comes straight from \nbottom of my heart.",
@@ -157,18 +171,21 @@
     {
       "text": "Lining up to strike stake again, I \nannounce my wish: \"To walk beside you on \nyour Golden Journey…\"",
       "choice_data_list": [
-        "$(scale 95)and, to forever watch over you \nby your side"
+        "ちゃんと自分の望みを言ってるよ"
       ]
     },
     {
       "text": "Lining up to strike stake again, I \nannounce my wish: \"To walk beside you on \nyour Golden Journey…\"",
       "choice_data_list": [
-        "$(scale 95)and, to forever watch over you \nby your side"
+        "ずっと隣で、見続けていられますように"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "……"
+      "text": "……",
+      "choice_data_list": [
+        "ずっと隣で、見続けていられますように"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -188,7 +205,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Sorbus aucuparia, rowan tree. Says it \nwatches over travelers so they don't get \nlost."
+      "text": "Sorbus aucuparia, rowan tree. Says it \nwatches over travelers so they don't get \nlost.",
+      "choice_data_list": [
+        "素敵だな……何を植えるんだ？",
+        "素敵だね……何を植えるの？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -208,12 +229,15 @@
     {
       "text": "Ritual where we wish together for endless \njourney… something about this feels……",
       "choice_data_list": [
-        "(Greater than a wish, it's moreso a \nprayer)"
+        "確かに……というか"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Alright, covered top with fallen leaves, \nso frost won't be issue."
+      "text": "Alright, covered top with fallen leaves, \nso frost won't be issue.",
+      "choice_data_list": [
+        "（願いというより、祈りのようだ）"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -223,7 +247,10 @@
       ]
     },
     {
-      "text": "We finished ritual. Can check on seeds \nanother time."
+      "text": "We finished ritual. Can check on seeds \nanother time.",
+      "choice_data_list": [
+        "ううん、なんでもない"
+      ]
     },
     {
       "text": "\"May our journey find happiness from here \non.\" If I silently pray right now ——"
@@ -254,6 +281,9 @@
       "text": "I opened chocolate bag I had on me and \ngave one to Gold Ship.",
       "color_text_info_list": [
         "Gold Ship"
+      ],
+      "choice_data_list": [
+        "こ、これをっ！"
       ]
     },
     {
@@ -270,7 +300,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "<i>Hmmm</i>, so that's how it is."
+      "text": "<i>Hmmm</i>, so that's how it is.",
+      "choice_data_list": [
+        "実は……君と一緒に食べようと思っていて",
+        "実は……貴方と一緒に食べようと思っていて"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -292,7 +326,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Aah, thanks. Know you'll raise it into \ngreat tree."
+      "text": "Aah, thanks. Know you'll raise it into \ngreat tree.",
+      "choice_data_list": [
+        "まかせて、俺が樹の守り人になるよ！",
+        "まかせて、私が樹の守り人になるよ！"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -303,7 +341,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah, course. When time comes, let's enjoy \nit together."
+      "text": "Yeah, course. When time comes, let's enjoy \nit together.",
+      "choice_data_list": [
+        "実はジャムやゼリーにできるんだっけ？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -321,7 +362,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "True, hard work works up an appetite——— \nah."
+      "text": "True, hard work works up an appetite——— \nah.",
+      "choice_data_list": [
+        "ご、ごめん……"
+      ]
     },
     {
       "text": "Felt hard touch against lips, then smelled \nsweet aroma next second."

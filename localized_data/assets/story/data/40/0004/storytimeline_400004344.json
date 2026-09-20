@@ -11,7 +11,10 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Huh?! Oh, sorry, but I'm in some trouble\nhere!\nCouldja help me out for a sec?"
+      "text": "Huh?! Oh, sorry, but I'm in some trouble\nhere!\nCouldja help me out for a sec?",
+      "choice_data_list": [
+        "大丈夫……？"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +58,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ohohoho! Beating a racing game is a\nsimple\nmatter for one fit to be a\nprincess!"
+      "text": "Ohohoho! Beating a racing game is a\nsimple\nmatter for one fit to be a\nprincess!",
+      "choice_data_list": [
+        "どうした、タマモ！？",
+        "どうしたの、タマモ！？"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -99,11 +106,23 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Creek? Great timin'!\nTrainer! Us three\ngotta curb this situation!"
+      "text": "Creek? Great timin'!\nTrainer! Us three\ngotta curb this situation!",
+      "choice_data_list": [
+        "じゃあ俺はブルボンを！",
+        "じゃあ私はブルボンを！",
+        "じゃあ俺はカワカミとウララを！",
+        "じゃあ私はカワカミとウララを！"
+      ]
     },
     {
       "name": "Tamamo Cross",
-      "text": "Roger! I'll come with!\nCreek, take on\nKawakami 'n Urara!"
+      "text": "Roger! I'll come with!\nCreek, take on\nKawakami 'n Urara!",
+      "choice_data_list": [
+        "じゃあ俺はブルボンを！",
+        "じゃあ私はブルボンを！",
+        "じゃあ俺はカワカミとウララを！",
+        "じゃあ私はカワカミとウララを！"
+      ]
     },
     {
       "name": "Super Creek",

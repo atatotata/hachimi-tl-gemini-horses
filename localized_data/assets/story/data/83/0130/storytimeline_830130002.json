@@ -63,7 +63,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Now everyone, direct your attention to \nthis box! Miracle and Trainer-san here \nwill now step inside, and—"
+      "text": "Now everyone, direct your attention to \nthis box! Miracle and Trainer-san here \nwill now step inside, and—",
+      "choice_data_list": [
+        "…………えっ、お、俺！？",
+        "…………えっ、わ、私！？"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -98,14 +102,19 @@
       "name": "K.S.Miracle",
       "text": "Even if something does happen, I'll \nprotect you. ...Always.",
       "choice_data_list": [
-        "Thank you, that puts me at ease.",
-        "No, if something happens, I'll protect \nyou!",
-        "No, if something happens, I'll protect \nyou!"
+        "ありがとう、安心できたよ",
+        "いや、何かあった時は俺が君を守る！",
+        "いや、何かあった時は私が貴方を守る！"
       ]
     },
     {
       "name": "K.S.Miracle",
-      "text": "Is that so? Then, I'm glad. Fufu..."
+      "text": "Is that so? Then, I'm glad. Fufu...",
+      "choice_data_list": [
+        "ありがとう、安心できたよ",
+        "いや、何かあった時は俺が君を守る！",
+        "いや、何かあった時は私が貴方を守る！"
+      ]
     },
     {
       "name": "K.S.Miracle",

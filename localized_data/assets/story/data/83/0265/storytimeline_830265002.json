@@ -167,11 +167,15 @@
       "name": "Admire Groove",
       "text": "…I'm fine. I was just on my way back to \nTracen.",
       "choice_data_list": [
-        "But…"
+        "傘持ってないなら貸すよ",
+        "……何かあった？大丈夫？"
       ]
     },
     {
-      "text": "Even though I called out to her, she \nwalked into the rain alone and vanished."
+      "text": "Even though I called out to her, she \nwalked into the rain alone and vanished.",
+      "choice_data_list": [
+        "でも……"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -185,7 +189,10 @@
       ]
     },
     {
-      "text": "I tried to reach out to her, but she \nwalked into the rain alone and vanished."
+      "text": "I tried to reach out to her, but she \nwalked into the rain alone and vanished.",
+      "choice_data_list": [
+        "あ！"
+      ]
     }
   ]
 }

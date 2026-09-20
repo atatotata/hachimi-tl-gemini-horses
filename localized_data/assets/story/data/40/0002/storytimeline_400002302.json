@@ -23,7 +23,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "No, no! You need to be in it too!"
+      "text": "No, no! You need to be in it too!",
+      "choice_data_list": [
+        "いいよ、撮ろうか"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -31,11 +34,17 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Howdy-do, I am! It's not a team photo\nwithout\nyou, Trainer!"
+      "text": "Howdy-do, I am! It's not a team photo\nwithout\nyou, Trainer!",
+      "choice_data_list": [
+        "いいの？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "So we set about getting ready for an\nimpromptu\nphoto shoot."
+      "text": "So we set about getting ready for an\nimpromptu\nphoto shoot.",
+      "choice_data_list": [
+        "わかった！"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -75,7 +84,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Lookie here, Trainer! I got a great snap!"
+      "text": "Lookie here, Trainer! I got a great snap!",
+      "choice_data_list": [
+        "どうした？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Monologue",

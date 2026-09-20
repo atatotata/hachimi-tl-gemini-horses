@@ -19,7 +19,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Oh, Trainer! Didn't see you there."
+      "text": "Oh, Trainer! Didn't see you there.",
+      "choice_data_list": [
+        "取材対応ですか？"
+      ]
     },
     {
       "name": "Light Hello",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Not at all! It's the least I can do."
+      "text": "Not at all! It's the least I can do.",
+      "choice_data_list": [
+        "それは詰めすぎじゃ……"
+      ]
     },
     {
       "name": "Light Hello",
@@ -43,11 +49,21 @@
     },
     {
       "name": "Monologue",
-      "text": "I can see the determination in her eyes."
+      "text": "I can see the determination in her eyes.",
+      "choice_data_list": [
+        "休憩用の飲み物を買ってきますよ",
+        "俺も付き合います！",
+        "私も付き合います！"
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "O-oh, no, you really don't have to! I can\nget\nsomething myse—"
+      "text": "O-oh, no, you really don't have to! I can\nget\nsomething myse—",
+      "choice_data_list": [
+        "休憩用の飲み物を買ってきますよ",
+        "俺も付き合います！",
+        "私も付き合います！"
+      ]
     },
     {
       "name": "Light Hello",
@@ -59,7 +75,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "...Thank you."
+      "text": "...Thank you.",
+      "choice_data_list": [
+        "のど飴も買ってきますね"
+      ]
     },
     {
       "name": "Light Hello",
@@ -67,7 +86,10 @@
     },
     {
       "name": "Reporter",
-      "text": "Excuse me? Hi, I'm with Turbo Turf\nWEB..."
+      "text": "Excuse me? Hi, I'm with Turbo Turf\nWEB...",
+      "choice_data_list": [
+        "とんでもないです"
+      ]
     },
     {
       "name": "Light Hello",
@@ -95,7 +117,11 @@
     },
     {
       "name": "Light Hello",
-      "text": "...Right, how could I forget? You know\nthe girls\nfar better than me!"
+      "text": "...Right, how could I forget? You know\nthe girls\nfar better than me!",
+      "choice_data_list": [
+        "俺も彼女たちの魅力を伝えたくて",
+        "私も彼女たちの魅力を伝えたくて"
+      ]
     },
     {
       "name": "Reporter",
@@ -131,7 +157,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Yes! I want to do everything I can!"
+      "text": "Yes! I want to do everything I can!",
+      "choice_data_list": [
+        "明日も取材があるんですか！？"
+      ]
     },
     {
       "name": "Monologue",

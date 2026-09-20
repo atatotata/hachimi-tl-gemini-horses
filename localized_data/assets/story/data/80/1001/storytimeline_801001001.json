@@ -23,7 +23,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Yes!"
+      "text": "Yes!",
+      "choice_data_list": [
+        "約束？"
+      ]
     },
     {
       "name": "Special Week",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Special Week",
-      "text": "I completely forgot that I promised to\nrace with\nmy friend, so I'm rushing over\nthere now..."
+      "text": "I completely forgot that I promised to\nrace with\nmy friend, so I'm rushing over\nthere now...",
+      "choice_data_list": [
+        "ここで全力を出さない方がいいぞ",
+        "ここで全力を出さない方がいいよ",
+        "急いで行ってあげて"
+      ]
     },
     {
       "name": "Special Week",
-      "text": "Yeah... That's a good point!"
+      "text": "Yeah... That's a good point!",
+      "choice_data_list": [
+        "ここで全力を出さない方がいいぞ",
+        "ここで全力を出さない方がいいよ",
+        "急いで行ってあげて"
+      ]
     },
     {
       "name": "Special Week",

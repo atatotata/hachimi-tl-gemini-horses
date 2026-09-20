@@ -14,7 +14,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "Word has reached me that she has appeared \nin this town."
+      "text": "Word has reached me that she has appeared \nin this town.",
+      "choice_data_list": [
+        "えっ、王命……？"
+      ]
     },
     {
       "name": "Orfevre",
@@ -25,7 +28,10 @@
     },
     {
       "name": "Orfevre's Subject A",
-      "text": "Lady Orfevre! Reports say someone matching \nher description was sighted in the \nshopping district!"
+      "text": "Lady Orfevre! Reports say someone matching \nher description was sighted in the \nshopping district!",
+      "choice_data_list": [
+        "その、いきなり駒って言われても……"
+      ]
     },
     {
       "name": "Orfevre",
@@ -42,19 +48,22 @@
       "name": "Orfevre",
       "text": "You. Where are you?",
       "choice_data_list": [
-        "\"Huh? I'm heading towards the shopping \ndistrict...\""
+        "あれ？スマホが鳴ってる"
       ]
     },
     {
       "name": "Orfevre",
       "text": "Word from my subjects. She has appeared at \nthe park.",
       "choice_data_list": [
-        "\"The park? Not the shopping district?\""
+        "『え？商店街に向かってるけど……』"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "No questions. Head to the park."
+      "text": "No questions. Head to the park.",
+      "choice_data_list": [
+        "『公園？商店街じゃなくて？』"
+      ]
     },
     {
       "name": "Narrator",
@@ -71,12 +80,15 @@
       "name": "Orfevre",
       "text": "\"—Too slow. Head for the port next.\"",
       "choice_data_list": [
-        "(S-She changed locations again...!?)"
+        "（ええっ、今度は山！？）"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Amidst a flurry of conflicting \ninformation, I run all over the place with \nphone in hand. Yet it's one wild goose \nchase after another until sunset..."
+      "text": "Amidst a flurry of conflicting \ninformation, I run all over the place with \nphone in hand. Yet it's one wild goose \nchase after another until sunset...",
+      "choice_data_list": [
+        "（ま、また場所が変わった……！）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -87,7 +99,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Looking around, there's not a single trace \nof anyone matching her description. \n...Just as I am about to suggest calling \nit a day—"
+      "text": "Looking around, there's not a single trace \nof anyone matching her description. \n...Just as I am about to suggest calling \nit a day—",
+      "choice_data_list": [
+        "（うーん、と言われても……）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -98,7 +113,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Hanging up the phone, I notice the sound \nof a harmonica drifting along with the \nmurmuring of the tide. Following the \nmelody as I walk..."
+      "text": "Hanging up the phone, I notice the sound \nof a harmonica drifting along with the \nmurmuring of the tide. Following the \nmelody as I walk...",
+      "choice_data_list": [
+        "え？音色……？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -109,7 +127,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "—I see. So Orfe's been running you ragged, \nhuh?"
+      "text": "—I see. So Orfe's been running you ragged, \nhuh?",
+      "choice_data_list": [
+        "い、いたーーっ！！"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -160,7 +181,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Orfevre carries her usual arrogant \ndemeanor. Yet, behind every word, she \nsounds somewhat amused."
+      "text": "Orfevre carries her usual arrogant \ndemeanor. Yet, behind every word, she \nsounds somewhat amused.",
+      "choice_data_list": [
+        "（あれ？なんだか……）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -173,12 +197,15 @@
       "name": "Narrator",
       "text": "So as not to give anything away, I avert \nmy eyes from Orfevre. Instead looking \naround at our surroundings—",
       "choice_data_list": [
-        "Huh? She's gone...!"
+        "いや、別に……！"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Before we knew it, Stay Gold had vanished, \nas though dissolving into the sea breeze."
+      "text": "Before we knew it, Stay Gold had vanished, \nas though dissolving into the sea breeze.",
+      "choice_data_list": [
+        "あれ？いない……！"
+      ]
     },
     {
       "name": "Orfevre",
@@ -198,7 +225,11 @@
     },
     {
       "name": "Orfevre",
-      "text": "—A foolish question."
+      "text": "—A foolish question.",
+      "choice_data_list": [
+        "本当に、また探し出せると思う？",
+        "その時は再び手伝うよ！"
+      ]
     },
     {
       "name": "Orfevre",

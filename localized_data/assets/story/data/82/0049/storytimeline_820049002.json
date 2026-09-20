@@ -35,11 +35,18 @@
     },
     {
       "name": "Gold City",
-      "text": "Oh, you're that trainer from school... No,\nit's\nnothing big. Just thought it's about\ntime I look\nafter myself."
+      "text": "Oh, you're that trainer from school... No,\nit's\nnothing big. Just thought it's about\ntime I look\nafter myself.",
+      "choice_data_list": [
+        "何か悩みごと？"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "苦手なことなら頼ってもいいんじゃないか？",
+        "苦手なことなら頼ってもいいんじゃない？"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,11 +130,21 @@
     },
     {
       "name": "Gold City",
-      "text": "...That's a relief."
+      "text": "...That's a relief.",
+      "choice_data_list": [
+        "マネージャーに教わって、上達した？",
+        "人に頼るのもたまにはいいよな",
+        "人に頼るのもたまにはいいよね"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Ah... Yeah, I guess I was. She's given me\na few\nlessons."
+      "text": "Ah... Yeah, I guess I was. She's given me\na few\nlessons.",
+      "choice_data_list": [
+        "マネージャーに教わって、上達した？",
+        "人に頼るのもたまにはいいよな",
+        "人に頼るのもたまにはいいよね"
+      ]
     },
     {
       "name": "Gold City",

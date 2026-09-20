@@ -11,7 +11,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "It may shock you, but my reasoning is\nemotional."
+      "text": "It may shock you, but my reasoning is\nemotional.",
+      "choice_data_list": [
+        "急にどうした",
+        "急にどうしたの"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -51,7 +55,10 @@
     },
     {
       "name": "",
-      "text": "For better or worse, Mihono Bourbon\nisn't the\ntype to assert herself."
+      "text": "For better or worse, Mihono Bourbon\nisn't the\ntype to assert herself.",
+      "choice_data_list": [
+        "（あのブルボンが……！）"
+      ]
     },
     {
       "name": "",
@@ -63,11 +70,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer? Please respond."
+      "text": "Trainer? Please respond.",
+      "choice_data_list": [
+        "（こんなに嬉しいことはない！）"
+      ]
     },
     {
       "name": "",
-      "text": "Hearing this, Mihono Bourbon nods\nhappily."
+      "text": "Hearing this, Mihono Bourbon nods\nhappily.",
+      "choice_data_list": [
+        "次は、もっと大きなレースに出よう！"
+      ]
     },
     {
       "name": "",
@@ -167,7 +180,10 @@
     },
     {
       "name": "",
-      "text": "We decide that our next target is the\nArima\nKinen, a G1 race where only the\nbest runners\ngather!"
+      "text": "We decide that our next target is the\nArima\nKinen, a G1 race where only the\nbest runners\ngather!",
+      "choice_data_list": [
+        "もちろん！"
+      ]
     }
   ]
 }

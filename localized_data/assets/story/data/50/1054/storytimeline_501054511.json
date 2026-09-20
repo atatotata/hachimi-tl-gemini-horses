@@ -27,13 +27,15 @@
       "name": "Biko Pegasus",
       "text": "Ah, Trainer! I'm just about to help out \nwith Tachyon-senpai's experiment! As \nthanks for appearing in my hero show!",
       "choice_data_list": [
-        "！？"
+        "これは一体……！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Agnes Tachyon is infamous for her \nsuspicious experiments. ...I should \nprobably keep a close eye on her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -56,13 +58,15 @@
       "name": "Agnes Tachyon",
       "text": "Hahaha! That's true. Though I haven't even \ntouched the controls yet.",
       "choice_data_list": [
-        "? W-Wait, that..."
+        "ロボット、走り始めてるけど"
       ]
     },
     {
       "name": "Agnes Tachyon",
       "text": "Yeah, they're completely out of control!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "？そ、それって"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -74,7 +78,9 @@
     {
       "name": "Biko Pegasus",
       "text": "Haaaaaahhhhhh--!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "待って！近づくのは危な――"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -91,7 +97,9 @@
     {
       "name": "Agnes Tachyon",
       "text": "What a magnificent person you are!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうだよ、どこかケガとか……！"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -108,7 +116,9 @@
     {
       "name": "Agnes Tachyon",
       "text": "Hm, oh, right! If it puts too much strain \non your body, we can't call it a success!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "い、いや、体の心配が先じゃ……！？"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -130,7 +140,9 @@
     {
       "name": "Narrator",
       "text": "It's a parade of dangerous research, as \nexpected. Going along with this any \nfurther might be...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、怪しいドリンク！？ストーーーップ！！"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -201,16 +213,21 @@
       "name": "Biko Pegasus",
       "text": "Of course! I believe in your passion!",
       "choice_data_list": [
-        "If that's what you want to do... then I'll \nlend you a hand too!",
-        "If that's what you intend to do... then \nI'll lend you my strength!",
-        "...I'll buckle down and reshape my mindset \ntoo.",
-        "...I'll get my act together too."
+        "君がそのつもりなら……俺も力を貸そう！",
+        "貴方がそのつもりなら……私も力を貸すよ！",
+        "……俺も、根性入れ直すよ",
+        "……私も、根性入れ直すよ"
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "!! Thank you! Having you help out is so \nreassuring, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君がそのつもりなら……俺も力を貸そう！",
+        "貴方がそのつもりなら……私も力を貸すよ！",
+        "……俺も、根性入れ直すよ",
+        "……私も、根性入れ直すよ"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -248,7 +265,10 @@
     {
       "name": "Agnes Tachyon",
       "text": "...I, too, am a scientist of sorts. Next \ntime, I shall ensure it is perfected.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（君がそれを言うのか……）",
+        "（貴方がそれを言うの……）"
+      ]
     },
     {
       "name": "Biko Pegasus",

@@ -11,7 +11,12 @@
     },
     {
       "name": "Gold City",
-      "text": "What, you're saying I have this super\nsolid\nfoundation or whatever?"
+      "text": "What, you're saying I have this super\nsolid\nfoundation or whatever?",
+      "choice_data_list": [
+        "積み重ねてきた努力の結果だ",
+        "積み重ねてきた努力の結果だよ",
+        "次のレースは少しでも前向きに"
+      ]
     },
     {
       "name": "Gold City",
@@ -35,7 +40,10 @@
     },
     {
       "name": "Gold City",
-      "text": "I know... I know I need to better my\nattitude."
+      "text": "I know... I know I need to better my\nattitude.",
+      "choice_data_list": [
+        "シチー？"
+      ]
     }
   ]
 }

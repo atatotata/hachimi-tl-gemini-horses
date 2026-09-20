@@ -15,7 +15,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Confused by the conversation I\noverheard in the\nhallway, I turn on the\nTV to check the weather."
+      "text": "Confused by the conversation I\noverheard in the\nhallway, I turn on the\nTV to check the weather.",
+      "choice_data_list": [
+        "（……なんだそれ？）",
+        "（……なにそれ？）"
+      ]
     },
     {
       "name": "Weather Reporter",
@@ -23,11 +27,17 @@
     },
     {
       "name": "Reporter",
-      "text": "This seafood ramen is incredible! It's no\nwonder\nthe line for the shop stretches so\nfar!"
+      "text": "This seafood ramen is incredible! It's no\nwonder\nthe line for the shop stretches so\nfar!",
+      "choice_data_list": [
+        "（あれ、マーチャン？）"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "A pair of big round eyes is staring at me\nfrom the\nedge of the screen. I think I\nmight know who that\nspooky story is\nabout."
+      "text": "A pair of big round eyes is staring at me\nfrom the\nedge of the screen. I think I\nmight know who that\nspooky story is\nabout.",
+      "choice_data_list": [
+        "（ここにも？）"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -39,7 +49,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "The answer's simple—it's part of my\npromotional\ncampaign."
+      "text": "The answer's simple—it's part of my\npromotional\ncampaign.",
+      "choice_data_list": [
+        "そもそもテレビに映り込む理由って？"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -55,7 +68,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "At least... that was the plan. <i>Sigh...</i> But it\nhasn't\nreally worked out the way I\nwanted."
+      "text": "At least... that was the plan. <i>Sigh...</i> But it\nhasn't\nreally worked out the way I\nwanted.",
+      "choice_data_list": [
+        "なるほど……？"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -83,7 +99,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Hehe. I'm sure you'll find out soon\nenough."
+      "text": "Hehe. I'm sure you'll find out soon\nenough.",
+      "choice_data_list": [
+        "さっきから何を話しているんだ？",
+        "さっきから何を話しているの？"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -103,7 +123,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "I do? ...Maybe you're right."
+      "text": "I do? ...Maybe you're right.",
+      "choice_data_list": [
+        "なんか、対応が慣れていたような……？"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -127,11 +150,21 @@
     },
     {
       "name": "Aston Machan",
-      "text": "So that's why I intend to keep making\nmy cameos."
+      "text": "So that's why I intend to keep making\nmy cameos.",
+      "choice_data_list": [
+        "素早く移動していいトレーニングかも……？",
+        "作戦を練るのがうまいな！",
+        "作戦を練るのがうまいね！"
+      ]
     },
     {
       "name": "Aston Machan",
-      "text": "True. I hadn't thought of it that way. You\nmake a\ngood point!"
+      "text": "True. I hadn't thought of it that way. You\nmake a\ngood point!",
+      "choice_data_list": [
+        "素早く移動していいトレーニングかも……？",
+        "作戦を練るのがうまいな！",
+        "作戦を練るのがうまいね！"
+      ]
     },
     {
       "name": "Aston Machan",

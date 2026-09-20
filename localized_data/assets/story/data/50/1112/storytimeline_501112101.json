@@ -32,14 +32,16 @@
       "name": "",
       "text": "—It is broad daylight on New Year's Day in \nthe Trainer's office. The fireworks are \nsimply a video being played on a tablet by \nDaring Heart and the others.",
       "choice_data_list": [
-        "New Year's Eve is already over, right...?",
-        "New Year's Eve is already over, right...?"
+        "いや、叫べと言われても……――"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"My, you really stay calm no matter what, \ndon't you? Though that is one of your best \nqualities!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "年越しってもう終わったよな……？",
+        "年越しってもう終わったよね……？"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -56,7 +58,9 @@
     {
       "name": "Daring Heart",
       "text": "No! Today of all days, I won't listen to \nanything serious!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、いよいよクラシック級なわけで――"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -69,14 +73,16 @@
       "name": "Daring Heart",
       "text": "High, middle, or low?",
       "choice_data_list": [
-        "Wh-What is that...?",
-        "Wh-What is that...?"
+        "え？"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"Just think of it as your vibe! Which one \ndo you want?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "な、なんだそれは……？",
+        "な、何それ……？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -90,7 +96,11 @@
     {
       "name": "Daring Heart",
       "text": "High, huh! Okay, in that case—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "High",
+        "Middle",
+        "Low"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -107,7 +117,9 @@
     {
       "name": "Daring Heart",
       "text": "Trainer, you chose \"high\", didn't you? \nCome on, get waaaay more hyped!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（テンションがもっとハイに……！）"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -120,20 +132,22 @@
       "name": "Daring Heart",
       "text": "Yes! Say, “Ho, ho, ho!”",
       "choice_data_list": [
-        "Ho, ho, ho...!"
+        "……う、うぉーお！"
       ]
     },
     {
       "name": "Heart's Friends",
       "text": "\"Look at Trainer go, gettin' it done♪\" \n\"Wanna MC next~?\" \"Sounds awesome!\" \"Tear \nit up, Trainer-san~!\"",
       "choice_data_list": [
-        "A-all right...! Check it, yo!"
+        "ほ、ほ、ほ……！"
       ]
     },
     {
       "name": "",
       "text": "An unfamiliar atmosphere, an unfamiliar \nlevel of excitement... Yet thanks to \nDaring Heart and her friends, it turned \nout to be a really fun time.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よ、よーし……！チェケ、ヨー！"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -150,7 +164,9 @@
     {
       "name": "Daring Heart",
       "text": "Haaah... It's so warm...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "行くって――どこへ？"
+      ]
     },
     {
       "name": "",
@@ -173,7 +189,10 @@
     {
       "name": "Daring Heart",
       "text": "Well, just playing it safe. I wanted to \nchill out, the way a New Year's should be.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも……どこがミドルなんだ？",
+        "でも……どこがミドルなの？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -196,7 +215,10 @@
     {
       "name": "",
       "text": "Listening to the soft crackling of the \nfire... I spent a relaxing, carefree time \nwith Daring Heart and the others.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……",
+        "うん……"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -234,21 +256,23 @@
       "name": "Daring Heart",
       "text": "Ahaha, what are you talking about?! \nZombies don't care about the seasons, do \nthey? Come on, stop saying such weird \nthings~!",
       "choice_data_list": [
-        "(...Did I say something that weird?)",
-        "(...Did I say something that weird?)"
+        "なんで新年にゾンビイベントが！？"
       ]
     },
     {
       "name": "Zombie A",
       "text": "Ah... Aaah...",
       "choice_data_list": [
-        "...Ngh, whoa, here it comes—"
+        "（……そんなに変なこと言ったか？）",
+        "（……そんなに変なこと言った？）"
       ]
     },
     {
       "name": "Zombie A",
       "text": "—Ahhh, Happy New Yeeeaaarrr...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……っ、うわ、来た――"
+      ]
     },
     {
       "name": "Heart's Friend B",
@@ -270,7 +294,9 @@
     {
       "name": "Daring Heart",
       "text": "Phew~... That was so fun!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（何が怖かったんだろう……）"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -283,13 +309,15 @@
       "name": "Daring Heart",
       "text": "Yes—is what I'd like to say, but... I have \na New Year's party with Craft and the \nothers right after this!",
       "choice_data_list": [
-        "Huh, right after this?!"
+        "ゆっくり休むといいよ"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"You bet! So with that said... I wanna \ntake a shower, so I'll be heading back \nfirst!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、このあと！？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -311,7 +339,9 @@
     {
       "name": "Heart's Friend A",
       "text": "I'd heard rumors that an amazing girl from \nthat Hill Esta Academy had enrolled here.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "負けられない……？"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -349,7 +379,10 @@
     {
       "name": "Heart's Friend C",
       "text": "Of course I am! Otherwise, I wouldn't be \nchasing you this hard~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ハートのこと、尊敬してるんだな",
+        "ハートのこと、尊敬してるんだね"
+      ]
     },
     {
       "name": "Heart's Friend D",
@@ -368,13 +401,16 @@
       "name": "Heart's Friends",
       "text": "\"Ahaha, running low on energy~?\" \"Hey, \nwanna go to karaoke now?\" \"Down~!\" \"How \nabout you, Trainer?\"",
       "choice_data_list": [
-        "...I'll make sure everyone gets back to \nthe dorm safely."
+        "……ああ、任せてくれ",
+        "……うん、任せて"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "—Well then, once more! Ready, set—!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……全員きっちり、寮まで送り届けます"
+      ]
     },
     {
       "name": "Heart & Craft",

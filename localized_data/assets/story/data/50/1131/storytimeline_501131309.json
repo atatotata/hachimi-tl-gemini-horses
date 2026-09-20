@@ -62,29 +62,31 @@
       "name": "Former Mile King Trainer",
       "text": "...So you felt it too. Her running was \nstrangely disjointed, wasn't it?",
       "choice_data_list": [
-        "Alright, I'm off!",
-        "I'm heading out!"
+        "グランの走り……おかしかったような……"
       ]
     },
     {
       "name": "",
       "text": "I run toward her at full speed. —From \nbeyond the underground horse path, I could \nsee Gran Alegria walking over.",
       "choice_data_list": [
-        "Gran! Are you okay!?",
-        "Gran! You okay!?"
+        "俺、行ってきます！",
+        "私、行ってきます！"
       ]
     },
     {
       "name": "Gran Alegria",
       "text": "Ah... Trainer-san...",
       "choice_data_list": [
-        "You didn't hurt yourself anywhere, did \nyou?"
+        "グラン！大丈夫か！？",
+        "グラン！大丈夫！？"
       ]
     },
     {
       "name": "Gran Alegria",
       "text": "Yes, no injuries in particular... \n............But...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どこか痛めたりしてない？"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -111,7 +113,9 @@
     {
       "name": "Gran Alegria",
       "text": "I was so scared... I thought you were \nhurt...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "グラン……！"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -129,7 +133,10 @@
     {
       "name": "",
       "text": "I never should have made you feel so \nhelpless and alone...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（俺が、異変に気づいてあげていれば）",
+        "（私が、異変に気づいてあげていれば）"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -147,7 +154,10 @@
     {
       "name": "Gran Alegria",
       "text": "No...! It's just that I relied too much on \nmy \"gut feeling\"!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺こそ、気づいてあげられなくて悪かった",
+        "私こそ、気づいてあげられなくてごめんね"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -160,7 +170,10 @@
     {
       "name": "",
       "text": "Her running was so genius-level that I \nassumed the accuracy of her \"intuition\" \nwas flawless as well.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も大丈夫だと判断してしまったんだ",
+        "私も大丈夫だと判断してしまったの"
+      ]
     },
     {
       "name": "",
@@ -178,7 +191,10 @@
     {
       "name": "Gran Alegria",
       "text": "Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君以上に君を理解できるよう努めるよ",
+        "貴方以上に貴方を理解できるよう努めるよ"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -190,7 +206,9 @@
     {
       "name": "Former Mile King Trainer",
       "text": "—So, Gran. You don't have any reluctance \ntoward running, do you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい……！"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -202,7 +220,9 @@
     {
       "name": "Gran Alegria",
       "text": "...Um, truth be told... Pushing myself too \nhard kinda scares me...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "怖い思いをしたんだ、無理はしなくていいよ"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -235,7 +255,10 @@
     {
       "name": "",
       "text": "Conquering three categories means winning \nat Sprint, Mile, and Medium distance. If \nwe avoid Medium distance—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の将来なんだから、遠慮はいらないよ",
+        "貴方の将来なんだから、遠慮はいらないよ"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -247,7 +270,9 @@
     {
       "name": "",
       "text": "There was also the sprint GⅠ, the \nSprinters Stakes, but its timing right \nafter summer gave me pause.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なら、1400mの『阪神カップ』はどうかな"
+      ]
     },
     {
       "name": "",
@@ -299,7 +324,9 @@
     {
       "name": "",
       "text": "Overseas races differ greatly from Japan \nin both course characteristics and race \ndevelopment. One could say aptitude \nmatters even more than in domestic races.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "向こうは芝や路盤も全然違うしね"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -321,7 +348,9 @@
     {
       "name": "Gran Alegria",
       "text": "You're right! First, I'll do my best in \nthe Hanshin Cup!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "着実に一歩ずつ、進んでいこう！"
+      ]
     }
   ]
 }

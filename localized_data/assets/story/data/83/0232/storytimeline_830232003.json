@@ -14,7 +14,11 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "Ah, Trainer! Listen to this!"
+      "text": "Ah, Trainer! Listen to this!",
+      "choice_data_list": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -31,7 +35,10 @@
       ]
     },
     {
-      "text": "I shared my thoughts with her, mentioning \nthat not being a horse girl, I'd never \ngiven much thought to the relationship \nbetween hats and ears."
+      "text": "I shared my thoughts with her, mentioning \nthat not being a horse girl, I'd never \ngiven much thought to the relationship \nbetween hats and ears.",
+      "choice_data_list": [
+        "あ、いや、帽子と耳の関係についてね"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -49,7 +56,10 @@
       ]
     },
     {
-      "text": "Blast Onepiece's eyes sparkled with pure \ncuriosity. ...Pushed along by her \nenthusiastic momentum, I ended up having \nto show her how I shop."
+      "text": "Blast Onepiece's eyes sparkled with pure \ncuriosity. ...Pushed along by her \nenthusiastic momentum, I ended up having \nto show her how I shop.",
+      "choice_data_list": [
+        "え、そ、そう？？"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -63,7 +73,10 @@
       ]
     },
     {
-      "text": "Some people do have sound sensitivities, \nthough fewer compared to horse girls—"
+      "text": "Some people do have sound sensitivities, \nthough fewer compared to horse girls—",
+      "choice_data_list": [
+        "人間はメンコを使わないからね"
+      ]
     },
     {
       "text": "I explained in detail that instead of race \nhoods, such people make use of earplugs or \nearmuffs."
@@ -84,7 +97,10 @@
       ]
     },
     {
-      "text": "I gave a detailed explanation for this as \nwell: since humans run at a gentler pace \nthan horse girls, they can manage without \nhorseshoes without putting too much strain \non their legs."
+      "text": "I gave a detailed explanation for this as \nwell: since humans run at a gentler pace \nthan horse girls, they can manage without \nhorseshoes without putting too much strain \non their legs.",
+      "choice_data_list": [
+        "蹄鉄を使うことはないからね"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -104,13 +120,16 @@
       "name": "Blast Onepiece",
       "text": "Hmm, what's up? Find something nice?",
       "choice_data_list": [
-        "Yeah, I sure did!",
-        "Yep, found something!"
+        "（あ、これ……いいかも）"
       ]
     },
     {
       "name": "Blast Onepiece",
-      "text": "Ooh! Then why not go try it on? Don't be \nshy, go right ahead~♪"
+      "text": "Ooh! Then why not go try it on? Don't be \nshy, go right ahead~♪",
+      "choice_data_list": [
+        "ああ、見つけた！",
+        "うん、見つけた！"
+      ]
     },
     {
       "text": "Encouraged by her cheerful push, I decided \nto head into the fitting room."
@@ -130,11 +149,14 @@
       "name": "Blast Onepiece",
       "text": "It feels super smart and cool! The clean \nlines make you look really pretty!",
       "choice_data_list": [
-        "Really? That's a relief!"
+        "本当？よかった！"
       ]
     },
     {
-      "text": "Hearing her words put me at ease. Since I \nwas here, maybe I really should buy it... \n—Just as that thought crossed my mind."
+      "text": "Hearing her words put me at ease. Since I \nwas here, maybe I really should buy it... \n—Just as that thought crossed my mind.",
+      "choice_data_list": [
+        "本当？よかった！"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -155,7 +177,10 @@
       ]
     },
     {
-      "text": "Feeling a bit flustered, I explained to \nher that humans don't have tails, so tail \nholes aren't needed, and it doesn't feel \ncramped at all."
+      "text": "Feeling a bit flustered, I explained to \nher that humans don't have tails, so tail \nholes aren't needed, and it doesn't feel \ncramped at all.",
+      "choice_data_list": [
+        "え、いや、大丈夫だよ……！？"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -169,15 +194,9 @@
       ]
     },
     {
-      "text": "After that amusing exchange, I managed to \ngive her a full tour of what \"human \nshopping\" is like."
-    },
-    {
-      "name": "Blast Onepiece",
-      "text": "Thanks a ton for today! It was so much fun \ngetting to check out all kinds of human \nfashion♪",
+      "text": "After that amusing exchange, I managed to \ngive her a full tour of what \"human \nshopping\" is like.",
       "choice_data_list": [
-        "I should learn more about horse girl \nfashion too.",
-        "I should learn more about horse girl \nfashion too.",
-        "Want me to tell you some relatable human \nquirks?"
+        "あはは、大丈夫だよ"
       ]
     },
     {
@@ -190,7 +209,21 @@
       ]
     },
     {
-      "text": "I figured that picking up knowledge, even \non little things, would help me better \nsupport my trainee horse girls."
+      "name": "Blast Onepiece",
+      "text": "Thanks a ton for today! It was so much fun \ngetting to check out all kinds of human \nfashion♪",
+      "choice_data_list": [
+        "俺もウマ娘のファッションを学んでみるよ",
+        "私もウマ娘のファッションを学んでみるよ",
+        "人間あるあるも教えてあげようか"
+      ]
+    },
+    {
+      "text": "I figured that picking up knowledge, even \non little things, would help me better \nsupport my trainee horse girls.",
+      "choice_data_list": [
+        "俺もウマ娘のファッションを学んでみるよ",
+        "私もウマ娘のファッションを学んでみるよ",
+        "人間あるあるも教えてあげようか"
+      ]
     },
     {
       "name": "Blast Onepiece",
@@ -217,7 +250,10 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "No way—! There are barely any humans who \ncan wiggle their ears on their own?!"
+      "text": "No way—! There are barely any humans who \ncan wiggle their ears on their own?!",
+      "choice_data_list": [
+        "じゃあ帰りながら話そうか"
+      ]
     },
     {
       "name": "Blast Onepiece",

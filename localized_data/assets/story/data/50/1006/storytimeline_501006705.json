@@ -23,7 +23,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah..."
+      "text": "Yeah...",
+      "choice_data_list": [
+        "もしかしてお腹空いた？"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Growl...</i>"
+      "text": "<i>Growl...</i>",
+      "choice_data_list": [
+        "急いで帰ってご飯を食べよう",
+        "何か食べて帰るか？",
+        "何か食べて帰る？"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah... Dinner's waiting for me at the\ndorm, so I\nthink I'll save my appetite for\nwhen I get back."
+      "text": "Yeah... Dinner's waiting for me at the\ndorm, so I\nthink I'll save my appetite for\nwhen I get back.",
+      "choice_data_list": [
+        "急いで帰ってご飯を食べよう",
+        "何か食べて帰るか？",
+        "何か食べて帰る？"
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +60,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sorry... And thanks for being so\nunderstanding!"
+      "text": "Sorry... And thanks for being so\nunderstanding!",
+      "choice_data_list": [
+        "先に走って帰っていいよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -67,7 +83,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "How did you know? Are you some kinda\npsychic?"
+      "text": "How did you know? Are you some kinda\npsychic?",
+      "choice_data_list": [
+        "カレーを食べたいんだろ？",
+        "カレーを食べたいんでしょ？"
+      ]
     },
     {
       "name": "Monologue",

@@ -19,7 +19,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "'Course I am. Who d'ya think yer dealin'\nwith?"
+      "text": "'Course I am. Who d'ya think yer dealin'\nwith?",
+      "choice_data_list": [
+        "でも倒れなかったよな？",
+        "でも倒れなかったよね？"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -71,7 +75,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Mr. C.B. is a winner of the prestigious\ntriple\ncrown. A free-spirited\nUmamusume, she walks a\npath that's all\nher own."
+      "text": "Mr. C.B. is a winner of the prestigious\ntriple\ncrown. A free-spirited\nUmamusume, she walks a\npath that's all\nher own.",
+      "choice_data_list": [
+        "君は……ミスターシービー！？",
+        "貴方は……ミスターシービー！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +95,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Oh yes, I remember it even now."
+      "text": "Oh yes, I remember it even now.",
+      "choice_data_list": [
+        "ただ1度って……"
+      ]
     },
     {
       "name": "Mr. C.B.",

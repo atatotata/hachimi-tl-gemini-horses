@@ -31,7 +31,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I tell Mejiro Ryan about Mejiro Bright's\nmemory."
+      "text": "I tell Mejiro Ryan about Mejiro Bright's\nmemory.",
+      "choice_data_list": [
+        "つまり、こういうことだよ"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -75,7 +78,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "The Japanese Derby... I still can't see the\npath\nbefore me."
+      "text": "The Japanese Derby... I still can't see the\npath\nbefore me.",
+      "choice_data_list": [
+        "ああ、また一緒にやろう",
+        "うん、また一緒にやろう"
+      ]
     },
     {
       "name": "Silence Suzuka",

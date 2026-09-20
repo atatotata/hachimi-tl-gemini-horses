@@ -31,7 +31,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Ah, nothin'. Oguri just had herself some\nweird\ndream is all."
+      "text": "Ah, nothin'. Oguri just had herself some\nweird\ndream is all.",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -83,11 +87,17 @@
     },
     {
       "name": "Inari One",
-      "text": "What kinda anythin'?"
+      "text": "What kinda anythin'?",
+      "choice_data_list": [
+        "せっかくだし、何かしてもらったら？"
+      ]
     },
     {
       "name": "Oguri and Inari",
-      "text": "Huh?!"
+      "text": "Huh?!",
+      "choice_data_list": [
+        "おかずを1個分けてもらうとか……？"
+      ]
     },
     {
       "name": "Tamamo Cross",

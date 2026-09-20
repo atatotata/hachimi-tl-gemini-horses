@@ -22,20 +22,22 @@
       "name": "TV Audio",
       "text": "Kzzzt—... For a great day out, head to the \n— building! Observation deck... project... \nexhibition area... \"The Illusory Art \nExhibition\"... now open!",
       "choice_data_list": [
-        "...! This is it!"
+        "あれ、テレビが勝手に……"
       ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "Thank you very much for inviting me... \nI've actually been interested in that art \nexhibition.",
       "choice_data_list": [
-        "(Great, she looks happy...!)"
+        "……！これだ！"
       ]
     },
     {
       "name": "Narrator",
       "text": "After researching destinations since then, \nI put together a White Day outing plan. \nWith this plan, everything will surely...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（よし、喜んでくれてる……！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -52,7 +54,9 @@
     {
       "name": "Manhattan Cafe",
       "text": "Trainer...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……！？腕が引っ張られて……！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -89,7 +93,9 @@
     {
       "name": "Manhattan Cafe",
       "text": "Trainer, is that the one you're choosing? \nThen, I'll also...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "コーヒーゼリー？"
+      ]
     },
     {
       "name": "Clerk",
@@ -101,7 +107,9 @@
     {
       "name": "Narrator",
       "text": "Even after that... the unseen person's \nadvice kept coming. It seemed they really \nwanted to make this outing a success.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
       "name": "Narrator",
@@ -113,7 +121,9 @@
     {
       "name": "？？？",
       "text": "(N-E-X-T I-S T-H-I-S W-A-Y)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（正直、ちょっと複雑かも……）"
+      ]
     },
     {
       "name": "Narrator",
@@ -135,7 +145,9 @@
     {
       "name": "Manhattan Cafe",
       "text": "You're right... I feel a little drawn to \nthat kind of atmosphere...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……カフェはあのお店、気になる？"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -153,13 +165,15 @@
       "name": "Narrator",
       "text": "...What was I hesitating for? Right, today \nI'm going to tell her—",
       "choice_data_list": [
-        "...Could you take the elevator?"
+        "――！！"
       ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "……! Fish are…… swimming across the night \nsky……",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……エレベーターに乗ってくれるかな？"
+      ]
     },
     {
       "name": "Narrator",
@@ -176,7 +190,9 @@
     {
       "name": "Manhattan Cafe",
       "text": "... ...Perhaps that's true. Though to me, \nit's just... second nature.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "見えない世界が見えたら、こんな感覚かな？"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -194,7 +210,10 @@
     {
       "name": "Manhattan Cafe",
       "text": "...! ...I, see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の世界を見る、俺と同じだな",
+        "貴方の世界を見る、私と同じだね"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -209,15 +228,19 @@
       "name": "Manhattan Cafe",
       "text": "That is... a pleasant surprise... isn't \nit?",
       "choice_data_list": [
-        "Hearing you say that makes me so happy.",
-        "There was an assist from someone else too, \nthough",
-        "There was an assist from someone else too, \nthough"
+        "その言葉が聞けて、すごく嬉しい",
+        "もう1人のアシストもあったけどな",
+        "もう1人のアシストもあったけどね"
       ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "...Fufu.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "その言葉が聞けて、すごく嬉しい",
+        "もう1人のアシストもあったけどな",
+        "もう1人のアシストもあったけどね"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -231,13 +254,16 @@
       "name": "Manhattan Cafe",
       "text": "No... She should be waiting in my room. \nShe sent me off saying, \"Just the two of \nyou today\"...",
       "choice_data_list": [
-        "(Huh? Then—)"
+        "あれ？今は一緒じゃないのか？",
+        "あれ？今は一緒じゃないの？"
       ]
     },
     {
       "name": "Narrator",
       "text": "And so, yet another mysterious memory was \nmade.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（えっ？じゃあ――）"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -255,13 +281,15 @@
       "name": "Manhattan Cafe",
       "text": "? She should be waiting in my room... She \nsent me off saying, \"Just the two of you \ntoday\"...",
       "choice_data_list": [
-        "......Huh?"
+        "ところで『お友だち』は今、どんな感じ？"
       ]
     },
     {
       "name": "Narrator",
       "text": "And so, yet another mysterious memory was \nmade.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………え？"
+      ]
     }
   ]
 }

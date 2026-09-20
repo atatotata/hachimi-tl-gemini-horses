@@ -142,7 +142,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "We went and traded stickers! And then, \nBiko-chan suddenly showed up with a BAM--"
+      "text": "We went and traded stickers! And then, \nBiko-chan suddenly showed up with a BAM--",
+      "choice_data_list": [
+        "どうしたの？サングラスなんかかけて"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -161,14 +164,19 @@
       "name": "Biko Pegasus",
       "text": "Geez, that's embarrassing, Urara-senpai!",
       "choice_data_list": [
-        "Whoa, you worked really hard, Biko!",
-        "Whoa, you did your best, Biko!",
-        "Make sure to rely on adults in times like \nthat."
+        "へえ、頑張ったんだな、ビコー！",
+        "へえ、頑張ったんだね、ビコー！",
+        "そういう時は大人を頼ってね"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah, yeah! She did her very best to \nprotect me!"
+      "text": "Yeah, yeah! She did her very best to \nprotect me!",
+      "choice_data_list": [
+        "へえ、頑張ったんだな、ビコー！",
+        "へえ、頑張ったんだね、ビコー！",
+        "そういう時は大人を頼ってね"
+      ]
     },
     {
       "name": "Haru Urara",

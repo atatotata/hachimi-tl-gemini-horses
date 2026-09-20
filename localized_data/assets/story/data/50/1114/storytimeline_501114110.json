@@ -33,29 +33,32 @@
       "name": "Young Buena",
       "text": "\"Hey, Onii-chan... wake up! \nWakey-waaaakey~~?\"",
       "choice_data_list": [
-        "Hey now... Buena, don't climb on top of \nme...",
-        "Hey now... Buena, please don't climb on \ntop of me..."
+        "（お兄ちゃんと呼ばれるのが……嬉しくて）",
+        "（お姉ちゃんと呼ばれるのが……嬉しくて）"
       ]
     },
     {
       "name": "Young Buena",
       "text": "\"Hey, Onee-chan... wake up! \nWakey-waaaakey~~?\"",
       "choice_data_list": [
-        "Hey now... Buena, don't climb on top of \nme...",
-        "Hey now... Buena, please don't climb on \ntop of me..."
+        "こら……ブエナ、上に乗らない……",
+        "こら……ブエナ、上に乗らないで……"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "—I'm not riding it anymore, you know?",
       "choice_data_list": [
-        "Uh—"
+        "こら……ブエナ、上に乗らない……",
+        "こら……ブエナ、上に乗らないで……"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Ah, you're finally awake.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え――"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -68,21 +71,23 @@
       "name": "Buena Vista",
       "text": "I felt bad about interrupting, but... it's \nalmost time for my tandem run with \nDesire-chan.",
       "choice_data_list": [
-        "Is it really that time already...?",
-        "Is it really that time already...?!"
+        "ブエナ……！？"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, you were fast asleep, weren't you? I \nwonder what kind of dream you were having.",
       "choice_data_list": [
-        "Just an old dream..."
+        "もうそんな時間か……！",
+        "もうそんな時間……！"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Ah, so that's why you meant \"don't ride\"? \nYou really were such a spoiled baby, \nweren't you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "昔の夢を少々……"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -100,13 +105,15 @@
       "name": "Narrator",
       "text": "Just as I was about to nod, I remembered. \nIf her voice in my dream was linked to \nreality, then the voice calling me \"big \nsister\" back then was...",
       "choice_data_list": [
-        "(...No, I guess it was just a voice from a \ndream after all)"
+        "（……いや、やっぱり夢の声か）"
       ]
     },
     {
       "name": "Red Desire",
       "text": "I've been expecting you, Buena-san.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……いや、やっぱり夢の声か）"
+      ]
     },
     {
       "name": "Red Desire",
@@ -169,7 +176,10 @@
     {
       "name": "Buena Vista",
       "text": "Yes! Watch me from the front row!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、行ってらっしゃい！",
+        "うん、行ってらっしゃい！"
+      ]
     },
     {
       "name": "Narrator",

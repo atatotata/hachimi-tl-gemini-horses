@@ -11,7 +11,10 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Whoa! This place is super cute and\nfancy! I'm\ngonna stick out like a sore\nthumb!"
+      "text": "Whoa! This place is super cute and\nfancy! I'm\ngonna stick out like a sore\nthumb!",
+      "choice_data_list": [
+        "そうです"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Oh! You're a trainer from the academy!\nAre you\nsure? We'd really appreciate it!"
+      "text": "Oh! You're a trainer from the academy!\nAre you\nsure? We'd really appreciate it!",
+      "choice_data_list": [
+        "自分は構いませんよ"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -91,7 +97,11 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Yes, we've been meeting regularly at\nMejiro\nfamily gatherings ever since we\nwere young. Ryan\nhas always been so\nkindhearted."
+      "text": "Yes, we've been meeting regularly at\nMejiro\nfamily gatherings ever since we\nwere young. Ryan\nhas always been so\nkindhearted.",
+      "choice_data_list": [
+        "2人は仲がいいんだな",
+        "2人は仲がいいんだね"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -127,11 +137,21 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "It's as big as a whole cake! Looks like a\nlot to\neat..."
+      "text": "It's as big as a whole cake! Looks like a\nlot to\neat...",
+      "choice_data_list": [
+        "君たちで分け合えば食べきれる！",
+        "貴方たちで分け合えば食べきれる！",
+        "テイクアウトにする？"
+      ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Indeed. Let's cut it and have half each,\nRyan."
+      "text": "Indeed. Let's cut it and have half each,\nRyan.",
+      "choice_data_list": [
+        "君たちで分け合えば食べきれる！",
+        "貴方たちで分け合えば食べきれる！",
+        "テイクアウトにする？"
+      ]
     },
     {
       "name": "Monologue",

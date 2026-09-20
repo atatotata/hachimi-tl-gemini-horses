@@ -47,7 +47,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "The last competition ended earlier than\nexpected\nso I have unanticipated free\ntime."
+      "text": "The last competition ended earlier than\nexpected\nso I have unanticipated free\ntime.",
+      "choice_data_list": [
+        "お疲れさま！"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -59,7 +62,10 @@
     },
     {
       "name": "Event Announcer",
-      "text": "It's time for everyone's favorite event,\nthe\nfan-carrying contest!"
+      "text": "It's time for everyone's favorite event,\nthe\nfan-carrying contest!",
+      "choice_data_list": [
+        "なら、提案があるんだけど――"
+      ]
     },
     {
       "name": "Event Announcer",
@@ -211,7 +217,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Thank you!"
+      "text": "Thank you!",
+      "choice_data_list": [
+        "トーク会してもいいか確認してくる！"
+      ]
     },
     {
       "name": "Monologue",

@@ -174,15 +174,19 @@
       "name": "Narrator",
       "text": "I was handed a piece of bread shaped like \nRhein Kraft's face. The craftsmanship is \ntruly impressive.",
       "choice_data_list": [
-        "You must've been through a lot, huh?",
-        "Wow, you're really good!",
-        "Whoa~ You're really good at this!"
+        "相当苦労したんじゃない？",
+        "うわあ～すごく上手だな！",
+        "うわあ～すごく上手だね！"
       ]
     },
     {
       "name": "Rhein Kraft",
       "text": "Right... But Messiah-san made it together \nwith me, so it was all okay♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "相当苦労したんじゃない？",
+        "うわあ～すごく上手だな！",
+        "うわあ～すごく上手だね！"
+      ]
     },
     {
       "name": "Air Messiah",

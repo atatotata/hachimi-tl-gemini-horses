@@ -26,7 +26,10 @@
     },
     {
       "name": "Duramente",
-      "text": "People... approach me?"
+      "text": "People... approach me?",
+      "choice_data_list": [
+        "人が寄ってくるような雰囲気を出すとか"
+      ]
     },
     {
       "name": "Trainer",
@@ -61,7 +64,10 @@
     },
     {
       "name": "Trainer",
-      "text": "You aren't a dog or a cat— I hastily \ninterjected to course-correct a somewhat \nconfused Duramente."
+      "text": "You aren't a dog or a cat— I hastily \ninterjected to course-correct a somewhat \nconfused Duramente.",
+      "choice_data_list": [
+        "い、いや、それは"
+      ]
     },
     {
       "name": "Duramente",
@@ -94,7 +100,11 @@
       ]
     },
     {
-      "text": "Thinking of a dog gazing up with watery \neyes as if begging for headpats, I murmur \nit aloud, causing Duramente to react to \nthe words."
+      "text": "Thinking of a dog gazing up with watery \neyes as if begging for headpats, I murmur \nit aloud, causing Duramente to react to \nthe words.",
+      "choice_data_list": [
+        "目を見つめてくる犬……",
+        "体を寄せる猫……"
+      ]
     },
     {
       "name": "Duramente",

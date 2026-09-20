@@ -22,14 +22,16 @@
       "name": "Orfevre",
       "text": "Indeed. ……Hm, this writing. Could it be \nthat child from back then?",
       "choice_data_list": [
-        "Is that someone you know?",
-        "Is that someone you know?"
+        "もしかして、子どもからのファンレター？"
       ]
     },
     {
       "name": "Orfevre",
       "text": "...It's a chance encounter.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "知ってる相手なのか？",
+        "知ってる相手なの？"
+      ]
     },
     {
       "name": "Boy",
@@ -81,7 +83,9 @@
     {
       "name": "Orfevre",
       "text": "You dare make a fool of me?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "迷子の子を助けてあげるなんて、優しいね"
+      ]
     },
     {
       "name": "Orfevre",

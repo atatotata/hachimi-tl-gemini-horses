@@ -95,7 +95,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haha, I see. The Arc tends to get a lot of\nrain,\nafter all."
+      "text": "Haha, I see. The Arc tends to get a lot of\nrain,\nafter all.",
+      "choice_data_list": [
+        "できる限りの重バ場を用意してみたんだ"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -107,11 +110,19 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "This is good enough considering what\nwe're\ncapable of."
+      "text": "This is good enough considering what\nwe're\ncapable of.",
+      "choice_data_list": [
+        "でも『凱旋門賞』の芝と感覚が全然違うよな",
+        "でも『凱旋門賞』の芝と感覚が全然違うよね"
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "I mean... there's only so much we can do."
+      "text": "I mean... there's only so much we can do.",
+      "choice_data_list": [
+        "……けど“充分”でいいのか？",
+        "……けど“充分”でいいのかな"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -123,7 +134,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It's not an exaggeration to say this race\ncould\nchange Nakayama Festa's life."
+      "text": "It's not an exaggeration to say this race\ncould\nchange Nakayama Festa's life.",
+      "choice_data_list": [
+        "（……『凱旋門賞』は大きなレースだ）"
+      ]
     },
     {
       "name": "Interviewer",
@@ -147,7 +161,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Please wait!"
+      "text": "Please wait!",
+      "choice_data_list": [
+        "ご、ごめん！あとは提出するだけだな！",
+        "ご、ごめん！あとは提出するだけだね！"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -167,7 +185,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Yes. If you enter the Prix de l'Arc de\nTriomphe as\nyou are now, you won't take\nfirst place!"
+      "text": "Yes. If you enter the Prix de l'Arc de\nTriomphe as\nyou are now, you won't take\nfirst place!",
+      "choice_data_list": [
+        "1年……？"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -195,7 +216,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "But I'll see to it that you get that\nexperience."
+      "text": "But I'll see to it that you get that\nexperience.",
+      "choice_data_list": [
+        "世界レベルのレース……？"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -219,7 +243,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Por favor."
+      "text": "Por favor.",
+      "choice_data_list": [
+        "つまり、君たちとレースを……？",
+        "つまり、貴方たちとレースを……？"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -243,7 +271,10 @@
     },
     {
       "name": "Monologue",
-      "text": "(There's no way to train for this on the\nacademy's\nturf.)"
+      "text": "(There's no way to train for this on the\nacademy's\nturf.)",
+      "choice_data_list": [
+        "……見えたもの"
+      ]
     },
     {
       "name": "Monologue",
@@ -271,7 +302,10 @@
     },
     {
       "name": "Monologue",
-      "text": "No... I only started to realize it after El\nCondor\nPasa began coaching us."
+      "text": "No... I only started to realize it after El\nCondor\nPasa began coaching us.",
+      "choice_data_list": [
+        "（……わかっていた）"
+      ]
     },
     {
       "name": "Monologue",
@@ -323,11 +357,18 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "……そこまで言わせてしまって、ごめん",
+        "……そこまで言わせてしまって、ごめんね"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "The final decision isn't mine to make.\nThat\nresponsibility falls on you."
+      "text": "The final decision isn't mine to make.\nThat\nresponsibility falls on you.",
+      "choice_data_list": [
+        "ありがとう、言い出しづらいことだったのに"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -343,7 +384,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "ああ。……ナカヤマ、話そう",
+        "うん。……ナカヤマ、話そう"
+      ]
     },
     {
       "name": "Monologue",
@@ -355,7 +400,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "A whole year... is too long."
+      "text": "A whole year... is too long.",
+      "choice_data_list": [
+        "正直、君はどう思っている？",
+        "正直、貴方はどう思っている？"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -379,7 +428,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I get it. I know full well who she's doing\nthis all\nfor—and why. Since classic year,\nNakayama has\nbeen fighting so hard to\ngive her mentor hope."
+      "text": "I get it. I know full well who she's doing\nthis all\nfor—and why. Since classic year,\nNakayama has\nbeen fighting so hard to\ngive her mentor hope.",
+      "choice_data_list": [
+        "……そうか",
+        "……そう"
+      ]
     },
     {
       "name": "Monologue",
@@ -399,11 +452,18 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Sure, I can still improve, but it's not like\nmy\nchances right now are frickin' zero!"
+      "text": "Sure, I can still improve, but it's not like\nmy\nchances right now are frickin' zero!",
+      "choice_data_list": [
+        "……でもこのままでもいけないよ"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "And even if we postpone the attempt for\nnext\nyear, that won't bring our chances\nto one\nhundred."
+      "text": "And even if we postpone the attempt for\nnext\nyear, that won't bring our chances\nto one\nhundred.",
+      "choice_data_list": [
+        "ああ、そうだと思う",
+        "うん、そうだと思う"
+      ]
     },
     {
       "name": "Monologue",
@@ -411,7 +471,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "負けた時『仕方なかった』って思うよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -423,11 +486,18 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "あの人のためだったって、人のせいにして"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "If Nakayama's gonna do this, it has to be\nof her\nown volition, weighing on her own\nshoulders."
+      "text": "If Nakayama's gonna do this, it has to be\nof her\nown volition, weighing on her own\nshoulders.",
+      "choice_data_list": [
+        "それでいいのか？",
+        "それでいいの？"
+      ]
     },
     {
       "name": "Monologue",
@@ -435,7 +505,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "俺は俺たちの賭けだったって言いたい",
+        "私は私たちの賭けだったって言いたい"
+      ]
     },
     {
       "name": "Monologue",
@@ -443,7 +517,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Yeah, but..."
+      "text": "Yeah, but...",
+      "choice_data_list": [
+        "どの道を選ぶのか決めよう、自分たちで"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -455,11 +532,18 @@
     },
     {
       "name": "Monologue",
-      "text": "No doubt, the kind soul lying in that\nhospital bed\nwould agree."
+      "text": "No doubt, the kind soul lying in that\nhospital bed\nwould agree.",
+      "choice_data_list": [
+        "結果的に君が選んだ勝負なら、構わない",
+        "結果的に貴方が選んだ勝負なら、構わない"
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "それが地獄に続く一本道でも、一緒に行くよ"
+      ]
     },
     {
       "name": "Monologue",

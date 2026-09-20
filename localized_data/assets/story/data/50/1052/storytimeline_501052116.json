@@ -11,7 +11,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, Trainer! I'm handing out flyers!"
+      "text": "Oh, Trainer! I'm handing out flyers!",
+      "choice_data_list": [
+        "ウララ、何してるんだ？",
+        "ウララ、何してるの？"
+      ]
     },
     {
       "name": "Energetic Shopkeeper",
@@ -31,7 +35,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Arima Kinen participants are decided\nthrough a\nvote, right?"
+      "text": "Arima Kinen participants are decided\nthrough a\nvote, right?",
+      "choice_data_list": [
+        "これは……"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -87,11 +94,19 @@
     },
     {
       "name": "Umamusume A",
-      "text": "...What the heck is this?"
+      "text": "...What the heck is this?",
+      "choice_data_list": [
+        "ウララ、あのな――",
+        "ウララ、あのね――"
+      ]
     },
     {
       "name": "Umamusume A",
-      "text": "How can I smile right now?!"
+      "text": "How can I smile right now?!",
+      "choice_data_list": [
+        "あれ、君は……",
+        "あれ、貴方は……"
+      ]
     },
     {
       "name": "Monologue",

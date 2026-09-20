@@ -13,7 +13,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "—Man, sorry about this, really. Come on \nTurbo, scooch over a bit."
+      "text": "—Man, sorry about this, really. Come on \nTurbo, scooch over a bit.",
+      "choice_data_list": [
+        "構いませんよ"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -79,7 +82,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "—In summertime. Amid scorching heat and \nstormy rain, burning with passion, holding \nfire-like nutrients deep within—"
+      "text": "—In summertime. Amid scorching heat and \nstormy rain, burning with passion, holding \nfire-like nutrients deep within—",
+      "choice_data_list": [
+        "こ、この風景は……！？"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -102,7 +108,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Hold on, this ain't a joke anymore...!"
+      "text": "Hold on, this ain't a joke anymore...!",
+      "choice_data_list": [
+        "さ、寒い……！"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -145,14 +154,19 @@
       "name": "Yamanin Zephyr",
       "text": "...? Is something the matter?",
       "choice_data_list": [
-        "...At any rate, I'm glad you enjoyed it.",
-        "You seem very knowledgeable... about \nnature.",
-        "You seem pretty knowledgeable... about \nnature."
+        "……とにかく美味しかったようでよかった",
+        "自然に詳しい……みたいだな",
+        "自然に詳しい……みたいだね"
       ]
     },
     {
       "name": "Shop Owner",
-      "text": "Incredible! To have our dishes—crafted \nwith such utmost care from the ingredients \nto the cooking methods—appreciated to this \ndegree...!"
+      "text": "Incredible! To have our dishes—crafted \nwith such utmost care from the ingredients \nto the cooking methods—appreciated to this \ndegree...!",
+      "choice_data_list": [
+        "……とにかく美味しかったようでよかった",
+        "自然に詳しい……みたいだな",
+        "自然に詳しい……みたいだね"
+      ]
     },
     {
       "name": "Shop Owner",

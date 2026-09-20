@@ -59,7 +59,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Shush! Trainer, look down by her feet."
+      "text": "Shush! Trainer, look down by her feet.",
+      "choice_data_list": [
+        "いや、それはヨガって言うより……"
+      ]
     },
     {
       "name": "Monologue",
@@ -75,11 +78,21 @@
     },
     {
       "name": "Gold City",
-      "text": "Telling her it's not yoga might crush her\nmotivation."
+      "text": "Telling her it's not yoga might crush her\nmotivation.",
+      "choice_data_list": [
+        "そうだな",
+        "そうだね",
+        "それとこれは違うと思うよ"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Thanks."
+      "text": "Thanks.",
+      "choice_data_list": [
+        "そうだな",
+        "そうだね",
+        "それとこれは違うと思うよ"
+      ]
     },
     {
       "name": "Kawakami Princess",

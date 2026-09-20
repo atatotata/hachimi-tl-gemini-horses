@@ -11,7 +11,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I will! I'll take a shower and... huh?"
+      "text": "I will! I'll take a shower and... huh?",
+      "choice_data_list": [
+        "帰ってしっかり休もうな",
+        "帰ってしっかり休もうね"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -39,7 +43,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Don't wooorry! I'll be fine! All right, let's\nknock\nthis out!"
+      "text": "Don't wooorry! I'll be fine! All right, let's\nknock\nthis out!",
+      "choice_data_list": [
+        "ほどほどにな",
+        "ほどほどにね"
+      ]
     },
     {
       "name": "",
@@ -163,7 +171,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "No, that's not it! Aaagh... What have I\ndone?!"
+      "text": "No, that's not it! Aaagh... What have I\ndone?!",
+      "choice_data_list": [
+        "さすがに疲れた？"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -171,15 +182,29 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Just as Prez finally invited me to a\nscrimmage!"
+      "text": "Just as Prez finally invited me to a\nscrimmage!",
+      "choice_data_list": [
+        "ちゃんとした舞台で競うんだろ？",
+        "ちゃんとした舞台で競うんでしょ？",
+        "競うなら準備が必要！"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah, but..."
+      "text": "Yeah, but...",
+      "choice_data_list": [
+        "ちゃんとした舞台で競うんだろ？",
+        "ちゃんとした舞台で競うんでしょ？",
+        "競うなら準備が必要！"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Oh... that's right! First off is getting to\nwhere Prez\nis at!"
+      "text": "Oh... that's right! First off is getting to\nwhere Prez\nis at!",
+      "choice_data_list": [
+        "まずは、その舞台まで行かないとな",
+        "まずは、その舞台まで行かないとね"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -195,7 +220,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah! We're gonna surpass Prez\ntogether, Trainer!"
+      "text": "Yeah! We're gonna surpass Prez\ntogether, Trainer!",
+      "choice_data_list": [
+        "勝とうな",
+        "勝とうね"
+      ]
     }
   ]
 }

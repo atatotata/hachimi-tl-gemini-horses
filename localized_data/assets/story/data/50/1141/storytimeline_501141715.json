@@ -21,7 +21,9 @@
     {
       "name": "Epiphaneia",
       "text": "\"Right now! I'm in top condition! My whole \nbody is overflowing with energy! It'd be \nsuch a waste to stop!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、さすがにこれ以上は……"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -96,15 +98,19 @@
       "name": "Narrator",
       "text": "Both are fully motivated, but the \natmosphere certainly doesn't feel like it \nwill end with just light exercise.",
       "choice_data_list": [
-        "Since you're so motivated, why not give it \na shot?",
-        "Since you're all fired up, let's give it a \nshot!",
-        "Isn't it overflowing a bit too much with \ncheerful energy this time?"
+        "せっかくやる気なんだし、やってみるか",
+        "せっかくやる気なんだし、やってみよう",
+        "今度は陽の気が溢れすぎない？"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Alright, got Trainer's permission! Let's \ngo, Rickey! I've been itching to run this \nwhole time!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "せっかくやる気なんだし、やってみるか",
+        "せっかくやる気なんだし、やってみよう",
+        "今度は陽の気が溢れすぎない？"
+      ]
     },
     {
       "name": "Copano Rickey",

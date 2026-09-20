@@ -47,13 +47,15 @@
       "name": "Interviewer",
       "text": "For example, are you still in touch with \nthe schoolmates you had back in America? \nOr perhaps――",
       "choice_data_list": [
-        "Um, wasn't today's interview supposed to \nbe about the project...?"
+        "（――ん？）"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "――Fufu, of course social connections are \nimportant. However, what matters is not \nwho I associate with.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あの、今日はPJについての取材では……"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -70,7 +72,9 @@
     {
       "name": "Interviewer",
       "text": "Oh, please pardon me! I just assumed that \ncoming from you, Casino, we'd get to hear \nabout your fabulous circle of friends!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（おお……さすがの切り返し！）"
+      ]
     },
     {
       "name": "Interviewer",
@@ -103,28 +107,30 @@
       "name": "Casino Drive",
       "text": "Um.........",
       "choice_data_list": [
-        "――! Excuse me, that's all for the \ninterview!"
+        "（……カジノ？）"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...I'm sorry. For showing you such a \npathetic side of myself...",
       "choice_data_list": [
-        "...You just overstepped a bit, it couldn't \nbe helped.",
-        "...You just overstepped a bit, it couldn't \nbe helped."
+        "――ッ！すみません、取材はここまでに！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Bringing up sisters had clearly changed \nher demeanor. I hesitated to press the \nissue... but I couldn't help but worry.",
       "choice_data_list": [
-        "......Um, by that older girl, do you \nmeanââ"
+        "……あれは踏み込みすぎだ、仕方ないよ",
+        "……あれは踏み込みすぎ、仕方ないよ"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...It's not that we're on bad terms at \nall. It's just—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………その、お姉さんとは――"
+      ]
     },
     {
       "name": "Reporter A",
@@ -162,14 +168,16 @@
       "name": "Narrator",
       "text": "Behind her constant striving for \nperfection... perhaps past expectations \nand feelings of inadequacy are still \nclinging to her.",
       "choice_data_list": [
-        "...Even so, I know the truth.",
-        "...Even so, I know the truth."
+        "（……ずっと、縛られてきたんだな）"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...? Trainer...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……でも、俺は知ってるよ",
+        "……でも、私は知ってるよ"
+      ]
     },
     {
       "name": "Narrator",
@@ -193,21 +201,24 @@
       "name": "Casino Drive",
       "text": "...!",
       "choice_data_list": [
-        "So, you can have more confidence in \nyourself."
+        "すべて、君自身の輝きだ",
+        "すべて、貴方自身の輝きだよ"
       ]
     },
     {
       "name": "Narrator",
       "text": "Her radiance will become a light guiding \nthe team…… and bring not just one, but \ncountless victories. This dream will \nsurely――",
       "choice_data_list": [
-        "Because you're the only one who can make \nit come true.",
-        "Because you're the only one who can make \nit come true."
+        "だから、もっと自信を持っていい"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...Am I... the only one...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君だけが、叶えられるものなんだから",
+        "貴方だけが、叶えられるものなんだから"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -225,7 +236,10 @@
     {
       "name": "Narrator",
       "text": "—An early afternoon bathed in sunlight. \nThose gleaming eyes gazed straight ahead.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。それでこそ、カジノドライヴだな",
+        "うん。それでこそ、カジノドライヴだね"
+      ]
     }
   ]
 }

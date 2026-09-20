@@ -28,13 +28,16 @@
       "name": "Narrator",
       "text": "For the past few days, the redness in my \nirises hasn't faded. I could hide it with \ncolored contacts... but I chose sunglasses \nto shield against the sunlight as well.",
       "choice_data_list": [
-        "...Is it weird?"
+        "ああ、ちょっとな",
+        "うん、ちょっとね"
       ]
     },
     {
       "name": "Still in Love",
       "text": "...It suits you, very well.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……変かな"
+      ]
     },
     {
       "name": "Still in Love",
@@ -47,7 +50,10 @@
     {
       "name": "Still in Love",
       "text": "......I see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ごめんな、もう食べちゃった",
+        "……ごめんね、もう食べちゃった"
+      ]
     },
     {
       "name": "Narrator",
@@ -60,7 +66,10 @@
     {
       "name": "Still in Love",
       "text": "...Shall we decline after all? Or perhaps, \nI could go alone.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "まずはインタビューがあったな、行こう",
+        "まずはインタビューがあったね、行こう"
+      ]
     },
     {
       "name": "Still in Love",
@@ -73,30 +82,32 @@
       "name": "Still in Love",
       "text": "However...",
       "choice_data_list": [
-        "Let me go. ...Because you are going down \nin history.",
-        "Let me go... You're meant to make history, \nafter all."
+        "大丈夫だよ"
       ]
     },
     {
       "name": "Narrator",
       "text": "Not just as a Triple Tiara Umamusume, but \ntoday, surpassing Admire Groove... carving \nout a new legacy. Her strides will never \ncease.",
       "choice_data_list": [
-        "(Still, I... probably won't be able to see \nit through to the end.)",
-        "(Still, I... probably won't be able to see \nit through to the end.)"
+        "行かせて。……君は歴史に残るんだから",
+        "行かせて。……貴方は歴史に残るんだから"
       ]
     },
     {
       "name": "Narrator",
       "text": "Then I'll do everything in my power... As \nthe Trainer who knows the 'now' of a girl \ndestined for even greater heights—I want \nto share her story.",
       "choice_data_list": [
-        "I have to let everyone know how amazing \nyou are...",
-        "I have to let everyone know just how \nwonderful you are..."
+        "（でも俺は……きっと、見届けられない）",
+        "（でも私は……きっと、見届けられない）"
       ]
     },
     {
       "name": "Still in Love",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の素晴らしさを、伝えないと……",
+        "貴方の素晴らしさを、伝えないと……"
+      ]
     },
     {
       "name": "Still in Love",

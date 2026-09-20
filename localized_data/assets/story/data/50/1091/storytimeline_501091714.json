@@ -37,7 +37,10 @@
     {
       "name": "Narrator",
       "text": "Precisely because I know how much she's \nstaking on her dream, I can't risk seeing \nit cut short.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "その夢のためにも、今は休んでほしい",
+        "わかった。でも危険だと思ったら中止するよ"
+      ]
     },
     {
       "name": "Vivlos",
@@ -84,7 +87,9 @@
     {
       "name": "Vivlos",
       "text": "Why the other leg too...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ヴィブロス……！"
+      ]
     },
     {
       "name": "Narrator",

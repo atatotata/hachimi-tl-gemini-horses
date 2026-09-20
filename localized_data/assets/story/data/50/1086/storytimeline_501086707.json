@@ -33,13 +33,16 @@
       "name": "Mejiro Ardan",
       "text": "\"...I passed by her a moment ago. It seems \nmy sister 'no longer' prays, after all...\"",
       "choice_data_list": [
-        "You won't pray “anymore”?"
+        "ああ。彼女はしないようだから、代わりに",
+        "ええ。彼女はしないようだから、代わりに"
       ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "Um... you know that there was a period \nwhen my sister couldn't run, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "“もう”祈らない？"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -76,7 +79,9 @@
     {
       "name": "",
       "text": "I had been praying so earnestly that \nevening had already arrived. It seemed I \nkept Mejiro Ramonu waiting.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ラモーヌの不調が解消されますように）"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -88,7 +93,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "The setting sun melts away, drops from the \nheavens—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ごめん、待たせてしまっ――"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -101,7 +108,10 @@
     {
       "name": "",
       "text": "Mejiro Ramonu lets her pen glide across \nthe paper in the glow of dusk. Though the \nscenery sank into twilight, the sun was \nrising in her eyes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いい絵が描けそうだな！",
+        "いい絵が描けそうだね！"
+      ]
     },
     {
       "name": "",
@@ -119,7 +129,10 @@
     {
       "name": "Mejiro Ramonu",
       "text": "—Part of the shrine approach was under \nconstruction. It completely ruined the \nmood.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何かあったのか？",
+        "何かあったの？"
+      ]
     },
     {
       "name": "Mejiro Ramonu",

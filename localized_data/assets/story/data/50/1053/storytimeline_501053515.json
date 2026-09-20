@@ -47,7 +47,10 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hey, Trainer! Helios said she found a\nlost dog!"
+      "text": "Hey, Trainer! Helios said she found a\nlost dog!",
+      "choice_data_list": [
+        "！？どういう状況？"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -95,7 +98,11 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Anyone would want to help out if they\nfound a\ndog in distress!"
+      "text": "Anyone would want to help out if they\nfound a\ndog in distress!",
+      "choice_data_list": [
+        "すごい息が合ってたな",
+        "すごい息が合ってたね"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -103,7 +110,10 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Actually, Helios and I run together all\nthe time!"
+      "text": "Actually, Helios and I run together all\nthe time!",
+      "choice_data_list": [
+        "アレって？"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -115,11 +125,21 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes! We don't plan it or anything, but\nwe're\nalways at the same place at the\nsame time. It's\nalmost like destiny is\nbringing us together!"
+      "text": "Yes! We don't plan it or anything, but\nwe're\nalways at the same place at the\nsame time. It's\nalmost like destiny is\nbringing us together!",
+      "choice_data_list": [
+        "今後とも仲良くな",
+        "今後とも仲良くね",
+        "もしかして互いに超能力が……"
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "Of course!"
+      "text": "Of course!",
+      "choice_data_list": [
+        "今後とも仲良くな",
+        "今後とも仲良くね",
+        "もしかして互いに超能力が……"
+      ]
     },
     {
       "name": "Daitaku Helios",

@@ -50,7 +50,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Between the other day and now, Transcend's \nattentiveness and sharp observational \nskills toward her friends are truly \nimpressive. It's something worth learning \nfrom."
+      "text": "Between the other day and now, Transcend's \nattentiveness and sharp observational \nskills toward her friends are truly \nimpressive. It's something worth learning \nfrom.",
+      "choice_data_list": [
+        "（みんなをよく見てるなー）"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -85,7 +88,10 @@
     },
     {
       "name": "Narrator",
-      "text": "A few days later, upon stopping by the \ncafeteria—"
+      "text": "A few days later, upon stopping by the \ncafeteria—",
+      "choice_data_list": [
+        "（難しそうだけど、どうするのかな？）"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -96,7 +102,10 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "That it did. Tran-san said it suddenly \nstarted working again. Turns out it still \nhad plenty of fight left in it~"
+      "text": "That it did. Tran-san said it suddenly \nstarted working again. Turns out it still \nhad plenty of fight left in it~",
+      "choice_data_list": [
+        "それ、直ったんだ"
+      ]
     },
     {
       "name": "Transcend",
@@ -108,7 +117,11 @@
     },
     {
       "name": "Transcend",
-      "text": "Didn't you hear from Accu-san? It just \nfixed itself magically~"
+      "text": "Didn't you hear from Accu-san? It just \nfixed itself magically~",
+      "choice_data_list": [
+        "あのゲーム機、どうやって直したんだ？",
+        "あのゲーム機、どうやって直したの？"
+      ]
     },
     {
       "name": "Transcend",
@@ -126,23 +139,27 @@
       "name": "Transcend",
       "text": "Now, now, don't worry about it. Ah, but \nkeep it a secret from Accu-san, alright? \nDon't want her feeling all indebted to me.",
       "choice_data_list": [
-        "Got it, I promise.",
-        "You really are a sweet girl.",
-        "You really are a sweet girl."
+        "それは十分すごいことだろ",
+        "それは十分すごいことでしょ"
       ]
     },
     {
       "name": "Transcend",
       "text": "Now, now, don't worry about it. Ah, but \nkeep it a secret from Accu-san, alright? \nDon't want her feeling all indebted to me.",
       "choice_data_list": [
-        "Got it, I promise.",
-        "You really are a sweet girl.",
-        "You really are a sweet girl."
+        "わかった、約束するよ",
+        "やっぱりいい子だな、君は",
+        "やっぱりいい子だね、貴方は"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Hehe, much obliged. Look at you, being so \nthoughtful!"
+      "text": "Hehe, much obliged. Look at you, being so \nthoughtful!",
+      "choice_data_list": [
+        "わかった、約束するよ",
+        "やっぱりいい子だな、君は",
+        "やっぱりいい子だね、貴方は"
+      ]
     },
     {
       "name": "Narrator",

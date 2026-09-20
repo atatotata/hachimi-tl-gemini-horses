@@ -27,11 +27,17 @@
     },
     {
       "name": "Super Creek",
-      "text": "I can keep going. Just a little bit more..."
+      "text": "I can keep going. Just a little bit more...",
+      "choice_data_list": [
+        "ストップ！そこまで"
+      ]
     },
     {
       "name": "Super Creek",
-      "text": "Mnh... You're right... I'll end up causing\nyou more\ntrouble if I push any harder."
+      "text": "Mnh... You're right... I'll end up causing\nyou more\ntrouble if I push any harder.",
+      "choice_data_list": [
+        "体のことを考えて"
+      ]
     },
     {
       "name": "Super Creek",
@@ -91,7 +97,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "I won't. There's nothing I can do about\nit. I\nbrought this on myself..."
+      "text": "I won't. There's nothing I can do about\nit. I\nbrought this on myself...",
+      "choice_data_list": [
+        "気にしないで"
+      ]
     },
     {
       "name": "TV Host",
@@ -115,7 +124,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "But it <i>is</i> my fault that they're saying\nthose horrible\nthings about you!"
+      "text": "But it <i>is</i> my fault that they're saying\nthose horrible\nthings about you!",
+      "choice_data_list": [
+        "クリークのせいじゃ……"
+      ]
     },
     {
       "name": "Super Creek",
@@ -131,7 +143,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I return to my office and think about\nSuper\nCreek's condition."
+      "text": "I return to my office and think about\nSuper\nCreek's condition.",
+      "choice_data_list": [
+        "……！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -143,7 +158,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I might have made an important\nrealization. I'll\nkeep an eye on Super\nCreek for a little longer."
+      "text": "I might have made an important\nrealization. I'll\nkeep an eye on Super\nCreek for a little longer.",
+      "choice_data_list": [
+        "不調の理由はもしかして……"
+      ]
     }
   ]
 }

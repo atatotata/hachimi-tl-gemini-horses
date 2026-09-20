@@ -162,7 +162,10 @@
     {
       "name": "Narrator",
       "text": "While visiting the cafeteria for a break, \nI overheard an intriguing conversation and \ncouldn't help but chime in.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――俺ももっと頑張らないとな",
+        "――私ももっと頑張らないとね"
+      ]
     },
     {
       "name": "North Flight",
@@ -174,7 +177,9 @@
     {
       "name": "Narrator",
       "text": "\"And if we achieve 'Ishin-Bakushin' \ntelepathy and I can provide even more \nprecise support...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "フライトへの理解をバクシンしたいなって"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -187,21 +192,23 @@
       "name": "Sakura Bakushin O",
       "text": "Very well, very well! I accept your \nchallenge! Now! Tell me what you've got in \nmind!",
       "choice_data_list": [
-        "A Bakushin-speed race to get work done!",
-        "I-I'll win with Bakushin-style fashion \npower!"
+        "え！？"
       ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "—Yes! It's done!",
       "choice_data_list": [
-        "...Wait, the answer sheet is completely \nblank!!"
+        "し、仕事をするバクシン的スピード勝負！",
+        "バ、バクシン的オシャレパワーで勝負！"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"'A contest of speed in getting work \ndone'... We competed to see who could \nfinish their homework and prep materials \nfaster, but this is...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……いや、解答欄が白い！！"
+      ]
     },
     {
       "name": "North Flight",
@@ -223,7 +230,9 @@
     {
       "name": "Sakura Bakushin O",
       "text": "I see!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なるほど！"
+      ]
     },
     {
       "name": "Rice Shower",

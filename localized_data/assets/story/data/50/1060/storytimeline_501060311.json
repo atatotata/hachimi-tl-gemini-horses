@@ -19,7 +19,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I'm glad... Hehe."
+      "text": "I'm glad... Hehe.",
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Oh, another handmade trophy!"
+      "text": "Oh, another handmade trophy!",
+      "choice_data_list": [
+        "じゃあ、『頑張ったで賞』！"
+      ]
     },
     {
       "name": "Monologue",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "You're right. She must be."
+      "text": "You're right. She must be.",
+      "choice_data_list": [
+        "きっと大丈夫"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -71,7 +81,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Huh? Big race? But it's almost winter.\nWhat big\nraces take place then?"
+      "text": "Huh? Big race? But it's almost winter.\nWhat big\nraces take place then?",
+      "choice_data_list": [
+        "まだ大勝負が残ってるよ"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -79,7 +92,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Nice Nature had a good showing in the\nKikuka\nSho and has a strong fan base.\nSurely she can\ntake on the Arima Kinen\nnow!"
+      "text": "Nice Nature had a good showing in the\nKikuka\nSho and has a strong fan base.\nSurely she can\ntake on the Arima Kinen\nnow!",
+      "choice_data_list": [
+        "『有馬記念』を目指さないか？",
+        "『有馬記念』を目指さない？"
+      ]
     },
     {
       "name": "Monologue",
@@ -103,7 +120,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, we decide that the last race of\nher classic\nyear is going to be the Arima\nKinen!"
+      "text": "And so, we decide that the last race of\nher classic\nyear is going to be the Arima\nKinen!",
+      "choice_data_list": [
+        "挑もう！"
+      ]
     }
   ]
 }

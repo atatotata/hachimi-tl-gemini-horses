@@ -17,13 +17,15 @@
       "name": "Curren Bouquetd'or",
       "text": "Yes, it was a blessing in disguise... So \nlet's head back and resume training—",
       "choice_data_list": [
-        "No, you need to rest properly..."
+        "軽度のケガでよかったよ"
       ]
     },
     {
       "name": "Curren Bouquetd'or",
       "text": "\"...However, I get the feeling we don't \nhave much leeway to spare...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、ちゃんと休まないと……"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -48,23 +50,27 @@
       "name": "Curren Bouquetd'or",
       "text": "\"So please— allow me to continue my \ntraining...!\"",
       "choice_data_list": [
-        "No, let's make sure to get some proper \nrest here!",
-        "No, we should rest properly here!",
-        "Let's try some light exercise and see how \nit goes."
+        "いや、ここはしっかりと休もう！",
+        "ううん、ここはしっかりと休もう！",
+        "軽い運動で様子を見ようか"
       ]
     },
     {
       "name": "Curren Bouquetd'or",
       "text": "B-But...",
       "choice_data_list": [
-        "As long as you have the drive to win, \nyou'll definitely catch up.",
-        "As long as you have the drive to win, \nyou'll definitely catch up."
+        "いや、ここはしっかりと休もう！",
+        "ううん、ここはしっかりと休もう！",
+        "軽い運動で様子を見ようか"
       ]
     },
     {
       "name": "Curren Bouquetd'or",
       "text": "...You're right. It's true that I'm not \nvery good at pushing myself forward on my \nown...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "勝ちたい気持ちがあるなら必ず追いつける",
+        "勝ちたい気持ちがあるなら必ず追いつけるよ"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -112,7 +118,10 @@
     {
       "name": "Curren Bouquetd'or",
       "text": "...Yes. Even after making such an \nunreasonable request, it ended up like \nthis... I am truly, terribly sorry...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……痛みが出たんだな？",
+        "……痛みが出たんだね？"
+      ]
     },
     {
       "name": "Narrator",
@@ -134,7 +143,9 @@
     {
       "name": "Curren Bouquetd'or",
       "text": "Yes... We shall proceed with caution—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "無理しない範囲でなら"
+      ]
     },
     {
       "name": "Narrator",

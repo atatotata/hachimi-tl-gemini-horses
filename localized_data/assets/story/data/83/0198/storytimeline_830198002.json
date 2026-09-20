@@ -95,7 +95,11 @@
     },
     {
       "name": "Duramente",
-      "text": "...No, I did not. However, as this remains \nmy own personal challenge――"
+      "text": "...No, I did not. However, as this remains \nmy own personal challenge――",
+      "choice_data_list": [
+        "目的は果たせたか？",
+        "目的は果たせたの？"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -130,7 +134,10 @@
     },
     {
       "name": "Duramente",
-      "text": "I couldn't bring myself to reveal it. \n...That I was struggling with something as \nsimple as cracking an egg, and went so far \nas to seek a solution elsewhere."
+      "text": "I couldn't bring myself to reveal it. \n...That I was struggling with something as \nsimple as cracking an egg, and went so far \nas to seek a solution elsewhere.",
+      "choice_data_list": [
+        "……通じてなかった！？"
+      ]
     },
     {
       "name": "Duramente",
@@ -157,14 +164,19 @@
       "name": "Neo Universe",
       "text": "...Neo Universe is \"COMF\". \"Connect\" with \nDuramente is good.",
       "choice_data_list": [
-        "You had some good \"communion\", huh?",
-        "You had some good \"communion\", didn't you?",
-        "I'd like to hear what you both thought of \nthe trip."
+        "いい“交信”ができたんだな",
+        "いい“交信”ができたんだね",
+        "道中の感想を2人に聞きたい"
       ]
     },
     {
       "name": "Duramente",
-      "text": "Yeah. Time like this is nice once in a \nwhile."
+      "text": "Yeah. Time like this is nice once in a \nwhile.",
+      "choice_data_list": [
+        "いい“交信”ができたんだな",
+        "いい“交信”ができたんだね",
+        "道中の感想を2人に聞きたい"
+      ]
     },
     {
       "name": "Duramente",

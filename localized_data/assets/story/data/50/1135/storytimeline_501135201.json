@@ -51,7 +51,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "…Hitting me now…"
+      "text": "…Hitting me now…",
+      "choice_data_list": [
+        "どうかしたか？",
+        "どうかした？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -74,7 +78,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. Let's take bold first step into \nuncharted territory."
+      "text": "Yeah. Let's take bold first step into \nuncharted territory.",
+      "choice_data_list": [
+        "見せてやろう、君の走りを",
+        "見せてやろう、貴方の走りを"
+      ]
     },
     {
       "name": "???",
@@ -117,7 +125,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Have great Satsuki Sho too!"
+      "text": "Have great Satsuki Sho too!",
+      "choice_data_list": [
+        "よい『皐月賞』を！"
+      ]
     },
     {
       "text": "<i>(Waaaaaaaaaahーーーーー!)</i>"

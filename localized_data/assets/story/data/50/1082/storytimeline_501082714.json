@@ -16,7 +16,9 @@
     {
       "name": "North Flight",
       "text": "Please calm down. Times like these are \nwhen it's most important to keep your \ncomposure, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "動かないで！今、先生に痛み止めを――"
+      ]
     },
     {
       "name": "North Flight",
@@ -51,15 +53,19 @@
       "name": "North Flight",
       "text": "\"In my experience, with mild symptoms like \nthis, you should be fine in about two \ndays.\"",
       "choice_data_list": [
-        "No, let's play it safe and rest some more.",
-        "Understood... If that's what you say.",
-        "Understood... If you say so."
+        "いや、大事を取ってもっと休もう",
+        "わかった……君がそう言うなら",
+        "わかった……貴方がそう言うなら"
       ]
     },
     {
       "name": "North Flight",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、大事を取ってもっと休もう",
+        "わかった……君がそう言うなら",
+        "わかった……貴方がそう言うなら"
+      ]
     },
     {
       "name": "North Flight",

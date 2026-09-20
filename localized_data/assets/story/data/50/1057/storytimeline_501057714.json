@@ -24,15 +24,19 @@
       "name": "Mr. C.B.",
       "text": "Shall we go prove that right now?",
       "choice_data_list": [
-        "...I think that's impossible.",
-        "I bet you could do it, though...",
-        "I feel like you could do it, though..."
+        "……無理だと思う",
+        "君ならできそうだけど……",
+        "貴方ならできそうだけど……"
       ]
     },
     {
       "name": "Mr. C.B.",
       "text": "...You're certainly very blunt, aren't \nyou?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……無理だと思う",
+        "君ならできそうだけど……",
+        "貴方ならできそうだけど……"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -45,7 +49,10 @@
     {
       "name": "Mr. C.B.",
       "text": "That is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも俺にしか見えない君もいる",
+        "でも私にしか見えない貴方もいる"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -58,7 +65,10 @@
     {
       "name": "Mr. C.B.",
       "text": "\"...Haha, looks like it. I suppose the \nproof will have to wait.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今は無理だ、シービー",
+        "今は無理だよ、シービー"
+      ]
     },
     {
       "name": "Narrator",
@@ -95,7 +105,9 @@
     {
       "name": "Narrator",
       "text": "I rushed over to her as she stood \nparalyzed with shock. Though she \nimmediately took time off to rest... it \nwould take a long time before she could \nreturn.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "シービー……っ！！！！"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -107,7 +119,9 @@
     {
       "name": "Mr. C.B.",
       "text": "? We're in the middle of getting ready \nright now, aren't we? Come help me pick \none out.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あのー、シービー……証明は？"
+      ]
     },
     {
       "name": "Mr. C.B.",

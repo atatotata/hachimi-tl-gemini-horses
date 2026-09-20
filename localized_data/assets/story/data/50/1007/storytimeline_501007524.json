@@ -11,7 +11,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah, and the time for you to cast\njudgment upon\nus has come."
+      "text": "Yeah, and the time for you to cast\njudgment upon\nus has come.",
+      "choice_data_list": [
+        "審判？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -51,7 +54,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro McQueen usually plays along\nwith Gold\nShip's antics, but this time..."
+      "text": "Mejiro McQueen usually plays along\nwith Gold\nShip's antics, but this time...",
+      "choice_data_list": [
+        "（ちょっと機嫌が悪い……？）"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -91,11 +97,21 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Dang it all... What do I do now? At this\nrate, I'll\nnever win!"
+      "text": "Dang it all... What do I do now? At this\nrate, I'll\nnever win!",
+      "choice_data_list": [
+        "ドリンクで回復しよう！",
+        "あの鍛錬の日々を思い出せ！",
+        "あの鍛錬の日々を思い出して！"
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Gasp!</i> That's right... I almost forgot\nabout the\nsoda fountain!"
+      "text": "<i>Gasp!</i> That's right... I almost forgot\nabout the\nsoda fountain!",
+      "choice_data_list": [
+        "ドリンクで回復しよう！",
+        "あの鍛錬の日々を思い出せ！",
+        "あの鍛錬の日々を思い出して！"
+      ]
     },
     {
       "name": "Monologue",
@@ -115,7 +131,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Duh, who else would it be for? Now,\nopen wide!"
+      "text": "Duh, who else would it be for? Now,\nopen wide!",
+      "choice_data_list": [
+        "……って俺が飲むのか！？",
+        "……って私が飲むの！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -131,7 +151,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Enough! ...I've had enough."
+      "text": "Enough! ...I've had enough.",
+      "choice_data_list": [
+        "い、いったい何が……？"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -163,7 +186,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Thanks for opening my eyes! The real me\nis ready\nfor action!"
+      "text": "Thanks for opening my eyes! The real me\nis ready\nfor action!",
+      "choice_data_list": [
+        "（やっぱりノった！）"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -239,7 +265,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It takes a long and arduous struggle\nbefore I\nmanage to reclaim my wallet."
+      "text": "It takes a long and arduous struggle\nbefore I\nmanage to reclaim my wallet.",
+      "choice_data_list": [
+        "ストーーーップ！！"
+      ]
     }
   ]
 }

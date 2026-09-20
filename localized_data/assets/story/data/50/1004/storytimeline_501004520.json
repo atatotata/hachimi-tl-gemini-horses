@@ -23,7 +23,11 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Nngh... Must... resist... Pull back... the\nthrottle..."
+      "text": "Nngh... Must... resist... Pull back... the\nthrottle...",
+      "choice_data_list": [
+        "そ、そうだな",
+        "そ、そうだね"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -87,11 +91,21 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I think you could use some adulting\nadvice from a\nproper adult! ♪"
+      "text": "I think you could use some adulting\nadvice from a\nproper adult! ♪",
+      "choice_data_list": [
+        "マルゼンスキーが適任だな",
+        "マルゼンスキーが適任だね",
+        "最初に飛び出すのも大人の仕事"
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "Oh-ho! ☆ I appreciate the nomination! ♪"
+      "text": "Oh-ho! ☆ I appreciate the nomination! ♪",
+      "choice_data_list": [
+        "マルゼンスキーが適任だな",
+        "マルゼンスキーが適任だね",
+        "最初に飛び出すのも大人の仕事"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -179,7 +193,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Y-yeah, exactly! Good point..."
+      "text": "Y-yeah, exactly! Good point...",
+      "choice_data_list": [
+        "……最初の勢いは大事！"
+      ]
     },
     {
       "name": "Monologue",

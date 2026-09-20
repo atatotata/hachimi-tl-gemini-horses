@@ -19,7 +19,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh no! I'm so sorry for bumping into you!"
+      "text": "Oh no! I'm so sorry for bumping into you!",
+      "choice_data_list": [
+        "ケガは……お互いないみたいだな",
+        "ケガは……お互いないみたいだね"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -43,11 +47,21 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer, I propose a change to my\nscheduled\nreturn home. Requesting\npermission to follow\nafter Rice and\ncorrect this misunderstanding."
+      "text": "Trainer, I propose a change to my\nscheduled\nreturn home. Requesting\npermission to follow\nafter Rice and\ncorrect this misunderstanding.",
+      "choice_data_list": [
+        "わかった",
+        "俺が伝えるから、休め",
+        "私が伝えるから、休んで"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Thank you very much. Commencing bug\nfix."
+      "text": "Thank you very much. Commencing bug\nfix.",
+      "choice_data_list": [
+        "わかった",
+        "俺が伝えるから、休め",
+        "私が伝えるから、休んで"
+      ]
     },
     {
       "name": "Mihono Bourbon",

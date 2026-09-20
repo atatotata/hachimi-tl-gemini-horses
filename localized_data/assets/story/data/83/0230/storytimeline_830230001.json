@@ -124,30 +124,33 @@
       "name": "Meisho Doto",
       "text": "...Ahhh, even you, Trainer-san?! Seeing me \nat my most embarrassing~~~!",
       "choice_data_list": [
-        "Not at all, you were amazing!",
-        "That was an impressive feast!",
-        "That was some impressive eating!"
+        "ドトウ！ケガしてない？"
       ]
     },
     {
       "name": "Meisho Doto",
       "text": "...Ahhh, even you, Trainer-san?! Seeing me \nat my most embarrassing~~~!",
       "choice_data_list": [
-        "Not at all, you were amazing!",
-        "That was an impressive feast!",
-        "That was some impressive eating!"
+        "そんなことない、すごかったよ！",
+        "見事な食べっぷりだったな",
+        "見事な食べっぷりだったね"
       ]
     },
     {
       "name": "Meisho Doto",
       "text": "...R-Really~~~?",
       "choice_data_list": [
-        "You achieved something truly special!"
+        "そんなことない、すごかったよ！",
+        "見事な食べっぷりだったな",
+        "見事な食べっぷりだったね"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "S-S-S-Special, you say...! I-It's still so \nembarrassing though~~~!!"
+      "text": "S-S-S-Special, you say...! I-It's still so \nembarrassing though~~~!!",
+      "choice_data_list": [
+        "特別なことを達成したわけだし！"
+      ]
     },
     {
       "name": "Narrator",
@@ -163,7 +166,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I-Is that true? That... might actually \nmake me happy, um..."
+      "text": "I-Is that true? That... might actually \nmake me happy, um...",
+      "choice_data_list": [
+        "俺も辛いものに挑戦したくなったよ",
+        "私も辛いものに挑戦したくなったよ"
+      ]
     },
     {
       "name": "Store Manager",
@@ -190,7 +197,10 @@
     },
     {
       "name": "Narrator",
-      "text": "That mapo tofu would undoubtedly be far \ntoo spicy for Haru Urara. I hastily \nstopped her curious enthusiasm."
+      "text": "That mapo tofu would undoubtedly be far \ntoo spicy for Haru Urara. I hastily \nstopped her curious enthusiasm.",
+      "choice_data_list": [
+        "そ、それはやめたほうがいいと思う！"
+      ]
     }
   ]
 }

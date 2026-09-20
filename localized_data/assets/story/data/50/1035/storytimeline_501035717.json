@@ -51,7 +51,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Agh! Where'd the grassy fields go?!"
+      "text": "Agh! Where'd the grassy fields go?!",
+      "choice_data_list": [
+        "……チケット？"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -59,7 +62,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! It was <i>really</i> nice! Thanks to that,\nmy body\nand spirit feel totally refreshed!"
+      "text": "Yeah! It was <i>really</i> nice! Thanks to that,\nmy body\nand spirit feel totally refreshed!",
+      "choice_data_list": [
+        "いい夢でも見れたか？",
+        "いい夢でも見れた？"
+      ]
     },
     {
       "name": "Monologue",

@@ -16,7 +16,10 @@
     {
       "name": "Narrator",
       "text": "And claiming victory in this battle of \npride is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いけ、<nickname>ーー！！",
+        "<chrname>様――！！"
+      ]
     },
     {
       "name": "Fans",
@@ -29,13 +32,15 @@
       "name": "Narrator",
       "text": "<chrname> receiving the applause... The vision \ndrawn before her debut was steadily \nbecoming reality.",
       "choice_data_list": [
-        "(In that case... let's aim for the scenery \neven further ahead—!)"
+        "（そうだ、これが……――）"
       ]
     },
     {
       "name": "Narrator",
       "text": "<chrname> gave the race everything she had. Though \nshe didn't take the victory—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（なら……もっと、先の景色へ――！）"
+      ]
     },
     {
       "name": "Fans",
@@ -127,7 +132,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Yes, fan letters! Please be sure to give \nthem to her♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これ、全部<nickname>への……？",
+        "これは、全て<chrname>様への？"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -139,7 +147,9 @@
     {
       "name": "Saint Lite",
       "text": "<chrname> possesses a wonderful, magnetic charisma, \ndoesn't she?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "セントライトさん！"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -161,7 +171,9 @@
     {
       "name": "Saint Lite",
       "text": "Just as someone might call us \n\"Legends\"...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -189,7 +201,10 @@
     {
       "name": "A Certain Child",
       "text": "—Hey, hey! Wasn't that amazing? That race \njust now was just as thrilling as when \nPapa ran, wasn't it?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（それこそが……俺の望む景色だ）",
+        "（それこそが……私の望む景色だ）"
+      ]
     },
     {
       "name": "A Certain Father",

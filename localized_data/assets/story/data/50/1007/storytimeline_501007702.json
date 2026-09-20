@@ -19,7 +19,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Hm?"
+      "text": "Hm?",
+      "choice_data_list": [
+        "なんだそのゲーム……？",
+        "何そのゲーム……？"
+      ]
     },
     {
       "name": "Mysterious Girl",
@@ -67,7 +71,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "No waaaaay!"
+      "text": "No waaaaay!",
+      "choice_data_list": [
+        "……ええ！？"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -91,7 +98,11 @@
     },
     {
       "name": "Suspicious Man A",
-      "text": "She's not here, either... Goodness, why\nmust she\ndo this every time?"
+      "text": "She's not here, either... Goodness, why\nmust she\ndo this every time?",
+      "choice_data_list": [
+        "（完全にゴルシのペースだ……！）",
+        "（完全にゴルシのペース……！）"
+      ]
     },
     {
       "name": "Suspicious Man B",
@@ -115,7 +126,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yes, Your Highness! I live to serve!"
+      "text": "Yes, Your Highness! I live to serve!",
+      "choice_data_list": [
+        "（ノった！？）"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -127,11 +141,21 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!"
+      "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!",
+      "choice_data_list": [
+        "見つかった方がその子のためだ",
+        "見つかった方がその子のためだよ",
+        "『木を隠すならば森の中』……！"
+      ]
     },
     {
       "name": "Mysterious Girl",
-      "text": "What? I don't wanna be found! If they\nfind me, I'll\nhave to sit all alone and\nstud―er, I mean..."
+      "text": "What? I don't wanna be found! If they\nfind me, I'll\nhave to sit all alone and\nstud―er, I mean...",
+      "choice_data_list": [
+        "見つかった方がその子のためだ",
+        "見つかった方がその子のためだよ",
+        "『木を隠すならば森の中』……！"
+      ]
     },
     {
       "name": "Gold Ship",

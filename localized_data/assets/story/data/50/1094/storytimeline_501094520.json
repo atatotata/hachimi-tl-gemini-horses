@@ -18,13 +18,16 @@
       "name": "Jungle Pocket",
       "text": "What do you mean \"what's wrong\"?! I-I-It \nactually showed up!!",
       "choice_data_list": [
-        "Calm down! What do you mean 'it appeared'?"
+        "ポッケ！？どうしたんだ！？",
+        "ポッケ！？どうしたの！？"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "\"Haaah!? Like it's not totally obvious—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "落ち着いて！出たって、何が？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -72,7 +75,10 @@
     {
       "name": "Jungle Pocket",
       "text": "So please! Kick them off our turf!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……俺たち以外にも誰か『いる』……",
+        "うん……私たち以外にも誰か『いる』……"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -130,7 +136,10 @@
     {
       "name": "Manhattan Cafe",
       "text": "Yes... For example... having a line form \noutside the school gate...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、毎度のこと？よくあるのか？",
+        "えっ、毎度のこと？よくあるの？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -175,15 +184,19 @@
       "name": "Manhattan Cafe",
       "text": "No... I'm already quite used to requests \nfrom Pokke-san, so...",
       "choice_data_list": [
-        "They've really been patient in keeping up \nwith me.",
-        "They've really been patient in keeping up \nwith you, haven't they?",
-        "To think we'd end up relying entirely on \nPocket..."
+        "根気よく付き合ってくれてるんだな",
+        "根気よく付き合ってくれてるんだね",
+        "ポッケが頼り切りになるとは……"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Seriously, thanks a lot! If you're ever in \ntrouble, just call me. I'll come running \nright away.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "根気よく付き合ってくれてるんだな",
+        "根気よく付き合ってくれてるんだね",
+        "ポッケが頼り切りになるとは……"
+      ]
     },
     {
       "name": "Manhattan Cafe",

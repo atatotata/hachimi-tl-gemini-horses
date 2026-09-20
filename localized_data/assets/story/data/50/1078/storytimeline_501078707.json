@@ -23,7 +23,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "The wind just now felt very gentle."
+      "text": "The wind just now felt very gentle.",
+      "choice_data_list": [
+        "ど、どうしたんだ？",
+        "ど、どうしたの？"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes, let's."
+      "text": "Yes, let's.",
+      "choice_data_list": [
+        "それじゃあ、お参りをしようか"
+      ]
     },
     {
       "name": "Monologue",

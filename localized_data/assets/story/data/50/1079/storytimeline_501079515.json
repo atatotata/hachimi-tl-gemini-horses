@@ -27,7 +27,10 @@
     {
       "name": "Furioso",
       "text": "Ah! Oh, no. It's nothing—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……どうした？",
+        "……どうしたの？"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -80,13 +83,15 @@
       "name": "Furioso",
       "text": "............ Fu... Fu~na~ba~shi, Furioso~. \nT-Today I'm gonna give it my all again...!",
       "choice_data_list": [
-        "！？"
+        "お疲れ様。さて、今日もトレ――"
       ]
     },
     {
       "name": "Furioso",
       "text": "Ah! N-No, this is...! Um...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -113,7 +118,9 @@
     {
       "name": "Narrator",
       "text": "The lessons continued after that—and \neventually, thanks to Hokko Tarumae's \nintroduction, she got to perform at a \nsmall event.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ごほん。じゃあトレーニングを――"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -150,7 +157,9 @@
     {
       "name": "Hokko Tarumae",
       "text": "...Just be honest, and you'll be fine. \nExpress the feelings you hold for your \nhome.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（頑張れ……！）"
+      ]
     },
     {
       "name": "Furioso",
@@ -194,38 +203,41 @@
       "name": "Hokko Tarumae",
       "text": "Right. And there were customers who were \ncharmed by it too. As a persona, it \ntotally works!",
       "choice_data_list": [
-        "Let's keep spreading that Funabashi love!",
-        "You've taken your first step as a local \nidol.",
-        "You've taken your first step as a local \nidol, haven't you?"
+        "でも、頑張りは伝わったぞ！",
+        "でも、頑張りは伝わったよ！"
       ]
     },
     {
       "name": "Hokko Tarumae",
       "text": "Right. And there were customers who were \ncharmed by it too. As a persona, it \ntotally works!",
       "choice_data_list": [
-        "Let's keep spreading that Funabashi love!",
-        "You've taken your first step as a local \nidol.",
-        "You've taken your first step as a local \nidol, haven't you?"
+        "これからも船橋愛をふりまいていこう！",
+        "ロコドルとしての第一歩を踏み出せたな",
+        "ロコドルとしての第一歩を踏み出せたね"
       ]
     },
     {
       "name": "Furioso",
       "text": "\"...Um... Trainer, if it's alright with \nyou, would you please be my manager?\"",
       "choice_data_list": [
-        "Huh!?"
+        "これからも船橋愛をふりまいていこう！",
+        "ロコドルとしての第一歩を踏み出せたな",
+        "ロコドルとしての第一歩を踏み出せたね"
       ]
     },
     {
       "name": "Furioso",
       "text": "I'm still very inexperienced... So I'd \nlove nothing more than to be supported by \nothers who share my love for Funabashi...!",
       "choice_data_list": [
-        "O-Okay, got it!"
+        "えっ！？"
       ]
     },
     {
       "name": "Narrator",
       "text": "And so, we promised to do our best \ntogether to revitalize Funabashi.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "わ、わかった！"
+      ]
     },
     {
       "name": "Hokko Tarumae",

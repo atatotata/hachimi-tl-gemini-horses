@@ -183,11 +183,19 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer?"
+      "text": "Trainer?",
+      "choice_data_list": [
+        "マンハッタンカフェ……自身だ",
+        "マンハッタンカフェ……自身だよ"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "?!"
+      "text": "?!",
+      "choice_data_list": [
+        "カフェの成功と存続が、夢より大切だ",
+        "カフェの成功と存続が、夢より大切だよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -207,7 +215,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "海外遠征は……中止しよう"
+      ]
     },
     {
       "name": "Manhattan Cafe",

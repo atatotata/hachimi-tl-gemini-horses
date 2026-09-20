@@ -87,7 +87,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Satono Diamond has maintained her\ndignified\ndemeanor this whole time, but\nshe hasn't said a\nword. Then..."
+      "text": "Satono Diamond has maintained her\ndignified\ndemeanor this whole time, but\nshe hasn't said a\nword. Then...",
+      "choice_data_list": [
+        "ダイヤ、どうした？",
+        "ダイヤ、どうしたの？"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -163,7 +167,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I mutter the words to myself, dismayed\nat the\nsight before me."
+      "text": "I mutter the words to myself, dismayed\nat the\nsight before me.",
+      "choice_data_list": [
+        "こんな中を……走るのか……",
+        "こんな中を……走るの……"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -215,11 +223,19 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "You mean, just sprint through\neverything? Even\nthe potholes and mud\nswamps?"
+      "text": "You mean, just sprint through\neverything? Even\nthe potholes and mud\nswamps?",
+      "choice_data_list": [
+        "……道悪でも迷わず突っ込むか",
+        "……道悪でも迷わず突っ込んでみようか"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Knowing Kitasan Black, she might really\nbe strong\nenough to brute force her way\nthrough even the\nworst stretches."
+      "text": "Knowing Kitasan Black, she might really\nbe strong\nenough to brute force her way\nthrough even the\nworst stretches.",
+      "choice_data_list": [
+        "ああ、恐れずに切り込め！",
+        "うん、恐れずに切り込んで！"
+      ]
     },
     {
       "name": "Monologue",

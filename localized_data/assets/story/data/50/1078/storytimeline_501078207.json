@@ -107,7 +107,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I remember, of course. This was before\ntryouts..."
+      "text": "I remember, of course. This was before\ntryouts...",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Monologue",
@@ -147,11 +150,19 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes?"
+      "text": "Yes?",
+      "choice_data_list": [
+        "……ゼファー、俺は",
+        "……ゼファー、私は"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Hehe..."
+      "text": "Hehe...",
+      "choice_data_list": [
+        "ゴールでずっと、風待ちをしているからな",
+        "ゴールでずっと、風待ちをしているからね"
+      ]
     },
     {
       "name": "Yamanin Zephyr",

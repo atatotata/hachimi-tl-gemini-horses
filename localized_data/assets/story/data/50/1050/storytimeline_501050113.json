@@ -99,7 +99,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh? You were watching us? Wait, <i>that's</i>\nwhat\nyou think it looked like?"
+      "text": "Huh? You were watching us? Wait, <i>that's</i>\nwhat\nyou think it looked like?",
+      "choice_data_list": [
+        "相変わらず、仲がよさそうだったな",
+        "相変わらず、仲がよさそうだったね"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -211,11 +215,18 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "It wasn't the first time I raced one of\nthem,\nthough..."
+      "text": "It wasn't the first time I raced one of\nthem,\nthough...",
+      "choice_data_list": [
+        "初めて競ったレースがきっかけだったんだな",
+        "初めて競ったレースがきっかけだったんだね"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Nothing. Anyway, the point is that we're\nnot good\nfriends or anything."
+      "text": "Nothing. Anyway, the point is that we're\nnot good\nfriends or anything.",
+      "choice_data_list": [
+        "えっ？"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -231,7 +242,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Glad we're on the same page. Let's get\nto training\nalready."
+      "text": "Glad we're on the same page. Let's get\nto training\nalready.",
+      "choice_data_list": [
+        "負けていられないな……！",
+        "負けていられないね……！"
+      ]
     },
     {
       "name": "Monologue",

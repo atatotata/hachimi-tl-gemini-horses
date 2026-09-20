@@ -21,7 +21,9 @@
     {
       "name": "Epiphaneia",
       "text": "Hmm? I'm totally fine, though. Being a \nTrainer sure sounds tough.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そこで止めるのが仕事だから"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -41,23 +43,27 @@
       "name": "Epiphaneia",
       "text": "\"My body's finally warmed up nicely. It'd \nbe a waste to stop here!\"",
       "choice_data_list": [
-        "No. You're resting today.",
-        "No. You're taking today off.",
-        "If you say so..."
+        "ダメ。今日は休んでもらう",
+        "ダメ。今日は休んでもらうよ",
+        "そこまで言うのなら……"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Why are you stopping me, Trainer?! I'm \ntotally fine with this much!",
       "choice_data_list": [
-        "It's to keep the injury from getting \nworse.",
-        "It's to keep the injury from getting \nworse, okay?"
+        "ダメ。今日は休んでもらう",
+        "ダメ。今日は休んでもらうよ",
+        "そこまで言うのなら……"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Worsen... it could worsen, huh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ケガの悪化を考慮して、だ",
+        "ケガの悪化を考慮して、だよ"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -79,7 +85,9 @@
     {
       "name": "Narrator",
       "text": "I ended up double-checking what rest truly \nentailed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ちょっと待った！"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -91,7 +99,9 @@
     {
       "name": "Epiphaneia",
       "text": "\"Yeah, that works! Though you definitely \nwon't need to worry!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、危なくなったら止めるから"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -104,14 +114,16 @@
       "name": "Epiphaneia",
       "text": "Yeah. This won't do at all! You should get \nsome rest!",
       "choice_data_list": [
-        "D-Does it hurt!?",
-        "I-Is it painful!?"
+        "……軽く流してみて、どう？"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "No. But I realized going any further \nwouldn't be good. I wouldn't have known if \nI hadn't run, so I'm glad I tried it!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "い、痛むのか！？",
+        "い、痛むの！？"
+      ]
     },
     {
       "name": "Narrator",
@@ -144,7 +156,10 @@
     {
       "name": "Epiphaneia",
       "text": "You worry too much, Trainer. Well, I feel \nrefreshed after running with all my might, \nso that's fine by me!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、でも念のため後は軽めにしよう",
+        "うん、でも念のため後は軽めにしよう"
+      ]
     },
     {
       "name": "Narrator",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Over there! Check out that claw\nmachine!"
+      "text": "Over there! Check out that claw\nmachine!",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Really?! ...Oh, uh, I mean..."
+      "text": "Really?! ...Oh, uh, I mean...",
+      "choice_data_list": [
+        "取ってあげようか？"
+      ]
     },
     {
       "name": "Vodka",

@@ -19,7 +19,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Yes. She's concerned about me..."
+      "text": "Yes. She's concerned about me...",
+      "choice_data_list": [
+        "『お友だち』？"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I know things shouldn't be like this,\nbut..."
+      "text": "I know things shouldn't be like this,\nbut...",
+      "choice_data_list": [
+        "君なら大丈夫！",
+        "自分に負けちゃダメだ",
+        "自分に負けちゃダメ"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I... I don't know..."
+      "text": "I... I don't know...",
+      "choice_data_list": [
+        "君なら大丈夫！",
+        "自分に負けちゃダメだ",
+        "自分に負けちゃダメ"
+      ]
     },
     {
       "name": "Monologue",
@@ -43,11 +56,18 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Hehe... You might just be right..."
+      "text": "Hehe... You might just be right...",
+      "choice_data_list": [
+        "ほら、『お友だち』もそう言ってるぞ！",
+        "ほら、『お友だち』もそう言ってるよ！"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Well... more or less..."
+      "text": "Well... more or less...",
+      "choice_data_list": [
+        "え、本当にそう言ってるの？"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -71,7 +91,11 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>SMACK!</i>"
+      "text": "<i>SMACK!</i>",
+      "choice_data_list": [
+        "その意気だ！",
+        "その意気！"
+      ]
     },
     {
       "name": "Manhattan Cafe",

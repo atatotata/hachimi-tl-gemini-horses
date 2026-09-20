@@ -59,7 +59,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Well, well... How interesting."
+      "text": "Well, well... How interesting.",
+      "choice_data_list": [
+        "寝てた",
+        "寝てたよ"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -91,7 +95,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Hehe. Oh, Sei. You know I'd <i>never</i> do a\nthing like\nthat."
+      "text": "Hehe. Oh, Sei. You know I'd <i>never</i> do a\nthing like\nthat.",
+      "choice_data_list": [
+        "すごいことになってるな……",
+        "すごいことになってるね……"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -119,7 +127,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Wha... a dream?"
+      "text": "Wha... a dream?",
+      "choice_data_list": [
+        "大丈夫、夢だぞ",
+        "大丈夫、夢だよ"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -143,11 +155,21 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "What do you think, Trainer?"
+      "text": "What do you think, Trainer?",
+      "choice_data_list": [
+        "遊んでいたかも……",
+        "真剣に選んでた",
+        "真剣に選んでたよ"
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "I knew it! Grrr, I <i>am</i> capable of getting\nmad, you\nknow!"
+      "text": "I knew it! Grrr, I <i>am</i> capable of getting\nmad, you\nknow!",
+      "choice_data_list": [
+        "遊んでいたかも……",
+        "真剣に選んでた",
+        "真剣に選んでたよ"
+      ]
     },
     {
       "name": "Seiun Sky",

@@ -23,7 +23,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "I'm not! This must be more proof of my\ngrowth!"
+      "text": "I'm not! This must be more proof of my\ngrowth!",
+      "choice_data_list": [
+        "疲労感もそんなになさそうだな",
+        "疲労感もそんなになさそうだね"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -43,7 +47,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Should I? I don't want to be a bother."
+      "text": "Should I? I don't want to be a bother.",
+      "choice_data_list": [
+        "心配なら声をかけておいで"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -51,7 +58,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "That's true... Sometimes, you just need\nsomeone\nto ask."
+      "text": "That's true... Sometimes, you just need\nsomeone\nto ask.",
+      "choice_data_list": [
+        "話すかどうかは彼女が決めるよ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -179,11 +189,19 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "But how?"
+      "text": "But how?",
+      "choice_data_list": [
+        "君なら“勇気”をあげられる",
+        "貴方なら“勇気”をあげられる"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "君もまた、今壁に挑んでる",
+        "貴方もまた、今壁に挑んでる"
+      ]
     },
     {
       "name": "Monologue",
@@ -195,7 +213,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Maybe it'll give her some courage!"
+      "text": "Maybe it'll give her some courage!",
+      "choice_data_list": [
+        "壁を乗り越える姿を見せれば……"
+      ]
     },
     {
       "name": "Nishino Flower",

@@ -43,13 +43,16 @@
       "name": "Fenomeno",
       "text": "That... that may be true, but...!",
       "choice_data_list": [
-        "Let's let out all those feelings after you \nrecover from your injury."
+        "身を削るべき時は、今じゃないと思う",
+        "そう言われると、協力せざるを得ない"
       ]
     },
     {
       "name": "Fenomeno",
       "text": "Boss...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "その気持ちはケガを治してから発散しよう"
+      ]
     },
     {
       "name": "Fenomeno",
@@ -76,7 +79,9 @@
     {
       "name": "Fenomeno",
       "text": "...Please, say no more. Your eyes alone \nconvey everything, sir...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
       "name": "Narrator",
@@ -103,7 +108,9 @@
     {
       "name": "Fenomeno",
       "text": "Yes, let's take it steady and sure!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "この調子で無理なく進めよう"
+      ]
     },
     {
       "name": "Narrator",

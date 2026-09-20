@@ -31,7 +31,11 @@
     },
     {
       "name": "Super Creek",
-      "text": "Power, huh..."
+      "text": "Power, huh...",
+      "choice_data_list": [
+        "ああ、実力なら1番だ！",
+        "ええ、実力なら1番だよ！"
+      ]
     },
     {
       "name": "Super Creek",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "No, the strength I'm talking about is..."
+      "text": "No, the strength I'm talking about is...",
+      "choice_data_list": [
+        "実力じゃないの？"
+      ]
     },
     {
       "name": "Super Creek",
@@ -67,7 +74,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "I will! Wait for me with open arms at the\nfinish\nline, my Trainer."
+      "text": "I will! Wait for me with open arms at the\nfinish\nline, my Trainer.",
+      "choice_data_list": [
+        "頑張って、スーパークリーク！"
+      ]
     },
     {
       "name": "Monologue",

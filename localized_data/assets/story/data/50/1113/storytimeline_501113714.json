@@ -16,7 +16,9 @@
     {
       "name": "Fusaichi Pandora",
       "text": "……Hrmm.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "仕方ない、しっかりと療養しよう"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -42,24 +44,29 @@
       "name": "Narrator",
       "text": "She's asking for the near-impossible. But \nknowing Fusaichi Pandora, she just might \npull it off. In this situation—",
       "choice_data_list": [
-        "No, you really need to rest here.",
-        "No, you should get some proper rest here.",
-        "...Just make sure you don't overdo it.",
-        "...Just make sure you don't overdo it, \nokay?"
+        "いや、ここは安静にするべきだ",
+        "ううん、ここは安静にするべきだよ",
+        "……無理だけはしないようにな",
+        "……無理だけはしないようにね"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Ehh, aren't you worrying a bit too much?",
       "choice_data_list": [
-        "It'll be too late once something happens.",
-        "It'll be too late once something happens."
+        "いや、ここは安静にするべきだ",
+        "ううん、ここは安静にするべきだよ",
+        "……無理だけはしないようにな",
+        "……無理だけはしないようにね"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "...Wait, you're actually serious.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何かあってからじゃ遅いからな",
+        "何かあってからじゃ遅いからね"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -112,7 +119,10 @@
     {
       "name": "Fusaichi Pandora",
       "text": "Hmm, well, yeah. Getting hurt like that \nplain sucks anyway.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。でも今日はこのくらいにしておこう",
+        "ええ。でも今日はこのくらいにしておこう"
+      ]
     },
     {
       "name": "Narrator",

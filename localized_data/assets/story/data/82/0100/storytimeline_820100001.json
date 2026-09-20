@@ -13,12 +13,16 @@
       "name": "Calstone Light O",
       "text": "Hm, an Academy Trainer. Look at this, \nright here.",
       "choice_data_list": [
-        "A solo exhibition... Abstract paintings? \nAre you into art?"
+        "そんな熱心に、何を見ているんだ？",
+        "そんな熱心に、何を見ているの？"
       ]
     },
     {
       "name": "Calstone Light O",
-      "text": "Not at all. Even if you call it abstract \nart, I have no clue what's going on."
+      "text": "Not at all. Even if you call it abstract \nart, I have no clue what's going on.",
+      "choice_data_list": [
+        "個展……抽象画か。美術好きなの？"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -44,12 +48,16 @@
       "name": "Calstone Light O",
       "text": "No. But as long as I keep running in a \nstraight line, I will arrive there \neventually. Without a doubt.",
       "choice_data_list": [
-        "No, no, no!"
+        "待って！居場所わかってるのか？",
+        "待って！居場所わかってるの？"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Since that was far too reckless, I instead \ninquired about the painter's whereabouts \nand arranged an appointment to meet them \ndirectly—"
+      "text": "Since that was far too reckless, I instead \ninquired about the painter's whereabouts \nand arranged an appointment to meet them \ndirectly—",
+      "choice_data_list": [
+        "いやいやいや！"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -84,7 +92,10 @@
     },
     {
       "name": "Calstone Light O",
-      "text": "Rest assured. For it is I."
+      "text": "Rest assured. For it is I.",
+      "choice_data_list": [
+        "え、ライトオ？何を言って――"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -109,12 +120,15 @@
       "name": "Calstone Light O",
       "text": "As I thought, hands won't do the trick! In \nthat case, with these legs—!",
       "choice_data_list": [
-        "Light O?!"
+        "ライトオ……"
       ]
     },
     {
       "name": "Calstone Light O",
-      "text": "HAAAAAAAAAAAH!"
+      "text": "HAAAAAAAAAAAH!",
+      "choice_data_list": [
+        "ライトオ！？"
+      ]
     },
     {
       "name": "Painter",
@@ -125,7 +139,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Saying so, the painter drew a single line \non the sketchbook Calstone Light O had left \nbehind—"
+      "text": "Saying so, the painter drew a single line \non the sketchbook Calstone Light O had left \nbehind—",
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Calstone Light O",

@@ -59,15 +59,19 @@
       "name": "Duramente",
       "text": "...So that's how it is, Trainer. You don't \nmind if I run alongside Sis Groove, right?",
       "choice_data_list": [
-        "There's a lot I could learn going up \nagainst Air Groove.",
-        "There's a lot we could learn going up \nagainst Air Groove, huh?",
-        "I understand how you feel, but pushing \nyourself any further is out of the \nquestion."
+        "エアグルーヴ相手なら学べることも多いな",
+        "エアグルーヴ相手なら学べることも多いね",
+        "気持ちはわかるけど、これ以上は禁物"
       ]
     },
     {
       "name": "Air Groove",
       "text": "Heh, full of motivation, aren't you? But \ndon't expect me to let my juniors outshine \nme.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "エアグルーヴ相手なら学べることも多いな",
+        "エアグルーヴ相手なら学べることも多いね",
+        "気持ちはわかるけど、これ以上は禁物"
+      ]
     },
     {
       "name": "Air Groove",

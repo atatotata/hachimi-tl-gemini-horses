@@ -31,7 +31,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "All right! Time to lug this coal to its\ndestination!\nYou three can catch up\nlater!"
+      "text": "All right! Time to lug this coal to its\ndestination!\nYou three can catch up\nlater!",
+      "choice_data_list": [
+        "チケット！？ちょっと待っ――"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -107,7 +110,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...It's not the standard way to progress,\nbut by\nboosting her affinity with the\nmayor, Ticket\nforced the mission to\ncompletion."
+      "text": "...It's not the standard way to progress,\nbut by\nboosting her affinity with the\nmayor, Ticket\nforced the mission to\ncompletion.",
+      "choice_data_list": [
+        "どういうこと？"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -159,11 +165,23 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes, and you never fail to move people's\nhearts\nwith your actions. That includes\nus."
+      "text": "Yes, and you never fail to move people's\nhearts\nwith your actions. That includes\nus.",
+      "choice_data_list": [
+        "みんなを救ってるんだな",
+        "みんなを救ってるんだね",
+        "記念撮影、してみるか",
+        "記念撮影、してみる？"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "...I am?!"
+      "text": "...I am?!",
+      "choice_data_list": [
+        "みんなを救ってるんだな",
+        "みんなを救ってるんだね",
+        "記念撮影、してみるか",
+        "記念撮影、してみる？"
+      ]
     },
     {
       "name": "Biwa Hayahide",

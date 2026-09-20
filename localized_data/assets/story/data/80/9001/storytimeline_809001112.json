@@ -22,7 +22,10 @@
     },
     {
       "name": "Narrator",
-      "text": "However—"
+      "text": "However—",
+      "choice_data_list": [
+        "よろしくお願いします！"
+      ]
     },
     {
       "name": "Light Hello",
@@ -41,7 +44,10 @@
     },
     {
       "name": "Tucker Brine",
-      "text": "Mm, actually you did pretty well holding \nout! Head up to the summit by bus first! \nCatch ya later!"
+      "text": "Mm, actually you did pretty well holding \nout! Head up to the summit by bus first! \nCatch ya later!",
+      "choice_data_list": [
+        "す、すみません……ここが限界みたいです"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -136,7 +142,10 @@
     },
     {
       "name": "Tucker Brine",
-      "text": "TRAAAACEEEEEN!!"
+      "text": "TRAAAACEEEEEN!!",
+      "choice_data_list": [
+        "あ、たづなさんたちかな？"
+      ]
     },
     {
       "name": "Tazuna & Hello",
@@ -147,7 +156,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Haa... haa... Ah, what a gorgeous view...!"
+      "text": "Haa... haa... Ah, what a gorgeous view...!",
+      "choice_data_list": [
+        "……！？"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

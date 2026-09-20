@@ -63,7 +63,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "アイネス！！"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -127,7 +130,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "I'm glad to... hear that..."
+      "text": "I'm glad to... hear that...",
+      "choice_data_list": [
+        "ああ、できていたよ",
+        "うん、できていたよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -135,11 +142,17 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Really... glad..."
+      "text": "Really... glad...",
+      "choice_data_list": [
+        "……アイネス！？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Ines Fujin collapses onto the waiting\nroom floor."
+      "text": "Ines Fujin collapses onto the waiting\nroom floor.",
+      "choice_data_list": [
+        "アイネス！！"
+      ]
     }
   ]
 }

@@ -15,7 +15,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hehe! ♪ Praise me more!"
+      "text": "Hehe! ♪ Praise me more!",
+      "choice_data_list": [
+        "おめでとう、テイオー！"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -23,7 +26,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Oh yeah! You better go all out for me! ♪\nThen,\nlet's hurry up and..."
+      "text": "Oh yeah! You better go all out for me! ♪\nThen,\nlet's hurry up and...",
+      "choice_data_list": [
+        "それはこの後のお祝いでな",
+        "それはこの後のお祝いでね"
+      ]
     },
     {
       "name": "???",
@@ -131,11 +138,17 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Ah, are you sure? I have quite the\nappetite, you\nknow?"
+      "text": "Ah, are you sure? I have quite the\nappetite, you\nknow?",
+      "choice_data_list": [
+        "なんでも注文して"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "It's fine, it's fine! I was gonna order the\nfanciest\nthing on the menu anyway!"
+      "text": "It's fine, it's fine! I was gonna order the\nfanciest\nthing on the menu anyway!",
+      "choice_data_list": [
+        "えっ"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -143,7 +156,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Tokai Teio has become a Senior Spring\nTriple\nCrown champion! I'm excited to\nsee what she'll\nachieve next!"
+      "text": "Tokai Teio has become a Senior Spring\nTriple\nCrown champion! I'm excited to\nsee what she'll\nachieve next!",
+      "choice_data_list": [
+        "えっ、えっ――"
+      ]
     }
   ]
 }

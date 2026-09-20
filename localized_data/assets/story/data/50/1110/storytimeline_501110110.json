@@ -26,7 +26,9 @@
     {
       "name": "Narrator",
       "text": "Now that you mention it... my head feels \nheavy, and I think I'm getting chills.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……え？"
+      ]
     },
     {
       "name": "Narrator",
@@ -43,7 +45,9 @@
     {
       "name": "Cesario",
       "text": "What are you saying? Today is a day off. \nCome on, let's head home.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それくらいなら……"
+      ]
     },
     {
       "name": "Narrator",
@@ -66,7 +70,10 @@
     {
       "name": "Narrator",
       "text": "I can't risk passing it to anyone, and \nbesides, I can manage something like this \non my own.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いやいや、さすがに悪い",
+        "いやいや、さすがに悪いよ"
+      ]
     },
     {
       "name": "Cesario",
@@ -88,7 +95,9 @@
     {
       "name": "Cesario",
       "text": "Fufu, I know.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そういうわけじゃないけど"
+      ]
     },
     {
       "name": "Narrator",
@@ -126,7 +135,10 @@
     {
       "name": "Cesario",
       "text": "It tastes best when it's freshly made. Are \nyou hungry?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "わざわざ作ってくれたのか",
+        "わざわざ作ってくれたの"
+      ]
     },
     {
       "name": "Narrator",
@@ -148,7 +160,9 @@
     {
       "name": "Cesario",
       "text": "You're welcome.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ありがとう……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -161,7 +175,10 @@
     {
       "name": "Narrator",
       "text": "To think Cesario could understand things \nabout me that even I hadn't noticed \nmyself.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よく体調が悪いことに気づいたな",
+        "よく体調が悪いことに気づいたね"
+      ]
     },
     {
       "name": "Cesario",
@@ -183,7 +200,9 @@
     {
       "name": "Cesario",
       "text": "A given for a Trainer? Is that really so?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それは――"
+      ]
     },
     {
       "name": "Cesario",
@@ -212,13 +231,16 @@
       "name": "Cesario",
       "text": "Ah, I'm sorry. Even though you're going \nthrough a tough time, Trainer.",
       "choice_data_list": [
-        "No, thank you, Cesario."
+        "……そうだったのか",
+        "……そうだったんだ"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"If I hadn't noticed and gotten some rest \ntoday, my condition might have been even \nworse tomorrow.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、ありがとう。シーザリオ"
+      ]
     },
     {
       "name": "Cesario",

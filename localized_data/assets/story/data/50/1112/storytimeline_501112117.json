@@ -27,29 +27,31 @@
       "name": "Daring Heart",
       "text": "...Yeah, sorry, thank you.",
       "choice_data_list": [
-        "(They can't seem to concentrate on \ntraining...)",
-        "(Unable to concentrate on training...)"
+        "……少し早いけど、休憩にしようか"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"I was waiting for her to come to the \n'perch' on her own, but... if she loses \nfocus, the risk of injury goes up. Above \nall else—\"",
       "choice_data_list": [
-        "(I'm worried about her mental state...)",
-        "(I'm worried about her mental state...)"
+        "（トレーニングに集中できていないな……）",
+        "（トレーニングに集中できていない……）"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "—It's not that I didn't want to talk about \nit. It's just... I'm still feeling \nconflicted.",
       "choice_data_list": [
-        "Are you hesitating?"
+        "（彼女のメンタルが心配だ……）",
+        "（彼女のメンタルが心配……）"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "迷ってる？"
+      ]
     },
     {
       "name": "Narrator",
@@ -62,7 +64,10 @@
     {
       "name": "Daring Heart",
       "text": "\"Are you sure? ...I might not be very good \nat talking.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "話してくれないか",
+        "話してくれない？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -75,7 +80,10 @@
     {
       "name": "Daring Heart",
       "text": "……That's right.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "気にしないよ、俺は止まり木なんだから",
+        "気にしないよ、私は止まり木なんだから"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -87,7 +95,9 @@
     {
       "name": "Daring Tact",
       "text": "\"Of course, I don't mean right this \ninstant. I'd like to ask you after \nHeart-san's races have settled down.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……――"
+      ]
     },
     {
       "name": "Daring Tact",
@@ -129,7 +139,9 @@
     {
       "name": "Narrator",
       "text": "It means dedicating myself to mentoring \nthe next generation. Stepping back from \nthe front lines—just like Cesario. \nBringing an end to her youth...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それは、つまり……――"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -162,7 +174,10 @@
     {
       "name": "Daring Heart",
       "text": "...Hey, because... either way, you can't \nrun forever, can you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そして君の3年間は、今年で終わる",
+        "……そして貴方の3年間は、今年で終わる"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -191,13 +206,16 @@
       "name": "Daring Heart",
       "text": "It's the only thing I can do for her. \n...Because Craft and I won't ever clash in \na race again.",
       "choice_data_list": [
-        "Still, that's still—"
+        "……！君はもしかして――",
+        "……！貴方はもしかして――"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "There isn't any.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、それはまだ――"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -229,7 +247,9 @@
     {
       "name": "Daring Heart",
       "text": "\"...You can't clash hearts all by \nyourself.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（そこにきて、タクトの相談があった……）"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -247,7 +267,10 @@
     {
       "name": "Narrator",
       "text": "Whenever she clashed heart-to-heart with \nher rivals, she was always so full of \nlife— she truly seemed to be having the \ntime of her life.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……本当に、そうなのか？）",
+        "（……本当に、そうなの？）"
+      ]
     },
     {
       "name": "Narrator",
@@ -261,27 +284,30 @@
       "name": "Narrator",
       "text": "\"Right now, her eyes are fixed only on \nwhat she 'ought to do'... Perhaps she \nhasn't been facing her true feelings. If \nso—\"",
       "choice_data_list": [
-        "I'd like to change Saturday's training \nschedule."
+        "（その日々を……忘れられるのか？）",
+        "（その日々を……忘れられるの？）"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "Huh...?",
       "choice_data_list": [
-        "Let's go out for the whole day!"
+        "土曜日のトレーニング予定を変更したい"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "I wonder if you can return this ball!? \n—Heartbeat Smash!!",
       "choice_data_list": [
-        "Hit it back—... I can't!!"
+        "丸一日、出かけよう！"
       ]
     },
     {
       "name": "Narrator",
       "text": "(*plump...*)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "打ち返せ――……ない！！"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -293,7 +319,9 @@
     {
       "name": "Daring Heart",
       "text": "Oh? Did you want me to? I thought you'd \nprefer a direct head-to-head match♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……容赦ないなぁ！"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -305,7 +333,9 @@
     {
       "name": "Narrator",
       "text": "I'm certainly the one who invited her out \nfor a break and planned the schedule. I've \nalready got more things lined up that \nshe'll enjoy.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "デートではないけど……"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -322,7 +352,9 @@
     {
       "name": "Daring Heart",
       "text": "—Oh? This aquarium...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……鬼だ……！）"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -349,7 +381,9 @@
     {
       "name": "？？？",
       "text": "\"Ooooh...! Ooooooooh...!!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うわっ、水槽にでっかいサメが！？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -377,7 +411,10 @@
     {
       "name": "A Certain Famous Singer",
       "text": "\"Tokyo, are you ready for tonight? I've \nfinally returned to Japan!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、ああ！（ノリノリだ！）",
+        "う、うん！（ノリノリだ！）"
+      ]
     },
     {
       "name": "A Certain Famous Singer",
@@ -405,7 +442,10 @@
     {
       "name": "Narrator",
       "text": "\"After learning she had a performance \ntoday, I glued myself to ticket resale \nsites hoping for a cancellation... and \nmanaged to snag one.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "本当にたまたまとれたんだ",
+        "本当にたまたまとれたの"
+      ]
     },
     {
       "name": "Spectators",
@@ -418,7 +458,10 @@
     {
       "name": "Daring Heart",
       "text": "Ah! Trainer, she just looked at me! I know \nshe did!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "しかし――すごい盛り上がりだな……！",
+        "しかし――すごい盛り上がりだね……！"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -430,7 +473,9 @@
     {
       "name": "Narrator",
       "text": "And so, enjoying our day off to the \nfullest with Daring Heart—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ふ……フ～～～～！！"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -448,7 +493,10 @@
     {
       "name": "Daring Heart",
       "text": "Yes, very much so! It feels as if my heart \nhas been wiped completely clean.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "楽しんでもらえたか？",
+        "楽しんでもらえた？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -470,7 +518,9 @@
     {
       "name": "Daring Heart",
       "text": "...It just made me remember what happened \nat the Oka Sho.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ハート？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -492,7 +542,9 @@
     {
       "name": "Daring Heart",
       "text": "――……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……その日々から、離れてしまえる？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -511,22 +563,25 @@
       "name": "Daring Heart",
       "text": "Huh...—",
       "choice_data_list": [
-        "Your running carries the passion of those \ndays.",
-        "Your running still carries the heat of \nthose days."
+        "――走りで繋ぐことは、できないか？",
+        "――走りで繋ぐことは、できない？"
       ]
     },
     {
       "name": "Narrator",
       "text": "Daring Heart bravely relished facing her \nrivals— and spread that fiery passion to \nthe crowd. Whenever she runs—",
       "choice_data_list": [
-        "Everyone will remember your race.",
-        "Everyone will remember your race."
+        "君の走りは、あの日々の熱を纏っている",
+        "貴方の走りは、あの日々の熱を纏っている"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "……！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "みんなが、君たちのレースを思い出す",
+        "みんなが、貴方たちのレースを思い出す"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -550,14 +605,17 @@
       "name": "Narrator",
       "text": "Physical strength will surely fade. \nHowever— even time cannot steal an \nunyielding will. And even if it should \ncrumble—",
       "choice_data_list": [
-        "I'll support you all the way.",
-        "I'll support you no matter how far we go."
+        "君には“Daring heart”がある",
+        "貴方には“Daring heart”がある"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "...Why?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どこまでも、俺が支えるから",
+        "どこまでも、私が支えるから"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -571,14 +629,17 @@
       "name": "Daring Heart",
       "text": "…………。",
       "choice_data_list": [
-        "Tell me. Do you need to change?",
-        "Tell me. Do you need to change?"
+        "君たちの青春が、ただ好きなんだ",
+        "貴方たちの青春が、ただ好きなの"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "…………You're always like that, aren't you? \nYou always affirm me... just as I am.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "教えてくれ。君は変わるべきなのか？",
+        "教えて。貴方は変わるべきなの？"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -601,7 +662,10 @@
     {
       "name": "Daring Heart",
       "text": "Thank you, Trainer. ...Thank you so \nmuch...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうだ！それこそが……君だ",
+        "そう！それこそが……貴方だよ"
+      ]
     }
   ]
 }

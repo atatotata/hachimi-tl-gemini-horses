@@ -15,7 +15,11 @@
     },
     {
       "name": "Kiseki",
-      "text": "Well of course I am! Because...!"
+      "text": "Well of course I am! Because...!",
+      "choice_data_list": [
+        "……好評の割に憂鬱そうだな？",
+        "……好評の割に憂鬱そうだね？"
+      ]
     },
     {
       "name": "Kiseki",
@@ -38,7 +42,10 @@
     },
     {
       "name": "Rulership",
-      "text": "――, you got a moment? I'd like to borrow \nKiseki."
+      "text": "――, you got a moment? I'd like to borrow \nKiseki.",
+      "choice_data_list": [
+        "そう落ち込まずとも……"
+      ]
     },
     {
       "name": "Rulership",
@@ -162,15 +169,10 @@
     },
     {
       "name": "Kiseki",
-      "text": "Yeah... That heated game with Ruler-senpai \nreminded me of something crucial."
-    },
-    {
-      "name": "Kiseki",
-      "text": "That I'm someone who can create exciting \ndevelopments that belong uniquely to me!",
+      "text": "Yeah... That heated game with Ruler-senpai \nreminded me of something crucial.",
       "choice_data_list": [
-        "I'll be looking forward to a thrilling \nmanga that's true to your style.",
-        "I'll be looking forward to a thrilling \nmanga that's true to your style.",
-        "Then... Master T shall be your next \nopponent!"
+        "何か、吹っ切れたみたいだな",
+        "何か、吹っ切れたみたいだね"
       ]
     },
     {
@@ -184,7 +186,21 @@
     },
     {
       "name": "Kiseki",
-      "text": "Leave it to me! ...That's right. This \nacademy is overflowing with exciting \nthings...!"
+      "text": "That I'm someone who can create exciting \ndevelopments that belong uniquely to me!",
+      "choice_data_list": [
+        "君らしい面白い漫画を待ってるよ",
+        "貴方らしい面白い漫画を待ってるよ",
+        "なら……次はこのマスターTが相手になろう"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Leave it to me! ...That's right. This \nacademy is overflowing with exciting \nthings...!",
+      "choice_data_list": [
+        "君らしい面白い漫画を待ってるよ",
+        "貴方らしい面白い漫画を待ってるよ",
+        "なら……次はこのマスターTが相手になろう"
+      ]
     },
     {
       "name": "Kiseki",

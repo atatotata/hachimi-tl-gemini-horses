@@ -75,7 +75,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "...Okay!"
+      "text": "...Okay!",
+      "choice_data_list": [
+        "それぞれに大切な仕事があるということだ",
+        "それぞれに大切な仕事があるということだね"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -103,7 +107,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Of course. Can't leave anyone out. I've\nalready\ngotten our songwriter on board."
+      "text": "Of course. Can't leave anyone out. I've\nalready\ngotten our songwriter on board.",
+      "choice_data_list": [
+        "参加する全員分ですか？"
+      ]
     },
     {
       "name": "Light Hello",
@@ -119,15 +126,24 @@
     },
     {
       "name": "Light Hello",
-      "text": "Trainer, could you and the girls think of\nlyrics for\nthis song?"
+      "text": "Trainer, could you and the girls think of\nlyrics for\nthis song?",
+      "choice_data_list": [
+        "確か……"
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "Yes, this is an arrangement that's been\n\ntailor-made for the Grand Concert."
+      "text": "Yes, this is an arrangement that's been\n\ntailor-made for the Grand Concert.",
+      "choice_data_list": [
+        "歌詞ですか？"
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "...No, my role is that of a bystander."
+      "text": "...No, my role is that of a bystander.",
+      "choice_data_list": [
+        "じゃあライトハローさんも一緒に……"
+      ]
     },
     {
       "name": "Light Hello",
@@ -151,7 +167,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "New mission received. Understood."
+      "text": "New mission received. Understood.",
+      "choice_data_list": [
+        "みんなで考えよう"
+      ]
     },
     {
       "name": "Monologue",

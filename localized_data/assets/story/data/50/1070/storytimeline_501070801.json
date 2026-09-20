@@ -28,13 +28,16 @@
       "name": "Timid Umamusume",
       "text": "Ah, my... Ugh... what should I do...?",
       "choice_data_list": [
-        "(Looks like that girl is the owner, \nthough...)"
+        "（あまりよくない雰囲気だな……）",
+        "（あんまりよくない雰囲気だなぁ……）"
       ]
     },
     {
       "name": "Instructor",
       "text": "If no one claims it, I'll put it in the \nlost and found box!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（あの子が持ち主みたいだけど……）"
+      ]
     },
     {
       "name": "Timid Umamusume",
@@ -87,14 +90,16 @@
       "name": "Sirius Symboli",
       "text": "Ha, did you think I wouldn't notice? If \nyou're a good little puppy, wag your tail \nand follow me.",
       "choice_data_list": [
-        "Ah, yeah...!",
-        "Y-Yeah...!"
+        "！？"
       ]
     },
     {
       "name": "Narrator",
       "text": "We arrived at a pool hall. A few of Sirius \nSymboli's underclassmen were there, and \nright before our eyes was—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、ああ……！",
+        "う、うん……！"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -131,7 +136,9 @@
     {
       "name": "Sirius Symboli",
       "text": "......Tch, what a pointless \"shackle.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "彼女には、何か『枷』が？"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -156,30 +163,34 @@
       "name": "Narrator",
       "text": "I see—so out of concern for your junior's \nsituation, you created a scenario where \nthey could \"choose\" for themselves.",
       "choice_data_list": [
-        "It reminded me once again why everyone \nlooks up to you so much.",
-        "I was reminded once again why people look \nup to you.",
-        "I'm sure she'll be able to \"choose for \nherself\""
+        "君が慕われる理由が改めてわかった",
+        "貴方が慕われる理由が改めてわかった",
+        "彼女はきっと『自分で選べる』と思う"
       ]
     },
     {
       "name": "Sirius Symboli",
       "text": "Huh? Flattery won't get you anywhere. \nYou're not my junior.",
       "choice_data_list": [
-        "Exactly! I'm not your junior, I'm your \nTrainer—",
-        "Exactly! I'm not your junior, I'm your \nTrainer—"
+        "君が慕われる理由が改めてわかった",
+        "貴方が慕われる理由が改めてわかった",
+        "彼女はきっと『自分で選べる』と思う"
       ]
     },
     {
       "name": "Sirius Symboli",
       "text": "You're a puppy. Am I right?",
       "choice_data_list": [
-        "Ah, so that's it..."
+        "確かに！俺は後輩じゃなくトレーナーで――",
+        "確かに！私は後輩じゃなくトレーナーで――"
       ]
     },
     {
       "name": "Narrator",
       "text": "And then, a little while later—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、そういうこと……"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -197,7 +208,10 @@
     {
       "name": "Narrator",
       "text": "And then, a little while later—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……なんだか、いい表情だな）",
+        "（……なんだか、いい表情だなぁ）"
+      ]
     },
     {
       "name": "Timid Umamusume",
@@ -209,7 +223,9 @@
     {
       "name": "Sirius Symboli",
       "text": "Huh. And the reason is?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（あれは、元のメンコ……？）"
+      ]
     },
     {
       "name": "Timid Umamusume",
@@ -227,7 +243,10 @@
     {
       "name": "Sirius Symboli",
       "text": "—Hmph. So she chose her pride, huh.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（そうか……そんな事情が）",
+        "（そっか……そんな事情が）"
+      ]
     },
     {
       "name": "Sirius Symboli",

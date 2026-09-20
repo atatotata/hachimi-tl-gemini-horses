@@ -11,7 +11,10 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe... So actually, I got this letter in\nthe mail..."
+      "text": "Ehehe... So actually, I got this letter in\nthe mail...",
+      "choice_data_list": [
+        "ないと思うけど……どうして？"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -27,7 +30,11 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Oh, really? Well, I guess I can't anyway\nif there\naren't any heated delivery\nservices around."
+      "text": "Oh, really? Well, I guess I can't anyway\nif there\naren't any heated delivery\nservices around.",
+      "choice_data_list": [
+        "それは送られても困らないか……？",
+        "それは送られても困らない……？"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -39,7 +46,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I hastily stop Hishi Akebono before she\nruns off.\nShe might have a big appetite,\nbut it looks like\nthat fan letter has filled\nher right up with\nhappiness."
+      "text": "I hastily stop Hishi Akebono before she\nruns off.\nShe might have a big appetite,\nbut it looks like\nthat fan letter has filled\nher right up with\nhappiness.",
+      "choice_data_list": [
+        "普通の返事にしておこう！",
+        "普通の返事にしておこうよ！"
+      ]
     }
   ]
 }

@@ -50,7 +50,10 @@
     },
     {
       "name": "Narrator",
-      "text": "(Flap flap flap!)"
+      "text": "(Flap flap flap!)",
+      "choice_data_list": [
+        "わわっ！？"
+      ]
     },
     {
       "name": "Narrator",
@@ -106,7 +109,11 @@
     },
     {
       "name": "Royce and Royce",
-      "text": "That's right! Tame it this time for sure!"
+      "text": "That's right! Tame it this time for sure!",
+      "choice_data_list": [
+        "惜しい……！次はきっといけるぞ！",
+        "惜しい……！次はきっといけるよ！"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -134,7 +141,11 @@
     },
     {
       "name": "Royce and Royce",
-      "text": "A lovable charm effective even on \npigeons...! As expected of you, Turbo-san!"
+      "text": "A lovable charm effective even on \npigeons...! As expected of you, Turbo-san!",
+      "choice_data_list": [
+        "おめでとう！すっかり懐いたな",
+        "おめでとう！すっかり懐いたね"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -150,7 +161,11 @@
     },
     {
       "name": "Royce and Royce",
-      "text": "Never giving up earnestly even after \nfailure—at this rate, your 'compelling \nlovable charm' reaching SSS rank is right \naround the corner."
+      "text": "Never giving up earnestly even after \nfailure—at this rate, your 'compelling \nlovable charm' reaching SSS rank is right \naround the corner.",
+      "choice_data_list": [
+        "お疲れ様、次も応援してるぞ",
+        "お疲れ様、次も応援してるよ"
+      ]
     },
     {
       "name": "Twin Turbo",

@@ -17,7 +17,10 @@
     {
       "name": "Espoir City",
       "text": "Huh? That's not it. It's just that the \npattern on that mug—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あのゲーム、やりたいのか？",
+        "あのゲーム、やりたいの？"
+      ]
     },
     {
       "name": "Narrator",
@@ -29,7 +32,9 @@
     {
       "name": "Narrator",
       "text": "The character drawn on the mug closely \nresembled the fluffy, white fur on her \nracing outfit.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（あれ？あのキャラクターって）"
+      ]
     },
     {
       "name": "Narrator",
@@ -58,13 +63,16 @@
       "name": "Espoir City",
       "text": "...H-Huh? Did you actually like those \nkinds of games?",
       "choice_data_list": [
-        "There's a girl I really want to give that \nprize to."
+        "俺、ちょっと挑戦してきていい？",
+        "私、ちょっと挑戦してきていい？"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Huh~... ...Well, whatever, I don't really \ncare.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あの景品を、プレゼントしたい子がいるんだ"
+      ]
     },
     {
       "name": "Narrator",
@@ -87,7 +95,10 @@
     {
       "name": "Espoir City",
       "text": "Haaah~!? You really think I'd be scared of \nsomething like this!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君は外で待っててもよかったのに",
+        "貴方は外で待っててもよかったのに"
+      ]
     },
     {
       "name": "Zombie A",
@@ -100,14 +111,16 @@
       "name": "Narrator",
       "text": "(BANG!! BANG BANG!!) (KA-BOOM! KA-BOOM!!)",
       "choice_data_list": [
-        "Alright, target down... You good, Espo?",
-        "Alright, target down... Wait, you okay, \nEspo?"
+        "！マズイ、応戦しないと！"
       ]
     },
     {
       "name": "Espoir City",
       "text": "O-Of course I'm fine! Just go to the next \nstage already, the next...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よし！撃破……って、大丈夫か、エスポ？",
+        "よし！撃破……って、大丈夫、エスポ？"
+      ]
     },
     {
       "name": "Narrator",
@@ -119,7 +132,9 @@
     {
       "name": "Espoir City",
       "text": "\"...Oi, aren't you good for now? Curfew's \ncomin' up soon, too.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "くっ、またやられた……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -132,13 +147,15 @@
       "name": "Espoir City",
       "text": "...Huh? You'd go that far just to get a \nmug?",
       "choice_data_list": [
-        "Well, but..."
+        "それでも、あともう1回だけ……！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Though she naturally has a sensitive side, \nEspoir City is always psyching herself up \nto stay strong and give it her all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それは、だって……"
+      ]
     },
     {
       "name": "Narrator",
@@ -151,7 +168,10 @@
     {
       "name": "Espoir City",
       "text": "You... ...What's with you, getting so \ndesperate...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうしても、その子の喜ぶ顔が見たいんだ",
+        "どうしても、その子の喜ぶ顔が見たいの"
+      ]
     },
     {
       "name": "Espoir City",
@@ -168,7 +188,9 @@
     {
       "name": "Espoir City",
       "text": "Don't just space out!! Let's hurry up and \nbeat the final boss, Trainer!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "エ、エスポ！？"
+      ]
     },
     {
       "name": "Espoir City",
@@ -181,7 +203,10 @@
     {
       "name": "Final Boss",
       "text": "Gwaaaaah!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ！この調子なら――いけるっ！",
+        "うん！この調子なら――いけるっ！"
+      ]
     },
     {
       "name": "Espoir City",
@@ -214,14 +239,16 @@
       "name": "Espoir City",
       "text": "\"This bag... ...Wait, could this be...?\"",
       "choice_data_list": [
-        "I just really wanted you to have it!",
-        "I just really wanted you to have it!"
+        "だって絶対に渡したかったから、はいこれ！"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Huh? ...Whaaaat?!? The person you wanted \nto give it to is me?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうしても、君にあげたかったんだ！",
+        "どうしても、貴方にあげたかったの！"
+      ]
     },
     {
       "name": "Espoir City",
@@ -258,17 +285,23 @@
       "name": "Espoir City",
       "text": "You take responsibility for one of them, \nbastard.",
       "choice_data_list": [
-        "I see. Thanks a lot!",
-        "I see. Thanks!",
-        "I'm glad, it was such a cute mug",
-        "It was a little scary, but it was worth \nthe effort.",
-        "It was a little scary, but it was worth \nthe effort, wasn't it?"
+        "そっか。ありがとな！",
+        "そっか。ありがとね！",
+        "嬉しいな、可愛いマグカップだったから",
+        "少し怖かったけど、頑張った甲斐があったな",
+        "少し怖かったけど、頑張った甲斐があったね"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Why are you thanking me, dummy! Just take \nit quietly already!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そっか。ありがとな！",
+        "そっか。ありがとね！",
+        "嬉しいな、可愛いマグカップだったから",
+        "少し怖かったけど、頑張った甲斐があったな",
+        "少し怖かったけど、頑張った甲斐があったね"
+      ]
     },
     {
       "name": "Narrator",

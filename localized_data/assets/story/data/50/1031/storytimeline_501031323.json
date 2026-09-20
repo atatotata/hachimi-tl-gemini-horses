@@ -131,7 +131,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh? What kind of race do <i>I</i> want?\nUhh..."
+      "text": "Huh? What kind of race do <i>I</i> want?\nUhh...",
+      "choice_data_list": [
+        "アイネスはどんなレースに出走したい？"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -139,7 +142,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "それなら君が楽しく走れるレースかな！",
+        "それなら貴方が楽しく走れるレースかな！"
+      ]
     },
     {
       "name": "Monologue",
@@ -243,7 +250,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ohoho! Yay! ♪ I'm glad you're excited\ntoo!"
+      "text": "Ohoho! Yay! ♪ I'm glad you're excited\ntoo!",
+      "choice_data_list": [
+        "ううん、『天皇賞（秋）』に挑もうか！"
+      ]
     },
     {
       "name": "Monologue",

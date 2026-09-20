@@ -31,7 +31,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today."
+      "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today.",
+      "choice_data_list": [
+        "パソコンに送ったよ"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -43,11 +46,19 @@
     },
     {
       "name": "Air Shakur",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "タイムが基準値から落ちたら声をかけるよ",
+        "タイムが基準値から落ちたら声をかけるね"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Nah, it's nothing."
+      "text": "Nah, it's nothing.",
+      "choice_data_list": [
+        "どうかした？",
+        "どうかしたの？"
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -30,16 +30,21 @@
       "name": "Fusaichi Pandora",
       "text": "\"So I can definitely win next time. Right, \nTrainer?\"",
       "choice_data_list": [
-        "Yeah, you can definitely win!",
-        "Yeah, you can definitely win!",
-        "First, we need to review what went wrong.",
-        "First, we need to review what went wrong."
+        "ああ、絶対に勝てる！",
+        "うん、絶対に勝てるよ！",
+        "そのためにはまず反省会だな",
+        "そのためにはまず反省会だね"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Right? ♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、絶対に勝てる！",
+        "うん、絶対に勝てるよ！",
+        "そのためにはまず反省会だな",
+        "そのためにはまず反省会だね"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -67,7 +72,10 @@
     {
       "name": "Fusaichi Pandora",
       "text": "Auugh... Fine then. Just that one part... \nI guess I can check just that one part for \nyou...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "同じ負け方してもいいのか？",
+        "同じ負け方してもいいの？"
+      ]
     }
   ]
 }

@@ -27,7 +27,10 @@
     {
       "name": "Chrono Genesis",
       "text": "No, that's impossible, but... Even so, I \nwant to keep it close at hand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "レコード、再生できるのか？",
+        "レコード、再生できるの？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -46,13 +49,16 @@
       "name": "Chrono Genesis",
       "text": "\"Huh...? But, I only talk about it because \nI love it, so...\"",
       "choice_data_list": [
-        "If anything, I want you to talk about it \nas much as you like!"
+        "俺にも、年代物の魅力を教えてほしい",
+        "私にも、年代物の魅力を教えてほしいな"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "...I-I understand. If it's just a little \nbit.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "むしろ好きなだけ語ってほしい！"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -74,7 +80,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Yes. It is a game where you become a \nTrainer and aim to conquer all GⅠ races \nalongside your Umamusume.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、ゲームソフト？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -86,7 +94,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Yes... Relics of the past carry the \npassion that people of those eras felt for \nracing, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そういうのも興味の対象なんだね"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -98,7 +108,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Still, it's an old game, so I'm not sure \nhow to play it... Maybe I should ask \nLove-chan for help.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なるほど、品物から歴史を……"
+      ]
     },
     {
       "name": "Narrator",
@@ -121,7 +133,10 @@
     {
       "name": "Narrator",
       "text": "Looking around at the stalls, I spotted \nvarious Umamusume merchandise here and \nthere. T-shirts, caps, plushies...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も、『史料』を買ってみようかな",
+        "私も、『史料』を買ってみようかな"
+      ]
     },
     {
       "name": "Narrator",
@@ -133,7 +148,9 @@
     {
       "name": "Chrono Genesis",
       "text": "……！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これにしようかな"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -145,7 +162,9 @@
     {
       "name": "Narrator",
       "text": "The delicately carved silhouette of an \nUmamusume... Its mystical aura gave me the \nfeeling that there might be some \nhistorical background to it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "このグラスの『歴史』を、知りたくなって"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -157,7 +176,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Ah, no! I was just a little startled...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "も、もしかして見当違いだった……？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -169,7 +190,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Judging by these meticulous patterns, it \nwas likely made to commemorate \nsomething... If so, it must be a very \nspecial glass.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、クロノも！？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -193,13 +216,16 @@
       "name": "Chrono Genesis",
       "text": "Huh...!? N-No, I couldn't accept this. \nEspecially when it's something you picked \nout, Trainer...",
       "choice_data_list": [
-        "That's precisely why I want you to have \nthis."
+        "ひとつ、もらってくれないかな",
+        "ひとつ、もらってほしいな"
       ]
     },
     {
       "name": "Narrator",
       "text": "Her eyes sparkled as she looked at vintage \nracing memorabilia, and she spoke fondly \nof its history—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "だからこそ、受け取ってほしい"
+      ]
     },
     {
       "name": "Narrator",
@@ -213,14 +239,17 @@
       "name": "Chrono Genesis",
       "text": "N-No way... You don't need to thank me.",
       "choice_data_list": [
-        "Next time, I want you to teach me how to \nresearch historical documents.",
-        "Next time, I'd like you to teach me how to \nresearch historical documents."
+        "『史料』の魅力を教えてくれた、お礼だ",
+        "『史料』の魅力を教えてくれた、お礼だよ"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "...! ...Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "次は『史料』の調べ方を教えてほしいんだ",
+        "次は『史料』の調べ方を教えてほしいな"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -251,16 +280,21 @@
       "name": "Chrono Genesis",
       "text": "Let us unravel history together.",
       "choice_data_list": [
-        "Yeah, I'll look into it with everything \nI've got!",
-        "Yeah, I'll do my best to look into it!",
-        "To me, you're my teacher when it comes to \nracing history.",
-        "To me, you're a teacher of racing history."
+        "ああ、一生懸命調べてみるよ！",
+        "うん、一生懸命調べてみるよ！",
+        "俺にとって君はレース史の先生だな",
+        "私にとって貴方はレース史の先生だね"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "Fufu... Yes. I look forward to hearing \nyour insight, Trainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、一生懸命調べてみるよ！",
+        "うん、一生懸命調べてみるよ！",
+        "俺にとって君はレース史の先生だな",
+        "私にとって貴方はレース史の先生だね"
+      ]
     },
     {
       "name": "Chrono Genesis",

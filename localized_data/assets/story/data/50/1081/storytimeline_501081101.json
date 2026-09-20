@@ -17,13 +17,15 @@
       "name": "Narrator",
       "text": "(*Bzzz, bzzz*)",
       "choice_data_list": [
-        "Hm? A phone call...?"
+        "（……このままではいつか限界が来る）"
       ]
     },
     {
       "name": "Narrator",
       "text": "I pick up the smartphone lying on the \ndesk. The name displayed on the screen \nis...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ん？電話……？"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -35,7 +37,9 @@
     {
       "name": "Narrator",
       "text": "The person who called yesterday was none \nother than her mother.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いえいえ、どうぞこちらに！"
+      ]
     },
     {
       "name": "Espoir City",
@@ -91,23 +95,28 @@
       "name": "Narrator",
       "text": "If I remember correctly, her mother was \nthe one she wanted most to acknowledge \nthat \"she is strong.\" In that case, I need \nto choose my words carefully...",
       "choice_data_list": [
-        "She shows her competitive spirit every \nsingle day.",
-        "I'm making sure to take proper breaks too! \n...Right?",
-        "I'm making sure to take proper breaks too! \n...Right?",
-        "I'm currently honing my technique."
+        "日々、負けん気を発揮していますよ",
+        "きちんとお休みも取っていますよ！……な？",
+        "きちんとお休みも取っていますよ！……ね？",
+        "今は技術を磨いています"
       ]
     },
     {
       "name": "Espoir City",
       "text": "...Hmph!",
       "choice_data_list": [
-        "That's your weapon, but it's also a \ndouble-edged sword..."
+        "日々、負けん気を発揮していますよ",
+        "きちんとお休みも取っていますよ！……な？",
+        "きちんとお休みも取っていますよ！……ね？",
+        "今は技術を磨いています"
       ]
     },
     {
       "name": "Espoir City",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そこが武器であり、諸刃の剣で……"
+      ]
     },
     {
       "name": "Espoir City",
@@ -184,7 +193,9 @@
     {
       "name": "Espoir City",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうぞお元気で、お気をつけて！"
+      ]
     },
     {
       "name": "Espoir City",
@@ -196,7 +207,9 @@
     {
       "name": "Espoir City",
       "text": "See ya!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あの、エスポ――"
+      ]
     },
     {
       "name": "Narrator",
@@ -208,7 +221,9 @@
     {
       "name": "Narrator",
       "text": "(*Bzzz, bzzz*)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ちゃんと彼女と向き合わないと……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -221,13 +236,15 @@
       "name": "Espo's Mother",
       "text": "I'm sorry for calling you out here, \nTrainer. ...I really needed to talk to you \none-on-one.",
       "choice_data_list": [
-        "No... so, what was it you wanted to talk \nabout?"
+        "……えっ？"
       ]
     },
     {
       "name": "Narrator",
       "text": "The person I had just met a moment ago \ntook a breath before beginning to speak.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いえ……それでお話とは"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -244,7 +261,9 @@
     {
       "name": "Espo's Mother",
       "text": "\"Because the way she used to be was the \ncomplete opposite of who she is now.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！どうしてそれを――"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -336,7 +355,9 @@
     {
       "name": "Narrator",
       "text": "—If that's the case, it changes the way I \nsee her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "全部が裏返し……"
+      ]
     },
     {
       "name": "Espoir City",
@@ -398,7 +419,9 @@
     {
       "name": "Espo's Mother",
       "text": "\"...Trainer, please look after that girl.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "自分で自分を、弱いと思っているから"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -435,7 +458,9 @@
     {
       "name": "Espo's Mother",
       "text": "Please, make that child strong.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……――"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -453,13 +478,15 @@
       "name": "Narrator",
       "text": "After leaving the coffee shop, I escort \nEspoir City's mother back to the station \nonce again.",
       "choice_data_list": [
-        "...I'll definitely figure something out."
+        "……はい"
       ]
     },
     {
       "name": "Narrator",
       "text": "I opened my \"textbook\" for Espoir City. \n...To explore what I could do for her as \nher Trainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……絶対になんとかする"
+      ]
     }
   ]
 }

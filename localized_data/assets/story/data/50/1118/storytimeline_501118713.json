@@ -21,7 +21,9 @@
     {
       "name": "Admire Groove",
       "text": "...... I can treat this myself, so there's \nno need to intervene.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それでも心配だから"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -36,23 +38,27 @@
       "name": "Admire Groove",
       "text": "...Once that's taken care of, let's \ncontinue our training.",
       "choice_data_list": [
-        "Just to be safe, let's take a rest for \nnow.",
-        "Yeah, as long as it's treated properly.",
-        "Yeah, once it's been properly treated, \nthat is."
+        "念には念を入れて、このまま休もう",
+        "ああ、しっかり処置できたらね",
+        "うん、しっかり処置できたらね"
       ]
     },
     {
       "name": "Admire Groove",
       "text": "I know myself best...! Trainer, you're not \na stranger, are you—",
       "choice_data_list": [
-        "Even so, you're still my trainee.",
-        "Even so, you're still my trainee."
+        "念には念を入れて、このまま休もう",
+        "ああ、しっかり処置できたらね",
+        "うん、しっかり処置できたらね"
       ]
     },
     {
       "name": "Admire Groove",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それでも、君の担当だ",
+        "それでも、貴方の担当だよ"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -89,7 +95,9 @@
     {
       "name": "Admire Groove",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "やっぱり、やめておこう"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -117,7 +125,10 @@
     {
       "name": "Admire Groove",
       "text": "...As long as I don't move it excessively. \nWell then, I'm off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "このまま続けられそうか？",
+        "このまま続けられそう？"
+      ]
     }
   ]
 }

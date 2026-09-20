@@ -67,7 +67,11 @@
     },
     {
       "name": "Monologue",
-      "text": "To think there would ever be an\nUmamusume to\nwin eleven G1 dirt\nraces... it's the stuff legends\nare made of."
+      "text": "To think there would ever be an\nUmamusume to\nwin eleven G1 dirt\nraces... it's the stuff legends\nare made of.",
+      "choice_data_list": [
+        "ああ、GⅠ勝利数、10を越えたな",
+        "うん、GⅠ勝利数、10を越えたね"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -127,7 +131,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, the place Copano Rickey heads\ntoward\nis..."
+      "text": "And so, the place Copano Rickey heads\ntoward\nis...",
+      "choice_data_list": [
+        "ああ、もちろん",
+        "うん、もちろん"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -199,11 +207,18 @@
     },
     {
       "name": "Old Caretaker",
-      "text": "Again, you say?"
+      "text": "Again, you say?",
+      "choice_data_list": [
+        "はい、また連れてきます",
+        "ええ、また連れてきます"
+      ]
     },
     {
       "name": "Old Caretaker",
-      "text": "An old home... You don't say."
+      "text": "An old home... You don't say.",
+      "choice_data_list": [
+        "この公園は2人の故郷みたいなものですから"
+      ]
     },
     {
       "name": "Copano Rickey",

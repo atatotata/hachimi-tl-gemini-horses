@@ -229,23 +229,27 @@
       "name": "Narrator",
       "text": "I had heard rumors that Daring Heart let \ngo of her beloved lizard... I wonder if \nshe's feeling down after all...",
       "choice_data_list": [
-        "Umm, should I go buy us some drinks?",
-        "I hope the little one I used to keep is \ndoing well!",
-        "I hope the little one you used to keep is \ndoing well!"
+        "えーっと、飲み物でも買ってこようか？",
+        "飼ってた子、元気にしているといいな！",
+        "飼ってた子、元気にしているといいね！"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "In that case, let's go to a cafe! You go \non ahead, I'll catch up right away!",
       "choice_data_list": [
-        "Yeah, got it.",
-        "Yeah, I understand."
+        "えーっと、飲み物でも買ってこようか？",
+        "飼ってた子、元気にしているといいな！",
+        "飼ってた子、元気にしているといいね！"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、わかったよ",
+        "うん、わかったよ"
+      ]
     },
     {
       "name": "Daring Heart",

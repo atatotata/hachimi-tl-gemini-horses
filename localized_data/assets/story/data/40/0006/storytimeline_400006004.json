@@ -72,27 +72,29 @@
       "name": "Narrator",
       "text": "My luggage hadn't arrived, so I inquired \nwith airport staff. However, I couldn't \nfigure out the procedure, which ended up \ncausing trouble for Mei Satake.",
       "choice_data_list": [
-        "(If only I could speak better French...)"
+        "すみません……！"
       ]
     },
     {
       "name": "Mei Satake",
       "text": "...! Hey, I can't find your wallet!",
       "choice_data_list": [
-        "No way!?"
+        "（もっとフランス語が話せたなら……）"
       ]
     },
     {
       "name": "Narrator",
       "text": "After that, I found my wallet and was \nfinally able to regroup with everyone, but \nthe first day's schedule was practically \nover.",
       "choice_data_list": [
-        "(I was terrible today...)"
+        "そんな！？"
       ]
     },
     {
       "name": "Narrator",
       "text": "Always scoring the lowest in the Trainer \nTraining Program. And on top of that, \ncausing trouble during an important \nopportunity like an expedition.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ダメダメだったなぁ……今日）"
+      ]
     },
     {
       "name": "Narrator",
@@ -135,14 +137,16 @@
       "name": "Narrator",
       "text": "...The suit I put on for today feels \ncompletely out of place compared to what \neveryone around me is wearing.",
       "choice_data_list": [
-        "...This stage is way too big for a \nnewcomer.",
-        "...This stage might be a bit too big for a \nnewcomer."
+        "（格か……）"
       ]
     },
     {
       "name": "Satono Diamond",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……新人には不相応すぎる舞台だな",
+        "……新人には不相応すぎる舞台かも"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -159,7 +163,9 @@
     {
       "name": "Satono Diamond",
       "text": "\"Seeing how you were the other day, I... \nended up seeing myself in you.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……？"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -191,7 +197,9 @@
     {
       "name": "Mei Satake",
       "text": "Satono Diamond, Trainer <username>. Let me tell you \na story from the past.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……佐岳さん"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -308,7 +316,9 @@
     {
       "name": "Mei Satake",
       "text": "...Yeah. Understood.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……はい！"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -351,7 +361,10 @@
     {
       "name": "Narrator",
       "text": "On a stage so solemn, so fierce, where \neveryone strives to be the strongest in \nthe world—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……俺たちも諦めない）",
+        "（……私たちも諦めない）"
+      ]
     },
     {
       "name": "Narrator",

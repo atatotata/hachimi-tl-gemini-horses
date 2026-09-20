@@ -15,7 +15,10 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "That sounds perfect. Lead the—"
+      "text": "That sounds perfect. Lead the—",
+      "choice_data_list": [
+        "トレーナー室に行こうか"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -63,11 +66,23 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Hmmm, what to do?"
+      "text": "Hmmm, what to do?",
+      "choice_data_list": [
+        "お茶はまた今度だな",
+        "お茶はまた今度だね",
+        "何か手伝えるか？",
+        "何か手伝えるかな？"
+      ]
     },
     {
       "name": "Symboli Rudolf",
-      "text": "It doesn't seem meant to be today, does\nit?"
+      "text": "It doesn't seem meant to be today, does\nit?",
+      "choice_data_list": [
+        "お茶はまた今度だな",
+        "お茶はまた今度だね",
+        "何か手伝えるか？",
+        "何か手伝えるかな？"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -103,7 +118,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Now, you three, please settle down and\nwait your\nturn. I'll hear you all out in a\nmore appropriate\nlocation."
+      "text": "Now, you three, please settle down and\nwait your\nturn. I'll hear you all out in a\nmore appropriate\nlocation.",
+      "choice_data_list": [
+        "そうだな",
+        "そうだね"
+      ]
     },
     {
       "name": "Monologue",

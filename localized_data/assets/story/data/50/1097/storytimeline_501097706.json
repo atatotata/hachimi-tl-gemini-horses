@@ -57,7 +57,10 @@
     {
       "name": "Daring Tact",
       "text": "Thank you. In that case, I'll leave that \nside to you upperclassmen.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "人手は多いほうがいいし、俺も手伝うよ",
+        "人手は多いほうがいいし、私も手伝うよ"
+      ]
     },
     {
       "name": "Still in Love",
@@ -80,21 +83,23 @@
       "name": "Still in Love",
       "text": "Ah, deep in the bushes...",
       "choice_data_list": [
-        "Damn it, she got away...!"
+        "おいでー……チチチチチ"
       ]
     },
     {
       "name": "Narrator",
       "text": "Afterward, we kept searching for the \nferret, but—even when it showed itself, it \nwould immediately scurry off and hide in \nthe bushes...",
       "choice_data_list": [
-        "She's really on her guard.",
-        "She's really on her guard."
+        "マズイ、逃げられた……！"
       ]
     },
     {
       "name": "Daring Tact",
       "text": "You're right... Ferrets are quite \nsensitive to sounds and scents, too...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "かなり警戒心が強いな",
+        "かなり警戒心が強いね"
+      ]
     },
     {
       "name": "Narrator",
@@ -106,7 +111,9 @@
     {
       "name": "Daring Tact",
       "text": "In that case, let's put food in the cage \nand set it up like a box trap. One of us \nwill chase and herd her, and the other \nwill close the door.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "追ってダメなら、罠を張ってみるとか？"
+      ]
     },
     {
       "name": "Daring Tact",
@@ -119,7 +126,10 @@
     {
       "name": "Still in Love",
       "text": "Y-Yes...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なら、俺たちは待ち伏せして扉を閉めよう",
+        "なら、私たちは待ち伏せして扉を閉めよう"
+      ]
     },
     {
       "name": "Still in Love",
@@ -131,7 +141,9 @@
     {
       "name": "Narrator",
       "text": "Lured by Daring Tact, the ferret showed \nitself. Perhaps noticing the food, it \ntwitches its nose and approaches the cage.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！――……来たっ！"
+      ]
     },
     {
       "name": "Narrator",
@@ -143,7 +155,9 @@
     {
       "name": "Still in Love",
       "text": "But... she looks like she's really \nhungry... In that case...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "くっ、警戒されてる……"
+      ]
     },
     {
       "name": "Narrator",
@@ -176,13 +190,15 @@
       "name": "Still in Love",
       "text": "\"...I've caught it. Trainer, please put \nthis little one in the cage...\"",
       "choice_data_list": [
-        "Leave it to me!"
+        "（すごい、スティルに気づいてない……！）"
       ]
     },
     {
       "name": "Girl",
       "text": "Thank you, Big Sisters!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "任せて！"
+      ]
     },
     {
       "name": "Narrator",
@@ -200,7 +216,10 @@
     {
       "name": "Daring Tact",
       "text": "\"Still, Still-senpai was amazing. Getting \nright up in front of that wary ferret's \neyes like that...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、そうだな",
+        "うん、そうだね"
+      ]
     },
     {
       "name": "Daring Tact",
@@ -217,7 +236,9 @@
     {
       "name": "Still in Love",
       "text": "Is that... so...? Um... it feels a little \nticklish, I suppose...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "実際すごいから、胸を張っていいと思うよ"
+      ]
     },
     {
       "name": "Still in Love",
@@ -253,24 +274,29 @@
       "name": "Still in Love",
       "text": "“—I'm... somehow really happy. ...And a \nlittle surprised.”",
       "choice_data_list": [
-        "Your modesty is a true virtue.",
-        "Your modesty is truly a virtue.",
-        "That strategy really brought out both your \nstrengths and Tact's!",
-        "That strategy really brought out the best \nin both you and Tact!"
+        "君の慎ましさは美徳だな",
+        "貴方の慎ましさは美徳だね",
+        "君とタクトの強みが活きた作戦だったな！",
+        "貴方とタクトの強みが活きた作戦だったね！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Disciplining herself so as not to cause \ntrouble for anyone. That was undeniably \nthe fruit of her hard work, and—",
       "choice_data_list": [
-        "I'm so proud of you.",
-        "I'm so proud of you just the way you are"
+        "君の慎ましさは美徳だな",
+        "貴方の慎ましさは美徳だね",
+        "君とタクトの強みが活きた作戦だったな！",
+        "貴方とタクトの強みが活きた作戦だったね！"
       ]
     },
     {
       "name": "Still in Love",
       "text": "\"...Pride? No... It is not something so \ngrand...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そんな君を誇りに思うよ",
+        "そんな貴方を誇りに思うよ"
+      ]
     },
     {
       "name": "Still in Love",

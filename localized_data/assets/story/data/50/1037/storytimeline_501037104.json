@@ -91,11 +91,18 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Huh? Sure. About what?"
+      "text": "Huh? Sure. About what?",
+      "choice_data_list": [
+        "スマートファルコンに協力してほしい"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "It takes a lot of power to run on dirt\ntracks, which\nis where Smart Falcon\nthrives. I ask her to give us\nsome\npointers."
+      "text": "It takes a lot of power to run on dirt\ntracks, which\nis where Smart Falcon\nthrives. I ask her to give us\nsome\npointers.",
+      "choice_data_list": [
+        "パワーを出すコツを教えて",
+        "最後まで粘るコツを教えて"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -135,11 +142,18 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Does it?"
+      "text": "Does it?",
+      "choice_data_list": [
+        "一理あるな！",
+        "一理あるね！"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "How am I supposed to \"give it a try and\nhave fun\"\nwhen there's no way to\nvalidate Falcon's claims?\nFor starters—"
+      "text": "How am I supposed to \"give it a try and\nhave fun\"\nwhen there's no way to\nvalidate Falcon's claims?\nFor starters—",
+      "choice_data_list": [
+        "騙されたと思って楽しもう！"
+      ]
     },
     {
       "name": "Smart Falcon",

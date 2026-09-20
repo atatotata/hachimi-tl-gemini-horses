@@ -92,13 +92,15 @@
       "name": "Sisters' Father",
       "text": "\"No, no! We're the ones who should be \nthanking you!\"",
       "choice_data_list": [
-        "No, no, I should be the one—"
+        "こちらこそご協力ありがとうございました！"
       ]
     },
     {
       "name": "Sisters' Mother",
       "text": "Yes! All of us together were able to \nsupport Verxina-chan♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いやいや、こちらのほうが――"
+      ]
     },
     {
       "name": "Sisters' Mother",
@@ -140,7 +142,9 @@
     {
       "name": "Verxina",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "おかえり、ヴィルシーナ"
+      ]
     },
     {
       "name": "Verxina",
@@ -164,13 +168,16 @@
       "name": "Verxina",
       "text": "When you say \"just like this\"...",
       "choice_data_list": [
-        "It's the path to chasing after Gentildonna"
+        "今の君なら、このまま進む道もある",
+        "今の貴方なら、このまま進む道もある"
       ]
     },
     {
       "name": "Verxina",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ジェンティルドンナを追う道だ"
+      ]
     },
     {
       "name": "Narrator",
@@ -213,29 +220,31 @@
       "name": "Verxina",
       "text": "First is the race that crowns the Mile \nQueen... The Victoria Mile!",
       "choice_data_list": [
-        "Ah, let's go down your own path!",
-        "Yeah, let's walk your path!"
+        "……！"
       ]
     },
     {
       "name": "Narrator",
       "text": "And so, together with a Verxina who has \nreclaimed her noble pride... we set our \nsights on the Victoria Mile!",
       "choice_data_list": [
-        "Once you're ready, go home with your \nfamily.",
-        "Once you're ready, head home with your \nfamily, okay?"
+        "ああ、君の道を行こう！",
+        "うん、貴方の道を行こう！"
       ]
     },
     {
       "name": "Verxina",
       "text": "Oh, where is Trainer?",
       "choice_data_list": [
-        "...You know, with the paperwork and all \nthat!"
+        "支度が終わったら、ご家族と帰ってくれ",
+        "支度が終わったら、ご家族と帰ってね"
       ]
     },
     {
       "name": "Narrator",
       "text": "To tell the truth, I had no particular \nbusiness with you... but since your family \nhad gathered, I thought you should spend \nprivate time together with them.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ほら、手続きとか、色々！"
+      ]
     },
     {
       "name": "Verxina",
@@ -433,13 +442,15 @@
       "name": "Verxina",
       "text": "……。",
       "choice_data_list": [
-        "...Something wrong?"
+        "ヴィルシーナ？"
       ]
     },
     {
       "name": "Verxina",
       "text": "N-No, it's nothing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……どうかした？"
+      ]
     },
     {
       "name": "Verxina",

@@ -13,12 +13,16 @@
       "name": "Silence Suzuka",
       "text": "Actually…… lately I feel like someone's \nbeen watching me the entire time…… and \nso……",
       "choice_data_list": [
-        "Someone's watching you, huh……"
+        "どうしたんだ？",
+        "どうしたの？"
       ]
     },
     {
       "name": "???",
-      "text": "*staaaaaaare*……"
+      "text": "*staaaaaaare*……",
+      "choice_data_list": [
+        "誰かに見られている、か……"
+      ]
     },
     {
       "name": "Narrator",
@@ -30,7 +34,11 @@
     },
     {
       "name": "Special Week",
-      "text": "Awawawa~~!?"
+      "text": "Awawawa~~!?",
+      "choice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -98,7 +106,11 @@
     },
     {
       "name": "Special Week",
-      "text": "U-Um, actually…… There's just one more \nthing on my mind……"
+      "text": "U-Um, actually…… There's just one more \nthing on my mind……",
+      "choice_data_list": [
+        "これでスッキリしたか？",
+        "これでスッキリしたかな？"
+      ]
     },
     {
       "name": "Special Week",
@@ -125,7 +137,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "With Spe-chan...? Yes, okay... If that's \nthe case."
+      "text": "With Spe-chan...? Yes, okay... If that's \nthe case.",
+      "choice_data_list": [
+        "2人でやってみたら？"
+      ]
     },
     {
       "name": "Narrator",

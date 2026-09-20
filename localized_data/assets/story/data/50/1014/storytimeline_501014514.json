@@ -11,7 +11,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Oh, hey Trainer! Do you want some\ncactus too?"
+      "text": "Oh, hey Trainer! Do you want some\ncactus too?",
+      "choice_data_list": [
+        "サボテン？"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -23,7 +26,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "All kinds of ways! You can make it into\nsteak, or\nhamburgers, even smoothies!"
+      "text": "All kinds of ways! You can make it into\nsteak, or\nhamburgers, even smoothies!",
+      "choice_data_list": [
+        "どう料理するんだ？",
+        "どう料理するの？"
+      ]
     },
     {
       "name": "Special Week",
@@ -39,7 +46,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Steak is my go-to!"
+      "text": "Steak is my go-to!",
+      "choice_data_list": [
+        "ステーキかな！",
+        "スムージーがいいな！"
+      ]
     },
     {
       "name": "El Condor Pasa",

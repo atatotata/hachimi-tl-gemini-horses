@@ -99,11 +99,23 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Um, Trainer! What did you think about\nmy\nlivestream with Mayano? I hope I\ndidn't seem\nweird..."
+      "text": "Um, Trainer! What did you think about\nmy\nlivestream with Mayano? I hope I\ndidn't seem\nweird...",
+      "choice_data_list": [
+        "みんな喜んでたな",
+        "みんな喜んでたね",
+        "俺もフラワーに励まされたいって思ったよ",
+        "私もフラワーに励まされたいって思ったよ"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Y-you really think so? I'm so glad!"
+      "text": "Y-you really think so? I'm so glad!",
+      "choice_data_list": [
+        "みんな喜んでたな",
+        "みんな喜んでたね",
+        "俺もフラワーに励まされたいって思ったよ",
+        "私もフラワーに励まされたいって思ったよ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -119,7 +131,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "走りを見せるのが1番の励ましになるよ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -135,11 +150,17 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Sure thing! I'll pull out all the stops to\nmotivate\nyou!"
+      "text": "Sure thing! I'll pull out all the stops to\nmotivate\nyou!",
+      "choice_data_list": [
+        "なんて、冗談――"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "You always work so hard around the\nclock,\nTrainer! You're the type of\ngrown-up I truly\nrespect!"
+      "text": "You always work so hard around the\nclock,\nTrainer! You're the type of\ngrown-up I truly\nrespect!",
+      "choice_data_list": [
+        "えっ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -151,7 +172,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The immense warmth contained within\nNishino\nFlower's heart threatens to\nswallow my entire\nbeing whole..."
+      "text": "The immense warmth contained within\nNishino\nFlower's heart threatens to\nswallow my entire\nbeing whole...",
+      "choice_data_list": [
+        "（こ、これは危険だっ……！）",
+        "（こ、これは危険っ……！）"
+      ]
     }
   ]
 }

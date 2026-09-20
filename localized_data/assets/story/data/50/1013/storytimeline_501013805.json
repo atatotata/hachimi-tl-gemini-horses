@@ -11,7 +11,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "<i>Shhh...</i> Don't say a word."
+      "text": "<i>Shhh...</i> Don't say a word.",
+      "choice_data_list": [
+        "なんなんだ、この状況……",
+        "なんなの、この状況……"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Monologue",
-      "text": "But, whether you react or not, there's no\ntelling\nwhat Gold Ship has up her\nsleeve... And I think I\nneed to tell this to\nMejiro McQueen."
+      "text": "But, whether you react or not, there's no\ntelling\nwhat Gold Ship has up her\nsleeve... And I think I\nneed to tell this to\nMejiro McQueen.",
+      "choice_data_list": [
+        "とは言っても……"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -87,7 +94,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I w-won't be deceived by your crocodile\ntears!\nCertainly, this is just a trap."
+      "text": "I w-won't be deceived by your crocodile\ntears!\nCertainly, this is just a trap.",
+      "choice_data_list": [
+        "（ゴールドシップが泣いた！？）"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -99,11 +109,21 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Huh?! I can't believe this! What\nhappened to that\nobnoxiously cheery\ndemeanor of yours?!"
+      "text": "Huh?! I can't believe this! What\nhappened to that\nobnoxiously cheery\ndemeanor of yours?!",
+      "choice_data_list": [
+        "気を強く持て！あれは罠だ！",
+        "気を強く持って！あれは罠だよ！",
+        "……そろそろ構ってあげたら？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Huh?!"
+      "text": "Huh?!",
+      "choice_data_list": [
+        "気を強く持て！あれは罠だ！",
+        "気を強く持って！あれは罠だよ！",
+        "……そろそろ構ってあげたら？"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -135,7 +155,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Huh?! Of course not! It takes passion to\ncome up\nwith these things! True heart\nand passion!"
+      "text": "Huh?! Of course not! It takes passion to\ncome up\nwith these things! True heart\nand passion!",
+      "choice_data_list": [
+        "もしかして構い方を迷っている……？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -155,7 +178,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Indeed. I won't be fooled again. I must\nsteel\nmyself in the face of her trickery."
+      "text": "Indeed. I won't be fooled again. I must\nsteel\nmyself in the face of her trickery.",
+      "choice_data_list": [
+        "やっぱり関わるとロクなことがないな……",
+        "やっぱり関わるとロクなことがないね……"
+      ]
     },
     {
       "name": "Mejiro McQueen",

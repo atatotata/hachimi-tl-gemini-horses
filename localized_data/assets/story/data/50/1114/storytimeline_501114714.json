@@ -17,7 +17,10 @@
     {
       "name": "Buena Vista",
       "text": "No, that can't be...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君じゃない……すべて、俺の責任だ",
+        "貴方じゃない……すべて、私の責任だよ"
+      ]
     },
     {
       "name": "Narrator",
@@ -29,7 +32,9 @@
     {
       "name": "Buena Vista",
       "text": "Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "本当に……ごめん"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -62,24 +67,26 @@
       "name": "Buena Vista",
       "text": "\"I want to keep moving forward, even if \nit's bit by bit. So... please!\"",
       "choice_data_list": [
-        "...Even so, you need to rest right now.",
-        "...Even so, you need to rest right now.",
-        "Got it... Let's find what we can do!"
+        "――――！"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "\"I want to keep moving forward, even if \nit's bit by bit. So... please!\"",
       "choice_data_list": [
-        "...Even so, you need to rest right now.",
-        "...Even so, you need to rest right now.",
-        "Got it... Let's find what we can do!"
+        "……それでも、今は安静にすべきだ",
+        "……それでも、今は安静にすべきだよ",
+        "わかった……できることを探そう！"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "But...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……それでも、今は安静にすべきだ",
+        "……それでも、今は安静にすべきだよ",
+        "わかった……できることを探そう！"
+      ]
     },
     {
       "name": "Narrator",
@@ -93,13 +100,16 @@
       "name": "Buena Vista",
       "text": "――――！",
       "choice_data_list": [
-        "So... let's take the day off, Buena."
+        "約束への道を……閉ざしたくないんだ",
+        "約束への道を……閉ざしたくないの"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "\"...I'm sorry. You're right. After all, we \ncame all this way aiming for that very \nscenery.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "だから……今日は休もう、ブエナ"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -121,7 +131,9 @@
     {
       "name": "Buena Vista",
       "text": "\"...I'm sorry. I guess that really was \nreckless after all.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……今は、休養を優先させよう"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -143,7 +155,9 @@
     {
       "name": "Buena Vista",
       "text": "Yeah. Even if it's step by step... let's \nkeep moving forward together again.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "メニューを整えて、続けていこう"
+      ]
     },
     {
       "name": "Narrator",

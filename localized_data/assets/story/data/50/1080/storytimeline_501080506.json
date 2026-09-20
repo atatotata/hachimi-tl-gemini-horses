@@ -52,14 +52,16 @@
       "name": "Transcend",
       "text": "*Hah*... *phew*...!",
       "choice_data_list": [
-        "...I knew it, you were doing solo \ntraining.",
-        "...I knew it, you were doing solo \ntraining."
+        "（と、いうことは……）"
       ]
     },
     {
       "name": "Narrator",
       "text": "Though she speaks lightly, she's serious \nat heart. \"My sense blossomed\"— I figured \nthere was more behind those words.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……やっぱり、自主トレしてたか",
+        "……やっぱり、自主トレしてたんだ"
+      ]
     },
     {
       "name": "Transcend",
@@ -81,7 +83,9 @@
     {
       "name": "Transcend",
       "text": "Huh? No, no, observing class is totally \nnormal, right? I meant your deduction \nskills are seriously insane.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そ、それはごめん"
+      ]
     },
     {
       "name": "Transcend",
@@ -99,14 +103,16 @@
       "name": "Transcend",
       "text": "Oh my. Could it be that you're gonna dance \nwith me?",
       "choice_data_list": [
-        "...I mean, if you're fine with someone \nlike me...",
-        "...If you're fine with someone like me, \nthat is."
+        "1人じゃできない練習もあるかな、と"
       ]
     },
     {
       "name": "Transcend",
       "text": "Whoa, whoa, don't get cold feet now~ I'm \ncounting on ya!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……俺でよければ、ではあるんだけど",
+        "……私でよければ、ではあるんだけど"
+      ]
     },
     {
       "name": "Transcend",
@@ -121,15 +127,19 @@
       "name": "Transcend",
       "text": "So, what should we dance? Since you're \ntagging along, I'll match your pace, \nTrainy~",
       "choice_data_list": [
-        "With your favorite song.",
-        "Let's go with your favorite song.",
-        "Let's go with a song I'm bad at!"
+        "君の好きな曲で",
+        "貴方の好きな曲で",
+        "苦手な曲にしよう！"
       ]
     },
     {
       "name": "Transcend",
       "text": "Oho~? ...So you said that knowing full \nwell what I like? ♡",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の好きな曲で",
+        "貴方の好きな曲で",
+        "苦手な曲にしよう！"
+      ]
     },
     {
       "name": "Transcend",
@@ -141,7 +151,9 @@
     {
       "name": "Transcend",
       "text": "Haha! Well of course! There's no holding \nback when it's this much fun!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "手加減、なし！！？"
+      ]
     },
     {
       "name": "Transcend",
@@ -154,7 +166,10 @@
     {
       "name": "Transcend",
       "text": "............Stop with the sound logic.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "苦手を克服するための、自主トレだろ？",
+        "苦手を克服するための、自主トレでしょ？"
+      ]
     },
     {
       "name": "Transcend",
@@ -171,7 +186,9 @@
     {
       "name": "Transcend",
       "text": "Aha! Thanks a bunch~. Now I feel like I \ncan dance to anything with a big smile!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ぐ、ぐぅ……！"
+      ]
     }
   ]
 }

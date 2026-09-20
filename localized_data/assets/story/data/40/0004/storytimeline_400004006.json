@@ -11,7 +11,10 @@
     },
     {
       "name": "Reporter A",
-      "text": "Just a smidgeon of info will do! Please\nallow us to\ncorroborate this story!"
+      "text": "Just a smidgeon of info will do! Please\nallow us to\ncorroborate this story!",
+      "choice_data_list": [
+        "（校門のほうが騒がしい……？）"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "T-Trainer?! Oh no, you mustn't make an\n\nappearance!"
+      "text": "T-Trainer?! Oh no, you mustn't make an\n\nappearance!",
+      "choice_data_list": [
+        "たづなさん、どうしたんですか！？"
+      ]
     },
     {
       "name": "Reporter B",
@@ -31,15 +37,24 @@
     },
     {
       "name": "Reporter B",
-      "text": "Are the rumors true?! Are you forcing\nyour trainee\nto undergo brutal training?!"
+      "text": "Are the rumors true?! Are you forcing\nyour trainee\nto undergo brutal training?!",
+      "choice_data_list": [
+        "そうですが……"
+      ]
     },
     {
       "name": "Reporter B",
-      "text": "They say you make her run late into the\nnight\nevery day, or make her sit atop a\nstone for three\ndays straight, or make\nher do laps while\nhandstand walking."
+      "text": "They say you make her run late into the\nnight\nevery day, or make her sit atop a\nstone for three\ndays straight, or make\nher do laps while\nhandstand walking.",
+      "choice_data_list": [
+        "はい！？"
+      ]
     },
     {
       "name": "Reporter B",
-      "text": "But there's already been a news story\npublished\nabout it!"
+      "text": "But there's already been a news story\npublished\nabout it!",
+      "choice_data_list": [
+        "そ、そんな事実はありません！"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -147,7 +162,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I don't want this incident to be a damper\non the\nhype surrounding the Twinkle\nStar Climax."
+      "text": "I don't want this incident to be a damper\non the\nhype surrounding the Twinkle\nStar Climax.",
+      "choice_data_list": [
+        "どうしてそこまで……？"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -187,7 +205,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes! By following you every day, I'll be\nable to\nshow the world your amazing\ntraining methods."
+      "text": "Yes! By following you every day, I'll be\nable to\nshow the world your amazing\ntraining methods.",
+      "choice_data_list": [
+        "み、密着取材！？"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -203,7 +224,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "But aren't you awfully busy preparing for\nthe\nevent, Reporter Otonashi?"
+      "text": "But aren't you awfully busy preparing for\nthe\nevent, Reporter Otonashi?",
+      "choice_data_list": [
+        "そうですね……あれだけ知識があれば……"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -247,7 +271,11 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Good morning! Today marks the\nbeginning of my\ncoverage on you. I\nappreciate your cooperation!"
+      "text": "Good morning! Today marks the\nbeginning of my\ncoverage on you. I\nappreciate your cooperation!",
+      "choice_data_list": [
+        "……俺は――",
+        "……私は――"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -255,11 +283,17 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Hm? Dream, you say?"
+      "text": "Hm? Dream, you say?",
+      "choice_data_list": [
+        "誰の夢も閉ざしたくなかったので"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "R-right! I'll do my best not to get in your\nway!"
+      "text": "R-right! I'll do my best not to get in your\nway!",
+      "choice_data_list": [
+        "いえ。よろしくお願いします！"
+      ]
     },
     {
       "name": "Monologue",

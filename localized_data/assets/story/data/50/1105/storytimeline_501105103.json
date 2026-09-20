@@ -22,7 +22,10 @@
     {
       "name": "Neo Universe",
       "text": "Neo Universe cannot eat it. Because—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "食べたいのか？",
+        "食べたいの？"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -35,13 +38,15 @@
       "name": "Narrator",
       "text": "I'm surprised. Neo Universe having a \ncavity... I could never have imagined her \ngetting something like that...",
       "choice_data_list": [
-        "Then let's go get you checked out!"
+        "え、もしかして……虫歯！？"
       ]
     },
     {
       "name": "Neo Universe",
       "text": "A medical checkup... I'm guessing \n\"NOST\"...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なら検診に行こう！"
+      ]
     },
     {
       "name": "Dentist",
@@ -74,7 +79,10 @@
     {
       "name": "Narrator",
       "text": "They found no cavities at all, and the \nvisit ended with praise for my \nwell-aligned teeth. Then what's causing \nthe pain...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どういうことなんだ……",
+        "どういうことなの……"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -91,7 +99,9 @@
     {
       "name": "Neo Universe",
       "text": "\"This pain will not subside. What will \nsubside is—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どういうこと？"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -108,7 +118,9 @@
     {
       "name": "Neo Universe",
       "text": "—Affirmative. Yes. More importantly, Neo \nUniverse...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "しばらくガマンするしかない？"
+      ]
     },
     {
       "name": "Narrator",

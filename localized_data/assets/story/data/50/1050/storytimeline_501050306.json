@@ -47,11 +47,18 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Hmph. This isn't good enough for me. I\ncan't let\nthings end like this."
+      "text": "Hmph. This isn't good enough for me. I\ncan't let\nthings end like this.",
+      "choice_data_list": [
+        "お帰り、タイシン！"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Glad you're on board. Let's go back."
+      "text": "Glad you're on board. Let's go back.",
+      "choice_data_list": [
+        "そうだな……！",
+        "そうだね……！"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -59,7 +66,11 @@
     },
     {
       "name": "Red-haired Girl",
-      "text": "Taishin..."
+      "text": "Taishin...",
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Red-haired Girl",

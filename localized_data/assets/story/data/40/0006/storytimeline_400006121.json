@@ -38,13 +38,16 @@
       "name": "Monologue",
       "text": "Gathering my courage, I tried speaking to \nthem in the French I had learned!",
       "choice_data_list": [
-        "Bonjour!"
+        "（声、かけてみようかな……）",
+        "（もうちょっと会話を聞いてみよう）"
       ]
     },
     {
       "name": "Parisian B",
       "text": "\"Whoa! So you really were <chrname> after all?! I \nsaw your videos on UmaTube, I'm rootin' \nfor you~\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Bonjour!"
+      ]
     },
     {
       "name": "Parisian A",

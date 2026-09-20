@@ -15,7 +15,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Ah, right. Tomorrow then."
+      "text": "Ah, right. Tomorrow then.",
+      "choice_data_list": [
+        "もう夜だから、明日な",
+        "もう夜だから、明日ね"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -59,7 +63,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hm... I can barely feel it... My legs move\nas if\nnothing's in their way. It's great..."
+      "text": "Hm... I can barely feel it... My legs move\nas if\nnothing's in their way. It's great...",
+      "choice_data_list": [
+        "勝負服の走り心地はどうだった？"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -71,11 +78,23 @@
     },
     {
       "name": "Monologue",
-      "text": "I consider what she's saying. If it <i>is</i> the\ncolor..."
+      "text": "I consider what she's saying. If it <i>is</i> the\ncolor...",
+      "choice_data_list": [
+        "緑が好きなんだな",
+        "緑が好きなんだね",
+        "白が好きなんだな",
+        "白が好きなんだね"
+      ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yes, that's right."
+      "text": "Yes, that's right.",
+      "choice_data_list": [
+        "緑が好きなんだな",
+        "緑が好きなんだね",
+        "白が好きなんだな",
+        "白が好きなんだね"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -111,7 +130,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Huh? Are they really? Already?"
+      "text": "Huh? Are they really? Already?",
+      "choice_data_list": [
+        "もうすぐ始業時間だぞ！？",
+        "もうすぐ始業時間だよ！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -147,7 +170,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "It's nothing, really. Thinking about the\npast is\ngiving me the urge to go for a\nrun."
+      "text": "It's nothing, really. Thinking about the\npast is\ngiving me the urge to go for a\nrun.",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -155,7 +182,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Huh? Are they really? Already?"
+      "text": "Huh? Are they really? Already?",
+      "choice_data_list": [
+        "もうすぐ始業時間だぞ！？",
+        "もうすぐ始業時間だよ！？"
+      ]
     },
     {
       "name": "Monologue",

@@ -107,7 +107,11 @@
     },
     {
       "name": "Monologue",
-      "text": "With the results in, Seiun Sky receives\nthe most\nvotes and is deemed the\nculprit."
+      "text": "With the results in, Seiun Sky receives\nthe most\nvotes and is deemed the\nculprit.",
+      "choice_data_list": [
+        "セイウンスカイが犯人",
+        "グラスワンダーが犯人"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -207,7 +211,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Lying, bluffing, whatever you'd like to\ncall it. But I\nam not the culprit."
+      "text": "Lying, bluffing, whatever you'd like to\ncall it. But I\nam not the culprit.",
+      "choice_data_list": [
+        "えっ、嘘！？"
+      ]
     },
     {
       "name": "El Condor Pasa",

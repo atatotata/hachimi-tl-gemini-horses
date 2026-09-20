@@ -144,13 +144,16 @@
       "name": "Narrator",
       "text": "...In the cafeteria where I came for a \nbreak, my eyes meet with the two excitedly \nhyping each other up.",
       "choice_data_list": [
-        "I'm sure you'll find someone great!",
-        "Please, don't mind me, carry on..."
+        "（んっ……？）"
       ]
     },
     {
       "name": "Blast Onepiece",
-      "text": "Ehehe... Yeah, yeah! I really hope so~!"
+      "text": "Ehehe... Yeah, yeah! I really hope so~!",
+      "choice_data_list": [
+        "きっといい人に出会えるよ！",
+        "どうぞ、気にせず続けて……"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -173,7 +176,10 @@
     },
     {
       "name": "Narrator",
-      "text": "...In the end, I was roped into their \nconversation and spent the rest of the \ntime discussing humans and Umamusume."
+      "text": "...In the end, I was roped into their \nconversation and spent the rest of the \ntime discussing humans and Umamusume.",
+      "choice_data_list": [
+        "ええっ！？"
+      ]
     }
   ]
 }

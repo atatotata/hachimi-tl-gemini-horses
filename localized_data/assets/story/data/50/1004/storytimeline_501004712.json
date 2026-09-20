@@ -11,11 +11,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh snap, Trainer!"
+      "text": "Oh snap, Trainer!",
+      "choice_data_list": [
+        "遅くなってどうした？",
+        "遅くなってどうしたの？"
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "I'm afraid I can't tell you that..."
+      "text": "I'm afraid I can't tell you that...",
+      "choice_data_list": [
+        "遅くなってどうした？",
+        "遅くなってどうしたの？"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -27,7 +35,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Okay. I'm sorry for making you worry."
+      "text": "Okay. I'm sorry for making you worry.",
+      "choice_data_list": [
+        "次は気をつけような",
+        "次は気をつけてね"
+      ]
     },
     {
       "name": "Monologue",

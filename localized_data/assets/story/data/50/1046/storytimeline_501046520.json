@@ -15,7 +15,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Yeah, maybe we should. I really wanna\nkeep\ngoing, but..."
+      "text": "Yeah, maybe we should. I really wanna\nkeep\ngoing, but...",
+      "choice_data_list": [
+        "このあたりで切り上げる？"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -39,7 +42,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Of course! After all..."
+      "text": "Of course! After all...",
+      "choice_data_list": [
+        "オグリキャップもウマドルなの？"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -51,7 +57,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Good work out there, Oguri! ☆ We're\nboth totally\ncovered in mud, huh?"
+      "text": "Good work out there, Oguri! ☆ We're\nboth totally\ncovered in mud, huh?",
+      "choice_data_list": [
+        "なんて独特な目線……"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -99,11 +108,21 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!"
+      "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!",
+      "choice_data_list": [
+        "ファイト全開で頑張れ！",
+        "ファイト全開で頑張って！",
+        "併走をお願いしてみよう"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Thanks, Trainer! ☆ I'm off, then!"
+      "text": "Thanks, Trainer! ☆ I'm off, then!",
+      "choice_data_list": [
+        "ファイト全開で頑張れ！",
+        "ファイト全開で頑張って！",
+        "併走をお願いしてみよう"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -151,7 +170,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Falco?! It's too early to collapse!"
+      "text": "Falco?! It's too early to collapse!",
+      "choice_data_list": [
+        "ファル子！？"
+      ]
     },
     {
       "name": "",
@@ -199,7 +221,10 @@
     },
     {
       "name": "",
-      "text": "...In any case, Smart Falcon's awareness\nas a front\nrunner improves significantly\nthanks to pair\nrunning with Oguri Cap!"
+      "text": "...In any case, Smart Falcon's awareness\nas a front\nrunner improves significantly\nthanks to pair\nrunning with Oguri Cap!",
+      "choice_data_list": [
+        "う、ウマドルのプライド……！"
+      ]
     }
   ]
 }

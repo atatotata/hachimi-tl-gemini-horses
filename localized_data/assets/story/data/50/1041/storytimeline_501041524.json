@@ -11,7 +11,10 @@
     },
     {
       "name": "Biko Pegasus",
-      "text": "Hold up! Bakushin O!"
+      "text": "Hold up! Bakushin O!",
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Somebody stole one of my classmate's\ncleats! As\nclass rep, I couldn't overlook\nit!"
+      "text": "Somebody stole one of my classmate's\ncleats! As\nclass rep, I couldn't overlook\nit!",
+      "choice_data_list": [
+        "は、犯人って？"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -43,7 +49,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "No, no! That's not it! Your cellphone just\nlooked\nlike the stolen cleat for a second!"
+      "text": "No, no! That's not it! Your cellphone just\nlooked\nlike the stolen cleat for a second!",
+      "choice_data_list": [
+        "俺、カラスに間違えられたのか……？",
+        "私、カラスに間違えられたの……？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -127,7 +137,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Inspired by how she mistook my\ncellphone for a\ncleat, we use it as a\ndecoy."
+      "text": "Inspired by how she mistook my\ncellphone for a\ncleat, we use it as a\ndecoy.",
+      "choice_data_list": [
+        "囮でおびき出そう"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

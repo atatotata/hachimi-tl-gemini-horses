@@ -11,7 +11,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Well... You know how fairy tales and\nlegends\naren't exactly true to life?"
+      "text": "Well... You know how fairy tales and\nlegends\naren't exactly true to life?",
+      "choice_data_list": [
+        "どういうことだ？",
+        "どういうこと？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sure, that seems like the best approach.\nAllow me\nto read <i>Momotaro</i> for you."
+      "text": "Sure, that seems like the best approach.\nAllow me\nto read <i>Momotaro</i> for you.",
+      "choice_data_list": [
+        "実際にやってもらってもいい？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Then there's the part where the old man\nand\nwoman cut the peach in half."
+      "text": "Then there's the part where the old man\nand\nwoman cut the peach in half.",
+      "choice_data_list": [
+        "そ、それは……"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -71,7 +81,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Even if I am, what benefit is there to\nlearn about\nthings that are logically\nimpossible?"
+      "text": "Even if I am, what benefit is there to\nlearn about\nthings that are logically\nimpossible?",
+      "choice_data_list": [
+        "ちょっと考えすぎじゃないか",
+        "ちょっと考えすぎじゃないかな"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -83,15 +97,28 @@
     },
     {
       "name": "Monologue",
-      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen..."
+      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen...",
+      "choice_data_list": [
+        "君なりにやってみてもいいかも",
+        "貴方なりにやってみてもいいかも",
+        "いっそ勉強会にしてみる？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "My own twist?"
+      "text": "My own twist?",
+      "choice_data_list": [
+        "君なりにやってみてもいいかも",
+        "貴方なりにやってみてもいいかも",
+        "いっそ勉強会にしてみる？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You mean reconstruct them in a way that\nmakes\nsense? That does sound\nintriguing..."
+      "text": "You mean reconstruct them in a way that\nmakes\nsense? That does sound\nintriguing...",
+      "choice_data_list": [
+        "論理を突き詰めてみるとか"
+      ]
     },
     {
       "name": "Monologue",

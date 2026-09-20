@@ -36,7 +36,9 @@
     {
       "name": "Duramente",
       "text": "\"...No, Trainer. It's fine. I'll take the \ninterview.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "すみませんが、取材は事前にご連絡を……"
+      ]
     },
     {
       "name": "Duramente",
@@ -48,7 +50,9 @@
     {
       "name": "Narrator",
       "text": "And so began the ambush interview. I \nwatched over Duramente from a short \ndistance away, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……わかった"
+      ]
     },
     {
       "name": "Duramente",
@@ -75,7 +79,9 @@
     {
       "name": "Narrator",
       "text": "I was worried about the sudden interview, \nbut she remained completely composed. Just \nas I thought my worries were unfounded...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……慣れた受け答え！）"
+      ]
     },
     {
       "name": "Enthusiastic Reporter",
@@ -163,20 +169,22 @@
       "name": "Duramente",
       "text": "Pardon me, but this is as far as we go \ntoday. —Trainer.",
       "choice_data_list": [
-        "...Huh?"
+        "そ、そんな大層なお出かけじゃ――！"
       ]
     },
     {
       "name": "Shopkeeper",
       "text": "...Welcome.",
       "choice_data_list": [
-        "...This place is...!"
+        "……えっ"
       ]
     },
     {
       "name": "Duramente",
       "text": "Classic Cafe. It is our place of \nrelaxation.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ここって……！"
+      ]
     },
     {
       "name": "Duramente",
@@ -190,7 +198,11 @@
     {
       "name": "Duramente",
       "text": "She must have built up some real grit. Her \ndaily training is producing great results.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……インタビュー、立派だったね！",
+        "どこに連れていかれるかと……",
+        "予想以上に、寄り道を楽しんでいたんだね！"
+      ]
     },
     {
       "name": "Duramente",

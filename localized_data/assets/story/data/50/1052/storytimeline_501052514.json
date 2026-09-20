@@ -47,11 +47,17 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Hey, Trainer! How were we? Did we do\ngood?"
+      "text": "Hey, Trainer! How were we? Did we do\ngood?",
+      "choice_data_list": [
+        "わかりました"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "Heehee! ♪ Yay! Interviews are tougher\nthan I\nthought, but they're so fun!"
+      "text": "Heehee! ♪ Yay! Interviews are tougher\nthan I\nthought, but they're so fun!",
+      "choice_data_list": [
+        "ウララらしくてよかった"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -83,7 +89,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Snacks?! Yippee! Thanks!"
+      "text": "Snacks?! Yippee! Thanks!",
+      "choice_data_list": [
+        "お菓子をあげて和ませる",
+        "遊んでおいで、と促す"
+      ]
     },
     {
       "name": "Rice Shower",

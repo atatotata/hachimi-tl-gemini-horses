@@ -38,13 +38,16 @@
       "name": "Fusaichi Pandora",
       "text": "Ehh~? 3 slices~? Do you really have to~?",
       "choice_data_list": [
-        "If I'm borrowing it instead, that's a \npromise, okay?"
+        "多いと見終わらないから、3枚までな",
+        "多いと見終わらないから、3枚までね"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Mmm~~... Well, it'd be a waste if we \ndidn't finish watching it, so whatever. \nAll good, all good~☆",
-      "choice_data_list": []
+      "choice_data_list": [
+        "代わりに借りるなら、それが約束だよ"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -117,21 +120,23 @@
       "name": "Fusaichi Pandora",
       "text": "Yeah. Is this everything?",
       "choice_data_list": [
-        "We promised to keep it to three, didn't \nwe?"
+        "あれ？4枚入ってるけど……"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "B-But still, I just wanted to see \neverything so bad~! Even with this, I \ndeliberated quite a bit, you know?",
       "choice_data_list": [
-        "We can't have it interfering with \ntraining, right?",
-        "It'd be a problem if it got in the way of \ntraining, wouldn't it?"
+        "3枚までって約束したよね"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "I'll be fine!! I'll do my training \nproperly, and there's no way I'll stay up \nlate watching this, promise!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "トレーニングに支障が出ると困るだろ？",
+        "トレーニングに支障が出ると困るよね？"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -144,13 +149,15 @@
       "name": "Fusaichi Pandora",
       "text": "\"Ehh~~? Are you reaaally saying... no?\"",
       "choice_data_list": [
-        "(Urgh... No, even so...!)"
+        "それでも約束は約束だし……"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "*tearful sniffle*...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（うぐっ……いや、それでも……！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -163,14 +170,16 @@
       "name": "Fusaichi Pandora",
       "text": "Trainer, thank you so much♡ I promise I'll \nstick to my screen time limits!",
       "choice_data_list": [
-        "(I still have a long way to go myself... \nbut still.)",
-        "(I'm still so naive... but still.)"
+        "……わかった。今回は特別だよ"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "If we're watching the drama, maybe at this \ntime~? And then, and then, we can chat \nabout it the next day~♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（俺もまだまだ甘いな……でも）",
+        "（私もまだまだ甘いな……でも）"
+      ]
     },
     {
       "name": "Narrator",
@@ -188,21 +197,23 @@
       "name": "Fusaichi Pandora",
       "text": "But still, but still, I'll totally stick \nto my screen time limit~...",
       "choice_data_list": [
-        "If you bend it that easily, the promise \nwon't mean anything, will it?",
-        "If you bend it that easily, the promise \nwon't mean anything anymore, right?"
+        "やっぱり約束は守ってほしい"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Uuuugh... ...Okay. I'll hold back...",
       "choice_data_list": [
-        "If we can keep our promise, let's come \nagain next week."
+        "簡単に曲げたら約束の意味がなくなるだろ？",
+        "簡単に曲げたら約束の意味がなくなるよね？"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Yeah! I'm definitely gonna make up for \nwhat I missed this time!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ちゃんと約束守れたら、来週また来よう"
+      ]
     }
   ]
 }

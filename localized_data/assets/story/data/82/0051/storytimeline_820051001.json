@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "A few hours later, right before classes\nbegin..."
+      "text": "A few hours later, right before classes\nbegin...",
+      "choice_data_list": [
+        "（早くから頑張ってるなあ）"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Later on, around lunchtime..."
+      "text": "Later on, around lunchtime...",
+      "choice_data_list": [
+        "（友人の手伝いをしてるのかな）"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -47,7 +53,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And then finally, at night..."
+      "text": "And then finally, at night...",
+      "choice_data_list": [
+        "（……ちゃんと休んでるのか？）",
+        "（……ちゃんと休んでるのかな？）"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -55,11 +65,18 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Oh. Good evening."
+      "text": "Oh. Good evening.",
+      "choice_data_list": [
+        "（さすがに頑張りすぎでは……？）"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I tell her about how I saw her training in\nthe\nmorning, then running around all\nday, helping\neveryone out."
+      "text": "I tell her about how I saw her training in\nthe\nmorning, then running around all\nday, helping\neveryone out.",
+      "choice_data_list": [
+        "そろそろ休んだ方がいいんじゃないか？",
+        "そろそろ休んだ方がいいんじゃない？"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -71,7 +88,11 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Huh? Exhausted?"
+      "text": "Huh? Exhausted?",
+      "choice_data_list": [
+        "でも、疲れは溜まってるはずだ",
+        "でも、疲れは溜まってるはずだよ"
+      ]
     },
     {
       "name": "K.S.Miracle",

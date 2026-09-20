@@ -17,7 +17,10 @@
     {
       "name": "Durandal",
       "text": "My King, I am grateful for your kind \nwords... It is the highest honor.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "デュランダル、よくやったな",
+        "デュランダル、よくやったね"
+      ]
     },
     {
       "name": "Durandal",
@@ -35,7 +38,10 @@
     {
       "name": "Durandal",
       "text": "Yes. Naturally, prosperity... cannot exist \nwithout victory.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、ずっと続けばいいな",
+        "うん、ずっと続けばいいね"
+      ]
     },
     {
       "name": "Durandal",
@@ -64,21 +70,24 @@
       "name": "Narrator",
       "text": "Even if you keep winning, there's no \nguarantee some unforeseen circumstance \nwon't bring an end to it. But...",
       "choice_data_list": [
-        "I think some things will stay with us \nforever."
+        "うーん、どうだろうな……",
+        "うーん、どうだろうね……"
       ]
     },
     {
       "name": "Durandal",
       "text": "Something that... lasts forever?",
       "choice_data_list": [
-        "Yeah, it's not like everything will be \nlost.",
-        "Yeah, it's not like everything will be \ngone"
+        "ずっと残るものもあると思うよ"
       ]
     },
     {
       "name": "Narrator",
       "text": "No matter what happens, everything born \nfrom the time I spent with Durandal won't \njust disappear.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、全部なくなるわけじゃない",
+        "うん、全部なくなるわけじゃない"
+      ]
     },
     {
       "name": "Narrator",

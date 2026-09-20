@@ -43,7 +43,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Sorry for the wait, Trainer!"
+      "text": "Sorry for the wait, Trainer!",
+      "choice_data_list": [
+        "（長引いてるな……）",
+        "（長引いてる……）"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -51,7 +55,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "じゃあ、トレーニングに行こうか",
+        "じゃあ、トレーニングに行こっか"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -59,7 +67,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Normally, Fine Motion would be jumping\nat the\nchance to go for a run, but\nrecently she seems a\nlittle apathetic."
+      "text": "Normally, Fine Motion would be jumping\nat the\nchance to go for a run, but\nrecently she seems a\nlittle apathetic.",
+      "choice_data_list": [
+        "もちろんいいけど……"
+      ]
     },
     {
       "name": "Security Captain",
@@ -67,7 +78,10 @@
     },
     {
       "name": "Security Captain",
-      "text": "None of us possess the right to pry into\nHer\nHighness's feelings. However... I'm\nsure she'd be\nwilling to reveal her\nfeelings to you."
+      "text": "None of us possess the right to pry into\nHer\nHighness's feelings. However... I'm\nsure she'd be\nwilling to reveal her\nfeelings to you.",
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -143,7 +157,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Ever since they talked me into that\nscrimmage\nwith you, your trainer's been\nby your side."
+      "text": "Ever since they talked me into that\nscrimmage\nwith you, your trainer's been\nby your side.",
+      "choice_data_list": [
+        "（……！）"
+      ]
     },
     {
       "name": "Air Shakur",

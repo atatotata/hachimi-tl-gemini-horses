@@ -11,7 +11,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes. I think we'll have fun here."
+      "text": "Yes. I think we'll have fun here.",
+      "choice_data_list": [
+        "ワクワクするな",
+        "ワクワクするね"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Huh? Oh—zero!"
+      "text": "Huh? Oh—zero!",
+      "choice_data_list": [
+        "こ、怖いからやめてくれ！",
+        "こ、怖いからやめて！"
+      ]
     },
     {
       "name": "Monologue",
@@ -43,11 +51,17 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "...That is not on the schedule."
+      "text": "...That is not on the schedule.",
+      "choice_data_list": [
+        "向こうにあるお化け屋敷は？"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Because there may be... zombies."
+      "text": "Because there may be... zombies.",
+      "choice_data_list": [
+        "なぜ？"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +93,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes. \"Welle\" means \"wave,\" as in the\nwaves of\nwater... Do you see how the\nchocolate appears\nlike small waves?"
+      "text": "Yes. \"Welle\" means \"wave,\" as in the\nwaves of\nwater... Do you see how the\nchocolate appears\nlike small waves?",
+      "choice_data_list": [
+        "それもドイツのお菓子？"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -131,15 +148,28 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "My most sincere apologies! I've ruined\nour\nschedule because of my mindless\ndaydreaming!"
+      "text": "My most sincere apologies! I've ruined\nour\nschedule because of my mindless\ndaydreaming!",
+      "choice_data_list": [
+        "……今日に限っては正解だよ",
+        "……今日に限っては正解かな",
+        "せっかくだし、もっと見ていったら？"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "What?"
+      "text": "What?",
+      "choice_data_list": [
+        "……今日に限っては正解だよ",
+        "……今日に限っては正解かな",
+        "せっかくだし、もっと見ていったら？"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Well... yes. Reliving moments of my\nchildhood has\nbeen quite fun."
+      "text": "Well... yes. Reliving moments of my\nchildhood has\nbeen quite fun.",
+      "choice_data_list": [
+        "それだけ夢中になれたなら"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -163,7 +193,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "A happy accident?"
+      "text": "A happy accident?",
+      "choice_data_list": [
+        "嬉しいハプニングじゃないか",
+        "嬉しいハプニングじゃない"
+      ]
     },
     {
       "name": "Eishin Flash",

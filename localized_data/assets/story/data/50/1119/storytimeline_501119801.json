@@ -227,7 +227,10 @@
     {
       "name": "Dream Journey",
       "text": "I had a dream last night. A very, very \nwonderful dream.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何かいいことでもあったのか？",
+        "何かいいことでもあったの？"
+      ]
     },
     {
       "name": "Narrator",
@@ -240,7 +243,10 @@
     {
       "name": "Dream Journey",
       "text": "An unplanned detour... I suppose having a \nday like this once in a while isn't so \nbad.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……あれ？予定、減らしたのか？",
+        "……あれ？予定、減らしたの？"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -258,7 +264,10 @@
     {
       "name": "Dream Journey",
       "text": "Fufu... In your dreams.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これ、どこで見つけたんだ？",
+        "これ、どこで見つけたの？"
+      ]
     }
   ]
 }

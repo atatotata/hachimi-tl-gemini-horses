@@ -27,7 +27,10 @@
     },
     {
       "name": "Monologue",
-      "text": "There's a tiny, empty lunch box sitting\non the\ntable. Tamamo Cross must have\neaten whatever\nwas inside."
+      "text": "There's a tiny, empty lunch box sitting\non the\ntable. Tamamo Cross must have\neaten whatever\nwas inside.",
+      "choice_data_list": [
+        "ちょっと待って。これは何？"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -35,7 +38,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "...C-c'mon, I don't need to go stuffin'\nmyself silly\nbefore the big race."
+      "text": "...C-c'mon, I don't need to go stuffin'\nmyself silly\nbefore the big race.",
+      "choice_data_list": [
+        "こんなに少なくて足りたのか？",
+        "こんなに少なくて足りたの？"
+      ]
     },
     {
       "name": "Tamamo Cross",

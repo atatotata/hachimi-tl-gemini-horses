@@ -31,7 +31,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "君は先にバスに乗ってて",
+        "貴方は先にバスに乗ってて"
+      ]
     },
     {
       "name": "Magazine Reporter",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Sigh...</i>"
+      "text": "<i>Sigh...</i>",
+      "choice_data_list": [
+        "取材の方はこちらで応対いたします！"
+      ]
     },
     {
       "name": "Symboli Rudolf",

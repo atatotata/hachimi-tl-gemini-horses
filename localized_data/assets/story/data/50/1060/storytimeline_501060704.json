@@ -7,11 +7,19 @@
     },
     {
       "name": "Nice Nature",
-      "text": "The next one? The one Mayano said\nshe's running\nin?"
+      "text": "The next one? The one Mayano said\nshe's running\nin?",
+      "choice_data_list": [
+        "次の模擬レースに出てみないか？",
+        "次の模擬レースに出てみない？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Since she's coming all this way, we might\nas well\nshow her a race. Besides, with\nNature's current\nskills, she has what it\ntakes to win."
+      "text": "Since she's coming all this way, we might\nas well\nshow her a race. Besides, with\nNature's current\nskills, she has what it\ntakes to win.",
+      "choice_data_list": [
+        "ああ。ネイチャのお母さんが来る日だし",
+        "うん。ネイチャのお母さんが来る日だし"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -47,7 +55,10 @@
     },
     {
       "name": "Monologue",
-      "text": "No way..."
+      "text": "No way...",
+      "choice_data_list": [
+        "でも心なしかペースが速いような？"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -87,7 +98,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't see her anywhere in the academy.\nMaybe\nshe went outside? According to\nher mother, she\nwould often go to the\nriverbank to sulk when she\nfelt sad."
+      "text": "I don't see her anywhere in the academy.\nMaybe\nshe went outside? According to\nher mother, she\nwould often go to the\nriverbank to sulk when she\nfelt sad.",
+      "choice_data_list": [
+        "お母さんはカフェで待ってもらうとして……"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -99,15 +113,30 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!"
+      "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!",
+      "choice_data_list": [
+        "そうだね",
+        "無理して笑うことはない",
+        "無理して笑うことはない",
+        "よし！気晴らしに行こう！"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "そうだね",
+        "無理して笑うことはない",
+        "無理して笑うことはない",
+        "よし！気晴らしに行こう！"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "...So what?"
+      "text": "...So what?",
+      "choice_data_list": [
+        "いつもの一生懸命で素敵なネイチャだった"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -119,7 +148,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I tell her that her mother felt her\ndetermination."
+      "text": "I tell her that her mother felt her\ndetermination.",
+      "choice_data_list": [
+        "でも、お母さんは嬉しそうだったよ"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -131,7 +163,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Trust me, it's all out! Come on, let's go\nback to\nmy mom."
+      "text": "Trust me, it's all out! Come on, let's go\nback to\nmy mom.",
+      "choice_data_list": [
+        "もっと甘えていいのに"
+      ]
     },
     {
       "name": "Monologue",
@@ -147,7 +182,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "俺は悔しいし、君に勝ってもらいたかった",
+        "私は悔しいし、貴方に勝ってもらいたかった"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -167,7 +206,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ah, don't get me wrong! I like Mayano,\nof course.\nIt's me that I don't like."
+      "text": "Ah, don't get me wrong! I like Mayano,\nof course.\nIt's me that I don't like.",
+      "choice_data_list": [
+        "ネイチャ……"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -175,7 +217,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I reassure her that I'm here to help her\nget past\nanything that's troubling her.\nWe're a team, after\nall."
+      "text": "I reassure her that I'm here to help her\nget past\nanything that's troubling her.\nWe're a team, after\nall.",
+      "choice_data_list": [
+        "俺はそれでもいいと思う",
+        "私はそれでもいいと思う"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -183,7 +229,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "...Pfft. Hahaha! You're funny."
+      "text": "...Pfft. Hahaha! You're funny.",
+      "choice_data_list": [
+        "2人一緒にここでしょぼくれようか"
+      ]
     },
     {
       "name": "Monologue",
@@ -207,7 +256,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I go buy some taiyaki."
+      "text": "I go buy some taiyaki.",
+      "choice_data_list": [
+        "落ち込んだ時は食べるに限る！"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -215,7 +267,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I do. I was just remembering how my\nmom always\nbought me one when I was\nfeeling down."
+      "text": "I do. I was just remembering how my\nmom always\nbought me one when I was\nfeeling down.",
+      "choice_data_list": [
+        "もしかして苦手だった？"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -223,7 +278,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Worried, huh? I guess I worried Mom\nagain back\nthere."
+      "text": "Worried, huh? I guess I worried Mom\nagain back\nthere.",
+      "choice_data_list": [
+        "それだけネイチャが心配なんだよ"
+      ]
     },
     {
       "name": "Nice Nature",

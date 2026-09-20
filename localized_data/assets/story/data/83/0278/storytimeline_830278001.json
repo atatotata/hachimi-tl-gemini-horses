@@ -34,7 +34,11 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Now then, a \"King's Showdown,\" was it? How \nshould we proceed—"
+      "text": "Now then, a \"King's Showdown,\" was it? How \nshould we proceed—",
+      "choice_data_list": [
+        "え、俺が！？",
+        "え、私が！？"
+      ]
     },
     {
       "name": "Subjects",
@@ -55,12 +59,15 @@
       "name": "Gold Ship",
       "text": "Ya think~~? Then wouldn't anyone having a \nbirthday be a king too?! Are you saying \nSanta can't be a king?!",
       "choice_data_list": [
-        "N-Now, now..."
+        "贈り物をされるって、確かに王様っぽいかも"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "...Thou over there. That in thy hands is a \ntribute meant for Us, is it not? Why dost \nthou hesitate to present it?"
+      "text": "...Thou over there. That in thy hands is a \ntribute meant for Us, is it not? Why dost \nthou hesitate to present it?",
+      "choice_data_list": [
+        "ま、まあまあ……"
+      ]
     },
     {
       "name": "Timid Subject",
@@ -100,7 +107,11 @@
     },
     {
       "name": "Orfevre",
-      "text": "—A king is one who possesses true power."
+      "text": "—A king is one who possesses true power.",
+      "choice_data_list": [
+        "請求書は、贈り物にはならないかもな……",
+        "請求書は、贈り物にはならないかもね……"
+      ]
     },
     {
       "name": "Orfevre",
@@ -127,7 +138,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Star Light, Shootin' Star, and then— BAM! \nGrand Cross Pose!"
+      "text": "Star Light, Shootin' Star, and then— BAM! \nGrand Cross Pose!",
+      "choice_data_list": [
+        "確かに……で、ゴールドシップは何を――"
+      ]
     },
     {
       "name": "Onlooker Horse Girls",
@@ -179,25 +193,28 @@
       "name": "Dream Journey",
       "text": "Fufu... Indeed. Keeping a wide watch and \nguiding others along a righteous path—at \nthe very least, she seems to understand \nthe qualities a king must possess.",
       "choice_data_list": [
-        "Maybe she really could become a great \nking.",
-        "She could just say it a bit more \nstraightforwardly.",
-        "Are you still continuing this \"King's \nShowdown\"?",
-        "Are you still continuing this \"King's \nShowdown\"?"
+        "……あれ？よく聞くと褒めてる？"
       ]
     },
     {
       "name": "Dream Journey",
       "text": "Fufu... Indeed. Keeping a wide watch and \nguiding others along a righteous path—at \nthe very least, she seems to understand \nthe qualities a king must possess.",
       "choice_data_list": [
-        "Maybe she really could become a great \nking.",
-        "She could just say it a bit more \nstraightforwardly.",
-        "Are you still continuing this \"King's \nShowdown\"?",
-        "Are you still continuing this \"King's \nShowdown\"?"
+        "本当にいい王様になれるかも",
+        "もっと素直に言えばいいのに",
+        "『王様勝負』まだ続けるのか？",
+        "『王様勝負』まだ続けるの？"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Like I said, not happening. All I wanted \nwas the title of King... Wait a second, \nwhy did I even want that junk in the first \nplace?"
+      "text": "Like I said, not happening. All I wanted \nwas the title of King... Wait a second, \nwhy did I even want that junk in the first \nplace?",
+      "choice_data_list": [
+        "本当にいい王様になれるかも",
+        "もっと素直に言えばいいのに",
+        "『王様勝負』まだ続けるのか？",
+        "『王様勝負』まだ続けるの？"
+      ]
     },
     {
       "name": "Gold Ship",

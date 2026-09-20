@@ -27,7 +27,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Really? Okay then..."
+      "text": "Really? Okay then...",
+      "choice_data_list": [
+        "もう開けていいぞ！",
+        "もう開けていいよ！"
+      ]
     },
     {
       "name": "Crowd",
@@ -59,7 +63,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "They're all here to see me? This many\npeople?"
+      "text": "They're all here to see me? This many\npeople?",
+      "choice_data_list": [
+        "みんな、オグリに会いにきてくれたんだ",
+        "みんな、オグリに会いにきてくれたんだよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -75,11 +83,18 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...All for <i>me?</i> Are you sure?"
+      "text": "...All for <i>me?</i> Are you sure?",
+      "choice_data_list": [
+        "今日はオグリが楽しむイベントだ！",
+        "今日はオグリが楽しむイベントだよ！"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...Ahaha! You've got a lot of pull!"
+      "text": "...Ahaha! You've got a lot of pull!",
+      "choice_data_list": [
+        "いい！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -231,7 +246,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Thank you."
+      "text": "...Thank you.",
+      "choice_data_list": [
+        "もちろん！"
+      ]
     },
     {
       "name": "Oguri Cap",

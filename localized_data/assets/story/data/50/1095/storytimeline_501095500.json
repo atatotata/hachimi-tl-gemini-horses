@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "Apologizing as I did so, I printed out the \ndocuments. I handed the freshly completed \npapers to Believe.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、ごめん！もう終わるよ！",
+        "ああ、ごめん！もう終わるね！"
+      ]
     },
     {
       "name": "Believe",
@@ -29,7 +32,9 @@
     {
       "name": "Believe",
       "text": "...I see. I'll put that into practice next \ntime.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "トレーニングメニュー。少し変えてみた！"
+      ]
     },
     {
       "name": "Believe",

@@ -37,7 +37,10 @@
     {
       "name": "North Flight",
       "text": "Yes! Gran-chan and I are travel buddies, \nafter all! We had a bit of a connection \nbefore, so—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "もしかして、ふたりで行ったのか？",
+        "もしかして、ふたりで行ったの？"
+      ]
     },
     {
       "name": "North Flight",
@@ -212,15 +215,19 @@
       "name": "Gran Alegria",
       "text": "Thanks to you, Flight-senpai, I finally \nrealized it! You really are the ultimate \nmile racing veteran!",
       "choice_data_list": [
-        "Seems like you two have a good dynamic.",
-        "Looks like you two get along great.",
-        "What does that have to do with the \nmile...?"
+        "いい関係みたいだな",
+        "いい関係みたいだね",
+        "マイルに何の関係が……？"
       ]
     },
     {
       "name": "North Flight",
       "text": "Yes, very much so♪ I'm so happy to have a \ntravel companion too!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いい関係みたいだな",
+        "いい関係みたいだね",
+        "マイルに何の関係が……？"
+      ]
     },
     {
       "name": "North Flight",

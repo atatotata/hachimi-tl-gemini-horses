@@ -75,7 +75,10 @@
     },
     {
       "name": "Interviewer A",
-      "text": "Huh? Ah, ahh... sorry about that. The \nthing is, we—"
+      "text": "Huh? Ah, ahh... sorry about that. The \nthing is, we—",
+      "choice_data_list": [
+        "……どうかされたんですか？"
+      ]
     },
     {
       "name": "Interviewer A",
@@ -88,13 +91,16 @@
       "name": "Interviewer B",
       "text": "Did she suddenly, um... turn all serious \non us? If this keeps up, the entire \nproject will... Do you have any good \nideas...?",
       "choice_data_list": [
-        "Why not try inviting her somewhere \nyourself?",
-        "You might just have to wait patiently..."
+        "なるほど、なのにずっと学園にいると……"
       ]
     },
     {
       "name": "Interviewer A",
-      "text": "Invite her... you say?"
+      "text": "Invite her... you say?",
+      "choice_data_list": [
+        "いっそこちらから誘ってみるとか",
+        "気長に待つしか……"
+      ]
     },
     {
       "text": "I suggested they try inviting her to a \nplace fitting the Mr. C.B. they had \nenvisioned."
@@ -135,7 +141,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "I didn't really mean to, though. —Besides."
+      "text": "I didn't really mean to, though. —Besides.",
+      "choice_data_list": [
+        "わくわくさせるのが上手いね"
+      ]
     },
     {
       "name": "Mr. C.B.",

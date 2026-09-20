@@ -27,7 +27,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Trainer! <i>Sniffle...</i> You gotta help me!"
+      "text": "Trainer! <i>Sniffle...</i> You gotta help me!",
+      "choice_data_list": [
+        "何をしてるの？"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +58,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Makes sense! I bet the little fella can\nsmell my\nfear! Okay—time to give it\nanother whirl!"
+      "text": "Makes sense! I bet the little fella can\nsmell my\nfear! Okay—time to give it\nanother whirl!",
+      "choice_data_list": [
+        "恐れず強気な態度で抱っこする",
+        "もっとリラックスして抱っこする"
+      ]
     },
     {
       "name": "Taiki Shuttle",

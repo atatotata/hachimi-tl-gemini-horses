@@ -32,7 +32,10 @@
     {
       "name": "",
       "text": "Leaving everything to her to re-evaluate \nher running characteristics will also \nserve as a good reference for the future.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……そうだな。それでいこうか",
+        "うん……そうだね。それでいこう"
+      ]
     },
     {
       "name": "",
@@ -49,7 +52,9 @@
     {
       "name": "",
       "text": "The gates open. And at that exact moment, \nGran Alegria makes a light hop!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "出走直前にジャンプなんて、珍しいな……"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -71,7 +76,9 @@
     {
       "name": "Rookie Trainer A",
       "text": "W-Wait, whoa, whoa, whoa! You gotta be \nkidding! How many girls is she passing \nfrom dead last?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！グラン……！？"
+      ]
     },
     {
       "name": "Mid-Level Trainer A",
@@ -99,21 +106,23 @@
       "name": "Gran Alegria",
       "text": "Trainer, I won!",
       "choice_data_list": [
-        "Are you okay?! Any pain or weird \ndiscomfort?!",
-        "Are you okay!? Do you feel any pain or \ndiscomfort!?"
+        "（グラン……！なんて走りを！）"
       ]
     },
     {
       "name": "Gran Alegria",
       "text": "Huh? Not at all! I'm feeling 100 miles \nfull of energy!",
       "choice_data_list": [
-        "I see... that's a relief..."
+        "大丈夫か！？痛みや違和感はないか！？",
+        "大丈夫！？痛みや違和感はない！？"
       ]
     },
     {
       "name": "Gran Alegria",
       "text": "Ah, could it be because of the late start?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それなら、よかった……"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -151,7 +160,10 @@
     {
       "name": "Gran Alegria",
       "text": "If you don't have anything specific, do \nyou mind if I just run based on my own \nfeel?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（俺が止めなきゃいけなかったのに……！）",
+        "（私が止めなきゃいけなかったのに……！）"
+      ]
     },
     {
       "name": "",
@@ -173,7 +185,9 @@
     {
       "name": "",
       "text": "Time is of the essence.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（わからないままで導いちゃいけない）"
+      ]
     },
     {
       "name": "",
@@ -200,7 +214,9 @@
     {
       "name": "Former Mile King Trainer",
       "text": "A genius of pure intuition, huh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "間違いなく、真のマイル女王になります"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -217,7 +233,9 @@
     {
       "name": "Former Mile King Trainer",
       "text": "...This is about the mock race from the \nother day, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "せめて知識と経験があればよかったのですが"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -240,7 +258,10 @@
     {
       "name": "",
       "text": "I can't keep up with Gran Alegria's \ngrowth.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今の俺では、何もかも足りなくて……！",
+        "今の私では、何もかも足りなくて……！"
+      ]
     },
     {
       "name": "",
@@ -263,13 +284,15 @@
       "name": "",
       "text": "\"That's why I'm here right now. To do the \nabsolute best that I can—!\"",
       "choice_data_list": [
-        "Please, let me learn under you!"
+        "グランの未来を、潰したくないんです！"
       ]
     },
     {
       "name": "Former Mile King Trainer",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうか、あなたのもとで学ばせてください！"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -286,7 +309,9 @@
     {
       "name": "Former Mile King Trainer",
       "text": "Without a second's hesitation, huh... \nHahahaha!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "グランの未来のほうが大事です！"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -303,7 +328,9 @@
     {
       "name": "Gran Alegria",
       "text": "...Maybe I should get some sweets. Or \nwould coffee be better?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ……ありがとうございます！"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -410,7 +437,9 @@
     {
       "name": "",
       "text": "\"A few days into learning under my mentor. \nHis trainees and Gran Alegria adapted to \nthe sudden changes without batting an \neye.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（お互い馴染めてるみたいで、よかった！）"
+      ]
     },
     {
       "name": "Wavy Black-Haired Umamusume",
@@ -437,7 +466,9 @@
     {
       "name": "",
       "text": "Watching the coaching up close like this, \nI'm reminded once again of how much there \nis to learn.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（すごい、見ただけで体調もわかるなんて）"
+      ]
     },
     {
       "name": "",
@@ -485,14 +516,16 @@
       "name": "",
       "text": "I'll do everything in my power. Just like \nmy mentor. Even without knowledge or \nexperience, that's something I can do!",
       "choice_data_list": [
-        "I'll find the perfect match for her!",
-        "Let's find the perfect match for her!"
+        "なるほど……探してみます！"
       ]
     },
     {
       "name": "Former Mile King Trainer",
       "text": "Ah, that's the spirit. You understand, \ndon't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "彼女にぴったりの相手を探すぞ！",
+        "彼女にぴったりの相手を探そう！"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -569,7 +602,9 @@
     {
       "name": "Former Mile King Trainer",
       "text": "Whoa, it's way too early for you to act \nlike an old geezer. If anything, wouldn't \nyou call that youth?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これから遊びに行くなんて、若いなぁ"
+      ]
     },
     {
       "name": "Former Mile King Trainer",
@@ -701,7 +736,9 @@
     {
       "name": "Gran Alegria",
       "text": "Yes! You know, I'm just so happy to know \nthat my personal rules weren't wrong after \nall.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "おはマイル！……今日はごきげんだね？"
+      ]
     },
     {
       "name": "Gran Alegria",

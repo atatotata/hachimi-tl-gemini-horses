@@ -22,7 +22,11 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Haaah-hahaha! We are slated to perform a \nshort play for the children at an upcoming \nevent!"
+      "text": "Haaah-hahaha! We are slated to perform a \nshort play for the children at an upcoming \nevent!",
+      "choice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -104,7 +108,11 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "But it turned out to be a great finale, \ndidn't it? Opera O-chan really is \nincredible!"
+      "text": "But it turned out to be a great finale, \ndidn't it? Opera O-chan really is \nincredible!",
+      "choice_data_list": [
+        "そうだったのか！？",
+        "そうだったの！？"
+      ]
     },
     {
       "text": "That was certainly true. Still... Between \nthis and how she handled those delinquents \nbefore, where does that unshakeable \nmentality come from?"
@@ -119,7 +127,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "She threw in endless ad-libs besides the \nclimax, too... Yet she never strayed from \nthe main storyline."
+      "text": "She threw in endless ad-libs besides the \nclimax, too... Yet she never strayed from \nthe main storyline.",
+      "choice_data_list": [
+        "どうした？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -142,14 +154,19 @@
       "name": "T.M. Opera O",
       "text": "—Hwahaha! How was it, you two?! Just as I \ndeclared before, it turned out to be a \nmagnificent performance, did it not?!",
       "choice_data_list": [
-        "You're a massive hit with the kids.",
-        "You became super popular with the kids.",
-        "Just like a professional actor."
+        "子どもたちの人気者になったな",
+        "子どもたちの人気者になったね",
+        "プロの俳優みたい"
       ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "Precisely! Now then, shall we go give our \nstage greetings to our little fans!"
+      "text": "Precisely! Now then, shall we go give our \nstage greetings to our little fans!",
+      "choice_data_list": [
+        "子どもたちの人気者になったな",
+        "子どもたちの人気者になったね",
+        "プロの俳優みたい"
+      ]
     },
     {
       "name": "Children",
@@ -179,7 +196,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...If you compliment her normally, she'll \nnever stop, so please hold back."
+      "text": "...If you compliment her normally, she'll \nnever stop, so please hold back.",
+      "choice_data_list": [
+        "え、ええと……！？"
+      ]
     },
     {
       "text": "In any case, T.M. Opera O and the others had \nput on a thoroughly sensational show."

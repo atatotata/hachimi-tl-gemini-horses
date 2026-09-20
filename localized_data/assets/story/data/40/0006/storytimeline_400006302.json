@@ -17,14 +17,16 @@
       "name": "Nakayama Festa",
       "text": "We already talked about that at noon. \nDouble-checking pointlessly isn't like \nyou. ……You chickening out?",
       "choice_data_list": [
-        "Same to you.",
-        "Same to you."
+        "明日の会場入り時間についてだけど――"
       ]
     },
     {
       "name": "Nakayama Festa",
       "text": "...Hah. Hey, let's step outside for a bit.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お互いにな",
+        "お互いにね"
+      ]
     },
     {
       "name": "Nakayama's Letter",
@@ -52,7 +54,10 @@
     {
       "name": "Nakayama Festa",
       "text": "Yeah, yeah. ...Ooh, the stars are quite \npretty tonight.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "体を冷やさないようにな",
+        "体を冷やさないようにね"
+      ]
     },
     {
       "name": "Nakayama's Letter",
@@ -116,14 +121,17 @@
       "name": "Nakayama Festa",
       "text": "Let's go show 'em what we've got tomorrow.",
       "choice_data_list": [
-        "—Ah!",
-        "—Yeah!"
+        "どうしたんだ？",
+        "どうしたの？"
       ]
     },
     {
       "name": "Narrator",
       "text": "—And so, the night at Longchamp deepens.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――ああ！",
+        "――うん！"
+      ]
     }
   ]
 }

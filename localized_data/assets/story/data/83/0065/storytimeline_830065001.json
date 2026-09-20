@@ -27,7 +27,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Hm? Ah, um..."
+      "text": "Hm? Ah, um...",
+      "choice_data_list": [
+        "『読書推進週間』の準備、大変そうだな",
+        "『読書推進週間』の準備、大変そうだね"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +59,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah!"
+      "text": "Ah!",
+      "choice_data_list": [
+        "催し物でそれを伝えればいいんじゃないか？",
+        "催し物でそれを伝えればいいんじゃない？"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -67,7 +75,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "You're welcome in advance! ♪ Genius\nMagical\nGirl Sweepy is here to help!"
+      "text": "You're welcome in advance! ♪ Genius\nMagical\nGirl Sweepy is here to help!",
+      "choice_data_list": [
+        "ス、スイープトウショウ？"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -95,7 +106,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Thank you so much, both of you!"
+      "text": "Thank you so much, both of you!",
+      "choice_data_list": [
+        "俺もできる限り手伝うよ！",
+        "私もできる限り手伝うよ！"
+      ]
     }
   ]
 }

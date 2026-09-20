@@ -65,7 +65,10 @@
     },
     {
       "name": "Hayakawa Tazuna",
-      "text": "As the registration procedures require a \nformal contract, I would urge you to have \nit signed as soon as possible, but…"
+      "text": "As the registration procedures require a \nformal contract, I would urge you to have \nit signed as soon as possible, but…",
+      "choice_data_list": [
+        "はい……"
+      ]
     },
     {
       "name": "Hayakawa Tazuna",
@@ -78,6 +81,9 @@
       "text": "At this moment, the director's secretary, \nTazuna, is inquiring about when I could \nsubmit my contract with Stay Gold.",
       "color_text_info_list": [
         "Tazuna"
+      ],
+      "choice_data_list": [
+        "はい…………"
       ]
     },
     {
@@ -130,12 +136,15 @@
       "name": "Stay Gold",
       "text": "I got souvenirs～ You see this little \nwooden bear? It's got a bone necklace that \nwards off evil! I also got some scent bags \nthat smell interesting ——",
       "choice_data_list": [
-        "$(scale 95)I'm very interested, but more \nimportantly…!"
+        "ステゴ！やっと帰ってきた……！"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Hm? Ah～ that's right, that's right."
+      "text": "Hm? Ah～ that's right, that's right.",
+      "choice_data_list": [
+        "気にはなるけど、それより今は……！"
+      ]
     },
     {
       "name": "Hayakawa Tazuna",
@@ -166,7 +175,10 @@
     },
     {
       "name": "Hayakawa Tazuna",
-      "text": "Uhm, I do want to explain the process that \ncomes after signing the contract…"
+      "text": "Uhm, I do want to explain the process that \ncomes after signing the contract…",
+      "choice_data_list": [
+        "えっ、今から？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -189,7 +201,10 @@
     },
     {
       "name": "Hayakawa Tazuna",
-      "text": "…Even so, that girl picked you as her \ntrainer."
+      "text": "…Even so, that girl picked you as her \ntrainer.",
+      "choice_data_list": [
+        "本当にマイペースだなぁ……"
+      ]
     },
     {
       "name": "Hayakawa Tazuna",
@@ -199,7 +214,10 @@
       ]
     },
     {
-      "text": "After listening to Tazuna's explanation, I \nturned into the training grounds, looking \nfor Stay Gold…"
+      "text": "After listening to Tazuna's explanation, I \nturned into the training grounds, looking \nfor Stay Gold…",
+      "choice_data_list": [
+        "はい！"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -219,34 +237,37 @@
       "name": "Stay Gold",
       "text": "<i>Fuu……!</i> Running on the track really feels \namazing～",
       "choice_data_list": [
-        "Stego! I kept you waiting."
+        "（やっぱり、すごい素質だ……！）"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Oh, you made it. Aaalrighty, then its time \nfor—",
       "choice_data_list": [
-        "Our future plans, right?",
-        "Our future plans, right?"
+        "ステゴ！お待たせ"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Nah, it's time for food.",
       "choice_data_list": [
-        "Food huh～!"
+        "今後の話、だよな",
+        "今後の話、だよね"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Alright. Let's eat here today～",
       "choice_data_list": [
-        "T-To think we'd go outside the academy…"
+        "ご飯か～……！"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "It's easier to see ahead if you pick a \nspot with a good view. Plus the food is \nyummy. No downsides at all."
+      "text": "It's easier to see ahead if you pick a \nspot with a good view. Plus the food is \nyummy. No downsides at all.",
+      "choice_data_list": [
+        "ま、まさか学園の外に出るとは……"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -262,7 +283,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Exactly."
+      "text": "Exactly.",
+      "choice_data_list": [
+        "……『過去を全て壊す新しい旅』、だな",
+        "……『過去を全て壊す新しい旅』、だね"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -303,19 +328,22 @@
       "name": "Stay Gold",
       "text": "And you're my travel companion who's \ncoming along on this journey with me.",
       "choice_data_list": [
-        "…Where do you think we'll reach?",
-        "…Where do you think we'll end up?"
+        "……！"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "I wonder now. We'll just have to keep \ngoing forward to find out.",
       "choice_data_list": [
-        "…I see."
+        "……この旅の果ては、どこになるんだ？",
+        "……この旅の果ては、どこになるの？"
       ]
     },
     {
-      "text": "I don't know where our final destination \nwould be, but I do know how we should \nproceed."
+      "text": "I don't know where our final destination \nwould be, but I do know how we should \nproceed.",
+      "choice_data_list": [
+        "……なるほど"
+      ]
     },
     {
       "text": "What's important is that we destroy all \npast journeys. In other words, it means to \nleave hoofprints different to the girl in \nthe other world."
@@ -328,7 +356,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "……Ooh."
+      "text": "……Ooh.",
+      "choice_data_list": [
+        "クラシックレースを、目指そう"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -349,6 +380,9 @@
       "color_text_info_list": [
         "Classics",
         "classic year"
+      ],
+      "choice_data_list": [
+        "いや。『皐月賞』から走るのを目指す！"
       ]
     },
     {
@@ -380,7 +414,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Haha! That's for sure."
+      "text": "Haha! That's for sure.",
+      "choice_data_list": [
+        "そのほうがきっと、面白いと思って"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -391,7 +428,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. My habit of leaning towards the \nleft. I want to fix that as soon as \npossible."
+      "text": "Yeah. My habit of leaning towards the \nleft. I want to fix that as soon as \npossible.",
+      "choice_data_list": [
+        "頼み？"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -403,7 +443,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Nice, you're rearing to go. I need you \nthat way if we're going to be on the same \njourney."
+      "text": "Nice, you're rearing to go. I need you \nthat way if we're going to be on the same \njourney.",
+      "choice_data_list": [
+        "わかった、任せてくれ……！",
+        "わかった、任せて……！"
+      ]
     },
     {
       "text": "…Just like that, with our goal and hurdles \nall set, the preparations to begin our \njourney are complete."
@@ -415,7 +459,10 @@
       ]
     },
     {
-      "text": "I will watch over her. …And we will enjoy \nthis experience together."
+      "text": "I will watch over her. …And we will enjoy \nthis experience together.",
+      "choice_data_list": [
+        "（……どんな果てであれ――）"
+      ]
     },
     {
       "text": "With renewed determination, my journey \nwith Stay Gold had begun."

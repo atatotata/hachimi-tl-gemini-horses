@@ -15,7 +15,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I was just thinking about it... Not for me,\nthough.\nFor a friend."
+      "text": "I was just thinking about it... Not for me,\nthough.\nFor a friend.",
+      "choice_data_list": [
+        "ぬいぐるみが欲しいのか？",
+        "ぬいぐるみが欲しいの？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,11 +35,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? I told you... I don't need it."
+      "text": "Huh? I told you... I don't need it.",
+      "choice_data_list": [
+        "取ってあげるよ"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...Do whatever you want."
+      "text": "...Do whatever you want.",
+      "choice_data_list": [
+        "取ったら気が変わるかも"
+      ]
     },
     {
       "name": "Monologue",

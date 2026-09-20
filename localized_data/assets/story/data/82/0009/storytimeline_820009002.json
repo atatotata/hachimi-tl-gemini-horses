@@ -83,11 +83,18 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I believe she wanted to learn how to run\nfaster."
+      "text": "I believe she wanted to learn how to run\nfaster.",
+      "choice_data_list": [
+        "声をかけた理由はなんだったんだろう"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "君と話がしたかったんじゃないかな",
+        "貴方と話がしたかったんじゃないかな"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -99,7 +106,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Understood. I appreciate your input."
+      "text": "...Understood. I appreciate your input.",
+      "choice_data_list": [
+        "話してみたら、きっとわかるよ"
+      ]
     },
     {
       "name": "Monologue",

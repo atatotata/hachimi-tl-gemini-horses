@@ -38,7 +38,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Hm? Well, let's see..."
+      "text": "Hm? Well, let's see...",
+      "choice_data_list": [
+        "シービーも海の気分だった？"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -49,7 +52,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "...How should I put it? Ace just tends to \nhit the jackpot a lot, you know?"
+      "text": "...How should I put it? Ace just tends to \nhit the jackpot a lot, you know?",
+      "choice_data_list": [
+        "気分が変わったってこと？"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -86,14 +92,17 @@
       "name": "Mr. C.B.",
       "text": "Hm?",
       "choice_data_list": [
-        "Fascinating, isn't it?",
-        "Enviable, honestly.",
-        "Truly precious."
+        "うん、なんだかそういう関係って……"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Even though they are completely different \npeople, it feels like they share a deep \nconnection—a truly mysterious bond."
+      "text": "Even though they are completely different \npeople, it feels like they share a deep \nconnection—a truly mysterious bond.",
+      "choice_data_list": [
+        "不思議だね",
+        "羨ましい",
+        "貴重だ"
+      ]
     },
     {
       "name": "Mr. C.B.",

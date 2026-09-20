@@ -51,7 +51,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Uh-huuuh, I seeee... Okay, I'm\nPearl—Kawakami's\nroommate."
+      "text": "Uh-huuuh, I seeee... Okay, I'm\nPearl—Kawakami's\nroommate.",
+      "choice_data_list": [
+        "そうだけど……"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -63,7 +66,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Thank you!\n..."
+      "text": "Thank you!\n...",
+      "choice_data_list": [
+        "……わかった、伝えておくよ"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -95,7 +101,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Yes."
+      "text": "...Yes.",
+      "choice_data_list": [
+        "それは君が本当に伝えたいこと？",
+        "それは貴方が本当に伝えたいこと？"
+      ]
     },
     {
       "name": "Fan A",

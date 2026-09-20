@@ -17,13 +17,15 @@
       "name": "Hishi Miracle",
       "text": "…………。",
       "choice_data_list": [
-        "Is something wrong?"
+        "しばらく安静にしよう"
       ]
     },
     {
       "name": "Hishi Miracle",
       "text": "\"...Even though I worked so hard on my \ntraining. When I think about how resting \nnow will leave a gap in my progress...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうかした？"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -38,15 +40,19 @@
       "name": "Hishi Miracle",
       "text": "Um... even just a light workout is fine. \nJust a little bit... please?",
       "choice_data_list": [
-        "You should rest for now.",
-        "You should get some rest for now.",
-        "If I judge that it's dangerous, I'll stop \nyou immediately."
+        "今は休むべきだ",
+        "今は休むべきだよ",
+        "危険だと判断したら、すぐに止めるよ"
       ]
     },
     {
       "name": "",
       "text": "I explained that if the injury worsened, \nthe recovery period would only get longer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今は休むべきだ",
+        "今は休むべきだよ",
+        "危険だと判断したら、すぐに止めるよ"
+      ]
     },
     {
       "name": "Hishi Miracle",

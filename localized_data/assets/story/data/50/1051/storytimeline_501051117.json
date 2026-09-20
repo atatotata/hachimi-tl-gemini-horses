@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She's clearly worried about how slow her\ntimes are\ncompared to before. Still, her\nconcern is\nunderstandable."
+      "text": "She's clearly worried about how slow her\ntimes are\ncompared to before. Still, her\nconcern is\nunderstandable.",
+      "choice_data_list": [
+        "大丈夫だよ"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -27,15 +30,25 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems she's experiencing some\ndisconnect with\nher body. Fortunately,\nthat's nothing to be upset\nover."
+      "text": "It seems she's experiencing some\ndisconnect with\nher body. Fortunately,\nthat's nothing to be upset\nover.",
+      "choice_data_list": [
+        "ああ",
+        "うん"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Do you really think so?"
+      "text": "Do you really think so?",
+      "choice_data_list": [
+        "体の成長は、間違いなく武器になる"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Yeah! You're right!"
+      "text": "Yeah! You're right!",
+      "choice_data_list": [
+        "ここを乗り越えたらもっと強くなれる！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -67,7 +80,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Pitter-patter...</i>"
+      "text": "<i>Pitter-patter...</i>",
+      "choice_data_list": [
+        "そうですか……"
+      ]
     },
     {
       "name": "Infirmary Doctor",
@@ -79,11 +95,17 @@
     },
     {
       "name": "Monologue",
-      "text": "She's the only one who can figure out\nhow to get\na sense for her changing\nbody, but I can still\nsupport her as she\ntries. Speaking of which..."
+      "text": "She's the only one who can figure out\nhow to get\na sense for her changing\nbody, but I can still\nsupport her as she\ntries. Speaking of which...",
+      "choice_data_list": [
+        "はい！"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "<i>Sigh...</i>"
+      "text": "<i>Sigh...</i>",
+      "choice_data_list": [
+        "メニューについて、意見を伺いたいのですが"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -147,7 +169,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I pass Nishino Flower a regimen catered\nto her\ngrowth. But that's not all."
+      "text": "I pass Nishino Flower a regimen catered\nto her\ngrowth. But that's not all.",
+      "choice_data_list": [
+        "新しいトレーニングメニューだよ！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -155,7 +180,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Wow!"
+      "text": "Wow!",
+      "choice_data_list": [
+        "すぐ変更できるように数パターン作ってみた"
+      ]
     },
     {
       "name": "Monologue",
@@ -175,15 +203,26 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "I..."
+      "text": "I...",
+      "choice_data_list": [
+        "君が俺を成長させてくれたんだ",
+        "貴方が私を成長させてくれたんだよ"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I didn't have the confidence to say it\nbefore, but\nnow I'm confident in my\nability to support and\nguide her through\nthis."
+      "text": "I didn't have the confidence to say it\nbefore, but\nnow I'm confident in my\nability to support and\nguide her through\nthis.",
+      "choice_data_list": [
+        "ここを乗り越えたら、って言ったけど……"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "2人なら、大丈夫だ！",
+        "2人なら、大丈夫だよ！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -203,7 +242,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "新しい“ニシノフラワー”になろう！"
+      ]
     },
     {
       "name": "Monologue",
@@ -259,11 +301,17 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Hm? Cat got your tongue?"
+      "text": "Hm? Cat got your tongue?",
+      "choice_data_list": [
+        "（もしかして……）"
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Whatever could you mean?"
+      "text": "Whatever could you mean?",
+      "choice_data_list": [
+        "ありがとう"
+      ]
     }
   ]
 }

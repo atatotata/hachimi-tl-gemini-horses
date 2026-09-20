@@ -103,7 +103,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "You must be done reading it by now."
+      "text": "You must be done reading it by now.",
+      "choice_data_list": [
+        "（いい記事だなぁ……！）"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -111,7 +114,11 @@
     },
     {
       "name": "Monologue",
-      "text": "My days together with Admire Vega\nwon't end\nhere."
+      "text": "My days together with Admire Vega\nwon't end\nhere.",
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     }
   ]
 }

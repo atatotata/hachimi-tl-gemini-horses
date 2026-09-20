@@ -22,7 +22,10 @@
     {
       "name": "Transcend",
       "text": "Aha. Actually, I bought a ton of mountain \nclimbing gear at a sale the other day. So \nlike—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あの山？けっこう険しそうだな",
+        "あの山？けっこう険しそうだね"
+      ]
     },
     {
       "name": "Transcend",
@@ -66,14 +69,17 @@
       "name": "Transcend",
       "text": "Climbing this? ...Heheh. Nice. This is \ngetting exciting.",
       "choice_data_list": [
-        "I-I wonder if I can do it...",
-        "I-I wonder if I can do it..."
+        "俺は行こうとしてなかったけど！？",
+        "私は行こうとしてなかったけど！？"
       ]
     },
     {
       "name": "Believe",
       "text": "I can do it. That is the path I have \nchosen.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お、俺にできるかな……",
+        "わ、私にできるかな……"
+      ]
     },
     {
       "name": "Believe",
@@ -91,7 +97,10 @@
     {
       "name": "Believe",
       "text": "\"...Trainer. Please calm down. There is no \nneed to rush to the next thing right \naway.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "い、命綱あっても怖いな！！？",
+        "い、命綱あっても怖いね！！？"
+      ]
     },
     {
       "name": "Believe",
@@ -110,14 +119,17 @@
       "name": "Transcend",
       "text": "Ooh! We made it to the summit! We did it. \nPeace.",
       "choice_data_list": [
-        "Ah... What a great view!",
-        "Yeah... what a great view!"
+        "ああ。足をかけて、行きたい方に手を……！",
+        "うん。足をかけて、行きたい方に手を……！"
       ]
     },
     {
       "name": "Believe",
       "text": "Indeed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……いい眺めだ！",
+        "うん……いい眺めだね！"
+      ]
     },
     {
       "name": "Transcend",
@@ -189,7 +201,9 @@
     {
       "name": "Narrator",
       "text": "Prompted by Transcend's words, I remember \nthe party that Curren Chan and the others \nthrew for me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
       "name": "Narrator",
@@ -201,7 +215,9 @@
     {
       "name": "Believe",
       "text": "...Is that really how it is?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "信頼されてるんだね！みんなに！"
+      ]
     },
     {
       "name": "Believe",
@@ -227,23 +243,28 @@
       "name": "Narrator",
       "text": "I returned to the academy together with \nBelieve. Before parting ways at the end, I \nspoke to her.",
       "choice_data_list": [
-        "I had so much fun today! Thank you!",
-        "Oh no... my legs feel like lead...!",
-        "Oh no... my legs are like jelly...!",
-        "You really know everything about the \nmountains, that's amazing!"
+        "今日は楽しかった！ありがとう！",
+        "やばい……足が棒のようだ……！",
+        "やばい……足が棒みたい……！",
+        "山のこと知り尽くしてるんだね、すごい！"
       ]
     },
     {
       "name": "Believe",
       "text": "...Then I'm glad.",
       "choice_data_list": [
-        "Maybe I'll try going on my own next time!"
+        "今日は楽しかった！ありがとう！",
+        "やばい……足が棒のようだ……！",
+        "やばい……足が棒みたい……！",
+        "山のこと知り尽くしてるんだね、すごい！"
       ]
     },
     {
       "name": "Believe",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今度、ひとりでも行ってみたいかも！"
+      ]
     },
     {
       "name": "Believe",
@@ -280,7 +301,9 @@
     {
       "name": "Believe",
       "text": "...I study occasionally using books and \nvideos, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それでも、すごく頼もしかったよ！"
+      ]
     },
     {
       "name": "Believe",

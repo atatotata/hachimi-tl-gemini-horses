@@ -34,7 +34,10 @@
     },
     {
       "name": "Red Desire",
-      "text": "There, done. ...Fufu, this is wonderful. \nIt is truly fitting as a trial on my path \nto becoming a saint."
+      "text": "There, done. ...Fufu, this is wonderful. \nIt is truly fitting as a trial on my path \nto becoming a saint.",
+      "choice_data_list": [
+        "（でも、目標を定めるのは重要だし……）"
+      ]
     },
     {
       "name": "Passionate Trainer",
@@ -61,7 +64,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Her aptitude is on turf. For her to win a \ngraded race on anything else is an \nexceedingly rare feat."
+      "text": "Her aptitude is on turf. For her to win a \ngraded race on anything else is an \nexceedingly rare feat.",
+      "choice_data_list": [
+        "（ものすごく、大変な目標だ……）"
+      ]
     },
     {
       "name": "Red Desire",
@@ -92,7 +98,10 @@
     },
     {
       "name": "Narrator",
-      "text": "While everyone watched with restless, \nmixed feelings, the tandem run soon \nbegan—!"
+      "text": "While everyone watched with restless, \nmixed feelings, the tandem run soon \nbegan—!",
+      "choice_data_list": [
+        "（これで心が折れないといいけど……）"
+      ]
     },
     {
       "name": "Transcend",
@@ -120,7 +129,11 @@
     },
     {
       "name": "Fickle Horse Girl",
-      "text": "No way... what is that...?!"
+      "text": "No way... what is that...?!",
+      "choice_data_list": [
+        "（――！？すごい加速だ……！）",
+        "（――！？すごい加速……！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -167,14 +180,19 @@
       "name": "Narrator",
       "text": "Her phrasing is as mysterious as ever. \nYet, there surely aren't many horse girls \nwho can believe in themselves to this \ndegree.",
       "choice_data_list": [
-        "I feel like I caught a glimpse of what you \nbelieve in, too.",
-        "I feel like I caught a glimpse of what you \nbelieve in, too.",
-        "You truly looked just like a 'saint.'"
+        "君が信じるもの、俺にも見えた気がするよ",
+        "貴方が信じるもの、私にも見えた気がするよ",
+        "まさに『聖女』みたいだった"
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"That land\" of which she speaks. Though I \ndon't fully understand it, a warm feeling \nlike a light of hope certainly reached me."
+      "text": "\"That land\" of which she speaks. Though I \ndon't fully understand it, a warm feeling \nlike a light of hope certainly reached me.",
+      "choice_data_list": [
+        "君が信じるもの、俺にも見えた気がするよ",
+        "貴方が信じるもの、私にも見えた気がするよ",
+        "まさに『聖女』みたいだった"
+      ]
     },
     {
       "name": "Red Desire",
@@ -218,7 +236,11 @@
     },
     {
       "name": "Red Desire",
-      "text": "Fufu, if that is the case, then I am glad."
+      "text": "Fufu, if that is the case, then I am glad.",
+      "choice_data_list": [
+        "君は、みんなに希望を与えたんだよ",
+        "貴方は、みんなに希望を与えたんだ"
+      ]
     },
     {
       "name": "Red Desire",

@@ -38,7 +38,10 @@
     },
     {
       "name": "Kiseki",
-      "text": "Ngggh, sorry! Those are all lovely ideas, \nbut they might not give me that sudden \nspark for the protagonist..."
+      "text": "Ngggh, sorry! Those are all lovely ideas, \nbut they might not give me that sudden \nspark for the protagonist...",
+      "choice_data_list": [
+        "（何をしてるんだろう……？）"
+      ]
     },
     {
       "name": "Narrator",
@@ -129,16 +132,9 @@
     },
     {
       "name": "Victoire Pisa",
-      "text": "...Ah, Trainer-san. Kiseki-san sent me a \nmanga she drew."
-    },
-    {
-      "name": "Victoire Pisa",
-      "text": "Reading it just naturally brought a smile \nto my face.",
+      "text": "...Ah, Trainer-san. Kiseki-san sent me a \nmanga she drew.",
       "choice_data_list": [
-        "What's it about?",
-        "What's it about?",
-        "It must be a truly wonderful manga, then",
-        "It must be a truly wonderful manga, then"
+        "何かいいことでもあった？"
       ]
     },
     {
@@ -153,7 +149,23 @@
     },
     {
       "name": "Victoire Pisa",
-      "text": "Um... the kind-hearted protagonist \nconnects all kinds of different people."
+      "text": "Reading it just naturally brought a smile \nto my face.",
+      "choice_data_list": [
+        "どんな内容なんだ？",
+        "どんな内容なの？",
+        "そのくらい素敵な漫画なんだな",
+        "そのくらい素敵な漫画なんだね"
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Um... the kind-hearted protagonist \nconnects all kinds of different people.",
+      "choice_data_list": [
+        "どんな内容なんだ？",
+        "どんな内容なの？",
+        "そのくらい素敵な漫画なんだな",
+        "そのくらい素敵な漫画なんだね"
+      ]
     },
     {
       "name": "Victoire Pisa",

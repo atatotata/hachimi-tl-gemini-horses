@@ -23,14 +23,17 @@
       "name": "Tap Dance City",
       "text": "Every moment spent resting puts our dream \nfurther away. We must not stop. We must \nkeep moving forward.",
       "choice_data_list": [
-        "If it gets worse, your friends will worry \ntoo.",
-        "Let's try moving around a little bit to \ntest it, then."
+        "悪いけど、許可できないな",
+        "悪いけど、許可できないよ"
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "Guh... Hmm.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それで悪化したら友だちも心配するよ",
+        "じゃあ試しに、少しだけ動いてみようか"
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -78,13 +81,15 @@
       "name": "Tap Dance City",
       "text": "No! I'm staying here. I should be able to \nmove once I rest a little.",
       "choice_data_list": [
-        "Come on, we're heading back."
+        "戻ろうか……"
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "\"I told you I'm not going ho— Wait, a \npiggyback ride is unfair!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いいから、戻るよ"
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -112,7 +117,10 @@
     {
       "name": "Tap Dance City",
       "text": "Yeah, yeah. I know. I won't do anything \nthat'd make trouble for you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はしゃぎすぎると悪化するぞ？",
+        "はしゃぎすぎると悪化するよ？"
+      ]
     },
     {
       "name": "Narrator",

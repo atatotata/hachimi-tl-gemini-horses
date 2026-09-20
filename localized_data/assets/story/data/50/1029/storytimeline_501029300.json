@@ -11,7 +11,11 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Will do! And I'll be sure to tell 'em all\nyou went\ngaga for this melon!"
+      "text": "Will do! And I'll be sure to tell 'em all\nyou went\ngaga for this melon!",
+      "choice_data_list": [
+        "村のみなさんにお礼を伝えておいてくれ",
+        "村のみなさんにお礼を伝えておいてね"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -23,7 +27,11 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Thank goodness."
+      "text": "Thank goodness.",
+      "choice_data_list": [
+        "成長したぞ！",
+        "成長したよ！"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -59,11 +67,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Gold City isn't currently signed up for\nany major\nraces. It's only natural that\nYukino Bijin would\nassume she was,\nbut..."
+      "text": "Gold City isn't currently signed up for\nany major\nraces. It's only natural that\nYukino Bijin would\nassume she was,\nbut...",
+      "choice_data_list": [
+        "（“レース”か……）"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Nah, I don't have a race or anything. I\njust don't\nwant to lose my edge."
+      "text": "Nah, I don't have a race or anything. I\njust don't\nwant to lose my edge.",
+      "choice_data_list": [
+        "（そもそも、出走しない理由って……）"
+      ]
     },
     {
       "name": "Yukino Bijin",

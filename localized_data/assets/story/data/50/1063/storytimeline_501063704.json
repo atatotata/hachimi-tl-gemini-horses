@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "Ikuno Dictus has been invited to an \nexhibition race. It's an offer stemming \nfrom her recent success and popularity.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ありがとう、お互いな",
+        "ありがとう、お互いね"
+      ]
     },
     {
       "name": "Narrator",
@@ -40,13 +43,15 @@
       "name": "Ikuno Dictus",
       "text": "Naturally, it would be difficult to even \noversee training in that state. ...Indeed.",
       "choice_data_list": [
-        "I'm really sorry...!"
+        "イベントレース直前まで、戻れない……"
       ]
     },
     {
       "name": "Ikuno Dictus",
       "text": "No, it can't be helped. It's part of the \njob, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "本当に申し訳ない……！"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -74,13 +79,15 @@
       "name": "Ikuno Dictus",
       "text": "I've finished my stretches. I'm ready when \nyou are.",
       "choice_data_list": [
-        "Then, how about a jog—"
+        "よし、行こう！"
       ]
     },
     {
       "name": "Ikuno Dictus",
       "text": "Yes, around 3 km, right? Given today's \ndistance. Anticipating that, I've made \nsure to train for it daily.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃあ、ジョギングに――"
+      ]
     },
     {
       "name": "Narrator",
@@ -102,7 +109,9 @@
     {
       "name": "Ikuno Dictus",
       "text": "……！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日まで自主トレ済み、だよね？なら……"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -115,13 +124,15 @@
       "name": "Ikuno Dictus",
       "text": "Yes. Judging from your instructions so \nfar, we're starting from that hill over \nthere... right?",
       "choice_data_list": [
-        "It's like you read my mind."
+        "レースで仕掛ける場所、かな？"
       ]
     },
     {
       "name": "Ikuno Dictus",
       "text": "Fufu, likewise.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "頭の中を読まれたみたいだ"
+      ]
     },
     {
       "name": "Narrator",
@@ -168,7 +179,9 @@
     {
       "name": "Rookie Trainer A",
       "text": "Huh? ...What!? E-Even after running such a \nflawless race...!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……いえ、特には"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -204,16 +217,21 @@
       "name": "Ikuno Dictus",
       "text": "...Which is why I simply do the best I can \nin that moment.",
       "choice_data_list": [
-        "Mutual trust is the secret to victory.",
-        "Mutual trust is the secret to victory.",
-        "Sometimes I almost forget that I'm a \nstudent.",
-        "Thank you for believing in me."
+        "お互いの信頼が、勝利の秘訣だな",
+        "お互いの信頼が、勝利の秘訣だね",
+        "時々、学生だってこと忘れそうになるよ",
+        "信じてくれて、ありがとう"
       ]
     },
     {
       "name": "Ikuno Dictus",
       "text": "Yes. As I said before, it is all because I \nhave a partner who takes the appropriate \nactions.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お互いの信頼が、勝利の秘訣だな",
+        "お互いの信頼が、勝利の秘訣だね",
+        "時々、学生だってこと忘れそうになるよ",
+        "信じてくれて、ありがとう"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -240,7 +258,9 @@
     {
       "name": "Ikuno Dictus",
       "text": "Yes, very much so. I've always wanted to \nhear about the path that led to who you \nare today, Trainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え、興味ある？"
+      ]
     },
     {
       "name": "Narrator",
@@ -262,7 +282,9 @@
     {
       "name": "Narrator",
       "text": "Seeing the satisfied look on Ikuno \nDictus's face made me feel that our brief \nexchange had conveyed everything.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、十分です"
+      ]
     }
   ]
 }

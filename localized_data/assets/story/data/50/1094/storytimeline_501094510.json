@@ -22,13 +22,15 @@
       "name": "Jungle Pocket",
       "text": "Oh, if it isn't my partner! What's up, out \nfor a walk?",
       "choice_data_list": [
-        "Pretty much. How about you?"
+        "（ポッケたちだ……何してるんだろう？）"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "I'm just helping out Fuji-san a bit. Here, \ntake this.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そんなとこ。そっちは？"
+      ]
     },
     {
       "name": "Narrator",
@@ -41,7 +43,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Yeah. Fuji-san's always looking into it, \nbut... Man, it's seriously incredible!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "すごいな、これをポッケたちが？",
+        "すごいね、これをポッケたちが？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -64,7 +69,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Heheh, thanks.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "偉いな、ポッケたち！",
+        "偉いね、ポッケたち！"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -132,7 +140,10 @@
     {
       "name": "Fuji Kiseki",
       "text": "Yeah. But if it's Pokke—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "寮長の君にも連絡はきてないのか",
+        "寮長の貴方にも連絡はきてないんだ"
+      ]
     },
     {
       "name": "？？？",
@@ -160,7 +171,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Oh, partner! Well of course. It's nothing \nto praise me over.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ちゃんと門限を守れたな、ポッケ！",
+        "ちゃんと門限を守れたね、ポッケ！"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -172,7 +186,9 @@
     {
       "name": "Fuji Kiseki",
       "text": "Because if a dorm resident breaks curfew, \nI'm the dorm leader who gets scolded for \nit. In other words—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え、フジ？"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -203,16 +219,21 @@
       "name": "Jungle Pocket",
       "text": "Ah, you really are so cool! Always makin' \nfolks wanna come back home to you, that's \nseriously what's so great about you!",
       "choice_data_list": [
-        "You gave it your all, huh!",
-        "You gave it your all, didn't you!",
-        "Maybe having those feelings is what helped \nyou run so fast.",
-        "Maybe having those feelings is what helped \nyou run so fast."
+        "力を尽くしたんだな！",
+        "力を尽くしたんだね！",
+        "その想いがあったから、速く走れたのかもな",
+        "その想いがあったから、速く走れたのかもね"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Yeah. I'm not carrying the title of \nFuji-san's junior with half-assed resolve.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "力を尽くしたんだな！",
+        "力を尽くしたんだね！",
+        "その想いがあったから、速く走れたのかもな",
+        "その想いがあったから、速く走れたのかもね"
+      ]
     },
     {
       "name": "Jungle Pocket",

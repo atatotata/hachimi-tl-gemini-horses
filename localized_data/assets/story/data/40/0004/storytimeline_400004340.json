@@ -23,7 +23,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ooh, I'm happy to hear that. There's\nplenty more,\nso eat up!"
+      "text": "Ooh, I'm happy to hear that. There's\nplenty more,\nso eat up!",
+      "choice_data_list": [
+        "……ああ、ものすごく美味しい！",
+        "……うん、ものすごく美味しい！"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -67,7 +71,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Don't worry about it."
+      "text": "Don't worry about it.",
+      "choice_data_list": [
+        "桜餅を買ってこようか？",
+        "代わりにご馳走できるものはない？"
+      ]
     },
     {
       "name": "Narita Brian",

@@ -15,7 +15,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "What do you mean? Isn't it obvious? My\nstomach\nache subsided so I came to\nschool!"
+      "text": "What do you mean? Isn't it obvious? My\nstomach\nache subsided so I came to\nschool!",
+      "choice_data_list": [
+        "って、何してるんだバクシンオー！",
+        "って、何してるのバクシンオー！"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I'm just hungry, that's all! It's definitely\nnot a\nstomachache!"
+      "text": "I'm just hungry, that's all! It's definitely\nnot a\nstomachache!",
+      "choice_data_list": [
+        "やっぱり治ってないんじゃ"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +38,23 @@
     },
     {
       "name": "Monologue",
-      "text": "She clearly hasn't recovered."
+      "text": "She clearly hasn't recovered.",
+      "choice_data_list": [
+        "寮に帰らないとダメだ",
+        "寮に帰らないとダメだよ",
+        "みんなを心配させてもいいのか？",
+        "みんなを心配させてもいいの？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I tell her to rest up, but..."
+      "text": "I tell her to rest up, but...",
+      "choice_data_list": [
+        "寮に帰らないとダメだ",
+        "寮に帰らないとダメだよ",
+        "みんなを心配させてもいいのか？",
+        "みんなを心配させてもいいの？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -59,7 +78,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I refuse! As the class representative, I\nhave duties\nto attend to!"
+      "text": "I refuse! As the class representative, I\nhave duties\nto attend to!",
+      "choice_data_list": [
+        "ストップ！寮に帰るぞ！",
+        "ストップ！寮に帰るよ！"
+      ]
     },
     {
       "name": "Classmate A",
@@ -99,7 +122,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "そんなことない、見てみなよ",
+        "そんなことない、見てみて"
+      ]
     },
     {
       "name": "Classmate A",
@@ -119,7 +146,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh my! It seems I'm still needed as class\n\nrepresentative!"
+      "text": "Oh my! It seems I'm still needed as class\n\nrepresentative!",
+      "choice_data_list": [
+        "ほら言っただろ？",
+        "ほら言ったでしょう？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -159,7 +190,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Y-yes. Sorry..."
+      "text": "Y-yes. Sorry...",
+      "choice_data_list": [
+        "一旦、保健室で休もう"
+      ]
     },
     {
       "name": "Monologue",
@@ -175,7 +209,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "That's fine and all, but as class\nrepresentative, I\ncan't help but worry\nabout the class."
+      "text": "That's fine and all, but as class\nrepresentative, I\ncan't help but worry\nabout the class.",
+      "choice_data_list": [
+        "まずは体を治すことに専念しよう"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -187,7 +224,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I quietly exit the infirmary, being careful\nnot to\nwake Sakura Bakushin O."
+      "text": "I quietly exit the infirmary, being careful\nnot to\nwake Sakura Bakushin O.",
+      "choice_data_list": [
+        "……代わりにクラスの様子を見てくるか",
+        "……代わりにクラスの様子を見てこようか"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -223,11 +264,17 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Intense training offsets intense pain...\nright?"
+      "text": "Intense training offsets intense pain...\nright?",
+      "choice_data_list": [
+        "はい！？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "After that, her classmates and I have to\nstop\nSakura Bakushin O from getting up\nand running\nout."
+      "text": "After that, her classmates and I have to\nstop\nSakura Bakushin O from getting up\nand running\nout.",
+      "choice_data_list": [
+        "全然違う……！"
+      ]
     }
   ]
 }

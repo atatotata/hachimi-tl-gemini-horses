@@ -43,7 +43,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes! I even defeated the older students!"
+      "text": "Yes! I even defeated the older students!",
+      "choice_data_list": [
+        "すごいぞ、フラッシュ！",
+        "すごいよ、フラッシュ！"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -51,11 +55,18 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "It seems both Spe and Rob Roy intend\nto run in\nthe Arima Kinen."
+      "text": "It seems both Spe and Rob Roy intend\nto run in\nthe Arima Kinen.",
+      "choice_data_list": [
+        "次？"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The Arima Kinen is next up on Eishin\nFlash's\nschedule. The three of them will\nundoubtedly\nclash again the way things\nare now."
+      "text": "The Arima Kinen is next up on Eishin\nFlash's\nschedule. The three of them will\nundoubtedly\nclash again the way things\nare now.",
+      "choice_data_list": [
+        "じゃあ、また戦うことになるな",
+        "じゃあ、また戦うことになるね"
+      ]
     },
     {
       "name": "Eishin Flash",

@@ -153,12 +153,17 @@
       "name": "Haru Urara",
       "text": "Yup! Tell Urara all about your troubles \ntoo, Trainer!",
       "choice_data_list": [
-        "Well... lately I feel like I've been \nlacking stamina."
+        "悩みを解決する名探偵？",
+        "ウララは人助けをしてて、すごいな",
+        "ウララは人助けをしてて、すごいね"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "Oh! Then let's go running together! If you \nrun lots and looots, you'll be bursting \nwith energy!"
+      "text": "Oh! Then let's go running together! If you \nrun lots and looots, you'll be bursting \nwith energy!",
+      "choice_data_list": [
+        "えっと……最近、体力がないことかな"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -169,7 +174,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yup, and of course that means you too, \nTrainer! Come on, smile smile~~!!"
+      "text": "Yup, and of course that means you too, \nTrainer! Come on, smile smile~~!!",
+      "choice_data_list": [
+        "ニコニコ？"
+      ]
     }
   ]
 }

@@ -19,7 +19,10 @@
     },
     {
       "name": "Monologue",
-      "text": "We've traveled to Fuchu from Kyoto,\nand now\nwe're turning right around to\nhead back to Osaka."
+      "text": "We've traveled to Fuchu from Kyoto,\nand now\nwe're turning right around to\nhead back to Osaka.",
+      "choice_data_list": [
+        "戻ろう、大阪へ！"
+      ]
     },
     {
       "name": "Tamamo Cross's Little Brother",
@@ -59,15 +62,26 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "A talk? ...About what?"
+      "text": "A talk? ...About what?",
+      "choice_data_list": [
+        "タマモ、話がある"
+      ]
     },
     {
       "name": "Tamamo Cross",
-      "text": "Huh?! Wh-what makes you say that?"
+      "text": "Huh?! Wh-what makes you say that?",
+      "choice_data_list": [
+        "辞める気なのか？レース",
+        "辞める気なの？レース"
+      ]
     },
     {
       "name": "Tamamo Cross",
-      "text": "...Geez, nothin' gets by you, huh?"
+      "text": "...Geez, nothin' gets by you, huh?",
+      "choice_data_list": [
+        "顔を見ればわかる",
+        "顔を見ればわかるよ"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -83,7 +97,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "辞めて、後悔しないのか？",
+        "辞めて、後悔しない？"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -171,11 +189,17 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Huh?! Trainer?!"
+      "text": "Huh?! Trainer?!",
+      "choice_data_list": [
+        "タマモクロスは――走るべきです"
+      ]
     },
     {
       "name": "Tamamo Cross's Father",
-      "text": "...I see. That's all I needed to know."
+      "text": "...I see. That's all I needed to know.",
+      "choice_data_list": [
+        "なぜなら勝てるからです！この先も必ず！"
+      ]
     },
     {
       "name": "Tamamo Cross's Father",
@@ -307,7 +331,10 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Nah... Well, kinda, but not quite. The\nfire that I\ncouldn't put out, no matter\nwhat I did, was—"
+      "text": "Nah... Well, kinda, but not quite. The\nfire that I\ncouldn't put out, no matter\nwhat I did, was—",
+      "choice_data_list": [
+        "その火花は闘争心？"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -355,7 +382,11 @@
     },
     {
       "name": "Monologue",
-      "text": "As Tamamo Cross looks at Oguri Cap, I\nsee her\neyes dazzling with countless\ncolors."
+      "text": "As Tamamo Cross looks at Oguri Cap, I\nsee her\neyes dazzling with countless\ncolors.",
+      "choice_data_list": [
+        "そうだな……",
+        "そうだね……"
+      ]
     },
     {
       "name": "Tamamo Cross",

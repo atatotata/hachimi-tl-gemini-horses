@@ -12,13 +12,15 @@
       "name": "Gran Alegria",
       "text": "Next up is tire pulling!!",
       "choice_data_list": [
-        "Stop, stop!?"
+        "はーい、ゆっくり休んでね――"
       ]
     },
     {
       "name": "Gran Alegria",
       "text": "? Huh? Is it no good?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ストップ、ストップ！？"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -36,7 +38,10 @@
     {
       "name": "Gran Alegria",
       "text": "Yay! Thank you so much, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃあ、もう少しだけトレーニングしよう",
+        "でも明日もあるし、今日はこれであがろう"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -58,7 +63,9 @@
     {
       "name": "Gran Alegria",
       "text": "Understood. That's all for today! I look \nforward to working with you again \ntomorrow♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "その元気は明日のトレーニングに使おう"
+      ]
     },
     {
       "name": "",

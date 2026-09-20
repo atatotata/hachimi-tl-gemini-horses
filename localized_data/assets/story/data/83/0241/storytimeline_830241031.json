@@ -19,7 +19,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "The talk show Haiseiko-san appeared on!"
+      "text": "The talk show Haiseiko-san appeared on!",
+      "choice_data_list": [
+        "番組？"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -55,12 +58,15 @@
       "name": "Tazuna Hayakawa",
       "text": "A letter has arrived for you from Saint \nLight-san.",
       "choice_data_list": [
-        "For me...?",
-        "For me...?"
+        "なんでしょう？"
       ]
     },
     {
-      "text": "The letter handed to me was written in an \nastonishingly exquisite hand. Although it \ntook some time to decipher the contents, \nit appeared to be an invitation to a \nparty—"
+      "text": "The letter handed to me was written in an \nastonishingly exquisite hand. Although it \ntook some time to decipher the contents, \nit appeared to be an invitation to a \nparty—",
+      "choice_data_list": [
+        "俺にですか……？",
+        "私にですか……？"
+      ]
     },
     {
       "name": "Saint Light",
@@ -99,7 +105,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Indeed. Speed Symboli was praising you \nquite highly—"
+      "text": "Indeed. Speed Symboli was praising you \nquite highly—",
+      "choice_data_list": [
+        "俺の？",
+        "私の？"
+      ]
     },
     {
       "name": "Speed Symboli",
@@ -137,7 +147,11 @@
       ]
     },
     {
-      "text": "Holding the lessons learned from them deep \nin my heart. Until <chrname> carves her name as a \nlegend—"
+      "text": "Holding the lessons learned from them deep \nin my heart. Until <chrname> carves her name as a \nlegend—",
+      "choice_data_list": [
+        "（よし、この先も頑張らないとな！）",
+        "（よし、この先も頑張らないとね！）"
+      ]
     }
   ]
 }

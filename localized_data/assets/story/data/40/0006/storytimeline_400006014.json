@@ -36,7 +36,9 @@
     {
       "name": "Narrator",
       "text": "Even though I've grown used to the \nLongchamp track, the European training \nfacilities are still largely uncharted \nterritory for us.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（“慣れ”には時間がかかりそうだ）"
+      ]
     },
     {
       "name": "Narrator",
@@ -53,7 +55,9 @@
     {
       "name": "Narrator",
       "text": "Challenging Europe requires adapting to \nthe environment right from the start of \ntraining.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（頭をリセットさせないと）"
+      ]
     },
     {
       "name": "Narrator",
@@ -100,7 +104,9 @@
     {
       "name": "Mei Satake",
       "text": "Hm? Ah, no, it's not that. Japan's \natmosphere is as wonderful as ever.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "悪いニュースですか？"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -122,7 +128,9 @@
     {
       "name": "Mei Satake",
       "text": "Because that's my duty.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "こんな早くにできるなんて、珍しいですね"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -170,20 +178,22 @@
       "name": "Narrator",
       "text": "Even if she's used to seeing it in VR, \nit's the place of her dreams. She must be \nnervous.",
       "choice_data_list": [
-        "It's earlier than planned, but shall we \ncall it a day?"
+        "（……相変わらず動きが固い）"
       ]
     },
     {
       "name": "Mei Satake",
       "text": "...No, please continue.",
       "choice_data_list": [
-        "Huh?"
+        "予定よりも早いけど、切り上げましょうか"
       ]
     },
     {
       "name": "Mei Satake",
       "text": "Even if it's slow. I'll make her run.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ？"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -216,7 +226,11 @@
     {
       "name": "Narrator",
       "text": "Without even needing to ask, her eyes were \noverflowing with determination.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "<chrname>も続けたいみたいだな",
+        "<chrname>も続けたいみたいだね",
+        "<chrname>様も続けたいようですね"
+      ]
     },
     {
       "name": "Narrator",

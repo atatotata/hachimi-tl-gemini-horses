@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "After walking alone in the department \nstore for a while, I spotted a familiar \nUmamusume near the restaurant floor.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -30,14 +33,16 @@
       "name": "Narrator",
       "text": "Worried by the anxious look on her face, I \ndecided to call out to her.",
       "choice_data_list": [
-        "What's the matter?",
-        "Is something wrong?"
+        "（ユキノビジン……？）"
       ]
     },
     {
       "name": "Yukino Bijin",
       "text": "! Flight-san's Trainer...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうかしたのか？",
+        "どうかした？"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -81,14 +86,17 @@
       "name": "Yukino Bijin",
       "text": "—Eh?",
       "choice_data_list": [
-        "I want to hear why you feel so anxious.",
-        "Why you're feeling anxious. I want you to \ntell me."
+        "何が1番、気になってるんだ？",
+        "何が1番、気になってるの？"
       ]
     },
     {
       "name": "Yukino Bijin",
       "text": "—...Huh? Umm, let's see—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君が不安な理由。それを聞かせてほしい",
+        "貴方が不安な理由。それを聞かせてほしい"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -105,7 +113,9 @@
     {
       "name": "North Flight",
       "text": "Sorry to keep you waiting—oh? Yukino-chan, \nyou're here too!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――そうだ！"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -138,7 +148,10 @@
     {
       "name": "North Flight",
       "text": "――? What's with the victory poses, you \ntwo? Did something happen?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……やったな！！",
+        "……やったね！！"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -166,7 +179,10 @@
     {
       "name": "North Flight",
       "text": "Huh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "アドバイスできたのは、君のおかげだよ",
+        "アドバイスできたのは、貴方のおかげだよ"
+      ]
     },
     {
       "name": "Narrator",
@@ -200,28 +216,31 @@
       "name": "Narrator",
       "text": "And so, the three of us went into a dining \nbar and decided to grab a meal.",
       "choice_data_list": [
-        "With you three, I feel at ease.",
-        "With you three, I feel at ease!",
-        "Which dish should I choose?",
-        "With you all, I'm sure you'll get to go to \nall kinds of places from now on.",
-        "With you all, I'm sure you'll get to go to \nall sorts of places from now on"
+        "ああ、2人がよければ！",
+        "うん、2人がよければ！"
       ]
     },
     {
       "name": "Narrator",
       "text": "And so, the three of us went into a dining \nbar and decided to grab a meal.",
       "choice_data_list": [
-        "With you three, I feel at ease.",
-        "With you three, I feel at ease!",
-        "Which dish should I choose?",
-        "With you all, I'm sure you'll get to go to \nall kinds of places from now on.",
-        "With you all, I'm sure you'll get to go to \nall sorts of places from now on"
+        "3人なら安心だな",
+        "3人なら安心だね",
+        "どのメニューにしようかな？",
+        "君たちなら今後も色んな場所へ行けるね",
+        "貴方たちなら今後も色んな場所へ行けるね"
       ]
     },
     {
       "name": "Yukino Bijin",
       "text": "Yes! I'm so glad I mustered the courage to \ninvite you...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "3人なら安心だな",
+        "3人なら安心だね",
+        "どのメニューにしようかな？",
+        "君たちなら今後も色んな場所へ行けるね",
+        "貴方たちなら今後も色んな場所へ行けるね"
+      ]
     },
     {
       "name": "North Flight",
@@ -249,7 +268,10 @@
     {
       "name": "North Flight",
       "text": "Understood. It's my first time at this \nshop, but I've got the hang of the vibe, \nso leave it to me!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、俺も聞きたい！",
+        "あ、私も聞きたい！"
+      ]
     },
     {
       "name": "Narrator",
@@ -292,7 +314,10 @@
     {
       "name": "North Flight",
       "text": "Yes! I want us to shine together and \nexpand our possibilities. As far as we can \ngo, endlessly forward—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これからもお互い学び合っていけるといいな",
+        "これからもお互い学び合っていけるといいね"
+      ]
     }
   ]
 }

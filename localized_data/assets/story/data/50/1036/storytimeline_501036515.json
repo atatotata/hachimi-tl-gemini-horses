@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "An unexpected downpour led to\nconstant delays\nand, ultimately, we\nmissed the last bus."
+      "text": "An unexpected downpour led to\nconstant delays\nand, ultimately, we\nmissed the last bus.",
+      "choice_data_list": [
+        "でも、あんなに大雨になるなんて……"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -39,7 +42,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I look around and spot an open area in\nthe\ndistance that I checked out when we\nfirst arrived\nin the mountains."
+      "text": "I look around and spot an open area in\nthe\ndistance that I checked out when we\nfirst arrived\nin the mountains.",
+      "choice_data_list": [
+        "（せめて電波を確保できれば……）"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -47,11 +53,17 @@
     },
     {
       "name": "Air Shakur",
-      "text": "We're not here for sightseeing. Plus, I\ndoubt your\nbody is used to the altitude\nyet."
+      "text": "We're not here for sightseeing. Plus, I\ndoubt your\nbody is used to the altitude\nyet.",
+      "choice_data_list": [
+        "ちょっと景色を見たくて"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I didn't tell her at the time, but I was\nsearching for\nspots around the training\narea where I could get a\nphone signal,\njust in case something like this\n\nhappened."
+      "text": "I didn't tell her at the time, but I was\nsearching for\nspots around the training\narea where I could get a\nphone signal,\njust in case something like this\n\nhappened.",
+      "choice_data_list": [
+        "もちろん無理はしないよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -63,7 +75,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh?\nHey!"
+      "text": "Huh?\nHey!",
+      "choice_data_list": [
+        "ここで待ってて！"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -71,7 +86,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I managed to get a signal at the spot I\nhad my\neye on, and people at the base\nof the mountain\nsent a car up for us."
+      "text": "I managed to get a signal at the spot I\nhad my\neye on, and people at the base\nof the mountain\nsent a car up for us.",
+      "choice_data_list": [
+        "車を呼べて本当によかった"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -79,7 +97,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I was so absorbed in making my way\nthrough the\ndark mountain path that I\nmust have scraped\nmyself on a branch or\nsomething without realizing\nit."
+      "text": "I was so absorbed in making my way\nthrough the\ndark mountain path that I\nmust have scraped\nmyself on a branch or\nsomething without realizing\nit.",
+      "choice_data_list": [
+        "ただの擦り傷だぞ",
+        "ただの擦り傷だよ"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -99,7 +121,11 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...Pure coincidence."
+      "text": "...Pure coincidence.",
+      "choice_data_list": [
+        "たまーに無駄にならないぞ、今日とかな",
+        "たまーに無駄にならないよ、今日とかね"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -107,15 +133,26 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "だから言わなかったのかも"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...\nNo one asked you to do that."
+      "text": "...\nNo one asked you to do that.",
+      "choice_data_list": [
+        "君を守りたかったから",
+        "貴方を守りたかったから"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...Tch. And yet look who passed out first."
+      "text": "...Tch. And yet look who passed out first.",
+      "choice_data_list": [
+        "到着までゆっくり休んでくれ",
+        "到着までゆっくり休んでね"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -147,15 +184,28 @@
     },
     {
       "name": "Air Shakur",
-      "text": "It's just before midnight. I guess I can\nstill do\neverything I had planned\ntomorrow."
+      "text": "It's just before midnight. I guess I can\nstill do\neverything I had planned\ntomorrow.",
+      "choice_data_list": [
+        "絶対によく休んでくれ",
+        "絶対によく休んでね",
+        "次はもっとあらゆる予測を立てておく"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Of course. I'd have to be some kind of\nidiot to go\nrunning."
+      "text": "Of course. I'd have to be some kind of\nidiot to go\nrunning.",
+      "choice_data_list": [
+        "絶対によく休んでくれ",
+        "絶対によく休んでね",
+        "次はもっとあらゆる予測を立てておく"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "脳もしっかり休めてほしいから"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -175,7 +225,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "But not today. All you need to do today\nis grab a\nquick bath and hit the sack."
+      "text": "But not today. All you need to do today\nis grab a\nquick bath and hit the sack.",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -183,7 +236,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...\nThanks."
+      "text": "...\nThanks.",
+      "choice_data_list": [
+        "おやすみなさい"
+      ]
     }
   ]
 }

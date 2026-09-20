@@ -31,7 +31,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "...Oh, hi. Yes, I'm trying my best."
+      "text": "...Oh, hi. Yes, I'm trying my best.",
+      "choice_data_list": [
+        "頑張ってるな",
+        "頑張ってるね"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -59,11 +63,19 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Wow, I hadn't thought of that. How\nwould it\nhelp?"
+      "text": "Wow, I hadn't thought of that. How\nwould it\nhelp?",
+      "choice_data_list": [
+        "だったら、逆にもっと増やしてみたら？",
+        "休憩して頭の中を整頓しよう"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I explain that she might be better off\nmoving on\nevery beat rather than\nleaving pauses between\nthe steps."
+      "text": "I explain that she might be better off\nmoving on\nevery beat rather than\nleaving pauses between\nthe steps.",
+      "choice_data_list": [
+        "君は細かい動きのほうが得意だから",
+        "貴方は細かい動きのほうが得意だから"
+      ]
     },
     {
       "name": "Aston Machan",

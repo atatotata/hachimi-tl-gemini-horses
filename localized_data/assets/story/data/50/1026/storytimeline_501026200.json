@@ -11,7 +11,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Initiating scan. Heart rate and blood\npressure\nnormal. These results indicate\nthat I am relaxed."
+      "text": "Initiating scan. Heart rate and blood\npressure\nnormal. These results indicate\nthat I am relaxed.",
+      "choice_data_list": [
+        "緊張する？"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -19,11 +22,18 @@
     },
     {
       "name": "",
-      "text": "Her typical calmness brings me some\nrelief."
+      "text": "Her typical calmness brings me some\nrelief.",
+      "choice_data_list": [
+        "いや、大丈夫！"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Order acknowledged. I will execute your\n\ncommand."
+      "text": "Order acknowledged. I will execute your\n\ncommand.",
+      "choice_data_list": [
+        "思いっきり走ってこい！",
+        "思いっきり走っておいで！"
+      ]
     },
     {
       "name": "Mihono Bourbon",

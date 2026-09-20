@@ -38,7 +38,10 @@
     },
     {
       "name": "Host",
-      "text": "Next up to the challenge is Team Kris S & \nGimlet!! Can they catch up to Taishin & \nHayahide~~?!"
+      "text": "Next up to the challenge is Team Kris S & \nGimlet!! Can they catch up to Taishin & \nHayahide~~?!",
+      "choice_data_list": [
+        "（次のチームっていうと……）"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -126,7 +129,11 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "——...There was——no fear."
+      "text": "——...There was——no fear.",
+      "choice_data_list": [
+        "俺なら、味方に当てそうで撃てないかも",
+        "私なら、味方に当てそうで撃てないかも"
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -146,15 +153,21 @@
       "name": "Symboli Kris S",
       "text": "That is... simply all.",
       "choice_data_list": [
-        "Heh... As expected of rivals!",
-        "Heh... As expected of rivals!",
-        "Is there a trick to understanding him?",
-        "Is there a trick to understanding him?"
+        "へえ……さすが、ライバルだな！",
+        "へえ……さすが、ライバルだね！",
+        "理解するコツとかあるのか？",
+        "理解するコツとかあるの？"
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Kuh-kuh-kuh! You predict my movements, my \nworthy rival?"
+      "text": "Kuh-kuh-kuh! You predict my movements, my \nworthy rival?",
+      "choice_data_list": [
+        "へえ……さすが、ライバルだな！",
+        "へえ……さすが、ライバルだね！",
+        "理解するコツとかあるのか？",
+        "理解するコツとかあるの？"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -177,7 +190,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...No, that's way too hard."
+      "text": "...No, that's way too hard.",
+      "choice_data_list": [
+        "考えるのではなく、感じる……ってこと？"
+      ]
     }
   ]
 }

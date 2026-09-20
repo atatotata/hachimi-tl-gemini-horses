@@ -33,13 +33,16 @@
       "name": "Believe",
       "text": "No, I'm not aiming that high. If I can \njust hook it and smooth it out nicely, \nthat'll do.",
       "choice_data_list": [
-        "You didn't have to spend money on me!?"
+        "取る気か？",
+        "取る気なの？"
       ]
     },
     {
       "name": "Believe",
       "text": "Yes. It feels kind of unpleasant, so...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "わざわざお金を使って！？"
+      ]
     },
     {
       "name": "Narrator",
@@ -51,7 +54,9 @@
     {
       "name": "Believe",
       "text": "I don't mind grabbing it, but... I'm not \nparticularly used to playing games...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "取ってしまったらダメ？"
+      ]
     },
     {
       "name": "Believe",
@@ -63,7 +68,9 @@
     {
       "name": "Believe",
       "text": "Trainer is?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "なら、自分がやってみるよ！"
+      ]
     },
     {
       "name": "Believe",

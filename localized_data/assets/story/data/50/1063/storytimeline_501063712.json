@@ -12,7 +12,10 @@
     {
       "name": "Ikuno Dictus",
       "text": "Trainer...! S-Sorry I'm late!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "『遅れます。スマホです』って、何だ？",
+        "『遅れます。スマホです』って……何？"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -26,14 +29,17 @@
       "name": "Ikuno Dictus",
       "text": "Ah! I sent it written like that...! It was \nalready past the time when I collected \nthem, so I panicked... How \nembarrassing...!",
       "choice_data_list": [
-        "Be sure to come tell me beforehand in the \nfuture.",
-        "Please come tell me beforehand from now \non, okay?"
+        "『遅れます。スマホです』って、それか",
+        "だから『遅れます。スマホです』なのね"
       ]
     },
     {
       "name": "Narrator",
       "text": "Seeing how shaken she was, it was clear \nshe truly regretted her actions... So I \nforgave her without scolding her any \nfurther.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今後は先に言いにくるように",
+        "今後は先に言いにきてね"
+      ]
     }
   ]
 }

@@ -15,7 +15,11 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Oh. Look, Maruzen, there's a rest area\nover there.\nGood timing too. I could use\na snack."
+      "text": "Oh. Look, Maruzen, there's a rest area\nover there.\nGood timing too. I could use\na snack.",
+      "choice_data_list": [
+        "（あの2人も来ていたのか）",
+        "（あの2人も来ていたんだ）"
+      ]
     },
     {
       "name": "Suspicious Person",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Suspicious Person",
-      "text": "What?! Y-y-you there! Was that a rice\nball you\njust ate?!"
+      "text": "What?! Y-y-you there! Was that a rice\nball you\njust ate?!",
+      "choice_data_list": [
+        "（……あ）"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -139,15 +146,29 @@
     },
     {
       "name": "Monologue",
-      "text": "It's admirable how free-spirited she is\nand how\nshe sticks to what she believes\nin, though her\nstrong will seems to land\nher in trouble often..."
+      "text": "It's admirable how free-spirited she is\nand how\nshe sticks to what she believes\nin, though her\nstrong will seems to land\nher in trouble often...",
+      "choice_data_list": [
+        "自分のスタイルを貫けるってすごい",
+        "……無理はしていないか？",
+        "……無理はしてない？"
+      ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "Is it? I'm just following what my heart\ntells me."
+      "text": "Is it? I'm just following what my heart\ntells me.",
+      "choice_data_list": [
+        "自分のスタイルを貫けるってすごい",
+        "……無理はしていないか？",
+        "……無理はしてない？"
+      ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "I don't know about that. But if that's\nwhat your\nheart says, then maybe you're\nright."
+      "text": "I don't know about that. But if that's\nwhat your\nheart says, then maybe you're\nright.",
+      "choice_data_list": [
+        "心に従えるから、君は強いのかな？",
+        "心に従えるから、貴方は強いのかな？"
+      ]
     },
     {
       "name": "Monologue",
@@ -163,7 +184,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Because I can't suppress this urge to go\nrunning!"
+      "text": "Because I can't suppress this urge to go\nrunning!",
+      "choice_data_list": [
+        "えっ、急に！？"
+      ]
     },
     {
       "name": "Monologue",

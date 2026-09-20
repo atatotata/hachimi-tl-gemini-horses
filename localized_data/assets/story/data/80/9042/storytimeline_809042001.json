@@ -55,7 +55,11 @@
     },
     {
       "name": "Narrator",
-      "text": "...Byerley Turk accurately assesses \nstamina limits of each horse girl."
+      "text": "...Byerley Turk accurately assesses \nstamina limits of each horse girl.",
+      "choice_data_list": [
+        "バイアリーさんのひと声で士気が上がった",
+        "バイアリーさんのひと声で士気が上がったね"
+      ]
     },
     {
       "name": "Byerley Turk",
@@ -91,7 +95,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Admiring efficient training possible only \nthrough support AI..."
+      "text": "Admiring efficient training possible only \nthrough support AI...",
+      "choice_data_list": [
+        "一段階上のトレーニングですね",
+        "休憩のタイミングも適切ですね"
+      ]
     },
     {
       "name": "Rookie Trainer A",

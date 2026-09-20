@@ -31,7 +31,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I didn't get that close. But..."
+      "text": "I didn't get that close. But...",
+      "choice_data_list": [
+        "おめでとう、顔は見えた？"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -115,11 +118,18 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hm, and what's behind that decision?"
+      "text": "Hm, and what's behind that decision?",
+      "choice_data_list": [
+        "いや、もう少し先の『有馬記念』にしよう",
+        "ううん、もう少し先の『有馬記念』にしよう"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "少しでも休ませたいから"
+      ]
     },
     {
       "name": "Monologue",
@@ -155,7 +165,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "The two seniors currently ranked\nhighest. They're\nsnapping up first and\nsecond position in every\nrace."
+      "text": "The two seniors currently ranked\nhighest. They're\nsnapping up first and\nsecond position in every\nrace.",
+      "choice_data_list": [
+        "あの2人？"
+      ]
     },
     {
       "name": "Manhattan Cafe",

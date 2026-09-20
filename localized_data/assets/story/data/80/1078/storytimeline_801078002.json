@@ -21,7 +21,9 @@
     {
       "name": "Narrator",
       "text": "A few sparrows are fluttering in the \ndirection of Yamanin Zephyr's gaze, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "わ、わたあめ……？"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -36,15 +38,19 @@
       "name": "Yamanin Zephyr",
       "text": "Yes... Reading the air current's path, and \nsurrendering to the wind at times. I was \ncurious what that felt like.",
       "choice_data_list": [
-        "It does feel like having total \nomnipotence.",
-        "It does look comfortable, at least.",
-        "It does look comfortable, at least."
+        "全能感はありそう",
+        "心地よさそうではあるな",
+        "心地よさそうではあるね"
       ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "I see... To weather any wind, one needs \nboth speed and power, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "全能感はありそう",
+        "心地よさそうではあるな",
+        "心地よさそうではあるね"
+      ]
     },
     {
       "name": "Mock Race Staff",
@@ -101,7 +107,9 @@
     {
       "name": "Competing Umamusume",
       "text": "Incredible, Zephyr-san! First place! Was \nyour calmness before the race part of the \nstrategy, too...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "走りが、変わった……！？"
+      ]
     },
     {
       "name": "Yamanin Zephyr",

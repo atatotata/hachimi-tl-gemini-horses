@@ -14,7 +14,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Hi, Trainer! *That's right!*"
+      "text": "Hi, Trainer! *That's right!*",
+      "choice_data_list": [
+        "こんにちは、なんだか忙しそうだね"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -29,7 +32,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "*Yes!* It's the ultimate classic for \nmoments like this♪"
+      "text": "*Yes!* It's the ultimate classic for \nmoments like this♪",
+      "choice_data_list": [
+        "ディス、地球を……？？"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -63,19 +69,23 @@
       "name": "Seeking the Pearl",
       "text": "*Yes!* Leaping out into the world to \nencounter new possibilities— I wanted to \npay my respects to such a courageous \nchallenger♪",
       "choice_data_list": [
-        "...Thanks to you, it turned into a \nwonderful observation tour."
+        "もしかして……俺の時も同じように？",
+        "もしかして……私の時も同じように？"
       ]
     },
     {
       "name": "Seeking the Pearl",
       "text": "Fufu. I merely gave you a little push. You \nshould praise yourself for seeing it \nthrough to the end!",
       "choice_data_list": [
-        "I'm sure it'll be the ultimate cheer for \nyour father too."
+        "……おかげでいい視察になったよ"
       ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "...*Thanks.* That's what I believe!"
+      "text": "...*Thanks.* That's what I believe!",
+      "choice_data_list": [
+        "お父さんにも、最高のエールになると思う"
+      ]
     },
     {
       "text": "Some time passed after that, and the day \nSeeking the Pearl's father arrived in \nJapan finally came."
@@ -138,7 +148,11 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Nice decision♪ Both I and this Earth will \nalways be cheering you on!"
+      "text": "Nice decision♪ Both I and this Earth will \nalways be cheering you on!",
+      "choice_data_list": [
+        "……俺も、何か新しい挑戦をしてみようかな",
+        "……私も、何か新しい挑戦をしてみようかな"
+      ]
     },
     {
       "text": "Some time passed after that, and the day \nSeeking the Pearl's father was scheduled \nto visit Japan arrived, however—"
@@ -173,7 +187,11 @@
     },
     {
       "name": "Pearl's Father",
-      "text": "...As her father, I must properly live up \nto that. I'll make sure this deal is a \ncomplete success and come see her again."
+      "text": "...As her father, I must properly live up \nto that. I'll make sure this deal is a \ncomplete success and come see her again.",
+      "choice_data_list": [
+        "彼女のエールに、俺も助けられました",
+        "彼女のエールに、私も助けられました"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -194,7 +212,10 @@
       ]
     },
     {
-      "text": "The mystery remains a mystery— Will the \nday ever come when the truth is revealed?"
+      "text": "The mystery remains a mystery— Will the \nday ever come when the truth is revealed?",
+      "choice_data_list": [
+        "結局、ディス地球ってなんだったんだろう"
+      ]
     }
   ]
 }

@@ -23,7 +23,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh, I didn't expect extra company! But\nthis is just\nwhat I needed. Convince Cafe\nfor me, would you?"
+      "text": "Oh, I didn't expect extra company! But\nthis is just\nwhat I needed. Convince Cafe\nfor me, would you?",
+      "choice_data_list": [
+        "何をしてるんだ？",
+        "何をしているの？"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I do... like cookies. But behind anything\nnice that\nTachyon does... is normally\nsomething sinister..."
+      "text": "I do... like cookies. But behind anything\nnice that\nTachyon does... is normally\nsomething sinister...",
+      "choice_data_list": [
+        "クッキー、嫌いなのか？",
+        "クッキー、嫌いなの？"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -55,7 +63,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Isn't that obvious? To experiment!"
+      "text": "Isn't that obvious? To experiment!",
+      "choice_data_list": [
+        "何でそんなことを……"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -107,7 +118,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ooh, this response exceeds my\nexpectations! So\nthis abnormal event is\nthe work of your \"friend\"!"
+      "text": "Ooh, this response exceeds my\nexpectations! So\nthis abnormal event is\nthe work of your \"friend\"!",
+      "choice_data_list": [
+        "（な、何が起こっているんだ……！？）",
+        "（な、何が起こっているの……！？）"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -119,11 +134,23 @@
     },
     {
       "name": "Monologue",
-      "text": "After witnessing the room shake, Agnes\nTachyon\nis attempting to provoke a\nbigger reaction..."
+      "text": "After witnessing the room shake, Agnes\nTachyon\nis attempting to provoke a\nbigger reaction...",
+      "choice_data_list": [
+        "いや、これはただの偶然だ！",
+        "いや、これはただの偶然だよ！",
+        "これ以上は、さすがに怖い……っ",
+        "これ以上は、さすがに怖いよ……っ"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I explain that I left the door open when I\nentered\nthe room, so it was likely just a\ndraft."
+      "text": "I explain that I left the door open when I\nentered\nthe room, so it was likely just a\ndraft.",
+      "choice_data_list": [
+        "いや、これはただの偶然だ！",
+        "いや、これはただの偶然だよ！",
+        "これ以上は、さすがに怖い……っ",
+        "これ以上は、さすがに怖いよ……っ"
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -42,7 +42,10 @@
     {
       "name": "Durandal",
       "text": "\"Leave it to me! I shall definitely show \nthose children the honor of a knight!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "騎士としてみんなの模範になれるといいな",
+        "騎士としてみんなの模範になれるといいね"
+      ]
     },
     {
       "name": "Children",
@@ -79,7 +82,9 @@
     {
       "name": "Durandal",
       "text": "*pant* *pant*... We somehow managed to get \nback... This time, it's onto the track...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……というか、学園ですらない！"
+      ]
     },
     {
       "name": "Deadpan Child",
@@ -190,16 +195,21 @@
       "name": "Durandal",
       "text": "Heh... Heheheh...!",
       "choice_data_list": [
-        "You were a perfect role model.",
-        "You were a perfect role model, weren't \nyou?",
-        "Back to our original tour route!",
-        "Back to our original tour route!"
+        "見事に模範になったな",
+        "見事に模範になったね",
+        "本来の見学コース再開だな！",
+        "本来の見学コース再開だね！"
       ]
     },
     {
       "name": "Child A",
       "text": "Yeah! I wanna become a knight just like \nSir Durandal~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "見事に模範になったな",
+        "見事に模範になったね",
+        "本来の見学コース再開だな！",
+        "本来の見学コース再開だね！"
+      ]
     },
     {
       "name": "Zenno Rob Roy",

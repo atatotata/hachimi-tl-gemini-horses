@@ -21,7 +21,9 @@
     {
       "name": "Dantsu Flame",
       "text": "It's true~. It doesn't hurt that much, so \nI'm fine!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "本当に？"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -34,7 +36,10 @@
     {
       "name": "Narrator",
       "text": "Don't underestimate it just because it's a \nminor injury. Let's wait and see how you \ndo before moving around.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今は安静にしないと",
+        "軽いランニングだけなら"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -46,7 +51,9 @@
     {
       "name": "Dantsu Flame",
       "text": "Mmm... That makes sense. I guess I'll take \nit easy for a while, then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "悪化したら、もっと長くお休みになるから"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -74,14 +81,16 @@
       "name": "Dantsu Flame",
       "text": "Wait, shiritori...?",
       "choice_data_list": [
-        "No, you wouldn't do that, right...",
-        "No, you wouldn't do that, would you..."
+        "…………しりとりとか、どう？"
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "Um, no, sounds good to me! Let's go \nwith... apple, an apple!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、やらないよな……",
+        "いや、やらないよね……"
+      ]
     },
     {
       "name": "Narrator",
@@ -98,7 +107,9 @@
     {
       "name": "Dantsu Flame",
       "text": "Yes, of course!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "無理だけはしないように"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -141,7 +152,10 @@
     {
       "name": "Narrator",
       "text": "And so, Dantsu Flame overcame her injury \nand made a smooth comeback.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、無理はするなよ！",
+        "うん、無理はしないでね！"
+      ]
     }
   ]
 }

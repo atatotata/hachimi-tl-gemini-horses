@@ -22,13 +22,15 @@
       "name": "Narrator",
       "text": "Changing her route might cause a few small \nripples. But once they see her shining \neven brighter, those around her will only \nexpect even greater things.",
       "choice_data_list": [
-        "(No, it's definitely going to happen—)"
+        "（……大丈夫）"
       ]
     },
     {
       "name": "Daiichi Ruby",
       "text": "...Huh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（いや、絶対にそうなる――）"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -55,7 +57,9 @@
     {
       "name": "Doctor",
       "text": "Rest assured. The symptoms aren't severe. \nIt's thanks to you calling me right away \nthe moment something felt off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Doctor",
@@ -67,7 +71,9 @@
     {
       "name": "Daiichi Ruby",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（でも、きっとルビーは……）"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -100,7 +106,10 @@
     {
       "name": "Doctor",
       "text": "\"Still... are you truly certain? Forgive \nme if I am speaking out of turn, but \nweren't the Shuka Sho and Queen Elizabeth \nII Cup your dreams...?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -152,7 +161,9 @@
     {
       "name": "Reporter A",
       "text": "Does that mean she might sit out the rest \nof the year...? Are both the Shuka Sho and \nthe Queen Elizabeth II Cup out of the \nquestion?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい、問題ございません"
+      ]
     },
     {
       "name": "Reporter B",
@@ -305,7 +316,10 @@
     {
       "name": "Daiichi Ruby",
       "text": "There is no need for your concern. \nEverything is well within expectations.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日は大変だったな",
+        "今日は大変だったね"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -322,7 +336,9 @@
     {
       "name": "Daiichi Ruby",
       "text": "Now then...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "かしこまりました！"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -334,7 +350,9 @@
     {
       "name": "Daiichi Ruby",
       "text": "There are still some days left before the \nnew year, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ルビー？"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -346,7 +364,9 @@
     {
       "name": "Narrator",
       "text": "And so, the next target race was decided: \nthe Senior Spring Takamatsunomiya Kinen!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よろしくお願いします！"
+      ]
     }
   ]
 }

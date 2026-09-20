@@ -17,13 +17,15 @@
       "name": "Mejiro Ramonu",
       "text": "...Looks like our conversation is over.",
       "choice_data_list": [
-        "Huh? No, not yet..."
+        "（すごく視線を感じる……）"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "Lacking focus. I simply cannot bear to \nlisten to someone in that state.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え？いや、まだ……"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -47,13 +49,16 @@
       "name": "Sweep Tosho",
       "text": "Isn't it obvious?! I came to catch the \ndecisive moment when Ramonu uses her \nmagic!",
       "choice_data_list": [
-        "Magic?"
+        "君……どうしたの？",
+        "貴方……どうしたの？"
       ]
     },
     {
       "name": "Sweep Tosho",
       "text": "That's right! It has to be!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "魔法？"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -86,7 +91,10 @@
     {
       "name": "Narrator",
       "text": "\"While Sweep Tosho was absorbed in \ntalking, Mejiro Ramonu had already slipped \naway, giving me nothing more than a \npassing glance.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ごめんな……",
+        "ごめんね……"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -99,7 +107,10 @@
     {
       "name": "Sweep Tosho",
       "text": "Is this really the time to be emotionally \nwounded!? Let's chase after them!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "本当にな……",
+        "本当にね……"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -127,7 +138,10 @@
     {
       "name": "Mejiro Ramonu",
       "text": "Heh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君の魔法を見たいらしくて……",
+        "貴方の魔法を見たいらしくて……"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -145,29 +159,31 @@
       "name": "Sweep Tosho",
       "text": "What, if you knew, you should have told me \nearlier! So, what kind of magic is it?!",
       "choice_data_list": [
-        "Her magic is speed!",
-        "Just let the magic enchant you and learn."
+        "（やっぱり丸投げされた！）"
       ]
     },
     {
       "name": "Sweep Tosho",
       "text": "Huh? Speed?",
       "choice_data_list": [
-        "Oh, right!",
-        "Yeah, that's right!"
+        "彼女の魔法はスピードだ！",
+        "魔法にかかって学べばいい"
       ]
     },
     {
       "name": "Narrator",
       "text": "The greatest magic Mejiro Ramonu \npossesses... the thing that captivates \npeople the most is, without a doubt, her \nrunning. And among all her qualities, her \nspeed is truly beautiful.",
       "choice_data_list": [
-        "For example, during a certain training \nsession—"
+        "ああ、そうだ！",
+        "うん、そうなの！"
       ]
     },
     {
       "name": "Narrator",
       "text": "So, I spoke about Mejiro Ramonu's \nmesmerizing running up to this point. I \nthought Sweep Tosho would understand once \nshe learned of its charm, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "例えば、あるトレーニング中――"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -179,7 +195,9 @@
     {
       "name": "Sweep Tosho",
       "text": "The way you talk is way too passionate, \nit's scary! You're... don't tell me you've \nalready fallen completely under their \nspell?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え゛っ"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -191,7 +209,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "...Giggle.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ラモーヌ"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -213,7 +233,9 @@
     {
       "name": "Sweep Tosho",
       "text": "\"...Does that mean... I'm gonna be \ncompletely captivated by Ramonu?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "実践で覚えるのが1番だから"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -251,7 +273,10 @@
     {
       "name": "Mejiro Ramonu",
       "text": "Really? Guess that makes us accomplices, \nhuh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君のほうがね",
+        "貴方のほうがね"
+      ]
     }
   ]
 }

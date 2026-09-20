@@ -138,7 +138,11 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "Alright! Let's go make it right away! Is \nthe Miho Dorm kitchen good?"
+      "text": "Alright! Let's go make it right away! Is \nthe Miho Dorm kitchen good?",
+      "choice_data_list": [
+        "……まあ、大丈夫か",
+        "その組み合わせはちょっと難しいんじゃ……"
+      ]
     },
     {
       "name": "Efforia",
@@ -164,7 +168,11 @@
     },
     {
       "name": "Efforia",
-      "text": "—...Having our training hindered would \ncertainly be undesirable."
+      "text": "—...Having our training hindered would \ncertainly be undesirable.",
+      "choice_data_list": [
+        "でも、お腹とか壊したら大変だぞ？",
+        "でも、お腹とか壊したら大変だよ？"
+      ]
     },
     {
       "name": "Epiphaneia",

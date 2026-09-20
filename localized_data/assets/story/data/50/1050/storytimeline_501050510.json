@@ -15,7 +15,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Umamusume are known for their\nravenous\nappetites, but Narita Taishin is\na comparatively\nlight eater."
+      "text": "Umamusume are known for their\nravenous\nappetites, but Narita Taishin is\na comparatively\nlight eater.",
+      "choice_data_list": [
+        "……無理して食べない方がいいぞ？",
+        "……無理して食べない方がいいよ？"
+      ]
     },
     {
       "name": "Monologue",
@@ -87,11 +91,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Telling Narita Taishin not to do this\nlikely won't\nwork since she's so stubborn.\nBut I should at least\nsuggest the\nsafer-sounding one!"
+      "text": "Telling Narita Taishin not to do this\nlikely won't\nwork since she's so stubborn.\nBut I should at least\nsuggest the\nsafer-sounding one!",
+      "choice_data_list": [
+        "ま、待ったぁー！！"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "What are you jumping in for? Whatever.\nI was fine\nwith either choice anyway."
+      "text": "What are you jumping in for? Whatever.\nI was fine\nwith either choice anyway.",
+      "choice_data_list": [
+        "消化速度を著しく上げる薬を勧める",
+        "栄養摂取効率を上げる薬を勧める"
+      ]
     },
     {
       "name": "Monologue",

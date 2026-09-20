@@ -11,7 +11,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Oh, hello, Trainer. I'm Muddled Machan."
+      "text": "Oh, hello, Trainer. I'm Muddled Machan.",
+      "choice_data_list": [
+        "何をうなってるんだ？",
+        "何をうなってるの？"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -75,7 +79,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Naturally. You're my trainer. Your eyes\nare a lens\nfocused exclusively on me."
+      "text": "Naturally. You're my trainer. Your eyes\nare a lens\nfocused exclusively on me.",
+      "choice_data_list": [
+        "俺が決めるのか！？",
+        "私が決めるの！？"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -103,15 +111,29 @@
     },
     {
       "name": "Aston Machan",
-      "text": "So let's get right to it, Trainer. Tell me\n\nstraight—the dish I should make is..."
+      "text": "So let's get right to it, Trainer. Tell me\n\nstraight—the dish I should make is...",
+      "choice_data_list": [
+        "君の好きな食べ物にしよう",
+        "貴方の好きな食べ物にしよう",
+        "見た目にインパクトがあるものにしよう！"
+      ]
     },
     {
       "name": "Aston Machan",
-      "text": "Ooh... And why's that?"
+      "text": "Ooh... And why's that?",
+      "choice_data_list": [
+        "君の好きな食べ物にしよう",
+        "貴方の好きな食べ物にしよう",
+        "見た目にインパクトがあるものにしよう！"
+      ]
     },
     {
       "name": "Aston Machan",
-      "text": "Impressive. Okay, in that case, let's go\nwith what I\nlike."
+      "text": "Impressive. Okay, in that case, let's go\nwith what I\nlike.",
+      "choice_data_list": [
+        "君が好きだと思えばより記憶に残るから",
+        "貴方が好きだと思えばより記憶に残るから"
+      ]
     },
     {
       "name": "Aston Machan",

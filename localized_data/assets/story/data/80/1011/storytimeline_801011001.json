@@ -11,7 +11,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh my! Hello."
+      "text": "Oh my! Hello.",
+      "choice_data_list": [
+        "何か困ってるのか？",
+        "何か困ってるの？"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -23,7 +27,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Let's see... <i>The Secrets to Running,</i> <i>The\nEssence\nof Speed,</i> <i>Running Stride: A\nRacing Memoir,</i> as\nwell as..."
+      "text": "Let's see... <i>The Secrets to Running,</i> <i>The\nEssence\nof Speed,</i> <i>Running Stride: A\nRacing Memoir,</i> as\nwell as...",
+      "choice_data_list": [
+        "どんな本を探してるんだ？",
+        "どんな本を探してるの？"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +39,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "That's a good point. I'll start reading it\nnow.\nWasting my limited time\noverthinking this won't\ndo me any good\nanyway."
+      "text": "That's a good point. I'll start reading it\nnow.\nWasting my limited time\noverthinking this won't\ndo me any good\nanyway.",
+      "choice_data_list": [
+        "まずは見つけた1冊をじっくり読もう",
+        "一緒に探そうか？"
+      ]
     },
     {
       "name": "Grass Wonder",

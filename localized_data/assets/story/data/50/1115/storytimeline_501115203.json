@@ -63,13 +63,16 @@
       "name": "",
       "text": "I murmur to myself, suddenly realizing. \nThere is nothing left for me to do but \npray. My job as a Trainer ends here...",
       "choice_data_list": [
-        "(In that case, at least I can put my \nfeelings into it...!)"
+        "あとは勝つだけ、だな",
+        "あとは勝つだけ、だね"
       ]
     },
     {
       "name": "",
       "text": "The gold pendant swayed against my chest. \nAs I unconsciously touched it... I \nsuddenly realized Orfevre was staring at \nme.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（なら、せめて想いを込めて……！）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -91,7 +94,9 @@
     {
       "name": "Orfevre",
       "text": "Speak your true thoughts.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……"
+      ]
     },
     {
       "name": "Orfevre",
@@ -109,22 +114,24 @@
       "name": "",
       "text": "Orfevre is questioning my resolve... \nasking if I feel the pressure. If so, my \nanswer is already clear—",
       "choice_data_list": [
-        "...I am the staff that guides you.",
-        "...I am the staff that guides you."
+        "……！"
       ]
     },
     {
       "name": "Orfevre",
       "text": "...Which means?",
       "choice_data_list": [
-        "You truly are... the King.",
-        "You are the true king."
+        "……俺は、君を導く杖だ",
+        "……私は、貴方を導く杖だ"
       ]
     },
     {
       "name": "Orfevre",
       "text": "...I see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君こそが、王だ",
+        "貴方こそが、王だよ"
+      ]
     },
     {
       "name": "Orfevre",
@@ -151,7 +158,9 @@
     {
       "name": "Dream Journey",
       "text": "...No, let's leave it. For now, just stay \nlike that... and think only of Orfevre.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -164,7 +173,10 @@
     {
       "name": "",
       "text": "There was an extraordinary tension in the \npaddock that day. The appearance of a \nsingle Umamusume completely transformed \nthe atmosphere—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……！",
+        "うん……！"
+      ]
     },
     {
       "name": "Spectators",

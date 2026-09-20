@@ -13,7 +13,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Ruby-san, you came as well? I did not see \nyou on the shuttle bus..."
+      "text": "Ruby-san, you came as well? I did not see \nyou on the shuttle bus...",
+      "choice_data_list": [
+        "……？"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -54,7 +57,10 @@
       ]
     },
     {
-      "text": "Shortly after the obstacle agility course \nbegan, Saphir, watching the event, grew \nvisibly restless."
+      "text": "Shortly after the obstacle agility course \nbegan, Saphir, watching the event, grew \nvisibly restless.",
+      "choice_data_list": [
+        "そ、そろそろ次の競技が始まるから観ようか"
+      ]
     },
     {
       "name": "Saphir",
@@ -133,7 +139,11 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "......"
+      "text": "......",
+      "choice_data_list": [
+        "確かに競技見てからソワソワし始めたよな",
+        "確かに競技見てからソワソワし始めたよね"
+      ]
     },
     {
       "name": "Daiichi Ruby",

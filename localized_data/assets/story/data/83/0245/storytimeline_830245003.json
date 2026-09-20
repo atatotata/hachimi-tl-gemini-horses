@@ -47,7 +47,11 @@
     },
     {
       "name": "Narrator",
-      "text": "—And so, race day arrived. I was curious \nmyself, so I joined Vodka to watch her \njunior's run."
+      "text": "—And so, race day arrived. I was curious \nmyself, so I joined Vodka to watch her \njunior's run.",
+      "choice_data_list": [
+        "（レースに向けて、仕上がってきてるな）",
+        "（レースに向けて、仕上がってきてるね）"
+      ]
     },
     {
       "name": "Vodka",
@@ -102,7 +106,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Heheh, hell yeah!"
+      "text": "Heheh, hell yeah!",
+      "choice_data_list": [
+        "優しくて、的確なエールだったよ！"
+      ]
     },
     {
       "name": "Vodka",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Yeah. I've got the handiest hands\naround,\ndon'tcha know? I do a lot of\nneedlework and\ncooking."
+      "text": "Yeah. I've got the handiest hands\naround,\ndon'tcha know? I do a lot of\nneedlework and\ncooking.",
+      "choice_data_list": [
+        "手芸用品？"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -67,7 +70,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Man, what a mess. You're lucky I was the\none to\ncatch it!"
+      "text": "Man, what a mess. You're lucky I was the\none to\ncatch it!",
+      "choice_data_list": [
+        "え！？"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -75,11 +81,21 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hand it over! I'll mend it up for you in\nthe blink of\nan eye!"
+      "text": "Hand it over! I'll mend it up for you in\nthe blink of\nan eye!",
+      "choice_data_list": [
+        "わかった、豪快に頼む",
+        "わかった、豪快にお願い",
+        "時間がかかっても自分でやるよ"
+      ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Haha, no worries! Let's go to the park\nand find us\na bench!"
+      "text": "Haha, no worries! Let's go to the park\nand find us\na bench!",
+      "choice_data_list": [
+        "わかった、豪快に頼む",
+        "わかった、豪快にお願い",
+        "時間がかかっても自分でやるよ"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -95,7 +111,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh, that was light work!"
+      "text": "Heh, that was light work!",
+      "choice_data_list": [
+        "ありがとう、バッチリだ",
+        "ありがとう、バッチリだよ"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -135,11 +155,18 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Did you prick yourself with the needle?!"
+      "text": "Did you prick yourself with the needle?!",
+      "choice_data_list": [
+        "痛っ！"
+      ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "No worries?! We need to take care of it\nnow!\nHang on, I always keep some\nbandages on me\ntoo!"
+      "text": "No worries?! We need to take care of it\nnow!\nHang on, I always keep some\nbandages on me\ntoo!",
+      "choice_data_list": [
+        "心配ない、大丈夫だ",
+        "心配ないよ、大丈夫"
+      ]
     },
     {
       "name": "Hishi Amazon",

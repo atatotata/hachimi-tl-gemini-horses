@@ -22,7 +22,10 @@
     {
       "name": "Sakura Bakushin O",
       "text": "It's a Bakushin-style patrol! Word has it \nthat a 'Slit-Mouthed Snippy Umamusume' has \nbeen roaming the grounds!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "2人は何をしているんだ？",
+        "2人は何をしているの？"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -61,13 +64,16 @@
       "name": "Biko Pegasus",
       "text": "T-T-That's not true at all, you know? \n'Cause I'm a hero...!",
       "choice_data_list": [
-        "Being able to show your weakness is a form \nof strength too."
+        "もしかして怖いのか？",
+        "もしかして怖い？"
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "................ ...Truth is, I'm not very \ngood with them. Ghosts, that is...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "弱さを明かせるのは強さでもあるよ"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -79,7 +85,9 @@
     {
       "name": "Biko Pegasus",
       "text": "T-That won't do! There are folks who are \nterrified of the rumors—!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それなら無理に見回りをしなくても……"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -130,16 +138,21 @@
       "name": "Biko Pegasus",
       "text": "That's—what a hero iiiis!!!!",
       "choice_data_list": [
-        "I'm... going with you too!!",
-        "I... I'm coming with you too!!",
-        "Hold on, Biko!",
-        "Wait, Biko!"
+        "俺も……一緒に行くぞ！！",
+        "私も……一緒に行くよ！！",
+        "待つんだ、ビコー！",
+        "待って、ビコー！"
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "WOOOOOOOOOOOAAAH!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も……一緒に行くぞ！！",
+        "私も……一緒に行くよ！！",
+        "待つんだ、ビコー！",
+        "待って、ビコー！"
+      ]
     },
     {
       "name": "Narrator",
@@ -202,7 +215,10 @@
     {
       "name": "Narrator",
       "text": "Even though it was a misunderstanding, she \nfaced the object of her fear to save \nsomeone else. I told her that she looked \nincredibly cool doing it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そんなことないぞ",
+        "そんなことないよ"
+      ]
     },
     {
       "name": "Biko Pegasus",

@@ -12,14 +12,16 @@
       "name": "Cheval Grand",
       "text": "Ah, hello...",
       "choice_data_list": [
-        "…You're really enjoying yourself, huh!",
-        "…You're really enjoying yourself, aren't \nyou!"
+        "ヴィルシーナ、シュヴァル――"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...T-This is... My sister forced me to...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……満喫してるな！",
+        "……満喫してるね！"
+      ]
     },
     {
       "name": "Verxina",
@@ -112,7 +114,10 @@
     {
       "name": "Cheval Grand",
       "text": "Yes. Coming in second at the Prix de l'Arc \nde Triomphe was so very close, after \nall...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "やっぱりオルフェは突き抜けてるよな",
+        "やっぱりオルフェは突き抜けてるよね"
+      ]
     },
     {
       "name": "Verxina",
@@ -130,7 +135,10 @@
     {
       "name": "Verxina",
       "text": "...Because it must be so. After all, she \nis... my rival.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……彼女の力を信じてるんだな",
+        "……彼女の力を信じてるんだね"
+      ]
     },
     {
       "name": "Verxina",
@@ -168,7 +176,10 @@
     {
       "name": "Race Fan B",
       "text": "Wah-wah, could she actually go \nwire-to-wire with this!? Ah, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "けど……先頭の子もペース落ちないぞ",
+        "けど……先頭の子もペース落ちないよ"
+      ]
     },
     {
       "name": "Spectators",
@@ -260,7 +271,9 @@
     {
       "name": "Spectators",
       "text": "Whoaaaa...! History has been rewritten...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ジェンティルドンナが、勝った……！"
+      ]
     },
     {
       "name": "Spectators",
@@ -324,13 +337,16 @@
       "name": "Verxina",
       "text": "—...ru.",
       "choice_data_list": [
-        "Huh?"
+        "悔しいけど、やっぱり強いな……",
+        "悔しいけど、やっぱり強いね……"
       ]
     },
     {
       "name": "Verxina",
       "text": "Ah!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Verxina",
@@ -342,7 +358,9 @@
     {
       "name": "Verxina",
       "text": "No, I am fine on my own. Please look after \nCheval.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "大丈夫？向こうで休もうか"
+      ]
     },
     {
       "name": "Verxina",

@@ -128,14 +128,17 @@
       "name": "Sakura Laurel",
       "text": "During this summer training camp, I've \nbeen watching Brian-chan run.",
       "choice_data_list": [
-        "Yeah, that was it.",
-        "Yeah, that was the case, wasn't it?"
+        "ああ……聞くよ",
+        "うん……聞くよ"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "And I'm sure you've noticed as well, \nTrainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、そうだったな",
+        "うん、そうだったね"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -228,7 +231,10 @@
     {
       "name": "Sakura Laurel",
       "text": "Yes. I don't see this as a detour or a \nside trip for myself.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それが君の『凱旋門賞』を目指す道？",
+        "それが貴方の『凱旋門賞』を目指す道？"
+      ]
     },
     {
       "name": "Sakura Laurel",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "I think I... No! I am! Really!"
+      "text": "I think I... No! I am! Really!",
+      "choice_data_list": [
+        "本当に大丈夫？"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -23,11 +26,18 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yes... But I..."
+      "text": "Yes... But I...",
+      "choice_data_list": [
+        "無理することが大人ではないよ",
+        "できることを探そう"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...You're right. It would be bad if I made\nmy injury\nworse."
+      "text": "...You're right. It would be bad if I made\nmy injury\nworse.",
+      "choice_data_list": [
+        "リスクの少ない選択を取ろう"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -51,7 +61,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "I felt a jolt in my leg..."
+      "text": "I felt a jolt in my leg...",
+      "choice_data_list": [
+        "痛むのか……？",
+        "痛むの……？"
+      ]
     },
     {
       "name": "Nishino Flower",

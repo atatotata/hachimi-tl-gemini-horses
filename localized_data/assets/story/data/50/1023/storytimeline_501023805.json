@@ -16,7 +16,9 @@
     {
       "name": "Biwa Hayahide",
       "text": "Oh, that book... so it was with you, Kris \nS? I was just looking for it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "誰かがここで読んでいるのかも？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -44,7 +46,10 @@
     {
       "name": "Symboli Kris S",
       "text": "...That would be a great help. Right \nnow... I'm stuck right here...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、クリスエスがよければどうかな？",
+        "うん、クリスエスがよければどうかな？"
+      ]
     },
     {
       "name": "Narrator",
@@ -117,7 +122,10 @@
     {
       "name": "Biwa Hayahide",
       "text": "Ahahaha. Not to boast, but I've been a big \nsister for quite a long time.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、本当のお姉さんみたいだよ",
+        "うん、本当のお姉さんみたいだよ"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -155,7 +163,10 @@
     {
       "name": "Biwa Hayahide",
       "text": "That's a misleading way to put it, \nTrainer-kun. I'm still kind even now, \naren't I? Fufu.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "優しいお姉さんだったんだな",
+        "優しいお姉さんだったんだね"
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -176,16 +187,21 @@
       "name": "Biwa Hayahide",
       "text": "Feel free to rely on me whenever you wish, \nthen. I certainly don't mind being leaned \non!",
       "choice_data_list": [
-        "When Hayahide wants to lean on someone, \nI'll step up.",
-        "When Hayahide wants to lean on someone, \nI'll step up.",
-        "I guarantee they're reliable!",
-        "I guarantee they're reliable!"
+        "ハヤヒデが甘えたい時は俺が頑張ろう",
+        "ハヤヒデが甘えたい時は私が頑張ろう",
+        "頼りになるのは俺が保証するよ！",
+        "頼りになるのは私が保証するよ！"
       ]
     },
     {
       "name": "Biwa Hayahide",
       "text": "\"I appreciate the thought, but... no. I'm \nnot quite used to leaning on others, you \nsee.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ハヤヒデが甘えたい時は俺が頑張ろう",
+        "ハヤヒデが甘えたい時は私が頑張ろう",
+        "頼りになるのは俺が保証するよ！",
+        "頼りになるのは私が保証するよ！"
+      ]
     },
     {
       "name": "Biwa Hayahide",

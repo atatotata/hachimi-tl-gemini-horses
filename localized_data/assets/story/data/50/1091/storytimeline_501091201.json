@@ -46,7 +46,9 @@
     {
       "name": "Narrator",
       "text": "This time, the school nurse accompanied us \nto ensure there were no major issues with \nVivlos's physical condition.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうですか……！"
+      ]
     },
     {
       "name": "School Nurse",
@@ -74,7 +76,10 @@
     {
       "name": "Vivlos",
       "text": "Yeah!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あとは本番、頑張るだけだな",
+        "あとは本番、頑張るだけだね"
+      ]
     },
     {
       "name": "Vivlos",
@@ -96,7 +101,9 @@
     {
       "name": "Vivlos",
       "text": "...Ehehe. Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……もしかして緊張してる？"
+      ]
     },
     {
       "name": "Vivlos",
@@ -119,7 +126,10 @@
     {
       "name": "Vivlos",
       "text": "You think so...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君ならできる、大丈夫",
+        "貴方ならできる、大丈夫"
+      ]
     },
     {
       "name": "Vivlos",
@@ -133,13 +143,16 @@
       "name": "Narrator",
       "text": "Vivlos has worked hard over the past few \nmonths while carefully managing her \ncondition. Having watched her up close, I \ncan say for sure—",
       "choice_data_list": [
-        "Hard work never betrays you."
+        "ああ！",
+        "うん！"
       ]
     },
     {
       "name": "Vivlos",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "努力は裏切らない"
+      ]
     },
     {
       "name": "Verxina",
@@ -173,13 +186,16 @@
       "name": "Narrator",
       "text": "Watching Vivlos leave, I let out a small \nbreath. Just like her, I was feeling a bit \nnervous too.",
       "choice_data_list": [
-        "(Please... be safe...)"
+        "頑張れ！",
+        "頑張って！"
       ]
     },
     {
       "name": "Verxina",
       "text": "Vivlos...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（どうか……無事に）"
+      ]
     },
     {
       "name": "Verxina",

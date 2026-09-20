@@ -162,7 +162,10 @@
     {
       "name": "Cheval Grand",
       "text": "...Y-Yes. I managed to do the job I was \nassigned properly...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何かいいことでもあったのか？",
+        "何かいいことでもあったの？"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -177,15 +180,19 @@
       "name": "Cheval Grand",
       "text": "All I did was collect the handouts for \nclass, but... I'm just, happy I was able \nto do it, I guess...",
       "choice_data_list": [
-        "So you managed to breeze through the work?",
-        "You gathered enough for everyone. Good \njob.",
-        "You gathered enough for everyone. Good \njob."
+        "テキパキ仕事をこなせたんだ？",
+        "全員ぶん集めたんだ、偉いな",
+        "全員ぶん集めたんだ、偉いね"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "N-No! ...That's not true. I was just \nnervous talking to everyone...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "テキパキ仕事をこなせたんだ？",
+        "全員ぶん集めたんだ、偉いな",
+        "全員ぶん集めたんだ、偉いね"
+      ]
     },
     {
       "name": "Cheval Grand",

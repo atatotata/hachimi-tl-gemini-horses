@@ -75,11 +75,19 @@
     },
     {
       "name": "Inari One",
-      "text": "Tell me, Boss! What should I run in next?"
+      "text": "Tell me, Boss! What should I run in next?",
+      "choice_data_list": [
+        "その前に、少しいいか？",
+        "その前に、少しいいかな？"
+      ]
     },
     {
       "name": "Inari One",
-      "text": "Hm? What's the deal?"
+      "text": "Hm? What's the deal?",
+      "choice_data_list": [
+        "その前に、少しいいか？",
+        "その前に、少しいいかな？"
+      ]
     },
     {
       "name": "Monologue",
@@ -95,7 +103,11 @@
     },
     {
       "name": "Inari One",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "……気を張り過ぎてないか？",
+        "……気を張り過ぎてない？"
+      ]
     },
     {
       "name": "Inari One",
@@ -139,11 +151,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Sounds good! I'm gonna leave my mark\nthere the\nsame way I did in spring 'n'\nshock the world with\nwhat I've got!"
+      "text": "Sounds good! I'm gonna leave my mark\nthere the\nsame way I did in spring 'n'\nshock the world with\nwhat I've got!",
+      "choice_data_list": [
+        "――『天皇賞（秋）』を目指そう"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "It's all but certain that Oguri Cap and\nSuper\nCreek will be coming back from\ntheir time off for\nthe autumn Tenno Sho."
+      "text": "It's all but certain that Oguri Cap and\nSuper\nCreek will be coming back from\ntheir time off for\nthe autumn Tenno Sho.",
+      "choice_data_list": [
+        "これまでで1番厳しい戦いになるぞ",
+        "これまでで1番厳しい戦いになるよ"
+      ]
     },
     {
       "name": "Inari One",
@@ -155,7 +174,10 @@
     },
     {
       "name": "Monologue",
-      "text": "If we use the Mainichi Okan as a lead-in\nto the\nautumn Tenno Sho, we'll have a\nchance to do\nlast-minute adjustments as\nneeded."
+      "text": "If we use the Mainichi Okan as a lead-in\nto the\nautumn Tenno Sho, we'll have a\nchance to do\nlast-minute adjustments as\nneeded.",
+      "choice_data_list": [
+        "いや、『毎日王冠』にも出よう"
+      ]
     },
     {
       "name": "Monologue",

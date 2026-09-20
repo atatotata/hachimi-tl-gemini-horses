@@ -55,7 +55,11 @@
     },
     {
       "name": "Agnes Digital",
-      "text": "I know... It's almost like I've lost the very\nreason I\nchoose to run..."
+      "text": "I know... It's almost like I've lost the very\nreason I\nchoose to run...",
+      "choice_data_list": [
+        "でも元気はなくなってるよな？",
+        "でも元気はなくなってるよね？"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -63,11 +67,17 @@
     },
     {
       "name": "Agnes Digital",
-      "text": "What? Quit? You don't mean <i>racing,</i> do\nyou?"
+      "text": "What? Quit? You don't mean <i>racing,</i> do\nyou?",
+      "choice_data_list": [
+        "なら、もうやめたら？"
+      ]
     },
     {
       "name": "Agnes Digital",
-      "text": "Whaaaaat? But... I made a decision. I\ncan't go\nback on my word!"
+      "text": "Whaaaaat? But... I made a decision. I\ncan't go\nback on my word!",
+      "choice_data_list": [
+        "そうじゃなくて正統派ウマ娘を"
+      ]
     },
     {
       "name": "Monologue",

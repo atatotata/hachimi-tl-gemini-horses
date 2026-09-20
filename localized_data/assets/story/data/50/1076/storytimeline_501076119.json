@@ -17,7 +17,10 @@
     {
       "name": "",
       "text": "Together with Sakura Laurel, I head toward \nthe stage where the MC is waiting.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、ああ！",
+        "う、うん！"
+      ]
     },
     {
       "name": "",
@@ -40,14 +43,16 @@
       "name": "",
       "text": "Her eager attitude is one of her strong \npoints, but if she accepts everything, \nSakura Laurel won't have any personal time \nleft.",
       "choice_data_list": [
-        "Let's pick something that won't be a \nburden on you.",
-        "Let's pick something that won't be a \nburden on you."
+        "待って、待って！"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "............ Understood.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "選ぼう、君に負担がかからないように",
+        "選ぼう、貴方に負担がかからないように"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -135,13 +140,15 @@
       "name": "Sakura Laurel",
       "text": "Not at all. I put my all into that speech, \nso I'm completely satisfied.",
       "choice_data_list": [
-        "Why don't we take a little break somewhere \nbefore heading back?"
+        "お疲れ様"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "Are you sure? Then along with tea, I'd \nalso like some sweet treats.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どこかひと息入れてから帰ろうか"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -164,13 +171,15 @@
       "name": "Sakura Bakushin O",
       "text": "Yes! This is a ceremony honoring the \nVictory Club alumni who conquered the \nGrand Prix! The attendees will be the two \nof you and the four of us!",
       "choice_data_list": [
-        "So basically, like an after-party...?"
+        "せ、セレモニー！？"
       ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "No! It's a ceremony!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それはつまり、打ち上げ的な……？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -199,14 +208,17 @@
       "name": "Both",
       "text": "...! Hooray!!",
       "choice_data_list": [
-        "Thank you all so much for everything, \ntruly.",
-        "Thank you all so much for everything, \ntruly"
+        "ああ、労わってもらおうか",
+        "うん、労わってもらおうか"
       ]
     },
     {
       "name": "Sakura Chiyono O",
       "text": "Not at all! I've laid everything out over \non that picnic mat, so please, help \nyourself!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君たちも、本当に色々とありがとう",
+        "貴方たちも、本当に色々とありがとう"
+      ]
     },
     {
       "name": "",

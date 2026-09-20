@@ -32,14 +32,16 @@
       "name": "Jungle Pocket",
       "text": "\"...No clue. For now, let's go ask them \nwhat's up.\"",
       "choice_data_list": [
-        "I'll go too!",
-        "I'm coming too!"
+        "L/Roarsが内部崩壊……？どういうこと？"
       ]
     },
     {
       "name": "L/Roars Leader",
       "text": "Aren't you ashamed of yourself, spreading \nfalse rumors like that?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も行くよ！",
+        "私も行くよ！"
+      ]
     },
     {
       "name": "Leader of the Giant Ks",
@@ -86,7 +88,9 @@
     {
       "name": "Undercut Umamusume",
       "text": "I'm suggesting to the others that we \n'leave L/Roars and take them down.' If \nmore members defect, L/Roars will start to \nwaver, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうしてそんな噂を……？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -118,7 +122,9 @@
     {
       "name": "Jungle Pocket",
       "text": "No way in hell!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ポッケ？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -136,31 +142,33 @@
       "name": "",
       "text": "A terrifying pressure blankets the area, \nswallowing everything whole. It is the \nwrath radiating from Jungle Pocket. Her \neyes gleam brightly as she locks onto her \nprey.",
       "choice_data_list": [
-        "Stop Pocket!",
-        "Let's ask the leader of L/Roars for help.",
-        "We'll have to let the other team get \naway..."
+        "（ポッケ、キレてる……！？）"
       ]
     },
     {
       "name": "",
       "text": "—Steeling my resolve, I dashed out in \nfront of her. Standing right before her, I \nwas even more overwhelmed by her sheer \npresence. My knees began to tremble \nuncontrollably.",
       "choice_data_list": [
-        "Calm down! You don't need to deal with \nthem!",
-        "Calm down! You don't need to deal with \nthem!"
+        "ポッケを止める！",
+        "L/Roarsの総長に協力を求めよう",
+        "相手チームを逃がすしかない……"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Aaaargh?!",
       "choice_data_list": [
-        "If it's L/Roars, they'll be fine, right?!",
-        "If it's L/Roars, they'll be fine, won't \nthey?!"
+        "落ち着いて！君が相手する必要はない！",
+        "落ち着いて！貴方が相手する必要はない！"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Nnnrrrgghhh, AAAAAAAHHHHHHHHHHHHHH!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "L/Roarsなら大丈夫なんだろ！",
+        "L/Roarsなら大丈夫なんでしょ！"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -228,7 +236,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Aaaargh?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "逃げろ！！",
+        "逃げて！！"
+      ]
     },
     {
       "name": "",
@@ -262,14 +273,17 @@
       "name": "Jungle Pocket",
       "text": "\"Whoa, stop right there! You actually \nstepped in front of the Roaring Demon?! \nYou've got some serious guts! Ahahaha!\"",
       "choice_data_list": [
-        "You're not mad?",
-        "You're not mad?"
+        "あの時、止めて悪かった。でも……",
+        "あの時、止めて悪かったと思う。でも……"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Not at all. Though I was surprised.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "怒ってないのか？",
+        "怒ってないの？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -292,7 +306,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Hahaha! Well then, keep watch right by my \nside at all times. Deal?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ！？それはやめてくれ！",
+        "えっ！？それはやめて！？"
+      ]
     }
   ]
 }

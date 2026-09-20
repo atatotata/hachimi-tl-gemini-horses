@@ -61,7 +61,11 @@
     },
     {
       "name": "Loves Only You",
-      "text": "No, not yet. I mean, look how hard she's \ntrying."
+      "text": "No, not yet. I mean, look how hard she's \ntrying.",
+      "choice_data_list": [
+        "声、かけてあげないのか？",
+        "声、かけてあげないの？"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -86,7 +90,10 @@
       ]
     },
     {
-      "text": "I figured that, as long as it was a third \nparty like me asking, and not Loves Only \nYou, then it wouldn't affect her too \nbadly."
+      "text": "I figured that, as long as it was a third \nparty like me asking, and not Loves Only \nYou, then it wouldn't affect her too \nbadly.",
+      "choice_data_list": [
+        "……展示会用の作品、思いついた？"
+      ]
     },
     {
       "name": "Marche Lorraine",
@@ -112,11 +119,16 @@
       "name": "Marche Lorraine",
       "text": "……… \"But I have to worry about quality! \nIt's for an exhibition, remember?\"",
       "choice_data_list": [
-        "Just for a little bit."
+        "評価を気にせず考えてみるのは？",
+        "バズった絵は、どんな気持ちで描いたの？",
+        "気分転換をしてみては？"
       ]
     },
     {
-      "text": "I told her, exhibition or not, getting her \nhands moving to work on something would be \nmore productive than doing nothing but \nworry."
+      "text": "I told her, exhibition or not, getting her \nhands moving to work on something would be \nmore productive than doing nothing but \nworry.",
+      "choice_data_list": [
+        "いったん、置いておくつもりで"
+      ]
     },
     {
       "name": "Marche Lorraine",

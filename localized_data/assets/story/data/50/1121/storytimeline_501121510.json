@@ -151,7 +151,9 @@
     {
       "name": "Durandal",
       "text": "T-Trainer-dono?! N-No, well, um...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "少し話があるんだけど……取り込み中？"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -163,7 +165,9 @@
     {
       "name": "Durandal",
       "text": "T-Trainer-dono?! Please don't tease me so \nmu—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ちょっとだけ気になる"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -178,15 +182,19 @@
       "name": "Calstone Light O",
       "text": "She was repeatedly turning over in her \nmind what sounded like pieces of advice \nshe received during training.",
       "choice_data_list": [
-        "Training at full power even in your \nsleep... impressive as always.",
-        "Training at full power even in your \nsleep... impressive as always, huh?",
-        "All that patient coaching really paid off, \nhuh."
+        "寝てる間も全力トレーニング……さすがだな",
+        "寝てる間も全力トレーニング……さすがだね",
+        "根気よく指導した甲斐があったなあ"
       ]
     },
     {
       "name": "Durandal",
       "text": "\"...Of course! As my lord's sword, even \nwithin a dream is a place to train!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "寝てる間も全力トレーニング……さすがだな",
+        "寝てる間も全力トレーニング……さすがだね",
+        "根気よく指導した甲斐があったなあ"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -219,7 +227,10 @@
     {
       "name": "Durandal",
       "text": "...I am unworthy of such praise, but it \nbraces my resolve! I will press forward \nwith all my might!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺もためになる指導ができるよう、頑張るよ",
+        "私もためになる指導ができるよう、頑張るよ"
+      ]
     }
   ]
 }

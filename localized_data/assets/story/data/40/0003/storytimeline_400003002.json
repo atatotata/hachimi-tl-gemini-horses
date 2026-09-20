@@ -11,7 +11,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...What I think?"
+      "text": "...What I think?",
+      "choice_data_list": [
+        "いや、命令じゃなくて相談だよ",
+        "ううん、命令じゃなくて相談だよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "まずは見学して、その後に決めてもいい"
+      ]
     },
     {
       "name": "Monologue",

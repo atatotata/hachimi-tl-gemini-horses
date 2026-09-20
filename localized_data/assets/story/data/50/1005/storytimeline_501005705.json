@@ -11,7 +11,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Yes. The lead is a friend of my mother's.\nI've\nknown her since I was young."
+      "text": "Yes. The lead is a friend of my mother's.\nI've\nknown her since I was young.",
+      "choice_data_list": [
+        "知り合いが出てたのか？",
+        "知り合いが出てたの？"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Stage Actor",
-      "text": "Ah, so you're her trainer, are you?\nHmm... Very\ninteresting."
+      "text": "Ah, so you're her trainer, are you?\nHmm... Very\ninteresting.",
+      "choice_data_list": [
+        "フジキセキのトレーナーです"
+      ]
     },
     {
       "name": "Stage Actor",
@@ -43,7 +50,10 @@
     },
     {
       "name": "Stage Actor",
-      "text": "Why, we used to call this little imp\n\"Prince\nMischief\" in our company."
+      "text": "Why, we used to call this little imp\n\"Prince\nMischief\" in our company.",
+      "choice_data_list": [
+        "えっ？"
+      ]
     },
     {
       "name": "Stage Actor",
@@ -63,7 +73,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Oh, not you too, Trainer!"
+      "text": "Oh, not you too, Trainer!",
+      "choice_data_list": [
+        "確かに残念"
+      ]
     },
     {
       "name": "Stage Actor",
@@ -111,11 +124,18 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I knew it! So she <i>was</i> gossiping about\nme! What\ndid she tell you?"
+      "text": "I knew it! So she <i>was</i> gossiping about\nme! What\ndid she tell you?",
+      "choice_data_list": [
+        "いろいろ弱点を教えてもらった",
+        "公演の楽しみ方を教えてもらっただけ"
+      ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Is it now? Well, if I had to guess what\nyou were\ntalking about... Oh."
+      "text": "Is it now? Well, if I had to guess what\nyou were\ntalking about... Oh.",
+      "choice_data_list": [
+        "秘密"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -123,7 +143,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Hm, so that's a no..."
+      "text": "Hm, so that's a no...",
+      "choice_data_list": [
+        "そうなの？"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -151,7 +174,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Liars are good at seeing through lies,\nand the\nbest entertainers also happen to\nbe the best liars\nas well."
+      "text": "Liars are good at seeing through lies,\nand the\nbest entertainers also happen to\nbe the best liars\nas well.",
+      "choice_data_list": [
+        "なんでわかるんだ？",
+        "なんでわかるの？"
+      ]
     },
     {
       "name": "Monologue",
@@ -175,7 +202,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Right! Let's make me the best version of\nmyself\never!"
+      "text": "Right! Let's make me the best version of\nmyself\never!",
+      "choice_data_list": [
+        "演出は任せてくれ",
+        "演出は任せて"
+      ]
     },
     {
       "name": "Monologue",

@@ -17,7 +17,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Now then, what would you like me to \nexplain?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "説明を聞く",
+        "説明を聞かない"
+      ]
     },
     {
       "name": "",
@@ -33,7 +36,13 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Regarding \"Training Goals and Special \nRaces,\" right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "育成目標と特別なレースについて",
+        "知識の欠片について",
+        "知識の結晶について",
+        "女神の叡智について",
+        "もう大丈夫です"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -221,7 +230,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Understood♪ Just to be sure, I have a \nbrief summary right here.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい",
+        "いいえ"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Thank you... Let's head to the\nracecourse!"
+      "text": "Thank you... Let's head to the\nracecourse!",
+      "choice_data_list": [
+        "もちろん！"
+      ]
     },
     {
       "name": "Passerby A",
@@ -47,7 +50,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...Oh, right."
+      "text": "...Oh, right.",
+      "choice_data_list": [
+        "フラワー、俺たちも行こう",
+        "フラワー、私たちも行こう"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -59,11 +66,19 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Trainer, I..."
+      "text": "Trainer, I...",
+      "choice_data_list": [
+        "フラワー、大丈夫だ",
+        "フラワー、大丈夫だよ"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "君なら、大丈夫！",
+        "貴方なら、大丈夫！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -71,7 +86,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Ah! I didn't mean it like that! I'm really\nhappy\nyou're cheering me on like this!"
+      "text": "Ah! I didn't mean it like that! I'm really\nhappy\nyou're cheering me on like this!",
+      "choice_data_list": [
+        "それしか言えなくてごめん……"
+      ]
     },
     {
       "name": "Nishino Flower",

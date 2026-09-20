@@ -34,15 +34,19 @@
       "name": "Rulership",
       "text": "Trainer, let's get back to training. The \npain has subsided. I'm fine.",
       "choice_data_list": [
-        "No, you need strict bed rest.",
-        "No, you need complete rest.",
-        "...If I see it's too much, I'm stopping \nyou right away."
+        "ダメだよ、絶対安静だ",
+        "ダメだよ、絶対安静",
+        "……無理そうだと判断したら、すぐ止めるよ"
       ]
     },
     {
       "name": "Rulership",
       "text": "Whyyyyyy...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ダメだよ、絶対安静だ",
+        "ダメだよ、絶対安静",
+        "……無理そうだと判断したら、すぐ止めるよ"
+      ]
     },
     {
       "name": "Narrator",
@@ -84,7 +88,9 @@
     {
       "name": "Rulership",
       "text": "\"No... I'm fine, really. I was just... \nbeing a little dramatic back there.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ルーラー！"
+      ]
     },
     {
       "name": "Narrator",

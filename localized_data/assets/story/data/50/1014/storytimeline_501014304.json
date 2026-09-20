@@ -47,7 +47,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "A-ah... Sure... <i>Gulp...</i>"
+      "text": "A-ah... Sure... <i>Gulp...</i>",
+      "choice_data_list": [
+        "じゃあエル、次の話をしようか"
+      ]
     },
     {
       "name": "Monologue",
@@ -107,7 +110,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bueno! Now I've got a big goal set for\nspring too!"
+      "text": "Bueno! Now I've got a big goal set for\nspring too!",
+      "choice_data_list": [
+        "よし、じゃあそこにしようか",
+        "うん、じゃあそこにしようか"
+      ]
     },
     {
       "name": "El Condor Pasa",

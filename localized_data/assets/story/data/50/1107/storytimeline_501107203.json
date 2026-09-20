@@ -62,7 +62,10 @@
     {
       "name": "",
       "text": "Every victory, every effort was made to \nsecure this place. That was—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、そのために全てを捧げてきたんだ",
+        "うん、そのために全てを捧げてきたんだから"
+      ]
     },
     {
       "name": "",
@@ -110,13 +113,15 @@
       "name": "Tap Dance City",
       "text": "Trainer...",
       "choice_data_list": [
-        "As long as I don't lose my composure, I \ncan win this."
+        "タップ、落ち着いて！"
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "Composure. Stay calm...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "平常心さえ失わなければ、ここは勝てる"
+      ]
     },
     {
       "name": "Tap Dance City",

@@ -17,14 +17,16 @@
       "name": "Chrono Genesis",
       "text": "*Haa*... *haa*... *gasp*...",
       "choice_data_list": [
-        "You look wiped out. Shall we extend the \nbreak by 10 minutes?",
-        "Looks like you're having a tough time. \nShall we extend the break by 10 minutes?"
+        "はい、そのまま3秒キープ！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Our daily fundamental training. While \naverage for an Umamusume at this stage, it \nseemed tough on Chrono Genesis.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "きつそうだな。休憩を10分延長しようか",
+        "きつそうだね。休憩を10分延長しようか"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -61,7 +63,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Y-Yes. That's true... There are early \nbloomers, and there are late bloomers...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "成長には個人差があるだけだから"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -118,7 +122,9 @@
     {
       "name": "Narrator",
       "text": "Chrono Genesis seems to be feeling \nimpatient.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よし、作戦を練ろう！"
+      ]
     },
     {
       "name": "Narrator",
@@ -140,7 +146,9 @@
     {
       "name": "Narrator",
       "text": "The day of the Hanshin JF—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "クロノに力を与えるものといえば……"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -169,13 +177,16 @@
       "name": "Chrono Genesis",
       "text": "A-An amulet...?",
       "choice_data_list": [
-        "Because I drew courage from history the \nother day."
+        "校内新聞。お守りに、な",
+        "校内新聞。お守りに、ね"
       ]
     },
     {
       "name": "Narrator",
       "text": "When I was shocked by Almond Eye's Japan \nCup result, the facts shown by history \ntaught me that there was no need to be \npessimistic.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "この前、歴史から勇気をもらったから"
+      ]
     },
     {
       "name": "Narrator",
@@ -188,7 +199,10 @@
     {
       "name": "Chrono Genesis",
       "text": "...! W-Well then...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺のお守り。クロノも読む？",
+        "私のお守り。クロノも読む？"
+      ]
     },
     {
       "name": "Writer C",

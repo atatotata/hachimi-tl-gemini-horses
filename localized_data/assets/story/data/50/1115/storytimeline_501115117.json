@@ -46,7 +46,9 @@
     {
       "name": "Foreign Trainer",
       "text": "\"Orfevre. Pleased to meet you.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（それほど重要視してくれてるんだ）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -59,13 +61,15 @@
       "name": "Foreign Trainer",
       "text": "Hi, so you're... her Trainer... aren't \nyou?",
       "choice_data_list": [
-        "Nice to meet you. Getting right down to \nbusiness..."
+        "（オルフェも警戒してない……よかった）"
       ]
     },
     {
       "name": "",
       "text": "While shaking hands, I relay additional \nnotes regarding Orfevre. Her quirks, \npersonality, and—as crude as it may be—my \nconcerns heading into the race—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "初めまして。早速ですが……"
+      ]
     },
     {
       "name": "",
@@ -92,7 +96,9 @@
     {
       "name": "Orfevre",
       "text": "...Shall we go?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……よろしくお願いします！"
+      ]
     },
     {
       "name": "Win Variation",
@@ -104,7 +110,9 @@
     {
       "name": "Win Variation",
       "text": "Haa... haa...! Damn, made it in time...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ウインバリアシオン！？"
+      ]
     },
     {
       "name": "Win Variation",
@@ -171,7 +179,9 @@
     {
       "name": "Orfevre",
       "text": "……――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "信じてるから"
+      ]
     },
     {
       "name": "Orfevre",
@@ -194,14 +204,16 @@
       "name": "Dream Journey",
       "text": "We should go with the most reliable, best \nchoice... right?",
       "choice_data_list": [
-        "...From your perspective, is it an \nimmature choice?",
-        "...From your perspective, is this an \nimmature choice?"
+        "もちろん思うところはある。でも――"
       ]
     },
     {
       "name": "Dream Journey",
       "text": "...No.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……君からすれば、未熟な選択かな",
+        "……貴方からすれば、未熟な選択かな"
+      ]
     },
     {
       "name": "Dream Journey",

@@ -48,20 +48,23 @@
       "name": "Still in Love",
       "text": "Y-Yes...",
       "choice_data_list": [
-        "(Man, this exhaustion is just too much...)"
+        "ああ、休憩にしよう",
+        "うん、休憩にしよう"
       ]
     },
     {
       "name": "",
       "text": "We haven't been pushing her that hard. The \nheat might be part of why she's so \nexhausted, but another possibility is――",
       "choice_data_list": [
-        "Still... are you holding back your \ninstincts?"
+        "（どうも、消耗が激しすぎる……）"
       ]
     },
     {
       "name": "Still in Love",
       "text": "...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "スティル……もしかして本能を抑えてる？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -80,13 +83,16 @@
       "name": "",
       "text": "...We should face those instincts once \nmore. By pitting her against strong rivals \nwho push her in simulated races, we must \nfind a way for her to seize the \ninitiative.",
       "choice_data_list": [
-        "Let's set up a match race for tomorrow. \nYour opponent will be—"
+        "そうか……気づかなくてごめんな",
+        "そう……気づかなくてごめんね"
       ]
     },
     {
       "name": "Admire Groove",
       "text": "—There is no need to search.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "明日、マッチレースを組もう。相手は――"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -98,7 +104,9 @@
     {
       "name": "",
       "text": "Her current active rival, Admire Groove... \nTrue, facing her would serve as practice \nfor controlling her instincts, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（まさか、彼女が名乗り出るなんて）"
+      ]
     },
     {
       "name": "Still in Love",
@@ -195,7 +203,9 @@
     {
       "name": "Umamusume",
       "text": "Hey, isn't Alv-san totally insane!? \nSurging from behind with that incredible \nstretch drive...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ダメだ、暴走してる……！）"
+      ]
     },
     {
       "name": "Reporter A",
@@ -207,7 +217,9 @@
     {
       "name": "Still in Love",
       "text": "*pant*..., ...*gasp*.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（期待が……塗り替えられていく……）"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -239,7 +251,9 @@
     {
       "name": "Still in Love",
       "text": "\"Because those eyes... were so cold. I \nwonder what I did wrong...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そうかな"
+      ]
     },
     {
       "name": "Air Groove",
@@ -313,14 +327,17 @@
       "name": "",
       "text": "We walked together along the deserted \nbeach. ...After a while, I realized she \nwas walking a few paces behind me.",
       "choice_data_list": [
-        "What's wrong? Come sit next to me.",
-        "What's wrong? Come sit next to me."
+        "……なあ。少しだけ、散歩しないか？",
+        "……ねえ。少しだけ、散歩しない？"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Ah... ...I'm sorry, it's just out of \nhabit...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうした？隣においで",
+        "どうしたの？隣においで"
+      ]
     },
     {
       "name": "Still in Love",
@@ -335,30 +352,34 @@
       "name": "Still in Love",
       "text": "\"I'm fine like this. It calms me down, \nso...\"",
       "choice_data_list": [
-        "...Is it really no good?",
-        "Then I'll come stand next to you!",
-        "Then I'll go stand next to them!"
+        "…………本当にダメかな？",
+        "なら、俺が隣に行く！",
+        "なら、私が隣に行く！"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Huh...",
       "choice_data_list": [
-        "If you don't like it, that's fine though"
+        "…………本当にダメかな？",
+        "なら、俺が隣に行く！",
+        "なら、私が隣に行く！"
       ]
     },
     {
       "name": "Still in Love",
       "text": "It's not that I dislike it...!",
       "choice_data_list": [
-        "I want to face you and talk to you.",
-        "I want to face you and talk."
+        "嫌ならいいんだけど"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Ugh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君と向き合って、話したい",
+        "貴方と向き合って、話したい"
+      ]
     },
     {
       "name": "Still in Love",
@@ -370,7 +391,9 @@
     {
       "name": "Still in Love",
       "text": "...Y-Yes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ありがとう"
+      ]
     },
     {
       "name": "Still in Love",
@@ -383,13 +406,15 @@
       "name": "Still in Love",
       "text": "Huh? Does that mean...—",
       "choice_data_list": [
-        "Ei!"
+        "え？"
       ]
     },
     {
       "name": "",
       "text": "Taking a big leap backward, I lined up \nnext to Still in Love. She looked slightly \ntaken aback—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えいっ！"
+      ]
     },
     {
       "name": "Still in Love",
@@ -411,7 +436,9 @@
     {
       "name": "Still in Love",
       "text": "Alv-san, you must know what love is. \nBecause... so many people love you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -433,7 +460,9 @@
     {
       "name": "Still in Love",
       "text": "\"...Running any further and continuing to \nlay bare my instincts... terrifies me.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "スティル……"
+      ]
     },
     {
       "name": "Still in Love",
@@ -446,7 +475,10 @@
     {
       "name": "Still in Love",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺は君にいてほしい",
+        "私は貴方にいてほしい"
+      ]
     },
     {
       "name": "Still in Love",
@@ -460,21 +492,24 @@
       "name": "Still in Love",
       "text": "……！",
       "choice_data_list": [
-        "I will always, without a doubt, stay by \nyour side.",
-        "I'll definitely stay on your side no \nmatter what."
+        "君の勝利を、待ってる",
+        "貴方の勝利を、待ってる"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Trainer...",
       "choice_data_list": [
-        "...Am I that unreliable?"
+        "絶対に、君の味方でい続けるから",
+        "絶対に、貴方の味方でい続けるから"
       ]
     },
     {
       "name": "Still in Love",
       "text": "No!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……頼りないかな"
+      ]
     },
     {
       "name": "Still in Love",

@@ -51,7 +51,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "N-no! It's okay. You don't have to do\nanything\ntoday, Big Brother."
+      "text": "N-no! It's okay. You don't have to do\nanything\ntoday, Big Brother.",
+      "choice_data_list": [
+        "買ってあげるよ"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -83,11 +86,17 @@
     },
     {
       "name": "Rice Shower",
-      "text": "It sure is d-d-dark, huh? A-are you all\nright, B-Big\nSister?"
+      "text": "It sure is d-d-dark, huh? A-are you all\nright, B-Big\nSister?",
+      "choice_data_list": [
+        "大丈夫だけど、ライス……"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "I'm fine too! After all, today is—"
+      "text": "I'm fine too! After all, today is—",
+      "choice_data_list": [
+        "大丈夫だけど、ライス……"
+      ]
     },
     {
       "name": "Monologue",
@@ -143,11 +152,21 @@
     },
     {
       "name": "Monologue",
-      "text": "With that in mind, how do I respond to\nher?"
+      "text": "With that in mind, how do I respond to\nher?",
+      "choice_data_list": [
+        "ここは眷属にお任せを",
+        "頑張れライス！",
+        "頑張ってライス！"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Familiar? Oh, right, since I bit you\nearlier..."
+      "text": "Familiar? Oh, right, since I bit you\nearlier...",
+      "choice_data_list": [
+        "ここは眷属にお任せを",
+        "頑張れライス！",
+        "頑張ってライス！"
+      ]
     },
     {
       "name": "Monologue",
@@ -159,7 +178,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Really? Thank goodness..."
+      "text": "Really? Thank goodness...",
+      "choice_data_list": [
+        "充分楽しませてもらったから"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -227,11 +249,19 @@
     },
     {
       "name": "Rice Shower",
-      "text": "U-um, were you scared, Big Sister? I\nreally hope\nyou had fun..."
+      "text": "U-um, were you scared, Big Sister? I\nreally hope\nyou had fun...",
+      "choice_data_list": [
+        "強いヴァンパイアのおかげでな",
+        "強いヴァンパイアのおかげでね"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Hehe, yay!"
+      "text": "Hehe, yay!",
+      "choice_data_list": [
+        "強いヴァンパイアのおかげでな",
+        "強いヴァンパイアのおかげでね"
+      ]
     },
     {
       "name": "Monologue",

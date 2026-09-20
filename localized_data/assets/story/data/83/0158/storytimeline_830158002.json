@@ -17,12 +17,16 @@
       "name": "Jungle Pocket",
       "text": "She left her horseshoe maintenance gear \nbehind on the track. If you spot her, \ncould you give her a shout?",
       "choice_data_list": [
-        "Understood."
+        "捜してるのか？",
+        "捜してるの？"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Since I had no pressing matters, I walked \naround for a while looking for Silence \nSuzuka, but—"
+      "text": "Since I had no pressing matters, I walked \naround for a while looking for Silence \nSuzuka, but—",
+      "choice_data_list": [
+        "わかった"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -106,7 +110,11 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "...Well, that's what true companions are, \nhuh. I get it now..."
+      "text": "...Well, that's what true companions are, \nhuh. I get it now...",
+      "choice_data_list": [
+        "それだけの付き合い、ってことかもな",
+        "それだけの付き合い、ってことかもね"
+      ]
     },
     {
       "text": "And so, that matter was settled... Though \nas we parted ways, Jungle Pocket wore a \nthoughtful expression on her face."

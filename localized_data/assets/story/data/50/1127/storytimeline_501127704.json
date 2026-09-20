@@ -107,14 +107,16 @@
       "name": "Fenomeno",
       "text": "Ah, no! It's not a problem! I'm really not \nthat down about it!",
       "choice_data_list": [
-        "...Is that so? Are you really alright?",
-        "...Really? Are you sure you're okay?"
+        "メノ……"
       ]
     },
     {
       "name": "Fenomeno",
       "text": "...Boss. Look at that.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そうか？本当に大丈夫なのか？",
+        "……そう？本当に大丈夫？"
+      ]
     },
     {
       "name": "Girl",
@@ -181,17 +183,23 @@
       "name": "Fenomeno",
       "text": "Because I want to create a future where \neveryone can live with kindness in their \nhearts.",
       "choice_data_list": [
-        "I'm proud to have become your trainer.",
-        "I'm proud to have become your Trainer.",
-        "No matter what happens, I'll always be on \nMeno's side.",
-        "No matter what happens, I'll always be on \nMeno's side.",
-        "I'm sure the day will come when people \nwon't be scared of me anymore."
+        "君のトレーナーになれたことを誇りに思う",
+        "貴方のトレーナーになれたことを誇りに思う",
+        "俺だけは何があってもメノの味方でいるから",
+        "私だけは何があってもメノの味方でいるよ",
+        "いつか怖がられなくなる日がきっと来るよ"
       ]
     },
     {
       "name": "Fenomeno",
       "text": "B-Boss... Are you not praising me a bit \ntoo much...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君のトレーナーになれたことを誇りに思う",
+        "貴方のトレーナーになれたことを誇りに思う",
+        "俺だけは何があってもメノの味方でいるから",
+        "私だけは何があってもメノの味方でいるよ",
+        "いつか怖がられなくなる日がきっと来るよ"
+      ]
     },
     {
       "name": "Fenomeno",

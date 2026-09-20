@@ -171,7 +171,11 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "Hm? Hehe... Getting to know each other and \ngetting along! This is prep for that!"
+      "text": "Hm? Hehe... Getting to know each other and \ngetting along! This is prep for that!",
+      "choice_data_list": [
+        "何を張り切っているの？",
+        "……？何か落としたよ？"
+      ]
     },
     {
       "name": "Narrator",
@@ -182,7 +186,10 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "Ah, t-that's a misunderstanding! It's not \nBuu! It's not for Buu!!"
+      "text": "Ah, t-that's a misunderstanding! It's not \nBuu! It's not for Buu!!",
+      "choice_data_list": [
+        "……『同棲のルール』？"
+      ]
     }
   ]
 }

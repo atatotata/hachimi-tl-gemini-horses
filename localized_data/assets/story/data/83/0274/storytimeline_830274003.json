@@ -14,7 +14,10 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "To tell the truth――I've been asked to help \nwith a performance for a local community \nevent."
+      "text": "To tell the truth――I've been asked to help \nwith a performance for a local community \nevent.",
+      "choice_data_list": [
+        "こんにちは、何か悩みごと？"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -31,20 +34,23 @@
       "name": "Curren Bouquetd'or",
       "text": "Indeed, it is――I am sure all the visitors \nare looking forward to hearing their \nsinging, but...",
       "choice_data_list": [
-        "...Do you mind if I come watch the \npractice too?",
-        "...Do you mind if I come watch the \npractice too?"
+        "それは、少しもったいないね"
       ]
     },
     {
       "name": "Children",
       "text": "...tchi... pitchi, chappu... yappu, ran... \nan...♪",
       "choice_data_list": [
-        "(Well now... this really is tough.)"
+        "……その練習、俺も見に行ってもいい？",
+        "……その練習、私も見に行ってもいい？"
       ]
     },
     {
       "name": "Narrator",
-      "text": "For the number of children present, their \nvoices were very small. It seemed the \nentire group was hesitating to sing out \nloud, influenced by the few who held back \nnervously."
+      "text": "For the number of children present, their \nvoices were very small. It seemed the \nentire group was hesitating to sing out \nloud, influenced by the few who held back \nnervously.",
+      "choice_data_list": [
+        "（これはまた……大変だなぁ）"
+      ]
     },
     {
       "name": "Shy Child",
@@ -74,19 +80,23 @@
       "name": "Curren Bouquetd'or",
       "text": "Pardon?",
       "choice_data_list": [
-        "Bitchi-bitchi♪ Chappu-chappu ran-ran-ran♪"
+        "じゃあ、俺が見本をみせるよ！",
+        "じゃあ、私が見本をみせるよ！"
       ]
     },
     {
       "name": "Shy Child",
       "text": "B-Bitchi-bitchi...? Isn't it \npitchi-pitchi...?",
       "choice_data_list": [
-        "I messed up! But 'bitchi-bitchi' has \nplenty of energy, right?"
+        "ビチビチ♪チャップチャップランランラン♪"
       ]
     },
     {
       "name": "Shy Child",
-      "text": "...Ahaha! I-I guess so, but still...!"
+      "text": "...Ahaha! I-I guess so, but still...!",
+      "choice_data_list": [
+        "間違えた！けど、ビチビチも勢いあるよね！"
+      ]
     },
     {
       "name": "Watching Child",
@@ -107,12 +117,15 @@
       "name": "Shy Child",
       "text": "Really...? Just like miss over there... me \ntoo...?",
       "choice_data_list": [
-        "It's fun! Let's sing together――"
+        "面白いよ！一緒に歌ってみよう――"
       ]
     },
     {
       "name": "Children",
-      "text": "――A~me~ a~me~ fu~re~ fu~re♪ Ka~a-san ga~♪"
+      "text": "――A~me~ a~me~ fu~re~ fu~re♪ Ka~a-san ga~♪",
+      "choice_data_list": [
+        "面白いよ！一緒に歌ってみよう――"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -138,13 +151,17 @@
       "name": "Loves Only You",
       "text": "Oh, . Did you come to cheer on \nBouquet-chan too?♪",
       "choice_data_list": [
-        "Yeah, what about you guys?",
-        "Yeah, what about you guys?"
+        "ああ、君たちも？",
+        "うん、貴方たちも？"
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Yes... Bouquet-san has been preparing for \ntoday all this time, so... I really hope \nit goes well for her."
+      "text": "Yes... Bouquet-san has been preparing for \ntoday all this time, so... I really hope \nit goes well for her.",
+      "choice_data_list": [
+        "ああ、君たちも？",
+        "うん、貴方たちも？"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -195,7 +212,10 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "Pi... Pitchi pitchi, chappu chappu♪"
+      "text": "Pi... Pitchi pitchi, chappu chappu♪",
+      "choice_data_list": [
+        "じゃ～のめ～でお～むかえうれし～いな～♪"
+      ]
     },
     {
       "name": "Audience",
@@ -231,7 +251,11 @@
     },
     {
       "name": "Everyone",
-      "text": "Encore! Encore!"
+      "text": "Encore! Encore!",
+      "choice_data_list": [
+        "俺も俺も！アンコール！",
+        "私も私も！アンコール！"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",

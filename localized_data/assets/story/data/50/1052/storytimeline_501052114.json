@@ -11,7 +11,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! Let's do it!"
+      "text": "Yeah! Let's do it!",
+      "choice_data_list": [
+        "トレーニング、頑張ろうな",
+        "トレーニング、頑張ろうね"
+      ]
     },
     {
       "name": "",
@@ -47,7 +51,10 @@
     },
     {
       "name": "",
-      "text": "Haru Urara rushes over to the gossipers."
+      "text": "Haru Urara rushes over to the gossipers.",
+      "choice_data_list": [
+        "ウララ！？"
+      ]
     },
     {
       "name": "Haru Urara",

@@ -43,7 +43,10 @@
     },
     {
       "name": "Interviewer",
-      "text": "At last, the Japanese Derby is about to\nkick off.\nThe track is packed to the brim\nwith fans!"
+      "text": "At last, the Japanese Derby is about to\nkick off.\nThe track is packed to the brim\nwith fans!",
+      "choice_data_list": [
+        "チケット、見てごらん"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +82,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "ダービーへの想いをぶつけてこい！",
+        "ダービーへの想いをぶつけておいで！"
+      ]
     },
     {
       "name": "Winning Ticket",

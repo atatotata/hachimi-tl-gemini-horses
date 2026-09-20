@@ -12,27 +12,30 @@
       "name": "Tazuna Hayakawa",
       "text": "Yes. The staff member tasked with managing \nthe venue suddenly couldn't make it... \nWe're currently looking for a replacement, \nbut...",
       "choice_data_list": [
-        "Understood. I'll help look for someone \ntoo!",
-        "Understood. I'll help look for someone \ntoo!"
+        "ええっ！？人手が足りない！？"
       ]
     },
     {
       "name": "Narrator",
       "text": "I contacted several event agencies, but \nsame-day dispatch is impossible. With \ncrowds incoming, our current manpower is \ndefinitely not going to cut it...",
       "choice_data_list": [
-        "(Worst case, we might have to consider \ncanceling...)"
+        "わかりました。俺も探してみます！",
+        "わかりました。私も探してみます！"
       ]
     },
     {
       "name": "Orfevre",
       "text": "You. What are you doing?",
       "choice_data_list": [
-        "! Orfevre..."
+        "（最悪の場合、中止も考えないと……）"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "Do not display such a gloomy face before \nmy eyes."
+      "text": "Do not display such a gloomy face before \nmy eyes.",
+      "choice_data_list": [
+        "！オルフェーヴル……"
+      ]
     },
     {
       "name": "Narrator",
@@ -43,7 +46,10 @@
     },
     {
       "name": "Narrator",
-      "text": "As I explain, Orfevre listens in silence, \nfixing her sharp gaze right through me."
+      "text": "As I explain, Orfevre listens in silence, \nfixing her sharp gaze right through me.",
+      "choice_data_list": [
+        "……その、実は――"
+      ]
     },
     {
       "name": "Orfevre",
@@ -58,7 +64,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "Someone, attend to me."
+      "text": "Someone, attend to me.",
+      "choice_data_list": [
+        "……えっ？"
+      ]
     },
     {
       "name": "Orfevre's Subject A",
@@ -109,7 +118,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "The stage is set."
+      "text": "The stage is set.",
+      "choice_data_list": [
+        "（すごい……！）"
+      ]
     },
     {
       "name": "Orfevre",
@@ -121,7 +133,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Determined to answer Orfevre's \nexpectations, I dash around coordinating \nwith staff and verifying schedules. As a \nresult—the event was a roaring success."
+      "text": "Determined to answer Orfevre's \nexpectations, I dash around coordinating \nwith staff and verifying schedules. As a \nresult—the event was a roaring success.",
+      "choice_data_list": [
+        "……！ああ、もちろん！",
+        "……！うん、もちろん！"
+      ]
     },
     {
       "name": "Announcement",
@@ -134,12 +150,15 @@
       "name": "Orfevre",
       "text": "Ah, you.",
       "choice_data_list": [
-        "Thank you so much for today...!"
+        "オルフェーヴル！"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "Pay it no mind. It is merely the duty of a \nKing."
+      "text": "Pay it no mind. It is merely the duty of a \nKing.",
+      "choice_data_list": [
+        "今日は……本当にありがとう……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -161,13 +180,17 @@
       "name": "Orfevre",
       "text": "I permit it.",
       "choice_data_list": [
-        "Why would my unsightly failure affect your \nhonor...?",
-        "Why would my unsightly failure affect your \nhonor...?"
+        "その……ひとつだけ聞いていいか？",
+        "その……ひとつだけ聞いていい？"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "A foolish question."
+      "text": "A foolish question.",
+      "choice_data_list": [
+        "どうして俺の無様が、君の沽券に……？",
+        "どうして私の無様が、貴方の沽券に……？"
+      ]
     },
     {
       "name": "Orfevre",
@@ -188,23 +211,26 @@
       "name": "Orfevre",
       "text": "Judging by that look on your face, if you \nhave something to say, speak.",
       "choice_data_list": [
-        "—It is an absolute honor...!",
-        "Umm, well... since when was I your \nsubject?",
-        "Umm, well... since when was I your \nsubject?"
+        "（なんだろう……この高揚感は……！）"
       ]
     },
     {
       "name": "Orfevre",
       "text": "Judging by that look on your face, if you \nhave something to say, speak.",
       "choice_data_list": [
-        "—It is an absolute honor...!",
-        "Umm, well... since when was I your \nsubject?",
-        "Umm, well... since when was I your \nsubject?"
+        "――ありがたき、幸せです……！",
+        "えっと、その……いつ俺が臣下に？",
+        "えっと、その……いつ私が臣下に？"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "—Good."
+      "text": "—Good.",
+      "choice_data_list": [
+        "――ありがたき、幸せです……！",
+        "えっと、その……いつ俺が臣下に？",
+        "えっと、その……いつ私が臣下に？"
+      ]
     },
     {
       "name": "Orfevre",

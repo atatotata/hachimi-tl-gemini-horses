@@ -11,7 +11,9 @@
     {
       "name": "Narrator",
       "text": "\"A while has passed since we began \npracticing together, but I still haven't \nbeen able to have a deep conversation with \nher... or really, much of a conversation \nat all.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（今日は、ラモーヌをランチに誘う！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -30,13 +32,16 @@
       "name": "Mejiro Ramonu",
       "text": "……。",
       "choice_data_list": [
-        "How about a lunch meeting after this?"
+        "少し時間をもらってもいいか？",
+        "少し時間をもらってもいい？"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "You're right.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "この後、ランチミーティングでもどう？"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -59,13 +64,15 @@
       "name": "Narrator",
       "text": "To begin with, she has handled her \ntraining perfectly all on her own. She \nlikely feels no need to build a bond with \na Trainer. But...",
       "choice_data_list": [
-        "(I want to know more about Ramonu.)"
+        "（やっぱり、考えないほうがいいのかな）"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"Even if they don't ask for it, as long as \nyou know what kind of person they are, \nthere are things we can prepare on our \nend.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（もっとラモーヌを知りたい）"
+      ]
     },
     {
       "name": "Narrator",
@@ -88,22 +95,24 @@
       "name": "Narrator",
       "text": "So when I paid them a visit—as luck would \nhave it, promising \"Mejiro Umamusume\" were \nall gathered together!",
       "choice_data_list": [
-        "You're Mejiro McQueen!",
-        "You are Mejiro McQueen!"
+        "（メジロ家を訪ねてみるか）"
       ]
     },
     {
       "name": "Mejiro McQueen",
       "text": "Y-Yes!",
       "choice_data_list": [
-        "You're Mejiro Palmer!",
-        "You are Mejiro Palmer!"
+        "君はメジロマックイーン！",
+        "貴方はメジロマックイーン！"
       ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "Yes, hello, Palmer-san speaking!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君はメジロパーマー！",
+        "貴方はメジロパーマー！"
+      ]
     },
     {
       "name": "Narrator",
@@ -122,13 +131,16 @@
       "name": "Mejiro Bright",
       "text": "Hello~.",
       "choice_data_list": [
-        "Mejiro Bright!"
+        "君はメジロドーベル！",
+        "貴方はメジロドーベル！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Mejiro Dober, who is rarely seen running \nin public, but shows glimpses of pure \ntalent. Mejiro Bright, rumored to possess \nboundless stamina.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "メジロブライト！"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -141,21 +153,23 @@
       "name": "Mejiro Ryan",
       "text": "\"Could it be... you know all of us, even \nbefore our debut...?!\"",
       "choice_data_list": [
-        "Of course, Mejiro Ryan!"
+        "言わずもがなメジロアルダン！"
       ]
     },
     {
       "name": "Narrator",
       "text": "Mejiro Ardan, delicate yet possessing a \nhidden resolve. And Mejiro Ryan, \ncaptivating everyone with her dynamic \nrunning...!",
       "choice_data_list": [
-        "I'm looking forward to seeing what you all \naccomplish from here on out!",
-        "I'm looking forward to seeing what \neveryone accomplishes from here on out!"
+        "もちろんだよ、メジロライアン！"
       ]
     },
     {
       "name": "Mejiro Ryan",
       "text": "Ooh. So the rumors about loving racing \nwere true...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これからのみんなの活躍も期待してるぞ！",
+        "これからのみんなの活躍も期待してるよ！"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -173,13 +187,15 @@
       "name": "Mejiro Ardan",
       "text": "I see... A way to talk with Big Sis.",
       "choice_data_list": [
-        "And maybe share some nostalgic stories \nwhile we're at it..."
+        "それなんだけど……"
       ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "Hmm, I'm sure Ardan-san has plenty, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ついでに思い出話とかも……"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -191,7 +207,9 @@
     {
       "name": "Mejiro Palmer",
       "text": "N-No, seriously!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ？"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -230,13 +248,16 @@
       "name": "Mejiro McQueen",
       "text": "Yes, indeed. She has always been someone \nthe entire Mejiro family looks up to.",
       "choice_data_list": [
-        "Admiration..."
+        "昔からそんな感じなんだな",
+        "昔からそんな感じなんだね"
       ]
     },
     {
       "name": "Mejiro McQueen",
       "text": "There was a time when imitating Ramonu-san \nwas quite the trend among the Mejiro \nUmamusume.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "憧れ……"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -294,7 +315,10 @@
     {
       "name": "Mejiro Ardan",
       "text": "Indeed. Ane-sama... became the person she \nis today only after making painstaking, \nblood-soaked efforts.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今からは想像もつかないな……",
+        "今からは想像もつかないね……"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -321,7 +345,9 @@
     {
       "name": "Mejiro Ardan",
       "text": "Yes. ...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうだったんだ"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -348,7 +374,9 @@
     {
       "name": "Mejiro Bright",
       "text": "That is true. It is something found within \nyour heart, Trainer~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "1番、知りたいこと……"
+      ]
     },
     {
       "name": "Narrator",
@@ -360,7 +388,9 @@
     {
       "name": "Narrator",
       "text": "She is so mysterious, and there is so much \nI want to know. And out of all of it, the \nthing I want to know most...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（1番知りたいことか……）"
+      ]
     },
     {
       "name": "Narrator",
@@ -372,7 +402,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "I wonder what it is.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ラモーヌ、ちょっといい？"
+      ]
     },
     {
       "name": "Narrator",
@@ -390,13 +422,15 @@
       "name": "Mejiro Ramonu",
       "text": "……――",
       "choice_data_list": [
-        "...Would you like to sit down and talk?"
+        "…………ら、ラモーヌさま～！"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……座ってお話しませんか"
+      ]
     },
     {
       "name": "Mejiro Ramonu",

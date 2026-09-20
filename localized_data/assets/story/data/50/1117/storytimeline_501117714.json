@@ -21,7 +21,9 @@
     {
       "name": "Win Variation",
       "text": "...! Trainer, I have a favor to ask.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "しっかり休んで、ケガを治そう"
+      ]
     },
     {
       "name": "Win Variation",
@@ -51,15 +53,19 @@
       "name": "Win Variation",
       "text": "I'll pay utmost attention to avoid \ninjuries! ...So please!",
       "choice_data_list": [
-        "Don't rush, let's aim for a full recovery \nfirst.",
-        "...If I judge that it's even slightly \ndangerous, I'm putting a stop to it.",
-        "...If I judge that it's even slightly \ndangerous, I'll stop you."
+        "焦らずに、まずは完治を目指そう",
+        "……少しでも危ないと判断したら、止めるぞ",
+        "……少しでも危ないと判断したら、止めるよ"
       ]
     },
     {
       "name": "Win Variation",
       "text": "B-But! While we're doing this, everyone \nelse is...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "焦らずに、まずは完治を目指そう",
+        "……少しでも危ないと判断したら、止めるぞ",
+        "……少しでも危ないと判断したら、止めるよ"
+      ]
     },
     {
       "name": "Narrator",
@@ -72,14 +78,16 @@
       "name": "Win Variation",
       "text": "...How can you say that with such \ncertainty?",
       "choice_data_list": [
-        "Because you're an Umamusume who works \nharder than anyone else.",
-        "Because you're an Umamusume who works \nharder than anyone else."
+        "大丈夫。少し休んでも、きっと取り返せる"
       ]
     },
     {
       "name": "Win Variation",
       "text": "! ...Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君は、誰よりも努力家なウマ娘だから",
+        "貴方は、誰よりも努力家なウマ娘だから"
+      ]
     },
     {
       "name": "Win Variation",
@@ -101,7 +109,9 @@
     {
       "name": "Win Variation",
       "text": "Ngh, ...To think I couldn't even judge the \nseverity of my injury...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これ以上はやめよう、シオン……！"
+      ]
     },
     {
       "name": "Win Variation",
@@ -124,7 +134,10 @@
     {
       "name": "Win Variation",
       "text": "Yes, no pain or discomfort at all! \n...Thank goodness...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これくらいの負荷なら大丈夫そうだな",
+        "これくらいの負荷なら大丈夫そうだね"
+      ]
     },
     {
       "name": "Win Variation",

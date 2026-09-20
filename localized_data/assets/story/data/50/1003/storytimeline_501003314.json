@@ -27,7 +27,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "No, I am. It just hasn't settled in that this\nis real\nyet..."
+      "text": "No, I am. It just hasn't settled in that this\nis real\nyet...",
+      "choice_data_list": [
+        "そのわりに喜んでないみたい"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -107,7 +110,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Yes. Go on, Teio!"
+      "text": "Yes. Go on, Teio!",
+      "choice_data_list": [
+        "もう1度、勝者の姿を見せてこい！",
+        "もう1度、勝者の姿を見せてあげて！"
+      ]
     },
     {
       "name": "Tokai Teio",

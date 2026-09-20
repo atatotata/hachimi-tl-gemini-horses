@@ -115,7 +115,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I explain that I could feel their spirits\nforcing their\nbodies forward. They were\nlaying bare their\nburning will to win, and\nthat gave them a secret\nsource of power\nto push them past their limits."
+      "text": "I explain that I could feel their spirits\nforcing their\nbodies forward. They were\nlaying bare their\nburning will to win, and\nthat gave them a secret\nsource of power\nto push them past their limits.",
+      "choice_data_list": [
+        "2人は激しい闘争心により力を出し尽くした"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -131,11 +134,18 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "You too?"
+      "text": "You too?",
+      "choice_data_list": [
+        "ヤエノは力を全て出し切れてないと思う"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Yaeno Muteki runs without fully\nunleashing her\nfierce blaze. Instead, she\nuses water still to\ntemper and control it,\nall to prevent herself from\nrunning wild."
+      "text": "Yaeno Muteki runs without fully\nunleashing her\nfierce blaze. Instead, she\nuses water still to\ntemper and control it,\nall to prevent herself from\nrunning wild.",
+      "choice_data_list": [
+        "全てを解放しないのが君の走りだから",
+        "全てを解放しないのが貴方の走りだから"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -155,7 +165,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "君は激情のまま動くことを恐れているから",
+        "貴方は激情のまま動くことを恐れているから"
+      ]
     },
     {
       "name": "Monologue",
@@ -187,7 +201,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Thank you. This is not a decision to be\nmade\nlightly."
+      "text": "Thank you. This is not a decision to be\nmade\nlightly.",
+      "choice_data_list": [
+        "ああ。俺は引き続き他の方法も探すから",
+        "うん。私は引き続き他の方法も探すから"
+      ]
     },
     {
       "name": "Monologue",
@@ -203,7 +221,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The autumn Tenno Sho is held at Tokyo\n\nRacecourse, which I think is quite\nwell-suited for\nYaeno Muteki. The\ndistance is right up her alley\nas well."
+      "text": "The autumn Tenno Sho is held at Tokyo\n\nRacecourse, which I think is quite\nwell-suited for\nYaeno Muteki. The\ndistance is right up her alley\nas well.",
+      "choice_data_list": [
+        "ああ、そうしよう",
+        "うん、そうしよう"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -231,7 +253,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Okay. Then our training for the autumn\nTenno\nSho starts tomorrow. I'm counting\non you."
+      "text": "Okay. Then our training for the autumn\nTenno\nSho starts tomorrow. I'm counting\non you.",
+      "choice_data_list": [
+        "ああ、その通りだ！",
+        "うん、その通りだよ！"
+      ]
     }
   ]
 }

@@ -91,7 +91,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Yeah, thank you so much! This is thanks\nto the\ncourage you've given me,\nKawakami."
+      "text": "Yeah, thank you so much! This is thanks\nto the\ncourage you've given me,\nKawakami.",
+      "choice_data_list": [
+        "よかったな",
+        "よかったね"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -107,7 +111,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "How can that be?! That means I wasn't\nable to\nhelp you at all!"
+      "text": "How can that be?! That means I wasn't\nable to\nhelp you at all!",
+      "choice_data_list": [
+        "う、売り切れ……！？"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

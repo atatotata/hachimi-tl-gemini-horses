@@ -19,7 +19,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Oh, hello! We're making desserts."
+      "text": "Oh, hello! We're making desserts.",
+      "choice_data_list": [
+        "何をしてるんだ？",
+        "何をしてるの？"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yes, a good friend of mine asked me for\nhelp."
+      "text": "Yes, a good friend of mine asked me for\nhelp.",
+      "choice_data_list": [
+        "結婚式のお菓子作り……？"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -55,7 +62,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Affirmative. Flower is currently\nexperiencing a\n\"deadlock.\" Introducing\nan additional factor may\nresolve the\nissue."
+      "text": "Affirmative. Flower is currently\nexperiencing a\n\"deadlock.\" Introducing\nan additional factor may\nresolve the\nissue.",
+      "choice_data_list": [
+        "他の誰かを頼ってみてもいいんじゃない？"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -63,7 +73,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...You're right. Sky told me something\nsimilar\nonce."
+      "text": "...You're right. Sky told me something\nsimilar\nonce.",
+      "choice_data_list": [
+        "1人で気負い過ぎても疲れるよ"
+      ]
     },
     {
       "name": "Nishino Flower",

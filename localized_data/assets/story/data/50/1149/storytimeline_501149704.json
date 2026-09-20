@@ -12,13 +12,16 @@
       "name": "Phalaenopsis",
       "text": "......Hm?",
       "choice_data_list": [
-        "...Is something wrong?"
+        "そうだな、次は――",
+        "そうだね、次は――"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "No—that person walking over there. \nI couldn't help but take notice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……何か？"
+      ]
     },
     {
       "name": "Distressed Woman",
@@ -56,7 +59,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Much obliged. Now, let us be off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "荷物は俺が引き受ける",
+        "荷物は私が引き受けるよ"
+      ]
     },
     {
       "name": "Distressed Woman",
@@ -95,21 +101,24 @@
       "name": "Phalaenopsis",
       "text": "—It is... nothing serious.",
       "choice_data_list": [
-        ", let's rest."
+        "……体温が上がりすぎてるんじゃないか？",
+        "……体温が上がりすぎてるんじゃない？"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "I told you, it is nothing serious... \nI simply do not wish to impose upon your \ntime.",
       "choice_data_list": [
-        "There's no need to push yourself, not in \nfront of me.",
-        "There's no need to push yourself, not in \nfront of me."
+        "少し、休もう"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "...... Fufu.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺の前でまで、無理はいらないよ",
+        "私の前でまで、無理はいらないよ"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -131,7 +140,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Yes. One who is capable of kindness \npossesses both \nthe wisdom to see into another's heart and \nstand by them, \nand the strength to reach out a helping \nhand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "強い？"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -144,7 +155,10 @@
     {
       "name": "Phalaenopsis",
       "text": "...Truly, I am much better now. \nI cannot impose on you forever. Please, \nlet me down.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……それを言うなら、君が……）",
+        "（……それを言うなら、貴方が……）"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -156,7 +170,9 @@
     {
       "name": "Phalaenopsis",
       "text": "...Oh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "少し、言葉が浮かんできた"
+      ]
     },
     {
       "name": "Narrator",
@@ -208,7 +224,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Family.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それは――"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -230,17 +248,23 @@
       "name": "Phalaenopsis",
       "text": "And—once you do, \nthat bond shall surely never unravel.",
       "choice_data_list": [
-        "As your pupil, I'll keep following in your \nfootsteps.",
-        "I'd love to see that kind of bond spread \nfurther and further.",
-        "I'd love to see that kind of bond spread \nfurther and further.",
-        "I want to be someone who can give a lot to \nothers too.",
-        "I want to be someone who can give a lot to \nothers too."
+        "弟子として、ずっと追いかけていくよ",
+        "そんな関係を、どんどん広げていきたいな",
+        "そんな関係を、どんどん広げていきたいね",
+        "俺も多くを与えられる存在でありたいな",
+        "私も多くを与えられる存在でありたいな"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "Fufufu, how earnest of you. \nI am deeply grateful for that sentiment as \nwell.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "弟子として、ずっと追いかけていくよ",
+        "そんな関係を、どんどん広げていきたいな",
+        "そんな関係を、どんどん広げていきたいね",
+        "俺も多くを与えられる存在でありたいな",
+        "私も多くを与えられる存在でありたいな"
+      ]
     },
     {
       "name": "Phalaenopsis",

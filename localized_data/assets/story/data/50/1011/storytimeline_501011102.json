@@ -19,7 +19,12 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Clap, clap!</i>"
+      "text": "<i>Clap, clap!</i>",
+      "choice_data_list": [
+        "グラスがいつも健康でありますように",
+        "グラスがもっと強くなれますように",
+        "グラスの走りがより冴えますように"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -91,7 +96,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Huh? Oh..."
+      "text": "Huh? Oh...",
+      "choice_data_list": [
+        "……グラス、大丈夫か？",
+        "……グラス、大丈夫？"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -263,7 +272,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Would you please hand it to me? Right\nnow."
+      "text": "Would you please hand it to me? Right\nnow.",
+      "choice_data_list": [
+        "もちろん、取ってあるが……",
+        "もちろん、取ってあるけど……"
+      ]
     },
     {
       "name": "Monologue",
@@ -287,7 +300,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "I was a coward, too timid to keep\nwalking along\nthe path."
+      "text": "I was a coward, too timid to keep\nwalking along\nthe path.",
+      "choice_data_list": [
+        "ぐ、グラス……！？"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -339,7 +355,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes!"
+      "text": "Yes!",
+      "choice_data_list": [
+        "よし、決まりだ！",
+        "よし、決まりだね！"
+      ]
     },
     {
       "name": "Grass Wonder",

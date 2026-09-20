@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "I stepped inside the wagashi shop. The \ninterior was very quiet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、いいな",
+        "うん、いいね"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -29,7 +32,9 @@
     {
       "name": "Epiphaneia",
       "text": "Maybe! Alright, let's go talk to them. \n*inhale*...——",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うーん……奥で作業しているのかも？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -41,7 +46,9 @@
     {
       "name": "Narrator",
       "text": "Just as I was startled by the excessively \nloud voice in the quiet shop—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（あまりに声が大きい……！！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -68,7 +75,9 @@
     {
       "name": "Narrator",
       "text": "(Pound, pound, pound!!! Pound, pound, \npound!!! Pound, pound, pound!!! Pound, \npound, pound!!!)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "わ、わからない……！"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -85,7 +94,9 @@
     {
       "name": "Fenomeno",
       "text": "Hm, is something the matter? What is going \non—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そ、そんなこと言ってる場合じゃ――"
+      ]
     },
     {
       "name": "Narrator",
@@ -144,13 +155,16 @@
       "name": "Epiphaneia",
       "text": "Yeah! That's right!! Shopkeeper, I am \ntruly, truly sorry!!",
       "choice_data_list": [
-        "Keep your voice down!"
+        "なら、今後はTPOをわきまえて――",
+        "お詫びに何かできることはないかな"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Ahahaha! You're right! Sorry! I said I'm \nsorry, okay?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "だから、声の大きさ！"
+      ]
     },
     {
       "name": "Narrator",

@@ -27,7 +27,10 @@
     {
       "name": "Vivlos",
       "text": "Ehh, I can't~? Come on, just a little \nbit's fine, isn't it~? Let me run~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ダメ。悪化させたらいい感じも台無しだよ",
+        "どうしてもというなら別メニューで"
+      ]
     },
     {
       "name": "Narrator",
@@ -59,7 +62,9 @@
     {
       "name": "Vivlos",
       "text": "Tch. Guess I've got no choice but to wait \nquietly~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……買ってくるから安静にするように"
+      ]
     },
     {
       "name": "Narrator",
@@ -97,7 +102,10 @@
     {
       "name": "Vivlos",
       "text": "Yeah... I'm sorry. Maybe I really should \nhave just rested...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……痛むのか？",
+        "……痛むの？"
+      ]
     },
     {
       "name": "Narrator",

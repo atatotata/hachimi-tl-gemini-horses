@@ -19,7 +19,10 @@
     },
     {
       "name": "Announcer",
-      "text": "Huh? W-wait..."
+      "text": "Huh? W-wait...",
+      "choice_data_list": [
+        "えっ"
+      ]
     },
     {
       "name": "King Halo",
@@ -171,7 +174,10 @@
     },
     {
       "name": "King Halo",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "すみません！！"
+      ]
     },
     {
       "name": "",
@@ -179,7 +185,11 @@
     },
     {
       "name": "King Halo",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "ちょっと休もうか",
+        "ちょっと休もう"
+      ]
     },
     {
       "name": "King Halo",
@@ -199,7 +209,11 @@
     },
     {
       "name": "King Halo",
-      "text": "...I'm sorry."
+      "text": "...I'm sorry.",
+      "choice_data_list": [
+        "そういう冗談はやめてくれ",
+        "そういう冗談はやめて"
+      ]
     },
     {
       "name": "King Halo",
@@ -247,11 +261,18 @@
     },
     {
       "name": "King Halo",
-      "text": "Are you sure you want to hear that\nanswer? There\nmay not be any turning\nback for you either."
+      "text": "Are you sure you want to hear that\nanswer? There\nmay not be any turning\nback for you either.",
+      "choice_data_list": [
+        "君はどうしたい？",
+        "貴方はどうしたい？"
+      ]
     },
     {
       "name": "King Halo",
-      "text": "...Heh."
+      "text": "...Heh.",
+      "choice_data_list": [
+        "いいよ"
+      ]
     },
     {
       "name": "King Halo",

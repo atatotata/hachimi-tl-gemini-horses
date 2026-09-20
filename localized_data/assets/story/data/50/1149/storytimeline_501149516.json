@@ -66,7 +66,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Ah, Trainer. ...Hardly. \nWe had intended to have a \"light bite.\" \nRight?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あれ？君たちもラーメンを食べに？",
+        "あれ？貴方たちもラーメンを食べに？"
+      ]
     },
     {
       "name": "Narrator",
@@ -81,15 +84,19 @@
       "name": "Narrator",
       "text": "Phalaenopsis explained what happened. \nCalling ramen a \"light bite\" was certainly \nquite a stretch...",
       "choice_data_list": [
-        "Why not just get a half-portion, then?",
-        "You're already here, so why not indulge \nfor once?",
-        "You're already here, so you might as well \ntreat yourself for once!"
+        "じゃあ、半サイズにしておいたら？",
+        "せっかく来たんだし、たまにはいいだろ！",
+        "せっかく来たんだし、たまにはいいでしょ！"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "Indeed, I was thinking along the same \nlines.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃあ、半サイズにしておいたら？",
+        "せっかく来たんだし、たまにはいいだろ！",
+        "せっかく来たんだし、たまにはいいでしょ！"
+      ]
     },
     {
       "name": "Narita Brian",

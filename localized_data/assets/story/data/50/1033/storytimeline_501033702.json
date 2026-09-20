@@ -39,7 +39,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh, I'm sorry! I'm sorry! But... there are\nchildren\nlooking forward to the\nperformance!"
+      "text": "Oh, I'm sorry! I'm sorry! But... there are\nchildren\nlooking forward to the\nperformance!",
+      "choice_data_list": [
+        "ここまでついて来ちゃったけどな",
+        "ここまでついて来ちゃったけどね"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -87,7 +91,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I'm... I'm really sorry about that! It's my\nfault for\nmaking you do so much..."
+      "text": "I'm... I'm really sorry about that! It's my\nfault for\nmaking you do so much...",
+      "choice_data_list": [
+        "とても遠回りしてしまったな……",
+        "とても遠回りしてしまったね……"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -131,7 +139,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh, they're from the local children's\ncenter.\nOpera O invited them to watch\nour show..."
+      "text": "Oh, they're from the local children's\ncenter.\nOpera O invited them to watch\nour show...",
+      "choice_data_list": [
+        "この子たちは？"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -155,11 +166,23 @@
     },
     {
       "name": "Admire Vega",
-      "text": "H-hold on..."
+      "text": "H-hold on...",
+      "choice_data_list": [
+        "わかる！『かっけー』よな！",
+        "わかる！『かっけー』よね！",
+        "ここは俺に任せて",
+        "ここは私に任せて"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...I only did what anyone should do."
+      "text": "...I only did what anyone should do.",
+      "choice_data_list": [
+        "わかる！『かっけー』よな！",
+        "わかる！『かっけー』よね！",
+        "ここは俺に任せて",
+        "ここは私に任せて"
+      ]
     },
     {
       "name": "Children",
@@ -179,7 +202,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "さあ、アヤベ隊員！次の現場に向かうぞ！",
+        "さあ、アヤベ隊員！次の現場に向かおう！"
+      ]
     },
     {
       "name": "Children",
@@ -191,7 +218,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Keep it up and <i>someone</i> might come and\nscout\nyou to be in their play."
+      "text": "Keep it up and <i>someone</i> might come and\nscout\nyou to be in their play.",
+      "choice_data_list": [
+        "なんとなく雰囲気で……"
+      ]
     },
     {
       "name": "Monologue",

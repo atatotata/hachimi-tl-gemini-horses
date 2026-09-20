@@ -151,7 +151,9 @@
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "Ehehe, did you know? Black tea is \nsomething you brew while thinking of the \nother person!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "紅茶？"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -164,21 +166,23 @@
       "name": "Narrator",
       "text": "The black tea Tsurumaru Tsuyoshi brewed \nwas crisp, easy to drink, and above all, \ndelicious.",
       "choice_data_list": [
-        "Delicious! Another bowl, please!",
-        "Awesome! Tsuyoshi, come have a drink with \nus too!"
+        "ありがとう！いただきます！"
       ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "Whoa! You finished it so fast! I'll brew \nyou a refill right away!",
       "choice_data_list": [
-        "Should I savor it a bit more as I drink?"
+        "美味しい！もう一杯！",
+        "最高！ツヨシも一緒に飲もう！"
       ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "It's fine! Drink lots of it and get \nhealthy!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "もう少し味わって飲んだほうがいいかな？"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -190,7 +194,9 @@
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "\"Trainer! Thank you so much~!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うん、ツヨシにも健康になってほしい"
+      ]
     }
   ]
 }

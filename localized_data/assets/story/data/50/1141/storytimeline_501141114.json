@@ -22,7 +22,10 @@
     {
       "name": "Epiphaneia",
       "text": "Yeah, I'll keep my ears open!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺の声をよく聞いてくれ",
+        "私の声をよく聞いてね"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -35,21 +38,23 @@
       "name": "Epiphaneia",
       "text": "—Understood, let's go right now! \nUOOOOOOOOOOOOOOOOOOOOOO!!!!",
       "choice_data_list": [
-        "Huh!? Hold back—!!"
+        "よし、そのまま抑えて！"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Phew! I gave it everything I had!",
       "choice_data_list": [
-        "Yeah, she was really running with all her \nmight...",
-        "Yeah, she was really running... with \neverything she had..."
+        "あれっ！？抑えてー！！"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "—Failure. A failure, it is.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、思いきり……走ってたな……",
+        "うん、思いきり……走ってたね……"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -63,21 +68,24 @@
       "name": "",
       "text": "It likely wasn't something that could be \neasily replicated. ...Perhaps at this \njuncture, we ought to reorganize the \nfundamentals from scratch once more.",
       "choice_data_list": [
-        "(Regarding the voice of destiny—)"
+        "なら仕方ないな……",
+        "なら仕方ないね……"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "\"The voice of destiny is the voice of \ndestiny! It's a voice only I can hear! \nThat's all there is to it!\"",
       "choice_data_list": [
-        "Yeah, tell me a little more in detail.",
-        "Yeah, could you tell me a little more in \ndetail?"
+        "（運命の声について――）"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "\"Hmm, I can only really say what I said \nbefore! In other words—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うん、もう少し詳しく聞かせてくれ",
+        "うん、もう少し詳しく聞いてもいい？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -100,7 +108,10 @@
     {
       "name": "",
       "text": "Whether the voice of destiny is purely \npsychological or truly something \nmysterious... what matters is the order in \nwhich the voice is heard.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、そうだね……",
+        "うん、そうだね……"
+      ]
     },
     {
       "name": "",
@@ -112,7 +123,9 @@
     {
       "name": "",
       "text": "In other words—all we need is for them to \nbelieve that following your guidance will \nlead to even better things than before.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（エピを納得させるのが大事なのかも？）"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -126,21 +139,24 @@
       "name": "Epiphaneia",
       "text": "Alright!! Well, I'm off then!",
       "choice_data_list": [
-        "Ah... Wait, they're already gone.",
-        "Yeah... Wait, they're already gone."
+        "ああ、大丈夫！協力ありがとう",
+        "うん、大丈夫！協力ありがとう"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Trainer!",
       "choice_data_list": [
-        "Huh? What's wrong?"
+        "ああ……って、もういないな",
+        "うん……って、もういないね"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "A treat for you! I just won a free drink \nfrom the vending machine♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あれ？どうしたの？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -153,14 +169,16 @@
       "name": "Epiphaneia",
       "text": "Hehe, looks like my timing was spot on! \nThe voice of destiny told me to go for it \ntoo!",
       "choice_data_list": [
-        "(She really is an honest, friendly \ngirl...)",
-        "(She really is an honest, friendly girl, \nisn't she?)"
+        "ありがとう……！"
       ]
     },
     {
       "name": "",
       "text": "It wasn't that she distrusted my coaching; \nrather, because she believed in herself so \nstrongly, she simply prioritized other \npeople's opinions less.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（素直で人懐っこい子、なんだよな）",
+        "（素直で人懐っこい子、なんだよね）"
+      ]
     },
     {
       "name": "",
@@ -174,29 +192,32 @@
       "name": "Epiphaneia",
       "text": "Whoa!? The menu just got way more lavish!",
       "choice_data_list": [
-        "I tried making the explanation a bit more \ndetailed.",
-        "I tried making the explanation a bit more \ndetailed."
+        "（ここが腕の見せ所だな！）",
+        "（ここが腕の見せ所だね！）"
       ]
     },
     {
       "name": "",
       "text": "To build trust in the training regimen, I \nadded data and refined it to make \"why \nthis menu works\" crystal clear.",
       "choice_data_list": [
-        "Doesn't it feel like doing it this way \nwill make you stronger?",
-        "Doesn't it feel like doing it this way \nwill make you stronger?"
+        "説明の分量を増やしてみたんだ",
+        "説明の分量を増やしてみたの"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Hrrrrrrrmmm... Is that so?",
       "choice_data_list": [
-        "……！？"
+        "この通りにやれば強くなれそうだろう？",
+        "この通りにやれば強くなれそうでしょう？"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "The numbers you're putting up are amazing! \nAnd I get the point of it. But... it just \ndoesn't hit me in the gut!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -209,20 +230,22 @@
       "name": "Umamusume A",
       "text": "—Hm? Isn't that person doing high knees... \nEpi's Trainer?",
       "choice_data_list": [
-        "Huff...!! Huff...!!"
+        "……！？！？"
       ]
     },
     {
       "name": "Umamusume B",
       "text": "Ah, you're right. Is she acting as a role \nmodel? ...Though she seems a little too \ndesperate for that—",
       "choice_data_list": [
-        "Uwoooooooh...!!!!"
+        "ふ……っ！！ふ……っ！！"
       ]
     },
     {
       "name": "Umamusume A",
       "text": "Wait, a full sprint!? ...What!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うおおおおお……！！！！"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -235,20 +258,22 @@
       "name": "",
       "text": "To help Epiphaneia fully understand, I had \nher complete a routine adapted for humans, \nthen timed her all-out sprint. And then—",
       "choice_data_list": [
-        "...! Look, your time is improving!"
+        "あり……あり、が……と……"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "That's incredible! Congratulations!!",
       "choice_data_list": [
-        "(Ah, they finally understand—)"
+        "……！ほら、タイムがよくなってる！"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Still, my method is way more incredible! \nI'll make you fast, so just follow my \nlead!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ああ、やっとわかってもらえた――）"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -261,13 +286,15 @@
       "name": "",
       "text": "However, trying to convince her through \npure logic won't reach someone who relies \non her intuition.",
       "choice_data_list": [
-        "(Unless she truly thinks it's \"good\"—)"
+        "（…………諦めないっっ！）"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "âLook, what a great view! You can see \nsooooo far away... I'm so moved!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（彼女が“いい”と思わないと――）"
+      ]
     },
     {
       "name": "",
@@ -280,27 +307,29 @@
       "name": "Epiphaneia",
       "text": "Trainer! What's the matter? Are you worn \nout!?",
       "choice_data_list": [
-        "Epi, about our next day off..."
+        "（もっと信じてもらえる……？）"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "Good morning, Trainer!",
       "choice_data_list": [
-        "Good morning! (She really came...!)"
+        "エピ、今度の休養日なんだけど……"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "\"Thanks for inviting me! I'm super happy \nto see you even on our day off!\"",
       "choice_data_list": [
-        "(She really is such a straightforward \ngirl...)"
+        "おはよう！（ちゃんと来てくれた……！）"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "So, what're we playing today!? You're \ngonna give me a real thrill, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（本当、ストレートな子だなぁ……）"
+      ]
     },
     {
       "name": "",
@@ -313,14 +342,16 @@
       "name": "Epiphaneia",
       "text": "Oooh! So cute!! It's Cesario!!",
       "choice_data_list": [
-        "Kris S is over here with us too.",
-        "Kris S is on our side too!"
+        "まずは、お買い物から！"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "You're right! She looks so sharp and cute!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "こっちにはクリスエスもいるぞ",
+        "こっちにはクリスエスもいるよ"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -333,13 +364,15 @@
       "name": "Epiphaneia",
       "text": "Ooooh!? Then what are you doing here!?",
       "choice_data_list": [
-        "Let's find custom outfits for the two of \nyou!"
+        "事前にお迎え済みです！"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "I see!! Sounds interesting, let's look for \nit!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ふたりのカスタム衣装を探そう！"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -352,7 +385,10 @@
     {
       "name": "Epiphaneia",
       "text": "No—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうだな、どっちにつける？",
+        "そうだね、どっちにつける？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -370,13 +406,15 @@
       "name": "Epiphaneia",
       "text": "Ohh! You can see the whole town from here!",
       "choice_data_list": [
-        "Try looking through the telescope over \nthere."
+        "（な、なぜ……）"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "You can see pretty far from here— ...Hm? \nWh-Whaaaat?! What is with that electric \nbulletin board?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あそこの望遠鏡を覗いてみて"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -393,7 +431,9 @@
     {
       "name": "Epiphaneia",
       "text": "What a surprise—! I'm so happy, thank \nyou!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "サプライズ大成功！"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -405,7 +445,9 @@
     {
       "name": "",
       "text": "Though it was for the sake of her \ntraining, seeing Epiphaneia look genuinely \nhappy naturally brightens my own heart as \nwell.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……ふふ、よかった）"
+      ]
     },
     {
       "name": "",
@@ -428,7 +470,10 @@
     {
       "name": "Epiphaneia",
       "text": "Huh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "まだ終わってないぞ",
+        "まだ終わってないよ"
+      ]
     },
     {
       "name": "",
@@ -460,7 +505,9 @@
     {
       "name": "",
       "text": "\"I will definitely guide her down the \nright path. So please, believe in me...\" \nJust as I opened my mouth to say those \nwords—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……今なら、彼女の心に響くかも）"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -472,7 +519,9 @@
     {
       "name": "Epiphaneia",
       "text": "I became certain today! You care about me \nthis much and make me so happy...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "………………え？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -489,7 +538,9 @@
     {
       "name": "",
       "text": "Overcome with a mix of emotions, I chased \nafter Epiphaneia— and found her on the \ntrack.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ？……えっ！？"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -506,7 +557,9 @@
     {
       "name": "Epiphaneia",
       "text": "I want to see where you will lead me! So \ngive me whatever guidance you think is \nbest!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！！それって……"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -524,13 +577,15 @@
       "name": "Epiphaneia",
       "text": "Alright! Then what should I do first?",
       "choice_data_list": [
-        "First of all... let's get changed!"
+        "もちろん、見せるよ！！"
       ]
     },
     {
       "name": "",
       "text": "And so, the voice of destiny began nudging \nEpiphaneia to follow my guidance instead.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "まずは…………着替えよう！"
+      ]
     },
     {
       "name": "",

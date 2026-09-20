@@ -83,7 +83,11 @@
     },
     {
       "name": "Hokko Tarumae",
-      "text": "Ah, Trainer-san from the other day! You \nsee—"
+      "text": "Ah, Trainer-san from the other day! You \nsee—",
+      "choice_data_list": [
+        "今度は何に悩んでるんだ？",
+        "今度は何に悩んでるの？"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -98,7 +102,10 @@
     },
     {
       "name": "Hokko Tarumae",
-      "text": "N-No, I can't do that!"
+      "text": "N-No, I can't do that!",
+      "choice_data_list": [
+        "じゃあ、もう1度アドバイスをもらったら？"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -115,19 +122,22 @@
       "name": "Hokko Tarumae",
       "text": "I want to make this the ultimate live. To \ndo that, I have to make people love \nTomakomai and me through my own ideas and \nmethods.",
       "choice_data_list": [
-        "...Do you really need to cram everything \ninto the live, though?"
+        "そうか……"
       ]
     },
     {
       "name": "Hokko Tarumae",
       "text": "I have to! Because...!",
       "choice_data_list": [
-        "You could make use of those ideas outside \nof the live too."
+        "……けど、全部取り入れる必要はあるのかな"
       ]
     },
     {
       "name": "Hokko Tarumae",
-      "text": "Huh? Ah—"
+      "text": "Huh? Ah—",
+      "choice_data_list": [
+        "ライブ以外でも活かしようはあると思うけど"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -150,14 +160,19 @@
       "name": "Hokko Tarumae",
       "text": "! With this, I think I can make it work!!",
       "choice_data_list": [
-        "Nice, hope it goes well!",
-        "Great, hope it goes well!",
-        "Glad I could be of help."
+        "そっか、上手くいくといいな！",
+        "そっか、上手くいくといいね！",
+        "役に立てたみたいでよかった"
       ]
     },
     {
       "name": "Hokko Tarumae",
-      "text": "Yes! It's bound to go well! After all, \neveryone... and you, Trainer-san, gave me \nsuch wonderful advice!!"
+      "text": "Yes! It's bound to go well! After all, \neveryone... and you, Trainer-san, gave me \nsuch wonderful advice!!",
+      "choice_data_list": [
+        "そっか、上手くいくといいな！",
+        "そっか、上手くいくといいね！",
+        "役に立てたみたいでよかった"
+      ]
     },
     {
       "name": "Hokko Tarumae",

@@ -18,7 +18,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Well unfortunately for you, \"same-old\" is \nall I've got in me."
+      "text": "Well unfortunately for you, \"same-old\" is \nall I've got in me.",
+      "choice_data_list": [
+        "君はどこでも、いつもどおりだなぁ……",
+        "貴方はどこでも、いつもどおりだなぁ……"
+      ]
     },
     {
       "name": "???",
@@ -84,7 +88,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "We'll see her at training anyway right? We \ncan say our greetings then, today is \nmoreso ——"
+      "text": "We'll see her at training anyway right? We \ncan say our greetings then, today is \nmoreso ——",
+      "choice_data_list": [
+        "えっ、まだマックイーンに会ってないけど"
+      ]
     },
     {
       "name": "???",
@@ -111,7 +118,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hearing your satisfaction is greatly \nappreciated, however may I request you two \nremain for a while longer?"
+      "text": "Hearing your satisfaction is greatly \nappreciated, however may I request you two \nremain for a while longer?",
+      "choice_data_list": [
+        "招待してくれて、ありがとう"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -138,7 +148,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…I understand. As I have nothing scheduled \nafter this event, I will partake in this \nlittle escapade. However ——"
+      "text": "…I understand. As I have nothing scheduled \nafter this event, I will partake in this \nlittle escapade. However ——",
+      "choice_data_list": [
+        "（いつの間にか数に含まれてる……？）"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -154,7 +167,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "It'd be more interesting if you picked it. \nIt's all you now."
+      "text": "It'd be more interesting if you picked it. \nIt's all you now.",
+      "choice_data_list": [
+        "えっ、俺！？",
+        "えっ、私！？"
+      ]
     },
     {
       "text": "An unreasonable request was suddenly \nplaced on my shoulders. I want to respond \nwith a place that could match their fancy. \nAll I could come up with was ——",
@@ -166,7 +183,12 @@
     },
     {
       "name": "Stay Gold",
-      "text": "<i>Haha,</i> I also think it's a good time to go \nfor a stroll. Alright, let's go."
+      "text": "<i>Haha,</i> I also think it's a good time to go \nfor a stroll. Alright, let's go.",
+      "choice_data_list": [
+        "さ、散歩する……？",
+        "どこかでお茶とか……？",
+        "ゲーセンとか行く……？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -201,7 +223,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "<i>Haa……</i> It is not like I mind all that much. \nStay Gold is just this type of person…"
+      "text": "<i>Haa……</i> It is not like I mind all that much. \nStay Gold is just this type of person…",
+      "choice_data_list": [
+        "なんかごめん、マックイーン……"
+      ]
     },
     {
       "text": "…We gazed at the beautiful sunset \ntogether, but afterwards, we were \ngenuinely dazed by how we manged to end up \nin the middle of nowhere —"
@@ -215,7 +240,10 @@
     },
     {
       "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
-      "text": "For a store to interest Miss Stego… I am \nvery curious what it would look like!"
+      "text": "For a store to interest Miss Stego… I am \nvery curious what it would look like!",
+      "choice_data_list": [
+        "じゃあ、そこに行ってみようか"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -243,7 +271,11 @@
     },
     {
       "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
-      "text": "Now that I have taken a closer look, the \ninterior is incredibly intricate. I think \nit is absolutely wonderful…!"
+      "text": "Now that I have taken a closer look, the \ninterior is incredibly intricate. I think \nit is absolutely wonderful…!",
+      "choice_data_list": [
+        "造形がすごくリアルだな……！",
+        "造形がすごくリアルだね……！"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -293,7 +325,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "T-Thank you very much… You saved me out \nthere."
+      "text": "T-Thank you very much… You saved me out \nthere.",
+      "choice_data_list": [
+        "おおっ、一発で弱点を……！"
+      ]
     },
     {
       "name": "Stay Gold",

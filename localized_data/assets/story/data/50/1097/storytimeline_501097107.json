@@ -12,13 +12,15 @@
       "name": "Junior Trainer",
       "text": "Huh? ...Where is it?",
       "choice_data_list": [
-        "Look, out in the hallway—"
+        "あ、スティルだ"
       ]
     },
     {
       "name": "Junior Trainer",
       "text": "...Hm? ...Ah! Whoa, I didn't notice that \nat all...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ほら、廊下に"
+      ]
     },
     {
       "name": "Junior Trainer",
@@ -31,13 +33,15 @@
       "name": "Junior Trainer",
       "text": "...Hm? Come to think of it... Her vibe \nseems to have changed a bit, hasn't it?",
       "choice_data_list": [
-        "...Which part?"
+        "大げさだなぁ"
       ]
     },
     {
       "name": "Junior Trainer",
       "text": "W-Well, before this, she always kind of... \nseemed sort of uneasy, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……どのあたりが？"
+      ]
     },
     {
       "name": "Junior Trainer",
@@ -55,7 +59,10 @@
     {
       "name": "Still in Love",
       "text": "...Y-Yes. Um... Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "大丈夫。それより……俺を待ってた？",
+        "大丈夫。それより……私を待ってた？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -67,7 +74,9 @@
     {
       "name": "Still in Love",
       "text": "...! In that case...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "たしか、なかったと思うけど……"
+      ]
     },
     {
       "name": "Still in Love",
@@ -90,13 +99,15 @@
       "name": "Still in Love",
       "text": "No! ...I only just got here myself.",
       "choice_data_list": [
-        "...Really?"
+        "おはよう。ごめん、待たせた？"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Huh... Um, well... ...Er, I didn't see the \nsunrise, no...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……本当に？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -108,7 +119,9 @@
     {
       "name": "Still in Love",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……まずは温かいもの、買いに行こうか！"
+      ]
     },
     {
       "name": "Still in Love",
@@ -126,14 +139,16 @@
       "name": "Still in Love",
       "text": "Yes. I'd like that.",
       "choice_data_list": [
-        "Then I'll handle the order—",
-        "Then I'll handle the order—"
+        "ふたつ買って、公園で飲む？"
       ]
     },
     {
       "name": "Still in Love",
       "text": "P-Please wait! Please... let me try...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃあ、注文は俺が――",
+        "じゃあ、注文は私が――"
+      ]
     },
     {
       "name": "Still in Love",
@@ -150,7 +165,9 @@
     {
       "name": "Still in Love",
       "text": "...U-Um, excuse me...! Two small hot \nHachimis, please...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（頑張れ、スティル……！）"
+      ]
     },
     {
       "name": "Clerk",
@@ -174,13 +191,16 @@
       "name": "Still in Love",
       "text": "—Phew... That Hachimitsu was delicious, \nwasn't it?",
       "choice_data_list": [
-        "Yeah. To be honest, I could've gone with a \nRegular size."
+        "（よかったな……！）",
+        "（よかったね……！）"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Ah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うん。Rサイズにしてもよかったくらい"
+      ]
     },
     {
       "name": "Still in Love",
@@ -192,7 +212,9 @@
     {
       "name": "Still in Love",
       "text": "If so... um, if it's alright with you—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うーん、そうかも？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -204,7 +226,9 @@
     {
       "name": "Still in Love",
       "text": "Fufu. Yes... it's Valentine's Day.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、そっか、今日って……"
+      ]
     },
     {
       "name": "Still in Love",
@@ -226,7 +250,9 @@
     {
       "name": "Still in Love",
       "text": "I've prepared a handwritten explanation, \nbut... I'll also walk you through it \nverbally.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ありがとう……！"
+      ]
     },
     {
       "name": "Still in Love",
@@ -248,7 +274,9 @@
     {
       "name": "Still in Love",
       "text": "Yes. ...Though I did wonder if I was \noverstepping my bounds.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、手作り……！？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -265,7 +293,9 @@
     {
       "name": "Still in Love",
       "text": "...! Yes...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "頂くよ。……ありがとう"
+      ]
     },
     {
       "name": "Narrator",
@@ -282,7 +312,9 @@
     {
       "name": "Still in Love",
       "text": "Ah... The thing is, it hasn't actually \nbeen that painful lately...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日の日差しは強くない？大丈夫？"
+      ]
     },
     {
       "name": "Still in Love",
@@ -294,7 +326,9 @@
     {
       "name": "Still in Love",
       "text": "Yes. Very much so!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "へえ……それは気持ちよさそうだね"
+      ]
     },
     {
       "name": "Still in Love",
@@ -312,13 +346,15 @@
       "name": "Still in Love",
       "text": "\"So... right now, before going to sleep \neach night... I write down one thing I \nwant to do in my diary.\"",
       "choice_data_list": [
-        "Oh, sounds good."
+        "スティル……"
       ]
     },
     {
       "name": "Still in Love",
       "text": "Yes. Though it's quite difficult.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "おお、いいね"
+      ]
     },
     {
       "name": "Still in Love",
@@ -355,7 +391,9 @@
     {
       "name": "Still in Love",
       "text": "...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "もちろん"
+      ]
     },
     {
       "name": "Still in Love",
@@ -374,14 +412,17 @@
       "name": "Still in Love",
       "text": "Trainer...",
       "choice_data_list": [
-        "I'm sure they're waiting for you to visit.",
-        "I'm sure they're waiting for you to visit."
+        "でも、君だ",
+        "でも、貴方だ"
       ]
     },
     {
       "name": "Still in Love",
       "text": "...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君が訪ねてくれるのを、きっと待ってるよ",
+        "貴方が訪ねてくれるのを、きっと待ってるよ"
+      ]
     },
     {
       "name": "Still in Love",
@@ -409,7 +450,10 @@
     {
       "name": "Still in Love",
       "text": "\"I... really love this peaceful life right \nnow. That's why... I...—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ああ",
+        "……うん"
+      ]
     },
     {
       "name": "Still in Love",
@@ -421,7 +465,9 @@
     {
       "name": "Still in Love",
       "text": "……――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いいよ、スティル。……続けて"
+      ]
     },
     {
       "name": "Still in Love",
@@ -433,7 +479,9 @@
     {
       "name": "Narrator",
       "text": "Still in Love's cheerful words were the \nvery picture of pure happiness.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……眩しい）"
+      ]
     },
     {
       "name": "Narrator",
@@ -456,13 +504,15 @@
       "name": "Still in Love",
       "text": "Huh?",
       "choice_data_list": [
-        "Let's figure out where to start together."
+        "……やりたいことリスト、後で見ていい？"
       ]
     },
     {
       "name": "Still in Love",
       "text": "...Yes!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何から始めるか、一緒に考えよう"
+      ]
     },
     {
       "name": "Still in Love",

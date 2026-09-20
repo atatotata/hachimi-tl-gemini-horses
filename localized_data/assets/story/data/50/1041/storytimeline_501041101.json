@@ -19,7 +19,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Yes!"
+      "text": "Yes!",
+      "choice_data_list": [
+        "つまり起きてから書いたんだな",
+        "つまり起きてから書いたんだね"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "That's right!"
+      "text": "That's right!",
+      "choice_data_list": [
+        "『クラシックもバクシン勝利！』……"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -63,7 +70,12 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Bakushin toward a brighter tomorrow!\nYeah! By\nwhich you mean to..."
+      "text": "Bakushin toward a brighter tomorrow!\nYeah! By\nwhich you mean to...",
+      "choice_data_list": [
+        "明日に向かってバクシンだ！",
+        "今は羽化を待つ時、休もう",
+        "逆に何がしたい？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -71,7 +83,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Ooh! OOH!"
+      "text": "Ooh! OOH!",
+      "choice_data_list": [
+        "スピードで明日を捕まえるんだ",
+        "スピードで明日を捕まえるんだよ"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -107,7 +123,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I trust you, Trainer. But..."
+      "text": "I trust you, Trainer. But...",
+      "choice_data_list": [
+        "何が！？"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -155,11 +174,17 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Huh?! Why the constraints?!"
+      "text": "Huh?! Why the constraints?!",
+      "choice_data_list": [
+        "『スピードアップ』以外で"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I see! You want to see the wide variety\nof ideas I\ncan come up with, right?"
+      "text": "I see! You want to see the wide variety\nof ideas I\ncan come up with, right?",
+      "choice_data_list": [
+        "たまにはいつもと違うことを"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -183,7 +208,10 @@
     },
     {
       "name": "Monologue",
-      "text": "...Afterwards, I exchange various\nthoughts about\ntraining with Sakura\nBakushin O. It seems to\ncontribute to her\ngrowth."
+      "text": "...Afterwards, I exchange various\nthoughts about\ntraining with Sakura\nBakushin O. It seems to\ncontribute to her\ngrowth.",
+      "choice_data_list": [
+        "先生？"
+      ]
     }
   ]
 }

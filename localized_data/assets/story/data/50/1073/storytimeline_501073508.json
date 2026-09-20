@@ -17,14 +17,16 @@
       "name": "Narrator",
       "text": "I headed home relieved, but... A familiar \npair of legs is sticking out of the \nflowerbed.",
       "choice_data_list": [
-        "Tsuyoshi!? Are you okay!?",
-        "Tsuyoshi!? Are you alright!?"
+        "（よし、いつも通りだ）"
       ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "? Trainer? Why are you in my room— Wait, \nhuh?! This isn't my room?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ツヨシ！？大丈夫か！？",
+        "ツヨシ！？大丈夫！？"
+      ]
     },
     {
       "name": "Narrator",

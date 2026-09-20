@@ -23,7 +23,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Hehe. You're nervous enough for the\ntwo of us.\nI'm doing just fine."
+      "text": "Hehe. You're nervous enough for the\ntwo of us.\nI'm doing just fine.",
+      "choice_data_list": [
+        "だ、大丈夫だ！そっちは！？",
+        "だ、大丈夫！そっちは！？"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -35,7 +39,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Well, I should be on my way."
+      "text": "Well, I should be on my way.",
+      "choice_data_list": [
+        "楽しみにしてるぞ……！",
+        "楽しみにしてるね……！"
+      ]
     }
   ]
 }

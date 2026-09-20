@@ -19,7 +19,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Thank you."
+      "text": "Thank you.",
+      "choice_data_list": [
+        "どうぞ"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -27,11 +30,17 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "A training regimen? Um, if you don't\nmind, may I\ntake a look?"
+      "text": "A training regimen? Um, if you don't\nmind, may I\ntake a look?",
+      "choice_data_list": [
+        "はい、練習メニューを考えていて"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Thank you very much. Pardon me..."
+      "text": "Thank you very much. Pardon me...",
+      "choice_data_list": [
+        "構いませんよ"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -43,11 +52,17 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Mine? But I'm just a reporter. I'm not\nsure my\nthoughts would be especially\ninsightful..."
+      "text": "Mine? But I'm just a reporter. I'm not\nsure my\nthoughts would be especially\ninsightful...",
+      "choice_data_list": [
+        "もしよければ、ご意見をいただけませんか"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "What an amazing attitude to have!\nAbsorbing\nanything and everything you\ncan, almost like an\ninsatiable black\nhole..."
+      "text": "What an amazing attitude to have!\nAbsorbing\nanything and everything you\ncan, almost like an\ninsatiable black\nhole...",
+      "choice_data_list": [
+        "別の視点は大事なので"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -71,7 +86,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She certainly has a lot to say, and her\n\nobservations are all incredibly insightful!"
+      "text": "She certainly has a lot to say, and her\n\nobservations are all incredibly insightful!",
+      "choice_data_list": [
+        "なるほど……！"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -79,7 +97,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I'm honored to hear that... But I'm quite\nhappy\nbeing a reporter."
+      "text": "I'm honored to hear that... But I'm quite\nhappy\nbeing a reporter.",
+      "choice_data_list": [
+        "トレーナーも目指せそうですよね"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -87,7 +108,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Oh! Don't you need to discuss the\nmagazines,\nReporter Otonashi?"
+      "text": "Oh! Don't you need to discuss the\nmagazines,\nReporter Otonashi?",
+      "choice_data_list": [
+        "……？"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -99,7 +123,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "There sure are a lot. And not just racing\n\nmagazines either—there are Umamusume\nfashion\nand manga magazines, too."
+      "text": "There sure are a lot. And not just racing\n\nmagazines either—there are Umamusume\nfashion\nand manga magazines, too.",
+      "choice_data_list": [
+        "紙袋の中身はこれだったんですね"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -107,11 +134,17 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I was utterly taken aback as well!"
+      "text": "I was utterly taken aback as well!",
+      "choice_data_list": [
+        "こんなにたくさんあるのに、一部！？"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "If only I could redirect your kind\ncomments to the\nmany companies who\nagreed to pitch in and help!"
+      "text": "If only I could redirect your kind\ncomments to the\nmany companies who\nagreed to pitch in and help!",
+      "choice_data_list": [
+        "改めて、すごい開催規模ですね"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -123,11 +156,18 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Well, this series is going to determine\nthe\ngreatest, after all! I want to learn\nfrom your\nexample, Trainer\n\n<username>, and\ndevote\nmyself fully to this cause!"
+      "text": "Well, this series is going to determine\nthe\ngreatest, after all! I want to learn\nfrom your\nexample, Trainer\n\n<username>, and\ndevote\nmyself fully to this cause!",
+      "choice_data_list": [
+        "気合い充分ですね！"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Naturally! ...Oop, look at the time!"
+      "text": "Naturally! ...Oop, look at the time!",
+      "choice_data_list": [
+        "俺も死力を尽くすことになってるんですか",
+        "私も死力を尽くすことになってるんですか"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -139,7 +179,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Oh, by the way, have you seen this?"
+      "text": "Oh, by the way, have you seen this?",
+      "choice_data_list": [
+        "そうですね……"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,11 +194,17 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "But?"
+      "text": "But?",
+      "choice_data_list": [
+        "正直、嬉しいです。でも……"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Oh my! I know how you feel, though. An\narticle\nthis small does leave a little to be\ndesired."
+      "text": "Oh my! I know how you feel, though. An\narticle\nthis small does leave a little to be\ndesired.",
+      "choice_data_list": [
+        "いつか、1冊丸ごと特集されたいです！"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

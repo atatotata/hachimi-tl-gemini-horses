@@ -11,7 +11,11 @@
     },
     {
       "name": "Reporter A",
-      "text": "I heard they renovated the place, but I\ndon't see\nany changes."
+      "text": "I heard they renovated the place, but I\ndon't see\nany changes.",
+      "choice_data_list": [
+        "そ、そう思えるくらい盛況だな！",
+        "そ、そう思えるくらい盛況だね！"
+      ]
     },
     {
       "name": "Reporter B",
@@ -43,7 +47,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Let's start off with the spa! The steam\nwill melt\naway your built-up fatigue. ♪"
+      "text": "Let's start off with the spa! The steam\nwill melt\naway your built-up fatigue. ♪",
+      "choice_data_list": [
+        "よ、よろしくお願いします……！"
+      ]
     },
     {
       "name": "Butler",
@@ -59,7 +66,11 @@
     },
     {
       "name": "Reporter A",
-      "text": "Well, this is nothing special. Any\nestablishment\ncould provide the same\nservice if they wanted to."
+      "text": "Well, this is nothing special. Any\nestablishment\ncould provide the same\nservice if they wanted to.",
+      "choice_data_list": [
+        "用意できるのか……！？",
+        "用意できるの……！？"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -147,7 +158,10 @@
     },
     {
       "name": "Manager",
-      "text": "Oh! Th-thank you so much!"
+      "text": "Oh! Th-thank you so much!",
+      "choice_data_list": [
+        "絶対にまた来ます！"
+      ]
     },
     {
       "name": "Monologue",

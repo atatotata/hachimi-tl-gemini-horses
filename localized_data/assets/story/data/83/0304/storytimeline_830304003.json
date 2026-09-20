@@ -146,7 +146,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Fufu, there is not a single blemish upon \nmy beauty. And that, too, is thanks to \nDotou's presence!"
+      "text": "Fufu, there is not a single blemish upon \nmy beauty. And that, too, is thanks to \nDotou's presence!",
+      "choice_data_list": [
+        "ケガはしてない？"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -172,17 +175,25 @@
       "name": "Meisho Doto",
       "text": "Awawa, I-I'm so sorry...! I knew it, I was \nbeing way too presumptuous...!",
       "choice_data_list": [
-        "Let me thank you as well, Dotou.",
-        "Let me thank you as well, Dotou.",
-        "Let's be careful not to get separated \nagain.",
-        "Let's be careful not to get separated \nagain.",
-        "Did something good happen?",
-        "Did something good happen?"
+        "俺からも礼を言うよ、ドトウ",
+        "私からも礼を言うよ、ドトウ",
+        "もうはぐれないよう、気をつけようか",
+        "もうはぐれないよう、気をつけようね",
+        "何かいいことがあったのか？",
+        "何かいいことがあったの？"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "I-I'm overwhelmed, but... if I was able to \nbe of any help, I'm glad..."
+      "text": "I-I'm overwhelmed, but... if I was able to \nbe of any help, I'm glad...",
+      "choice_data_list": [
+        "俺からも礼を言うよ、ドトウ",
+        "私からも礼を言うよ、ドトウ",
+        "もうはぐれないよう、気をつけようか",
+        "もうはぐれないよう、気をつけようね",
+        "何かいいことがあったのか？",
+        "何かいいことがあったの？"
+      ]
     },
     {
       "name": "Narrator",

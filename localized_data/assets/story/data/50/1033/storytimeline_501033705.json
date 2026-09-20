@@ -23,7 +23,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Nothing really..."
+      "text": "Nothing really...",
+      "choice_data_list": [
+        "何かいいことあった？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -39,7 +42,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? Wait..."
+      "text": "Huh? Wait...",
+      "choice_data_list": [
+        "動物、見に行ってみないか？",
+        "動物、見に行ってみない？"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +62,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Ack... Why me?"
+      "text": "Ack... Why me?",
+      "choice_data_list": [
+        "撫でてほしいんじゃない？"
+      ]
     },
     {
       "name": "Lambs",
@@ -95,7 +105,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I tell a farm worker what Admire Vega\nhad said."
+      "text": "I tell a farm worker what Admire Vega\nhad said.",
+      "choice_data_list": [
+        "牧場の人に聞いてくるよ"
+      ]
     },
     {
       "name": "Farm Worker",
@@ -107,7 +120,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It was just a coincidence."
+      "text": "It was just a coincidence.",
+      "choice_data_list": [
+        "よく気づけたな！",
+        "よく気づけたね！"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -115,11 +132,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It certainly wasn't a big deal..."
+      "text": "It certainly wasn't a big deal...",
+      "choice_data_list": [
+        "子羊のためにはなった",
+        "子羊のためにはなったよ",
+        "他の事にも応用できたり？"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "子羊のためにはなった",
+        "子羊のためにはなったよ",
+        "他の事にも応用できたり？"
+      ]
     },
     {
       "name": "Lambs",

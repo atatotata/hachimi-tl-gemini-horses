@@ -13,14 +13,17 @@
       "name": "",
       "text": "Looking at it, I pictured my trainee, <chrname>,\nwearing the outfit. If she were to wear\nit...",
       "choice_data_list": [
-        "Calm, subdued green long pants",
-        "A beautiful white one-piece dress"
+        "（あ、新しい衣装もあるみたいだ）",
+        "（あ、新しい衣装もあるみたい）"
       ]
     },
     {
       "name": "Special Week",
       "text": "Hmm, what kind of venue would be best for\nthe live show...?\nWhere would my gratitude really get\nthrough to Trainer best...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "緑の落ち着いたロングパンツ",
+        "白の綺麗なワンピース"
+      ]
     },
     {
       "name": "Transcend",
@@ -259,8 +262,9 @@
       "name": "",
       "text": "Hearing my name, I turned around to find\n<chrname> standing there in a white one-piece\ndress.",
       "choice_data_list": [
-        "Could it be... are you going to the\nconcert too, by any chance?",
-        "Could it be... are you going to the\nconcert too, by any chance?"
+        "もしかして……君もライブに？",
+        "もしかして……貴方もライブに？",
+        "もしや、<chrname>様もライブに？"
       ]
     }
   ]

@@ -35,7 +35,12 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah, just take it easy! Heehee! Sweet\ndreams!"
+      "text": "Yeah, just take it easy! Heehee! Sweet\ndreams!",
+      "choice_data_list": [
+        "寝たふりをする",
+        "一緒に寝よう",
+        "全然眠くない"
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +52,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Heehee! Fast asleep, I see! Perfect!"
+      "text": "Heehee! Fast asleep, I see! Perfect!",
+      "choice_data_list": [
+        "……"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -83,11 +91,17 @@
     },
     {
       "name": "Haru Urara",
-      "text": "...Are you asleep <i>now?</i>"
+      "text": "...Are you asleep <i>now?</i>",
+      "choice_data_list": [
+        "起きてる"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "How... about... now?"
+      "text": "How... about... now?",
+      "choice_data_list": [
+        "まだ起きてる"
+      ]
     },
     {
       "name": "Haru Urara",

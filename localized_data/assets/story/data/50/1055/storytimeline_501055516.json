@@ -26,7 +26,9 @@
     {
       "name": "Marvelous Sunday",
       "text": "Ah, Trainer! It's a gathering to show off \nour Marvelous☆",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これは何の集まり？"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -81,15 +83,19 @@
       "name": "Narrator",
       "text": "The sweets given to her as a token of \ngratitude. It was far too much for \nMarvelous Sunday to eat alone.",
       "choice_data_list": [
-        "That's way too much for one person to eat.",
-        "I should gratefully accept all of it.",
-        "We should gratefully accept all of it."
+        "1人で食べるには多すぎるよ",
+        "全部ありがたくいただかないとな",
+        "全部ありがたくいただかないとね"
       ]
     },
     {
       "name": "Marvelous Sunday",
       "text": "If you say so, Trainer, then I guess it \nreally is overeating...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "1人で食べるには多すぎるよ",
+        "全部ありがたくいただかないとな",
+        "全部ありがたくいただかないとね"
+      ]
     },
     {
       "name": "Elderly Woman A",

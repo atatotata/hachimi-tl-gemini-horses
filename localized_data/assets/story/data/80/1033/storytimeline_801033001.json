@@ -19,11 +19,18 @@
     },
     {
       "name": "Admire Vega",
-      "text": "That's what I'd like to know."
+      "text": "That's what I'd like to know.",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Boy",
-      "text": "Waaaaaah! I'm scared!"
+      "text": "Waaaaaah! I'm scared!",
+      "choice_data_list": [
+        "えっと、迷子かな？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,11 +38,19 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? I said I've already tried everyth—"
+      "text": "Huh? I said I've already tried everyth—",
+      "choice_data_list": [
+        "力を合わせよう！",
+        "まずは落ち着かせよう"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "俺が見てるから、係の人を呼んできて",
+        "私が見てるから、係の人を呼んできて"
+      ]
     },
     {
       "name": "Monologue",
@@ -51,7 +66,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Me too."
+      "text": "...Me too.",
+      "choice_data_list": [
+        "見つかってよかったね"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +97,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Yeah."
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "よかったね"
+      ]
     }
   ]
 }

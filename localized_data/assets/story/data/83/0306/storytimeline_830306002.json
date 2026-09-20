@@ -50,7 +50,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ah, Trainer... from before. Well, the \ntruth is—"
+      "text": "Ah, Trainer... from before. Well, the \ntruth is—",
+      "choice_data_list": [
+        "どうしたの？悩みごと？"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -63,12 +66,15 @@
       "name": "Nice Nature",
       "text": "Huh, card shops host smaller tournaments \ntoo, I see.",
       "choice_data_list": [
-        "Ah!? Isn't that person playing over \nthere...!"
+        "なら……またTCGを参考にしてみるとか？"
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Nnngh... Even if I use a skill card, my \npoints won't reach..."
+      "text": "Nnngh... Even if I use a skill card, my \npoints won't reach...",
+      "choice_data_list": [
+        "あっ！？あそこでプレイしてるのって……！"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -103,7 +109,10 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "T-That is true as well... but what I pay \nattention to are decks that recreate the \nbonds between horse girls..."
+      "text": "T-That is true as well... but what I pay \nattention to are decks that recreate the \nbonds between horse girls...",
+      "choice_data_list": [
+        "こだわり……ナイスネイチャデッキとか？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -119,7 +128,11 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "Bamboo-san is often built into decks with \nher classmates. T-There are decks that \ninclude her entire generation, but—"
+      "text": "Bamboo-san is often built into decks with \nher classmates. T-There are decks that \ninclude her entire generation, but—",
+      "choice_data_list": [
+        "熱い闘志を感じるバンブーメモリー",
+        "トリッキーさを感じるダイタクヘリオス"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -190,7 +203,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Yeah. Why don't we show them the kind of \nstrength you could never reach all on your \nown!"
+      "text": "Yeah. Why don't we show them the kind of \nstrength you could never reach all on your \nown!",
+      "choice_data_list": [
+        "方針、定まったんだ！"
+      ]
     }
   ]
 }

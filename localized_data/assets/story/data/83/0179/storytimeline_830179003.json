@@ -9,7 +9,10 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Welcome, everyone! Would you care to enjoy \nsome fluffy shaved ice relaxing on a chair \nin the shade?"
+      "text": "Welcome, everyone! Would you care to enjoy \nsome fluffy shaved ice relaxing on a chair \nin the shade?",
+      "choice_data_list": [
+        "たしかこの辺りに……"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -23,12 +26,16 @@
       "name": "Satono Diamond",
       "text": "Yes! And look at these seashell \naccessories. For you, Trainer-san, I think \nthis pen holder or the perpetual calendar \nwould be very handy!",
       "choice_data_list": [
-        "The pen holder design is really intricate!"
+        "お店、いい感じだな！",
+        "お店、いい感じだね！"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "Ah, that's...... I'm glad."
+      "text": "Ah, that's...... I'm glad.",
+      "choice_data_list": [
+        "ペン立てのデザインも凝ってる！"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -42,13 +49,17 @@
       "name": "Satono Diamond",
       "text": "That was Cheval-san's idea as well. Plus, \nsince it hangs up high and could be \ndangerous if it fell, she even prepared \nlightweight materials for it.",
       "choice_data_list": [
-        "What incredible thoughtfulness!",
-        "Such great attention to detail!"
+        "メニュー表も、海の家の看板風なんだな",
+        "メニュー表も、海の家の看板風なんだね"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "...Thank you. ............"
+      "text": "...Thank you. ............",
+      "choice_data_list": [
+        "細やかな気配りだ！",
+        "細やかな気配り！"
+      ]
     },
     {
       "text": "Customers stopped by Satono Diamond and \nthe others' booth one after another, \nbustling with energy. The excitement \nshowed no signs of stopping..."
@@ -137,14 +148,19 @@
       "name": "Horse Girl A",
       "text": "Whoa~, a massive success! I can't believe \nwe pulled it off so well...!",
       "choice_data_list": [
-        "Maybe your uncompromising dedication \ntouched their hearts?",
-        "Everyone looks so happy.",
-        "Everyone looks so happy."
+        "妥協しない心が響いたかな？",
+        "みんな、いい顔をしているな",
+        "みんな、いい顔をしているね"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "...Yeah. If Dia-san hadn't been so \npassionate, I probably wouldn't have been \nable to do nearly as much."
+      "text": "...Yeah. If Dia-san hadn't been so \npassionate, I probably wouldn't have been \nable to do nearly as much.",
+      "choice_data_list": [
+        "妥協しない心が響いたかな？",
+        "みんな、いい顔をしているな",
+        "みんな、いい顔をしているね"
+      ]
     },
     {
       "name": "Satono Diamond",

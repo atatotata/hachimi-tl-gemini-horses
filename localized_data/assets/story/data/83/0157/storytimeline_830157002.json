@@ -175,7 +175,13 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Hmm... nah, it's fine! I'm sure she'll be \nback before curfew anyway."
+      "text": "Hmm... nah, it's fine! I'm sure she'll be \nback before curfew anyway.",
+      "choice_data_list": [
+        "俺も一緒に捜そうか？",
+        "私も一緒に捜そうか？",
+        "行き先に心当たりはないのか？",
+        "行き先に心当たりはないの？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -202,7 +208,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Agnes Tachyon and Jungle Pocket darted off \nin different directions. I prayed they \nwould manage to meet up safely—"
+      "text": "Agnes Tachyon and Jungle Pocket darted off \nin different directions. I prayed they \nwould manage to meet up safely—",
+      "choice_data_list": [
+        "！？"
+      ]
     }
   ]
 }

@@ -19,12 +19,15 @@
       "name": "Colleague Trainer",
       "text": "Right? Hear it from other trainers too. \nHer work makes overseas campaigns way \nsmoother for Japanese horse girls!",
       "choice_data_list": [
-        "Come to think of it, your trainee also—"
+        "さすが、URA海外事業部のチーフですね"
       ]
     },
     {
       "name": "Senior Trainer",
-      "text": "Fufu, yes. She took very good care of us."
+      "text": "Fufu, yes. She took very good care of us.",
+      "choice_data_list": [
+        "そういえば、先輩の担当の子も――"
+      ]
     },
     {
       "name": "Senior Trainer",
@@ -75,16 +78,9 @@
     },
     {
       "name": "Senior Trainer",
-      "text": "Yes! ...Results were harsh, frankly \nspeaking. Neither I nor my trainee intend \nto give up, though."
-    },
-    {
-      "name": "Senior Trainer",
-      "text": "Won't stop challenging. Speed Symboli \nhanded us the courage for that!",
+      "text": "Yes! ...Results were harsh, frankly \nspeaking. Neither I nor my trainee intend \nto give up, though.",
       "choice_data_list": [
-        "Makes us want to work even harder on \ntraining",
-        "Makes us want to work even harder on \ntraining",
-        "Hearing that fired me up too!",
-        "Hearing that fired me up too!"
+        "それで無事、海外挑戦が果たせたんですね"
       ]
     },
     {
@@ -98,7 +94,23 @@
       ]
     },
     {
-      "text": "Afterward, had a lively discussion about \ntraining menus with senior and colleague \ntrainers..."
+      "name": "Senior Trainer",
+      "text": "Won't stop challenging. Speed Symboli \nhanded us the courage for that!",
+      "choice_data_list": [
+        "俺達もますますトレーニング頑張れそうです",
+        "私達もますますトレーニング頑張れそうです",
+        "聞いてて俺もなんだか力がわいてきました！",
+        "聞いてて私もなんだか力がわいてきました！"
+      ]
+    },
+    {
+      "text": "Afterward, had a lively discussion about \ntraining menus with senior and colleague \ntrainers...",
+      "choice_data_list": [
+        "俺達もますますトレーニング頑張れそうです",
+        "私達もますますトレーニング頑張れそうです",
+        "聞いてて俺もなんだか力がわいてきました！",
+        "聞いてて私もなんだか力がわいてきました！"
+      ]
     },
     {
       "text": "Emptied glass with a spirited 'Let's do \nthis!'. Work hard tomorrow with <chrname> again... \nrenewed that determination."

@@ -35,7 +35,10 @@
     },
     {
       "name": "Reporter",
-      "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!"
+      "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!",
+      "choice_data_list": [
+        "以降の質問は、学園を通してください"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -43,7 +46,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, I know..."
+      "text": "Yeah, I know...",
+      "choice_data_list": [
+        "怪しいと思ったらすぐ断ろう"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -67,11 +73,19 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "But..."
+      "text": "But...",
+      "choice_data_list": [
+        "きちんと断らないとダメだ",
+        "きちんと断らないとダメ"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "ファンも君を大切にしたいはず",
+        "ファンも貴方を大切にしたいはず"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -91,7 +105,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Okay, I'll do that."
+      "text": "...Okay, I'll do that.",
+      "choice_data_list": [
+        "その時は大人を頼って",
+        "魔法の言葉を教えよう"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -99,7 +117,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy."
+      "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy.",
+      "choice_data_list": [
+        "俺？",
+        "私？"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -111,7 +133,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, I've heard. My mom often praised\nme for it."
+      "text": "Yeah, I've heard. My mom often praised\nme for it.",
+      "choice_data_list": [
+        "君は素直すぎる所があるな",
+        "貴方は素直すぎる所があるね"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,7 +149,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "That's... exactly what you told the\nreporter!"
+      "text": "That's... exactly what you told the\nreporter!",
+      "choice_data_list": [
+        "『学園を通してください』"
+      ]
     },
     {
       "name": "Oguri Cap",

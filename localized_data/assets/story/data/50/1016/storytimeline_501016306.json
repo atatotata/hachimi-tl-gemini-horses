@@ -7,7 +7,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "But it doesn't change the result. I was\nnaive."
+      "text": "But it doesn't change the result. I was\nnaive.",
+      "choice_data_list": [
+        "よく頑張ったな",
+        "よく頑張ったね"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -15,7 +19,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "……でも楽しかった？"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -31,7 +38,11 @@
     },
     {
       "name": "Reporter",
-      "text": "...Hey, did you get a good picture of\nNarita\nBrian?"
+      "text": "...Hey, did you get a good picture of\nNarita\nBrian?",
+      "choice_data_list": [
+        "（後を追うか）",
+        "（後を追わないと）"
+      ]
     },
     {
       "name": "Photographer",
@@ -43,7 +54,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I recall that conversation I overheard\namong the\nreporters the next day."
+      "text": "I recall that conversation I overheard\namong the\nreporters the next day.",
+      "choice_data_list": [
+        "（……ナリタブライアンの話をしている？）"
+      ]
     },
     {
       "name": "Skilled Trainer",
@@ -91,7 +105,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Tch! Busybodies. ...How annoying."
+      "text": "Tch! Busybodies. ...How annoying.",
+      "choice_data_list": [
+        "ニュース記事のせいかな……"
+      ]
     },
     {
       "name": "Narita Brian",

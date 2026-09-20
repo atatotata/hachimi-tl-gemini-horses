@@ -107,7 +107,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ahaha... Right? I <i>am</i> going to be the\ngreatest\ndummy, after all."
+      "text": "Ahaha... Right? I <i>am</i> going to be the\ngreatest\ndummy, after all.",
+      "choice_data_list": [
+        "やっぱり君には素晴らしい才能がある",
+        "やっぱり貴方には素晴らしい才能がある"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -115,11 +119,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Why not? She's more of a dummy than\nme, right?"
+      "text": "Why not? She's more of a dummy than\nme, right?",
+      "choice_data_list": [
+        "もう1度勝負しに行く？"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "……そうかな？"
+      ]
     },
     {
       "name": "Monologue",

@@ -76,7 +76,9 @@
     {
       "name": "Dream Journey",
       "text": "\"...Parley. If I recall, that means \n'negotiation.' However, I believe our \ndiscussion has already concluded.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（タップ……一体なにを……？）"
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -172,16 +174,21 @@
       "name": "Tap Dance City",
       "text": "Phew! Finally got my hands on it! Alright, \nlet's go!",
       "choice_data_list": [
-        "You actually figured out it was a \nsurprise, huh!",
-        "You actually figured out it was a \nsurprise!",
-        "The Captain's quite the smooth talker \ntoo...",
-        "The Captain's quite the smooth talker, \nhuh..."
+        "よくサプライズって気づいたな！",
+        "よくサプライズって気づいたね！",
+        "船長って口も上手いんだな……",
+        "船長って口も上手いんだね……"
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "Well, it was just a hunch, though!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よくサプライズって気づいたな！",
+        "よくサプライズって気づいたね！",
+        "船長って口も上手いんだな……",
+        "船長って口も上手いんだね……"
+      ]
     },
     {
       "name": "Tap Dance City",

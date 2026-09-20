@@ -19,7 +19,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Ah, sorry! I'm supposed to be jogging,\nright?"
+      "text": "Ah, sorry! I'm supposed to be jogging,\nright?",
+      "choice_data_list": [
+        "ウララ、もっと集中しろ！",
+        "ウララ、もっと集中して！"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -95,11 +99,18 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, Trainer! Wanna try one of these\napples?\nThey're cheap!"
+      "text": "Oh, Trainer! Wanna try one of these\napples?\nThey're cheap!",
+      "choice_data_list": [
+        "ウララ？"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! I like volunteering!"
+      "text": "Yeah! I like volunteering!",
+      "choice_data_list": [
+        "お手伝いしてるのか？",
+        "お手伝いしてるの？"
+      ]
     },
     {
       "name": "Energetic Shopkeeper",
@@ -147,7 +158,10 @@
     },
     {
       "name": "",
-      "text": "The shopkeepers seem to <i>adore</i> Haru\nUrara. I've\nlearned something new about\nher."
+      "text": "The shopkeepers seem to <i>adore</i> Haru\nUrara. I've\nlearned something new about\nher.",
+      "choice_data_list": [
+        "はい！"
+      ]
     },
     {
       "name": "",
@@ -159,7 +173,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "It's fine! I like helping!"
+      "text": "It's fine! I like helping!",
+      "choice_data_list": [
+        "けど、すごく重いぞ",
+        "けど、すごく重いよ"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -183,11 +201,19 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Huh?! A contest?!"
+      "text": "Huh?! A contest?!",
+      "choice_data_list": [
+        "トレーニングじゃない、勝負だ！",
+        "トレーニングじゃない、勝負だよ！"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "\"Carry the apples\"? Ooh, what do I have\nto do for\nthat?"
+      "text": "\"Carry the apples\"? Ooh, what do I have\nto do for\nthat?",
+      "choice_data_list": [
+        "まずはリンゴ運びで勝負だ！",
+        "まずはリンゴ運びで勝負しよう！"
+      ]
     },
     {
       "name": "",

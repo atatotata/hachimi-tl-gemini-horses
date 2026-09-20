@@ -127,7 +127,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Sorry for startling you. Jeez, this girl \nis always...!"
+      "text": "Sorry for startling you. Jeez, this girl \nis always...!",
+      "choice_data_list": [
+        "うおっ！？",
+        "うわっ！？"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -143,15 +147,21 @@
       "name": "Marvelous Sunday",
       "text": "Fufufu, being with Nature has me at full \nMarvelous power☆ Let's go search for \nbrand-new Marvelous things today!",
       "choice_data_list": [
-        "You two sure get along well.",
-        "You two sure get along well.",
-        "Looks like you'll never run out of \nMarvelous.",
-        "Looks like you'll never run out of \nMarvelous."
+        "仲良しなんだな",
+        "仲良しなんだね",
+        "マーベラスには不自由しなそうだな",
+        "マーベラスには不自由しなそうだね"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Weeell, yeah. She's always dragging me \nalong for the ride, but—"
+      "text": "Weeell, yeah. She's always dragging me \nalong for the ride, but—",
+      "choice_data_list": [
+        "仲良しなんだな",
+        "仲良しなんだね",
+        "マーベラスには不自由しなそうだな",
+        "マーベラスには不自由しなそうだね"
+      ]
     },
     {
       "name": "Nice Nature",

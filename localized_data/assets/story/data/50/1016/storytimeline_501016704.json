@@ -31,7 +31,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Yeah, may as well. Do you mind if I\njoin you,\nBrian?"
+      "text": "...Yeah, may as well. Do you mind if I\njoin you,\nBrian?",
+      "choice_data_list": [
+        "せっかくだし、一緒に食べないか？",
+        "せっかくだし、一緒に食べない？"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -99,15 +103,31 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Heh, don't you just look pleased as\npunch..."
+      "text": "Heh, don't you just look pleased as\npunch...",
+      "choice_data_list": [
+        "成長も見られたし満足だ！",
+        "成長も見られたし満足だよ！"
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "Heh, don't you just look pleased as\npunch..."
+      "text": "Heh, don't you just look pleased as\npunch...",
+      "choice_data_list": [
+        "これからも努力を続けよう！",
+        "君の努力は必ず走りに表れる！",
+        "貴方の努力は必ず走りに表れる！",
+        "困ったことがあったら言って"
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "That's too much trouble. Forget it."
+      "text": "That's too much trouble. Forget it.",
+      "choice_data_list": [
+        "これからも努力を続けよう！",
+        "君の努力は必ず走りに表れる！",
+        "貴方の努力は必ず走りに表れる！",
+        "困ったことがあったら言って"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -143,7 +163,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...It's gotten harder to openly eat fast\nfood."
+      "text": "...It's gotten harder to openly eat fast\nfood.",
+      "choice_data_list": [
+        "困っているなら教えて"
+      ]
     },
     {
       "name": "",

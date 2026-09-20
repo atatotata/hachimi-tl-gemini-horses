@@ -39,7 +39,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Ah, Trainer! Well see, there's an event\ngoin' on\nright now at a popular cafe for\ntheir new pizza!"
+      "text": "Ah, Trainer! Well see, there's an event\ngoin' on\nright now at a popular cafe for\ntheir new pizza!",
+      "choice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -83,11 +87,21 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "There's way more people than I thought!\nWe\nshould've made a plan!"
+      "text": "There's way more people than I thought!\nWe\nshould've made a plan!",
+      "choice_data_list": [
+        "圧をかけていこう……！",
+        "人の隙間を見逃すな！",
+        "人の隙間を見逃さない！"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Like we own the place? Oh, I see! It's all\nabout\nattitude!"
+      "text": "Like we own the place? Oh, I see! It's all\nabout\nattitude!",
+      "choice_data_list": [
+        "圧をかけていこう……！",
+        "人の隙間を見逃すな！",
+        "人の隙間を見逃さない！"
+      ]
     },
     {
       "name": "Taiki Shuttle",

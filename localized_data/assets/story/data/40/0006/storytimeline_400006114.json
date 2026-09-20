@@ -16,12 +16,15 @@
       "name": "Narrator",
       "text": "They must be keeping an eye on <chrname>. \nEspecially since this public training was \nsupposed to be live-streamed online.",
       "choice_data_list": [
-        "(I should send a thank-you message!)"
+        "（その時に連絡先を伝えて……）"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I replied to <support> before I forgot!"
+      "text": "I replied to <support> before I forgot!",
+      "choice_data_list": [
+        "（お礼を言っておこう！）"
+      ]
     }
   ]
 }

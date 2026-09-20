@@ -47,7 +47,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Not exactly... I've just been feeling this\ndistinct\nsensation of being watched\nlately..."
+      "text": "Not exactly... I've just been feeling this\ndistinct\nsensation of being watched\nlately...",
+      "choice_data_list": [
+        "何か探し物？"
+      ]
     },
     {
       "name": "Air Groove",
@@ -75,7 +78,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Oh—that's right! And there's the Victoria\nMile,\ntoo!"
+      "text": "Oh—that's right! And there's the Victoria\nMile,\ntoo!",
+      "choice_data_list": [
+        "阪神JFやティアラ路線もだな",
+        "阪神JFやティアラ路線もだね"
+      ]
     },
     {
       "name": "Air Groove",
@@ -135,11 +142,18 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "あってもなくてもいいんじゃないか？",
+        "あってもなくてもいいんじゃない？"
+      ]
     },
     {
       "name": "Kawakami Princess",
-      "text": "Oh my!"
+      "text": "Oh my!",
+      "choice_data_list": [
+        "これからも頑張るだけだから"
+      ]
     },
     {
       "name": "Kawakami Princess",

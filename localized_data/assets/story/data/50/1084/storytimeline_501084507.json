@@ -22,13 +22,15 @@
       "name": "Tanino Gimlet",
       "text": "Nay... this is \"deciphering.\" Deciphering \nGabriel's gift, that is.",
       "choice_data_list": [
-        "\"Deciphering\" a fan letter...?"
+        "何かの勉強？"
       ]
     },
     {
       "name": "Tanino Gimlet",
       "text": "Look at this cipher.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ファンレターを“解読”……？"
+      ]
     },
     {
       "name": "Narrator",
@@ -77,20 +79,23 @@
       "name": "Tanino Gimlet",
       "text": "Heh—very well. I'll make an exception and \ntell you. You see—",
       "choice_data_list": [
-        "(*Gulp...!*)"
+        "おめでとう！なんて書いてあったんだ？",
+        "おめでとう！なんて書いてあったの？"
       ]
     },
     {
       "name": "Tanino Gimlet",
       "text": "\"‘You're always so cool and wonderful. Do \nyour best!’ ...it says!!\"",
       "choice_data_list": [
-        "Huh...?"
+        "（ごくり……！）"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"The lengthy cipher that took days to \ndecode turned out to be a message less \nthan two lines long. I couldn't help but \nfeel surprised, but...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……？"
+      ]
     },
     {
       "name": "Tanino Gimlet",

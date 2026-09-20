@@ -47,11 +47,23 @@
     },
     {
       "name": "Monologue",
-      "text": "Her expression is so grave, I can't help\nbut say\nsomething."
+      "text": "Her expression is so grave, I can't help\nbut say\nsomething.",
+      "choice_data_list": [
+        "もう夜だぞ。帰って休んだら？",
+        "もう夜だよ。帰って休んだら？",
+        "俺で何か力になれること、あるか？",
+        "私で何か力になれること、ある？"
+      ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "もう夜だぞ。帰って休んだら？",
+        "もう夜だよ。帰って休んだら？",
+        "俺で何か力になれること、あるか？",
+        "私で何か力になれること、ある？"
+      ]
     },
     {
       "name": "Daiichi Ruby",

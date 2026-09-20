@@ -17,28 +17,30 @@
       "name": "",
       "text": "(Swish, swish, swish...)",
       "choice_data_list": [
-        "……………………"
+        "…………"
       ]
     },
     {
       "name": "Believe",
       "text": "...Um, Trainer?",
       "choice_data_list": [
-        "Hm!? Wh-What's that!?",
-        "Hm!? Wh-What!?"
+        "……………………"
       ]
     },
     {
       "name": "Believe",
       "text": "...Why are you being so fidgety?",
       "choice_data_list": [
-        "N-No, wait... I'm waiting for an important \ncall!"
+        "ん！？な、なんだ！？",
+        "ん！？な、なに！？"
       ]
     },
     {
       "name": "Believe",
       "text": "...Is that so.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いやっ、ちょっと……大事な連絡待ちで！"
+      ]
     },
     {
       "name": "",
@@ -80,7 +82,9 @@
     {
       "name": "",
       "text": "...Or so I thought, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あとは、連絡を待つだけ……！"
+      ]
     },
     {
       "name": "",
@@ -102,7 +106,9 @@
     {
       "name": "",
       "text": "To my dismay, no contact came............ \nNone at all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（あ……あれ……？）"
+      ]
     },
     {
       "name": "Believe",
@@ -115,7 +121,10 @@
     {
       "name": "",
       "text": "Even after seeing Believe off, I stayed \nbehind, holding my smartphone up where it \nwas easy to see and checking it over and \nover, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ、ああ。気をつけて帰って……",
+        "う、うん。気をつけて帰って……"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -132,7 +141,9 @@
     {
       "name": "",
       "text": "Even so... no message ever came.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え、ええ……"
+      ]
     },
     {
       "name": "",
@@ -169,7 +180,9 @@
     {
       "name": "",
       "text": "I screamed internally, but reaching this \npoint left no room for doubt. Believe \nwas... out of the running!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（な、なん、……なんで！？！？）"
+      ]
     },
     {
       "name": "",
@@ -186,7 +199,9 @@
     {
       "name": "",
       "text": "My shoulders slump in defeat. All the \nstrength drains from my body...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（それが……まさか、こんな結果に……）"
+      ]
     },
     {
       "name": "",
@@ -198,7 +213,9 @@
     {
       "name": "",
       "text": "And as for Believe, who had come out to \nmeet her with a worried expression...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ビリーヴも、さすがにショックかな――）"
+      ]
     },
     {
       "name": "Believe",
@@ -236,7 +253,10 @@
     {
       "name": "Believe",
       "text": "Huh? ...I'm sorry, what do you mean?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "き……気にしてないのか？",
+        "き……気にしてないの？"
+      ]
     },
     {
       "name": "",
@@ -288,7 +308,9 @@
     {
       "name": "Believe",
       "text": "Trainer. I ran through the Sprinters \nStakes to the very end.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Believe",
@@ -315,7 +337,9 @@
     {
       "name": "",
       "text": "It feels just like last year's Fan \nAppreciation Festival. It seems Believe \nhas taught me a lesson once again.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……それは――"
+      ]
     },
     {
       "name": "",
@@ -338,14 +362,16 @@
       "name": "Believe",
       "text": "—Yes.",
       "choice_data_list": [
-        "We really did it! We saw it through!",
-        "We saw it through to the end!"
+        "『スプリンターズS』は、最高の仕事だった"
       ]
     },
     {
       "name": "Believe",
       "text": "Yes. I think so too.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺たちは、ちゃんとやり遂げた！",
+        "私たちは、ちゃんとやり遂げた！"
+      ]
     },
     {
       "name": "Believe",
@@ -376,23 +402,28 @@
       "name": "",
       "text": "Now then, pulling ourselves together, \nlet's enjoy a modest New Year's holiday \nwith Believe from here on out.",
       "choice_data_list": [
-        "Let's go eat something fancy!",
-        "Come to think of it, you were worried \nabout the New Year's decorations, weren't \nyou?",
-        "Come to think of it, you were worried \nabout the New Year's decorations, weren't \nyou?",
-        "...Hm? Is it just me, or is it getting \nnoisy outside...?"
+        "何か豪華なものでも食べに行こうか！",
+        "そういえば正月飾り、気にしてたよな",
+        "そういえば正月飾り、気にしてたよね",
+        "……ん？なんだか外が賑やか……？"
       ]
     },
     {
       "name": "",
       "text": "The academy is still on winter break, but \nthe New Year's three-day period has \npassed. The various restaurants and \neateries should be opening back up soon.",
       "choice_data_list": [
-        "Let's go all out today!"
+        "何か豪華なものでも食べに行こうか！",
+        "そういえば正月飾り、気にしてたよな",
+        "そういえば正月飾り、気にしてたよね",
+        "……ん？なんだか外が賑やか……？"
       ]
     },
     {
       "name": "Believe",
       "text": "Let loose and...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日はぱーっとやっちゃおう！"
+      ]
     },
     {
       "name": "Believe",
@@ -409,7 +440,9 @@
     {
       "name": "Believe",
       "text": "That... sounds nice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "正直、かなり腹ペコ……！"
+      ]
     },
     {
       "name": "Believe",
@@ -422,13 +455,15 @@
       "name": "Kiyomi",
       "text": "—Here you go, extra simmered veggies \ncoming right up~~! Oh, Trainer, aren't \nyour chopsticks slowing down? Eat up, eat \nup!!",
       "choice_data_list": [
-        "M-Munch...! (H-Huh, yes...!)"
+        "えっ、連絡……？"
       ]
     },
     {
       "name": "Takeo-san",
       "text": "Heeey, the crab is boiled and ready! \nBelieve-chan, you can still eat more, \nright?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "モッ、モグ……！（はっ、はい……！）"
+      ]
     },
     {
       "name": "Believe",
@@ -465,7 +500,9 @@
     {
       "name": "Believe",
       "text": "So you bought them all up. ...Which store \nwas it?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "うん、なんか……夢中になっちゃって"
+      ]
     },
     {
       "name": "",
@@ -482,7 +519,9 @@
     {
       "name": "Shopkeeper",
       "text": "Ahaha, likewise! And... who's this little \nUmamusume over here?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いえいえ、その節はどうも"
+      ]
     },
     {
       "name": "Believe",
@@ -539,7 +578,9 @@
     {
       "name": "",
       "text": "It seems we're going to have an even \nbetter time than I expected. Thinking \nthat, I followed after Believe.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（ビリーヴ……瞳がきらきらしてる）"
+      ]
     },
     {
       "name": "Believe",
@@ -581,7 +622,9 @@
     {
       "name": "Biko Pegasus",
       "text": "Ah!! Believe-senpai and the others~~~! You \nactually came!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そっか、餅つきやってたんだ"
+      ]
     },
     {
       "name": "Believe",

@@ -144,15 +144,19 @@
       "name": "Gentildonna",
       "text": "Hohoho... Time is limited. It's much more \nefficient to finish your studies during \nclass.",
       "choice_data_list": [
-        "A true model of both brains and brawn.",
-        "You're a true model of both brains and \nbrawn.",
-        "Wait, did you help out your rival or \nsomething...?"
+        "文武両道の鑑だ",
+        "文武両道の鑑だね",
+        "もしかして、敵に塩を送った……とか？"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "Heh... As the future head of the family, \nsomething of this caliber is only to be \nexpected.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "文武両道の鑑だ",
+        "文武両道の鑑だね",
+        "もしかして、敵に塩を送った……とか？"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -170,7 +174,10 @@
     {
       "name": "Gentildonna",
       "text": "Heh... I won't deny it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（改めて“濃い”クラスだ……あ）",
+        "（改めて“濃い”クラス……あ）"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -194,13 +201,16 @@
       "name": "Gold Ship",
       "text": "Fuji~! Look at this! My special \nGolshi-chan sweet whipped-cream gyoza \nturned into hollow husks when I boiled \n'eeem!",
       "choice_data_list": [
-        "(Come to think of it, isn't she in the \nsame class too?)"
+        "（改めて“濃い”クラスだ……あ）",
+        "（改めて“濃い”クラス……あ）"
       ]
     },
     {
       "name": "Fuji Kiseki",
       "text": "Just when I wondered where you were, \nyou've made another mysterious \ncontraption. Is it a present for McQueen?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（そういえば彼女も同じクラスだっけ）"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -212,7 +222,9 @@
     {
       "name": "Gold Ship",
       "text": "Like hell I would! Whip and I are bound by \na meringue of friendship! We promised that \none day we'd become the filling in a \ntaiyaki together!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お湯の熱で溶けたんじゃないかな"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -234,7 +246,9 @@
     {
       "name": "Gentildonna",
       "text": "Well now. Why don't you do as you please?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "これ、どうしよう……？"
+      ]
     },
     {
       "name": "",

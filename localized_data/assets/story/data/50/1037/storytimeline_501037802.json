@@ -27,7 +27,10 @@
     },
     {
       "name": "Quiet Child",
-      "text": "...'Kay."
+      "text": "...'Kay.",
+      "choice_data_list": [
+        "いつでも参加していいから"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +38,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "...Sure. Good idea."
+      "text": "...Sure. Good idea.",
+      "choice_data_list": [
+        "完成したら分けてあげよう"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -123,7 +129,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Hehe, I'm glad that you agree."
+      "text": "Hehe, I'm glad that you agree.",
+      "choice_data_list": [
+        "勉強になる"
+      ]
     },
     {
       "name": "Quiet Child",
@@ -139,7 +148,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Indeed. Baked treats have the power to\nmake\npeople smile."
+      "text": "Indeed. Baked treats have the power to\nmake\npeople smile.",
+      "choice_data_list": [
+        "2人とも笑顔になったな",
+        "2人とも笑顔になったね"
+      ]
     },
     {
       "name": "Eishin Flash",

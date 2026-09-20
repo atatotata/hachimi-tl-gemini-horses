@@ -49,7 +49,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Not yet...! Sharpness must be honed even \nfurther...!"
+      "text": "Not yet...! Sharpness must be honed even \nfurther...!",
+      "choice_data_list": [
+        "あれは……"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -73,12 +76,15 @@
       "name": "Yaeno Muteki",
       "text": "! Did you require something of me?",
       "choice_data_list": [
-        "Isn't it about time to head back?"
+        "あの"
       ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Is it that late already? Thank you for \nalerting me."
+      "text": "Is it that late already? Thank you for \nalerting me.",
+      "choice_data_list": [
+        "そろそろ戻る時間じゃないかな？"
+      ]
     },
     {
       "text": "Yaeno Muteki prepared to head to the \nstage. Seeing her fiery resolve to \ncaptivate the crowd with a performance \nbeyond her rivals, I couldn't help but...",
@@ -89,7 +95,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...! ...Oss!"
+      "text": "...! ...Oss!",
+      "choice_data_list": [
+        "――君ならきっと、超えられるよ",
+        "――貴方ならきっと、超えられるよ"
+      ]
     },
     {
       "name": "Host",
@@ -128,7 +138,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "I shall turn these cheers into thunderous \napplause!!"
+      "text": "I shall turn these cheers into thunderous \napplause!!",
+      "choice_data_list": [
+        "頑張れー！ヤエノムテキ！"
+      ]
     },
     {
       "name": "Yaeno Muteki",

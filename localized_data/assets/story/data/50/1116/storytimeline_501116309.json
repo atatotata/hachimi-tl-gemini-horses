@@ -57,13 +57,15 @@
       "name": "Narrator",
       "text": "Though she didn't get the result she \nwanted, everyone watching today \nacknowledges Gentildonna's overwhelming \nstrength.",
       "choice_data_list": [
-        "(Next time, I'll definitely lead her to \nvictory...!)"
+        "（みんな、負けたジェンティルを見てる）"
       ]
     },
     {
       "name": "Verxina",
       "text": "Haa... haa...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（次は確実に、勝たせる……！）"
+      ]
     },
     {
       "name": "Spectators",
@@ -111,7 +113,10 @@
     {
       "name": "Gentildonna",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ごめんな、勝たせられなくて",
+        "ごめんね、勝たせられなくて"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -125,13 +130,16 @@
       "name": "Narrator",
       "text": "...Frustration suddenly welled up within \nme. She is strong. Failing to draw out her \nfull potential was entirely my \nresponsibility.",
       "choice_data_list": [
-        "Next time, we'll win together."
+        "俺も一緒に負けたんだ",
+        "私も一緒に負けたの"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "……――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "次は、一緒に勝つ"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -164,14 +172,16 @@
       "name": "Gentildonna",
       "text": "Well, how about it? You're going to push \nme to greater heights, aren't you?",
       "choice_data_list": [
-        "Ah, to heights beyond your imagination",
-        "Yeah, to heights beyond your imagination."
+        "（食らいつく！）"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "... You really said it, didn't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、君の想像を超える高みまで",
+        "うん、貴方の想像を超える高みまで"
+      ]
     },
     {
       "name": "Gentildonna",

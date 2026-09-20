@@ -27,7 +27,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Well, probably because the Twinkle\nSeries has\ngrown a lot since then."
+      "text": "Well, probably because the Twinkle\nSeries has\ngrown a lot since then.",
+      "choice_data_list": [
+        "でもなぜ、今はやっていないんですか？"
+      ]
     },
     {
       "name": "Light Hello",
@@ -143,7 +146,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Really? Thank you so much!"
+      "text": "Really? Thank you so much!",
+      "choice_data_list": [
+        "……そうですね"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -183,7 +189,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Unfortunately, I couldn't get the stage\nhere, since\nit's not a school event, but..."
+      "text": "Unfortunately, I couldn't get the stage\nhere, since\nit's not a school event, but...",
+      "choice_data_list": [
+        "早いっ！！"
+      ]
     },
     {
       "name": "Light Hello",
@@ -215,11 +224,19 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Wait, really? Are you sure?"
+      "text": "Wait, really? Are you sure?",
+      "choice_data_list": [
+        "スケジュールとかの調整は俺がやるよ",
+        "スケジュールとかの調整は私がやるよ"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Thanks a bunch!"
+      "text": "Thanks a bunch!",
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "Light Hello",
@@ -227,7 +244,10 @@
     },
     {
       "name": "Both",
-      "text": "Woo!"
+      "text": "Woo!",
+      "choice_data_list": [
+        "みんなで頑張りましょう！"
+      ]
     },
     {
       "name": "Monologue",

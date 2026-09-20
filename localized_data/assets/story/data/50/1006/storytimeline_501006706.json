@@ -39,7 +39,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Would that be okay? ...I'll go get\nchanged then.\nJust give me one moment."
+      "text": "Would that be okay? ...I'll go get\nchanged then.\nJust give me one moment.",
+      "choice_data_list": [
+        "一緒に走ってきたら？"
+      ]
     },
     {
       "name": "Monologue",
@@ -59,11 +62,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah... I agree."
+      "text": "Yeah... I agree.",
+      "choice_data_list": [
+        "走り方が似てるな",
+        "走り方が似てるね",
+        "同着だな",
+        "同着だね"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah... Maybe so. But the way you run is\n\noutstanding, Rudolf."
+      "text": "Ah... Maybe so. But the way you run is\n\noutstanding, Rudolf.",
+      "choice_data_list": [
+        "走り方が似てるな",
+        "走り方が似てるね",
+        "同着だな",
+        "同着だね"
+      ]
     },
     {
       "name": "Oguri Cap",

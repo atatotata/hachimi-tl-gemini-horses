@@ -15,7 +15,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I spot a few familiar faces on the\nopposing team,\ntoo."
+      "text": "I spot a few familiar faces on the\nopposing team,\ntoo.",
+      "choice_data_list": [
+        "よろしくな",
+        "よろしくね"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -143,11 +147,21 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Ugh, this is so frustrating! I'll definitely\nwin next\ntime though!"
+      "text": "Ugh, this is so frustrating! I'll definitely\nwin next\ntime though!",
+      "choice_data_list": [
+        "次こそ帝王の強さを見せつけよう！",
+        "やっぱり連携すると強いな……",
+        "やっぱり連携すると強いね……"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "...I just thought of something good! The\nnext\nmatch should be me against\neveryone else!"
+      "text": "...I just thought of something good! The\nnext\nmatch should be me against\neveryone else!",
+      "choice_data_list": [
+        "次こそ帝王の強さを見せつけよう！",
+        "やっぱり連携すると強いな……",
+        "やっぱり連携すると強いね……"
+      ]
     },
     {
       "name": "Tokai Teio",

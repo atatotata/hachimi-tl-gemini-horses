@@ -47,7 +47,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Forgetting to even call out, I stared in \nfascination. And just then—"
+      "text": "Forgetting to even call out, I stared in \nfascination. And just then—",
+      "choice_data_list": [
+        "（あの子も、こんな表情をするのか……）",
+        "（あの子も、こんな表情をするんだ……）"
+      ]
     },
     {
       "name": "Narrator",
@@ -78,7 +82,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Her whispered prayer carried such \nundeniable heat that it took my breath \naway—"
+      "text": "Her whispered prayer carried such \nundeniable heat that it took my breath \naway—",
+      "choice_data_list": [
+        "……ダンツフレーム……"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -91,13 +98,16 @@
       "name": "Dantsu Flame",
       "text": "Waaah, good work today! Are you working \nthis late?",
       "choice_data_list": [
-        "Y-Yeah, pretty much. ...Training this late \nyourself?",
-        "Y-Yeah, pretty much. ...Training this late \nyourself?"
+        "（あ……しまった）"
       ]
     },
     {
       "name": "Dantsu Flame",
-      "text": "Ahaha. I just felt like running for some \nreason! So I went for a run~."
+      "text": "Ahaha. I just felt like running for some \nreason! So I went for a run~.",
+      "choice_data_list": [
+        "ま、まぁな。……君もトレーニング？",
+        "ま、まぁね。……貴方もトレーニング？"
+      ]
     },
     {
       "name": "Narrator",
@@ -115,12 +125,16 @@
       "name": "Dantsu Flame",
       "text": "Eh. Y-You heard that?!",
       "choice_data_list": [
-        "Just that."
+        "……君もあんな表情をするんだな、と",
+        "……貴方もあんな表情をするんだな、って"
       ]
     },
     {
       "name": "Dantsu Flame",
-      "text": "Waaah, how embarrassing~. Well, um... I'm \nan umamusume too, after all."
+      "text": "Waaah, how embarrassing~. Well, um... I'm \nan umamusume too, after all.",
+      "choice_data_list": [
+        "少しだけ"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -148,7 +162,11 @@
     },
     {
       "name": "Dantsu Flame",
-      "text": "Yes! I'll do my best in my own way!"
+      "text": "Yes! I'll do my best in my own way!",
+      "choice_data_list": [
+        "いや。……夢、叶うといいな",
+        "いや。……夢、叶うといいね"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -175,7 +193,10 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, I ended up receiving some of \nDantsu Flame's homemade pudding—"
+      "text": "And so, I ended up receiving some of \nDantsu Flame's homemade pudding—",
+      "choice_data_list": [
+        "（話を逸らされた……！）"
+      ]
     },
     {
       "name": "Dantsu Flame",

@@ -15,7 +15,10 @@
     },
     {
       "name": "",
-      "text": "It's a message from Tazuna. Looks like\nthere's an\nimportant task that needs a\nlot of hands on deck.\nShe's asked me to\nhelp out."
+      "text": "It's a message from Tazuna. Looks like\nthere's an\nimportant task that needs a\nlot of hands on deck.\nShe's asked me to\nhelp out.",
+      "choice_data_list": [
+        "ごめん、電話だ"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -23,7 +26,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh no, it was nothing! Good luck with\ny-your\nwork!"
+      "text": "Oh no, it was nothing! Good luck with\ny-your\nwork!",
+      "choice_data_list": [
+        "さっき何か言おうとしてなかった？"
+      ]
     },
     {
       "name": "",
@@ -39,7 +45,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Nope. Around this time, she's normally\nmaking a\nracket getting ready for the\nnext day."
+      "text": "Nope. Around this time, she's normally\nmaking a\nracket getting ready for the\nnext day.",
+      "choice_data_list": [
+        "寮に帰ったと思ってたけど……"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -55,7 +64,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "If you haven't noticed, she's been\nsneaking out\nhere a lot lately. And\ntracking mud into our room\nwhen she\nsneaks back..."
+      "text": "If you haven't noticed, she's been\nsneaking out\nhere a lot lately. And\ntracking mud into our room\nwhen she\nsneaks back...",
+      "choice_data_list": [
+        "どうして森に？"
+      ]
     },
     {
       "name": "???",
@@ -71,7 +83,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Eep! T-Trainer! Shakur?!"
+      "text": "Eep! T-Trainer! Shakur?!",
+      "choice_data_list": [
+        "この歌声は……ドトウだ！"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -87,7 +102,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "<i>Hic...</i> I'm so s-sorry..."
+      "text": "<i>Hic...</i> I'm so s-sorry...",
+      "choice_data_list": [
+        "もう大丈夫だ",
+        "もう大丈夫だよ"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -95,7 +114,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh no, please don't apologize... Your\nwork is far\nmore important than me!"
+      "text": "Oh no, please don't apologize... Your\nwork is far\nmore important than me!",
+      "choice_data_list": [
+        "ついててあげられなくて、ごめん"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -127,7 +149,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh... But, what if something like this\nhappens\nagain?"
+      "text": "Oh... But, what if something like this\nhappens\nagain?",
+      "choice_data_list": [
+        "練習は続けよう！"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -135,7 +160,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I, um... Well, you see! I think I like\nsinging a lot\nmore now..."
+      "text": "I, um... Well, you see! I think I like\nsinging a lot\nmore now...",
+      "choice_data_list": [
+        "君はどうしたい？",
+        "貴方はどうしたい？"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -151,15 +180,28 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!"
+      "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!",
+      "choice_data_list": [
+        "歌が仕上がったら聞かせてほしい",
+        "俺も練習、付き合うよ！",
+        "私も練習、付き合うよ！"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Hyah?! You're willing to listen to m-my\nsinging?"
+      "text": "Hyah?! You're willing to listen to m-my\nsinging?",
+      "choice_data_list": [
+        "歌が仕上がったら聞かせてほしい",
+        "俺も練習、付き合うよ！",
+        "私も練習、付き合うよ！"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Wh-whaaat?! I'll practice a whole, whole\nlot, then.\nI pwo-promishe!"
+      "text": "Wh-whaaat?! I'll practice a whole, whole\nlot, then.\nI pwo-promishe!",
+      "choice_data_list": [
+        "もちろん！"
+      ]
     },
     {
       "name": "",
@@ -171,7 +213,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Well... If you're really sure you want to\ncome..."
+      "text": "Well... If you're really sure you want to\ncome...",
+      "choice_data_list": [
+        "成長を傍で見たい"
+      ]
     },
     {
       "name": "",

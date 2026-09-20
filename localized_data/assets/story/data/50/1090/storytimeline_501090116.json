@@ -22,21 +22,23 @@
       "name": "Narrator",
       "text": "\"The toll from that fierce battle in the \nShuka Sho clearly still lingered; on the \nway back from observing, she looked \nsomewhat pale. But...\"",
       "choice_data_list": [
-        "(...Let's wait just a little longer.)"
+        "（大丈夫かな……）"
       ]
     },
     {
       "name": "Narrator",
       "text": "I wanted to believe her own words that she \nwould \"be right back.\" Because—",
       "choice_data_list": [
-        "(You must be strong, Verxina...)",
-        "(You are strong, aren't you, Verxina—)"
+        "（……あともう少しだけ、待ってみよう）"
       ]
     },
     {
       "name": "Verxina",
       "text": "Haa... haa...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（君は強いだろう、ヴィルシーナ――）",
+        "（貴方は強いでしょう、ヴィルシーナ――）"
+      ]
     },
     {
       "name": "Verxina",
@@ -259,7 +261,10 @@
     {
       "name": "Cheval Grand",
       "text": "Big sis... I had no idea at all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうか……話してくれてありがとう",
+        "そっか……話してくれてありがとう"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -277,7 +282,10 @@
     {
       "name": "Narrator",
       "text": "Having watched her stand back up time and \ntime again, I knew how strong-willed she \nwas... or perhaps I had only assumed I \ndid.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺も……トレーナー失格だ",
+        "私も……トレーナー失格だ"
+      ]
     },
     {
       "name": "Vivlos",
@@ -305,13 +313,15 @@
       "name": "Vivlos",
       "text": "I'll LANE them~!",
       "choice_data_list": [
-        "Ah! Vivlos...!"
+        "（だからこそ、これでもし……）"
       ]
     },
     {
       "name": "Vivlos",
       "text": "Big siiiis!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あ！ヴィブロス……！"
+      ]
     },
     {
       "name": "Verxina",
@@ -378,7 +388,9 @@
     {
       "name": "Verxina",
       "text": "I'm sorry, I'm so sorry...! Even though... \nI'm the big sister...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Verxina",

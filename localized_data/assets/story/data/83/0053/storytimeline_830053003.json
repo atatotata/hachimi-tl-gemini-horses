@@ -27,7 +27,11 @@
     },
     {
       "name": "Director",
-      "text": "Okay, everyone. We're going to have to\ndo this in\none take. It's an action scene\nwhere a single\ngunshot makes all the\ndifference..."
+      "text": "Okay, everyone. We're going to have to\ndo this in\none take. It's an action scene\nwhere a single\ngunshot makes all the\ndifference...",
+      "choice_data_list": [
+        "（だいぶまずい状況だな……）",
+        "（だいぶまずい状況だけど……）"
+      ]
     },
     {
       "name": "Director",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Camera Crew Member",
-      "text": "Here we go!\nRolling in ten, nine, eight,\nseven..."
+      "text": "Here we go!\nRolling in ten, nine, eight,\nseven...",
+      "choice_data_list": [
+        "了解です……！"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -71,11 +78,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Mud flies as Taiki Shuttle powers\nthrough the\nscene with a look of grim\ndetermination on her\nface, when\nsuddenly..."
+      "text": "Mud flies as Taiki Shuttle powers\nthrough the\nscene with a look of grim\ndetermination on her\nface, when\nsuddenly...",
+      "choice_data_list": [
+        "（凄まじい集中力……）"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Taiki Shuttle steps into a deep puddle\nof mud and\nstaggers drastically.\nHowever..."
+      "text": "Taiki Shuttle steps into a deep puddle\nof mud and\nstaggers drastically.\nHowever...",
+      "choice_data_list": [
+        "（あ、危ないっ……！）"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -83,7 +96,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Hahaha! I almost wish I could enjoy this\nforever!\nBut I'm afraid this is the end of\nthe line!"
+      "text": "Hahaha! I almost wish I could enjoy this\nforever!\nBut I'm afraid this is the end of\nthe line!",
+      "choice_data_list": [
+        "（立て直した！？なんてパワーだ……！）",
+        "（立て直した！？なんてパワー……！）"
+      ]
     },
     {
       "name": "Monologue",
@@ -119,7 +136,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "All right! I can't contain myself! We're\nhavin' a\ndance and brisket party tonight!"
+      "text": "All right! I can't contain myself! We're\nhavin' a\ndance and brisket party tonight!",
+      "choice_data_list": [
+        "今度こそ本当におめでとう！"
+      ]
     },
     {
       "name": "Monologue",

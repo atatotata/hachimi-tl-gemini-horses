@@ -17,7 +17,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Now then, what would you like me to \nexplain?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "説明を聞く",
+        "説明を聞かない"
+      ]
     },
     {
       "name": "Narrator",
@@ -33,7 +36,13 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "You'd like to know about the Deserted \nIsland Project, then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "『無人島プロジェクト』について",
+        "『建設計画』について",
+        "『発展Pt』について",
+        "『島トレ』について",
+        "もう大丈夫です"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -226,7 +235,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Understood♪ Just to be sure, I have a \nbrief summary right here.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい",
+        "いいえ"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

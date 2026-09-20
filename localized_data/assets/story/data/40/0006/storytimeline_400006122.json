@@ -32,7 +32,10 @@
     {
       "name": "Monologue",
       "text": "Living up to its name as the City of Art, \nevery sight I saw in Paris with <chrname> was truly \nbreathtaking.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "パリの街でのことを話す",
+        "レース場でのことを話す"
+      ]
     },
     {
       "name": "Monologue",
@@ -54,7 +57,9 @@
     {
       "name": "Trainer Kiryuin",
       "text": "Both Meek and I are cheering you on from \nthe bottom of our hearts. As the ultimate \ngoal we strive toward...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……はい！"
+      ]
     },
     {
       "name": "",
@@ -81,7 +86,9 @@
     {
       "name": "Trainer Kiryuin",
       "text": "Both Meek and I are cheering you on from \nthe bottom of our hearts. As the ultimate \ngoal we strive toward...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……はい！"
+      ]
     }
   ]
 }

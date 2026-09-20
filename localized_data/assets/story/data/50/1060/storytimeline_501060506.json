@@ -23,7 +23,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "This? Yeah... I have a feeling I'll be\ndancing these\nparts a lot."
+      "text": "This? Yeah... I have a feeling I'll be\ndancing these\nparts a lot.",
+      "choice_data_list": [
+        "それって、サイドのじゃ……？"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -35,7 +38,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Huh... I was expecting you to tell me to\npractice\nfor the center spot."
+      "text": "Huh... I was expecting you to tell me to\npractice\nfor the center spot.",
+      "choice_data_list": [
+        "彼女の意志を尊重する",
+        "センターの練習を勧める"
+      ]
     },
     {
       "name": "Monologue",
@@ -47,15 +54,24 @@
     },
     {
       "name": "Nice Nature",
-      "text": "You and your silver tongue..."
+      "text": "You and your silver tongue...",
+      "choice_data_list": [
+        "その代わり、見惚れるダンスにしよう！"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "All right, all right. Thanks."
+      "text": "All right, all right. Thanks.",
+      "choice_data_list": [
+        "ネイチャならできる！"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "That's not necessary."
+      "text": "That's not necessary.",
+      "choice_data_list": [
+        "なんなら一緒に踊ろうか！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -71,11 +87,18 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Yeah, right..."
+      "text": "Yeah, right...",
+      "choice_data_list": [
+        "君なら1着が取れる！",
+        "貴方なら1着が取れる！"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "All right, all right. If you say so."
+      "text": "All right, all right. If you say so.",
+      "choice_data_list": [
+        "だから一緒に頑張ろう！"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -87,7 +110,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Nothiiing!"
+      "text": "Nothiiing!",
+      "choice_data_list": [
+        "何か言った？"
+      ]
     }
   ]
 }

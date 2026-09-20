@@ -12,7 +12,10 @@
     {
       "name": "Almond Eye",
       "text": "\"To increase maximum oxygen intake and \nimprove endurance\"...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、高い脈拍を維持しよう",
+        "うん、高い脈拍を維持しよう"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -26,14 +29,17 @@
       "name": "Almond Eye",
       "text": "Indeed, that would be more efficient. In \nthat case... are you sure it's alright to \nleave it to you?",
       "choice_data_list": [
-        "Yeah. I'll be keeping a close eye on you!",
-        "Yeah. I'll be watching closely!"
+        "数値と、君の様子を見て適宜調整したい",
+        "数値と、貴方の様子を見て適宜調整したい"
       ]
     },
     {
       "name": "Almond Eye",
       "text": "...Fufu. Then I'm counting on you! I'll \nfocus on swimming!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。ちゃんと見ているから！",
+        "うん。ちゃんと見ているから！"
+      ]
     },
     {
       "name": "Narrator",
@@ -45,7 +51,9 @@
     {
       "name": "Narrator",
       "text": "We'll keep an eye on her for a bit longer, \nbut entering real races starting in the \nClassic year shouldn't be an issue. If so, \nwhat we ought to decide soon is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（体も更に強くなってきているし……）"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -59,21 +67,24 @@
       "name": "Narrator",
       "text": "Furthermore, looking back at the data, she \nseems quite versatile. In that case, the \northodox Classic Triple Crown or Tiara \nroutes—",
       "choice_data_list": [
-        "You can achieve either Triple Crown...!"
+        "君に最も適しているのは、恐らく中距離だ",
+        "貴方に最も適しているのは、恐らく中距離"
       ]
     },
     {
       "name": "Almond Eye",
       "text": "Hmm... The Classic Triple Crown route, or \nthe Tiara route...",
       "choice_data_list": [
-        "...Still having trouble deciding?",
-        "...Still having trouble deciding?"
+        "どちらの三冠だって成せる……！"
       ]
     },
     {
       "name": "Almond Eye",
       "text": "Yeah. Late starts, races... I was always \nfocused purely on what was right in front \nof me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……まだ、決まらなさそうか？",
+        "……まだ、決まらなさそう？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -100,7 +111,9 @@
     {
       "name": "Narrator",
       "text": "Graceful in demeanor, carrying an air of \ncomposure. This girl from Almond Eye's \ngeneration was—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（この子は――ラッキーライラック）"
+      ]
     },
     {
       "name": "Commentary",
@@ -132,7 +145,9 @@
     {
       "name": "Almond Eye",
       "text": "\"...Lala looks like she's gained a bit of \nmuscle. Her gait looks different.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（そういえば、ふたりは同じクラスだっけ）"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -145,7 +160,10 @@
     {
       "name": "Lucky Lilac",
       "text": "...Well, shall we get going?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、構わないよ",
+        "うん、構わないよ"
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -168,13 +186,15 @@
       "name": "Orfevre",
       "text": "………………。",
       "choice_data_list": [
-        "(The \"tyrant\" Orfevre...!)"
+        "（……ん？あっち、って……）"
       ]
     },
     {
       "name": "Narrator",
       "text": "There are currently seven Umamusume who \nhave achieved the Classic Triple Crown. \nShe is the newest \"sovereign\" among them. \nDue to her haughty demeanor, she is known \nas the \"Tyrant.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（“暴君”オルフェーヴル……！）"
+      ]
     },
     {
       "name": "Trainer A",
@@ -206,7 +226,9 @@
     {
       "name": "Almond Eye",
       "text": "\"...Even before I contracted with you, I \nhad watched her run many times.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……彼女が、そんなに気になる？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -228,7 +250,9 @@
     {
       "name": "Almond Eye",
       "text": "Hey. Would it be alright if I went to \nwatch the Hanshin Juvenile Fillies?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "アイ？"
+      ]
     },
     {
       "name": "Narrator",
@@ -241,7 +265,10 @@
     {
       "name": "Almond Eye",
       "text": "Yes. I think I understand my situation. My \ncondition is improving, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "もちろん大丈夫だけど、見学でいいのか？",
+        "もちろん大丈夫だけど、見学でいいの？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -264,7 +291,10 @@
     {
       "name": "Narrator",
       "text": "It was decided that we would go watch the \nHanshin Juvenile Fillies to see Lucky \nLilac run.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（耐えて偉いぞ、アイ！）",
+        "（耐えて偉いよ、アイ！）"
+      ]
     }
   ]
 }

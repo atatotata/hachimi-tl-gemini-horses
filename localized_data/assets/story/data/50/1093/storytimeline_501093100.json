@@ -292,7 +292,10 @@
     {
       "name": "K.S.Miracle",
       "text": "Ah... Ahaha. Sorry, I got a bit too fired \nup.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日も準備万全で待っててくれたんだな",
+        "今日も準備万全で待っててくれたんだね"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -305,7 +308,10 @@
     {
       "name": "K.S.Miracle",
       "text": "Yes. I look forward to working with you!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "よし。じゃあ、無理せず始めていこう！",
+        "うん。じゃあ、無理せず始めていこう！"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -344,14 +350,17 @@
       "name": "K.S.Miracle",
       "text": "Huh! Um... are we done? I've still got \nplenty of stamina—",
       "choice_data_list": [
-        "No. Let's wrap things up and go get you \nexamined.",
-        "No. Let's wrap it up and go get you \nexamined."
+        "……よし、今日はここまで！",
+        "……うん、今日はここまで！"
       ]
     },
     {
       "name": "K.S.Miracle",
       "text": "……！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや。切り上げて、検査を受けに行こう",
+        "ううん。切り上げて、検査を受けに行こう"
+      ]
     },
     {
       "name": "Attending Physician",
@@ -373,7 +382,9 @@
     {
       "name": "Attending Physician",
       "text": "It is true that when she was young, she \nwas so frail she could barely stand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "はい"
+      ]
     },
     {
       "name": "Attending Physician",
@@ -395,7 +406,9 @@
     {
       "name": "",
       "text": "Afterward, having discussed the future \nplan in detail with the attending \nphysician, we stepped out of the hospital—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "承知しました……！"
+      ]
     },
     {
       "name": "Miracle's Mother",
@@ -427,7 +440,9 @@
     {
       "name": "",
       "text": "They bowed their heads so deeply that it \nalmost made me flustered. Yet in that \nposture, I could feel the immense, \nwholehearted love of parents who wanted \nthe very best for their daughter...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "は、はい……！"
+      ]
     },
     {
       "name": "",
@@ -490,14 +505,16 @@
       "name": "",
       "text": "At times, she doesn't hesitate to push \nforward— and that \"sheer lack of \nhesitation\" makes her dangerous.",
       "choice_data_list": [
-        "(That's exactly why I've got to hold it \ntogether.)",
-        "(That's exactly why I have to hold it \ntogether.)"
+        "（……諸刃の心だ）"
       ]
     },
     {
       "name": "",
       "text": "From the attending physician. From her \nparents. Today, the baton was handed over.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（だからこそ、俺がしっかりしないと）",
+        "（だからこそ、私がしっかりしないと）"
+      ]
     },
     {
       "name": "",

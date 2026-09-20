@@ -22,7 +22,10 @@
     {
       "name": "Narrator",
       "text": "Gathered here are Academy students meeting \nfor the first time, brought together by \nCasino Drive's call for assistance.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（うーん、やっぱりこうなるよなぁ）",
+        "（うーん、やっぱりこうなるよねぇ）"
+      ]
     },
     {
       "name": "Narrator",
@@ -135,7 +138,10 @@
     {
       "name": "Narrator",
       "text": "If we can have fun together and bare our \ntrue selves, we can share each other's \nproblems and vulnerabilities too.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "チームとして、いい雰囲気になってきたな",
+        "チームとして、いい雰囲気になってきたね"
+      ]
     },
     {
       "name": "Narrator",
@@ -147,7 +153,9 @@
     {
       "name": "Casino Drive",
       "text": "I see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――トレーナーとして、参考になるよ"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -159,7 +167,9 @@
     {
       "name": "Zombie A",
       "text": "Boo-yaaaahhh!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――え？どこ行くの？"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -172,21 +182,23 @@
       "name": "Casino Drive",
       "text": "That was close... T-They're not chasing us \nanymore, right?",
       "choice_data_list": [
-        "W-Why a haunted house all of a sudden...!?"
+        "ひゃ～～！！に、逃げようっ！"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...I apologize. I thought that today... \nno, that with you, I might be able to \novercome my fear.",
       "choice_data_list": [
-        "Huh... with me?",
-        "Huh... with me?"
+        "な、なんで急にお化け屋敷……！？"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...Let us continue our conversation from \nearlier. A team grows by understanding and \nsupporting one another.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……俺と？",
+        "え……私と？"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -203,7 +215,9 @@
     {
       "name": "Casino Drive",
       "text": "You've listened to so many of my stories. \nAbout my past, and about my sisters. But—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――！"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -225,7 +239,9 @@
     {
       "name": "Narrator",
       "text": "(Bong, bong...)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "カジノ……"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -247,7 +263,9 @@
     {
       "name": "Casino Drive",
       "text": "—! ...Fufu, what an ordeal that must have \nbeen. How did you manage to find it—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……そういえば前、財布を落としちゃってさ"
+      ]
     },
     {
       "name": "Zombie B",
@@ -265,13 +283,15 @@
       "name": "Casino Drive",
       "text": "Yes! Well... even while we run, could you \ntell me the rest of what you were saying \nearlier?",
       "choice_data_list": [
-        "Huh, in this situation?!"
+        "わあっ！？逃げよう！！"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "Fufufu... Why not! Please tell me all \nabout it, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ、この状況で！？"
+      ]
     },
     {
       "name": "Narrator",

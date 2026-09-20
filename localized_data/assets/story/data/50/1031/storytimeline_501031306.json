@@ -75,7 +75,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer?"
+      "text": "Trainer?",
+      "choice_data_list": [
+        "アイネス！！"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -83,11 +86,18 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "...C'mon, don't ask for the impossible.\n<i>Someone's</i>\ngotta answer those cheers, so\nyou should hurry on\nover and..."
+      "text": "...C'mon, don't ask for the impossible.\n<i>Someone's</i>\ngotta answer those cheers, so\nyou should hurry on\nover and...",
+      "choice_data_list": [
+        "行かない、一緒に行く！"
+      ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "だってみんなも君を待ってるから！",
+        "だってみんなも貴方を待ってるから！"
+      ]
     },
     {
       "name": "Spectators",
@@ -107,7 +117,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ahaha... Geez..."
+      "text": "Ahaha... Geez...",
+      "choice_data_list": [
+        "それだけ君の走りに感動したんだ",
+        "それだけ貴方の走りに感動したの"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -115,7 +129,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Hehe, thanks! Don't complain if I'm too\nheavy!"
+      "text": "Hehe, thanks! Don't complain if I'm too\nheavy!",
+      "choice_data_list": [
+        "ああ、肩も貸すよ",
+        "うん、肩も貸すよ"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -191,7 +209,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "I'm glad to... hear that..."
+      "text": "I'm glad to... hear that...",
+      "choice_data_list": [
+        "ああ、とてもいいライブだったよ！",
+        "うん、とてもいいライブだったよ！"
+      ]
     },
     {
       "name": "Monologue",
@@ -199,11 +221,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Really... glad..."
+      "text": "Really... glad...",
+      "choice_data_list": [
+        "……アイネス！？"
+      ]
     },
     {
       "name": "",
-      "text": "Ines Fujin collapses onto the cold, hard\nfloor of\nthe backstage wings."
+      "text": "Ines Fujin collapses onto the cold, hard\nfloor of\nthe backstage wings.",
+      "choice_data_list": [
+        "アイネス！！"
+      ]
     }
   ]
 }

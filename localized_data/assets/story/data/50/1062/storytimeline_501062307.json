@@ -35,7 +35,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Meanwhile, not so far away..."
+      "text": "Meanwhile, not so far away...",
+      "choice_data_list": [
+        "そうだな！",
+        "そうだね！"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -115,7 +119,10 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Because I'm starving!"
+      "text": "Because I'm starving!",
+      "choice_data_list": [
+        "え、なんで？"
+      ]
     },
     {
       "name": "Monologue",

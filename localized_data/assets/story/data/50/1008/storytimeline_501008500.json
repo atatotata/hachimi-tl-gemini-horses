@@ -11,7 +11,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Huh? I don't need a break. I've got\nplenty of gas\nleft!"
+      "text": "Huh? I don't need a break. I've got\nplenty of gas\nleft!",
+      "choice_data_list": [
+        "少し休憩しよう",
+        "少し休憩しない？"
+      ]
     },
     {
       "name": "Vodka",
@@ -35,7 +39,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Heheh. I knew you'd come around!"
+      "text": "Heheh. I knew you'd come around!",
+      "choice_data_list": [
+        "よし、トレーニングを続けるか！",
+        "よし、トレーニングを続けましょう！"
+      ]
     },
     {
       "name": "Vodka",

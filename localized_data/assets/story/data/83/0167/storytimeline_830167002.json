@@ -162,14 +162,19 @@
       "name": "Narrator",
       "text": "While walking downtown one day, I spotted \nFine Motion and Kris dressed in unusual \nattire and called out to them.",
       "choice_data_list": [
-        "You two get along so well.",
-        "You two seem close.",
-        "Is this a celebration?"
+        "仲良しだな",
+        "仲良しだね",
+        "何かお祝い事？"
       ]
     },
     {
       "name": "Fine Motion",
-      "text": "Oh, thank you! It makes me happy if it \nlooks that way to you♪"
+      "text": "Oh, thank you! It makes me happy if it \nlooks that way to you♪",
+      "choice_data_list": [
+        "仲良しだな",
+        "仲良しだね",
+        "何かお祝い事？"
+      ]
     },
     {
       "name": "Symboli Kris S",

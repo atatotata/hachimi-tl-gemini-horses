@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "I tied the yellow ribbon I got from Buena \nVista the other day loosely around my \nwrist like a bracelet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。これからは巻いていこうと思って",
+        "うん。これからは巻いていこうと思って"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -40,7 +43,10 @@
     {
       "name": "Buena Vista",
       "text": "Yeah! Because I realized there's no need \nto rush.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……焦りはないみたいだな",
+        "……焦りはないみたいだね"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -59,14 +65,17 @@
       "name": "Buena Vista",
       "text": "Yeah.",
       "choice_data_list": [
-        "...I'll be waiting in the winner's circle!",
-        "...I'll be waiting in the winner's circle!"
+        "そうだ、君はひとりじゃない。ターフでも",
+        "そう、貴方はひとりじゃない。ターフでも"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Yes!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……ウイナーズ・サークルで待ってるぞ！",
+        "……ウイナーズ・サークルで待ってるよ！"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -103,7 +112,9 @@
     {
       "name": "Fans",
       "text": "Buena Vistaaa!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（それでも――）"
+      ]
     },
     {
       "name": "Special Week",

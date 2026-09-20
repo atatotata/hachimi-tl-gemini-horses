@@ -67,7 +67,11 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "J-j-jump right in?!"
+      "text": "J-j-jump right in?!",
+      "choice_data_list": [
+        "よし、思い切って飛びつこう！",
+        "よし、回り込んで挟み撃ち！"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -127,7 +131,10 @@
     },
     {
       "name": "Chiyono O & Bamboo",
-      "text": "What?!"
+      "text": "What?!",
+      "choice_data_list": [
+        "あの、アグネスタキオンが……"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -207,7 +214,10 @@
     },
     {
       "name": "Chiyono O & Bamboo",
-      "text": "Ahhh!"
+      "text": "Ahhh!",
+      "choice_data_list": [
+        "……逃げたんじゃ……？"
+      ]
     },
     {
       "name": "Monologue",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Well you see, Trainer..."
+      "text": "Well you see, Trainer...",
+      "choice_data_list": [
+        "何かあった？"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -75,7 +78,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "My own words..."
+      "text": "My own words...",
+      "choice_data_list": [
+        "必要なのは君の言葉だと思う",
+        "必要なのは貴方の言葉だと思う"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -143,7 +150,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Right? And I didn't even have to use\nPrez's words\nto inspire everyone! ♪"
+      "text": "Right? And I didn't even have to use\nPrez's words\nto inspire everyone! ♪",
+      "choice_data_list": [
+        "生徒会長みたいでカッコよかった",
+        "憧れの的として頑張って行こう！"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -167,7 +178,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hey, why'd you go quiet? Something\nwrong with\nwhat I said? C'mon! Tell me,\nTrainer!"
+      "text": "Hey, why'd you go quiet? Something\nwrong with\nwhat I said? C'mon! Tell me,\nTrainer!",
+      "choice_data_list": [
+        "…………"
+      ]
     }
   ]
 }

@@ -19,7 +19,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hm, there certainly were more reporters\nthan\nusual at last week's public training\nsession, but..."
+      "text": "Hm, there certainly were more reporters\nthan\nusual at last week's public training\nsession, but...",
+      "choice_data_list": [
+        "それだけ注目されてるってことだ",
+        "それだけ注目されてるってことだよ"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -39,11 +43,18 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "What is it?"
+      "text": "What is it?",
+      "choice_data_list": [
+        "ハヤヒデ？"
+      ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "何か不安があるなら相談してくれ",
+        "何か不安があるなら相談して"
+      ]
     },
     {
       "name": "Biwa Hayahide",

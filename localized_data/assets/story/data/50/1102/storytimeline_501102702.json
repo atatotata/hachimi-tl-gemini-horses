@@ -17,14 +17,16 @@
       "name": "Sounds of Earth",
       "text": "Oops, seems I sang with a bit too much \npassion and snapped a string.",
       "choice_data_list": [
-        "The strings... is the instrument alright?",
-        "The strings... is the instrument alright?"
+        "何の音！？"
       ]
     },
     {
       "name": "Sounds of Earth",
       "text": "Certo! It's just like a snapped shoelace. \nOnce you re-string it, it'll sing again.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "弦が……楽器は大丈夫なのか？",
+        "弦が……楽器は大丈夫なの？"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -78,13 +80,16 @@
       "name": "Sounds of Earth",
       "text": "Sì. She is a delicate princess, after all. \nIt would be quite rude to neglect \nre-hairing the bow or adjusting the bridge \nand ruin her beautiful singing voice, \nwouldn't it?",
       "choice_data_list": [
-        "Rehairing? What's reshaping the bow?"
+        "楽器もメンテナンスが必要なのか",
+        "楽器もメンテナンスが必要なんだ"
       ]
     },
     {
       "name": "Sounds of Earth",
       "text": "Fufu, I thought you might take an \ninterest. Wait right there for a moment.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "毛替え？反り直しって？"
+      ]
     },
     {
       "name": "Narrator",
@@ -102,7 +107,10 @@
     {
       "name": "Sounds of Earth",
       "text": "That's right— For example, this page \nexplains how the bridge affects sound \nquality...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どんなことが書いてあるんだ？",
+        "どんなことが書いてあるの？"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -124,7 +132,9 @@
     {
       "name": "Sounds of Earth",
       "text": "\"Is that true...!? O sole mio! Then let me \ntell you more!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "難しいけど、とても興味深いよ"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -142,7 +152,10 @@
     {
       "name": "Sounds of Earth",
       "text": "Sì. The violin is my voice, my other half. \nI would do anything in my power to \npreserve its beautiful singing voice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "もしかして、これ全部読んだのか！？",
+        "もしかして、これ全部読んだの！？"
+      ]
     },
     {
       "name": "Narrator",
@@ -154,7 +167,9 @@
     {
       "name": "Sounds of Earth",
       "text": "Is that so? I'm surprised that caught you \noff guard. You're quite the attentive one \nyourself, aren't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そこまでケアするのってすごい！"
+      ]
     },
     {
       "name": "Narrator",
@@ -182,7 +197,10 @@
     {
       "name": "Narrator",
       "text": "Understanding the instrument and never \nneglecting its care. That tone must be \nborn from her insatiable greed for the \nultimate session.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（この音は彼女の努力のたまものだ）",
+        "（この音は彼女の努力のたまもの）"
+      ]
     },
     {
       "name": "Narrator",
@@ -195,7 +213,10 @@
     {
       "name": "Sounds of Earth",
       "text": "Grazie! This is all thanks to the \nshopkeeper's fantastico work!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "胸が熱くなる演奏だった！",
+        "指が踊ってるみたいだった！"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -222,7 +243,9 @@
     {
       "name": "Sounds of Earth",
       "text": "Forgive me, I was simply blinded by joy. \nShall we head back for today?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "セッションはまた今度にしよう"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -250,7 +273,10 @@
     {
       "name": "Sounds of Earth",
       "text": "Forgive me, I was simply blinded by joy. \nShall we head back for today?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "また今度聴かせてくれるか？",
+        "また今度聴かせてくれる？"
+      ]
     }
   ]
 }

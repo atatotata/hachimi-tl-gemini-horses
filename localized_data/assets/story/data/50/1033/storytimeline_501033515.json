@@ -27,7 +27,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "ありがとうございます！"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +38,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'm fine. The next person is coming."
+      "text": "I'm fine. The next person is coming.",
+      "choice_data_list": [
+        "調子悪い？"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,11 +85,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Not really..."
+      "text": "Not really...",
+      "choice_data_list": [
+        "今日みたいなイベントは苦手？"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "That's not necessary."
+      "text": "That's not necessary.",
+      "choice_data_list": [
+        "嫌なら、数を減らすとか――"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -115,11 +127,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It's been my mission since I was born. It's\nthe only\nthing I can do."
+      "text": "It's been my mission since I was born. It's\nthe only\nthing I can do.",
+      "choice_data_list": [
+        "俺も、できる事を一緒に頑張るよ",
+        "私も、できる事を一緒に頑張るよ",
+        "唯一、ではないと思う"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "That's..."
+      "text": "That's...",
+      "choice_data_list": [
+        "俺も、できる事を一緒に頑張るよ",
+        "私も、できる事を一緒に頑張るよ",
+        "唯一、ではないと思う"
+      ]
     },
     {
       "name": "Woman A",
@@ -139,7 +161,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "君の走りは、勇気を与える",
+        "貴方の走りは、勇気を与える"
+      ]
     },
     {
       "name": "Woman A",
@@ -151,7 +177,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Yeah."
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "これからも走り続けよう"
+      ]
     }
   ]
 }

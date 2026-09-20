@@ -23,7 +23,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "But I want to win..."
+      "text": "But I want to win...",
+      "choice_data_list": [
+        "今は治療に専念しよう",
+        "トレーニングできる方法を考えよう"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "You're right... I know that. Still..."
+      "text": "You're right... I know that. Still...",
+      "choice_data_list": [
+        "悪化したらレースにも出られなくなるぞ",
+        "悪化したらレースにも出られなくなるよ"
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +55,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I felt a slight twinge... But it's nothing to\nworry\nab—OUCH!"
+      "text": "I felt a slight twinge... But it's nothing to\nworry\nab—OUCH!",
+      "choice_data_list": [
+        "大丈夫か……！？",
+        "大丈夫……！？"
+      ]
     },
     {
       "name": "Monologue",
@@ -63,7 +75,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It doesn't hurt. I think I'll be all right like\nthis."
+      "text": "It doesn't hurt. I think I'll be all right like\nthis.",
+      "choice_data_list": [
+        "大丈夫そう？"
+      ]
     },
     {
       "name": "Admire Vega",

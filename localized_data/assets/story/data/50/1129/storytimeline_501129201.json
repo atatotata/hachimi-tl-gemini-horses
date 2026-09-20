@@ -13,21 +13,24 @@
       "name": "Almond Eye",
       "text": "Trainer...? Are you awake...?",
       "choice_data_list": [
-        "…………！？"
+        "（こんな朝早くに誰だ……？）",
+        "（こんな朝早くに誰……？）"
       ]
     },
     {
       "name": "Almond Eye",
       "text": "Ah. ...Good morning!",
       "choice_data_list": [
-        "What's wrong? Did something happen...!?",
-        "What's wrong? Did something happen...?!"
+        "…………！？"
       ]
     },
     {
       "name": "",
       "text": "Today is the Shinzan Kinen. For her to \nvisit without any notice right before an \nimportant race... Something serious might \nhave happened.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "どうした？何かあったのか……！？",
+        "どうしたの？何かあった……！？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -44,7 +47,9 @@
     {
       "name": "Almond Eye",
       "text": "\"Agh, I want to race so badly, I just \ncan't take it anymore!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -61,7 +66,9 @@
     {
       "name": "",
       "text": "\"Counting this achievement, Lucky Lilac \nwas awarded one of the URA honors \npresented to the most active Umamusume of \nthe year—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（『阪神ジュベナイルフィリーズ』……）"
+      ]
     },
     {
       "name": "",
@@ -80,14 +87,17 @@
       "name": "Almond Eye",
       "text": "Huh? ...Of course! I went to bed waaaay \nearlier than usual last night!",
       "choice_data_list": [
-        "Then shall we go for a light run?",
-        "Then let's go for a light run."
+        "……睡眠はたっぷりとったのか？",
+        "……睡眠はたっぷりとった？"
       ]
     },
     {
       "name": "Almond Eye",
       "text": "Huh...! Are you sure?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "だったら、軽めに走ろうか",
+        "だったら、軽めに走ろう"
+      ]
     },
     {
       "name": "",
@@ -100,7 +110,10 @@
     {
       "name": "Almond Eye",
       "text": "Thank you!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "気持ちがすっきりする程度でな",
+        "気持ちがすっきりする程度でね"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -152,7 +165,9 @@
     {
       "name": "Almond Eye",
       "text": "Oh, review time? Leave it to me!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "その前に。今日、一番気をつけるべきは？"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -170,7 +185,10 @@
     {
       "name": "Almond Eye",
       "text": "Yes!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、完璧だ。行ってらっしゃい！",
+        "うん、完璧。行ってらっしゃい！"
+      ]
     },
     {
       "name": "Almond Eye",

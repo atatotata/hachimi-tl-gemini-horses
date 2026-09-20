@@ -35,7 +35,10 @@
     },
     {
       "name": "Reporter A",
-      "text": "Ah—just one last thing! Your fans are\neager to see\nmore of your eye-catching\nrunning!"
+      "text": "Ah—just one last thing! Your fans are\neager to see\nmore of your eye-catching\nrunning!",
+      "choice_data_list": [
+        "これ以上は正式な手続きをお願いします"
+      ]
     },
     {
       "name": "Gold City",
@@ -47,7 +50,10 @@
     },
     {
       "name": "Monologue",
-      "text": "The Asahi Hai F.S. tends to attract\nrunners aiming\nfor the Classic Triple\nCrown tour, while the\nHanshin J.F. is for\nthe Tiara tour."
+      "text": "The Asahi Hai F.S. tends to attract\nrunners aiming\nfor the Classic Triple\nCrown tour, while the\nHanshin J.F. is for\nthe Tiara tour.",
+      "choice_data_list": [
+        "『朝日杯FS』『阪神JF』どちらかを選びたい"
+      ]
     },
     {
       "name": "Gold City",
@@ -59,11 +65,18 @@
     },
     {
       "name": "Gold City",
-      "text": "I think... the Hanshin J.F. might suit me\nbest."
+      "text": "I think... the Hanshin J.F. might suit me\nbest.",
+      "choice_data_list": [
+        "どちらを選んでも素晴らしい道だ",
+        "どちらを選んでも素晴らしい道だよ"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "It seems like my fans really want to see\nme wear\nthe Triple Tiara."
+      "text": "It seems like my fans really want to see\nme wear\nthe Triple Tiara.",
+      "choice_data_list": [
+        "理由は？"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +92,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "じゃあ『阪神JF』を目指そう！"
+      ]
     }
   ]
 }

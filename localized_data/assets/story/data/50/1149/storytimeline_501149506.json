@@ -70,7 +70,9 @@
     {
       "name": "Narrator",
       "text": "The two danced to the thunderous rhythm of \nthe Japanese drums, \nmoving with the gallant grace of true \nsamurai.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（この音は……太鼓？）"
+      ]
     },
     {
       "name": "Narrator",
@@ -82,7 +84,9 @@
     {
       "name": "Air Groove",
       "text": "Oho, now this is... intriguing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（カッコいいなあ……！）"
+      ]
     },
     {
       "name": "Samson Big",
@@ -115,7 +119,10 @@
     {
       "name": "Narrator",
       "text": "It was a truly mesmerizing performance. \nI told Phalaenopsis and the others that it \nwould be a shame \nto let it end as mere practice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺もそれがいいと思う！",
+        "私もそれがいいと思う！"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -136,16 +143,21 @@
       "name": "Samson Big",
       "text": "Yeah, I'll do my best too! \nI'm gonna practice tons before the big \nday~~!",
       "choice_data_list": [
-        "Is there anything I can do to help?",
-        "Is there anything I can do to help?",
-        "Then I want to be the DJ!",
-        "Then I want to be the DJ!"
+        "何か俺にも協力できることはあるかな？",
+        "何か私にも協力できることはあるかな？",
+        "じゃあ俺はDJをやりたい！",
+        "じゃあ私はDJをやりたい！"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "Hmm, let's see—ah, \nthen could you help us brainstorm the \noutfits?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "何か俺にも協力できることはあるかな？",
+        "何か私にも協力できることはあるかな？",
+        "じゃあ俺はDJをやりたい！",
+        "じゃあ私はDJをやりたい！"
+      ]
     },
     {
       "name": "Phalaenopsis",

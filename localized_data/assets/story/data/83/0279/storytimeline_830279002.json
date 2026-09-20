@@ -118,7 +118,10 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Golshi-san and Nakayama-san have been \nlaying out irresistible temptations day \nafter day."
+      "text": "Golshi-san and Nakayama-san have been \nlaying out irresistible temptations day \nafter day.",
+      "choice_data_list": [
+        "どうかした？すごくつらそうだけど"
+      ]
     },
     {
       "name": "Fenomeno",
@@ -164,12 +167,16 @@
       "name": "Fenomeno",
       "text": "Ugh... Suffering a dizzy spell... How \nthoroughly disgraceful for an officer. I \nhave caused you unwarranted trouble.",
       "choice_data_list": [
-        "Don't worry about it, more importantly—"
+        "大丈夫か！？ふらついてるぞ！？",
+        "大丈夫！？ふらついてるよ！？"
       ]
     },
     {
       "name": "Narrator",
-      "text": "While earnestness is a virtue, bottling up \ntoo much is bad. I advised her that giving \nin to her inner desires once in a while \nmight help prevent stress from \naccumulating."
+      "text": "While earnestness is a virtue, bottling up \ntoo much is bad. I advised her that giving \nin to her inner desires once in a while \nmight help prevent stress from \naccumulating.",
+      "choice_data_list": [
+        "気にしないで、それよりも――"
+      ]
     },
     {
       "name": "Fenomeno",
@@ -181,7 +188,11 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Golshi-san, you say? Is she not somewhat \nexcessively unrestrained—"
+      "text": "Golshi-san, you say? Is she not somewhat \nexcessively unrestrained—",
+      "choice_data_list": [
+        "ゴールドシップのようにもっと自由に",
+        "ナカヤマフェスタのように肩の力を抜いて"
+      ]
     },
     {
       "name": "Gold Ship",

@@ -52,7 +52,10 @@
     {
       "name": "Participant A",
       "text": "To possess such presence in her Classic \nyear already... There's a delicacy to her \nmovements as well... truly a queen.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（……俺も、相応しくあるようにしないと）",
+        "（……私も、相応しくあるようにしないと）"
+      ]
     },
     {
       "name": "Participant B",
@@ -85,7 +88,10 @@
     {
       "name": "Narrator",
       "text": "\"...Come to think of it, Lucky Lilac had \nspent her entire Junior year in a strictly \nstoic manner.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そう、受賞を記念してのお祝いだ！",
+        "そう、受賞を記念してのお祝いだよ！"
+      ]
     },
     {
       "name": "Narrator",
@@ -113,7 +119,10 @@
     {
       "name": "Lucky Lilac",
       "text": "...In that case, could you decide for me, \nTrainer?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "決まりだ。じゃあどんなお祝いにしようか",
+        "決まりだね。じゃあどんなお祝いにしようか"
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -126,15 +135,17 @@
       "name": "Narrator",
       "text": "Hearing her call it \"something we seized \ntogether\" warms my heart. Just as she \nwished, the celebration idea that came to \nmind was—",
       "choice_data_list": [
-        "Have a blast at the amusement park!",
-        "Go eat a luxurious meal",
-        "Let's go see a live comedy show."
+        "ラック――"
       ]
     },
     {
       "name": "Lucky Lilac",
       "text": "An amusement park...! Sounds lovely. Going \nall out having fun at a place like that \nevery once in a while sounds delightful.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "遊園地で思いっきり遊ぶ",
+        "豪華な食事を食べにいく",
+        "お笑いのライブを見にいく"
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -157,14 +168,16 @@
       "name": "Lucky Lilac",
       "text": "Phew... That coaster was way faster than I \nimagined...",
       "choice_data_list": [
-        "Ah... You were shouting quite a bit too, \nLuck.",
-        "Yeah... Luck was screaming quite a bit \ntoo, wasn't she?"
+        "わーーーーっ！？"
       ]
     },
     {
       "name": "Lucky Lilac",
       "text": "Well of course, that's just the kind of \nride it is. Even I go 'waaah' on it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ……ラックも、けっこう叫んでいたね",
+        "うん……ラックも、けっこう叫んでいたね"
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -186,7 +199,9 @@
     {
       "name": "Lucky Lilac",
       "text": "...!! Sukiyaki sounds lovely—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "すき焼きとかどうかな"
+      ]
     },
     {
       "name": "Lucky Lilac",

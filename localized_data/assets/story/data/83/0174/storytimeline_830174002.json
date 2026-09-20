@@ -119,7 +119,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "D-Don't call out to me all of a sudden!"
+      "text": "D-Don't call out to me all of a sudden!",
+      "choice_data_list": [
+        "ずいぶん真剣に見ているな",
+        "ずいぶん真剣に見ているね"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -139,15 +143,21 @@
       "name": "Mejiro Dober",
       "text": "I was looking at Ramonu-san's painting. \n...To make sure of the strength of my own \nfeelings.",
       "choice_data_list": [
-        "Facing Ramonu's painting head-on, huh?",
-        "Facing Ramonu's painting head-on, huh?",
-        "Are you planning to challenge Ramonu to a \nmatch?",
-        "Are you planning to challenge Ramonu to a \nmatch?"
+        "ラモーヌの絵と向き合っているんだな",
+        "ラモーヌの絵と向き合っているんだね",
+        "ラモーヌに勝負を挑むつもり？",
+        "ラモーヌに勝負を挑むつもり？"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Ramonu-san's painting is filled with \nsuch intense... raw passion."
+      "text": "...Ramonu-san's painting is filled with \nsuch intense... raw passion.",
+      "choice_data_list": [
+        "ラモーヌの絵と向き合っているんだな",
+        "ラモーヌの絵と向き合っているんだね",
+        "ラモーヌに勝負を挑むつもり？",
+        "ラモーヌに勝負を挑むつもり？"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -173,13 +183,17 @@
       "name": "Mejiro Dober",
       "text": "...Though I don't know if she'll even give \nme the time of day...",
       "choice_data_list": [
-        "I'll keep an eye on the painting, so go on \nahead.",
-        "I'll watch the painting, why don't you go \nahead?"
+        "絵画は俺が見ておくから行ってきなよ",
+        "絵画は私が見ておくから行ってきたら？"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "...! I told you it's none of your—ah, \ngeez! Whatever you do, don't touch or move \nthe painting!"
+      "text": "...! I told you it's none of your—ah, \ngeez! Whatever you do, don't touch or move \nthe painting!",
+      "choice_data_list": [
+        "絵画は俺が見ておくから行ってきなよ",
+        "絵画は私が見ておくから行ってきたら？"
+      ]
     },
     {
       "name": "Mejiro Dober",

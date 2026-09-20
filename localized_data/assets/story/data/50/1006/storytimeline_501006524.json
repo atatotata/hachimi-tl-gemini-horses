@@ -7,7 +7,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Don't get in my way! Now's not the time!\nI <i>have</i> to\nwin this contest."
+      "text": "Don't get in my way! Now's not the time!\nI <i>have</i> to\nwin this contest.",
+      "choice_data_list": [
+        "待てオグリ！また体重が増えるぞ！",
+        "待ってオグリ！また体重が増えるよ！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -19,11 +23,23 @@
     },
     {
       "name": "Monologue",
-      "text": "She has her mind set on this. There's\nonly thing I\ncan say..."
+      "text": "She has her mind set on this. There's\nonly thing I\ncan say...",
+      "choice_data_list": [
+        "思いっきり戦ってこい！",
+        "思いっきり戦っておいで！",
+        "ほどほどにセーブしてほしい",
+        "食って食って……全てを食い尽くせ！"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...Thanks. You just sit right back and\nwatch."
+      "text": "...Thanks. You just sit right back and\nwatch.",
+      "choice_data_list": [
+        "思いっきり戦ってこい！",
+        "思いっきり戦っておいで！",
+        "ほどほどにセーブしてほしい",
+        "食って食って……全てを食い尽くせ！"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -63,7 +79,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Fine... I'll do what I can."
+      "text": "Fine... I'll do what I can.",
+      "choice_data_list": [
+        "ラーメンなら俺がおごるから",
+        "ラーメンなら私がおごるから"
+      ]
     },
     {
       "name": "Host",

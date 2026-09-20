@@ -25,16 +25,21 @@
       "name": "Dantsu Flame",
       "text": "Changing myself from a \"supporting \nrole\"... really is difficult, isn't it?",
       "choice_data_list": [
-        "Your running has made steady progress!",
-        "Your running has steadily improved!",
-        "Still... we can't just leave things like \nthis, right?",
-        "Still... we can't just leave things like \nthis, right?"
+        "走りは着実に進歩していたぞ！",
+        "走りは着実に進歩していたよ！",
+        "でも……このままじゃいられない、だろ？",
+        "でも……このままじゃいられない、でしょ？"
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "Trainer... Yes, thank you very much.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "走りは着実に進歩していたぞ！",
+        "走りは着実に進歩していたよ！",
+        "でも……このままじゃいられない、だろ？",
+        "でも……このままじゃいられない、でしょ？"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -52,7 +57,10 @@
     {
       "name": "Dantsu Flame",
       "text": "――――！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "次は、主役の君を見せてくれ！",
+        "次は、主役の貴方を見せてね！"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -80,7 +88,10 @@
     {
       "name": "Dantsu Flame",
       "text": "Yes, of course! I'll run and run... even \nfurther than I am now!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それなら……走り続けないとな",
+        "それなら……走り続けないとね"
+      ]
     }
   ]
 }

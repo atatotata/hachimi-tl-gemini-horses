@@ -21,7 +21,9 @@
     {
       "name": "Passerby A",
       "text": "Ah! Isn't that girl Buena Vista!? Wah, \nit's really her!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それが、行く途中で――"
+      ]
     },
     {
       "name": "Passerby B",
@@ -114,13 +116,15 @@
       "name": "Buena's Mother",
       "text": "—That show was so fun! Seeing you on TV \ntoo, <username>-chan.",
       "choice_data_list": [
-        "I did turn it down at first, but Buena \ninsisted..."
+        "最初は断ったんですけど、ブエナが……"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "If you want to delve into my daily life, \nTrainer, you're an essential part of it, \naren't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "最初は断ったんですけど、ブエナが……"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -152,7 +156,9 @@
     {
       "name": "Buena Vista",
       "text": "Above all, Trainer is coming along too. \nHehe, reassuring, isn't it~?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（これが本心だからすごいよなぁ……）"
+      ]
     },
     {
       "name": "Buena's Mother",
@@ -165,20 +171,22 @@
       "name": "Buena's Mother",
       "text": "Well, that's true, but... <username>, you have your \nown job as a Trainer to do, after all...",
       "choice_data_list": [
-        "My job is to support whatever Buena wants \nto do."
+        "ブエナのやりたいを支えるのが仕事なので"
       ]
     },
     {
       "name": "",
       "text": "In fact, some Trainers double as managers \nfor their trainees. I'm not sure if I can \ngo that far myself, though...",
       "choice_data_list": [
-        "I'd do anything for Buena."
+        "ブエナのやりたいを支えるのが仕事なので"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ブエナのためならなんでもやりますよ"
+      ]
     },
     {
       "name": "Buena's Mother",
@@ -201,14 +209,16 @@
       "name": "Buena Vista",
       "text": "Huh... Really? Though, now that you \nmention it, the memory...",
       "choice_data_list": [
-        "Because you got scared and dashed out \nright away—",
-        "Because you got scared and dashed right \nout—"
+        "……いや、結局してないような？"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "! C-Can we stop talking about this now!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "君が怖がって、すぐ飛び出すから――",
+        "貴方が怖がって、すぐ飛び出すから――"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -227,7 +237,11 @@
     {
       "name": "",
       "text": "She will only get busier and busier from \nhere on. When that happens, what matters \nmost is... sleep. I prayed she would be \nable to get plenty of rest.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ブエナがたくさん寝られますように",
+        "ブエナがもっと強くなれますように",
+        "ブエナが色んな経験をできますように"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -294,7 +308,9 @@
     {
       "name": "Nakayama Festa",
       "text": "That little lady of yours wanders off in a \nheartbeat. You'd better hold her hand \ntight, got it?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "また、って……"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -341,7 +357,9 @@
     {
       "name": "Nakayama Festa",
       "text": "Walk the royal road in the Senior Class \ntoo, got it? ...Do it for my sake as well. \n—Well then, Happy New Year.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -353,7 +371,9 @@
     {
       "name": "Buena Vista",
       "text": "Ahaha, that sounds good! Let's take a bite \nand give it our best this year too!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "逆に食べ返しちゃえ"
+      ]
     }
   ]
 }

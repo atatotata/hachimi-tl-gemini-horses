@@ -18,36 +18,39 @@
       "name": "Race Announcer",
       "text": "Chrono Genesis finishes in 7th place...! \nOnce again, the world stage proves to be a \nhigh wall for Japan's Umamusume, but—",
       "choice_data_list": [
-        "(—No! I wanted to go to France with you…!)",
-        "(—No! I wanted to go to France with you…!)"
+        "（……なんだ？……これは……俺？）",
+        "（……なに？……これは……私？）"
       ]
     },
     {
       "name": "Narrator",
       "text": "—I awoke to find my back sticky with cold \nsweat. The sight of her back viewed \nthrough the screen was burned into the \nback of my eyelids.",
       "choice_data_list": [
-        "........................A dream, huh?"
+        "（――違う！俺は一緒にフランスに……！）",
+        "（――違う！私は一緒にフランスに……！）"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "Ah... good morning, Trainer-san. ...You \nlook somewhat sleepy, don't you?",
       "choice_data_list": [
-        "I-It's nothing."
+        "………………………………夢、か"
       ]
     },
     {
       "name": "Narrator",
       "text": "I couldn't possibly tell her, with her big \nrace right around the corner, that I woke \nup feeling awful just from a bad dream.",
       "choice_data_list": [
-        "Today's a rest day. Focus on maintaining \nyour condition.",
-        "Today is a rest day. Prioritizing \ncondition maintenance."
+        "な、何でもないよ"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "Ah... yes. Understood.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今日は休養日だ。コンディション維持優先で",
+        "今日は休養日。コンディション維持優先で"
+      ]
     },
     {
       "name": "Narrator",
@@ -66,13 +69,16 @@
       "name": "Chrono Genesis",
       "text": "Huh? Ah... This is my father's birthplace. \nIt's a bit far away, so... for now, I'll \nhave to settle for just the video.",
       "choice_data_list": [
-        "I-I see..."
+        "ええと……出かけたりしないのか？",
+        "ええと……出かけたりしないの？"
       ]
     },
     {
       "name": "Loves's Stream",
       "text": "\"Love me♡ Love you♡ It's Loves Only You~♡ \nToday, I'm connected with Chrono-chan in \nFrance♪\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そ、そう……"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -90,13 +96,15 @@
       "name": "Chrono Genesis",
       "text": "...Ah. Before I knew it, it got this \nlate...",
       "choice_data_list": [
-        "Are you sure you want to stay in the lodge \nwhen we're all the way in Paris?"
+        "どちらの分析が的を射ているか、勝負だね"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "U-Um... Since you said, \"prioritizing \ncondition maintenance\"...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "せっかくのパリなのに宿にいてよかったの？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -109,7 +117,10 @@
     {
       "name": "Chrono Genesis",
       "text": "Still... well, before leaving Japan, \nTrainer, you also—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "俺はいいけど普段と代わり映えしなくない？",
+        "私はいいけど普段と代わり映えしなくない？"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -122,13 +133,15 @@
       "name": "Chrono Genesis",
       "text": "Building it up...",
       "choice_data_list": [
-        "Believe in that, and let's go out there \njust like always!"
+        "必要なことは全部、積み重ねてきたからね"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "So when told to rest... maybe they just \nfelt like doing what's 'normal'...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それを信じて、いつも通りにいこう！"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -156,13 +169,15 @@
       "name": "Narrator",
       "text": "The unpleasant lingering feeling from the \nnightmare had faded. I felt saved by her \nsmile.",
       "choice_data_list": [
-        "Let's prove the strength of everything \nwe've built up together!"
+        "――そう、そうだね！"
       ]
     },
     {
       "name": "Chrono Genesis",
       "text": "Yes. Let us go... and carve our names into \nhistory.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "一緒に積み重ねてきたものの力を証明しよう"
+      ]
     }
   ]
 }

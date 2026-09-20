@@ -11,7 +11,10 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "About you and that trainee of yours.\nApparently,\nshe threw a big fit and\ncaused everyone a lot of\nhassle."
+      "text": "About you and that trainee of yours.\nApparently,\nshe threw a big fit and\ncaused everyone a lot of\nhassle.",
+      "choice_data_list": [
+        "どんな話？"
+      ]
     },
     {
       "name": "Fellow Trainer",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Sweep's Grandma",
-      "text": "But that isn't to say that children don't\nknow the\nright path themselves."
+      "text": "But that isn't to say that children don't\nknow the\nright path themselves.",
+      "choice_data_list": [
+        "導く、か……"
+      ]
     },
     {
       "name": "Sweep's Grandma",
@@ -31,7 +37,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It's the day of the Hanshin J.F. I go to\nthe spot\nSweep Tosho and I agreed to\nmeet, where I find\nanother Umamusume\nthere with her."
+      "text": "It's the day of the Hanshin J.F. I go to\nthe spot\nSweep Tosho and I agreed to\nmeet, where I find\nanother Umamusume\nthere with her.",
+      "choice_data_list": [
+        "……少し考え事を"
+      ]
     },
     {
       "name": "Air Groove",
@@ -103,15 +112,25 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm not her parent. We don't always\nneed to be\ncomforting each other. So in\nthat case..."
+      "text": "I'm not her parent. We don't always\nneed to be\ncomforting each other. So in\nthat case...",
+      "choice_data_list": [
+        "（でも……）"
+      ]
     },
     {
       "name": "Sweep Tosho",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "スイープ、君ならできる",
+        "スイープ、貴方ならできる"
+      ]
     },
     {
       "name": "Sweep Tosho",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "信じてるから"
+      ]
     }
   ]
 }

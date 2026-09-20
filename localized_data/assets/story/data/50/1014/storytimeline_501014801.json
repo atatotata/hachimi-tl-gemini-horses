@@ -11,7 +11,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Oh, Trainer! I've got my outfit on, so I'm\nin a\ngood mood!"
+      "text": "Oh, Trainer! I've got my outfit on, so I'm\nin a\ngood mood!",
+      "choice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -75,7 +79,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Trainer! Yes! If you don't mind!"
+      "text": "Trainer! Yes! If you don't mind!",
+      "choice_data_list": [
+        "手を貸そうか？"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -87,11 +94,21 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Nope! Actually, my trainer here's gonna\ntell you\njust how passionate I am!"
+      "text": "Nope! Actually, my trainer here's gonna\ntell you\njust how passionate I am!",
+      "choice_data_list": [
+        "語るより行動で示すんだ！",
+        "語るより行動で示そう！",
+        "衣装のように熱いものを持っている"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Sí! Leave it to me!"
+      "text": "Sí! Leave it to me!",
+      "choice_data_list": [
+        "語るより行動で示すんだ！",
+        "語るより行動で示そう！",
+        "衣装のように熱いものを持っている"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -99,7 +116,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Oho! Let's show off my blazing dance!"
+      "text": "Oho! Let's show off my blazing dance!",
+      "choice_data_list": [
+        "得意の演武を披露しよう！"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -159,7 +179,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bueno! Of course! What're a few\nmisconceptions\nin the face of such\npassion? I can't sweat the small\nstuff!"
+      "text": "Bueno! Of course! What're a few\nmisconceptions\nin the face of such\npassion? I can't sweat the small\nstuff!",
+      "choice_data_list": [
+        "それでいいの……？"
+      ]
     },
     {
       "name": "Biko Pegasus",

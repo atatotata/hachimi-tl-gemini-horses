@@ -27,7 +27,11 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Oh, Trainer\n<username>..."
+      "text": "Oh, Trainer\n<username>...",
+      "choice_data_list": [
+        "大丈夫です、桐生院トレーナー",
+        "大丈夫だよ、桐生院トレーナー"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -63,7 +67,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "With some extra oomph, if you please."
+      "text": "With some extra oomph, if you please.",
+      "choice_data_list": [
+        "じゃあいくぞ、闘魂肩たたき！",
+        "じゃあいくよ、闘魂肩たたき！"
+      ]
     },
     {
       "name": "Monologue",
@@ -99,7 +107,11 @@
     },
     {
       "name": "Monologue",
-      "text": "This \"spirited\" shoulder massage is what\ngets\nWonder Acute into the right\nmindset for racing.\nAnd boy, is it\neffective."
+      "text": "This \"spirited\" shoulder massage is what\ngets\nWonder Acute into the right\nmindset for racing.\nAnd boy, is it\neffective.",
+      "choice_data_list": [
+        "いいんですよ、俺たちはこれで",
+        "いいんですよ、私たちはこれで"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -111,7 +123,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Huh?! Ah, r-right!"
+      "text": "Huh?! Ah, r-right!",
+      "choice_data_list": [
+        "止めて、桐生院トレーナー！"
+      ]
     },
     {
       "name": "Monologue",

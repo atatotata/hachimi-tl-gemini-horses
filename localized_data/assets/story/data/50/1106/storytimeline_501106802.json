@@ -171,7 +171,9 @@
     {
       "name": "Narrator",
       "text": "Dropping everything, I sprint to where she \nis. Praying that she's safe, I arrive at \nthe destination, and—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "『トレーナーさん、助けて』……！？"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -189,13 +191,15 @@
       "name": "Jungle Pocket",
       "text": "\"Ah, about that. Hishi Miracle totally \ndestroyed them at a kids' mahjong game, \ny'know?\"",
       "choice_data_list": [
-        "I-In a kids' mahjong game...?"
+        "あ、あれ……？緊急事態じゃ……？"
       ]
     },
     {
       "name": "Hishi Miracle",
       "text": "I play games all the time at the super \nsento to kill time. I'm crazy lucky today, \nthough. Total hot streak~♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "こ、子ども向け麻雀ゲームで……？"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -213,7 +217,10 @@
     {
       "name": "Hishi Miracle",
       "text": "Hmm, a penalty game... If it comes to \nthat, it has to be *that*, doesn't it?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "罰ゲームでもしてもらう……？",
+        "マッサージをお願いしよう！"
+      ]
     },
     {
       "name": "Rival Team Umamusume A",

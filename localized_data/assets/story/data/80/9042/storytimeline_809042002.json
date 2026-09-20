@@ -11,7 +11,11 @@
     },
     {
       "name": "Horse Girl A",
-      "text": "Fault is mine for being too weak...! To \nreceive Byerley Turk-san's guidance, lack \nability as I am now... gh."
+      "text": "Fault is mine for being too weak...! To \nreceive Byerley Turk-san's guidance, lack \nability as I am now... gh.",
+      "choice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
     },
     {
       "name": "Narrator",
@@ -30,7 +34,10 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "Leave her be."
+      "text": "Leave her be.",
+      "choice_data_list": [
+        "追いかけなくていいんですか？"
+      ]
     },
     {
       "name": "Byerley Turk",
@@ -42,7 +49,11 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "...Hmph. Cheering on a support AI? Such \nthought process is typical of a novice."
+      "text": "...Hmph. Cheering on a support AI? Such \nthought process is typical of a novice.",
+      "choice_data_list": [
+        "最後まで諦めたらだめですよ",
+        "バイアリーさんは強いですね"
+      ]
     },
     {
       "name": "Byerley Turk",
@@ -83,12 +94,15 @@
       "name": "Byerley Turk",
       "text": "...Now then, I have free time. If any \nstudent seeks strength, they are always \nwelcome.",
       "choice_data_list": [
-        "Eager to get back to work already, I see"
+        "……なるほど。任せてください！"
       ]
     },
     {
       "name": "Byerley Turk",
-      "text": "Naturally. A single day sooner, one more \nstudent... These horse girls must become \nstrong."
+      "text": "Naturally. A single day sooner, one more \nstudent... These horse girls must become \nstrong.",
+      "choice_data_list": [
+        "さっそく張り切っていますね"
+      ]
     }
   ]
 }

@@ -39,7 +39,10 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "B-but, I just don't know how..."
+      "text": "B-but, I just don't know how...",
+      "choice_data_list": [
+        "別の方法もあると思うけど……"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -75,7 +78,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "That's what we're about to find out. I'm\ncounting\non you, Yukino!"
+      "text": "That's what we're about to find out. I'm\ncounting\non you, Yukino!",
+      "choice_data_list": [
+        "これ本当に大丈夫……？"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -99,11 +105,18 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hm? What's the problem, Trainer?\nYou're\nblocking her way to the seat."
+      "text": "Hm? What's the problem, Trainer?\nYou're\nblocking her way to the seat.",
+      "choice_data_list": [
+        "止める！",
+        "座られる前に座る！"
+      ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "The trendy way?! Is there a new city\ntrend?!"
+      "text": "The trendy way?! Is there a new city\ntrend?!",
+      "choice_data_list": [
+        "流行りの引き締めをしよう！"
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -67,7 +67,11 @@
     },
     {
       "name": "Gold City",
-      "text": "A test of speed, huh. Sounds simple\nenough."
+      "text": "A test of speed, huh. Sounds simple\nenough.",
+      "choice_data_list": [
+        "スピード勝負『早押しバトル』",
+        "負けん気で勝負『バラマキクイズ』"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -135,7 +139,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Now, next question! The oldest U—"
+      "text": "Now, next question! The oldest U—",
+      "choice_data_list": [
+        "（シチー、雰囲気が変わったような……）"
+      ]
     },
     {
       "name": "Gold City",
@@ -243,7 +250,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Urgh... I know!"
+      "text": "Urgh... I know!",
+      "choice_data_list": [
+        "シチー、落ち着いて！"
+      ]
     },
     {
       "name": "Event Commentator",

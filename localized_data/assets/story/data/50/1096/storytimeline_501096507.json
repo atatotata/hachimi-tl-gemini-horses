@@ -11,7 +11,9 @@
     {
       "name": "No Reason",
       "text": "Ho, it was a letter from a fan! Let me \nread it at once!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ノーリーズンへの手紙が入っているんだよ"
+      ]
     },
     {
       "name": "No Reason",
@@ -44,13 +46,15 @@
       "name": "No Reason",
       "text": "Is that so? I assumed everyone engaged in \nthis to some extent.",
       "choice_data_list": [
-        "You can't read that normally!"
+        "そんな達筆な変体仮名、読めないよ！"
       ]
     },
     {
       "name": "No Reason",
       "text": "I see... Then it cannot be helped. I shall \nwrite using the kind of characters \neveryone else uses.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "普通は読めないって！"
+      ]
     },
     {
       "name": "Narrator",
@@ -73,7 +77,10 @@
     {
       "name": "No Reason",
       "text": "I wonder if those who support me will be \ndelighted by this letter...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ノーリーズン、どうしたんだ？",
+        "ノーリーズン、どうしたの？"
+      ]
     },
     {
       "name": "No Reason",
@@ -86,21 +93,23 @@
       "name": "No Reason",
       "text": "Right...? Was it truly wise of me to pen a \nmissive using unfamiliar script...?",
       "choice_data_list": [
-        "Let's write it however No Reason wants to!"
+        "たしかに、そうかもしれない……"
       ]
     },
     {
       "name": "No Reason",
       "text": "Wouldn't that make it impossible to read—",
       "choice_data_list": [
-        "It's fine! I'll add the translation!",
-        "It's fine! I'll add the translation!"
+        "ノーリーズンの書きたいように書こう！"
       ]
     },
     {
       "name": "No Reason",
       "text": "I see, a brilliant idea! Let's go with \nthat!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "大丈夫！俺が翻訳をつけるから！",
+        "大丈夫！私が翻訳をつけるから！"
+      ]
     },
     {
       "name": "No Reason",
@@ -114,13 +123,16 @@
       "name": "No Reason",
       "text": "\"You can't even read this?! What a \nhopeless fellow!\"",
       "choice_data_list": [
-        "I'm telling you, nobody would normally be \nable to read that!"
+        "なあ、これはなんて書いてあるんだ？",
+        "ねえ、これはなんて書いてあるの？"
       ]
     },
     {
       "name": "Narrator",
       "text": "Afterward, having finished writing her \nreply, No Reason threw herself into her \ntraining with even greater zeal than \nusual.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "だから、普通は読めないって！"
+      ]
     }
   ]
 }

@@ -34,7 +34,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Sensing the explosive atmosphere, I rush \nout in panic. As expected, I cannot simply \noverlook any more squabbling—"
+      "text": "Sensing the explosive atmosphere, I rush \nout in panic. As expected, I cannot simply \noverlook any more squabbling—",
+      "choice_data_list": [
+        "ス、ストーーーーップ！！！！"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -49,7 +52,10 @@
     },
     {
       "name": "Three Goddesses",
-      "text": "—Fighting?"
+      "text": "—Fighting?",
+      "choice_data_list": [
+        "あの、喧嘩してたから止めようと……？"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -60,7 +66,10 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "...We were not fighting. We were merely \ndevising a new training regimen."
+      "text": "...We were not fighting. We were merely \ndevising a new training regimen.",
+      "choice_data_list": [
+        "え？"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -97,7 +106,12 @@
     },
     {
       "name": "Darley Arabian",
-      "text": "Exactly! That is how we \"understand\" each \nother."
+      "text": "Exactly! That is how we \"understand\" each \nother.",
+      "choice_data_list": [
+        "それが『理解』のコツなんですね",
+        "討論、見学してもいいですか？",
+        "いい仲間ですね"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -124,7 +138,10 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "Time and capabilities should only ever be \nutilized effectively. Even more so for \nhigh-performance AI."
+      "text": "Time and capabilities should only ever be \nutilized effectively. Even more so for \nhigh-performance AI.",
+      "choice_data_list": [
+        "そんなことできるんですか！？"
+      ]
     },
     {
       "name": "Godolphin Barb",

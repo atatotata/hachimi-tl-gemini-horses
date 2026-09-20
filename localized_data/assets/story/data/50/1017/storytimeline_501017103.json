@@ -19,7 +19,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "The Miho Dorm folks are all accounted\nfor. They\nwere on the bus that just\ndeparted."
+      "text": "The Miho Dorm folks are all accounted\nfor. They\nwere on the bus that just\ndeparted.",
+      "choice_data_list": [
+        "（あれは……美浦寮と栗東寮の寮長）"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -51,7 +54,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I believe Air Groove has that well in\nhand."
+      "text": "I believe Air Groove has that well in\nhand.",
+      "choice_data_list": [
+        "陣頭指揮は執らないんだな",
+        "陣頭指揮は執らないんだね"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I have a plan to avoid that. Incidentally..."
+      "text": "I have a plan to avoid that. Incidentally...",
+      "choice_data_list": [
+        "けど、開始に遅れない？"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -67,7 +77,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And that feeling was dead on."
+      "text": "And that feeling was dead on.",
+      "choice_data_list": [
+        "（なぜか嫌な予感がする……）"
+      ]
     },
     {
       "name": "Monologue",
@@ -107,11 +120,18 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "If you'd like, I could also ask her to drive\nus back\nas w—"
+      "text": "If you'd like, I could also ask her to drive\nus back\nas w—",
+      "choice_data_list": [
+        "あ、ああ……",
+        "う、うん……"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Speed bumps aside, summer camp finally\nbegins."
+      "text": "Speed bumps aside, summer camp finally\nbegins.",
+      "choice_data_list": [
+        "い、いいです！"
+      ]
     }
   ]
 }

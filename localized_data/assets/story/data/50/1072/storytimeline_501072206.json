@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I explain that it's apparently not serious,\nbut it's\nbest for Oguri Cap to rest and\ntake care of\nherself."
+      "text": "I explain that it's apparently not serious,\nbut it's\nbest for Oguri Cap to rest and\ntake care of\nherself.",
+      "choice_data_list": [
+        "軽い捻挫をしたらしい"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -155,7 +158,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Osu!"
+      "text": "Osu!",
+      "choice_data_list": [
+        "ああ！見せつけておいで",
+        "うん！見せつけておいで"
+      ]
     },
     {
       "name": "Fan A",

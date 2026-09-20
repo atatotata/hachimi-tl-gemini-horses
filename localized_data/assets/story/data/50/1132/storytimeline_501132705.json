@@ -18,14 +18,17 @@
       "name": "Loves Only You",
       "text": "\"Trainer-chan. Did you keep your schedule \nopen for me afterwards, just like you \npromised?\"",
       "choice_data_list": [
-        "Yeah. I don't have any particular plans",
-        "Yeah. I don't have any particular plans."
+        "ああ。特に予定はないよ",
+        "うん。特に予定はないよ"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Thank you~♡ Well then, keep me company for \njust a little longer, okay?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。特に予定はないよ",
+        "うん。特に予定はないよ"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -37,7 +40,9 @@
     {
       "name": "Loves Only You",
       "text": "Fufu, well, you see... It's picking up \ntrash on the beach!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "参加って、何に？"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -61,20 +66,23 @@
       "name": "Loves Only You",
       "text": "...Phew. The trash bag is full already! \nProof of our hard work together, \nTrainer-kun♡",
       "choice_data_list": [
-        "I'm glad I could help. But..."
+        "そういうことなら、俺も手伝うよ！",
+        "そういうことなら、私も手伝うよ！"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "...Phew. The trash bag is full already! \nProof of our hard work together, \nTrainer-chan♡",
       "choice_data_list": [
-        "I'm glad I could help. But..."
+        "貢献できたならよかった。けど……"
       ]
     },
     {
       "name": "Narrator",
       "text": "We weren't able to clean the entire beach. \nIn terms of progress, we're only at about \n30%.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "貢献できたならよかった。けど……"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -167,7 +175,10 @@
     {
       "name": "Loves Only You",
       "text": "\"...Fufu♡ Yes, that's right.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ははっ。俺たちも負けてられないな！",
+        "あははっ。私たちも負けてられないね！"
+      ]
     },
     {
       "name": "Narrator",
@@ -233,16 +244,21 @@
       "name": "Loves Only You",
       "text": "It's because we all did our best together. \nI'm glad we managed to pull it off♡",
       "choice_data_list": [
-        "Even so, that's a testament to your \npopularity!",
-        "Even so, it's all thanks to how popular \nyou are!",
-        "I'm really glad I could be of help too!",
-        "I'm glad I could help too!"
+        "それでも、君の人望の賜物だよ！",
+        "それでも、貴方の人望の賜物だよ！",
+        "俺も、力になれてよかった！",
+        "私も、力になれてよかった！"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Aha♡ Calling it popularity with people \nmakes it sound way too grand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "それでも、君の人望の賜物だよ！",
+        "それでも、貴方の人望の賜物だよ！",
+        "俺も、力になれてよかった！",
+        "私も、力になれてよかった！"
+      ]
     },
     {
       "name": "Loves Only You",

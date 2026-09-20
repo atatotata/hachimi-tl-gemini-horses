@@ -12,13 +12,15 @@
       "name": "",
       "text": "After finishing our prayers at the shrine, \nI asked Shinko Windy.",
       "choice_data_list": [
-        "What are your aspirations for this year?"
+        "（まずは『東海S』で勝てますように）"
       ]
     },
     {
       "name": "Shinko Windy",
       "text": "Of cooourse it's 'Achieve my ambitions!'!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "今年の抱負は？"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -62,13 +64,16 @@
       "name": "Wonder Acute",
       "text": "Happy New Year. Fufu, so you two came to \nvisit the shrine as well, did you?",
       "choice_data_list": [
-        "Happy New Year, looking forward to another \nyear together"
+        "あっ、君は……",
+        "あっ、貴方は……"
       ]
     },
     {
       "name": "Wonder Acute",
       "text": "\"Yes, yes, let's have a great year \ntogether. Make sure you stay healthy and \ndon't catch a cold, now.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あけましておめでとう、今年もよろしく"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -127,13 +132,16 @@
       "name": "Shinko Windy",
       "text": "Alright, Trainer. Take me somewhere fun!",
       "choice_data_list": [
-        "Oh?"
+        "そうだな！そうしよう",
+        "そうだね！そうしよう"
       ]
     },
     {
       "name": "Shinko Windy",
       "text": "Gahahaha! Acute-san, you can come along \ntoo! Trainer's treating us~~~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "おっ？"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -145,7 +153,9 @@
     {
       "name": "",
       "text": "She had cheered Shinko Windy up, after \nall. Taking her out to play was the least \nI could do.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、漬物のお礼をさせてほしい"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -169,7 +179,11 @@
     {
       "name": "Shinko Windy",
       "text": "Ooh, ooh, yes! Windy-chan still has plenty \nof room in her tummy!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "甘いものでも食べよう",
+        "思い切り体を動かしにいこう！",
+        "海でも見に行く？"
+      ]
     },
     {
       "name": "Smart Falcon",

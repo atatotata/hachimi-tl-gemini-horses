@@ -15,7 +15,11 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Uh... <i>What</i> did you just say?!"
+      "text": "Uh... <i>What</i> did you just say?!",
+      "choice_data_list": [
+        "休憩の度に甘いもの食べてると太るぞ",
+        "休憩の度に甘いもの食べてると太るよ"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "N-nothing's changed at all! I haven't\ngained an\nounce! I'm in perfect shape\ntoday!"
+      "text": "N-nothing's changed at all! I haven't\ngained an\nounce! I'm in perfect shape\ntoday!",
+      "choice_data_list": [
+        "どうだった？"
+      ]
     },
     {
       "name": "Monologue",

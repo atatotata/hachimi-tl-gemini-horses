@@ -87,7 +87,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I try to assure Agnes Tachyon that she'll\ndo well in\nthe race, but she remains\nunconvinced."
+      "text": "I try to assure Agnes Tachyon that she'll\ndo well in\nthe race, but she remains\nunconvinced.",
+      "choice_data_list": [
+        "君も出よう！",
+        "貴方も出ましょう！"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -95,7 +99,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "...Give me a day to think about it."
+      "text": "...Give me a day to think about it.",
+      "choice_data_list": [
+        "じゃあ……！"
+      ]
     },
     {
       "name": "Monologue",

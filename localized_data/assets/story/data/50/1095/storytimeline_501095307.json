@@ -132,7 +132,10 @@
     {
       "name": "Narrator",
       "text": "My mind was thrown into utter chaos. How \nshould I comfort her? How should I praise \nher?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（すごい……すごいぞ、ビリーヴ……！）",
+        "（すごい……すごいよ、ビリーヴ……！）"
+      ]
     },
     {
       "name": "Narrator",
@@ -155,20 +158,22 @@
       "name": "Believe",
       "text": "? Yes.",
       "choice_data_list": [
-        "...Believe...!!!!!"
+        "ビリーヴ……！！"
       ]
     },
     {
       "name": "Believe",
       "text": "……？",
       "choice_data_list": [
-        "............――Belieeeeeve...!!!"
+        "…………ビリーヴ…………！！！！！"
       ]
     },
     {
       "name": "Believe",
       "text": "…………Um.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………――ビリーヴ～～～……ッ！！！"
+      ]
     },
     {
       "name": "Believe",
@@ -180,7 +185,9 @@
     {
       "name": "Believe",
       "text": "I understand. For the most part... \nprobably.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "え……？"
+      ]
     },
     {
       "name": "Believe",
@@ -192,7 +199,9 @@
     {
       "name": "Believe",
       "text": "\"That's why I understand. ...I know.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あっ…………"
+      ]
     },
     {
       "name": "Believe",
@@ -225,7 +234,10 @@
     {
       "name": "Believe",
       "text": "Yes, I know. That's why—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "あれ！今日は休みだぞ？",
+        "あれ！今日は休みだよ？"
+      ]
     },
     {
       "name": "Believe",
@@ -243,13 +255,15 @@
       "name": "Believe",
       "text": "Yes. It's plum syrup made by steeping \nplums in rock sugar. If you mix it with \nwater or sparkling water, it makes plum \njuice. Kiyomi-san shared some with me.",
       "choice_data_list": [
-        "Yeah, that place we often go to on our \nruns...!"
+        "この香り……もしかして、梅？"
       ]
     },
     {
       "name": "Believe",
       "text": "\"Plum blossom season is a bit past its \npeak, so I was worried whether any would \nbe left.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ、あのランニングでよく行く……！"
+      ]
     },
     {
       "name": "Believe",
@@ -281,7 +295,9 @@
     {
       "name": "Believe",
       "text": "\"It was always like that... whenever \nGrandpa finished work.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "えっ……乾杯？"
+      ]
     },
     {
       "name": "Believe's Grandmother",
@@ -319,14 +335,16 @@
       "name": "Narrator",
       "text": "Her quiet voice resonates in my chest. The \nslight tremor in it seeps deep into my \nheart.",
       "choice_data_list": [
-        "Yeah. ...I'd really love to make a toast.",
-        "Yeah. ...I'd love to make a toast with \nyou."
+        "ビリーヴ……"
       ]
     },
     {
       "name": "Believe",
       "text": "Thank you very much. ...Well then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ああ。……ぜひ、乾杯させてほしい",
+        "うん。……ぜひ、乾杯させてほしいな"
+      ]
     },
     {
       "name": "Narrator",

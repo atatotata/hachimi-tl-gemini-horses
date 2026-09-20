@@ -170,16 +170,21 @@
       "name": "Hishi Amazon",
       "text": "Th-Things sure got out of hand, huh...!",
       "choice_data_list": [
-        "Still, looks like everyone's having fun.",
-        "Still, looks like everyone's having fun.",
-        "Wow... What an incredible performance...!",
-        "Wow... What a performance...!"
+        "でも、みんな楽しんでるみたいだ",
+        "でも、みんな楽しんでるみたいだね",
+        "Wow……なんてパフォーマンスだ……！",
+        "Wow……なんてパフォーマンスなの……！"
       ]
     },
     {
       "name": "Hishi Amazon",
       "text": "...When you get beaten that thoroughly, \nyou can't even complain. Man, that was \nseriously impressive.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "でも、みんな楽しんでるみたいだ",
+        "でも、みんな楽しんでるみたいだね",
+        "Wow……なんてパフォーマンスだ……！",
+        "Wow……なんてパフォーマンスなの……！"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -236,7 +241,9 @@
     {
       "name": "Narrator",
       "text": "Showing the gallery to the fullest with a \nmagical performance what a truly \nworld-class Halloween looks like.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "イェアー！"
+      ]
     }
   ]
 }

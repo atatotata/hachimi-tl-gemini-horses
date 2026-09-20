@@ -11,7 +11,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Eek! Trainer?!"
+      "text": "Eek! Trainer?!",
+      "choice_data_list": [
+        "見つけた！"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -19,7 +22,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...Ahhh!"
+      "text": "...Ahhh!",
+      "choice_data_list": [
+        "トレーニング、忘れてないか？",
+        "トレーニング、忘れてない？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -27,11 +34,18 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Oh... N-nothing! I'm terribly sorry..."
+      "text": "Oh... N-nothing! I'm terribly sorry...",
+      "choice_data_list": [
+        "連続安打記録……？"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes... I shall practice self-discipline and\nrecover\nfrom this blunder!"
+      "text": "Yes... I shall practice self-discipline and\nrecover\nfrom this blunder!",
+      "choice_data_list": [
+        "次は気をつけような",
+        "次は気をつけようね"
+      ]
     }
   ]
 }

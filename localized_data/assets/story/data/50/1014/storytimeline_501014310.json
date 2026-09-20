@@ -27,7 +27,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bueno! Thanks a bunch!"
+      "text": "Bueno! Thanks a bunch!",
+      "choice_data_list": [
+        "ああ、おめでとう！",
+        "うん、おめでとう！"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -135,7 +139,11 @@
     },
     {
       "name": "Monologue",
-      "text": "More than a year later, El Condor Pasa is\nfinally\nback on track."
+      "text": "More than a year later, El Condor Pasa is\nfinally\nback on track.",
+      "choice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -155,7 +163,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't quite understand it myself. But\nwhatever it\nis, that's clearly what led to\nEl Condor Pasa's\nvictory today."
+      "text": "I don't quite understand it myself. But\nwhatever it\nis, that's clearly what led to\nEl Condor Pasa's\nvictory today.",
+      "choice_data_list": [
+        "さあ、どうしてだろうな……？",
+        "さあ、どうしてだろうね……？"
+      ]
     }
   ]
 }

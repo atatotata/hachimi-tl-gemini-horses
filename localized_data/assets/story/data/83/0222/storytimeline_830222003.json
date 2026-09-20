@@ -28,7 +28,10 @@
       ]
     },
     {
-      "text": "Thinking this might serve as good \nreference for <chrname> going forward——"
+      "text": "Thinking this might serve as good \nreference for <chrname> going forward——",
+      "choice_data_list": [
+        "（盛り上がっているなぁ……）"
+      ]
     },
     {
       "name": "Rude Spectator A",
@@ -58,7 +61,11 @@
       ]
     },
     {
-      "text": "(SLAM——!)"
+      "text": "(SLAM——!)",
+      "choice_data_list": [
+        "ちょっと、君たち――",
+        "ちょっと、貴方たち――"
+      ]
     },
     {
       "name": "Espoir City",
@@ -151,21 +158,25 @@
       "name": "Spectator A",
       "text": "Hey, you too, miss! Come over here! Come \non, you wanna shake hands with the \nfestival's star, don'tcha!",
       "choice_data_list": [
-        "Huh? No, I'm just... Whoaa!?",
-        "Huh? No, I'm... Whoaa!?"
+        "へ？いえ、俺は……うわあっ！？",
+        "へ？いえ、私は……うわあっ！？"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Argh, stop pushing, stop pushing! What is \nit!? You want a handshake too!? Or did you \nwanna say somethin' to me, huh!?",
       "choice_data_list": [
-        "Umm... you looked incredibly cool!",
-        "I watched your show the other day! That \ncourage was amazing!"
+        "へ？いえ、俺は……うわあっ！？",
+        "へ？いえ、私は……うわあっ！？"
       ]
     },
     {
       "name": "Espoir City",
-      "text": "...What's with that? Man, there are so \nmany weird adults around here. Seeing \nthat, wouldn't a normal person scold me?"
+      "text": "...What's with that? Man, there are so \nmany weird adults around here. Seeing \nthat, wouldn't a normal person scold me?",
+      "choice_data_list": [
+        "えーっと……抜群にかっこよかったよ！",
+        "先日の番組見ました！さすがの度胸でした！"
+      ]
     },
     {
       "name": "Espoir City",
@@ -184,7 +195,10 @@
     },
     {
       "name": "Espoir City",
-      "text": "H-Huh? Haaah~~!? Don't bring that topic up \nright now!!"
+      "text": "H-Huh? Haaah~~!? Don't bring that topic up \nright now!!",
+      "choice_data_list": [
+        "はい！カッコよかったです！！"
+      ]
     }
   ]
 }

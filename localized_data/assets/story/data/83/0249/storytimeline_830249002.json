@@ -23,7 +23,11 @@
     },
     {
       "name": "Furioso",
-      "text": "......Kh."
+      "text": "......Kh.",
+      "choice_data_list": [
+        "お、落ち着くんだふたりとも！",
+        "お、落ち着いてふたりとも！"
+      ]
     },
     {
       "name": "Horse Girl A",
@@ -119,7 +123,11 @@
     },
     {
       "name": "Transcend",
-      "text": "Whoa! Are you sure you can give us this \nmuch?! As expected of Furi's hometown, so \ngenerous~♪"
+      "text": "Whoa! Are you sure you can give us this \nmuch?! As expected of Furi's hometown, so \ngenerous~♪",
+      "choice_data_list": [
+        "偶然、なあ……",
+        "偶然、ねえ……"
+      ]
     },
     {
       "name": "Transcend",
@@ -191,15 +199,21 @@
       "name": "Transcend",
       "text": "Started with hometown pride, resolved with \nhometown pride. A clean and tidy \nconclusion, wouldn't you say?",
       "choice_data_list": [
-        "That was quite an undertaking.",
-        "That was quite an undertaking.",
-        "Why don't you join in on the feast too?",
-        "Why don't you join in on the feast too?"
+        "なかなかの大仕事だったな",
+        "なかなかの大仕事だったね",
+        "君もご相伴にあずかれば？",
+        "貴方もご相伴にあずかれば？"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Ahaha, well, I did rope you into carrying \nthe luggage, Trainer-chan."
+      "text": "Ahaha, well, I did rope you into carrying \nthe luggage, Trainer-chan.",
+      "choice_data_list": [
+        "なかなかの大仕事だったな",
+        "なかなかの大仕事だったね",
+        "君もご相伴にあずかれば？",
+        "貴方もご相伴にあずかれば？"
+      ]
     },
     {
       "name": "Transcend",

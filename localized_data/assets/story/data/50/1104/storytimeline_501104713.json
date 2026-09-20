@@ -24,15 +24,19 @@
       "name": "Katsuragi Ace",
       "text": "So don't make that face. Come on! Let's \nget back to training, yeah?",
       "choice_data_list": [
-        "No, I know more about you than you do \nyourself.",
-        "No, I know more about you than you do \nyourself.",
-        "Well then, let's give it a try...!"
+        "いや、君より俺のほうが君に詳しい",
+        "いいえ、貴方より私のほうが貴方に詳しい",
+        "じゃあ、挑戦してみようか……！"
       ]
     },
     {
       "name": "Katsuragi Ace",
       "text": "Ohh... You said it with total conviction!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "いや、君より俺のほうが君に詳しい",
+        "いいえ、貴方より私のほうが貴方に詳しい",
+        "じゃあ、挑戦してみようか……！"
+      ]
     },
     {
       "name": "Katsuragi Ace",
@@ -90,7 +94,10 @@
     {
       "name": "Katsuragi Ace",
       "text": "Haha! As expected of you, Trainer. Always \nwell-prepared!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "映像資料はいっぱいあるぞ！",
+        "映像資料はいっぱいあるよ！"
+      ]
     },
     {
       "name": "Katsuragi Ace",

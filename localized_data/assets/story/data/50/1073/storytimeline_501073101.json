@@ -101,7 +101,9 @@
     {
       "name": "School Nurse",
       "text": "Not at all. The infirmary is open from \nthis time of year specifically for the \nUmamusume, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "正月からお世話になります"
+      ]
     },
     {
       "name": "",
@@ -118,7 +120,9 @@
     {
       "name": "",
       "text": "I poured over research papers, searched \nthe web all day long, and tested every \npotential remedy for cases similar to \nhers. Yet, no ray of hope appeared.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "（改善のための行動はしていても……）"
+      ]
     },
     {
       "name": "",
@@ -151,20 +155,22 @@
       "name": "Mejiro Bright",
       "text": "Here you go~, there's ozoni for you as \nwell, Trainer-sama~",
       "choice_data_list": [
-        "—...Mmmgh?! Thank you?!"
+        "とと！ごめん、ツヨシ――"
       ]
     },
     {
       "name": "",
       "text": "And then, I was given some ozoni.",
       "choice_data_list": [
-        "No, wait, what do you mean!?"
+        "――……んんん！？ありがとう！？"
       ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "A-Ahaha~. The truth is, Bright-san \nsuddenly showed up a little while ago...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "じゃなくてどういうこと！？"
+      ]
     },
     {
       "name": "",
@@ -196,7 +202,9 @@
     {
       "name": "Voice from the Hallway",
       "text": "\"Aww, I could've carried that for you~\" \n\"It's fine! I can at least help this \nmuch...\" \"Ah, we're almost there! Right \nover—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……？みなさまって……"
+      ]
     },
     {
       "name": "Special Week",
@@ -238,7 +246,9 @@
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "Hehe... Yeah. ...It's delicious.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……なんか、お正月の味だね"
+      ]
     },
     {
       "name": "School Nurse",
@@ -290,7 +300,9 @@
     {
       "name": "Mejiro Bright",
       "text": "My, Tsuru-chan-sama's special mix, is it~? \nAll for the sake of one's health~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "ツヨシ特製ドリンク……"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -303,7 +315,10 @@
     {
       "name": "Seiun Sky",
       "text": "Ah... Man, I really, really love Hachimi. \nYup, yup, love it, loooove it~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "お、おお……それは……",
+        "わ、わぁ……それは……"
+      ]
     },
     {
       "name": "King Halo",
@@ -322,7 +337,11 @@
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "—I knew it! The theme will firmly be \n\"Health\" and nothing else!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "飲みたいのは、力溢れる特製ドリンク！！",
+        "ド安定の健康はちみードリンク",
+        "アイディアが刺激されるちょい辛ドリンク？"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -431,13 +450,16 @@
       "name": "Mejiro Bright",
       "text": "In that case, how about hiring a 'personal \nphysician'~?",
       "choice_data_list": [
-        "...A personal doctor?"
+        "そうできたら、嬉しいけどなぁ",
+        "そうできたら、嬉しいけどねぇ"
       ]
     },
     {
       "name": "Mejiro Bright",
       "text": "Yes. The Mejiro family has a personal \nphysician who tends exclusively to Mejiro \nUmamusume~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……専属医？"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -449,7 +471,9 @@
     {
       "name": "Seiun Sky",
       "text": "Ho-ho~n...? Hey, Tsuru-chan. Your Trainer \nseems to be doing something—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "そうか、専属医……！"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
