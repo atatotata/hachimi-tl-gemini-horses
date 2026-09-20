@@ -113,13 +113,16 @@
       "name": "Narrator",
       "text": "Even while reasoning calmly, my heart was \nracing just like everyone else's around \nus. Vodka and Buena Vista—these two were \nfacing off—",
       "choice_data_list": [
-        "(This matchup is an absolute dream come \ntrue...!!)"
+        "(An intensity just like a real race...)",
+        "(An intensity just like a race...)"
       ]
     },
     {
       "name": "Event Announcer",
       "text": "—And here it begins once again, the \ncavalry battle! An event that demands \nteamwork, mental fortitude, and raw \npower...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(This matchup is an absolute dream...!!)"
+      ]
     },
     {
       "name": "Vodka",
@@ -226,7 +229,9 @@
     {
       "name": "Daiwa Scarlet",
       "text": "Vodka managed to dodge Buena by a hair's \nbreadth.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What on earth just happened...?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -328,7 +333,9 @@
     {
       "name": "Narrator",
       "text": "Buena Vista is enveloped in thunderous \napplause. Having thrilled the audience, \nher popularity... seemed to soar even \nhigher.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(It sounded like an old-school idol's name...)"
+      ]
     }
   ]
 }

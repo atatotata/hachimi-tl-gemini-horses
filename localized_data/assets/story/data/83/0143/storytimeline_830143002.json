@@ -22,12 +22,15 @@
       "name": "Ikuno Dictus",
       "text": "Yes, how may I assist you?",
       "choice_data_list": [
-        "I'd like to borrow horseshoe maintenance \ntools."
+        "Um, got a second?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Understood. Horseshoe maintenance tools, \ncorrect? Could you provide the specific \ndetails of what you require?"
+      "text": "Understood. Horseshoe maintenance tools, \ncorrect? Could you provide the specific \ndetails of what you require?",
+      "choice_data_list": [
+        "I'd like to borrow some horseshoe maintenance tools."
+      ]
     },
     {
       "text": "Once I explained the details of the tools \nI needed, Ikuno Dictus went to fetch them. \nAnd then—"
@@ -43,7 +46,10 @@
       ]
     },
     {
-      "text": "On the contrary, it was impressive that \nsuch older tools were kept in such \npristine condition. I told her it was all \nthanks to her diligence."
+      "text": "On the contrary, it was impressive that \nsuch older tools were kept in such \npristine condition. I told her it was all \nthanks to her diligence.",
+      "choice_data_list": [
+        "I'm fine, thank you."
+      ]
     },
     {
       "text": "On the contrary, it was impressive that \nsuch older tools were kept in such \npristine condition. I told her it was all \nthanks to her diligence."
@@ -57,7 +63,10 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes. In two major instances, to be \nprecise. I have had experiences where \nprecious tools came to my aid."
+      "text": "Yes. In two major instances, to be \nprecise. I have had experiences where \nprecious tools came to my aid.",
+      "choice_data_list": [
+        "Have they been helping you?"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -118,14 +127,19 @@
     {
       "text": "I see—her devoted attitude toward \nequipment stemmed from gratitude and a \ndesire to repay the favor to those around \nher and the tools themselves.",
       "choice_data_list": [
-        "Don't forget to take care of yourself too.",
-        "Make sure you take care of yourself too.",
-        "I'll be sure to treat them with care."
+        "Don't forget to take care of yourself, too.",
+        "Don't forget to take care of yourself, too, okay?",
+        "I'll make sure to take good care of it."
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes, I shall keep that in mind. Without \nmaintaining one's own health, one cannot \nproperly manage tools, after all."
+      "text": "Yes, I shall keep that in mind. Without \nmaintaining one's own health, one cannot \nproperly manage tools, after all.",
+      "choice_data_list": [
+        "Don't forget to take care of yourself, too.",
+        "Don't forget to take care of yourself, too, okay?",
+        "I'll make sure to take good care of it."
+      ]
     },
     {
       "name": "Ikuno Dictus",

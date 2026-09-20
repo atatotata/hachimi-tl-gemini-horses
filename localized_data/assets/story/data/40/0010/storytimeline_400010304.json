@@ -52,14 +52,16 @@
       "name": "Mejiro Ardan",
       "text": "—I see, so that is why you came to the \nmansion. I expect my sister will return \nfrom the salon shortly.",
       "choice_data_list": [
-        "Even on your day off, huh... Do you know \nthe circumstances?",
-        "Even on your day off... Do you know what's \ngoing on?"
+        "(That's not like her. I wonder what's wrong...)"
       ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "I don't know the details. ...Only that my \nsister is planning to hold a large-scale \npress conference.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "On a day off, too...? Do you know what's going on?",
+        "On a day off, too...? Do you know what's going on?"
+      ]
     },
     {
       "name": "Narrator",
@@ -71,7 +73,9 @@
     {
       "name": "Mejiro Ardan",
       "text": "\"She must be that serious. ...For my dear \nsister to spare time even from her \nrunning.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The scale is way too massive to hold right after debuting!"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -83,7 +87,9 @@
     {
       "name": "Narrator",
       "text": "In her Make Debut, Mejiro Ramonu was \nforced to experience firsthand the decline \nof the racing world.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Did they gather a crowd to announce something?"
+      ]
     },
     {
       "name": "Narrator",
@@ -96,14 +102,16 @@
       "name": "Mejiro Ramonu",
       "text": "Ah, you've arrived.",
       "choice_data_list": [
-        "Do you intend to appeal the current \nsituation at the press conference?",
-        "Are you planning to appeal the current \nsituation at the press conference?"
+        "In that case, what Ramonu wants to convey is—"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "—...Too lukewarm.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Do you intend to address the current situation again at the press conference?",
+        "Do you intend to address the current situation again at the press conference?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -130,7 +138,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "The light of a firefly fades away in an \ninstant.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If it's about hyping up the racing world, everyone is right now—"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -142,7 +152,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "...That is the proof of my love.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So that's why you're going to start a 'revolution'...?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -235,7 +247,10 @@
     {
       "name": "Narrator",
       "text": "Though the unprecedented press conference \ncaused quite a stir and sparked major \nbacklash from the public—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We are going to usher in a new era!",
+        "We will forge a new era!"
+      ]
     },
     {
       "name": "Narrator",

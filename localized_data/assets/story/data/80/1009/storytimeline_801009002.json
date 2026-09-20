@@ -19,7 +19,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Huh? Oh, it's nothing. I just popped a\nblister,\nthat's all."
+      "text": "Huh? Oh, it's nothing. I just popped a\nblister,\nthat's all.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "I'd like to run some more, so I just need\nto patch\nthis up real quick."
+      "text": "I'd like to run some more, so I just need\nto patch\nthis up real quick.",
+      "choice_data_list": [
+        "Want me to tape it up?",
+        "Let's go to the nurse's office, just to be safe!",
+        "Let's head to the nurse's office, just to be safe!"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Oh, what a nice offer. How considerate\nof you."
+      "text": "Oh, what a nice offer. How considerate\nof you.",
+      "choice_data_list": [
+        "Want me to tape it up?",
+        "Let's go to the nurse's office, just to be safe!",
+        "Let's head to the nurse's office, just to be safe!"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

@@ -33,7 +33,10 @@
     },
     {
       "name": "Curren Bouquet Doll",
-      "text": "............I'm not very confident, but... \nfirst, we must try to reach a compromise."
+      "text": "............I'm not very confident, but... \nfirst, we must try to reach a compromise.",
+      "choice_data_list": [
+        "...Can you really do that? It looks like a fighting game, though."
+      ]
     },
     {
       "text": "And so, Curren Bouquet Doll challenged the \nmatch with awkward, unaccustomed hands—"
@@ -47,7 +50,10 @@
     },
     {
       "name": "Curren Bouquet Doll",
-      "text": "...I'm sorry. Even if it's just a game— I \nhesitated to inflict violence."
+      "text": "...I'm sorry. Even if it's just a game— I \nhesitated to inflict violence.",
+      "choice_data_list": [
+        "...Are you okay?"
+      ]
     },
     {
       "name": "Curren Bouquet Doll",
@@ -157,14 +163,19 @@
       "name": "Curren Bouquet Doll",
       "text": "—From now on, let's take turns nicely and \nshare the cabinets. It's a promise, okay?",
       "choice_data_list": [
-        "You've become the boss of the kids...",
-        "Even though it was outside your comfort \nzone, you did great.",
-        "Even though it was outside your comfort \nzone, you did great."
+        "I ended up becoming the kids' boss...",
+        "Even though it's not something you're used to, you did well, huh.",
+        "Even though it's not something you're used to, you did well."
       ]
     },
     {
       "name": "Excited Children",
-      "text": "\"Okaay!\" \"Got it!\" \"Hurry and teach us!\" \n\"Hey! I was first!\""
+      "text": "\"Okaay!\" \"Got it!\" \"Hurry and teach us!\" \n\"Hey! I was first!\"",
+      "choice_data_list": [
+        "I ended up becoming the kids' boss...",
+        "Even though it's not something you're used to, you did well, huh.",
+        "Even though it's not something you're used to, you did well."
+      ]
     },
     {
       "name": "Curren Bouquet Doll",
@@ -185,7 +196,10 @@
       ]
     },
     {
-      "text": "At any rate, Curren Bouquet Doll had \nsplendidly mediated the dispute and \nbrought about perfect harmony."
+      "text": "At any rate, Curren Bouquet Doll had \nsplendidly mediated the dispute and \nbrought about perfect harmony.",
+      "choice_data_list": [
+        "...I think this game is just a special case."
+      ]
     }
   ]
 }

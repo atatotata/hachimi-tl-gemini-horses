@@ -11,13 +11,16 @@
       "name": "Transcend",
       "text": "Shh, keep it down. ...I'm being targeted \nright now.",
       "choice_data_list": [
-        "Sounds serious... How did that happen?",
-        "Sounds serious... How did that happen?"
+        "Wh-What's wrong—"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Oh? You really wanna ask about that?"
+      "text": "Oh? You really wanna ask about that?",
+      "choice_data_list": [
+        "That doesn't sound good... How did that happen?",
+        "That doesn't sound good... How did that happen?"
+      ]
     },
     {
       "name": "Transcend",
@@ -40,7 +43,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "For real? Where'd she go, seriously... Oh \nwell, lemme know if you spot her!"
+      "text": "For real? Where'd she go, seriously... Oh \nwell, lemme know if you spot her!",
+      "choice_data_list": [
+        "No, I haven't seen it, but...",
+        "No, I haven't seen it, but..."
+      ]
     },
     {
       "name": "Furioso",
@@ -52,7 +59,11 @@
     },
     {
       "name": "Furioso",
-      "text": "Yes. I must properly express my gratitude \nto her."
+      "text": "Yes. I must properly express my gratitude \nto her.",
+      "choice_data_list": [
+        "I didn't see it, but... did you need something?",
+        "I didn't see it, but... do you need something?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -68,7 +79,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Trouble? Oh goodness, no~ The reason we're \nlooking for her is—"
+      "text": "Trouble? Oh goodness, no~ The reason we're \nlooking for her is—",
+      "choice_data_list": [
+        "D-Did something happen between you two?",
+        "D-Did you have some kind of trouble with her?"
+      ]
     },
     {
       "text": "Just as expected, Transcend was up on the \nrooftop."
@@ -82,7 +97,10 @@
     },
     {
       "name": "Transcend",
-      "text": "Ehh, seriously? ...Don't tell me, did you \nfind out the whole story?"
+      "text": "Ehh, seriously? ...Don't tell me, did you \nfind out the whole story?",
+      "choice_data_list": [
+        "Sorry, I told them where you were."
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -141,7 +159,10 @@
     },
     {
       "name": "Transcend",
-      "text": "It's still going strong! They even \nprepared delicious snacks and presents for \nme... They're such sweet girls, honestly."
+      "text": "It's still going strong! They even \nprepared delicious snacks and presents for \nme... They're such sweet girls, honestly.",
+      "choice_data_list": [
+        "Is the tea party over?"
+      ]
     },
     {
       "name": "Transcend",

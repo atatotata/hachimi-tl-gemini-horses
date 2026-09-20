@@ -11,11 +11,23 @@
     },
     {
       "name": "Vodka",
-      "text": "Is my engine goin' rusty? Am I gettin'\nweaker?"
+      "text": "Is my engine goin' rusty? Am I gettin'\nweaker?",
+      "choice_data_list": [
+        "Please don't overdo it.",
+        "Don't push yourself.",
+        "Then, shall we rev up your engine?",
+        "Then, want to rev up your engine?"
+      ]
     },
     {
       "name": "Vodka",
-      "text": "Sorry, but I've got a rival to beat.\nThere's no rest\nwhen I'm tryin' to get to\nthe top."
+      "text": "Sorry, but I've got a rival to beat.\nThere's no rest\nwhen I'm tryin' to get to\nthe top.",
+      "choice_data_list": [
+        "Please don't overdo it.",
+        "Don't push yourself.",
+        "Then, shall we rev up your engine?",
+        "Then, want to rev up your engine?"
+      ]
     },
     {
       "name": "Vodka",
@@ -23,7 +35,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Urgh..."
+      "text": "Urgh...",
+      "choice_data_list": [
+        "You can't ride a broken bike."
+      ]
     },
     {
       "name": "Vodka",

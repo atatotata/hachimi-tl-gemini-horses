@@ -14,7 +14,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Asking her, she explained she came to \ncatch critters to keep in her hobby \nmossarium."
+      "text": "Asking her, she explained she came to \ncatch critters to keep in her hobby \nmossarium.",
+      "choice_data_list": [
+        "Air Messiah? What are you doing here...?"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -32,13 +35,17 @@
       "name": "Air Messiah",
       "text": "The trap preparations are ready. All \nthat's left is for the two of us to drive \nthem in.",
       "choice_data_list": [
-        "Alright, it's heading your way!",
-        "Alright, it went over to your side!"
+        "Well then, why don't we do it together?",
+        "In that case, why don't we do it together?"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "...I-It came! Ah, wait, not that way..."
+      "text": "...I-It came! Ah, wait, not that way...",
+      "choice_data_list": [
+        "Alright, it went your way!",
+        "Alright, it headed over there!"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -49,7 +56,10 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Y-Yes, let's try once more."
+      "text": "Y-Yes, let's try once more.",
+      "choice_data_list": [
+        "Don't worry, we can try as many times as it takes."
+      ]
     },
     {
       "name": "Narrator",
@@ -64,7 +74,10 @@
     },
     {
       "name": "Air Messiah",
-      "text": "...It can't be helped. I shall now execute \nour final resort."
+      "text": "...It can't be helped. I shall now execute \nour final resort.",
+      "choice_data_list": [
+        "Is this as far as we go...?"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -76,7 +89,11 @@
     },
     {
       "name": "Air Messiah",
-      "text": "...Certainly, the result would be the \nsame."
+      "text": "...Certainly, the result would be the \nsame.",
+      "choice_data_list": [
+        "Is buying it at a store not an option?",
+        "Can't you just buy it at a store?"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -104,7 +121,11 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Achoo...! Yes... I'm soaking wet, but \nunhurt."
+      "text": "Achoo...! Yes... I'm soaking wet, but \nunhurt.",
+      "choice_data_list": [
+        "Are you okay!?",
+        "Are you okay!?"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -139,7 +160,10 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Thank you. I shall fulfill this \nresponsibility thoroughly."
+      "text": "Thank you. I shall fulfill this \nresponsibility thoroughly.",
+      "choice_data_list": [
+        "I think Air Messiah will be just fine."
+      ]
     },
     {
       "name": "Air Messiah",

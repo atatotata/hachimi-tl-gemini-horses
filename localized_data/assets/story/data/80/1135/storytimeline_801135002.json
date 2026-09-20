@@ -135,8 +135,8 @@
       "name": "",
       "text": "Stay Gold. The reason her words carry such \ndecisive weight is――",
       "choice_data_list": [
-        "Are you feared?",
-        "Are you feared?",
+        "Are people afraid of you?",
+        "Are people afraid of you?",
         "Are you loved?",
         "Are you loved?"
       ]
@@ -144,7 +144,12 @@
     {
       "name": "Stay Gold",
       "text": "Feared, huh? I don't really think I've \ndone anything to scare people, though.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Are people afraid of you?",
+        "Are people afraid of you?",
+        "Are you loved?",
+        "Are you loved?"
+      ]
     },
     {
       "name": "Stay Gold",

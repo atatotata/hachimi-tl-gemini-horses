@@ -71,11 +71,17 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Hyaaah?! Are you perhaps—a divine\nmessenger?!"
+      "text": "Hyaaah?! Are you perhaps—a divine\nmessenger?!",
+      "choice_data_list": [
+        "No need to panic like that."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Trainer, explainer, I don't care! Please,\nshow me\nthe way!"
+      "text": "Trainer, explainer, I don't care! Please,\nshow me\nthe way!",
+      "choice_data_list": [
+        "I'm a Trainer."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -83,7 +89,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Wait?! You expect me to sit and wait for\ndestiny\nto do its bidding?! With Doto\nalready gone?!"
+      "text": "Wait?! You expect me to sit and wait for\ndestiny\nto do its bidding?! With Doto\nalready gone?!",
+      "choice_data_list": [
+        "I think we should just keep waiting.",
+        "Let's shout to get their attention!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -119,7 +129,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I take the opportunity to relay a secret\ntechnique\nto Matikanefukukitaru."
+      "text": "I take the opportunity to relay a secret\ntechnique\nto Matikanefukukitaru.",
+      "choice_data_list": [
+        "You never know until you try."
+      ]
     },
     {
       "name": "Matikanefukukitaru",

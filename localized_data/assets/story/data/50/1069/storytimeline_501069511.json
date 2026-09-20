@@ -67,7 +67,11 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "J-j-jump right in?!"
+      "text": "J-j-jump right in?!",
+      "choice_data_list": [
+        "Alright, let's dive right in!",
+        "Alright, flank around for a pincer attack!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -127,7 +131,10 @@
     },
     {
       "name": "Chiyono O & Bamboo",
-      "text": "What?!"
+      "text": "What?!",
+      "choice_data_list": [
+        "Um, Agnes Tachyon is..."
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -207,7 +214,10 @@
     },
     {
       "name": "Chiyono O & Bamboo",
-      "text": "Ahhh!"
+      "text": "Ahhh!",
+      "choice_data_list": [
+        "...Didn't they run away...?"
+      ]
     },
     {
       "name": "Monologue",

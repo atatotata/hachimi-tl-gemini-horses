@@ -7,7 +7,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Thump, thwap, thwap!</i>"
+      "text": "<i>Thump, thwap, thwap!</i>",
+      "choice_data_list": [
+        "...Understood."
+      ]
     },
     {
       "name": "Monologue",
@@ -59,7 +62,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The words are the same, but they're\nmissing\nWonder Acute's usual brand of\nenthusiasm."
+      "text": "The words are the same, but they're\nmissing\nWonder Acute's usual brand of\nenthusiasm.",
+      "choice_data_list": [
+        "Yeah...",
+        "Yeah..."
+      ]
     },
     {
       "name": "Monologue",

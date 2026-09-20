@@ -57,13 +57,15 @@
       "name": "Orfevre",
       "text": "What a nuisance.",
       "choice_data_list": [
-        "Orfe!?"
+        "What should I do? At this rate..."
       ]
     },
     {
       "name": "Orfevre",
       "text": "Stand down. You are in the presence of the \nKing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Orfe!?"
+      ]
     },
     {
       "name": "Spectators",
@@ -135,7 +137,9 @@
     {
       "name": "Narrator",
       "text": "Since then, the other Umamusume had been \ndoing their best to prevent a panic. \nDurandal helped with security at the \nvenue—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, in that case—"
+      ]
     },
     {
       "name": "Narrator",
@@ -157,17 +161,23 @@
       "name": "Orfevre",
       "text": "...Hm. Well then, perhaps I shall reward \nsomeone for their hard work.",
       "choice_data_list": [
-        "I want you to reassure the audience with \nyour own words.",
-        "I want you to reassure the audience with \nyour own words.",
-        "Go thank Durandal for securing the venue",
-        "Let's praise Sweep Tosho for healing with \nmagic.",
-        "Words of praise for Curren Chan, who \ncharmed everyone with her endearing appeal"
+        "I want you to reassure the spectators with your own words.",
+        "I want you to reassure the audience with your own words.",
+        "Make sure to thank Durandal for guarding the venue.",
+        "Praise Sweep Tosho for healing with magic",
+        "Praise Curren Chan for charming everyone with her cuteness"
       ]
     },
     {
       "name": "Orfevre",
       "text": "Very well. Consider this a reward for the \nsubjects who waited so patiently.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I want you to reassure the spectators with your own words.",
+        "I want you to reassure the audience with your own words.",
+        "Make sure to thank Durandal for guarding the venue.",
+        "Praise Sweep Tosho for healing with magic",
+        "Praise Curren Chan for charming everyone with her cuteness"
+      ]
     },
     {
       "name": "Orfevre",
@@ -195,7 +205,10 @@
     {
       "name": "Narrator",
       "text": "Having quelled the panic with her \noverwhelming aura, Orfevre captured the \npublic's undivided attention.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're trending on social media!",
+        "You're trending all over social media!"
+      ]
     },
     {
       "name": "Orfevre",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Whoooah!"
+      "text": "Whoooah!",
+      "choice_data_list": [
+        "Vodka?"
+      ]
     },
     {
       "name": "Vodka",
@@ -19,7 +22,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Th-there's no way I'd eat some kiddy\nfood like\nthat. I don't even like sweets!"
+      "text": "Th-there's no way I'd eat some kiddy\nfood like\nthat. I don't even like sweets!",
+      "choice_data_list": [
+        "Did you come to buy donuts?",
+        "Did you come to buy donuts?"
+      ]
     },
     {
       "name": "Vodka",
@@ -31,11 +38,21 @@
     },
     {
       "name": "Vodka",
-      "text": "S-so anyway, you here for the variety\npack too?"
+      "text": "S-so anyway, you here for the variety\npack too?",
+      "choice_data_list": [
+        "No, that amount might be a bit tough...",
+        "Yeah, looks delicious!",
+        "Yeah, that looks delicious!"
+      ]
     },
     {
       "name": "Vodka",
-      "text": "Really? It's not even that mu—"
+      "text": "Really? It's not even that mu—",
+      "choice_data_list": [
+        "No, that amount might be a bit tough...",
+        "Yeah, looks delicious!",
+        "Yeah, that looks delicious!"
+      ]
     },
     {
       "name": "Vodka",
@@ -87,7 +104,10 @@
     },
     {
       "name": "Vodka",
-      "text": "I-I'm just testin' the taste! It's not like I'm\nhooked\nor anything!"
+      "text": "I-I'm just testin' the taste! It's not like I'm\nhooked\nor anything!",
+      "choice_data_list": [
+        "I thought you weren't interested in sweets..."
+      ]
     },
     {
       "name": "Monologue",

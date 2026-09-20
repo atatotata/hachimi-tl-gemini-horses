@@ -15,7 +15,10 @@
     },
     {
       "name": "Monologue",
-      "text": "More like not at all... Honestly, I'm\nhaving doubts\nthat she understood <i>any</i>\nof the words I said."
+      "text": "More like not at all... Honestly, I'm\nhaving doubts\nthat she understood <i>any</i>\nof the words I said.",
+      "choice_data_list": [
+        "...That's not it."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Naturally, we've already stopped by\nTracen\nAcademy's infirmary for a\ncheckup."
+      "text": "Naturally, we've already stopped by\nTracen\nAcademy's infirmary for a\ncheckup.",
+      "choice_data_list": [
+        "What do you mean you don't know...?"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,7 +129,10 @@
     },
     {
       "name": "Monologue",
-      "text": "That's what I want to know most of all.\nEven\nacknowledging that Opera O is on\nanother level..."
+      "text": "That's what I want to know most of all.\nEven\nacknowledging that Opera O is on\nanother level...",
+      "choice_data_list": [
+        "So... any effects from that intense training?"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +160,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Does that mean my harsh training\nregimen isn't\nthe cause of Wonder\nAcute's fatigue? Does that\nmean we\nhave nothing to worry about?"
+      "text": "Does that mean my harsh training\nregimen isn't\nthe cause of Wonder\nAcute's fatigue? Does that\nmean we\nhave nothing to worry about?",
+      "choice_data_list": [
+        "In perfect health? Then..."
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -215,11 +227,17 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Trainer?"
+      "text": "Trainer?",
+      "choice_data_list": [
+        "I can't do it..."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "<i>Dash!</i>"
+      "text": "<i>Dash!</i>",
+      "choice_data_list": [
+        "I can't make it any harder than this!"
+      ]
     },
     {
       "name": "Wonder Acute",

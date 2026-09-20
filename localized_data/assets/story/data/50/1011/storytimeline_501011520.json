@@ -27,7 +27,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, Trainer. The academy is holding a\nkaruta\ncontest soon, so we're practicing\nmatching poetry\nverses to their\ncontinuations."
+      "text": "Oh, Trainer. The academy is holding a\nkaruta\ncontest soon, so we're practicing\nmatching poetry\nverses to their\ncontinuations.",
+      "choice_data_list": [
+        "What're you up to?",
+        "What are you up to?"
+      ]
     },
     {
       "name": "Special Week",
@@ -95,7 +99,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Great. I'll continue as the reader, then."
+      "text": "Great. I'll continue as the reader, then.",
+      "choice_data_list": [
+        "Then I won't hold back.",
+        "I'll be the reader, so why don't you join in too, Grass?"
+      ]
     },
     {
       "name": "Special Week",

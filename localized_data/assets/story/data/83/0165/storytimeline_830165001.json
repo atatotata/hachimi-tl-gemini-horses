@@ -127,12 +127,16 @@
       "name": "Tanino Gimlet",
       "text": "Oh! You who happen to be present at this \nvery moment, are you too summoned by \ndestiny to witness the birth of \ncreation...?!",
       "choice_data_list": [
-        "Huh??"
+        "Ask what she's doing",
+        "Leave them be..."
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Well, you need not comprehend it just yet. \nBut brace yourself! For you shall bear \nwitness!"
+      "text": "Well, you need not comprehend it just yet. \nBut brace yourself! For you shall bear \nwitness!",
+      "choice_data_list": [
+        "Hm??"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -157,7 +161,10 @@
       ]
     },
     {
-      "text": "(—CRASH!!)"
+      "text": "(—CRASH!!)",
+      "choice_data_list": [
+        "Wait, what!?"
+      ]
     },
     {
       "name": "Tanino Gimlet",

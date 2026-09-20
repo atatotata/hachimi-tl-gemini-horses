@@ -19,7 +19,11 @@
     },
     {
       "name": "Groundskeeper A",
-      "text": "Sorry for the delay! Our leveler\nmalfunctioned,\nbut we're going to fix it\nup!"
+      "text": "Sorry for the delay! Our leveler\nmalfunctioned,\nbut we're going to fix it\nup!",
+      "choice_data_list": [
+        "Looks like there was some trouble.",
+        "Seems like there was some trouble."
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -67,7 +71,11 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "On it, boss! Okay, time to puuuush!"
+      "text": "On it, boss! Okay, time to puuuush!",
+      "choice_data_list": [
+        "Can you push and move the track roller?",
+        "Run the track and help smooth out the dirt, please!"
+      ]
     },
     {
       "name": "Hishi Akebono",

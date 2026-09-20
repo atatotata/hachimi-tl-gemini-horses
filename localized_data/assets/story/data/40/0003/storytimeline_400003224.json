@@ -31,7 +31,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "What indeed."
+      "text": "What indeed.",
+      "choice_data_list": [
+        "What is it you want to prove?",
+        "What is it you're trying to prove?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Monologue",
-      "text": "...I hope hearing her fans' voices during\nthe\nconcert has encouraged\n<chrname>."
+      "text": "...I hope hearing her fans' voices during\nthe\nconcert has encouraged\n<chrname>.",
+      "choice_data_list": [
+        "A wish..."
+      ]
     },
     {
       "name": "Monologue",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Sorry to bother while you're\npreoccupied. There's\nsomething I really\nwanted to talk to you about."
+      "text": "Sorry to bother while you're\npreoccupied. There's\nsomething I really\nwanted to talk to you about.",
+      "choice_data_list": [
+        "...! Yes, what is it?"
+      ]
     },
     {
       "name": "Light Hello",
@@ -67,7 +77,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Yes. Our concerts have gotten us more\nsupporters\namong the students, and\nconsequently, many fans\nas well."
+      "text": "Yes. Our concerts have gotten us more\nsupporters\namong the students, and\nconsequently, many fans\nas well.",
+      "choice_data_list": [
+        "An orientation?"
+      ]
     },
     {
       "name": "Light Hello",
@@ -79,7 +92,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Yes, the students of the academy and\nthe URA\ndirector's board."
+      "text": "Yes, the students of the academy and\nthe URA\ndirector's board.",
+      "choice_data_list": [
+        "That's..."
+      ]
     },
     {
       "name": "Light Hello",
@@ -91,11 +107,19 @@
     },
     {
       "name": "Light Hello",
-      "text": "You really don't have to. You've helped\nme more\nthan enough already, and I\nwouldn't want to\nburden you further."
+      "text": "You really don't have to. You've helped\nme more\nthan enough already, and I\nwouldn't want to\nburden you further.",
+      "choice_data_list": [
+        "I'll consult Chairwoman Akikawa too.",
+        "I'll consult Chairwoman Akikawa about it too."
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "I'm a fan too, so I want to help out.",
+        "I'm a fan too, so I want to help."
+      ]
     },
     {
       "name": "Light Hello",

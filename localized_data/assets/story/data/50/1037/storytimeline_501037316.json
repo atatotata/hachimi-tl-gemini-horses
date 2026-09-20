@@ -55,7 +55,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Thank you, Trainer."
+      "text": "Thank you, Trainer.",
+      "choice_data_list": [
+        "I'll excuse myself for a moment."
+      ]
     },
     {
       "name": "Monologue",
@@ -107,11 +110,17 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "They plan to do some sightseeing in\nTokyo, then\nreturn to their hotel. Do\nyou think I can receive\npermission to go\nout tonight if I submit the form\nnow?"
+      "text": "They plan to do some sightseeing in\nTokyo, then\nreturn to their hotel. Do\nyou think I can receive\npermission to go\nout tonight if I submit the form\nnow?",
+      "choice_data_list": [
+        "What about your parents?"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Thank you so much. I am counting on\nyou."
+      "text": "Thank you so much. I am counting on\nyou.",
+      "choice_data_list": [
+        "I'll make sure it gets accepted."
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -147,7 +156,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Memories of her flying down the\nracetrack flood\nmy mind's eye as I gaze\nat her race schedule for\nnext year."
+      "text": "Memories of her flying down the\nracetrack flood\nmy mind's eye as I gaze\nat her race schedule for\nnext year.",
+      "choice_data_list": [
+        "(Still... even so!)"
+      ]
     }
   ]
 }

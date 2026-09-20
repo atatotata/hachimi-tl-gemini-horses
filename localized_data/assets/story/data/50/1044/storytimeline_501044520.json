@@ -15,7 +15,11 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Good question! If it's a spell passed\ndown\nperson-to-person, that means\nsomeone must\nknow it right now! So we\ngotta ask around!"
+      "text": "Good question! If it's a spell passed\ndown\nperson-to-person, that means\nsomeone must\nknow it right now! So we\ngotta ask around!",
+      "choice_data_list": [
+        "Fine, but where are we going to uncover it?",
+        "Sure, but where are we going to uncover it?"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -35,11 +39,17 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "There's nothing here!"
+      "text": "There's nothing here!",
+      "choice_data_list": [
+        "Wait, into the forest right now?!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
-      "text": "A spell for happiness? Leave it to me! ☆"
+      "text": "A spell for happiness? Leave it to me! ☆",
+      "choice_data_list": [
+        "T-That was from a completely different era and country...!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -59,7 +69,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "No! I can't just give up if I know there's\nmagic to\nbe found!"
+      "text": "No! I can't just give up if I know there's\nmagic to\nbe found!",
+      "choice_data_list": [
+        "Hmm, it's almost dinnertime, should we head back?"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -67,7 +80,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Ngh... But I wanna know the happiness\nspell!"
+      "text": "Ngh... But I wanna know the happiness\nspell!",
+      "choice_data_list": [
+        "That said, we don't have any clues..."
+      ]
     },
     {
       "name": "???",
@@ -79,7 +95,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Mm-hmm! It's a spell known by only a\nhandful of\npeople at the academy! For\nyou to seek it so\nfervently that word of\nyour efforts has reached\nmy ears..."
+      "text": "Mm-hmm! It's a spell known by only a\nhandful of\npeople at the academy! For\nyou to seek it so\nfervently that word of\nyour efforts has reached\nmy ears...",
+      "choice_data_list": [
+        "Chairwoman Akikawa?!"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -115,7 +134,10 @@
     },
     {
       "name": "Cafeteria Lady",
-      "text": "It was removed from the menu for\nbudgetary\nreasons, so now it's only\npassed down to those\nwho truly desire\nthe biggest dessert at all costs..."
+      "text": "It was removed from the menu for\nbudgetary\nreasons, so now it's only\npassed down to those\nwho truly desire\nthe biggest dessert at all costs...",
+      "choice_data_list": [
+        "A giant parfait...!"
+      ]
     },
     {
       "name": "Cafeteria Lady",
@@ -131,7 +153,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "<i>Chomp!</i>"
+      "text": "<i>Chomp!</i>",
+      "choice_data_list": [
+        "W-Well, these things happen!"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -139,7 +164,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "This is great! A random dessert right out\nof\nnowhere!"
+      "text": "This is great! A random dessert right out\nof\nnowhere!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -155,11 +183,23 @@
     },
     {
       "name": "Monologue",
-      "text": "I thought she was going to say it isn't\nmagical at\nall... but it seems like she has\na much more broad\nand optimistic view\nof magic than I realized."
+      "text": "I thought she was going to say it isn't\nmagical at\nall... but it seems like she has\na much more broad\nand optimistic view\nof magic than I realized.",
+      "choice_data_list": [
+        "It's magic that puts you in a good mood, isn't it...!",
+        "It's magic that puts you in a good mood, huh...!",
+        "Maybe I'll use that spell I learned, too.",
+        "Maybe I'll use that spell I learned, too."
+      ]
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hehe, that's right. You get it, Familiar!"
+      "text": "Hehe, that's right. You get it, Familiar!",
+      "choice_data_list": [
+        "It's magic that puts you in a good mood, isn't it...!",
+        "It's magic that puts you in a good mood, huh...!",
+        "Maybe I'll use that spell I learned, too.",
+        "Maybe I'll use that spell I learned, too."
+      ]
     },
     {
       "name": "Sweep Tosho",

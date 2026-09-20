@@ -51,7 +51,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah. This one says \"QUA.\""
+      "text": "Yeah. This one says \"QUA.\"",
+      "choice_data_list": [
+        "Could it be a keyword?"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -71,7 +74,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Who's the mastermind behind this\n\"Eden\" Gold\nShip is pursuing, and what\nis their agenda? I can't\nhelp but be\nintrigued."
+      "text": "Who's the mastermind behind this\n\"Eden\" Gold\nShip is pursuing, and what\nis their agenda? I can't\nhelp but be\nintrigued.",
+      "choice_data_list": [
+        "(I wonder who asked her...?)"
+      ]
     },
     {
       "name": "Spectator A",
@@ -91,11 +97,18 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Huh? Seriously? Wow, I'm actually really\n\nawesome."
+      "text": "Huh? Seriously? Wow, I'm actually really\n\nawesome.",
+      "choice_data_list": [
+        "You won the Takarazuka Kinen last year, too."
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "C'mon now. If you're gonna celebrate\nme,\ncelebrate me like you <i>mean</i> it."
+      "text": "C'mon now. If you're gonna celebrate\nme,\ncelebrate me like you <i>mean</i> it.",
+      "choice_data_list": [
+        "That's seriously amazing.",
+        "That's incredible enough to etch your name into history!"
+      ]
     },
     {
       "name": "Gold Ship",

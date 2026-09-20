@@ -98,13 +98,16 @@
       "name": "Twin Turbo",
       "text": "\"I decided on the All Comers. It's a G2 at \nNakayama, so I'm counting on you!\"",
       "choice_data_list": [
-        "Wait, why!?"
+        "Yeah, which race should we...",
+        "Yeah, which race should we..."
       ]
     },
     {
       "name": "Twin Turbo",
       "text": "I already told her, so there! Teio, who's \nstaying behind at Tracen Academy!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, why!?"
+      ]
     },
     {
       "name": "Narrator",
@@ -157,14 +160,16 @@
       "name": "Twin Turbo",
       "text": "Huh? Was that a bad move?",
       "choice_data_list": [
-        "Well, if you've already said it, there's \nnothing we can do.",
-        "No, if you already said it, it's fine."
+        "…………"
       ]
     },
     {
       "name": "Narrator",
       "text": "An early autumn GII isn't a bad choice at \nall. The only problem is...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Well, if you've already said it, there's no helping it.",
+        "No, if you've already said it, then it's fine."
+      ]
     },
     {
       "name": "Narrator",
@@ -212,7 +217,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "……………………。",
       "choice_data_list": []
     },
@@ -232,7 +237,10 @@
     {
       "name": "Narrator",
       "text": "Armed with the ultimate front-running \nstyle she finally mastered, Twin Turbo \nenters Nakayama's All Comers.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah...!",
+        "Yeah...!"
+      ]
     }
   ]
 }

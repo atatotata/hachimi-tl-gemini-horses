@@ -11,7 +11,12 @@
     },
     {
       "name": "Gold City",
-      "text": "What, you're saying I have this super\nsolid\nfoundation or whatever?"
+      "text": "What, you're saying I have this super\nsolid\nfoundation or whatever?",
+      "choice_data_list": [
+        "This is the result of all your hard work.",
+        "This is the result of all your hard work.",
+        "Let's stay as positive as we can for the next race."
+      ]
     },
     {
       "name": "Gold City",
@@ -35,7 +40,10 @@
     },
     {
       "name": "Gold City",
-      "text": "I know... I know I need to better my\nattitude."
+      "text": "I know... I know I need to better my\nattitude.",
+      "choice_data_list": [
+        "City?"
+      ]
     }
   ]
 }

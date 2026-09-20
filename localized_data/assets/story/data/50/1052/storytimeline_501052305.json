@@ -39,7 +39,10 @@
     },
     {
       "name": "Old Lady",
-      "text": "Yes, of course! I often go to the\nshopping district,\nyou see."
+      "text": "Yes, of course! I often go to the\nshopping district,\nyou see.",
+      "choice_data_list": [
+        "Are you familiar with it?"
+      ]
     },
     {
       "name": "Old Lady",
@@ -71,7 +74,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah, exactly! ...Wait, would that be\nweird?"
+      "text": "Yeah, exactly! ...Wait, would that be\nweird?",
+      "choice_data_list": [
+        "Haru Urara is cheering for Haru Urara?",
+        "Haru Urara is cheering for Haru Urara?"
+      ]
     },
     {
       "name": "Old Lady",
@@ -95,7 +102,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! Urara fans, let's <i>gooo!</i>"
+      "text": "Yeah! Urara fans, let's <i>gooo!</i>",
+      "choice_data_list": [
+        "Let's get even more people cheering for us!"
+      ]
     },
     {
       "name": "Monologue",

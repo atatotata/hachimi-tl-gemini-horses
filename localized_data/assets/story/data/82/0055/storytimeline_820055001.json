@@ -23,12 +23,16 @@
       "name": "Aston Machan",
       "text": "Offering my appreciation and saying \ngoodbye. The ones who couldn't find a new \nhome are going to the sea――somewhere far \naway.",
       "choice_data_list": [
-        "The sea?"
+        "...What're you doing?",
+        "...What are you doing?"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "The sea is where things that have \nfulfilled their purpose eventually end up."
+      "text": "The sea is where things that have \nfulfilled their purpose eventually end up.",
+      "choice_data_list": [
+        "The sea?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -69,15 +73,22 @@
       "text": "So even if they go to the sea, it's not \nsad.",
       "choice_data_list": [
         "It's too early to give up!",
-        "You look pretty sad, though...",
-        "You look pretty sad, though...",
-        "That's a very kind way to say goodbye.",
-        "That's a very kind way to say goodbye."
+        "You look sad, though...",
+        "You look sad, but...",
+        "That's a gentle way to say goodbye.",
+        "That's a gentle way to say goodbye, isn't it?"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "Eh?"
+      "text": "Eh?",
+      "choice_data_list": [
+        "It's too early to give up!",
+        "You look sad, though...",
+        "You look sad, but...",
+        "That's a gentle way to say goodbye.",
+        "That's a gentle way to say goodbye, isn't it?"
+      ]
     },
     {
       "text": "I told her that bazaar sales depend on \ningenuity, and if we try everything we \ncan, there's still a chance they might \nsell at the next one.",
@@ -88,7 +99,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "That would be... Ones that have a story, a \nnarrative."
+      "text": "That would be... Ones that have a story, a \nnarrative.",
+      "choice_data_list": [
+        "What kind of mascot do you think would sell well?",
+        "What kind of mascot do you think would sell?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -111,7 +126,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. For Tamasaburo and friends, whose \nflavor people have forgotten――"
+      "text": "Yes. For Tamasaburo and friends, whose \nflavor people have forgotten――",
+      "choice_data_list": [
+        "Did you come up with a good idea?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -147,11 +165,14 @@
       "name": "Aston Machan",
       "text": "Mumu? ...Meaning?",
       "choice_data_list": [
-        "Why don't we try just a little harder?"
+        "No, there's still other things we can do."
       ]
     },
     {
-      "text": "I told her that bazaar sales depend on \ningenuity, and if we try everything we \ncan, there's still a chance they might \nsell at the next one."
+      "text": "I told her that bazaar sales depend on \ningenuity, and if we try everything we \ncan, there's still a chance they might \nsell at the next one.",
+      "choice_data_list": [
+        "Why don't we see what else we can do just a little longer?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -193,7 +214,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Ohh, having a photographer and all. \nFufufu, it feels somewhat like a \ngraduation ceremony."
+      "text": "Ohh, having a photographer and all. \nFufufu, it feels somewhat like a \ngraduation ceremony.",
+      "choice_data_list": [
+        "I'll press the shutter, so why don't you get in the picture too?",
+        "I'll press the shutter, so why don't you get in the picture too?"
+      ]
     },
     {
       "text": "Afterwards, right up until the final \ncleanup deadline, I helped Aston Machan \ntake photos with the plushies..."

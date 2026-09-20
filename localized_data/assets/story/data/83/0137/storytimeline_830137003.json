@@ -14,7 +14,10 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "Due to time constraints, we can only visit \none location. Choose carefully."
+      "text": "Due to time constraints, we can only visit \none location. Choose carefully.",
+      "choice_data_list": [
+        "Sounds great, that looks like fun!"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -39,7 +42,12 @@
     },
     {
       "name": "Darley Arabian",
-      "text": "Look! Cars are flying through the sky! And \nright next to them, there's even a \ndragon...!"
+      "text": "Look! Cars are flying through the sky! And \nright next to them, there's even a \ndragon...!",
+      "choice_data_list": [
+        "Off to the magical kingdom!",
+        "Off to the Animal Prairie!",
+        "Time to conquer the dungeon!"
+      ]
     },
     {
       "name": "Darley Arabian",

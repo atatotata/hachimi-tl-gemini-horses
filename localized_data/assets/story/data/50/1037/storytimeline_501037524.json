@@ -11,7 +11,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "You have been rather unfocused for the\npast five\ndays. Is it possible you're\nfeeling fatigued?"
+      "text": "You have been rather unfocused for the\npast five\ndays. Is it possible you're\nfeeling fatigued?",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +23,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "I see. If I may make a suggestion..."
+      "text": "I see. If I may make a suggestion...",
+      "choice_data_list": [
+        "Could be."
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -27,7 +34,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "That way, you could use the time\nnormally\noccupied by schedule planning\nto rest instead."
+      "text": "That way, you could use the time\nnormally\noccupied by schedule planning\nto rest instead.",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -43,7 +53,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "...Very well then."
+      "text": "...Very well then.",
+      "choice_data_list": [
+        "Let's leave the next training session to them!",
+        "I'll pass."
+      ]
     },
     {
       "name": "Eishin Flash",

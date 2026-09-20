@@ -11,7 +11,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Please enter."
+      "text": "Please enter.",
+      "choice_data_list": [
+        "I'm <username>."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -23,7 +26,10 @@
     },
     {
       "name": "Tazuna & Director Akikawa",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "U-um...?"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,11 +41,17 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Gratitude!"
+      "text": "Gratitude!",
+      "choice_data_list": [
+        "Excuse me! Just what on earth is...!"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "We called you here today to express our\n\ngratitude to you, Trainer!"
+      "text": "We called you here today to express our\n\ngratitude to you, Trainer!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -59,7 +71,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Right! Also... Expectations! I greatly look\nforward\nto the unprecedented glory\nyou're sure to achieve\nin the future!"
+      "text": "Right! Also... Expectations! I greatly look\nforward\nto the unprecedented glory\nyou're sure to achieve\nin the future!",
+      "choice_data_list": [
+        "Ah, thank you very much!"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -71,11 +86,17 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "A surprise! Naturally!"
+      "text": "A surprise! Naturally!",
+      "choice_data_list": [
+        "What was that silence all about?"
+      ]
     },
     {
       "name": "Director Akikawa",
-      "text": "Yes! I figured building a little suspense\nwould\nsweeten the payoff!"
+      "text": "Yes! I figured building a little suspense\nwould\nsweeten the payoff!",
+      "choice_data_list": [
+        "S-Surprise..."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "To run in the Queen Stakes, we have to \nhead to the airport tomorrow. The \nappointed time was drawing near—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(It's about time for her to come back...)",
+        "(She should be back any minute now...)"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -130,7 +133,10 @@
     {
       "name": "Daring Tact",
       "text": "Right? So... think of it as a good luck \ncharm.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It looks heart-shaped.",
+        "It looks heart-shaped."
+      ]
     },
     {
       "name": "Daring Tact",
@@ -152,7 +158,9 @@
     {
       "name": "Daring Heart",
       "text": "\"Yes. ...I really got energized by that.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is that the stone you got from Tact?"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -165,14 +173,16 @@
       "name": "Narrator",
       "text": "\"Sapporo Racecourse uses European turf, \nwhich is rare in Japan. I have to adapt to \nthe difference from standard wild grass \nand harness my power effectively.\"",
       "choice_data_list": [
-        "It's a tough course if you're not used to \nit.",
-        "It's a tough course if you aren't used to \nit, isn't it?"
+        "If I win today, I can prove it. But..."
       ]
     },
     {
       "name": "Daring Heart",
       "text": "Yes, I know it's a unique track condition. \n*But*, with this brave heart of mine! \nLet's dive right in without a rehearsal♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's a tough course if you're not used to it.",
+        "It's a tough course if you're not used to it, huh."
+      ]
     },
     {
       "name": "Daring Heart",
@@ -186,21 +196,24 @@
       "name": "Daring Heart",
       "text": "\"Wow, how reliable! So, what should I do?\"",
       "choice_data_list": [
-        "Let's just eliminate any wasted movement."
+        "Yeah, I've got the track's layout memorized.",
+        "Yeah, I've got the course characteristics memorized."
       ]
     },
     {
       "name": "Narrator",
       "text": "\"Sapporo Racecourse is a tight-turning, \nflat track. I'll take a good position \nearly on, and advance using my \n'fatigue-free technique'—\"",
       "choice_data_list": [
-        "It's a review of your junior year—you can \nhandle it, right?",
-        "It's a review of your junior year—you've \ngot this, right?"
+        "Anyway, let's cut down on wasted effort."
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"Piece of cake! Plus... we'll do a recap \nto reaffirm our presence once more, \nright?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Time to review the Junior Class. Ready?",
+        "Time to review the Junior Class. You ready?"
+      ]
     },
     {
       "name": "Daring Heart",

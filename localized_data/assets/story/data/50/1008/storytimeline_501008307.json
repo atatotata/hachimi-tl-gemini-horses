@@ -79,7 +79,10 @@
     },
     {
       "name": "Vodka",
-      "text": "The Derby?"
+      "text": "The Derby?",
+      "choice_data_list": [
+        "What do you want to do about the Derby?"
+      ]
     },
     {
       "name": "Vodka",
@@ -119,7 +122,10 @@
     },
     {
       "name": "Vodka",
-      "text": "If it's just for now, keep me on for the\nDerby.\nBut..."
+      "text": "If it's just for now, keep me on for the\nDerby.\nBut...",
+      "choice_data_list": [
+        "The next race... what should we do for now?"
+      ]
     },
     {
       "name": "Vodka",

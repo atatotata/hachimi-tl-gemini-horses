@@ -15,7 +15,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer... I have a report. I have\nconfirmed that\nthe apple dish they serve\nat lunch helps me\nrecover from fatigue."
+      "text": "Trainer... I have a report. I have\nconfirmed that\nthe apple dish they serve\nat lunch helps me\nrecover from fatigue.",
+      "choice_data_list": [
+        "Wh-What are you doing?",
+        "Wh-What are you doing?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...What?!"
+      "text": "...What?!",
+      "choice_data_list": [
+        "...Training time has already passed, though.",
+        "...Training time has already passed, though."
+      ]
     },
     {
       "name": "Mihono Bourbon",

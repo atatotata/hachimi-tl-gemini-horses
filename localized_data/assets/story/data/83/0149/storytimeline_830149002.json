@@ -104,6 +104,13 @@
       "name": "Aston Machan",
       "text": "Are you curious about Ma-chan's black tea \nas well?",
       "choice_data_list": [
+        "Is this... the scent of black tea?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I brewed quite a lot, so if you're \ninterested, I'll give you a special cup on \nthe house. You're interested, right?",
+      "choice_data_list": [
         "Huh?"
       ]
     },
@@ -111,25 +118,21 @@
       "name": "Aston Machan",
       "text": "I brewed quite a lot, so if you're \ninterested, I'll give you a special cup on \nthe house. You're interested, right?",
       "choice_data_list": [
-        "I-I guess so...?",
-        "No, I was just about to have coffee...",
+        "A-Are you curious...?",
+        "No, I was just thinking of having some coffee...",
         "What kind of tea leaves are those?",
         "What kind of tea leaves are those?"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "I brewed quite a lot, so if you're \ninterested, I'll give you a special cup on \nthe house. You're interested, right?",
+      "text": "Then come along, right this way to a seat.",
       "choice_data_list": [
-        "I-I guess so...?",
-        "No, I was just about to have coffee...",
+        "A-Are you curious...?",
+        "No, I was just thinking of having some coffee...",
         "What kind of tea leaves are those?",
         "What kind of tea leaves are those?"
       ]
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Then come along, right this way to a seat."
     },
     {
       "name": "Aston Machan",
@@ -140,7 +143,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Heh... What was I worrying about? She's \njust as she always is. I must have \noverthought it."
+      "text": "Heh... What was I worrying about? She's \njust as she always is. I must have \noverthought it.",
+      "choice_data_list": [
+        "Y-Yes."
+      ]
     },
     {
       "name": "Narrator",
@@ -159,7 +165,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Heh... What was I worrying about? She's \njust as she always is. I must have \noverthought it."
+      "text": "Heh... What was I worrying about? She's \njust as she always is. I must have \noverthought it.",
+      "choice_data_list": [
+        "M-Maybe so...?"
+      ]
     },
     {
       "name": "Narrator",
@@ -174,7 +183,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Brewing it yourself would be such a waste, \nyou know. Even with the same leaves, the \ntrue meaning lies in experiencing tea \npresented by Ma-chan!"
+      "text": "Brewing it yourself would be such a waste, \nyou know. Even with the same leaves, the \ntrue meaning lies in experiencing tea \npresented by Ma-chan!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Air Groove",

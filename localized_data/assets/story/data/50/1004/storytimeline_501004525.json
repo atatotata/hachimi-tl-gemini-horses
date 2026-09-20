@@ -23,7 +23,10 @@
     },
     {
       "name": "Monologue",
-      "text": "When I ask her about it, she tells us that\nshe's\nplaying cops and robbers with her\nfriends, and\nshe's the last robber left."
+      "text": "When I ask her about it, she tells us that\nshe's\nplaying cops and robbers with her\nfriends, and\nshe's the last robber left.",
+      "choice_data_list": [
+        "T-The last thief...?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -63,7 +66,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "All righty, then! ♪ Let's go with Plan A!"
+      "text": "All righty, then! ♪ Let's go with Plan A!",
+      "choice_data_list": [
+        "Plan A: A battle of endurance!",
+        "Plan B: Time for Some Strategy!"
+      ]
     },
     {
       "name": "Maruzensky",

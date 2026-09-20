@@ -19,7 +19,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Hm... I guess that's true..."
+      "text": "Hm... I guess that's true...",
+      "choice_data_list": [
+        "Rest is the best medicine.",
+        "Heal up quick with pure guts!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -27,11 +31,17 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Of course! I need training like a fish\nneeds water!"
+      "text": "Of course! I need training like a fish\nneeds water!",
+      "choice_data_list": [
+        "Do you want to train that badly?"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "I definitely don't want that... Ugh..."
+      "text": "I definitely don't want that... Ugh...",
+      "choice_data_list": [
+        "If it gets worse, you'll just have to rest even longer."
+      ]
     },
     {
       "name": "El Condor Pasa",

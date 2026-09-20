@@ -41,7 +41,10 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "............Huh?"
+      "text": "............Huh?",
+      "choice_data_list": [
+        "(......Huh?)"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -64,7 +67,10 @@
     },
     {
       "name": "Sounds of Earth",
-      "text": "You are none other than a grand orchestra!"
+      "text": "You are none other than a grand orchestra!",
+      "choice_data_list": [
+        "（！！！？）"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -82,7 +88,10 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...M-Me—a grand orchestra...?"
+      "text": "...M-Me—a grand orchestra...?",
+      "choice_data_list": [
+        "(Is she trying to encourage them... maybe?)"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -110,7 +119,11 @@
     },
     {
       "name": "Sounds of Earth",
-      "text": "Yes, you. The bashful corno. Or perhaps \nthe shy ottavino."
+      "text": "Yes, you. The bashful corno. Or perhaps \nthe shy ottavino.",
+      "choice_data_list": [
+        "(M-Me?!)",
+        "(M-Me?!)"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -131,13 +144,18 @@
     {
       "text": "Despite her unusual phrasing, I understood \nthat she was calling out to me. In that \ncase—",
       "choice_data_list": [
-        "Heh, I am but a capricious violin...",
-        "Heh, I am but a capricious violin...",
-        "U-Um, what?"
+        "Heh, I'm just a fickle violin... after all.",
+        "Heh, I'm just a fickle violin... after all.",
+        "Wait, umm?"
       ]
     },
     {
-      "text": "...I wonder why, but caught up in the \nmood, I blurted that out on impulse."
+      "text": "...I wonder why, but caught up in the \nmood, I blurted that out on impulse.",
+      "choice_data_list": [
+        "Heh, I'm just a fickle violin... after all.",
+        "Heh, I'm just a fickle violin... after all.",
+        "Wait, umm?"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -178,7 +196,10 @@
     },
     {
       "name": "Sounds of Earth",
-      "text": "There is no need to fear...! I promise to \nembrace everything! So—come!"
+      "text": "There is no need to fear...! I promise to \nembrace everything! So—come!",
+      "choice_data_list": [
+        "(!?... Maracas?!)"
+      ]
     },
     {
       "text": "Encouraged by Sounds of Earth's words, my \nhands moved naturally. The vibration \ntransferred directly into the maracas—"

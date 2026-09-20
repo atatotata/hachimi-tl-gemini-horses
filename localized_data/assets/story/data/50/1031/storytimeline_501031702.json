@@ -7,7 +7,10 @@
     },
     {
       "name": "Everyone",
-      "text": "Oh..."
+      "text": "Oh...",
+      "choice_data_list": [
+        "Of course!"
+      ]
     },
     {
       "name": "Monologue",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Huh?! N-no, not at all! It's just, well...\nYou know...\n<i>Right?</i>"
+      "text": "Huh?! N-no, not at all! It's just, well...\nYou know...\n<i>Right?</i>",
+      "choice_data_list": [
+        "Um, did something happen?"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -51,7 +57,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "You'll mostly be stacking shelves and\nworking the\nregister. Nothing too hard\nas long as your\ncustomer service skills\nare decent!"
+      "text": "You'll mostly be stacking shelves and\nworking the\nregister. Nothing too hard\nas long as your\ncustomer service skills\nare decent!",
+      "choice_data_list": [
+        "What are convenience stores like?",
+        "What's a convenience store like?"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -107,7 +117,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ahaha! I'm kidding, I'm kidding! But\nstill..."
+      "text": "Ahaha! I'm kidding, I'm kidding! But\nstill...",
+      "choice_data_list": [
+        "Hey, now."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -123,11 +136,23 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "With me around, you'll be pro workers in\nno time!"
+      "text": "With me around, you'll be pro workers in\nno time!",
+      "choice_data_list": [
+        "As expected of a hyper part-timer.",
+        "As expected of a hyper part-timer.",
+        "Now I'm getting interested too~",
+        "Now I'm getting interested too~"
+      ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Ahaha, you know it! None of that stuff\non my\nresume is there for show."
+      "text": "Ahaha, you know it! None of that stuff\non my\nresume is there for show.",
+      "choice_data_list": [
+        "As expected of a hyper part-timer.",
+        "As expected of a hyper part-timer.",
+        "Now I'm getting interested too~",
+        "Now I'm getting interested too~"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -159,11 +184,18 @@
     },
     {
       "name": "Everyone",
-      "text": "Stop right there!"
+      "text": "Stop right there!",
+      "choice_data_list": [
+        "Well then, I'll be on my way too...",
+        "Well then, I'll be on my way as well..."
+      ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Like, sorry for the secrecy, but the truth\nis we\nreally really wanted to discuss\nsomething with\nyou, Trainer..."
+      "text": "Like, sorry for the secrecy, but the truth\nis we\nreally really wanted to discuss\nsomething with\nyou, Trainer...",
+      "choice_data_list": [
+        "Huh?!"
+      ]
     }
   ]
 }

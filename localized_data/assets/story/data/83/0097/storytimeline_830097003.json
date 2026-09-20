@@ -51,7 +51,11 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "(Man, the rain is great! It's nice how the\nraindrops\nhit my face and how mud goes\nflying everywhere.)"
+      "text": "(Man, the rain is great! It's nice how the\nraindrops\nhit my face and how mud goes\nflying everywhere.)",
+      "choice_data_list": [
+        "(...Granted, it's an uphill battle, but...)",
+        "(...Granted, we're at a disadvantage, but...)"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -75,11 +79,18 @@
     },
     {
       "name": "Spectator B",
-      "text": "Hang on! Look! In the back!"
+      "text": "Hang on! Look! In the back!",
+      "choice_data_list": [
+        "(Maybe so... but—)",
+        "(Maybe so... but—)"
+      ]
     },
     {
       "name": "Caster",
-      "text": "Here comes Mr. C.B. closing in from\nbehind! She's\ntaken the lead!"
+      "text": "Here comes Mr. C.B. closing in from\nbehind! She's\ntaken the lead!",
+      "choice_data_list": [
+        "Mr. C.B....!"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -111,7 +122,10 @@
     },
     {
       "name": "Monologue",
-      "text": "The untethered Umamusume who walks\ndown her\npath—and her path alone."
+      "text": "The untethered Umamusume who walks\ndown her\npath—and her path alone.",
+      "choice_data_list": [
+        "So this is... \"Mr. C.B.\"...!"
+      ]
     },
     {
       "name": "Monologue",

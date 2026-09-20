@@ -19,7 +19,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Calm down?! Like I could! I'm an\nUmamusume\nright smack dab in the\nspringtime of her youth!"
+      "text": "Calm down?! Like I could! I'm an\nUmamusume\nright smack dab in the\nspringtime of her youth!",
+      "choice_data_list": [
+        "C-Calm down."
+      ]
     },
     {
       "name": "Gold Ship",
@@ -43,7 +46,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm a bit uneasy, but I'll do my best this\nyear too!"
+      "text": "I'm a bit uneasy, but I'll do my best this\nyear too!",
+      "choice_data_list": [
+        "G-Get up-!!",
+        "W-Wake up-!!"
+      ]
     }
   ]
 }

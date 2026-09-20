@@ -11,7 +11,11 @@
     },
     {
       "name": "Agnes Digital",
-      "text": "Eek! How long have you been standing\nthere?! I-I\nhaven't done anything, okay?!"
+      "text": "Eek! How long have you been standing\nthere?! I-I\nhaven't done anything, okay?!",
+      "choice_data_list": [
+        "What's got you so worried?",
+        "What are you worried about?"
+      ]
     },
     {
       "name": "King Halo",
@@ -31,7 +35,10 @@
     },
     {
       "name": "King Halo",
-      "text": "Worried? About me?"
+      "text": "Worried? About me?",
+      "choice_data_list": [
+        "You said you were worried earlier, right?"
+      ]
     },
     {
       "name": "Agnes Digital",

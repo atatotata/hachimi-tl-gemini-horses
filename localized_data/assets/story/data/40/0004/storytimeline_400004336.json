@@ -111,15 +111,25 @@
     },
     {
       "name": "Monologue",
-      "text": "I remember now. And it look likes those\n\nsuspicions were right on the money.\nWhich\nmeans..."
+      "text": "I remember now. And it look likes those\n\nsuspicions were right on the money.\nWhich\nmeans...",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "Time to announce the result! Victory\ngoes to...\nthe werewolf team!"
+      "text": "Time to announce the result! Victory\ngoes to...\nthe werewolf team!",
+      "choice_data_list": [
+        "Manhattan Cafe is the werewolf!",
+        "...Satono Diamond is the werewolf."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Sirius Symboli was the one who\nidentified El\nCondor Pasa as a werewolf,\nso she's the real\nfortune teller?!"
+      "text": "Sirius Symboli was the one who\nidentified El\nCondor Pasa as a werewolf,\nso she's the real\nfortune teller?!",
+      "choice_data_list": [
+        "Whaaaaat...?!"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -163,7 +173,10 @@
     },
     {
       "name": "Sirius Symboli",
-      "text": "<i>Sigh...</i> That didn't go as I'd hoped."
+      "text": "<i>Sigh...</i> That didn't go as I'd hoped.",
+      "choice_data_list": [
+        "Yay!"
+      ]
     },
     {
       "name": "Monologue",

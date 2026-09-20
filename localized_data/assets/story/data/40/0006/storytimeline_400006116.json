@@ -14,7 +14,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Since I'm replying anyway, I'll include an \nupdate on how well <chrname> is doing. I'm sure \nthey'll be happy to hear it."
+      "text": "Since I'm replying anyway, I'll include an \nupdate on how well <chrname> is doing. I'm sure \nthey'll be happy to hear it.",
+      "choice_data_list": [
+        "(...That's much appreciated.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -27,7 +30,12 @@
     },
     {
       "name": "Narrator",
-      "text": "I reached out to <chrname> and brought up the idea \nabout the photos."
+      "text": "I reached out to <chrname> and brought up the idea \nabout the photos.",
+      "choice_data_list": [
+        "Send photos of <chrname>.",
+        "Film the training session.",
+        "Now for the power of the written word! Let's express it in writing."
+      ]
     },
     {
       "name": "Narrator",

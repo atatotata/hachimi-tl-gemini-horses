@@ -12,13 +12,16 @@
       "name": "Gran Alegria",
       "text": "Pyu~ pyu-pyu~♪ All right, let's do this!",
       "choice_data_list": [
-        "Are you participating in the tournament \ntoo?",
-        "Are you entering the tournament as well?"
+        "(...Wait, the person over there is—)"
       ]
     },
     {
       "name": "Gran Alegria",
-      "text": "Yes! Of course, I'm aiming for victory!"
+      "text": "Yes! Of course, I'm aiming for victory!",
+      "choice_data_list": [
+        "Are you taking part in the tournament too?",
+        "Are you entering the competition too?"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -29,7 +32,10 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "That's right. Craft-senpai is the reason \nI'm standing here today!"
+      "text": "That's right. Craft-senpai is the reason \nI'm standing here today!",
+      "choice_data_list": [
+        "Rhein Kraft...?"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -72,7 +78,10 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "Yup! Just watch me, I'm pretty good at \nsports!"
+      "text": "Yup! Just watch me, I'm pretty good at \nsports!",
+      "choice_data_list": [
+        "Wait, winning as a beginner...?!"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -91,7 +100,10 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "Fufu, I can just tell! Climbing like this \nis definitely the fastest way up!"
+      "text": "Fufu, I can just tell! Climbing like this \nis definitely the fastest way up!",
+      "choice_data_list": [
+        "Those didn't look like a beginner's moves at all...!"
+      ]
     },
     {
       "name": "Narrator",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Girl in Pajamas",
-      "text": "I-I really wanted to meet you, Opera O,\nbut...\nbut... <i>Sniffle... sob...</i>"
+      "text": "I-I really wanted to meet you, Opera O,\nbut...\nbut... <i>Sniffle... sob...</i>",
+      "choice_data_list": [
+        "(A child... in pajamas?)"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -23,7 +26,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Hmm... She appears to be lost."
+      "text": "Hmm... She appears to be lost.",
+      "choice_data_list": [
+        "Where's your guardian...?"
+      ]
     },
     {
       "name": "Girl in Pajamas",
@@ -103,7 +109,11 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Yes, from the joy of meeting me, and\nfrom\nreflecting on the hardship of her\nsolitary journey."
+      "text": "Yes, from the joy of meeting me, and\nfrom\nreflecting on the hardship of her\nsolitary journey.",
+      "choice_data_list": [
+        "Still, she was crying, though.",
+        "Still, you were crying, weren't you?"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -135,7 +145,11 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "...Indeed, that would be best."
+      "text": "...Indeed, that would be best.",
+      "choice_data_list": [
+        "Opera O's success, maybe?",
+        "Let's bring them some refreshments."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -143,11 +157,18 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "I will create a short, two-hour piece\nwhich can be\nperformed within visitation\nhours. With me in the\nstarring role, it\nshall be an excellent opera!"
+      "text": "I will create a short, two-hour piece\nwhich can be\nperformed within visitation\nhours. With me in the\nstarring role, it\nshall be an excellent opera!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I manage to convince her that, instead of\nan\nopera, her brilliance on the racetrack\nwould be a\nbetter gift."
+      "text": "I manage to convince her that, instead of\nan\nopera, her brilliance on the racetrack\nwould be a\nbetter gift.",
+      "choice_data_list": [
+        "Huh!?"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -159,7 +180,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "For the photographs, of course! Her\nalbum of me\nwill not fill itself!"
+      "text": "For the photographs, of course! Her\nalbum of me\nwill not fill itself!",
+      "choice_data_list": [
+        "Preparations?"
+      ]
     },
     {
       "name": "T.M. Opera O",

@@ -23,7 +23,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Okay... I'll give it a go. More energy..."
+      "text": "Okay... I'll give it a go. More energy...",
+      "choice_data_list": [
+        "Let's do this with a smile.",
+        "Let's try changing the song to a ballad."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -111,7 +115,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Hm? We're in the dance studio..."
+      "text": "Hm? We're in the dance studio...",
+      "choice_data_list": [
+        "Wait, where is this...?"
+      ]
     },
     {
       "name": "Monologue",

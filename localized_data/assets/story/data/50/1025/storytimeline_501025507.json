@@ -11,7 +11,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "That letter... It showed up out of\nnowhere."
+      "text": "That letter... It showed up out of\nnowhere.",
+      "choice_data_list": [
+        "(How long have they been here...?)"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Opening the envelope, I see that it's\nclearly a fan\nletter for Manhattan Cafe,\nbut there's something\na little... peculiar\nabout its contents."
+      "text": "Opening the envelope, I see that it's\nclearly a fan\nletter for Manhattan Cafe,\nbut there's something\na little... peculiar\nabout its contents.",
+      "choice_data_list": [
+        "I'll go check."
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +37,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I figure she has the right to read her own\nfan\nletter, so I hand it over."
+      "text": "I figure she has the right to read her own\nfan\nletter, so I hand it over.",
+      "choice_data_list": [
+        "No, it's not like that..."
+      ]
     },
     {
       "name": "Manhattan Cafe",

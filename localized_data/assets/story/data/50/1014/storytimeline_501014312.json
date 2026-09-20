@@ -31,7 +31,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bueno! Bueno..."
+      "text": "Bueno! Bueno...",
+      "choice_data_list": [
+        "Congratulations, El."
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -39,7 +42,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "I... did it... It's not just words anymore.\nI'm the\nworld's... strong—"
+      "text": "I... did it... It's not just words anymore.\nI'm the\nworld's... strong—",
+      "choice_data_list": [
+        "El!?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -75,11 +81,18 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "I said, <i>right,</i> Trainer?"
+      "text": "I said, <i>right,</i> Trainer?",
+      "choice_data_list": [
+        "Huh? No..."
+      ]
     },
     {
       "name": "Spectators",
-      "text": "Hahahaha!"
+      "text": "Hahahaha!",
+      "choice_data_list": [
+        "Y-Yeah...",
+        "Y-Yeah..."
+      ]
     },
     {
       "name": "Monologue",

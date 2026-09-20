@@ -15,7 +15,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, you're Ayabe's trainer! The two of us\nwere\njust about to go and grab\npancakes."
+      "text": "Oh, you're Ayabe's trainer! The two of us\nwere\njust about to go and grab\npancakes.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -27,7 +31,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "You are. So, let's go already!\nPancaaakes! ♪"
+      "text": "You are. So, let's go already!\nPancaaakes! ♪",
+      "choice_data_list": [
+        "M-Me too?",
+        "M-Me too?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -63,11 +71,21 @@
     },
     {
       "name": "Monologue",
-      "text": "The pancake on Admire Vega's plate\ndisappears\nin an instant."
+      "text": "The pancake on Admire Vega's plate\ndisappears\nin an instant.",
+      "choice_data_list": [
+        "Make sure you don't overeat.",
+        "Make sure not to overeat, okay?",
+        "(I'll just let her eat to her heart's content.)"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "Well... of course, I was only planning to\neat this\none plate."
+      "text": "Well... of course, I was only planning to\neat this\none plate.",
+      "choice_data_list": [
+        "Make sure you don't overeat.",
+        "Make sure not to overeat, okay?",
+        "(I'll just let her eat to her heart's content.)"
+      ]
     },
     {
       "name": "Admire Vega",

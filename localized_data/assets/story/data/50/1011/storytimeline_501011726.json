@@ -23,7 +23,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, are you sure?"
+      "text": "Oh, are you sure?",
+      "choice_data_list": [
+        "I'll go get it!",
+        "I'll go get it for you!"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -31,7 +35,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "That sounds like it would help. Very\nwell, I'll be\nyour voice of support."
+      "text": "That sounds like it would help. Very\nwell, I'll be\nyour voice of support.",
+      "choice_data_list": [
+        "I want you to cheer for me."
+      ]
     },
     {
       "name": "Grass Wonder",

@@ -36,7 +36,9 @@
     {
       "name": "Narrator",
       "text": "Even though I've grown used to the \nLongchamp track, the European training \nfacilities are still largely uncharted \nterritory for us.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Getting 'used to it' seems like it'll take some time.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -53,7 +55,9 @@
     {
       "name": "Narrator",
       "text": "Challenging Europe requires adapting to \nthe environment right from the start of \ntraining.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I need to clear my head.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -100,7 +104,9 @@
     {
       "name": "Mei Satake",
       "text": "Hm? Ah, no, it's not that. Japan's \natmosphere is as wonderful as ever.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is it bad news?"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -122,7 +128,9 @@
     {
       "name": "Mei Satake",
       "text": "Because that's my duty.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Finishing this early is quite rare for you."
+      ]
     },
     {
       "name": "Mei Satake",
@@ -170,20 +178,22 @@
       "name": "Narrator",
       "text": "Even if she's used to seeing it in VR, \nit's the place of her dreams. She must be \nnervous.",
       "choice_data_list": [
-        "It's earlier than planned, but shall we \ncall it a day?"
+        "(...Her movements are as stiff as ever.)"
       ]
     },
     {
       "name": "Mei Satake",
       "text": "...No, please continue.",
       "choice_data_list": [
-        "Huh?"
+        "It's earlier than scheduled, but shall we wrap up?"
       ]
     },
     {
       "name": "Mei Satake",
       "text": "Even if it's slow. I'll make her run.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Mei Satake",
@@ -216,7 +226,11 @@
     {
       "name": "Narrator",
       "text": "Without even needing to ask, her eyes were \noverflowing with determination.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like <chrname> wants to keep going, too.",
+        "Looks like <chrname> wants to keep going, too, huh.",
+        "It seems Lady <chrname> wishes to continue as well."
+      ]
     },
     {
       "name": "Narrator",
@@ -239,7 +253,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "\"Goal! I win~!\"",
       "choice_data_list": []
     },
@@ -249,7 +263,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "\"Fufu, sure! Now then, what game should we \nplay next—\"",
       "choice_data_list": []
     },

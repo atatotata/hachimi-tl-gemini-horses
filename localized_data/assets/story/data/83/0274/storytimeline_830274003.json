@@ -14,7 +14,10 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "To tell the truth――I've been asked to help \nwith a performance for a local community \nevent."
+      "text": "To tell the truth――I've been asked to help \nwith a performance for a local community \nevent.",
+      "choice_data_list": [
+        "Hello. Something on your mind?"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -31,20 +34,23 @@
       "name": "Curren Bouquetd'or",
       "text": "Indeed, it is――I am sure all the visitors \nare looking forward to hearing their \nsinging, but...",
       "choice_data_list": [
-        "...Do you mind if I come watch the \npractice too?",
-        "...Do you mind if I come watch the \npractice too?"
+        "That feels like a bit of a waste."
       ]
     },
     {
       "name": "Children",
       "text": "...tchi... pitchi, chappu... yappu, ran... \nan...♪",
       "choice_data_list": [
-        "(Well now... this really is tough.)"
+        "...Mind if I come watch that practice too?",
+        "...Can I come watch that practice too?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "For the number of children present, their \nvoices were very small. It seemed the \nentire group was hesitating to sing out \nloud, influenced by the few who held back \nnervously."
+      "text": "For the number of children present, their \nvoices were very small. It seemed the \nentire group was hesitating to sing out \nloud, influenced by the few who held back \nnervously.",
+      "choice_data_list": [
+        "(Well, this looks like quite the ordeal...)"
+      ]
     },
     {
       "name": "Shy Child",
@@ -74,19 +80,23 @@
       "name": "Curren Bouquetd'or",
       "text": "Pardon?",
       "choice_data_list": [
-        "Bitchi-bitchi♪ Chappu-chappu ran-ran-ran♪"
+        "Then I'll show you how it's done!",
+        "Then I'll demonstrate!"
       ]
     },
     {
       "name": "Shy Child",
       "text": "B-Bitchi-bitchi...? Isn't it \npitchi-pitchi...?",
       "choice_data_list": [
-        "I messed up! But 'bitchi-bitchi' has \nplenty of energy, right?"
+        "Flop-flop♪ Splish-splash, tra-la-la♪"
       ]
     },
     {
       "name": "Shy Child",
-      "text": "...Ahaha! I-I guess so, but still...!"
+      "text": "...Ahaha! I-I guess so, but still...!",
+      "choice_data_list": [
+        "My bad! But flopping around has plenty of energy too, right?!"
+      ]
     },
     {
       "name": "Watching Child",
@@ -107,12 +117,15 @@
       "name": "Shy Child",
       "text": "Really...? Just like miss over there... me \ntoo...?",
       "choice_data_list": [
-        "It's fun! Let's sing together――"
+        "It's fun! Let's try singing together—"
       ]
     },
     {
       "name": "Children",
-      "text": "――A~me~ a~me~ fu~re~ fu~re♪ Ka~a-san ga~♪"
+      "text": "――A~me~ a~me~ fu~re~ fu~re♪ Ka~a-san ga~♪",
+      "choice_data_list": [
+        "It's fun! Let's try singing together—"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -138,13 +151,17 @@
       "name": "Loves Only You",
       "text": "Oh, . Did you come to cheer on \nBouquet-chan too?♪",
       "choice_data_list": [
-        "Yeah, what about you guys?",
-        "Yeah, what about you guys?"
+        "Yeah, you guys too?",
+        "Yeah, you guys too?"
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Yes... Bouquet-san has been preparing for \ntoday all this time, so... I really hope \nit goes well for her."
+      "text": "Yes... Bouquet-san has been preparing for \ntoday all this time, so... I really hope \nit goes well for her.",
+      "choice_data_list": [
+        "Yeah, you guys too?",
+        "Yeah, you guys too?"
+      ]
     },
     {
       "name": "Gran Alegria",
@@ -195,7 +212,10 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "Pi... Pitchi pitchi, chappu chappu♪"
+      "text": "Pi... Pitchi pitchi, chappu chappu♪",
+      "choice_data_list": [
+        "Get-ting picked up with an um-brel-la, I'm so hap-py~♪"
+      ]
     },
     {
       "name": "Audience",
@@ -231,7 +251,11 @@
     },
     {
       "name": "Everyone",
-      "text": "Encore! Encore!"
+      "text": "Encore! Encore!",
+      "choice_data_list": [
+        "Me too, me too! Encore!",
+        "Me too, me too! Encore!"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",

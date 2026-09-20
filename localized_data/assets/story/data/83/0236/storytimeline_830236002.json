@@ -15,7 +15,11 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Actually... since yesterday, it feels like \nKawakami and *This Earth* have been \navoiding me."
+      "text": "Actually... since yesterday, it feels like \nKawakami and *This Earth* have been \navoiding me.",
+      "choice_data_list": [
+        "Are you okay? Did something happen?",
+        "Are you all right? Did something happen?"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -28,13 +32,16 @@
       "name": "Narrator",
       "text": "It's more natural to think that Kawakami \nPrincess took it and hid it away for some \nreason.",
       "choice_data_list": [
-        "For now, I'll try looking for them too.",
-        "For now, I'll try looking for them too."
+        "(Hmm... At least on this Earth—)"
       ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Ooh... Thanks!"
+      "text": "Ooh... Thanks!",
+      "choice_data_list": [
+        "For now, I'll try looking for them too.",
+        "For now, I'll try looking for them too."
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -45,7 +52,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Gyaaah?! I-I-I'm so sorry! Showing such an \nunbecoming, un-princess-like display...!"
+      "text": "Gyaaah?! I-I-I'm so sorry! Showing such an \nunbecoming, un-princess-like display...!",
+      "choice_data_list": [
+        "Oh, there you are!"
+      ]
     },
     {
       "name": "Narrator",
@@ -58,12 +68,15 @@
       "name": "Kawakami Princess",
       "text": "Hieeee?!",
       "choice_data_list": [
-        "Could this be the reason you've been \navoiding Pearl?"
+        "Two Dis-Earths...?"
       ]
     },
     {
       "name": "Kawakami Princess",
-      "text": "H-H-How on earth do you know that~~~?!"
+      "text": "H-H-How on earth do you know that~~~?!",
+      "choice_data_list": [
+        "Could this be why you're avoiding Pearl?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -83,7 +96,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Yes! *This Earth* is... a symbol of \nfriendship given to me by Pearl-san!"
+      "text": "Yes! *This Earth* is... a symbol of \nfriendship given to me by Pearl-san!",
+      "choice_data_list": [
+        "Dis-Earth... You had one too, huh.",
+        "Dis-Earth... You had one too, right."
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -144,13 +161,16 @@
       "name": "Seeking the Pearl",
       "text": "You should have just told me from the \nstart... The one on the left is my *This \nEarth*♪",
       "choice_data_list": [
-        "How could you tell?!",
-        "How could you tell?!"
+        "Seeking the Pearl?!"
       ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Inside *This Earth*, each owner's dreams \nand passion are packed tight."
+      "text": "Inside *This Earth*, each owner's dreams \nand passion are packed tight.",
+      "choice_data_list": [
+        "How'd you know that!?",
+        "How did you know!?"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -188,20 +208,24 @@
       "name": "Seeking the Pearl",
       "text": "Yes... I owe you thanks as well.",
       "choice_data_list": [
-        "I only listened to her, that's all.",
-        "I only listened to her, that's all."
+        "I'm really glad to hear that!",
+        "As expected of a specialist of This-Earth..."
       ]
     },
     {
       "name": "Seeking the Pearl",
       "text": "And thanks to that, I was able to learn \nKawakami's feelings. *Very, very thank \nyou*, Trainer♪",
       "choice_data_list": [
-        "If anything, I should be thanking you—"
+        "All I did was listen to what you had to say.",
+        "I just listened to what they had to say."
       ]
     },
     {
       "name": "Narrator",
-      "text": "Seeing them share their dreams gave me the \nenergy to keep giving it my all too."
+      "text": "Seeing them share their dreams gave me the \nenergy to keep giving it my all too.",
+      "choice_data_list": [
+        "If you're going to put it like that, then I'mâ"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -216,7 +240,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "*This Earth*... is truly so profound..."
+      "text": "*This Earth*... is truly so profound...",
+      "choice_data_list": [
+        "What is that?!"
+      ]
     }
   ]
 }

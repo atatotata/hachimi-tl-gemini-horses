@@ -56,7 +56,10 @@
     {
       "name": "Narrator",
       "text": "I escorted her as she was completely \nexhausted, and together we headed toward \nthe podium.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Congratulations, <chrname>...!",
+        "Heartiest congratulations, Lady <chrname>!"
+      ]
     },
     {
       "name": "Reporter from Japan",
@@ -113,7 +116,9 @@
     {
       "name": "Narrator",
       "text": "—The romance hasn't ended yet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(If that's what she wishes, then back-to-back glory will be hers.)"
+      ]
     },
     {
       "name": "Narrator",

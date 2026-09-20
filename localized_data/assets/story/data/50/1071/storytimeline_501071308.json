@@ -27,7 +27,11 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...No, it's nothing at all."
+      "text": "...No, it's nothing at all.",
+      "choice_data_list": [
+        "...Did something happen?",
+        "...Is something the matter?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -39,11 +43,19 @@
     },
     {
       "name": "Monologue",
-      "text": "At first glance, Mejiro Ardan looks the\nsame as\nalways—just fine. But...\nsomething about her\nseems off."
+      "text": "At first glance, Mejiro Ardan looks the\nsame as\nalways—just fine. But...\nsomething about her\nseems off.",
+      "choice_data_list": [
+        "Yeah—",
+        "Yeah---"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The day after the Aoba Sho..."
+      "text": "The day after the Aoba Sho...",
+      "choice_data_list": [
+        "(Seems like we'll have to stay on our guard...)",
+        "(Looks like we'll need to keep an eye out...)"
+      ]
     },
     {
       "name": "Mejiro Ardan",

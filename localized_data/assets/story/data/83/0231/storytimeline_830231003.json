@@ -17,18 +17,22 @@
       "name": "T.M. Opera O",
       "text": "Oh! If it isn't Trainer-san! What \nexquisite timing! Lend us a hand!",
       "choice_data_list": [
-        "Wait... with what?"
+        "What's the matter?",
+        "What is it?"
       ]
     },
     {
       "name": "T.M. Opera O",
       "text": "—And those are the cues for sound effects. \nThat is all you must do. Simple, is it \nnot?",
       "choice_data_list": [
-        "S-So all I have to do is..."
+        "Wait... what?"
       ]
     },
     {
-      "text": "I respond while handling the audio \nequipment. Apparently, they were looking \nfor extra hands for their puppet show."
+      "text": "I respond while handling the audio \nequipment. Apparently, they were looking \nfor extra hands for their puppet show.",
+      "choice_data_list": [
+        "I-I think I sort of get how it works..."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -58,7 +62,10 @@
       ]
     },
     {
-      "text": "Even though it's a puppet show, they're \nacting as themselves and conversing with \npuppets! Yet thanks to the bizarre \nstoryline, it never gets boring—"
+      "text": "Even though it's a puppet show, they're \nacting as themselves and conversing with \npuppets! Yet thanks to the bizarre \nstoryline, it never gets boring—",
+      "choice_data_list": [
+        "(Wh-What a chaotic play...?!)"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -74,7 +81,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Yes~... Actually, some time ago..."
+      "text": "Yes~... Actually, some time ago...",
+      "choice_data_list": [
+        "A hospital...? Are you putting on this play at a hospital?",
+        "A hospital...? Are you putting on this play at a hospital?"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -93,7 +104,11 @@
       ]
     },
     {
-      "text": "Even if I'm just filling in, I resolve to \ngive my all in assisting with the puppet \nshow she prepared."
+      "text": "Even if I'm just filling in, I resolve to \ngive my all in assisting with the puppet \nshow she prepared.",
+      "choice_data_list": [
+        "Yeah... That's a lovely reason.",
+        "Right... What a lovely reason."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -118,7 +133,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Fufun! Indeed, is it not! Is it not! Come, \nshower me with even greater praise!"
+      "text": "Fufun! Indeed, is it not! Is it not! Come, \nshower me with even greater praise!",
+      "choice_data_list": [
+        "That was a fantastic play!"
+      ]
     },
     {
       "text": "I praise her not just for the excellence \nof the play, but for putting it together \nfor the children, including her charitable \nheart, but..."
@@ -133,7 +151,11 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Indeed. That is so. After all—"
+      "text": "Indeed. That is so. After all—",
+      "choice_data_list": [
+        "Wait... Is that so?",
+        "Wait... Really?"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -161,29 +183,32 @@
     {
       "text": "Overwhelmed by such a blindingly radiant \nphilosophy, standing before a conqueror \nwhose very soul is beautiful, few words \ncould adequately reply—",
       "choice_data_list": [
-        "You're truly kind, you know.",
-        "You really are kind.",
-        "I'm looking forward to your next puppet \nshow!"
+        "…………I see."
       ]
     },
     {
       "text": "I was completely overwhelmed by such a \ndazzling philosophy. Standing before the \nSupreme Overlord whose heart was equally \nbeautiful, there were few words I could \noffer in return—",
       "choice_data_list": [
-        "You really are kind.",
-        "You're so kind, Opera O.",
-        "I'm looking forward to your next puppet \nshow!"
+        "You really are kind, aren't you?",
+        "You truly are kind, aren't you?",
+        "I'm looking forward to your next puppet show, too!"
       ]
     },
     {
       "name": "T.M. Opera O",
       "text": "...Hm. Did my message not get across? As I \nsaid, it is not kindness, but—",
       "choice_data_list": [
-        "No, you are kind. Doing it for your own \nself-satisfaction makes it so."
+        "You really are kind, aren't you?",
+        "You truly are kind, aren't you?",
+        "I'm looking forward to your next puppet show, too!"
       ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "............Ahaha. I see."
+      "text": "............Ahaha. I see.",
+      "choice_data_list": [
+        "No, that's kind. Even if doing it is just for your own satisfaction."
+      ]
     },
     {
       "name": "T.M. Opera O",

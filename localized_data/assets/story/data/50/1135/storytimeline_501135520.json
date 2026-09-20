@@ -191,7 +191,9 @@
     {
       "name": "Social Studies Teacher",
       "text": "Her report was wonderful. Stay Gold-san... \nThrough your travels, you touch living \nhistory each and every day, don't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I-Is something wrong...?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -205,26 +207,29 @@
       "name": "Stay Gold",
       "text": "Ah, that's the make-up assignment for \nskipping class.",
       "choice_data_list": [
-        "...Did you slack off!?",
-        "...Did you slack off!?",
-        "What was in the report?",
-        "What was in the report?"
+        "Yeah! She was praising it highly!",
+        "Yeah! They were full of praise!"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Ah, that's the make-up assignment for \nskipping class.",
       "choice_data_list": [
-        "...Did you slack off!?",
-        "...Did you slack off!?",
-        "What was in the report?",
-        "What was in the report?"
+        "...Did you slack off?!",
+        "...Did you slack off?!",
+        "What kind of contents were in the report?",
+        "What was the report about?"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "I'm learning in my own way. I'm just not \nvery good with theory, you know.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Did you slack off?!",
+        "...Did you slack off?!",
+        "What kind of contents were in the report?",
+        "What was the report about?"
+      ]
     },
     {
       "name": "Narrator",
@@ -236,7 +241,9 @@
     {
       "name": "Stay Gold",
       "text": "Is that so? I understand. I'll be sure to \nkeep your words in mind.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wouldn't that broaden your horizons?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -253,7 +260,9 @@
     {
       "name": "Stay Gold",
       "text": "If that's what you want, I'll tell you \nmore.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Stay Gold",

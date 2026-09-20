@@ -19,7 +19,11 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "Off you go!",
+        "Yeah, go on ahead!"
+      ]
     },
     {
       "name": "Monologue",
@@ -111,11 +115,18 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Ryan—I'm certain that she's lamented to\nyou over\nhow she lacks in charisma."
+      "text": "Ryan—I'm certain that she's lamented to\nyou over\nhow she lacks in charisma.",
+      "choice_data_list": [
+        "McQueen?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Ah, she has such low self-esteem. As\nalways, she\ndoesn't understand herself\nparticularly well."
+      "text": "Ah, she has such low self-esteem. As\nalways, she\ndoesn't understand herself\nparticularly well.",
+      "choice_data_list": [
+        "Yeah, they did say that.",
+        "Yeah, you said so."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -143,7 +154,10 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "It was Joan of Arc."
+      ]
     },
     {
       "name": "Monologue",

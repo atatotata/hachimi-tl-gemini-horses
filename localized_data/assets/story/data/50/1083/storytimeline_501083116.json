@@ -41,7 +41,9 @@
     {
       "name": "Narrator",
       "text": "...After that, the reporter struggled but \nmanaged to draw words out of Symboli Kris \nS, bringing the special interview to a \nsuccessful close—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...Same as always, huh.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -104,13 +106,15 @@
       "name": "Symboli Kris S",
       "text": "...She looked happy.",
       "choice_data_list": [
-        "...I just felt like I needed to work \nharder, that's all."
+        "Huh?"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "...I see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I just thought I needed to work harder, that's all."
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -133,7 +137,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "――Are you free now？",
       "choice_data_list": []
     },

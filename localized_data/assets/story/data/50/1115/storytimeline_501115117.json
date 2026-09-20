@@ -46,7 +46,9 @@
     {
       "name": "Foreign Trainer",
       "text": "\"Orfevre. Pleased to meet you.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She places that much importance on it...)"
+      ]
     },
     {
       "name": "Orfevre",
@@ -59,13 +61,15 @@
       "name": "Foreign Trainer",
       "text": "Hi, so you're... her Trainer... aren't \nyou?",
       "choice_data_list": [
-        "Nice to meet you. Getting right down to \nbusiness..."
+        "(Orfe isn't on guard either... Thank goodness.)"
       ]
     },
     {
       "name": "",
       "text": "While shaking hands, I relay additional \nnotes regarding Orfevre. Her quirks, \npersonality, and—as crude as it may be—my \nconcerns heading into the race—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Nice to meet you. Now, getting straight to business..."
+      ]
     },
     {
       "name": "",
@@ -92,7 +96,9 @@
     {
       "name": "Orfevre",
       "text": "...Shall we go?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I look forward to working with you!"
+      ]
     },
     {
       "name": "Win Variation",
@@ -104,7 +110,9 @@
     {
       "name": "Win Variation",
       "text": "Haa... haa...! Damn, made it in time...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Win Variation!?"
+      ]
     },
     {
       "name": "Win Variation",
@@ -171,7 +179,9 @@
     {
       "name": "Orfevre",
       "text": "……――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because I believe in you."
+      ]
     },
     {
       "name": "Orfevre",
@@ -194,14 +204,16 @@
       "name": "Dream Journey",
       "text": "We should go with the most reliable, best \nchoice... right?",
       "choice_data_list": [
-        "...From your perspective, is it an \nimmature choice?",
-        "...From your perspective, is this an \nimmature choice?"
+        "Of course I have mixed feelings. But..."
       ]
     },
     {
       "name": "Dream Journey",
       "text": "...No.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...From your perspective, does it seem like an amateur choice?",
+        "...From your perspective, does it seem like an immature choice?"
+      ]
     },
     {
       "name": "Dream Journey",

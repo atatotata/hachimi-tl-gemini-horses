@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Nothing special... Just take a look over\nthere."
+      "text": "Nothing special... Just take a look over\nthere.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Monologue",
@@ -27,11 +31,17 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Excuse me? Were you even listening? I'm\nnot\nintere—"
+      "text": "Excuse me? Were you even listening? I'm\nnot\nintere—",
+      "choice_data_list": [
+        "Why don't you try putting it on?"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "<i>Sigh...</i> Do whatever you feel like. Just\ndon't drag\nme into it."
+      "text": "<i>Sigh...</i> Do whatever you feel like. Just\ndon't drag\nme into it.",
+      "choice_data_list": [
+        "The plushie is really well-made, too!"
+      ]
     },
     {
       "name": "Narita Taishin",

@@ -31,7 +31,11 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hey, Trainer! Yaeno and I are just doing\nsome\nmartial arts training!"
+      "text": "Hey, Trainer! Yaeno and I are just doing\nsome\nmartial arts training!",
+      "choice_data_list": [
+        "Wh-What are you doing?",
+        "Wh-What were you doing?"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -63,7 +67,11 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Huh?! Th-that's not safe! What if it falls\nin?! It\ncould drown! I'll save y—"
+      "text": "Huh?! Th-that's not safe! What if it falls\nin?! It\ncould drown! I'll save y—",
+      "choice_data_list": [
+        "...Is it trying to jump over?",
+        "...Is it trying to jump over, I wonder?"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -143,11 +151,23 @@
     },
     {
       "name": "Monologue",
-      "text": "The saying isn't quite right, but her\njudgment\ndoes seem to have helped the\nkitten get one step\ncloser to\nindependence."
+      "text": "The saying isn't quite right, but her\njudgment\ndoes seem to have helped the\nkitten get one step\ncloser to\nindependence.",
+      "choice_data_list": [
+        "You really helped that kitten mature.",
+        "You really helped that kitten mature, didn't you?",
+        "Since we're here, want to play with the cat for a bit?",
+        "Since we're here, should we play with the cat for a bit?"
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes! It did great! That gap is twice its\nsize! I could\nlearn a thing or two!"
+      "text": "Yes! It did great! That gap is twice its\nsize! I could\nlearn a thing or two!",
+      "choice_data_list": [
+        "You really helped that kitten mature.",
+        "You really helped that kitten mature, didn't you?",
+        "Since we're here, want to play with the cat for a bit?",
+        "Since we're here, should we play with the cat for a bit?"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -159,7 +179,10 @@
     },
     {
       "name": "Monologue",
-      "text": "At any rate, it was nice to observe the\ndifferences\nbetween these two fairly\nsimilar Umamusume."
+      "text": "At any rate, it was nice to observe the\ndifferences\nbetween these two fairly\nsimilar Umamusume.",
+      "choice_data_list": [
+        "Whoa, watch out!"
+      ]
     },
     {
       "name": "Bamboo Memory",

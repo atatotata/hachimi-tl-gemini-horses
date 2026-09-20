@@ -38,13 +38,16 @@
       "name": "Fusaichi Pandora",
       "text": "Ehh~? 3 slices~? Do you really have to~?",
       "choice_data_list": [
-        "If I'm borrowing it instead, that's a \npromise, okay?"
+        "If there are too many, we'll never finish, so three max.",
+        "If there are too many, we'll never finish, so three max."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Mmm~~... Well, it'd be a waste if we \ndidn't finish watching it, so whatever. \nAll good, all good~☆",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you're borrowing that instead, you have to promise."
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -117,21 +120,23 @@
       "name": "Fusaichi Pandora",
       "text": "Yeah. Is this everything?",
       "choice_data_list": [
-        "We promised to keep it to three, didn't \nwe?"
+        "Huh? There are four in here, though..."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "B-But still, I just wanted to see \neverything so bad~! Even with this, I \ndeliberated quite a bit, you know?",
       "choice_data_list": [
-        "We can't have it interfering with \ntraining, right?",
-        "It'd be a problem if it got in the way of \ntraining, wouldn't it?"
+        "We promised up to three, remember?"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "I'll be fine!! I'll do my training \nproperly, and there's no way I'll stay up \nlate watching this, promise!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It'd be bad if it interfered with training, wouldn't it?",
+        "It'd be bad if it interfered with training, wouldn't it?"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -144,13 +149,15 @@
       "name": "Fusaichi Pandora",
       "text": "\"Ehh~~? Are you reaaally saying... no?\"",
       "choice_data_list": [
-        "(Urgh... No, even so...!)"
+        "Still, a promise is a promise..."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "*tearful sniffle*...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Ugh... No, even so...!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -163,14 +170,16 @@
       "name": "Fusaichi Pandora",
       "text": "Trainer, thank you so much♡ I promise I'll \nstick to my screen time limits!",
       "choice_data_list": [
-        "(I still have a long way to go myself... \nbut still.)",
-        "(I'm still so naive... but still.)"
+        "...All right. Just this once, okay?"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "If we're watching the drama, maybe at this \ntime~? And then, and then, we can chat \nabout it the next day~♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I've still got a long way to go myself... but...)",
+        "(I'm still so green... but...)"
+      ]
     },
     {
       "name": "Narrator",
@@ -188,21 +197,23 @@
       "name": "Fusaichi Pandora",
       "text": "But still, but still, I'll totally stick \nto my screen time limit~...",
       "choice_data_list": [
-        "If you bend it that easily, the promise \nwon't mean anything, will it?",
-        "If you bend it that easily, the promise \nwon't mean anything anymore, right?"
+        "I really want you to keep your promise."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Uuuugh... ...Okay. I'll hold back...",
       "choice_data_list": [
-        "If we can keep our promise, let's come \nagain next week."
+        "If you bend it so easily, what's the point of a promise?",
+        "If you bend it so easily, what's the point of a promise, right?"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Yeah! I'm definitely gonna make up for \nwhat I missed this time!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you keep your promise, we can come back next week."
+      ]
     }
   ]
 }

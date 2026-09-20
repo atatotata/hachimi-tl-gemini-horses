@@ -15,7 +15,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Um... A little..."
+      "text": "Um... A little...",
+      "choice_data_list": [
+        "Worried?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -23,7 +26,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Really?"
+      "text": "Really?",
+      "choice_data_list": [
+        "I can lend a hand, if you'd like."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -39,7 +45,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hobbies? Well, um..."
+      "text": "Hobbies? Well, um...",
+      "choice_data_list": [
+        "What are your hobbies?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -47,11 +56,17 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Skills? ...Running."
+      "text": "Skills? ...Running.",
+      "choice_data_list": [
+        "What's your special skill?"
+      ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Well... On my days off, I like to go\nrunning..."
+      "text": "Well... On my days off, I like to go\nrunning...",
+      "choice_data_list": [
+        "...How do you spend your days off?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -59,7 +74,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Wh-what should I do?"
+      "text": "Wh-what should I do?",
+      "choice_data_list": [
+        "They're all the exact same answer...",
+        "They're all the exact same answer..."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -67,7 +86,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "The real me..."
+      "text": "The real me...",
+      "choice_data_list": [
+        "I want to get to know you just as you are, Suzuka.",
+        "Let's change how we answer."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -131,7 +154,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Really? Thank goodness. Interviews\nreally are\ndifficult, aren't they?"
+      "text": "Really? Thank goodness. Interviews\nreally are\ndifficult, aren't they?",
+      "choice_data_list": [
+        "That was way better!",
+        "That was way better!"
+      ]
     },
     {
       "name": "Monologue",

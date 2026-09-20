@@ -11,7 +11,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "But I didn't win. At the end of the day,\nthat's all\nthat matters."
+      "text": "But I didn't win. At the end of the day,\nthat's all\nthat matters.",
+      "choice_data_list": [
+        "Even so, you ran well.",
+        "Even so, you ran really well."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -83,7 +87,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "All right!"
+      "text": "All right!",
+      "choice_data_list": [
+        "Alright, let's enter lots of races!"
+      ]
     },
     {
       "name": "",
@@ -195,7 +202,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...I'm fine. All right, let's get to work on\nour next\nplan."
+      "text": "...I'm fine. All right, let's get to work on\nour next\nplan.",
+      "choice_data_list": [
+        "...Are you okay?",
+        "...Are you okay?"
+      ]
     },
     {
       "name": "",

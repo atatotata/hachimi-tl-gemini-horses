@@ -7,7 +7,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Yes!"
+      "text": "Yes!",
+      "choice_data_list": [
+        "...Can you really run?",
+        "...Are you sure you can run?"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -31,7 +35,11 @@
     },
     {
       "name": "",
-      "text": "All I can do now is pray."
+      "text": "All I can do now is pray.",
+      "choice_data_list": [
+        "(Come back safe and sound, Taishin...!)",
+        "(Please come back safe, Taishin...!)"
+      ]
     }
   ]
 }

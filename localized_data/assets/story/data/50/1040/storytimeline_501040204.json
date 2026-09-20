@@ -11,7 +11,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Wait, Trainer."
+      "text": "Wait, Trainer.",
+      "choice_data_list": [
+        "(I'll wait outside.)"
+      ]
     },
     {
       "name": "Gold City",
@@ -27,7 +30,11 @@
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Go earn the recognition you want!",
+        "Go out there and earn the recognition you want!"
+      ]
     },
     {
       "name": "Gold City",

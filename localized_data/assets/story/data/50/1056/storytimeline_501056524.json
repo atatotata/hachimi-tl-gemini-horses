@@ -23,7 +23,10 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Aiyee, you're jumping straight to the\npoint?!\nYou're that interested in what I\nhave for you?!"
+      "text": "Aiyee, you're jumping straight to the\npoint?!\nYou're that interested in what I\nhave for you?!",
+      "choice_data_list": [
+        "What did you want to talk about?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -31,7 +34,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "That's right! I'm calling it \"Trainer\nDivination\"!"
+      "text": "That's right! I'm calling it \"Trainer\nDivination\"!",
+      "choice_data_list": [
+        "Me?",
+        "Me?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -51,7 +58,12 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Is that your final answer? Then let's turn\nit over\nand take a look!"
+      "text": "Is that your final answer? Then let's turn\nit over\nand take a look!",
+      "choice_data_list": [
+        "The suspicious-looking card on the right.",
+        "The suspicious card in the middle.",
+        "The suspicious card on the left"
+      ]
     },
     {
       "name": "Monologue",

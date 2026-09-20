@@ -11,7 +11,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Huh? I don't need a break. I've got\nplenty of gas\nleft!"
+      "text": "Huh? I don't need a break. I've got\nplenty of gas\nleft!",
+      "choice_data_list": [
+        "Let's take a short break.",
+        "Want to take a quick break?"
+      ]
     },
     {
       "name": "Vodka",
@@ -35,7 +39,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Heheh. I knew you'd come around!"
+      "text": "Heheh. I knew you'd come around!",
+      "choice_data_list": [
+        "Alright, let's keep on training!",
+        "Alright, let's keep training!"
+      ]
     },
     {
       "name": "Vodka",

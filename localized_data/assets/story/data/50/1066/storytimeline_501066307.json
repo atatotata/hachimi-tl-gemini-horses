@@ -53,13 +53,16 @@
       "name": "Twin Turbo",
       "text": "Yeah! But... I didn't win, and I feel like \nI didn't stand out much, did I?",
       "choice_data_list": [
-        "That's definitely not true."
+        "I see, that's great!",
+        "Right, that's great!"
       ]
     },
     {
       "name": "Narrator",
       "text": "From a trainer's perspective... the impact \nof running in that race was immense.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's definitely not true."
+      ]
     },
     {
       "name": "Narrator",
@@ -82,7 +85,10 @@
     {
       "name": "Narrator",
       "text": "Whenever Twin Turbo enters a race from now \non, it will undoubtedly turn into an \nunpredictable wonderland.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah! Let's train properly.",
+        "Yeah! Let's make sure we train hard."
+      ]
     }
   ]
 }

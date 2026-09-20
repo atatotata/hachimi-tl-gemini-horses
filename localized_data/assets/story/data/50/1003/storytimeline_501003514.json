@@ -11,7 +11,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I need compliments! Or else I lose all\nmotivation!"
+      "text": "I need compliments! Or else I lose all\nmotivation!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -39,7 +42,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah, but this is just volunteering at a\npark..."
+      "text": "Yeah, but this is just volunteering at a\npark...",
+      "choice_data_list": [
+        "True..."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -115,11 +121,23 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "So if this park has important memories\nfor that\nold lady, I want to protect it!"
+      "text": "So if this park has important memories\nfor that\nold lady, I want to protect it!",
+      "choice_data_list": [
+        "Alright, I'll leave the trash pickup to you!",
+        "Alright, I'm counting on you for the trash pickup!",
+        "Alright, I'm counting on you to clean up the graffiti!",
+        "Alright, I'll leave the graffiti cleanup to you!"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah, we're on it! Let's go, McQueen!"
+      "text": "Yeah, we're on it! Let's go, McQueen!",
+      "choice_data_list": [
+        "Alright, I'll leave the trash pickup to you!",
+        "Alright, I'm counting on you for the trash pickup!",
+        "Alright, I'm counting on you to clean up the graffiti!",
+        "Alright, I'll leave the graffiti cleanup to you!"
+      ]
     },
     {
       "name": "Monologue",

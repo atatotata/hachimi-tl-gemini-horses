@@ -35,7 +35,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "...Yeah, you're right."
+      "text": "...Yeah, you're right.",
+      "choice_data_list": [
+        "Let's think about the race for now."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -43,7 +46,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I'm all over it!"
+      "text": "I'm all over it!",
+      "choice_data_list": [
+        "Go blow 'em away!",
+        "Go knock 'em dead!"
+      ]
     }
   ]
 }

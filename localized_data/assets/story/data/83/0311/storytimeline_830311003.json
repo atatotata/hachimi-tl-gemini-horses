@@ -145,24 +145,32 @@
       "name": "Narrator",
       "text": "While observing the mock race for guidance \ninsights, I happened to witness Efforia's \nbrilliant performance.",
       "choice_data_list": [
-        "That was a great run.",
-        "That was a great run.",
-        "You have a wonderful rival.",
-        "You have a wonderful rival.",
-        "Maybe reading all those books really did \nhelp.",
-        "Maybe reading all those books really did \nhelp."
+        "That was a good run.",
+        "That was a nice run.",
+        "You have a great rival.",
+        "You have a great rival.",
+        "Finishing that whole book might actually have worked, huh.",
+        "Finishing that whole book might actually have worked, don't you think."
       ]
     },
     {
       "name": "Efforia",
       "text": ".",
       "choice_data_list": [
-        "Have you prepared a reward for yourself?"
+        "That was a good run.",
+        "That was a nice run.",
+        "You have a great rival.",
+        "You have a great rival.",
+        "Finishing that whole book might actually have worked, huh.",
+        "Finishing that whole book might actually have worked, don't you think."
       ]
     },
     {
       "name": "Efforia",
-      "text": "I don't personally prepare such things \nmyself. However..."
+      "text": "I don't personally prepare such things \nmyself. However...",
+      "choice_data_list": [
+        "Did you set aside a little reward for yourself?"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -198,7 +206,11 @@
     },
     {
       "name": "Efforia",
-      "text": "Lucky..."
+      "text": "Lucky...",
+      "choice_data_list": [
+        "Yeah, we're lucky to be in the same class.",
+        "Yeah, you're lucky to be in the same class."
+      ]
     },
     {
       "name": "Titleholder",
@@ -262,7 +274,11 @@
     },
     {
       "name": "Efforia",
-      "text": "No, not at all. It is entirely thanks to \nyour guidance, Trainer."
+      "text": "No, not at all. It is entirely thanks to \nyour guidance, Trainer.",
+      "choice_data_list": [
+        "Your straightforward attitude played a big part in that too.",
+        "Your straightforward attitude had a big impact, too."
+      ]
     }
   ]
 }

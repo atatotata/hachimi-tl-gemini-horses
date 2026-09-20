@@ -63,7 +63,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yo, sorry to keep ya waiting! Took a bit \nof effort to scatter those octopus \nwieners, y'see."
+      "text": "Yo, sorry to keep ya waiting! Took a bit \nof effort to scatter those octopus \nwieners, y'see.",
+      "choice_data_list": [
+        "That really was quite an adventure...",
+        "That really was quite an adventure, wasn't it..."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -76,12 +80,15 @@
       "name": "Kitasan Black",
       "text": "HURRY!!!",
       "choice_data_list": [
-        "A-All right..."
+        "Huh? What's the big rush—"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Wheeeew! We somehow managed to get away."
+      "text": "Wheeeew! We somehow managed to get away.",
+      "choice_data_list": [
+        "A-All right..."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -147,12 +154,16 @@
       "name": "Gold Ship",
       "text": "Your resolve has been duly noted...! Let's \nroll! To protect this green Earth of ours!",
       "choice_data_list": [
-        "Huh? Today, right now?! Waaaaaahhh..."
+        "Well, whenever you feel like it down the road...",
+        "I have a bad feeling about this. Let's not."
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "T-They got dragged away. I wonder if \nthey'll really be okay..."
+      "text": "T-They got dragged away. I wonder if \nthey'll really be okay...",
+      "choice_data_list": [
+        "Huh? Right now, today?! Aaaaaaaah..."
+      ]
     },
     {
       "name": "Narrator",
@@ -171,7 +182,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Ehh! You're planning to go back to that \nisland?! You really, really shouldn't——"
+      "text": "Ehh! You're planning to go back to that \nisland?! You really, really shouldn't——",
+      "choice_data_list": [
+        "I can't just let her go alone... Well, no choice."
+      ]
     },
     {
       "name": "Narrator",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I've been wanting a thick-cut steak since\nmorning.\nI won't accept anything else."
+      "text": "I've been wanting a thick-cut steak since\nmorning.\nI won't accept anything else.",
+      "choice_data_list": [
+        "Already made up your mind?",
+        "Have you already decided?"
+      ]
     },
     {
       "name": "Brian and Amazon",
@@ -55,11 +59,20 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Hey! I told you I was in the mood for\nthick-cut\nmeat. Are you even listening?"
+      "text": "Hey! I told you I was in the mood for\nthick-cut\nmeat. Are you even listening?",
+      "choice_data_list": [
+        "How about we skip the match and do a different workout?",
+        "A speed showdown! The habanero meat bun eat-off!",
+        "A test of stamina! Dance de Fever!",
+        "Power showdown! A ruthless Menko battle!"
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "No way. I need something I can really\nsink my\nteeth into."
+      "text": "No way. I need something I can really\nsink my\nteeth into.",
+      "choice_data_list": [
+        "Let's have a different meat dish."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -107,7 +120,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "<i>Chomp, chomp.</i> Now, that is... S-SPICY!"
+      "text": "<i>Chomp, chomp.</i> Now, that is... S-SPICY!",
+      "choice_data_list": [
+        "Ready... start!!"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -143,7 +159,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Chomp chomp chomp...</i> Augh!"
+      "text": "<i>Chomp chomp chomp...</i> Augh!",
+      "choice_data_list": [
+        "Ready... start!!"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -175,7 +194,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... You sure picked an annoying way\nto settle\nthis."
+      "text": "Tch... You sure picked an annoying way\nto settle\nthis.",
+      "choice_data_list": [
+        "We're kicking up dust, so let's move somewhere else."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -183,7 +205,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Okay, Brian! Let's dance till we drop!"
+      "text": "Okay, Brian! Let's dance till we drop!",
+      "choice_data_list": [
+        "Dance battle, start!!"
+      ]
     },
     {
       "name": "Monologue",

@@ -47,7 +47,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Oh, you were in the hallway earlier, huh?\nSorry\nyou had to see that."
+      "text": "Oh, you were in the hallway earlier, huh?\nSorry\nyou had to see that.",
+      "choice_data_list": [
+        "You don't look like you're having much fun.",
+        "You don't seem to be having much fun."
+      ]
     },
     {
       "name": "Vodka",
@@ -71,7 +75,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Yeah... Guess it's that or bust!"
+      "text": "Yeah... Guess it's that or bust!",
+      "choice_data_list": [
+        "Let's show them you've learned your lesson!",
+        "All you have to do is apologize sincerely."
+      ]
     },
     {
       "name": "Vodka",
@@ -211,7 +219,11 @@
     },
     {
       "name": "Vodka and Scarlet",
-      "text": "No we don't!"
+      "text": "No we don't!",
+      "choice_data_list": [
+        "You two really get along well, huh.",
+        "You two really get along well, don't you."
+      ]
     }
   ]
 }

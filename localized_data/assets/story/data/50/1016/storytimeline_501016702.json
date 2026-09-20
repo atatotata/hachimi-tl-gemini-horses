@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "It doesn't take long, and we can get\ntakeout.\nSounds good, right?"
+      "text": "It doesn't take long, and we can get\ntakeout.\nSounds good, right?",
+      "choice_data_list": [
+        "Is that really okay?",
+        "Are you okay with that?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -139,7 +143,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Okay, that then."
+      "text": "...Okay, that then.",
+      "choice_data_list": [
+        "Cook a well-balanced meal",
+        "Something stamina-boosting, please."
+      ]
     },
     {
       "name": "Hishi Amazon",

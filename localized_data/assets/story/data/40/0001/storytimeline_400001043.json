@@ -7,7 +7,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Yes! We talked it over, and I'm all for\nthe idea as\nwell."
+      "text": "Yes! We talked it over, and I'm all for\nthe idea as\nwell.",
+      "choice_data_list": [
+        "A showdown?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -23,11 +26,22 @@
     },
     {
       "name": "Monologue",
-      "text": "They didn't have any particular criteria\nin mind\nfor our little showdown, so I get\nto pick."
+      "text": "They didn't have any particular criteria\nin mind\nfor our little showdown, so I get\nto pick.",
+      "choice_data_list": [
+        "Of course, by all means."
+      ]
     },
     {
       "name": "Happy Meek",
-      "text": "Speed... Time to become the wind.\nWhoosh!"
+      "text": "Speed... Time to become the wind.\nWhoosh!",
+      "choice_data_list": [
+        "Win with speed!",
+        "We'll win with stamina!",
+        "Win with pure power!",
+        "Win with pure guts!",
+        "Let's win with Wit!",
+        "A battle of endurance!"
+      ]
     },
     {
       "name": "Happy Meek",

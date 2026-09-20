@@ -71,11 +71,17 @@
     },
     {
       "name": "Fine's Older Sister",
-      "text": "Yes, hello there? Are you the trainer\nresponsible\nfor my dear little princess?"
+      "text": "Yes, hello there? Are you the trainer\nresponsible\nfor my dear little princess?",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Fine's Older Sister",
-      "text": "Are you frightened? That's a shame—I\nprefer\nstrong-willed types. One must\nhold back when\ndealing with the meek."
+      "text": "Are you frightened? That's a shame—I\nprefer\nstrong-willed types. One must\nhold back when\ndealing with the meek.",
+      "choice_data_list": [
+        "Y-Yes."
+      ]
     },
     {
       "name": "Monologue",
@@ -111,7 +117,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hey, what is she saying? Can I hear?"
+      "text": "Hey, what is she saying? Can I hear?",
+      "choice_data_list": [
+        "...Yes!"
+      ]
     },
     {
       "name": "Fine's Older Sister",
@@ -203,11 +212,17 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...I know."
+      "text": "...I know.",
+      "choice_data_list": [
+        "This might be the final race."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I've taken the time and rank of the races\ninto\nconsideration and, more\nimportantly, I've\nweighed them by\nwhether the opponents might\nmake her\nlast race a truly enjoyable one."
+      "text": "I've taken the time and rank of the races\ninto\nconsideration and, more\nimportantly, I've\nweighed them by\nwhether the opponents might\nmake her\nlast race a truly enjoyable one.",
+      "choice_data_list": [
+        "I narrowed down the candidate races to four."
+      ]
     },
     {
       "name": "Monologue",
@@ -215,7 +230,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...\nJust checking, but... theoretically, I\n<i>could</i> enter\nall of them, couldn't I?"
+      "text": "...\nJust checking, but... theoretically, I\n<i>could</i> enter\nall of them, couldn't I?",
+      "choice_data_list": [
+        "I'd like to hear your opinion.",
+        "I want to hear your opinion."
+      ]
     },
     {
       "name": "Fine Motion",
@@ -223,7 +242,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...Could I have a little time to think\nabout it?"
+      "text": "...Could I have a little time to think\nabout it?",
+      "choice_data_list": [
+        "That's right.",
+        "That's right."
+      ]
     },
     {
       "name": "Fine Motion",
@@ -235,7 +258,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I decide to have faith and leave things in\nher\nhands."
+      "text": "I decide to have faith and leave things in\nher\nhands.",
+      "choice_data_list": [
+        "(No, I'm sure that won't happen.)"
+      ]
     }
   ]
 }

@@ -23,7 +23,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes, precisely. I'm sorry but it appears\ntoday's\ntraining session might suffer a\nsmall delay."
+      "text": "Yes, precisely. I'm sorry but it appears\ntoday's\ntraining session might suffer a\nsmall delay.",
+      "choice_data_list": [
+        "Are you helping out the student council?",
+        "Are you going to help the student council?"
+      ]
     },
     {
       "name": "Monologue",
@@ -103,7 +107,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Just for a day? I suppose I could manage\nthat..."
+      "text": "Just for a day? I suppose I could manage\nthat...",
+      "choice_data_list": [
+        "Why not give it a try for just one day?",
+        "Why not join on the condition that they look after your sister?"
+      ]
     },
     {
       "name": "Monologue",

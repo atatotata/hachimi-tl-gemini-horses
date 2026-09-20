@@ -11,7 +11,10 @@
       ]
     },
     {
-      "text": "No need to linger. Just as I looked for my \nthings and prepared to hurry back to the \nTrainer's office—"
+      "text": "No need to linger. Just as I looked for my \nthings and prepared to hurry back to the \nTrainer's office—",
+      "choice_data_list": [
+        "(It's a little eerie when nobody's around...)"
+      ]
     },
     {
       "name": "???",
@@ -32,7 +35,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I am... sorry... I was only... \nsubmerged... I didn't mean... to scare \nyou..."
+      "text": "...I am... sorry... I was only... \nsubmerged... I didn't mean... to scare \nyou...",
+      "choice_data_list": [
+        "Waaagh?!"
+      ]
     },
     {
       "text": "Being apologized to made me feel even more \nawkward. It was entirely my fault for \nassuming no one was here and scaring \nmyself."
@@ -46,7 +52,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "............Yes."
+      "text": "............Yes.",
+      "choice_data_list": [
+        "...Are you always here by yourself?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -86,18 +95,22 @@
       "name": "Agnes Tachyon",
       "text": "Yes, you! Have you seen Cafe? I came \nbecause I have a favor to ask of her—",
       "choice_data_list": [
-        "Huh...?"
+        "...Me?",
+        "...Me?"
       ]
     },
     {
       "text": "Not understanding her question, I looked \nbehind me, only to find Manhattan Cafe had \nvanished without a trace.",
       "choice_data_list": [
-        "...She's not here.",
-        "Wait, she was definitely right there a \nsecond ago?!"
+        "Huh...?"
       ]
     },
     {
-      "text": "Come to think of it, right before Agnes \nTachyon and the other approached, I heard \na faint splash as Manhattan Cafe \nsubmerged."
+      "text": "Come to think of it, right before Agnes \nTachyon and the other approached, I heard \na faint splash as Manhattan Cafe \nsubmerged.",
+      "choice_data_list": [
+        "...They aren't here.",
+        "Wait, it was definitely there just a second ago?!"
+      ]
     },
     {
       "text": "She cherishes her quiet time. She's \nprobably not in the mood to see anyone \nright now. Deciding not to reveal her \nhiding spot—"

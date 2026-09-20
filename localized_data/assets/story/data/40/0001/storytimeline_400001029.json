@@ -11,7 +11,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Of course! After all, a first-rate\nUmamusume\nneeds first-rate gear!"
+      "text": "Of course! After all, a first-rate\nUmamusume\nneeds first-rate gear!",
+      "choice_data_list": [
+        "That too?"
+      ]
     },
     {
       "name": "Monologue",
@@ -67,7 +70,11 @@
     },
     {
       "name": "Happy Meek",
-      "text": "No... It's all right. I'm happy with the\nshoes my\ntrainer picked out for me."
+      "text": "No... It's all right. I'm happy with the\nshoes my\ntrainer picked out for me.",
+      "choice_data_list": [
+        "Are you sure you don't want to tell them you like those shoes?",
+        "Are you sure you don't want to tell them you like those shoes?"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -79,11 +86,19 @@
     },
     {
       "name": "Happy Meek",
-      "text": "You... really think so?"
+      "text": "You... really think so?",
+      "choice_data_list": [
+        "They'll appreciate it more if you tell them how you really feel.",
+        "She'll appreciate it more if you tell her how you really feel."
+      ]
     },
     {
       "name": "Happy Meek",
-      "text": "Thank you... I'll go and tell her..."
+      "text": "Thank you... I'll go and tell her...",
+      "choice_data_list": [
+        "I'm a Trainer too, so I understand.",
+        "I understand, because I'm a Trainer too."
+      ]
     },
     {
       "name": "Trainer Kiryuin",

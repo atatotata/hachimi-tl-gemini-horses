@@ -15,7 +15,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "It's Brian! She's—"
+      "text": "It's Brian! She's—",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Announcer",
@@ -199,7 +203,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Yeah, same. Better than moping about."
+      "text": "Yeah, same. Better than moping about.",
+      "choice_data_list": [
+        "I'm glad to see you're doing well."
+      ]
     },
     {
       "name": "Hishi Amazon",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Gold City",
-      "text": "...Already?"
+      "text": "...Already?",
+      "choice_data_list": [
+        "Good work, let's take a break!"
+      ]
     },
     {
       "name": "Gold City",
@@ -23,7 +26,11 @@
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Please don't rush.",
+        "Don't rush."
+      ]
     },
     {
       "name": "Gold City",
@@ -31,7 +38,11 @@
     },
     {
       "name": "Gold City",
-      "text": "I'm going to cool down! I'll be back\nsoon!"
+      "text": "I'm going to cool down! I'll be back\nsoon!",
+      "choice_data_list": [
+        "Where are you going?!",
+        "Where are you going?!"
+      ]
     },
     {
       "name": "Gold City",
@@ -107,7 +118,10 @@
     },
     {
       "name": "Gold City",
-      "text": "...Trainer."
+      "text": "...Trainer.",
+      "choice_data_list": [
+        "City!"
+      ]
     },
     {
       "name": "Tamamo Cross",

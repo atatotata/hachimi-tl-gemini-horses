@@ -70,7 +70,10 @@
     },
     {
       "name": "Narrator",
-      "text": "I couldn't resist joining in on the \ncall-and-response. Time flew by in a \nflash..."
+      "text": "I couldn't resist joining in on the \ncall-and-response. Time flew by in a \nflash...",
+      "choice_data_list": [
+        "Love you, Curren!"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -114,7 +117,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "That song, huh. Yeah, sounds great. Let's \nall sing it together!"
+      "text": "That song, huh. Yeah, sounds great. Let's \nall sing it together!",
+      "choice_data_list": [
+        "All right, let's go with Oguri's anime song!",
+        "All right, let's go with Oguri's anime song, then!"
+      ]
     },
     {
       "name": "Seiun Sky",

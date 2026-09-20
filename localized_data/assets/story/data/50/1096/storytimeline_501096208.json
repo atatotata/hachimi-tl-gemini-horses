@@ -17,7 +17,10 @@
     {
       "name": "Narrator",
       "text": "His departing figure looked more \ndependable than ever before, and—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, may fortune favor you!",
+        "Yeah, fortune favor you in battle!"
+      ]
     },
     {
       "name": "Narrator",
@@ -140,14 +143,16 @@
       "name": "Narrator",
       "text": "A waning fighting spirit... The flame of \nlife—flickering.",
       "choice_data_list": [
-        "You can't give up!!!!!!!",
-        "Don't give up!!!!!!!"
+        "No Reason..."
       ]
     },
     {
       "name": "Narrator",
       "text": "Though I shouted with all my might— my \nvoice didn't seem to reach them.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You can't give up!!!!!!",
+        "Don't give up!!!!!!"
+      ]
     },
     {
       "name": "Narrator",
@@ -155,12 +160,12 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—Kuhahaha! The time of my descent... has \ncome at last.",
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "\"The appointed hour is now. If the gates \nof the final war are to open—\"",
       "choice_data_list": []
     },

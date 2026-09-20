@@ -30,7 +30,9 @@
     {
       "name": "Club Horsegirl A",
       "text": "Ah, it's Miss Phalaeno! Long time no see! \n—Look, it's the Miss Phalaeno you admire \nso much! \nMake sure you say hello, okay?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Don't rush. Let's find it together this time."
+      ]
     },
     {
       "name": "Club Horsegirl B",
@@ -69,13 +71,16 @@
       "name": "Phalaenopsis",
       "text": "Was this what you wished to show me? \nThough, it is quite the usual sight...",
       "choice_data_list": [
-        "No, it's more like... what comes after, \nI'd say."
+        "Yeah, you're right.",
+        "Yeah, that's true."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "What comes after...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, or rather... maybe after this."
+      ]
     },
     {
       "name": "Club Staff Member A",
@@ -113,27 +118,29 @@
       "name": "Narrator",
       "text": "I make a suggestion to Phalaenopsis, who \nseemed to share that sentiment. \n“If you wouldn't mind, why not—”",
       "choice_data_list": [
-        "join her for her extra training?"
+        "(...She might be able to make it feel real.)"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "...? \nI do not mind doing so, but...",
       "choice_data_list": [
-        "All right, then it's decided!"
+        "Care to join me for some extra training?"
       ]
     },
     {
       "name": "Narrator",
       "text": "Since that girl usually goes on long \nroadwork sessions, \nI decided to head to the finish line ahead \nof time \nso as not to get in their way.",
       "choice_data_list": [
-        "Well then, see you after your training!"
+        "All right, then it's settled!"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "Huff, huff... huff, huff... \nTell me if the pace is too quick. I shall \nease up.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Alright then, see you after training!"
+      ]
     },
     {
       "name": "Club Horsegirl B",
@@ -272,29 +279,32 @@
       "name": "Narrator",
       "text": "Not Special Week. \nNor Narita Brian. The one who spurred her \ntoward \nthe club was―Phalaenopsis.",
       "choice_data_list": [
-        "Your \"way of life\" is what lit a fire in \nher.",
-        "Your \"way of life\" is what lit that fire \nin her."
+        "Yeah, you're right.",
+        "Yeah, that's true."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "――――",
       "choice_data_list": [
-        "Do you still think there's no future at \nthe end of this road?",
-        "Do you still believe there's no future \ndown this road?"
+        "The way you live your life is what lit a fire in her.",
+        "Your 'way of life' is what lit a fire in her."
       ]
     },
     {
       "name": "Narrator",
       "text": "To this day, she had run with all her \nmight to repay \nher debt to the club. Truly, truly, with \nall her heart.",
       "choice_data_list": [
-        "At times, with a fierce intensity that \nwrung the hearts of all who watched."
+        "Do you still think there's no future at the end of this road?",
+        "Do you still think there's no future at the end of this road?"
       ]
     },
     {
       "name": "Narrator",
       "text": "There was no way her running, her efforts, \nher results \n―would ever fail to reach someone.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "At times, with an intensity that grips the hearts of all who watch."
+      ]
     },
     {
       "name": "Narrator",
@@ -312,7 +322,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Trainer...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'm sure you haven't done anything wrong yet.",
+        "I'm sure you haven't done anything wrong yet."
+      ]
     },
     {
       "name": "Narrator",
@@ -340,7 +353,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Blinded by the dazzling light of Spe and \nthe others' rapid ascent… \nI had lost sight of myself. But now… I \nsee.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Yeah, that's true.",
+        "...Yeah, that's true."
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -393,14 +409,16 @@
       "name": "Narrator",
       "text": "After accepting her gratitude, I quietly \nshake my head. \nIn truth, there was no need for such \nthanks.",
       "choice_data_list": [
-        "I only did what any Trainer naturally \nwould.",
-        "I just did what any Trainer would do, \nthat's all."
+        "You're welcome. ...Still,"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "…Heh. Is that so? \nEven if that were true, however—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I only did what any Trainer would do.",
+        "I only did what any Trainer would do."
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -424,30 +442,33 @@
       "name": "Narrator",
       "text": "All she had to do was show her “way of \nlife.” \nI knew that alone would lead to a \nflourishing future for the club. \nBecause—",
       "choice_data_list": [
-        "Long before that girl, I was the one \ncaptivated by you.",
-        "Long before that girl, I was the one who \nlooked up to you."
+        "...Though I just happened to know, that's all.",
+        "...Though I just happened to know, that's all."
       ]
     },
     {
       "name": "Narrator",
       "text": "After all, having been so inspired by her \nway of being… \na Trainer, of all people, had gone so far \nas to ask to become an Umamusume's \n“apprentice.”",
       "choice_data_list": [
-        "That's just how brilliantly your “way of \nlife” shines.",
-        "That's just how brightly your “way of \nlife” shines."
+        "I was the one who looked up to you long before she did.",
+        "I was the one who looked up to you long before she did."
       ]
     },
     {
       "name": "Narrator",
       "text": "And because of that… I realized how \nwonderful the club was \nfor giving her the ability to run in the \nfirst place. \n—I knew she could make everyone else \nunderstand that, too.",
       "choice_data_list": [
-        "That's why I felt “staying true to who you \nare” was right.",
-        "That's why I knew “staying true to who you \nare” was right."
+        "That just shows how brightly your 'way of life' shines.",
+        "That just shows how brightly your 'way of life' shines."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "…Ahaha! I see, I see! \nThe very first to admire me… That was you!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's why I thought, 'It's fine the way it is.'",
+        "That's why I thought, 'It's fine the way it is.'"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -501,13 +522,16 @@
       "name": "Narrator",
       "text": "Then my next race will be the Victoria \nMile. \nFollowed by the Queen Elizabeth II \nCup—aiming \nfor every tiara within reach in the Senior \nClass.",
       "choice_data_list": [
-        "And the one displaying her strength there \nright now is—"
+        "Yeah, of course!",
+        "Yeah, of course!"
       ]
     },
     {
       "name": "Mejiro Dober",
       "text": "Haah, haah, haah… Phew.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The one proving her worth out there right now is—"
+      ]
     },
     {
       "name": "Narrator",
@@ -546,14 +570,17 @@
       "name": "Phalaenopsis",
       "text": "...Needless to say, \nshe will not be an easy opponent.",
       "choice_data_list": [
-        "Yeah. So for now, let's focus on what's \nright in front of us.",
-        "Yeah. So for now, let's focus on what's \nright in front of us."
+        "And we're going to challenge her.",
+        "And we're going to challenge her."
       ]
     },
     {
       "name": "Narrator",
       "text": "If all goes as planned, our clash with \nMejiro Dober \nwill come in late autumn—at the Queen \nElizabeth II Cup.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah. That's why right now, we need to focus on what's in front of us.",
+        "Yeah. So for now, let's focus on what's in front of us."
+      ]
     },
     {
       "name": "Narrator",
@@ -566,7 +593,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Heh... Indeed. \nExpect great things from me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'm looking forward to seeing you become the one and only Queen.",
+        "I'm looking forward to you becoming the one and only queen."
+      ]
     },
     {
       "name": "Narrator",

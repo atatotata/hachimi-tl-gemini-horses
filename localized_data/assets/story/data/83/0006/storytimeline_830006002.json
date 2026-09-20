@@ -103,11 +103,23 @@
     },
     {
       "name": "Monologue",
-      "text": "She looks a little worn down. I decide to\ncheck in\non her."
+      "text": "She looks a little worn down. I decide to\ncheck in\non her.",
+      "choice_data_list": [
+        "Are you taking time to unwind?",
+        "Are you making sure to unwind?",
+        "You aren't pushing yourself too hard, are you?",
+        "Are you overdoing it?"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, hello there. I suppose you heard me\nthinking\naloud."
+      "text": "Oh, hello there. I suppose you heard me\nthinking\naloud.",
+      "choice_data_list": [
+        "Are you taking time to unwind?",
+        "Are you making sure to unwind?",
+        "You aren't pushing yourself too hard, are you?",
+        "Are you overdoing it?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -119,7 +131,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Ah, sorry about that. I was merely\ntalking to\nmyself."
+      "text": "Ah, sorry about that. I was merely\ntalking to\nmyself.",
+      "choice_data_list": [
+        "Hitting a plateau?"
+      ]
     },
     {
       "name": "Grass Wonder",

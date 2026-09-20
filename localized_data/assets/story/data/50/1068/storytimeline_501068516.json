@@ -15,7 +15,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Hmm... O-okay, but if I volunteer to\ncarry the\nportable shrine, I'll be able to\nwork up a good\nsweat and burn it all off!\nYeah!"
+      "text": "Hmm... O-okay, but if I volunteer to\ncarry the\nportable shrine, I'll be able to\nwork up a good\nsweat and burn it all off!\nYeah!",
+      "choice_data_list": [
+        "Wouldn't that be overeating, though...?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -23,7 +26,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Y-you think so? Yeah, you're right..."
+      "text": "Y-you think so? Yeah, you're right...",
+      "choice_data_list": [
+        "I don't think that makes it zero calories.",
+        "Let's enjoy it to the fullest!"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -51,7 +58,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "<i>Munch, munch... Gulp...</i>"
+      "text": "<i>Munch, munch... Gulp...</i>",
+      "choice_data_list": [
+        "How does it taste?"
+      ]
     },
     {
       "name": "Monologue",
@@ -63,7 +73,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Huh? Wait, did you say something to me\nwhile I\nwas eating?!"
+      "text": "Huh? Wait, did you say something to me\nwhile I\nwas eating?!",
+      "choice_data_list": [
+        "You were really focused on eating that, weren't you?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -99,7 +112,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I can't help but worry about Kitasan\nBlack... She's\neating so much that even\ncarrying a portable\nshrine might not burn\nit all off."
+      "text": "I can't help but worry about Kitasan\nBlack... She's\neating so much that even\ncarrying a portable\nshrine might not burn\nit all off.",
+      "choice_data_list": [
+        "(Isn't that eating a little too much...?)"
+      ]
     }
   ]
 }

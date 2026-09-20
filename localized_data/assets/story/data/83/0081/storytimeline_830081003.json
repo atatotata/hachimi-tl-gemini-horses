@@ -11,7 +11,11 @@
     },
     {
       "name": "Special Week",
-      "text": "Well, you see, we wanted to do some\nextra\ntraining. But..."
+      "text": "Well, you see, we wanted to do some\nextra\ntraining. But...",
+      "choice_data_list": [
+        "I-Is something wrong?",
+        "I-Is something wrong?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "What better way to conquer the seven\nseas than\nby running laps? Who needs a\ntreasure map when\nyour stamina will see\nyou to the goal?"
+      "text": "What better way to conquer the seven\nseas than\nby running laps? Who needs a\ntreasure map when\nyour stamina will see\nyou to the goal?",
+      "choice_data_list": [
+        "What are the three proposals?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -35,11 +42,23 @@
     },
     {
       "name": "Special Week",
-      "text": "I propose an all-you-can-eat marathon!\n\nPost-training meals are just as important\nas the\ntraining itself! Heck, I think eating\n<i>ought</i> to count\nas training!"
+      "text": "I propose an all-you-can-eat marathon!\n\nPost-training meals are just as important\nas the\ntraining itself! Heck, I think eating\n<i>ought</i> to count\nas training!",
+      "choice_data_list": [
+        "Running the perimeter should build stamina.",
+        "Running the perimeter should build stamina.",
+        "Speed King Championship!",
+        "...It'll be relaxing, so maybe an all-you-can-eat buffet?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes, you have a point. However... Do\nkeep in\nmind that the suggestion is\ncoming from someone\nwho regularly\nignores the bounds of common\nsense."
+      "text": "Yes, you have a point. However... Do\nkeep in\nmind that the suggestion is\ncoming from someone\nwho regularly\nignores the bounds of common\nsense.",
+      "choice_data_list": [
+        "Running the perimeter should build stamina.",
+        "Running the perimeter should build stamina.",
+        "Speed King Championship!",
+        "...It'll be relaxing, so maybe an all-you-can-eat buffet?"
+      ]
     },
     {
       "name": "Rice Shower",

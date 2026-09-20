@@ -15,7 +15,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Understood."
+      "text": "Understood.",
+      "choice_data_list": [
+        "That's a wrap on today's training.",
+        "That's all for today's training, then."
+      ]
     },
     {
       "name": "Air Groove",
@@ -71,7 +75,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Hmph. Not a bad response. Well then,\nI'll take my\nleave."
+      "text": "Hmph. Not a bad response. Well then,\nI'll take my\nleave.",
+      "choice_data_list": [
+        "I know."
+      ]
     },
     {
       "name": "Silence Suzuka",

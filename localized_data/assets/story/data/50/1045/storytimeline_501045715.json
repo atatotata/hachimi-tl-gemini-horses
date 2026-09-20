@@ -27,7 +27,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "It's fine. I'll keep an eye out for cars."
+      "text": "It's fine. I'll keep an eye out for cars.",
+      "choice_data_list": [
+        "Isn't running alone at night dangerous?",
+        "Isn't running alone at night dangerous?"
+      ]
     },
     {
       "name": "Super Creek",
@@ -43,11 +47,21 @@
     },
     {
       "name": "Super Creek",
-      "text": "If anything happens, it'll be easier to\nhandle if she\nhas someone with her."
+      "text": "If anything happens, it'll be easier to\nhandle if she\nhas someone with her.",
+      "choice_data_list": [
+        "I'll go with you too.",
+        "I'll go with you too.",
+        "It gets hard to see your footing at night, too..."
+      ]
     },
     {
       "name": "Super Creek",
-      "text": "Goodness me. Thank you, Trainer! ♪"
+      "text": "Goodness me. Thank you, Trainer! ♪",
+      "choice_data_list": [
+        "I'll go with you too.",
+        "I'll go with you too.",
+        "It gets hard to see your footing at night, too..."
+      ]
     },
     {
       "name": "Oguri Cap",

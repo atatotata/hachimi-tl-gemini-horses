@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't want to let this opportunity pass\nus by. I\ngrab the flyer and go looking for\nher."
+      "text": "I don't want to let this opportunity pass\nus by. I\ngrab the flyer and go looking for\nher.",
+      "choice_data_list": [
+        "I hope it gives <chrname> a nice breather."
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +22,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Unfortunately, my trainee isn't around. I\ndecide\nto invite her next time I see her\nand turn to leave."
+      "text": "Unfortunately, my trainee isn't around. I\ndecide\nto invite her next time I see her\nand turn to leave.",
+      "choice_data_list": [
+        "Not here, huh...",
+        "Doesn't look like she's here..."
+      ]
     },
     {
       "name": "Veteran Trainer A",
@@ -79,7 +86,11 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "That's right! I'm sorry, this must be quite\nsudden,\nbut... I've always admired you!"
+      "text": "That's right! I'm sorry, this must be quite\nsudden,\nbut... I've always admired you!",
+      "choice_data_list": [
+        "Wait, me?",
+        "Wait, me?"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -131,7 +142,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Thank you so much! It's an honor."
+      "text": "Thank you so much! It's an honor.",
+      "choice_data_list": [
+        "Of course."
+      ]
     },
     {
       "name": "Happy Meek",
@@ -151,11 +165,18 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Huh... Is that an aquarium flyer? Meek,\nhave you\nbeen looking at this the whole\ntime?"
+      "text": "Huh... Is that an aquarium flyer? Meek,\nhave you\nbeen looking at this the whole\ntime?",
+      "choice_data_list": [
+        "Could it be this flyer?"
+      ]
     },
     {
       "name": "Happy Meek",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "...Do you want to go?",
+        "...Do you want to go?"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -171,7 +192,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I just... Well, the Trainer's\nHandbook—that is, the\nteachings of the\nKiryuin family—states that\n\"Umamusume\nmust be given appropriate rest.\""
+      "text": "I just... Well, the Trainer's\nHandbook—that is, the\nteachings of the\nKiryuin family—states that\n\"Umamusume\nmust be given appropriate rest.\"",
+      "choice_data_list": [
+        "What do you mean by that?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -199,11 +223,17 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Really? Do you think so?"
+      "text": "Really? Do you think so?",
+      "choice_data_list": [
+        "She's so happy she could come along with you."
+      ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Get to know her, huh..."
+      "text": "Get to know her, huh...",
+      "choice_data_list": [
+        "I think closing the distance with your trainee is important, too."
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -227,7 +257,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Yes. Learning all you can about your\ntrainee is\npractically point one of the\nTrainer's Handbook."
+      "text": "Yes. Learning all you can about your\ntrainee is\npractically point one of the\nTrainer's Handbook.",
+      "choice_data_list": [
+        "Teachings...?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -239,7 +272,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Hehe. No need to be so humble."
+      "text": "Hehe. No need to be so humble.",
+      "choice_data_list": [
+        "It really wasn't that big a deal..."
+      ]
     },
     {
       "name": "Trainer Kiryuin",

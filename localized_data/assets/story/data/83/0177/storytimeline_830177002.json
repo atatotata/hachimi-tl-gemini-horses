@@ -16,12 +16,15 @@
       "name": "Fine Motion",
       "text": "Thank you for accepting the role! Though \nyou look a bit bewildered, don't you? Are \nyou alright?",
       "choice_data_list": [
-        "Y-Yeah, I think so..."
+        "N-Nice to meet you...!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "The reason I said \"I think so\" was because \nI had just accepted moments ago and hadn't \nbeen told any details yet."
+      "text": "The reason I said \"I think so\" was because \nI had just accepted moments ago and hadn't \nbeen told any details yet.",
+      "choice_data_list": [
+        "Y-Yeah, probably..."
+      ]
     },
     {
       "name": "Narrator",
@@ -40,7 +43,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "We're playing baseball on a TV show soon!"
+      "text": "We're playing baseball on a TV show soon!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -58,19 +64,23 @@
       "name": "Vivlos",
       "text": "Because your pitching form is so clean, \nTrainer-san! And we played catch together \nbefore—",
       "choice_data_list": [
-        "J-Just for that, a manager...?"
+        "W-Wait, wait, wait, why me?!",
+        "W-Wait, wait, wait, why me?!"
       ]
     },
     {
       "name": "Vivlos",
       "text": "I don't wanna participate unless you're \nthe manager! Pleeease♡",
       "choice_data_list": [
-        "U-Ughhh...!!"
+        "M-Making me director just for that...?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I felt like I had been pressured into it, \nbut... I should be able to manage it while \nstill securing time for <chrname>."
+      "text": "I felt like I had been pressured into it, \nbut... I should be able to manage it while \nstill securing time for <chrname>.",
+      "choice_data_list": [
+        "U-Uuuugh...!!"
+      ]
     },
     {
       "name": "Narrator",
@@ -93,7 +103,10 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, the days of practice began. Given \nthe colorful cast, I braced myself for \nplenty of trouble, but—"
+      "text": "And so, the days of practice began. Given \nthe colorful cast, I braced myself for \nplenty of trouble, but—",
+      "choice_data_list": [
+        "If I'm doing this, I'll give it my all!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -104,7 +117,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "It has to be Cheval-chi, or no deal!!"
+      "text": "It has to be Cheval-chi, or no deal!!",
+      "choice_data_list": [
+        "Huh?! No, that's not—"
+      ]
     },
     {
       "name": "Vivlos",
@@ -135,7 +151,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "Heeey, wanna go~? To this sweets buffet! \nThe theme is 'Witches' Gathering', you \nknow?"
+      "text": "Heeey, wanna go~? To this sweets buffet! \nThe theme is 'Witches' Gathering', you \nknow?",
+      "choice_data_list": [
+        "You two, stop fighting—!"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -168,12 +187,15 @@
       "name": "Narrator",
       "text": "Just like that, every time trouble seemed \nabout to erupt, Vivlos managed to resolve \nit.",
       "choice_data_list": [
-        "(Could she be acting like that on \npurpose—)"
+        "(Another trouble settled...)"
       ]
     },
     {
       "name": "Vivlos",
-      "text": "I wanna go soon~! Can practice be over \nnow? No? Pleeease, why not~?"
+      "text": "I wanna go soon~! Can practice be over \nnow? No? Pleeease, why not~?",
+      "choice_data_list": [
+        "(Don't tell me she acted that way on purpose—)"
+      ]
     },
     {
       "name": "Narrator",
@@ -192,14 +214,19 @@
       "name": "Vivlos",
       "text": "...?? What is it, Manager? Why are you \nstaring at me like that?",
       "choice_data_list": [
-        "I was just thinking the team's doing great \nthanks to you.",
-        "I was just thinking the team's doing great \nthanks to you.",
-        "I was just thinking how good you are at \nacting cute."
+        "I was just thinking the team's doing so well thanks to you.",
+        "Thanks to you, the team is running smoothly.",
+        "I was just thinking about how good you are at getting pampered."
       ]
     },
     {
       "name": "Vivlos",
-      "text": "Yay, that makes me happy♡ Even though I \nhaven't done anything♪"
+      "text": "Yay, that makes me happy♡ Even though I \nhaven't done anything♪",
+      "choice_data_list": [
+        "I was just thinking the team's doing so well thanks to you.",
+        "Thanks to you, the team is running smoothly.",
+        "I was just thinking about how good you are at getting pampered."
+      ]
     },
     {
       "name": "Fine Motion",

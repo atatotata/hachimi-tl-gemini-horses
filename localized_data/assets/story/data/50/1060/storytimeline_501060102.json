@@ -19,7 +19,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Under any circumstances, health is\nwealth. I wish\nfor Nice Nature's good\nhealth so that she can run\nthroughout\nthe year."
+      "text": "Under any circumstances, health is\nwealth. I wish\nfor Nice Nature's good\nhealth so that she can run\nthroughout\nthe year.",
+      "choice_data_list": [
+        "May Nice Nature stay healthy.",
+        "May Nice Nature get even stronger.",
+        "May Nice Nature gain more special skills."
+      ]
     },
     {
       "name": "Monologue",
@@ -43,11 +48,18 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Then... for a bigger paycheck? For a\nhouse? What\nwas it?"
+      "text": "Then... for a bigger paycheck? For a\nhouse? What\nwas it?",
+      "choice_data_list": [
+        "That's not it."
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "I was praying for you.",
+        "I was making a wish for you."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -63,7 +75,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "T-top priority?! Me?"
+      "text": "T-top priority?! Me?",
+      "choice_data_list": [
+        "Right now, your success comes first!",
+        "Right now, your success comes first!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -75,7 +91,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ah! Right. The Arima Kinen..."
+      "text": "Ah! Right. The Arima Kinen...",
+      "choice_data_list": [
+        "We've got a big goal ahead, too.",
+        "We've got a big goal ahead, too, right?"
+      ]
     },
     {
       "name": "Nice Nature",

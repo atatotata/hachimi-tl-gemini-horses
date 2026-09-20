@@ -34,7 +34,11 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Now then, a \"King's Showdown,\" was it? How \nshould we proceed—"
+      "text": "Now then, a \"King's Showdown,\" was it? How \nshould we proceed—",
+      "choice_data_list": [
+        "Wait, me!?",
+        "Wait, me?!"
+      ]
     },
     {
       "name": "Subjects",
@@ -55,12 +59,15 @@
       "name": "Gold Ship",
       "text": "Ya think~~? Then wouldn't anyone having a \nbirthday be a king too?! Are you saying \nSanta can't be a king?!",
       "choice_data_list": [
-        "N-Now, now..."
+        "Being showered with gifts definitely feels fit for a king, I suppose."
       ]
     },
     {
       "name": "Orfevre",
-      "text": "...Thou over there. That in thy hands is a \ntribute meant for Us, is it not? Why dost \nthou hesitate to present it?"
+      "text": "...Thou over there. That in thy hands is a \ntribute meant for Us, is it not? Why dost \nthou hesitate to present it?",
+      "choice_data_list": [
+        "N-Now, now..."
+      ]
     },
     {
       "name": "Timid Subject",
@@ -100,7 +107,11 @@
     },
     {
       "name": "Orfevre",
-      "text": "—A king is one who possesses true power."
+      "text": "—A king is one who possesses true power.",
+      "choice_data_list": [
+        "An invoice might not make for much of a gift...",
+        "A bill might not make for much of a gift..."
+      ]
     },
     {
       "name": "Orfevre",
@@ -127,7 +138,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Star Light, Shootin' Star, and then— BAM! \nGrand Cross Pose!"
+      "text": "Star Light, Shootin' Star, and then— BAM! \nGrand Cross Pose!",
+      "choice_data_list": [
+        "True... So, what is Gold Ship doing—"
+      ]
     },
     {
       "name": "Onlooker Horse Girls",
@@ -179,25 +193,28 @@
       "name": "Dream Journey",
       "text": "Fufu... Indeed. Keeping a wide watch and \nguiding others along a righteous path—at \nthe very least, she seems to understand \nthe qualities a king must possess.",
       "choice_data_list": [
-        "Maybe she really could become a great \nking.",
-        "She could just say it a bit more \nstraightforwardly.",
-        "Are you still continuing this \"King's \nShowdown\"?",
-        "Are you still continuing this \"King's \nShowdown\"?"
+        "...Huh? If you listen closely, are they complimenting you?"
       ]
     },
     {
       "name": "Dream Journey",
       "text": "Fufu... Indeed. Keeping a wide watch and \nguiding others along a righteous path—at \nthe very least, she seems to understand \nthe qualities a king must possess.",
       "choice_data_list": [
-        "Maybe she really could become a great \nking.",
-        "She could just say it a bit more \nstraightforwardly.",
-        "Are you still continuing this \"King's \nShowdown\"?",
-        "Are you still continuing this \"King's \nShowdown\"?"
+        "You might really become a great king.",
+        "You could just be more honest about it.",
+        "Are you still doing that \"King's Game\"?",
+        "Are you still playing that \"King's Game\"?"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Like I said, not happening. All I wanted \nwas the title of King... Wait a second, \nwhy did I even want that junk in the first \nplace?"
+      "text": "Like I said, not happening. All I wanted \nwas the title of King... Wait a second, \nwhy did I even want that junk in the first \nplace?",
+      "choice_data_list": [
+        "You might really become a great king.",
+        "You could just be more honest about it.",
+        "Are you still doing that \"King's Game\"?",
+        "Are you still playing that \"King's Game\"?"
+      ]
     },
     {
       "name": "Gold Ship",

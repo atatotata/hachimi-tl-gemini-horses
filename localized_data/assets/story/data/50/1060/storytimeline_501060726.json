@@ -11,7 +11,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I just saw the new prizes in that claw\nmachine over\nthere."
+      "text": "I just saw the new prizes in that claw\nmachine over\nthere.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Monologue",
@@ -27,11 +31,19 @@
     },
     {
       "name": "Nice Nature",
-      "text": "What? No, it's okay, really!"
+      "text": "What? No, it's okay, really!",
+      "choice_data_list": [
+        "I'll go grab it.",
+        "I'll go get it."
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "You want one that badly? You have\ninteresting\ntaste."
+      "text": "You want one that badly? You have\ninteresting\ntaste.",
+      "choice_data_list": [
+        "I want to get it.",
+        "I want to be the one to get it."
+      ]
     },
     {
       "name": "Nice Nature",

@@ -35,11 +35,18 @@
     },
     {
       "name": "Gold City",
-      "text": "Trainer?! What are you doing here?"
+      "text": "Trainer?! What are you doing here?",
+      "choice_data_list": [
+        "Please wait!!"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "It's not like we needed you to swoop in\nand save\nus..."
+      "text": "It's not like we needed you to swoop in\nand save\nus...",
+      "choice_data_list": [
+        "Because you looked like you were in trouble.",
+        "Because you looked like you were having trouble"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -59,11 +66,17 @@
     },
     {
       "name": "Gold City",
-      "text": "Huh? What are you apologizing for?!"
+      "text": "Huh? What are you apologizing for?!",
+      "choice_data_list": [
+        "Please accept my sincerest apologies."
+      ]
     },
     {
       "name": "Elderly Bookstore Owner",
-      "text": "Check? Check what?"
+      "text": "Check? Check what?",
+      "choice_data_list": [
+        "I will take responsibility, but please let me confirm first."
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +100,10 @@
     },
     {
       "name": "Elderly Bookstore Owner",
-      "text": "I should apologize to you two as well. It\nwas\nchildish of me to get so worked\nup—I wasn't\nlistening properly to what\nyou said."
+      "text": "I should apologize to you two as well. It\nwas\nchildish of me to get so worked\nup—I wasn't\nlistening properly to what\nyou said.",
+      "choice_data_list": [
+        "I'm glad the real culprit was found."
+      ]
     },
     {
       "name": "Elderly Bookstore Owner",
@@ -119,7 +135,11 @@
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "You're welcome.",
+        "Did that earn your respect?"
+      ]
     },
     {
       "name": "Gold City",
@@ -139,7 +159,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Ew... You're so done."
+      "text": "Ew... You're so done.",
+      "choice_data_list": [
+        "A box of sweets to sweeten the debt...?"
+      ]
     },
     {
       "name": "Monologue",

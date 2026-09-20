@@ -11,7 +11,10 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Y-yes... I just arrived here from out of\ntown\ntoday..."
+      "text": "Y-yes... I just arrived here from out of\ntown\ntoday...",
+      "choice_data_list": [
+        "Are you lost?"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -39,7 +42,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Yeah, ya gotta know where the library is\nto study!"
+      "text": "Yeah, ya gotta know where the library is\nto study!",
+      "choice_data_list": [
+        "A tour, like the library?",
+        "A tour, like the gym?"
+      ]
     },
     {
       "name": "Tamamo Cross",

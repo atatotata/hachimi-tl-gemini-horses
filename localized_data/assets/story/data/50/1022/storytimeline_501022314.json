@@ -55,15 +55,26 @@
     },
     {
       "name": "Fine Motion",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Welcome back, Fine."
+      ]
     },
     {
       "name": "Fine Motion",
-      "text": "Pardon?"
+      "text": "Pardon?",
+      "choice_data_list": [
+        "What shall we do tomorrow?",
+        "What should we do tomorrow?"
+      ]
     },
     {
       "name": "Fine Motion",
-      "text": "...!\nYou're right."
+      "text": "...!\nYou're right.",
+      "choice_data_list": [
+        "There's still time, isn't there?",
+        "We still have time, don't we?"
+      ]
     },
     {
       "name": "Fine Motion",

@@ -19,11 +19,21 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Maybe this truly is as good as I'll ever\nbe."
+      "text": "Maybe this truly is as good as I'll ever\nbe.",
+      "choice_data_list": [
+        "Don't worry, you can become even stronger.",
+        "Don't worry, you can become even stronger.",
+        "Then, are you giving up?"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "...Do you really believe that?"
+      "text": "...Do you really believe that?",
+      "choice_data_list": [
+        "Don't worry, you can become even stronger.",
+        "Don't worry, you can become even stronger.",
+        "Then, are you giving up?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -35,7 +45,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "You can do it!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -51,7 +64,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Okay... Thank you. I won't forget what\nyou just\nsaid."
+      "text": "Okay... Thank you. I won't forget what\nyou just\nsaid.",
+      "choice_data_list": [
+        "Of course!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -59,7 +75,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Yeah, you're right..."
+      "text": "Yeah, you're right...",
+      "choice_data_list": [
+        "You can't do that, can you?",
+        "You can't do that, can you?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -79,7 +99,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Okay!"
+      "text": "Okay!",
+      "choice_data_list": [
+        "Let's keep moving forward, one step at a time!"
+      ]
     }
   ]
 }

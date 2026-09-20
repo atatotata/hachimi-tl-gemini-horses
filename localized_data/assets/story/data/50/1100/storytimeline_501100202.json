@@ -55,7 +55,10 @@
     },
     {
       "name": "Retired Trainer",
-      "text": "Yes, I am. Sorry again about before."
+      "text": "Yes, I am. Sorry again about before.",
+      "choice_data_list": [
+        "So you were a Trainer."
+      ]
     },
     {
       "name": "Retired Trainer",
@@ -123,7 +126,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Of course I'll be watching her. Me and\nthat other\ntrainer both."
+      "text": "Of course I'll be watching her. Me and\nthat other\ntrainer both.",
+      "choice_data_list": [
+        "...Yeah.",
+        "...Yeah."
+      ]
     }
   ]
 }

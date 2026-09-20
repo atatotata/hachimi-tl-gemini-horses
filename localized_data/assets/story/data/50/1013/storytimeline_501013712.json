@@ -11,7 +11,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Eek! Trainer?!"
+      "text": "Eek! Trainer?!",
+      "choice_data_list": [
+        "Found it!"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -19,7 +22,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...Ahhh!"
+      "text": "...Ahhh!",
+      "choice_data_list": [
+        "Haven't forgotten about training, have you?",
+        "Haven't forgotten about training, have you?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -27,11 +34,18 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Oh... N-nothing! I'm terribly sorry..."
+      "text": "Oh... N-nothing! I'm terribly sorry...",
+      "choice_data_list": [
+        "A consecutive hitting streak record...?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes... I shall practice self-discipline and\nrecover\nfrom this blunder!"
+      "text": "Yes... I shall practice self-discipline and\nrecover\nfrom this blunder!",
+      "choice_data_list": [
+        "Let's be careful next time.",
+        "Let's be careful next time, okay?"
+      ]
     }
   ]
 }

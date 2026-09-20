@@ -31,7 +31,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Ah, nothin'. Oguri just had herself some\nweird\ndream is all."
+      "text": "Ah, nothin'. Oguri just had herself some\nweird\ndream is all.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -83,11 +87,17 @@
     },
     {
       "name": "Inari One",
-      "text": "What kinda anythin'?"
+      "text": "What kinda anythin'?",
+      "choice_data_list": [
+        "Since you have the chance, why not have them do something for you?"
+      ]
     },
     {
       "name": "Oguri and Inari",
-      "text": "Huh?!"
+      "text": "Huh?!",
+      "choice_data_list": [
+        "Maybe ask them to share one of their side dishes...?"
+      ]
     },
     {
       "name": "Tamamo Cross",

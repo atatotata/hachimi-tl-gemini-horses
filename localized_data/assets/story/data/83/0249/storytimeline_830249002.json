@@ -23,7 +23,11 @@
     },
     {
       "name": "Furioso",
-      "text": "......Kh."
+      "text": "......Kh.",
+      "choice_data_list": [
+        "C-Calm down, both of you!",
+        "C-Calm down, both of you!"
+      ]
     },
     {
       "name": "Horse Girl A",
@@ -119,7 +123,11 @@
     },
     {
       "name": "Transcend",
-      "text": "Whoa! Are you sure you can give us this \nmuch?! As expected of Furi's hometown, so \ngenerous~♪"
+      "text": "Whoa! Are you sure you can give us this \nmuch?! As expected of Furi's hometown, so \ngenerous~♪",
+      "choice_data_list": [
+        "A coincidence, huh...?",
+        "A coincidence, huh...?"
+      ]
     },
     {
       "name": "Transcend",
@@ -192,14 +200,20 @@
       "text": "Started with hometown pride, resolved with \nhometown pride. A clean and tidy \nconclusion, wouldn't you say?",
       "choice_data_list": [
         "That was quite an undertaking.",
-        "That was quite an undertaking.",
-        "Why don't you join in on the feast too?",
-        "Why don't you join in on the feast too?"
+        "That was quite an undertaking, wasn't it?",
+        "Why don't you join in and have some too?",
+        "Why don't you have some too?"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Ahaha, well, I did rope you into carrying \nthe luggage, Trainer-chan."
+      "text": "Ahaha, well, I did rope you into carrying \nthe luggage, Trainer-chan.",
+      "choice_data_list": [
+        "That was quite an undertaking.",
+        "That was quite an undertaking, wasn't it?",
+        "Why don't you join in and have some too?",
+        "Why don't you have some too?"
+      ]
     },
     {
       "name": "Transcend",

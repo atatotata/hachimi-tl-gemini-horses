@@ -15,7 +15,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It's time to train for the next race."
+      "text": "It's time to train for the next race.",
+      "choice_data_list": [
+        "(Let's just ride this wave for now!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -59,7 +62,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "The race is on! Try to keep up with my\n\nafterimages, slowpoke!"
+      "text": "The race is on! Try to keep up with my\n\nafterimages, slowpoke!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Monologue",
@@ -239,7 +245,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Guess I should let the cat outta the\nbag... But this\ninformation's for your ears\nonly, okay?"
+      "text": "Guess I should let the cat outta the\nbag... But this\ninformation's for your ears\nonly, okay?",
+      "choice_data_list": [
+        "Well, something like that."
+      ]
     },
     {
       "name": "Gold Ship",

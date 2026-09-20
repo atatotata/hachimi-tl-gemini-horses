@@ -17,14 +17,16 @@
       "name": "No Reason",
       "text": "That's exactly it! Ugh... what a \nformidable bunch...!",
       "choice_data_list": [
-        "Maybe we should hold off on training...",
-        "Maybe we should take it easy on \ntraining..."
+        "Do you have a headache, by any chance?"
       ]
     },
     {
       "name": "No Reason",
       "text": "Nay! That alone must be avoided!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Maybe we should hold off on training...",
+        "Maybe we should hold off on training...?"
+      ]
     },
     {
       "name": "No Reason",
@@ -36,7 +38,9 @@
     {
       "name": "No Reason",
       "text": "Do not rush! It is precisely at times like \nthis that we must stay calm and devise a \nstrategy to fend off the enemy's attack!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Still, we can't just keep training like this..."
+      ]
     },
     {
       "name": "No Reason",

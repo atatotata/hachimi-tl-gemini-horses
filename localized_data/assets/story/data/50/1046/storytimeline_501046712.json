@@ -15,7 +15,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Oh, hey, Trainer! Yeah, I'm in a fabulous\nmood!"
+      "text": "Oh, hey, Trainer! Yeah, I'm in a fabulous\nmood!",
+      "choice_data_list": [
+        "You're in quite a good mood.",
+        "You're in quite a good mood, aren't you."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Ah!"
+      "text": "Ah!",
+      "choice_data_list": [
+        "...Enough to make you forget about training?"
+      ]
     },
     {
       "name": "Smart Falcon",

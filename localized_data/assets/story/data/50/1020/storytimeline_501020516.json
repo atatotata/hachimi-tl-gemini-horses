@@ -15,7 +15,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh hey, Trainer. We're just having an\noutdoor tea\nceremony."
+      "text": "Oh hey, Trainer. We're just having an\noutdoor tea\nceremony.",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "There's nothing like kicking back in\nnature.\nOutdoor tea parties are the best."
+      "text": "There's nothing like kicking back in\nnature.\nOutdoor tea parties are the best.",
+      "choice_data_list": [
+        "In that case, I'd love to!"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -47,11 +54,18 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "All right, all right. Sheesh. Hey, as long\nas I burn\nthe calories later, there's no\nharm."
+      "text": "All right, all right. Sheesh. Hey, as long\nas I burn\nthe calories later, there's no\nharm.",
+      "choice_data_list": [
+        "Careful not to overeat!",
+        "You really can't stop once you start, huh?"
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Urgh..."
+      "text": "Urgh...",
+      "choice_data_list": [
+        "Then you'd better cut back on slacking off."
+      ]
     },
     {
       "name": "Grass Wonder",

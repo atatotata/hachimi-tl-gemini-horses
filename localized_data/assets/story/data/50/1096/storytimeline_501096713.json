@@ -17,13 +17,15 @@
       "name": "No Reason",
       "text": "Salt, then?",
       "choice_data_list": [
-        "That'll only make it worse!"
+        "Licking it won't make it heal, you know."
       ]
     },
     {
       "name": "No Reason",
       "text": "\"Wahahaha! Just a joke, just a joke.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That'll only make it worse!"
+      ]
     },
     {
       "name": "No Reason",
@@ -51,7 +53,10 @@
     {
       "name": "No Reason",
       "text": "That may be so, but... I really think I \ncan still run just fine, though...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're not fully healed yet, so let's hold off.",
+        "We really shouldn't let our guard down, but..."
+      ]
     },
     {
       "name": "No Reason",
@@ -78,7 +83,9 @@
     {
       "name": "No Reason",
       "text": "That's the spirit! Alright! Let's get \ngoing then!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Got it. Let's try adjusting it."
+      ]
     },
     {
       "name": "Narrator",
@@ -95,7 +102,9 @@
     {
       "name": "No Reason",
       "text": "It was heavier than I thought, eh... The \npain's gone and flared up again.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No Reason!"
+      ]
     },
     {
       "name": "No Reason",

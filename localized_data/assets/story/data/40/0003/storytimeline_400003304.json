@@ -19,7 +19,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Oh, Trainer! Didn't see you there."
+      "text": "Oh, Trainer! Didn't see you there.",
+      "choice_data_list": [
+        "Handling an interview?"
+      ]
     },
     {
       "name": "Light Hello",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Not at all! It's the least I can do."
+      "text": "Not at all! It's the least I can do.",
+      "choice_data_list": [
+        "Aren't you packing too much in...?"
+      ]
     },
     {
       "name": "Light Hello",
@@ -43,11 +49,21 @@
     },
     {
       "name": "Monologue",
-      "text": "I can see the determination in her eyes."
+      "text": "I can see the determination in her eyes.",
+      "choice_data_list": [
+        "I'll go buy some drinks for our break.",
+        "I'll come along too!",
+        "I'll come along too!"
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "O-oh, no, you really don't have to! I can\nget\nsomething myse—"
+      "text": "O-oh, no, you really don't have to! I can\nget\nsomething myse—",
+      "choice_data_list": [
+        "I'll go buy some drinks for our break.",
+        "I'll come along too!",
+        "I'll come along too!"
+      ]
     },
     {
       "name": "Light Hello",
@@ -59,7 +75,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "...Thank you."
+      "text": "...Thank you.",
+      "choice_data_list": [
+        "I'll go get some throat lozenges too."
+      ]
     },
     {
       "name": "Light Hello",
@@ -67,7 +86,10 @@
     },
     {
       "name": "Reporter",
-      "text": "Excuse me? Hi, I'm with Turbo Turf\nWEB..."
+      "text": "Excuse me? Hi, I'm with Turbo Turf\nWEB...",
+      "choice_data_list": [
+        "Don't mention it at all."
+      ]
     },
     {
       "name": "Light Hello",
@@ -95,7 +117,11 @@
     },
     {
       "name": "Light Hello",
-      "text": "...Right, how could I forget? You know\nthe girls\nfar better than me!"
+      "text": "...Right, how could I forget? You know\nthe girls\nfar better than me!",
+      "choice_data_list": [
+        "I wanted to share their appeal with everyone too.",
+        "I want to share their charm too."
+      ]
     },
     {
       "name": "Reporter",
@@ -131,7 +157,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Yes! I want to do everything I can!"
+      "text": "Yes! I want to do everything I can!",
+      "choice_data_list": [
+        "Wait, you have another interview tomorrow!?"
+      ]
     },
     {
       "name": "Monologue",

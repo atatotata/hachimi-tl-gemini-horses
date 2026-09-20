@@ -10,7 +10,10 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "...Huh? Ah... hello."
+      "text": "...Huh? Ah... hello.",
+      "choice_data_list": [
+        "...Th-thanks."
+      ]
     },
     {
       "name": "Narrator",
@@ -25,7 +28,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Through the lounge window, I could see two \nhorse girls. They were too far away to \nhear what they were saying... but it was \nquite an unusual pair."
+      "text": "Through the lounge window, I could see two \nhorse girls. They were too far away to \nhear what they were saying... but it was \nquite an unusual pair.",
+      "choice_data_list": [
+        "Hm?"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -101,7 +107,11 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "They suddenly smashed the fence..."
+      "text": "They suddenly smashed the fence...",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-Yeah..."
+      ]
     },
     {
       "name": "Fellow Trainer",
@@ -116,7 +126,10 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "Pfft, ahahaha! That sums it up perfectly. \n...Come to think of it, the girl I'm \ntraining—"
+      "text": "Pfft, ahahaha! That sums it up perfectly. \n...Come to think of it, the girl I'm \ntraining—",
+      "choice_data_list": [
+        "Th-That's way too mysterious...!!"
+      ]
     },
     {
       "name": "Narrator",
@@ -143,14 +156,19 @@
       "name": "Copano Rickey",
       "text": "I almost lost one out of my 50 colors of \nhandkerchiefs~",
       "choice_data_list": [
-        "You have 50 colors of handkerchiefs?!",
-        "...What happens if one goes missing?",
-        "...What happens if one goes missing?"
+        "Handkerchiefs in fifty different colors?!",
+        "...What happens if it gets chipped?",
+        "...What happens if it chips?"
       ]
     },
     {
       "name": "Copano Rickey",
-      "text": "Yep! Lucky colors come in tons of \nvarieties! Honestly, I'd want 5,000 \ncolors, but that'd cause trouble for my \nroommate, you know?"
+      "text": "Yep! Lucky colors come in tons of \nvarieties! Honestly, I'd want 5,000 \ncolors, but that'd cause trouble for my \nroommate, you know?",
+      "choice_data_list": [
+        "Handkerchiefs in fifty different colors?!",
+        "...What happens if it gets chipped?",
+        "...What happens if it chips?"
+      ]
     },
     {
       "name": "Narrator",

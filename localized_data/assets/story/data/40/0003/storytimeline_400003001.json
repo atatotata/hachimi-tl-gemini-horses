@@ -27,7 +27,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Well, probably because the Twinkle\nSeries has\ngrown a lot since then."
+      "text": "Well, probably because the Twinkle\nSeries has\ngrown a lot since then.",
+      "choice_data_list": [
+        "But why aren't you doing it now?"
+      ]
     },
     {
       "name": "Light Hello",
@@ -143,7 +146,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Really? Thank you so much!"
+      "text": "Really? Thank you so much!",
+      "choice_data_list": [
+        "I see..."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -183,7 +189,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Unfortunately, I couldn't get the stage\nhere, since\nit's not a school event, but..."
+      "text": "Unfortunately, I couldn't get the stage\nhere, since\nit's not a school event, but...",
+      "choice_data_list": [
+        "So fast!!"
+      ]
     },
     {
       "name": "Light Hello",
@@ -215,11 +224,19 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Wait, really? Are you sure?"
+      "text": "Wait, really? Are you sure?",
+      "choice_data_list": [
+        "I'll handle adjusting the schedule and stuff.",
+        "I'll handle adjusting the schedule and stuff."
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Thanks a bunch!"
+      "text": "Thanks a bunch!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Light Hello",
@@ -227,7 +244,10 @@
     },
     {
       "name": "Both",
-      "text": "Woo!"
+      "text": "Woo!",
+      "choice_data_list": [
+        "Let's all do our best together!"
+      ]
     },
     {
       "name": "Monologue",

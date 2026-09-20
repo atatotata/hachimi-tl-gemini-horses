@@ -19,7 +19,11 @@
     },
     {
       "name": "Satono Crown",
-      "text": "Yes, definitely. It's a program filled \nwith memories for both of us!"
+      "text": "Yes, definitely. It's a program filled \nwith memories for both of us!",
+      "choice_data_list": [
+        "Looks like you're having fun. Is the show that good?",
+        "Looks like you're having fun. Is the show that good?"
+      ]
     },
     {
       "name": "Duramente",
@@ -135,7 +139,11 @@
     },
     {
       "name": "Duramente",
-      "text": "Yeah. ...Strangely enough, it feels like a \nvery long time ago."
+      "text": "Yeah. ...Strangely enough, it feels like a \nvery long time ago.",
+      "choice_data_list": [
+        "There was a time like that, huh...",
+        "There was a time like that, wasn't there..."
+      ]
     }
   ]
 }

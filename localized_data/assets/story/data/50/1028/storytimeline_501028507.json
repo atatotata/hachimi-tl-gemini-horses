@@ -11,7 +11,10 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ehehe... So actually, I got this letter in\nthe mail..."
+      "text": "Ehehe... So actually, I got this letter in\nthe mail...",
+      "choice_data_list": [
+        "I don't think so, but... why?"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -27,7 +30,11 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Oh, really? Well, I guess I can't anyway\nif there\naren't any heated delivery\nservices around."
+      "text": "Oh, really? Well, I guess I can't anyway\nif there\naren't any heated delivery\nservices around.",
+      "choice_data_list": [
+        "Won't it cause trouble if they send that to you...?",
+        "Are you sure it won't be a problem if they send that to you...?"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -39,7 +46,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I hastily stop Hishi Akebono before she\nruns off.\nShe might have a big appetite,\nbut it looks like\nthat fan letter has filled\nher right up with\nhappiness."
+      "text": "I hastily stop Hishi Akebono before she\nruns off.\nShe might have a big appetite,\nbut it looks like\nthat fan letter has filled\nher right up with\nhappiness.",
+      "choice_data_list": [
+        "Let's just give a normal reply!",
+        "Let's stick to a normal reply!"
+      ]
     }
   ]
 }

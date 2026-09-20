@@ -188,21 +188,24 @@
       "name": "Narrator",
       "text": "It's on the longer side distance-wise, \nwhich suits Cheval Grand. Besides, there's \nno reason to put the brakes on this \nmotivation of hers.",
       "choice_data_list": [
-        "In exchange—"
+        "Yeah, I think that's a good idea.",
+        "Yeah, I think that's a good idea."
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "Yes...?",
       "choice_data_list": [
-        "We're gonna train hard this summer!",
-        "We're going to train hard this summer!"
+        "In exchange—"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "Ah, yes...! Yes, um, gladly...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We're going to drill hard this summer!",
+        "I'm not going easy on you this summer!"
+      ]
     },
     {
       "name": "Cheval Grand",

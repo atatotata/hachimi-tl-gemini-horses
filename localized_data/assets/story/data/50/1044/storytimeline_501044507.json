@@ -35,7 +35,10 @@
     },
     {
       "name": "Woman A",
-      "text": "Ah, I'm so thirsty. I think I'll have myself\na sip of\nwater from my trusty water\nbottle!"
+      "text": "Ah, I'm so thirsty. I think I'll have myself\na sip of\nwater from my trusty water\nbottle!",
+      "choice_data_list": [
+        "Huh? Isn't that the person from earlier...?"
+      ]
     },
     {
       "name": "Woman A",
@@ -59,7 +62,11 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "I can't believe she went through all the\ntrouble of\nwriting me a magic letter!"
+      "text": "I can't believe she went through all the\ntrouble of\nwriting me a magic letter!",
+      "choice_data_list": [
+        "It's a fan letter!",
+        "It's a fan letter!"
+      ]
     },
     {
       "name": "Sweep Tosho",

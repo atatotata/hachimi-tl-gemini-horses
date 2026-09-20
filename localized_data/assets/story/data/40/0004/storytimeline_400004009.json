@@ -19,7 +19,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Another Tracen Academy trainer, the\nstrict but\naccomplished Riko Kashimoto,\napproaches us\nlooking a little exhausted."
+      "text": "Another Tracen Academy trainer, the\nstrict but\naccomplished Riko Kashimoto,\napproaches us\nlooking a little exhausted.",
+      "choice_data_list": [
+        "'We'?"
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -35,7 +38,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Well..."
+      "text": "Well...",
+      "choice_data_list": [
+        "Did something happen?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -119,7 +125,10 @@
     },
     {
       "name": "Both",
-      "text": "...Yes."
+      "text": "...Yes.",
+      "choice_data_list": [
+        "I see, so that's why you sprinted at full speed."
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -131,7 +140,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Your training regimen today was\nspectacular! And\nI'm not just talking\nabout your lap times."
+      "text": "Your training regimen today was\nspectacular! And\nI'm not just talking\nabout your lap times.",
+      "choice_data_list": [
+        "Yes?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -143,7 +155,10 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "That said, I don't believe you have us\nbeat on\nthat front. I, too, have traveled\nthis long journey\nalongside my partners."
+      "text": "That said, I don't believe you have us\nbeat on\nthat front. I, too, have traveled\nthis long journey\nalongside my partners.",
+      "choice_data_list": [
+        "I-I'm so honored!"
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -163,11 +178,17 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "What about you, Trainer\n\n<username>? Do\nyou believe\nin your partner?"
+      "text": "What about you, Trainer\n\n<username>? Do\nyou believe\nin your partner?",
+      "choice_data_list": [
+        "Trainer Kiryuin..."
+      ]
     },
     {
       "name": "Riko Kashimoto",
-      "text": "...I guess that was a pointless question."
+      "text": "...I guess that was a pointless question.",
+      "choice_data_list": [
+        "I have no intention of losing when it comes to having faith."
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -175,7 +196,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Tonight, as we wish each other luck, I\nrenew my\nfaith in <chrname>\nand resolve to do\nmy best!"
+      "text": "Tonight, as we wish each other luck, I\nrenew my\nfaith in <chrname>\nand resolve to do\nmy best!",
+      "choice_data_list": [
+        "Yes, you too!"
+      ]
     }
   ]
 }

@@ -115,11 +115,18 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hm? Yes?"
+      "text": "Hm? Yes?",
+      "choice_data_list": [
+        "...Suzuka!"
+      ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Thank you very much. I'm doing very\nwell right\nnow, so I think I'll be just fine."
+      "text": "Thank you very much. I'm doing very\nwell right\nnow, so I think I'll be just fine.",
+      "choice_data_list": [
+        "Do your best. Don't push yourself too hard.",
+        "Do your best. Don't push yourself too hard."
+      ]
     },
     {
       "name": "Monologue",

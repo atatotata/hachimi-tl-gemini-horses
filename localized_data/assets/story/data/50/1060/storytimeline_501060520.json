@@ -11,7 +11,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "It's just terrible, Trainer!"
+      "text": "It's just terrible, Trainer!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -43,7 +47,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Hush, you! Don't think, feel!"
+      "text": "Hush, you! Don't think, feel!",
+      "choice_data_list": [
+        "With that name, the grammar is——"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -71,11 +78,21 @@
     },
     {
       "name": "",
-      "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\nleg cornets... If\nthat's the case..."
+      "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\nleg cornets... If\nthat's the case...",
+      "choice_data_list": [
+        "First, we need to come up with a strategy.",
+        "Sounds great! Time for some intense training!",
+        "Sounds good! Special training is the only way!"
+      ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "That's right! What a ravishingly\nintellectual\nanswer!"
+      "text": "That's right! What a ravishingly\nintellectual\nanswer!",
+      "choice_data_list": [
+        "First, we need to come up with a strategy.",
+        "Sounds great! Time for some intense training!",
+        "Sounds good! Special training is the only way!"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -99,7 +116,11 @@
     },
     {
       "name": "",
-      "text": "That's true in races as well. It can be a\ndisaster if\nrunners lose their rhythm or\ntry to pass and get\nblocked."
+      "text": "That's true in races as well. It can be a\ndisaster if\nrunners lose their rhythm or\ntry to pass and get\nblocked.",
+      "choice_data_list": [
+        "True, reading the state of the race is important.",
+        "True, reading the state of the race is important."
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -131,7 +152,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful."
+      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+      "choice_data_list": [
+        "Thanks, Worldwide Windy!"
+      ]
     },
     {
       "name": "",
@@ -175,7 +199,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "You too?!"
+      "text": "You too?!",
+      "choice_data_list": [
+        "Take a big bite, Nature!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -203,7 +230,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful."
+      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+      "choice_data_list": [
+        "Good for you, Nature!",
+        "Good for you, Nature!"
+      ]
     },
     {
       "name": "",

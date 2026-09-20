@@ -67,7 +67,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Well, whenever I try and talk to Brian,\nshe just\ngives me a one-word answer!"
+      "text": "Well, whenever I try and talk to Brian,\nshe just\ngives me a one-word answer!",
+      "choice_data_list": [
+        "A topic?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -79,7 +82,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "That's not really a conversation topic..."
+      "text": "That's not really a conversation topic...",
+      "choice_data_list": [
+        "Let's race to the academy!",
+        "How's student council work going?"
+      ]
     },
     {
       "name": "Tokai Teio",

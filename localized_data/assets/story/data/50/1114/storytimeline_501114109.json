@@ -17,20 +17,22 @@
       "name": "Narrator",
       "text": "And on top of that, having a Trainer \npresent is mandatory. Since Buena Vista \ninvited me out, I couldn't very well \nrefuse—",
       "choice_data_list": [
-        "(I tried to tidy it up... but I wonder if \nit's okay.)"
+        "(To think there's a dress code this year...!)"
       ]
     },
     {
       "name": "Transcend",
       "text": "Alright, stooop~. Time for an inspection!",
       "choice_data_list": [
-        "Tran... Wait, that outfit—"
+        "(I tried tidying it up, but... will this be okay?)"
       ]
     },
     {
       "name": "Transcend",
       "text": "Formal attire is required, after all~ \nAnyway, putting me aside for a second.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Tran... Wait, that outfit—"
+      ]
     },
     {
       "name": "Transcend",
@@ -53,7 +55,10 @@
     {
       "name": "Narrator",
       "text": "...Was she checking on my outfit? With \nthat thought in mind, I hurriedly made my \nway to the party venue where Buena Vista \nwas waiting—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wh-What was that all about...?",
+        "Wh-What was that all about...?"
+      ]
     },
     {
       "name": "Narrator",
@@ -65,7 +70,9 @@
     {
       "name": "Narrator",
       "text": "\"Of course, I found her right away. No \nmatter how thick the crowd, her \nsunflower-like brightness is impossible to \nmiss.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Buena Vista is...)"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -82,7 +89,9 @@
     {
       "name": "Narrator",
       "text": "This was a great opportunity, and I wanted \nher to talk with all sorts of people. So \nas I watched over her from afar for a \nwhile—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She's surrounded by a crowd, as always...)"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -101,14 +110,17 @@
       "name": "Buena Vista",
       "text": "Why, you ask...? Hehe!",
       "choice_data_list": [
-        "Why are you laughing...?",
-        "Why are you laughing...?"
+        "...How did you figure it out?",
+        "...How did you notice?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "There's no way I wouldn't notice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Why are you laughing...?",
+        "Why are you laughing...?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -126,6 +138,89 @@
     {
       "name": "Buena Vista",
       "text": "Of course! Consider it a token of my daily \nappreciation...",
+      "choice_data_list": [
+        "Did you prepare this for me?",
+        "Did you get this ready for me?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Sports wear and shoes. Yellow and brown... \nI matched them using my favorite colors♪",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whenever we run the perimeter, you follow \nalong on a bike or in a car, right, \nTrainer? But... I'd be so happy if we \ncould... run at the same speed together.",
+      "choice_data_list": [
+        "...I'll do my absolute best!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu... Thank you. I know it's asking for \nthe impossible, but... will you let me \nroot for you?",
+      "choice_data_list": [
+        "...I'll do the very best I can!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by \nside, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...! You're so incredibly cool \ntoo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all \nabout riding the vibe. Don't worry about \nme—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until \nnow.",
+        "Oh yeah, thank you for everything up until \nnow."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
+      "choice_data_list": [
+        "Right, thanks for everything you've done.",
+        "Right, thanks for everything you've done."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Earlier, she checked to make sure my outfit looked fine, too...",
+        "Earlier, she checked to make sure my outfit looked fine, too..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two are way too \nperfect for each other.",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe \nwhat really matters is having hearts of \nthe same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to \na close...",
       "choice_data_list": []
     },
     {
@@ -138,83 +233,12 @@
     {
       "name": "Buena Vista",
       "text": "Sports wear and shoes. Yellow and brown... \nI matched them using my favorite colors♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Whenever we run the perimeter, you follow \nalong on a bike or in a car, right, \nTrainer? But... I'd be so happy if we \ncould... run at the same speed together.",
-      "choice_data_list": [
-        "...I'll do my absolute best!"
-      ]
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Fufu... Thank you. I know it's asking for \nthe impossible, but... will you let me \nroot for you?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Transcend",
-      "text": "Mmhmm. Seeing you two standing side by \nside, you really do make a great match.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Tran-san...! You're so incredibly cool \ntoo!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Transcend",
-      "text": "\"No, no, well, this kind of thing is all \nabout riding the vibe. Don't worry about \nme—\"",
-      "choice_data_list": [
-        "Oh yeah, thanks for everything up until \nnow.",
-        "Oh yeah, thank you for everything up until \nnow."
-      ]
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
-      "choice_data_list": [
-        "She was checking if my outfit was okay \nearlier too...",
-        "She was checking if my outfit was okay \nearlier too..."
-      ]
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
-      "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
-      ]
-    },
-    {
-      "name": "Transcend",
-      "text": "......No seriously, you two are way too \nperfect for each other.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Transcend",
-      "text": "It's not about stats or anything... maybe \nwhat really matters is having hearts of \nthe same color...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "And so, the lively Christmas night drew to \na close...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Buena Vista",
-      "text": "Merry Christmas, Trainer!",
       "choice_data_list": [
         "Does that mean..."
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Sports wear and shoes. Yellow and brown... \nI matched them using my favorite colors♪",
-      "choice_data_list": []
-    },
-    {
-      "name": "Buena Vista",
       "text": "Whenever we run the perimeter, you follow \nalong on a bike or in a car, right, \nTrainer? But... I'd be so happy if we \ncould... run at the same speed together.",
       "choice_data_list": [
         "...I'll do my absolute best!"
@@ -223,7 +247,9 @@
     {
       "name": "Buena Vista",
       "text": "Fufu... Thank you. I know it's asking for \nthe impossible, but... will you let me \nroot for you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'll do the very best I can!"
+      ]
     },
     {
       "name": "Umamusume",
@@ -246,7 +272,10 @@
     {
       "name": "Buena Vista",
       "text": "Huh... Ah, yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hey, why don't we step outside for a bit?",
+        "...Hey, let's step outside for a bit."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -260,14 +289,17 @@
       "name": "Buena Vista",
       "text": "I'm fine! I had so much fun chatting with \neveryone that my whole body still feels \nwarm inside.",
       "choice_data_list": [
-        "Well, they did seem pretty busy.",
-        "Well, they did seem pretty busy."
+        "Aren't you cold?",
+        "Aren't you cold?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, did it look like that? I just wanted \nto properly connect with everyone who \nwanted to talk with me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You did look pretty busy, after all.",
+        "You did look pretty busy, after all."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -279,7 +311,9 @@
     {
       "name": "Buena Vista",
       "text": "Didn't you notice? All the girls around us \nwere talking about it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -291,7 +325,9 @@
     {
       "name": "Buena Vista",
       "text": "I told you, didn't I? There's no trainer \nas wonderful as mine anywhere in the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, that can't be—"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -324,22 +360,24 @@
       "name": "Buena Vista",
       "text": "………… Ehh!?",
       "choice_data_list": [
-        "And then you will surely overtake me",
-        "Then you will surely overtake me"
+        "...Then maybe I'll keep them on edge a bit longer."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "You'll shine even brighter.",
-        "You will shine even brighter."
+        "And then, you'll definitely overtake me.",
+        "And then, you'll definitely overtake me."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're going to shine even brighter.",
+        "You're going to shine even brighter."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -357,7 +395,10 @@
     {
       "name": "Buena Vista",
       "text": "\"...You'll wait for me to catch you, won't \nyou?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like this'll go on for a while longer.",
+        "Looks like this'll go on for a while longer, huh."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -369,7 +410,9 @@
     {
       "name": "Buena Vista",
       "text": "I've also prepared Christmas-style hors \nd'oeuvres full of dishes that look great \nfor building stamina!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Ramen?!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -381,7 +424,9 @@
     {
       "name": "Buena Vista",
       "text": "Thank you. Eat well, build your \nstrength... and stay healthy forever!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Thanks for the food!"
+      ]
     },
     {
       "name": "Transcend",
@@ -405,22 +450,25 @@
       "name": "Buena Vista",
       "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
       "choice_data_list": [
-        "She was checking if my outfit was okay \nearlier too...",
-        "She was checking if my outfit was okay \nearlier too..."
+        "Right, thanks for everything you've done.",
+        "Right, thanks for everything you've done."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
       "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
+        "Earlier, she checked to make sure my outfit looked fine, too...",
+        "Earlier, she checked to make sure my outfit looked fine, too..."
       ]
     },
     {
       "name": "Transcend",
       "text": "......No seriously, you two are way too \nperfect for each other.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Transcend",
@@ -442,7 +490,9 @@
     {
       "name": "Buena Vista",
       "text": "I've also prepared Christmas-style hors \nd'oeuvres full of dishes that look great \nfor building stamina!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Ramen?!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -454,7 +504,9 @@
     {
       "name": "Buena Vista",
       "text": "Thank you. Eat well, build your \nstrength... and stay healthy forever!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Thanks for the food!"
+      ]
     },
     {
       "name": "Umamusume",
@@ -477,7 +529,10 @@
     {
       "name": "Buena Vista",
       "text": "Huh... Ah, yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hey, why don't we step outside for a bit?",
+        "...Hey, let's step outside for a bit."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -491,14 +546,17 @@
       "name": "Buena Vista",
       "text": "I'm fine! I had so much fun chatting with \neveryone that my whole body still feels \nwarm inside.",
       "choice_data_list": [
-        "Well, they did seem pretty busy.",
-        "Well, they did seem pretty busy."
+        "Aren't you cold?",
+        "Aren't you cold?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, did it look like that? I just wanted \nto properly connect with everyone who \nwanted to talk with me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You did look pretty busy, after all.",
+        "You did look pretty busy, after all."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -510,7 +568,9 @@
     {
       "name": "Buena Vista",
       "text": "Didn't you notice? All the girls around us \nwere talking about it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -522,7 +582,9 @@
     {
       "name": "Buena Vista",
       "text": "I told you, didn't I? There's no trainer \nas wonderful as mine anywhere in the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, that can't be—"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -555,22 +617,24 @@
       "name": "Buena Vista",
       "text": "………… Ehh!?",
       "choice_data_list": [
-        "And then you will surely overtake me",
-        "Then you will surely overtake me"
+        "...Then maybe I'll keep them on edge a bit longer."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "You'll shine even brighter.",
-        "You will shine even brighter."
+        "And then, you'll definitely overtake me.",
+        "And then, you'll definitely overtake me."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're going to shine even brighter.",
+        "You're going to shine even brighter."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -588,7 +652,10 @@
     {
       "name": "Buena Vista",
       "text": "\"...You'll wait for me to catch you, won't \nyou?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like this'll go on for a while longer.",
+        "Looks like this'll go on for a while longer, huh."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -600,7 +667,9 @@
     {
       "name": "Buena Vista",
       "text": "When I asked Ms. Gentile for advice, she \nrecommended it to me! Having strength \nbuilds confidence too, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "………………'Form'!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -613,7 +682,10 @@
     {
       "name": "Buena Vista",
       "text": "Oh, you're all motivated! I'll brainstorm \na menu too! Let's do our best together \nwith Buena Trainer♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...First step is actually lifting it, huh.",
+        "...First step is actually lifting it, right?"
+      ]
     },
     {
       "name": "Transcend",
@@ -637,22 +709,25 @@
       "name": "Buena Vista",
       "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
       "choice_data_list": [
-        "She was checking if my outfit was okay \nearlier too...",
-        "She was checking if my outfit was okay \nearlier too..."
+        "Right, thanks for everything you've done.",
+        "Right, thanks for everything you've done."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
       "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
+        "Earlier, she checked to make sure my outfit looked fine, too...",
+        "Earlier, she checked to make sure my outfit looked fine, too..."
       ]
     },
     {
       "name": "Transcend",
       "text": "......No seriously, you two are way too \nperfect for each other.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Transcend",
@@ -674,7 +749,9 @@
     {
       "name": "Buena Vista",
       "text": "When I asked Ms. Gentile for advice, she \nrecommended it to me! Having strength \nbuilds confidence too, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "………………'Form'!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -687,7 +764,10 @@
     {
       "name": "Buena Vista",
       "text": "Oh, you're all motivated! I'll brainstorm \na menu too! Let's do our best together \nwith Buena Trainer♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...First step is actually lifting it, huh.",
+        "...First step is actually lifting it, right?"
+      ]
     },
     {
       "name": "Umamusume",
@@ -710,7 +790,10 @@
     {
       "name": "Buena Vista",
       "text": "Huh... Ah, yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hey, why don't we step outside for a bit?",
+        "...Hey, let's step outside for a bit."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -724,14 +807,17 @@
       "name": "Buena Vista",
       "text": "I'm fine! I had so much fun chatting with \neveryone that my whole body still feels \nwarm inside.",
       "choice_data_list": [
-        "Well, they did seem pretty busy.",
-        "Well, they did seem pretty busy."
+        "Aren't you cold?",
+        "Aren't you cold?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, did it look like that? I just wanted \nto properly connect with everyone who \nwanted to talk with me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You did look pretty busy, after all.",
+        "You did look pretty busy, after all."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -743,7 +829,9 @@
     {
       "name": "Buena Vista",
       "text": "Didn't you notice? All the girls around us \nwere talking about it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -755,7 +843,9 @@
     {
       "name": "Buena Vista",
       "text": "I told you, didn't I? There's no trainer \nas wonderful as mine anywhere in the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, that can't be—"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -788,22 +878,24 @@
       "name": "Buena Vista",
       "text": "………… Ehh!?",
       "choice_data_list": [
-        "And then you will surely overtake me",
-        "Then you will surely overtake me"
+        "...Then maybe I'll keep them on edge a bit longer."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "You'll shine even brighter.",
-        "You will shine even brighter."
+        "And then, you'll definitely overtake me.",
+        "And then, you'll definitely overtake me."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're going to shine even brighter.",
+        "You're going to shine even brighter."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -821,7 +913,10 @@
     {
       "name": "Buena Vista",
       "text": "\"...You'll wait for me to catch you, won't \nyou?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like this'll go on for a while longer.",
+        "Looks like this'll go on for a while longer, huh."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -833,7 +928,9 @@
     {
       "name": "Buena Vista",
       "text": "I knitted a scarf. Will you accept it?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Does that mean..."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -845,7 +942,9 @@
     {
       "name": "Buena Vista",
       "text": "No, thank you for accepting it! Wrap it \ntight and stay nice and warm, okay?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks, I'll cherish it."
+      ]
     },
     {
       "name": "Transcend",
@@ -869,22 +968,25 @@
       "name": "Buena Vista",
       "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
       "choice_data_list": [
-        "She was checking if my outfit was okay \nearlier too...",
-        "She was checking if my outfit was okay \nearlier too..."
+        "Right, thanks for everything you've done.",
+        "Right, thanks for everything you've done."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
       "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
+        "Earlier, she checked to make sure my outfit looked fine, too...",
+        "Earlier, she checked to make sure my outfit looked fine, too..."
       ]
     },
     {
       "name": "Transcend",
       "text": "......No seriously, you two are way too \nperfect for each other.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Transcend",
@@ -906,7 +1008,9 @@
     {
       "name": "Buena Vista",
       "text": "I knitted a scarf. Will you accept it?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Does that mean..."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -918,7 +1022,9 @@
     {
       "name": "Buena Vista",
       "text": "No, thank you for accepting it! Wrap it \ntight and stay nice and warm, okay?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks, I'll cherish it."
+      ]
     },
     {
       "name": "Umamusume",
@@ -941,7 +1047,10 @@
     {
       "name": "Buena Vista",
       "text": "Huh... Ah, yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hey, why don't we step outside for a bit?",
+        "...Hey, let's step outside for a bit."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -955,14 +1064,17 @@
       "name": "Buena Vista",
       "text": "I'm fine! I had so much fun chatting with \neveryone that my whole body still feels \nwarm inside.",
       "choice_data_list": [
-        "Well, they did seem pretty busy.",
-        "Well, they did seem pretty busy."
+        "Aren't you cold?",
+        "Aren't you cold?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, did it look like that? I just wanted \nto properly connect with everyone who \nwanted to talk with me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You did look pretty busy, after all.",
+        "You did look pretty busy, after all."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -974,7 +1086,9 @@
     {
       "name": "Buena Vista",
       "text": "Didn't you notice? All the girls around us \nwere talking about it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -986,7 +1100,9 @@
     {
       "name": "Buena Vista",
       "text": "I told you, didn't I? There's no trainer \nas wonderful as mine anywhere in the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, that can't be—"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1019,22 +1135,24 @@
       "name": "Buena Vista",
       "text": "………… Ehh!?",
       "choice_data_list": [
-        "And then you will surely overtake me",
-        "Then you will surely overtake me"
+        "...Then maybe I'll keep them on edge a bit longer."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "You'll shine even brighter.",
-        "You will shine even brighter."
+        "And then, you'll definitely overtake me.",
+        "And then, you'll definitely overtake me."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're going to shine even brighter.",
+        "You're going to shine even brighter."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1052,7 +1170,10 @@
     {
       "name": "Buena Vista",
       "text": "\"...You'll wait for me to catch you, won't \nyou?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like this'll go on for a while longer.",
+        "Looks like this'll go on for a while longer, huh."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1064,7 +1185,9 @@
     {
       "name": "Buena Vista",
       "text": "\"Nope! It's a poetry collection by a \nGerman poet.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is that... a novel?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1076,7 +1199,9 @@
     {
       "name": "Buena Vista",
       "text": "Go right ahead! There wasn't a Japanese \ntranslation, so I worked hard to translate \nit myself. Ehehe, it took a little bit of \neffort♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks, I'll read it with care."
+      ]
     },
     {
       "name": "Transcend",
@@ -1100,22 +1225,25 @@
       "name": "Buena Vista",
       "text": "Ah! You're right, Tran-san is always \nwatching over me so kindly...!",
       "choice_data_list": [
-        "She was checking if my outfit was okay \nearlier too...",
-        "She was checking if my outfit was okay \nearlier too..."
+        "Right, thanks for everything you've done.",
+        "Right, thanks for everything you've done."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Whoa, even all the way out there! \n...You're really so kind, Tran-san!",
       "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
+        "Earlier, she checked to make sure my outfit looked fine, too...",
+        "Earlier, she checked to make sure my outfit looked fine, too..."
       ]
     },
     {
       "name": "Transcend",
       "text": "......No seriously, you two are way too \nperfect for each other.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Transcend",
@@ -1137,7 +1265,9 @@
     {
       "name": "Buena Vista",
       "text": "\"Nope! It's a poetry collection by a \nGerman poet.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is that... a novel?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1149,7 +1279,9 @@
     {
       "name": "Buena Vista",
       "text": "Go right ahead! There wasn't a Japanese \ntranslation, so I worked hard to translate \nit myself. Ehehe, it took a little bit of \neffort♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks, I'll read it with care."
+      ]
     },
     {
       "name": "Umamusume",
@@ -1172,7 +1304,10 @@
     {
       "name": "Buena Vista",
       "text": "Huh... Ah, yeah...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hey, why don't we step outside for a bit?",
+        "...Hey, let's step outside for a bit."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1186,14 +1321,17 @@
       "name": "Buena Vista",
       "text": "I'm fine! I had so much fun chatting with \neveryone that my whole body still feels \nwarm inside.",
       "choice_data_list": [
-        "Well, they did seem pretty busy.",
-        "Well, they did seem pretty busy."
+        "Aren't you cold?",
+        "Aren't you cold?"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, did it look like that? I just wanted \nto properly connect with everyone who \nwanted to talk with me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You did look pretty busy, after all.",
+        "You did look pretty busy, after all."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1205,7 +1343,9 @@
     {
       "name": "Buena Vista",
       "text": "Didn't you notice? All the girls around us \nwere talking about it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1217,7 +1357,9 @@
     {
       "name": "Buena Vista",
       "text": "I told you, didn't I? There's no trainer \nas wonderful as mine anywhere in the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, that can't be—"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1250,22 +1392,24 @@
       "name": "Buena Vista",
       "text": "………… Ehh!?",
       "choice_data_list": [
-        "And then you will surely overtake me",
-        "Then you will surely overtake me"
+        "...Then maybe I'll keep them on edge a bit longer."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "You'll shine even brighter.",
-        "You will shine even brighter."
+        "And then, you'll definitely overtake me.",
+        "And then, you'll definitely overtake me."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're going to shine even brighter.",
+        "You're going to shine even brighter."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -1283,7 +1427,10 @@
     {
       "name": "Buena Vista",
       "text": "\"...You'll wait for me to catch you, won't \nyou?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks like this'll go on for a while longer.",
+        "Looks like this'll go on for a while longer, huh."
+      ]
     }
   ]
 }

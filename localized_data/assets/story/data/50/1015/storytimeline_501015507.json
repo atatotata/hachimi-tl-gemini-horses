@@ -43,11 +43,17 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Trainer! Have you a regimen to prepare\nme for\nstriding through the stars?"
+      "text": "Trainer! Have you a regimen to prepare\nme for\nstriding through the stars?",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "Hah, I am <i>always</i> serious."
+      "text": "Hah, I am <i>always</i> serious.",
+      "choice_data_list": [
+        "Are you serious!?"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -55,7 +61,10 @@
     },
     {
       "name": "Monologue",
-      "text": "After some research, I explain what\nkinds of\nastronaut training would be\ndoable here at\nTracen Academy."
+      "text": "After some research, I explain what\nkinds of\nastronaut training would be\ndoable here at\nTracen Academy.",
+      "choice_data_list": [
+        "Outer space, though...?"
+      ]
     },
     {
       "name": "T.M. Opera O",

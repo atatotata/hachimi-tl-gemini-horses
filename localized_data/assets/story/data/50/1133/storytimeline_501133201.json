@@ -17,14 +17,16 @@
       "name": "Chrono Genesis",
       "text": "*Haa*... *haa*... *gasp*...",
       "choice_data_list": [
-        "You look wiped out. Shall we extend the \nbreak by 10 minutes?",
-        "Looks like you're having a tough time. \nShall we extend the break by 10 minutes?"
+        "All right, hold that for three seconds!"
       ]
     },
     {
       "name": "Narrator",
       "text": "Our daily fundamental training. While \naverage for an Umamusume at this stage, it \nseemed tough on Chrono Genesis.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Looks rough. Should we extend the break by ten minutes?",
+        "You look exhausted. Should we extend the break by ten minutes?"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -61,7 +63,9 @@
     {
       "name": "Chrono Genesis",
       "text": "Y-Yes. That's true... There are early \nbloomers, and there are late bloomers...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "There are just individual differences in growth."
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -118,7 +122,9 @@
     {
       "name": "Narrator",
       "text": "Chrono Genesis seems to be feeling \nimpatient.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Alright, let's work out a strategy!"
+      ]
     },
     {
       "name": "Narrator",
@@ -140,7 +146,9 @@
     {
       "name": "Narrator",
       "text": "The day of the Hanshin JF—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Speaking of what gives Chrono strength..."
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -169,13 +177,16 @@
       "name": "Chrono Genesis",
       "text": "A-An amulet...?",
       "choice_data_list": [
-        "Because I drew courage from history the \nother day."
+        "The school paper. As a good luck charm.",
+        "The school paper. As a good luck charm."
       ]
     },
     {
       "name": "Narrator",
       "text": "When I was shocked by Almond Eye's Japan \nCup result, the facts shown by history \ntaught me that there was no need to be \npessimistic.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because history gave me courage the other day."
+      ]
     },
     {
       "name": "Narrator",
@@ -188,7 +199,10 @@
     {
       "name": "Chrono Genesis",
       "text": "...! W-Well then...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "My good-luck charm. Do you want to read it too, Chrono?",
+        "It's my good luck charm. Want to read it too, Chrono?"
+      ]
     },
     {
       "name": "Writer C",

@@ -7,7 +7,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Scarlet is acting strange."
+      "text": "Scarlet is acting strange.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -47,7 +51,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "I'm sorry! I wasn't trying to make you\n\nuncomfortable!"
+      "text": "I'm sorry! I wasn't trying to make you\n\nuncomfortable!",
+      "choice_data_list": [
+        "Let's ask them directly."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
