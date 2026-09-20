@@ -166,7 +166,9 @@
     {
       "name": "Narrator",
       "text": "(*Snap!*)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Then I'll take a few! Say cheese!"
+      ]
     },
     {
       "name": "Training Club Staff",
@@ -194,14 +196,16 @@
       "name": "Narrator",
       "text": "The day after the awards ceremony. I call \nout to Espoir City on her way to school.",
       "choice_data_list": [
-        "Did you send that photo to your family \ntoo?",
-        "Did you send that photo to your family \ntoo?"
+        "Good morning, Espo!"
       ]
     },
     {
       "name": "Espoir City",
       "text": "Yeah. Sent it. ...Sent this.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Did you send that photo to your family too?",
+        "Did you send that photo to your family too?"
+      ]
     },
     {
       "name": "Narrator",
@@ -213,7 +217,9 @@
     {
       "name": "Espoir City",
       "text": "It doesn't matter if we're in the photo or \nnot.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait! Sorry! In this photo, the trophy is..."
+      ]
     },
     {
       "name": "Espoir City",

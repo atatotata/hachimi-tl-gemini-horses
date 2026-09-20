@@ -47,7 +47,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Ah, Doto's trainer... Hello there."
+      "text": "Ah, Doto's trainer... Hello there.",
+      "choice_data_list": [
+        "You're...?!",
+        "You're...?!"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +59,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Good enough to walk around, at least."
+      "text": "Good enough to walk around, at least.",
+      "choice_data_list": [
+        "Are you feeling all right?",
+        "Are you feeling all right?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -79,7 +87,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Yes. Taking a step back and viewing\nthings from\nafar might help you see\nthings you couldn't notice\nup close."
+      "text": "Yes. Taking a step back and viewing\nthings from\nafar might help you see\nthings you couldn't notice\nup close.",
+      "choice_data_list": [
+        "Something else?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -107,7 +118,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "No... nothing in particular. But..."
+      "text": "No... nothing in particular. But...",
+      "choice_data_list": [
+        "Did you figure something out?"
+      ]
     },
     {
       "name": "Admire Vega",

@@ -22,7 +22,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Mmm, what should I do~?!",
       "choice_data_list": []
     },
@@ -37,7 +37,10 @@
     {
       "name": "Smart Falcon",
       "text": "Actually, it seems the girl supposed to \nperform in the live got caught in traffic, \nso she's running late~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -59,7 +62,9 @@
     {
       "name": "Shinko Windy",
       "text": "\"I knew it was here. With this machine, we \ncan whip up a flashy smoke screen, nod!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Wait, huh? Windy's not here!?"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -106,7 +111,9 @@
     {
       "name": "Smart Falcon",
       "text": "Wait, could this be... our chance!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Windy!? Another prank...?!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -141,15 +148,19 @@
       "name": "Shinko Windy",
       "text": "W-Why are you smiling?! You guys need to \nbe way more troubled by this!",
       "choice_data_list": [
-        "Helping people out like that is admirable!",
-        "Helping people out like that is admirable, \nisn't it!",
-        "Make the live show flashy and hype up the \ncrowd!"
+        "That's great of you to help someone out!",
+        "That's great of you to help someone out!",
+        "Fire up the concert in style!"
       ]
     },
     {
       "name": "Shinko Windy",
       "text": "\"What are you even saying?! I went through \nall the trouble of making this grand \nprank, so be scared~!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's great of you to help someone out!",
+        "That's great of you to help someone out!",
+        "Fire up the concert in style!"
+      ]
     },
     {
       "name": "Smart Falcon",

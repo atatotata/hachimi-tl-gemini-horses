@@ -23,7 +23,10 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Okay! I-I'll try!"
+      "text": "Okay! I-I'll try!",
+      "choice_data_list": [
+        "Bamboo! Deep breath!"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -35,7 +38,11 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Good! My body's steady and my head's\nclear, but\nmy drive's shooting through\nthe roof! All systems\nare go!"
+      "text": "Good! My body's steady and my head's\nclear, but\nmy drive's shooting through\nthe roof! All systems\nare go!",
+      "choice_data_list": [
+        "Think you can do it?",
+        "Think you're ready?"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -43,7 +50,11 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Thanks!"
+      "text": "Thanks!",
+      "choice_data_list": [
+        "Go get 'em!",
+        "Have fun!"
+      ]
     }
   ]
 }

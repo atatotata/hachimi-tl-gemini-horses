@@ -23,11 +23,14 @@
       "name": "Stay Gold",
       "text": "Now then! …<i>Oh</i>, wonder where we are～",
       "choice_data_list": [
-        "Shouldn't I be the one asking that?"
+        "Wait, is there someone outside?!"
       ]
     },
     {
-      "text": "After leaving the station, we found \nourselves in the shopping strip."
+      "text": "After leaving the station, we found \nourselves in the shopping strip.",
+      "choice_data_list": [
+        "That's what I was gonna say!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -66,7 +69,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. It seems like that."
+      "text": "Yeah. It seems like that.",
+      "choice_data_list": [
+        "Your running has reached even this far, huh.",
+        "Your running has reached even this far, hasn't it."
+      ]
     },
     {
       "name": "Elderly Storekeeper",
@@ -77,7 +84,10 @@
     },
     {
       "name": "Elderly Storekeeper",
-      "text": "It's an emblem of my support! I made it \nthinking that it'd be nice if someone got \nto wear it someday."
+      "text": "It's an emblem of my support! I made it \nthinking that it'd be nice if someone got \nto wear it someday.",
+      "choice_data_list": [
+        "Is this... an appliquÃ©?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -110,7 +120,10 @@
     },
     {
       "name": "Elderly Lady",
-      "text": "My my, are you feeling hungry? Of course, \nof course, for you horsegirls need to eat \nwell!"
+      "text": "My my, are you feeling hungry? Of course, \nof course, for you horsegirls need to eat \nwell!",
+      "choice_data_list": [
+        "Huh?! Isn't that a bit sudden?!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -125,7 +138,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "<i>…Ahh.</i> This really hits the spot!"
+      "text": "<i>…Ahh.</i> This really hits the spot!",
+      "choice_data_list": [
+        "Wh-What a free spirit she is...",
+        "Wh-What a free spirit she is..."
+      ]
     },
     {
       "name": "Elderly Lady",
@@ -143,7 +160,10 @@
     },
     {
       "name": "Elderly Lady",
-      "text": "Oh my, truly! I was thinking it may end up \ntasting bitter but that is not the case at \nall."
+      "text": "Oh my, truly! I was thinking it may end up \ntasting bitter but that is not the case at \nall.",
+      "choice_data_list": [
+        "I-It's delicious!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -154,7 +174,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "…Say, it's an impulsive thought, but do \nyou have any mayonnaise?"
+      "text": "…Say, it's an impulsive thought, but do \nyou have any mayonnaise?",
+      "choice_data_list": [
+        "Huh, is that so."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -165,7 +188,10 @@
     },
     {
       "name": "Elderly Lady",
-      "text": "Yes I do, wait one moment dear. <i>Fufu,</i> what \na fun child."
+      "text": "Yes I do, wait one moment dear. <i>Fufu,</i> what \na fun child.",
+      "choice_data_list": [
+        "Mushroom mayonnaise chazuke?!"
+      ]
     },
     {
       "name": "Elderly Lady",
@@ -188,7 +214,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "But, it ended up being pretty good right?"
+      "text": "But, it ended up being pretty good right?",
+      "choice_data_list": [
+        "I was wondering how it'd turn out at first, but..."
+      ]
     },
     {
       "text": "Suddenly getting off at a random station, \nand dining at a local's place uninvited… \nHer liberty when it comes to these things \nhas surprised me plenty of times but —",
@@ -198,7 +227,11 @@
       ]
     },
     {
-      "text": "It is those who are a little \nunconventional that have the power to \ncaptivate others, charming not only those \nin this town… but myself also."
+      "text": "It is those who are a little \nunconventional that have the power to \ncaptivate others, charming not only those \nin this town… but myself also.",
+      "choice_data_list": [
+        "Yeah, that was so much fun.",
+        "Yeah, it was so much fun."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -216,22 +249,28 @@
     {
       "text": "While saying that, she pulled out the \npatch received earlier from her pocket to \ntake another look at it.",
       "choice_data_list": [
-        "We're training lots once we're back yeah",
-        "We're training lots once we're back yeah",
-        "You should report back with your next win",
-        "You should report back with your next win"
+        "We're going to train a lot once we get back, okay?",
+        "Let's do lots of training once we get back, okay?",
+        "We'll have to come back and report when we win.",
+        "We'll have to come back and report when we win."
       ]
     },
     {
       "name": "Stay Gold",
       "text": "<i>Oh</i>, aren't you pumped up?",
       "choice_data_list": [
-        "You reckon?"
+        "We're going to train a lot once we get back, okay?",
+        "Let's do lots of training once we get back, okay?",
+        "We'll have to come back and report when we win.",
+        "We'll have to come back and report when we win."
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. Though… I feel the same about today."
+      "text": "Yeah. Though… I feel the same about today.",
+      "choice_data_list": [
+        "You think so?"
+      ]
     },
     {
       "text": "I find my gaze turning towards the street \nlights in the town outside shining on us."
@@ -245,7 +284,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "! <i>Hum.</i> I see. Then I'll definitely come \nback, and I'll make it soon."
+      "text": "! <i>Hum.</i> I see. Then I'll definitely come \nback, and I'll make it soon.",
+      "choice_data_list": [
+        "I won't let it stay so far out of reach."
+      ]
     }
   ]
 }

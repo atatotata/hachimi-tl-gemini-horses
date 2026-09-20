@@ -31,7 +31,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "You... really shouldn't do that."
+      "text": "You... really shouldn't do that.",
+      "choice_data_list": [
+        "Hold on a..."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -115,7 +118,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Huh? ...You?! But you're not an\nUmamusume."
+      "text": "Huh? ...You?! But you're not an\nUmamusume.",
+      "choice_data_list": [
+        "I'll drink it instead, so...",
+        "(Better leave her be...)"
+      ]
     },
     {
       "name": "Manhattan Cafe",

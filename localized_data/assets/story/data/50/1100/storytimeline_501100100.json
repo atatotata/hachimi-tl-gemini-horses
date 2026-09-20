@@ -131,7 +131,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Again? Why, of course, dearie."
+      "text": "Again? Why, of course, dearie.",
+      "choice_data_list": [
+        "Acute, tell me about your dream once more.",
+        "Acute, tell me your dream once again."
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -187,11 +191,18 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Oho. Can we really pull it off?"
+      "text": "Oho. Can we really pull it off?",
+      "choice_data_list": [
+        "Let's catch up to them, no matter what."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "If it's for Wonder Acute, the kindhearted\n\nUmamusume looking to inspire those\ntrying to\nrestart their lives, I'll do\nanything."
+      "text": "If it's for Wonder Acute, the kindhearted\n\nUmamusume looking to inspire those\ntrying to\nrestart their lives, I'll do\nanything.",
+      "choice_data_list": [
+        "Yeah, let's make your dream come true.",
+        "Yeah, let's make that dream come true."
+      ]
     },
     {
       "name": "Monologue",

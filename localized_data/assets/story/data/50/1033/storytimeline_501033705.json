@@ -23,7 +23,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Nothing really..."
+      "text": "Nothing really...",
+      "choice_data_list": [
+        "Did something good happen?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -39,7 +42,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? Wait..."
+      "text": "Huh? Wait...",
+      "choice_data_list": [
+        "Want to go see some animals?",
+        "Want to go see some animals?"
+      ]
     },
     {
       "name": "Monologue",
@@ -55,7 +62,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Ack... Why me?"
+      "text": "Ack... Why me?",
+      "choice_data_list": [
+        "Maybe it just wants to be petted?"
+      ]
     },
     {
       "name": "Lambs",
@@ -95,7 +105,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I tell a farm worker what Admire Vega\nhad said."
+      "text": "I tell a farm worker what Admire Vega\nhad said.",
+      "choice_data_list": [
+        "I'll go ask someone at the ranch."
+      ]
     },
     {
       "name": "Farm Worker",
@@ -107,7 +120,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It was just a coincidence."
+      "text": "It was just a coincidence.",
+      "choice_data_list": [
+        "Great catch noticing that!",
+        "Good catch noticing that!"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -115,11 +132,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It certainly wasn't a big deal..."
+      "text": "It certainly wasn't a big deal...",
+      "choice_data_list": [
+        "It did help the little lamb.",
+        "It was for the little lamb's good, at least.",
+        "Could we apply this to other things?"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "It did help the little lamb.",
+        "It was for the little lamb's good, at least.",
+        "Could we apply this to other things?"
+      ]
     },
     {
       "name": "Lambs",

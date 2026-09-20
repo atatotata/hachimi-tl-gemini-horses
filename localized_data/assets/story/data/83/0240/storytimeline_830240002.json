@@ -26,7 +26,10 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "........................"
+      "text": "........................",
+      "choice_data_list": [
+        "(Today's supposed to be a day off? But...)"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -39,12 +42,15 @@
       "name": "Narrator",
       "text": "She is a horse girl who always puts on \nfierce races worthy of the name \"Raging \nBattle Demon\"... Yet here she is, giving \noff this kind of vibe...",
       "choice_data_list": [
-        "(Could it be... \"burnout syndrome\"?!)"
+        "(She seems really spaced out...?)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Rest is important, but taking too long of \na break makes it take longer to get back \nin top form. As a trainer at the academy, \nI grew concerned."
+      "text": "Rest is important, but taking too long of \na break makes it take longer to get back \nin top form. As a trainer at the academy, \nI grew concerned.",
+      "choice_data_list": [
+        "(Could it be... \"burnout syndrome\"?!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -61,12 +67,15 @@
       "name": "Jungle Pocket",
       "text": "..................",
       "choice_data_list": [
-        "(Th-This feeling is...! What in the \nworld?!)"
+        "—!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "My knees shook, and before I knew it, I \nfell right onto my backside. My heart was \npounding wildly in my chest..."
+      "text": "My knees shook, and before I knew it, I \nfell right onto my backside. My heart was \npounding wildly in my chest...",
+      "choice_data_list": [
+        "(Th-This feeling...! What on earth is it?!)"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -79,19 +88,22 @@
       "name": "Fuji Kiseki",
       "text": "Looks like you're not hurt, thank \ngoodness. Fufu, did you get overwhelmed by \nthat girl's fighting spirit?",
       "choice_data_list": [
-        "F-Fighting spirit...?"
+        "Wait, ah, sorry...! Thank you..."
       ]
     },
     {
       "name": "Fuji Kiseki",
       "text": "You were worried about her, weren't you? \nDon't worry. I'll go talk to her.",
       "choice_data_list": [
-        "Ah..."
+        "F-Fighting spirit...?"
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "—Pokke. Taking a day off today?"
+      "text": "—Pokke. Taking a day off today?",
+      "choice_data_list": [
+        "Ah..."
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -114,7 +126,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "...I see. Yes, I believe that's a very \nwise judgment."
+      "text": "...I see. Yes, I believe that's a very \nwise judgment.",
+      "choice_data_list": [
+        "（……！）"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -133,7 +148,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "You aren't afraid, are you? Perhaps you \nunderstand what truly matters purely by \ninstinct."
+      "text": "You aren't afraid, are you? Perhaps you \nunderstand what truly matters purely by \ninstinct.",
+      "choice_data_list": [
+        "(Still, she...)"
+      ]
     },
     {
       "name": "Jungle Pocket",

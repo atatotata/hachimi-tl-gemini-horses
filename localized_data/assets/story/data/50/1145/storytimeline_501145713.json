@@ -16,7 +16,9 @@
     {
       "name": "Rulership",
       "text": "Hmm... Well, it's pretty common in games \nfor a tiny mistake to come back and \ntotally wreck you later.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Better safe than sorry."
+      ]
     },
     {
       "name": "Rulership",
@@ -41,15 +43,19 @@
       "name": "Rulership",
       "text": "We shouldn't stop; we should move forward.",
       "choice_data_list": [
-        "No... let's just rest up for today.",
-        "Okay, but don't overdo it.",
-        "Okay, but don't push yourself too hard, \nalright?"
+        "No... let's at least rest up for today.",
+        "Understood. Just make sure not to overdo it.",
+        "Understood. Just don't overdo it, okay?"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"Risking making the injury worse by \ncontinuing training right now is not wise. \nI persuaded her that she should quietly \nstep back for now.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No... let's at least rest up for today.",
+        "Understood. Just make sure not to overdo it.",
+        "Understood. Just don't overdo it, okay?"
+      ]
     },
     {
       "name": "Rulership",
@@ -81,7 +87,9 @@
     {
       "name": "Rulership",
       "text": "Ha, haha... Looks like this is the end of \nthe line for me...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ruler...!?"
+      ]
     },
     {
       "name": "Rulership",

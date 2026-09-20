@@ -134,15 +134,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Ah, yes! Someone just told me that I have \na wonderful heart. Lately, I've been \ngetting complimented a lot... Ehehe."
-    },
-    {
-      "name": "Special Week",
-      "text": "Even though there are still so many things \nabout myself that I want to fix...",
+      "text": "Ah, yes! Someone just told me that I have \na wonderful heart. Lately, I've been \ngetting complimented a lot... Ehehe.",
       "choice_data_list": [
-        "It means you're wonderful just the way you \nare!",
-        "It means you're wonderful just the way you \nare!",
-        "What kind of things do you want to fix?"
+        "Did something good happen to you?",
+        "Did something good happen to you?"
       ]
     },
     {
@@ -156,7 +151,21 @@
     },
     {
       "name": "Special Week",
-      "text": "Just the way I am... It doesn't quite \nclick for me, but—"
+      "text": "Even though there are still so many things \nabout myself that I want to fix...",
+      "choice_data_list": [
+        "Which means you're wonderful just the way you are!",
+        "Which means you're wonderful just the way you are!",
+        "What part do you want to fix?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Just the way I am... It doesn't quite \nclick for me, but—",
+      "choice_data_list": [
+        "Which means you're wonderful just the way you are!",
+        "Which means you're wonderful just the way you are!",
+        "What part do you want to fix?"
+      ]
     },
     {
       "name": "Special Week",
@@ -171,7 +180,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Huh!? Approachable, you say...?"
+      "text": "Huh!? Approachable, you say...?",
+      "choice_data_list": [
+        "Maybe that's what makes them feel so approachable."
+      ]
     },
     {
       "name": "Special Week",

@@ -131,7 +131,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh? What kind of race do <i>I</i> want?\nUhh..."
+      "text": "Huh? What kind of race do <i>I</i> want?\nUhh...",
+      "choice_data_list": [
+        "What kind of race do you want to enter, Ines?"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -139,7 +142,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "In that case, maybe a race you can enjoy running!",
+        "In that case, maybe a race you can enjoy running!"
+      ]
     },
     {
       "name": "Monologue",
@@ -243,7 +250,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ohoho! Yay! ♪ I'm glad you're excited\ntoo!"
+      "text": "Ohoho! Yay! ♪ I'm glad you're excited\ntoo!",
+      "choice_data_list": [
+        "No, let's take on the Tenno Sho (Autumn)!"
+      ]
     },
     {
       "name": "Monologue",

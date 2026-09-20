@@ -51,15 +51,24 @@
     },
     {
       "name": "Monologue",
-      "text": "I spin around, startled by a loud crashing\nnoise\nbehind me, and spot none other\nthan Meisho\nDoto sprawled on the floor."
+      "text": "I spin around, startled by a loud crashing\nnoise\nbehind me, and spot none other\nthan Meisho\nDoto sprawled on the floor.",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "I-I'm fine... I've landed on my bottom so\nmany\ntimes today, it's flat as a board."
+      "text": "I-I'm fine... I've landed on my bottom so\nmany\ntimes today, it's flat as a board.",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh, but more importantly..."
+      "text": "Oh, but more importantly...",
+      "choice_data_list": [
+        "(Doesn't that mean she's NOT okay...?)"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -67,11 +76,17 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Well, I think, um... she's been having a\nlot of\nnightmares."
+      "text": "Well, I think, um... she's been having a\nlot of\nnightmares.",
+      "choice_data_list": [
+        "A chat?"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "I've noticed her bolting awake in the\nmiddle of\nthe night. It's gotten a lot\nworse lately..."
+      "text": "I've noticed her bolting awake in the\nmiddle of\nthe night. It's gotten a lot\nworse lately...",
+      "choice_data_list": [
+        "A nightmare..."
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -103,7 +118,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Thank goodness..."
+      "text": "Thank goodness...",
+      "choice_data_list": [
+        "Yeah, leave it to me!",
+        "Yeah, I've got this!"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -123,7 +142,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Even now, at this very moment..."
+      "text": "Even now, at this very moment...",
+      "choice_data_list": [
+        "(Shakur chose to face it head-on.)"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -159,7 +181,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Is watching uselessly as she heads\ntoward the\nflames really the only thing\nI'm capable of?"
+      "text": "Is watching uselessly as she heads\ntoward the\nflames really the only thing\nI'm capable of?",
+      "choice_data_list": [
+        "(Is there really nothing I can do?)",
+        "(Is there really nothing I can do?)"
+      ]
     }
   ]
 }

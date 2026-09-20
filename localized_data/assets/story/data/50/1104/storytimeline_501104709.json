@@ -24,15 +24,19 @@
       "name": "Katsuragi Ace",
       "text": "Trainer, do you know what I'm lacking \nright now?",
       "choice_data_list": [
-        "It's fine like this.",
+        "It's fine just the way it is.",
         "Alright, time for a debrief!",
-        "Alright, time for a review meeting!"
+        "Alright, debrief time!"
       ]
     },
     {
       "name": "Katsuragi Ace",
       "text": "――！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's fine just the way it is.",
+        "Alright, time for a debrief!",
+        "Alright, debrief time!"
+      ]
     },
     {
       "name": "Katsuragi Ace",
@@ -44,7 +48,9 @@
     {
       "name": "Katsuragi Ace",
       "text": "...Still, I am only halfway along the \npath, huh.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We're on the right track."
+      ]
     },
     {
       "name": "Katsuragi Ace",

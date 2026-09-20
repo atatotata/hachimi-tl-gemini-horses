@@ -23,14 +23,17 @@
       "name": "Tap Dance City",
       "text": "Every moment spent resting puts our dream \nfurther away. We must not stop. We must \nkeep moving forward.",
       "choice_data_list": [
-        "If it gets worse, your friends will worry \ntoo.",
-        "Let's try moving around a little bit to \ntest it, then."
+        "Sorry, but I can't give you permission.",
+        "Sorry, but I can't allow that."
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "Guh... Hmm.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If it gets worse because of that, your friends will be worried too.",
+        "Then let's try moving just a little."
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -78,13 +81,15 @@
       "name": "Tap Dance City",
       "text": "No! I'm staying here. I should be able to \nmove once I rest a little.",
       "choice_data_list": [
-        "Come on, we're heading back."
+        "Shall we head back...?"
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "\"I told you I'm not going ho— Wait, a \npiggyback ride is unfair!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Come on, let's head back."
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -112,7 +117,10 @@
     {
       "name": "Tap Dance City",
       "text": "Yeah, yeah. I know. I won't do anything \nthat'd make trouble for you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you get too carried away, it'll only get worse, you know.",
+        "If you get too carried away, it'll only get worse, you know."
+      ]
     },
     {
       "name": "Narrator",

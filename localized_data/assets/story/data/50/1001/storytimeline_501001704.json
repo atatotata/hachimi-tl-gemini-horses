@@ -27,7 +27,12 @@
     },
     {
       "name": "Special Week",
-      "text": "Whaaat?! I-I couldn't possibly do that!"
+      "text": "Whaaat?! I-I couldn't possibly do that!",
+      "choice_data_list": [
+        "You can think of me as your stand-in mom.",
+        "Actually pretty sloppy, you know.",
+        "I'd say it comes down to wisdom and experience."
+      ]
     },
     {
       "name": "Special Week",
@@ -75,7 +80,10 @@
     },
     {
       "name": "Special Week",
-      "text": "M-more things? That's so vague! Give\nme more to\nwork with, Trainer!"
+      "text": "M-more things? That's so vague! Give\nme more to\nwork with, Trainer!",
+      "choice_data_list": [
+        "Various other things, too."
+      ]
     }
   ]
 }

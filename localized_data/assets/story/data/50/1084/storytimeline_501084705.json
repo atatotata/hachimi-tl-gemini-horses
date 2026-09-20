@@ -22,7 +22,10 @@
     {
       "name": "Tanino Gimlet",
       "text": "What is it, Trainer? Do you wish to \nsharpen your knowledge as well? \nThen—follow me!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...You're going to university!?",
+        "...You're going to college!?"
+      ]
     },
     {
       "name": "University Professor",
@@ -49,7 +52,9 @@
     {
       "name": "Tanino Gimlet",
       "text": "I suppose there's no choice but to say \nthere are many theories regarding the \nexistence of other minds.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She's on familiar terms with the professor...?!)"
+      ]
     },
     {
       "name": "University Professor",
@@ -101,7 +106,9 @@
     {
       "name": "Narrator",
       "text": "While I was admiring Tanino Gimlet's \ncultured side――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Who knew taking a detour could be so intellectual...?!)"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -128,7 +135,9 @@
     {
       "name": "Narrator",
       "text": "Tanino Gimlet was spouting his usual \ncryptic lines, but... I suddenly realized \nsomething. This sequence of words was—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Hm?"
+      ]
     },
     {
       "name": "Narrator",
@@ -155,7 +164,9 @@
     {
       "name": "Tanino Gimlet",
       "text": "—You may interpret it that way. But \nessentially... it is to make my brilliance \nshine even brighter!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "To expand your cool vocabulary...?"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -183,24 +194,26 @@
       "name": "Narrator",
       "text": "Her attitude of learning for the sake of \nher own aesthetic is truly magnificent.",
       "choice_data_list": [
-        "You studied so hard all day today, well \ndone!",
-        "You studied so hard all day today, good \njob!",
-        "This learning has become my \"Qumran\"...!"
+        "I-I see..."
       ]
     },
     {
       "name": "Narrator",
       "text": "Her attitude of learning for the sake of \nher own aesthetic is truly magnificent.",
       "choice_data_list": [
-        "You studied so hard all day today, well \ndone!",
-        "You studied so hard all day today, good \njob!",
-        "This learning has become my \"Qumran\"...!"
+        "You studied hard all day today—great job!",
+        "You studied hard all day today—great job!",
+        "This knowledge has become my \"Qumran\"...!"
       ]
     },
     {
       "name": "Narrator",
       "text": "Wanting to convey how genuinely impressed \nI was, I gave her straightforward praise \nfor today's studying!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You studied hard all day today—great job!",
+        "You studied hard all day today—great job!",
+        "This knowledge has become my \"Qumran\"...!"
+      ]
     },
     {
       "name": "Tanino Gimlet",

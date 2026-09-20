@@ -162,14 +162,19 @@
       "name": "Narrator",
       "text": "While walking downtown one day, I spotted \nFine Motion and Kris dressed in unusual \nattire and called out to them.",
       "choice_data_list": [
-        "You two get along so well.",
-        "You two seem close.",
-        "Is this a celebration?"
+        "You two sure are close.",
+        "You two are close, aren't you?",
+        "Something to celebrate?"
       ]
     },
     {
       "name": "Fine Motion",
-      "text": "Oh, thank you! It makes me happy if it \nlooks that way to you♪"
+      "text": "Oh, thank you! It makes me happy if it \nlooks that way to you♪",
+      "choice_data_list": [
+        "You two sure are close.",
+        "You two are close, aren't you?",
+        "Something to celebrate?"
+      ]
     },
     {
       "name": "Symboli Kris S",

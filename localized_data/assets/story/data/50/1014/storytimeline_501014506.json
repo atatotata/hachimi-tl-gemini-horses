@@ -11,7 +11,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Hey, Trainer! What do you think? Pretty\ndynamic\ndance, right?"
+      "text": "Hey, Trainer! What do you think? Pretty\ndynamic\ndance, right?",
+      "choice_data_list": [
+        "You're doing great."
+      ]
     },
     {
       "name": "Monologue",
@@ -19,11 +22,18 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Ahhh... That does make things difficult. I\nusually\nlose track of my surroundings\nwhen I dance alone."
+      "text": "Ahhh... That does make things difficult. I\nusually\nlose track of my surroundings\nwhen I dance alone.",
+      "choice_data_list": [
+        "Try staying aware of dancing together with everyone."
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Qué?! Somewhere I can watch my\nsurroundings...\nLike where?"
+      "text": "Qué?! Somewhere I can watch my\nsurroundings...\nLike where?",
+      "choice_data_list": [
+        "Let's dance in a spot nearby that catches your eye.",
+        "Let's dance while watching the mirror."
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -63,7 +73,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "I see! Just the kind of advice I expect\nfrom you,\nTrainer! That's something I can\npractice by myself!"
+      "text": "I see! Just the kind of advice I expect\nfrom you,\nTrainer! That's something I can\npractice by myself!",
+      "choice_data_list": [
+        "Let's dance while paying attention to your line of sight."
+      ]
     },
     {
       "name": "El Condor Pasa",

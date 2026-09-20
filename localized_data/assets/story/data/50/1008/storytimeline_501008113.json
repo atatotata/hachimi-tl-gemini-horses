@@ -131,7 +131,11 @@
     },
     {
       "name": "Vodka",
-      "text": "C-close?! No way! She's nothin' to me!"
+      "text": "C-close?! No way! She's nothin' to me!",
+      "choice_data_list": [
+        "You two are close, huh.",
+        "You two are close, aren't you?"
+      ]
     },
     {
       "name": "Vodka",

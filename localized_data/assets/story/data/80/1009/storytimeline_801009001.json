@@ -19,7 +19,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Morning! ...Wait, what?"
+      "text": "Morning! ...Wait, what?",
+      "choice_data_list": [
+        "Good morning. You're up early."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "No! I thought I was the first one to\narrive! I can't\nbelieve I'm second!"
+      "text": "No! I thought I was the first one to\narrive! I can't\nbelieve I'm second!",
+      "choice_data_list": [
+        "Are you always this early?",
+        "Are you always this early?",
+        "Second place is still plenty impressive."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Yeah, I suppose you could call me a\nmorning\nperson. Although it seems you\ngot the better of\nme today."
+      "text": "Yeah, I suppose you could call me a\nmorning\nperson. Although it seems you\ngot the better of\nme today.",
+      "choice_data_list": [
+        "Are you always this early?",
+        "Are you always this early?",
+        "Second place is still plenty impressive."
+      ]
     },
     {
       "name": "Daiwa Scarlet",

@@ -29,15 +29,19 @@
       "name": "K.S.Miracle",
       "text": "\"I'll go help look for it! The ground over \nthere is all muddy, though, so please wait \nhere, Trainer—\"",
       "choice_data_list": [
-        "It'll be faster if both of us help out.",
-        "That's precisely why I'll go.",
-        "That's precisely why I'll go."
+        "It'll be faster if the two of us help out.",
+        "Which is precisely why I'll go.",
+        "Which is precisely why I'll go."
       ]
     },
     {
       "name": "K.S.Miracle",
       "text": "...That's true, understood. Well then, \nlet's go together! Please watch your step \ncarefully, okay?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It'll be faster if the two of us help out.",
+        "Which is precisely why I'll go.",
+        "Which is precisely why I'll go."
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -64,7 +68,9 @@
     {
       "name": "K.S.Miracle",
       "text": "Th-That sounds awful. I'll help you \nsearch. We have to find it, no matter \nwhat!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "W-Well, that's..."
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -81,7 +87,9 @@
     {
       "name": "K.S.Miracle",
       "text": "\"...I see. Well then, why don't we focus \nour search over this way next?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I can't find it..."
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -138,7 +146,9 @@
     {
       "name": "Troubled Young Man",
       "text": "...Yes. I got praised at work, and got so \nhappy that I threw my hands up right here \nshouting 'Yay!'...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Did you drop something again...?"
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -200,7 +210,9 @@
     {
       "name": "K.S.Miracle",
       "text": "............ Understood. But please, be \nvery careful with your footing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Leave it to me!"
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -222,7 +234,9 @@
     {
       "name": "K.S.Miracle",
       "text": "! Trainer, that's amazing!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Found it!!"
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -244,7 +258,9 @@
     {
       "name": "Narrator",
       "text": "\"To be honest, it wasn't so much for his \nsake, but rather that I stepped up just to \nensure K.S.Miracle wouldn't overexert \nhimself.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, I'm just glad we found it."
+      ]
     },
     {
       "name": "Narrator",
@@ -276,7 +292,9 @@
     {
       "name": "K.S.Miracle",
       "text": "............ Understood. But please, be \nvery careful with your footing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Leave it to me!"
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -299,13 +317,15 @@
       "name": "K.S.Miracle",
       "text": "Trainer!",
       "choice_data_list": [
-        "I'm fine! Stay right there!"
+        "Whoa!"
       ]
     },
     {
       "name": "K.S.Miracle",
       "text": "...! But...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'm okay! Stay right there!"
+      ]
     },
     {
       "name": "Troubled Young Man",
@@ -322,7 +342,9 @@
     {
       "name": "Troubled Young Man",
       "text": "Yes!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "All right, let's find it!"
+      ]
     },
     {
       "name": "K.S.Miracle",

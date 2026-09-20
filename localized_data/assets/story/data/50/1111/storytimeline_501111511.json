@@ -183,14 +183,17 @@
       "name": "Air Messiah",
       "text": "Yes. I am helped daily by all the work you \ndo, so I would like to show you some care \nand appreciation as well.",
       "choice_data_list": [
-        "Hmm, it's not like I'm particularly tired, \neither...",
-        "Then can I count on you for the heavy \nlifting?"
+        "Wait, me?",
+        "Wait, me?"
       ]
     },
     {
       "name": "Narrator",
       "text": "Most of what I do is just work, not \nsomething I need to be thanked for. When I \ntold her that—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Hmm, I'm not really that tired, either...",
+        "Then could you handle the heavy lifting?"
+      ]
     },
     {
       "name": "Air Messiah",

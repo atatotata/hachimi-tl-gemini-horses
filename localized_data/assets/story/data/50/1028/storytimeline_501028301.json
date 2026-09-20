@@ -19,7 +19,10 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "(Either way, it's going to be a painful choice)"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -31,7 +34,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And with that, my blistering summer\ncamp\nexperience with Hishi Akebono\ndraws to an end."
+      "text": "And with that, my blistering summer\ncamp\nexperience with Hishi Akebono\ndraws to an end.",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah."
+      ]
     }
   ]
 }

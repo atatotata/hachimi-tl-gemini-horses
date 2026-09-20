@@ -26,7 +26,11 @@
     },
     {
       "name": "Classmate",
-      "text": "Oh, thank you! Not gonna lie, I'm really \nlost. Countries? States? Provinces? You \ncan't expect me to know where <i>all</i> of these \ngo…"
+      "text": "Oh, thank you! Not gonna lie, I'm really \nlost. Countries? States? Provinces? You \ncan't expect me to know where <i>all</i> of these \ngo…",
+      "choice_data_list": [
+        "I'll help out too.",
+        "I'll help too."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -54,13 +58,18 @@
     {
       "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together.",
       "choice_data_list": [
-        "<size=38>Can you actually locate every single \nplace…?</size>",
-        "That's… a useful gift for puzzles like \nthis.",
-        "That's… a useful gift for puzzles like \nthis."
+        "Could it be... you already understand the correct layout for everything?",
+        "This is... some kind of genius puzzle skill.",
+        "This is... quite the genius puzzle skill."
       ]
     },
     {
-      "text": "Does that mean those letters and numbers \nearlier were a hint of sorts? Curious, I \nshow Neo Universe the piece making up \nItaly."
+      "text": "Does that mean those letters and numbers \nearlier were a hint of sorts? Curious, I \nshow Neo Universe the piece making up \nItaly.",
+      "choice_data_list": [
+        "Could it be... you already understand the correct layout for everything?",
+        "This is... some kind of genius puzzle skill.",
+        "This is... quite the genius puzzle skill."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -75,7 +84,11 @@
     },
     {
       "name": "Classmate",
-      "text": "Huh? So… if we just ask Universe about the \npieces we don't know… we'll get this done \nsomehow, right!?"
+      "text": "Huh? So… if we just ask Universe about the \npieces we don't know… we'll get this done \nsomehow, right!?",
+      "choice_data_list": [
+        "I see, you were giving me the latitude and longitude!",
+        "I see, you were telling me the latitude and longitude!"
+      ]
     },
     {
       "name": "Classmate",
@@ -101,7 +114,11 @@
     },
     {
       "name": "Neo Universe",
-      "text": "Affirmative. Send UKPs… Unknowns… to me."
+      "text": "Affirmative. Send UKPs… Unknowns… to me.",
+      "choice_data_list": [
+        "We'll do what we can figure out on our own, too.",
+        "We'll handle whatever we can figure out on our own, too."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -117,7 +134,11 @@
     },
     {
       "name": "Neo Universe",
-      "text": "Puzzling together… is an ENJI experience."
+      "text": "Puzzling together… is an ENJI experience.",
+      "choice_data_list": [
+        "That must have been rough. Great work!",
+        "That must have been rough. Great work!"
+      ]
     }
   ]
 }

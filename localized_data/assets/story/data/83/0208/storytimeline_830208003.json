@@ -13,7 +13,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yes! So tomorrow after school, we're \nholding a tasting party! I really want you \nto come too, Trainer-san."
+      "text": "Yes! So tomorrow after school, we're \nholding a tasting party! I really want you \nto come too, Trainer-san.",
+      "choice_data_list": [
+        "I see, congratulations!"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -67,7 +70,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Right then, I caught sight of an \"older \ngirl\" working in this field!"
+      "text": "Right then, I caught sight of an \"older \ngirl\" working in this field!",
+      "choice_data_list": [
+        "Haven't I heard that somewhere before—"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -135,15 +141,21 @@
       "name": "Nishino Flower",
       "text": "I'm so happy... I'm truly glad I worked so \nhard...!",
       "choice_data_list": [
-        "We've got to make sure people eat these \ncarrots!",
-        "We've got to make sure people eat these \ncarrots!",
-        "Are you going to keep tending the field?",
-        "Are you going to keep tending the field?"
+        "Gotta get them to eat their carrots!",
+        "We've gotta get them to eat their carrots!",
+        "Are you going to keep working the field?",
+        "Are you going to keep tending the garden?"
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Ah, y-you're right!"
+      "text": "Ah, y-you're right!",
+      "choice_data_list": [
+        "Gotta get them to eat their carrots!",
+        "We've gotta get them to eat their carrots!",
+        "Are you going to keep working the field?",
+        "Are you going to keep tending the garden?"
+      ]
     },
     {
       "name": "Nishino Flower",

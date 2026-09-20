@@ -55,7 +55,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! It's too early to quit!"
+      "text": "Yeah! It's too early to quit!",
+      "choice_data_list": [
+        "Let's stick it out a little longer!",
+        "Let's head back to the academy for now."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -115,7 +119,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "A little rain won't hurt us! Besides,\nfinding that\nprecious bow should be our\ntop priority!"
+      "text": "A little rain won't hurt us! Besides,\nfinding that\nprecious bow should be our\ntop priority!",
+      "choice_data_list": [
+        "It's going to start raining soon."
+      ]
     },
     {
       "name": "Rice Shower",

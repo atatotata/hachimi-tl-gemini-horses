@@ -23,7 +23,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "I can't believe it..."
+      "text": "I can't believe it...",
+      "choice_data_list": [
+        "...Looks like that's what the diagnosis says.",
+        "...Seems that's what the diagnosis says."
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +155,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes. Ashamed at how overwhelmed I felt\nin the\nface of Ruby's aura, and how\nintimidated I was by\nHelios's potential."
+      "text": "Yes. Ashamed at how overwhelmed I felt\nin the\nface of Ruby's aura, and how\nintimidated I was by\nHelios's potential.",
+      "choice_data_list": [
+        "Shame?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -179,7 +186,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And so begins my summer with Yamanin\nZephyr."
+      "text": "And so begins my summer with Yamanin\nZephyr.",
+      "choice_data_list": [
+        "Got it...! Leave it to me!",
+        "Got it...! Leave it to me!"
+      ]
     }
   ]
 }

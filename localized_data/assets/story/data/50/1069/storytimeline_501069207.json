@@ -51,7 +51,11 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Oh, no. I don't mean that I'm going to\nhurt myself!"
+      "text": "Oh, no. I don't mean that I'm going to\nhurt myself!",
+      "choice_data_list": [
+        "Does that mean doing something reckless?!",
+        "Does that mean you're being reckless?!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -71,7 +75,10 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Hehe, glad to hear it. Thank you!"
+      "text": "Hehe, glad to hear it. Thank you!",
+      "choice_data_list": [
+        "...All right, I'll see it through."
+      ]
     },
     {
       "name": "Monologue",
@@ -111,11 +118,18 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Hm? What's wrong?"
+      "text": "Hm? What's wrong?",
+      "choice_data_list": [
+        "Chiyono O!!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Hehe, thank you. Watch me run, then,\nokay?"
+      "text": "Hehe, thank you. Watch me run, then,\nokay?",
+      "choice_data_list": [
+        "I'll cheer you on with everything I've got.",
+        "I'll support you with everything I've got."
+      ]
     },
     {
       "name": "Sakura Chiyono O",

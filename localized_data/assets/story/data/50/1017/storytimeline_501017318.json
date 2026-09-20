@@ -11,11 +11,18 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Trainer... These cheers. Are they..."
+      "text": "Trainer... These cheers. Are they...",
+      "choice_data_list": [
+        "Rudolf...!"
+      ]
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I see... So I won."
+      "text": "I see... So I won.",
+      "choice_data_list": [
+        "It's a tribute to you, standing at the summit.",
+        "It's a tribute to you, standing at the summit."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -127,7 +134,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Click! Flash! Click!</i>"
+      "text": "<i>Click! Flash! Click!</i>",
+      "choice_data_list": [
+        "Of course!"
+      ]
     },
     {
       "name": "Reporters",

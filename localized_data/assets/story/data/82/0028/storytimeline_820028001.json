@@ -15,7 +15,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Oh... Um, hello."
+      "text": "Oh... Um, hello.",
+      "choice_data_list": [
+        "What are you two talking about?",
+        "What are you talking about?"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Mmhmm! I <i>am</i> Sweep Tosho after all,\nTracen's\ngreatest magical girl!"
+      "text": "Mmhmm! I <i>am</i> Sweep Tosho after all,\nTracen's\ngreatest magical girl!",
+      "choice_data_list": [
+        "Magic..."
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -91,7 +98,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ooh! I do love reading. That might be\nthe perfect\nplace to start."
+      "text": "Ooh! I do love reading. That might be\nthe perfect\nplace to start.",
+      "choice_data_list": [
+        "Deepen your knowledge through reading",
+        "First, let's build up your strength!"
+      ]
     },
     {
       "name": "Sweep Tosho",

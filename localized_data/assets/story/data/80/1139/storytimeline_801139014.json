@@ -47,13 +47,15 @@
       "name": "Interviewer",
       "text": "For example, are you still in touch with \nthe schoolmates you had back in America? \nOr perhaps――",
       "choice_data_list": [
-        "Um, wasn't today's interview supposed to \nbe about the project...?"
+        "ï¼ââHm?ï¼"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "――Fufu, of course social connections are \nimportant. However, what matters is not \nwho I associate with.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Um, wasn't today's interview supposed to be about the PJ...?"
+      ]
     },
     {
       "name": "Casino Drive",
@@ -70,7 +72,9 @@
     {
       "name": "Interviewer",
       "text": "Oh, please pardon me! I just assumed that \ncoming from you, Casino, we'd get to hear \nabout your fabulous circle of friends!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Ooh... What an impressive comeback!)"
+      ]
     },
     {
       "name": "Interviewer",
@@ -103,28 +107,30 @@
       "name": "Casino Drive",
       "text": "Um.........",
       "choice_data_list": [
-        "――! Excuse me, that's all for the \ninterview!"
+        "ï¼â¦â¦A casino?ï¼"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...I'm sorry. For showing you such a \npathetic side of myself...",
       "choice_data_list": [
-        "...You just overstepped a bit, it couldn't \nbe helped.",
-        "...You just overstepped a bit, it couldn't \nbe helped."
+        "—! Excuse me, but that's all for the interview!"
       ]
     },
     {
       "name": "Narrator",
       "text": "Bringing up sisters had clearly changed \nher demeanor. I hesitated to press the \nissue... but I couldn't help but worry.",
       "choice_data_list": [
-        "......Um, by that older girl, do you \nmeanââ"
+        "...That was overstepping a bit. It can't be helped.",
+        "...That was overstepping a bit. It can't be helped."
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...It's not that we're on bad terms at \nall. It's just—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………Um, with that big sister――"
+      ]
     },
     {
       "name": "Reporter A",
@@ -162,14 +168,16 @@
       "name": "Narrator",
       "text": "Behind her constant striving for \nperfection... perhaps past expectations \nand feelings of inadequacy are still \nclinging to her.",
       "choice_data_list": [
-        "...Even so, I know the truth.",
-        "...Even so, I know the truth."
+        "(...She's been bound by that all this time...)"
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...? Trainer...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Still, I know.",
+        "...Still, I know."
+      ]
     },
     {
       "name": "Narrator",
@@ -193,21 +201,24 @@
       "name": "Casino Drive",
       "text": "...!",
       "choice_data_list": [
-        "So, you can have more confidence in \nyourself."
+        "All of it is your own radiance.",
+        "All of it is your own brilliance."
       ]
     },
     {
       "name": "Narrator",
       "text": "Her radiance will become a light guiding \nthe team…… and bring not just one, but \ncountless victories. This dream will \nsurely――",
       "choice_data_list": [
-        "Because you're the only one who can make \nit come true.",
-        "Because you're the only one who can make \nit come true."
+        "So, you should have more confidence in yourself."
       ]
     },
     {
       "name": "Casino Drive",
       "text": "...Am I... the only one...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because it's something only you can make come true.",
+        "Because you're the only one who can make it come true."
+      ]
     },
     {
       "name": "Casino Drive",
@@ -225,7 +236,10 @@
     {
       "name": "Narrator",
       "text": "—An early afternoon bathed in sunlight. \nThose gleaming eyes gazed straight ahead.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah. That's Casino Drive for you.",
+        "Yeah. That's Casino Drive for you."
+      ]
     }
   ]
 }

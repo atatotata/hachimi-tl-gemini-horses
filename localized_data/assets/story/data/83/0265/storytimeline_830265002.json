@@ -167,11 +167,15 @@
       "name": "Admire Groove",
       "text": "…I'm fine. I was just on my way back to \nTracen.",
       "choice_data_list": [
-        "But…"
+        "If you don't have an umbrella, I'll lend you mine.",
+        "...Did something happen? Are you okay?"
       ]
     },
     {
-      "text": "Even though I called out to her, she \nwalked into the rain alone and vanished."
+      "text": "Even though I called out to her, she \nwalked into the rain alone and vanished.",
+      "choice_data_list": [
+        "Still..."
+      ]
     },
     {
       "name": "Admire Groove",
@@ -185,7 +189,10 @@
       ]
     },
     {
-      "text": "I tried to reach out to her, but she \nwalked into the rain alone and vanished."
+      "text": "I tried to reach out to her, but she \nwalked into the rain alone and vanished.",
+      "choice_data_list": [
+        "Ah!"
+      ]
     }
   ]
 }

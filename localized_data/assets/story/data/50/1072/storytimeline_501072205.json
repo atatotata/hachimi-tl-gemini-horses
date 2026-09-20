@@ -131,7 +131,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The Arima Kinen is 2,500 meters, so I'm\n\nconcerned about her endurance."
+      "text": "The Arima Kinen is 2,500 meters, so I'm\n\nconcerned about her endurance.",
+      "choice_data_list": [
+        "I'm still a little worried about the distance, but are you sure?",
+        "I'm still a little worried about the distance, but are you sure?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -139,7 +143,11 @@
     },
     {
       "name": "Monologue",
-      "text": "It's rare to see her insist on something\nlike this, so\nI can't help but ask."
+      "text": "It's rare to see her insist on something\nlike this, so\nI can't help but ask.",
+      "choice_data_list": [
+        "...Is there a reason for this?",
+        "...Is there a particular reason?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -155,7 +163,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "To be honest... without a strong\nobsession, I'm\nnot sure if I have what it\ntakes to perform such a\nbig feat."
+      "text": "To be honest... without a strong\nobsession, I'm\nnot sure if I have what it\ntakes to perform such a\nbig feat.",
+      "choice_data_list": [
+        "That's true."
+      ]
     },
     {
       "name": "Yaeno Muteki",

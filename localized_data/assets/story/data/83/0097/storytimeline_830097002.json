@@ -15,7 +15,11 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Oh. Look, Maruzen, there's a rest area\nover there.\nGood timing too. I could use\na snack."
+      "text": "Oh. Look, Maruzen, there's a rest area\nover there.\nGood timing too. I could use\na snack.",
+      "choice_data_list": [
+        "(So those two came as well.)",
+        "(Those two came too, huh.)"
+      ]
     },
     {
       "name": "Suspicious Person",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Suspicious Person",
-      "text": "What?! Y-y-you there! Was that a rice\nball you\njust ate?!"
+      "text": "What?! Y-y-you there! Was that a rice\nball you\njust ate?!",
+      "choice_data_list": [
+        "(...Ah.)"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -139,15 +146,29 @@
     },
     {
       "name": "Monologue",
-      "text": "It's admirable how free-spirited she is\nand how\nshe sticks to what she believes\nin, though her\nstrong will seems to land\nher in trouble often..."
+      "text": "It's admirable how free-spirited she is\nand how\nshe sticks to what she believes\nin, though her\nstrong will seems to land\nher in trouble often...",
+      "choice_data_list": [
+        "Sticking to your own style like that is truly amazing.",
+        "...You're not overdoing it, are you?",
+        "...You're not overdoing it?"
+      ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "Is it? I'm just following what my heart\ntells me."
+      "text": "Is it? I'm just following what my heart\ntells me.",
+      "choice_data_list": [
+        "Sticking to your own style like that is truly amazing.",
+        "...You're not overdoing it, are you?",
+        "...You're not overdoing it?"
+      ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "I don't know about that. But if that's\nwhat your\nheart says, then maybe you're\nright."
+      "text": "I don't know about that. But if that's\nwhat your\nheart says, then maybe you're\nright.",
+      "choice_data_list": [
+        "Is your strength because you can follow your heart?",
+        "Are you strong because you can follow your heart?"
+      ]
     },
     {
       "name": "Monologue",
@@ -163,7 +184,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Because I can't suppress this urge to go\nrunning!"
+      "text": "Because I can't suppress this urge to go\nrunning!",
+      "choice_data_list": [
+        "Wait, so suddenly?!"
+      ]
     },
     {
       "name": "Monologue",

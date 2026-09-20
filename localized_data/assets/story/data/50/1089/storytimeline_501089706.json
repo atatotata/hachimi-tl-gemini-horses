@@ -16,7 +16,9 @@
     {
       "name": "Narrator",
       "text": "It'll be quite a while before we reach the \nstation nearest the academy. I tell her to \nget some sleep, promising to wake her up \nwhen we arrive.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you're sleepy, you can go ahead and sleep."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -49,20 +51,22 @@
       "name": "Cheval Grand",
       "text": "Ah, u-u-um, excuse me, I fell asleep just \nnow too...! Um... this is the last stop...",
       "choice_data_list": [
-        "!! I'm sorry...!!"
+        "—Hah!"
       ]
     },
     {
       "name": "Narrator",
       "text": "The final stop—an unfamiliar rural town. \nApparently only special local trains come \nthis far, and the next train heading back \nwon't leave for another three hours...",
       "choice_data_list": [
-        "I'm sorry, really..."
+        "!! I'm sorry...!!"
       ]
     },
     {
       "name": "Narrator",
       "text": "As far as the eye could see, there were \nonly rice fields, mountains, and the \nhorizon. There wasn't even a shop to kill \ntime in... It's my own fault for dozing \noff alongside her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'm sorry, truly..."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -84,7 +88,9 @@
     {
       "name": "Cheval Grand",
       "text": "Ah... Um, over there, the sea... \n......W-Would you like to go check it \nout...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The tide...?"
+      ]
     },
     {
       "name": "Narrator",
@@ -111,7 +117,9 @@
     {
       "name": "Cheval Grand",
       "text": "...... ......Ah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Wait, Cheval...?)"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -144,14 +152,16 @@
       "name": "Cheval Grand",
       "text": "—Eh?",
       "choice_data_list": [
-        "Sorry, thanks for covering for me, too.",
-        "I'm sorry, thanks for backing me up like \nthat."
+        "...Thank you."
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "…………？",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sorry, thanks for covering for me, too.",
+        "Sorry, thanks for covering for me, too."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -191,22 +201,26 @@
       "name": "Narrator",
       "text": "Cheval Grand's face broke into a happy \nsmile. Her gentle, pure-hearted nature \nsomehow made me feel saved.",
       "choice_data_list": [
-        "Shell collecting, huh... Maybe I'll join \nin.",
-        "Shell collecting, huh... Maybe I'll join \nin too.",
-        "Wanna make a sandcastle or something?"
+        "Maybe I'll look for seashells too.",
+        "Maybe I should look for seashells too.",
+        "Shall we build a sandcastle or something?"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "Ah... y-yes... um, gladly...",
       "choice_data_list": [
-        "I wonder if I can do something with this \nif I take it home."
+        "Maybe I'll look for seashells too.",
+        "Maybe I should look for seashells too.",
+        "Shall we build a sandcastle or something?"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "—! U-Um... just as an example, but...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Maybe I can make something if I take this home."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -233,7 +247,9 @@
     {
       "name": "Cheval Grand",
       "text": "Huh— Um, umm...! A masterpiece... a, a \ngigantic castle...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What kind of castle should we make?"
+      ]
     },
     {
       "name": "Cheval Grand",

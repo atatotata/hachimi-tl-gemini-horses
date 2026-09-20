@@ -38,7 +38,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Hm? Well, let's see..."
+      "text": "Hm? Well, let's see...",
+      "choice_data_list": [
+        "Were you in the mood for the beach too, C.B.?"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -49,7 +52,10 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "...How should I put it? Ace just tends to \nhit the jackpot a lot, you know?"
+      "text": "...How should I put it? Ace just tends to \nhit the jackpot a lot, you know?",
+      "choice_data_list": [
+        "Does that mean you changed your mind?"
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -86,14 +92,17 @@
       "name": "Mr. C.B.",
       "text": "Hm?",
       "choice_data_list": [
-        "Fascinating, isn't it?",
-        "Enviable, honestly.",
-        "Truly precious."
+        "Yeah, having that kind of relationship is kind of..."
       ]
     },
     {
       "name": "Narrator",
-      "text": "Even though they are completely different \npeople, it feels like they share a deep \nconnection—a truly mysterious bond."
+      "text": "Even though they are completely different \npeople, it feels like they share a deep \nconnection—a truly mysterious bond.",
+      "choice_data_list": [
+        "It's strange, isn't it?",
+        "I'm jealous.",
+        "That's precious."
+      ]
     },
     {
       "name": "Mr. C.B.",

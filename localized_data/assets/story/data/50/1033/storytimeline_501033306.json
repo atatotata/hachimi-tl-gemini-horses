@@ -51,7 +51,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She had always been a solemn\n\nUmamusume—silently bound to realizing\nher\nself-imposed duty. But now, for the\nfirst time..."
+      "text": "She had always been a solemn\n\nUmamusume—silently bound to realizing\nher\nself-imposed duty. But now, for the\nfirst time...",
+      "choice_data_list": [
+        "(Ah! Ayabe...!?) "
+      ]
     },
     {
       "name": "Monologue",
@@ -119,7 +122,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Huh?"
+      "text": "...Huh?",
+      "choice_data_list": [
+        "...Ayabe, we're done with today's routine, you know?",
+        "...Ayabe, we're done with today's routine, you know?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -159,7 +166,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...I'm heading back. Thanks for today."
+      "text": "...I'm heading back. Thanks for today.",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Monologue",
@@ -171,7 +181,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Winning for her sister is meaningful in\nitself."
+      "text": "Winning for her sister is meaningful in\nitself.",
+      "choice_data_list": [
+        "(I'm sure it's a change for the better.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -179,15 +192,27 @@
     },
     {
       "name": "Monologue",
-      "text": "On my way home one day, my attention\nsuddenly\nturns to the sky."
+      "text": "On my way home one day, my attention\nsuddenly\nturns to the sky.",
+      "choice_data_list": [
+        "(That's a really wonderful thing.)",
+        "(That's a really wonderful thing.)"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Speaking of which..."
+      "text": "Speaking of which...",
+      "choice_data_list": [
+        "Another dreary day today, huh...",
+        "Another gloomy day today..."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The cloudy days continue as we begin\ntraining for\nthe Japanese Derby."
+      "text": "The cloudy days continue as we begin\ntraining for\nthe Japanese Derby.",
+      "choice_data_list": [
+        "I wonder if she's been able to go stargazing lately.",
+        "I wonder if she's been able to go stargazing lately?"
+      ]
     }
   ]
 }

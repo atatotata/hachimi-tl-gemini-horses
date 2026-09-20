@@ -71,7 +71,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Can I talk with them a little bit?"
+      "text": "Can I talk with them a little bit?",
+      "choice_data_list": [
+        "Hm?"
+      ]
     },
     {
       "name": "Monologue",
@@ -83,7 +86,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Right. Thanks."
+      "text": "Right. Thanks.",
+      "choice_data_list": [
+        "Go ahead. I'll wait for you in the waiting room."
+      ]
     },
     {
       "name": "T.M. Opera O",

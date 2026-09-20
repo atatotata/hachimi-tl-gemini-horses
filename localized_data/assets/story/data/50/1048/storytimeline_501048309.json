@@ -27,7 +27,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "Well done, Jordan!",
+        "Great job, Jordan!"
+      ]
     },
     {
       "name": "Air Groove",
@@ -251,11 +255,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Oh, sorry. What were we talking about?"
+      "text": "Oh, sorry. What were we talking about?",
+      "choice_data_list": [
+        "Jordan?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Oh. Right."
+      "text": "...Oh. Right.",
+      "choice_data_list": [
+        "About our next goal, though..."
+      ]
     },
     {
       "name": "Monologue",
@@ -263,7 +273,11 @@
     },
     {
       "name": "Monologue",
-      "text": "It's the first leg of the Senior Spring\nTriple Crown,\nand it's 2,000 meters\nlong, Jordan's specialty."
+      "text": "It's the first leg of the Senior Spring\nTriple Crown,\nand it's 2,000 meters\nlong, Jordan's specialty.",
+      "choice_data_list": [
+        "How about aiming for the Osaka Hai next?",
+        "Why not aim for the Osaka Hai next?"
+      ]
     },
     {
       "name": "Monologue",
@@ -287,7 +301,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "So, um... see ya. Good night and...\nfarewell! Er,\nanyway, gotta go!"
+      "text": "So, um... see ya. Good night and...\nfarewell! Er,\nanyway, gotta go!",
+      "choice_data_list": [
+        "...Jordan?"
+      ]
     },
     {
       "name": "Tosen Jordan",

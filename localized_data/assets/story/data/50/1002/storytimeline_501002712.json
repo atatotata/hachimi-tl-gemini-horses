@@ -19,7 +19,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Oh, Trainer."
+      "text": "Oh, Trainer.",
+      "choice_data_list": [
+        "What're you up to?",
+        "What are you up to?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "What? Really? Already?"
+      "text": "What? Really? Already?",
+      "choice_data_list": [
+        "...It's already time for training, you know?",
+        "...It's already time for training, you know?"
+      ]
     },
     {
       "name": "Monologue",

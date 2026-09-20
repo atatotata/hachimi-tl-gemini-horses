@@ -19,7 +19,12 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Clap, clap!</i>"
+      "text": "<i>Clap, clap!</i>",
+      "choice_data_list": [
+        "May Grass always stay healthy.",
+        "May Grass become even stronger.",
+        "May Grass's running become even sharper."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -91,7 +96,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Huh? Oh..."
+      "text": "Huh? Oh...",
+      "choice_data_list": [
+        "...Grass, are you all right?",
+        "...Grass, are you okay?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -263,7 +272,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Would you please hand it to me? Right\nnow."
+      "text": "Would you please hand it to me? Right\nnow.",
+      "choice_data_list": [
+        "Of course I kept it, but...",
+        "Of course I kept it, but..."
+      ]
     },
     {
       "name": "Monologue",
@@ -287,7 +300,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "I was a coward, too timid to keep\nwalking along\nthe path."
+      "text": "I was a coward, too timid to keep\nwalking along\nthe path.",
+      "choice_data_list": [
+        "G-Grass...?!"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -339,7 +355,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes!"
+      "text": "Yes!",
+      "choice_data_list": [
+        "Alright, it's settled!",
+        "Alright, that settles it!"
+      ]
     },
     {
       "name": "Grass Wonder",

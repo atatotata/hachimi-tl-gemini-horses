@@ -15,7 +15,10 @@
     },
     {
       "name": "Monologue",
-      "text": "While I'm pondering such thoughts, two\nshadows\nrace beneath the night sky\nelsewhere..."
+      "text": "While I'm pondering such thoughts, two\nshadows\nrace beneath the night sky\nelsewhere...",
+      "choice_data_list": [
+        "(First, I'd like to hear what Dober wants.)"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -303,11 +306,18 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Whatever's missing, we'll make up for it together from now on."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"Even\" stronger? Geez..."
+      "text": "\"Even\" stronger? Geez...",
+      "choice_data_list": [
+        "I'm here to make you even stronger!",
+        "I'm here to make you even stronger!"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -327,7 +337,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Our next goal is the Hanshin J.F.,\nfollowed by the\nTriple Tiara."
+      "text": "Our next goal is the Hanshin J.F.,\nfollowed by the\nTriple Tiara.",
+      "choice_data_list": [
+        "All right, let's do that!",
+        "Yeah, let's do it!"
+      ]
     },
     {
       "name": "Monologue",

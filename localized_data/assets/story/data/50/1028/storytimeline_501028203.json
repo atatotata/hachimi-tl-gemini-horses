@@ -31,7 +31,11 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Thanks! I'm gonna put my 110% into\nthis!"
+      "text": "Thanks! I'm gonna put my 110% into\nthis!",
+      "choice_data_list": [
+        "Let's give it our all!",
+        "Let's do our best!"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -71,11 +75,17 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Huh? Why?"
+      "text": "Huh? Why?",
+      "choice_data_list": [
+        "Let's have it for dinner."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "There's also the fact that she just\nfinished a\nmassive lunch earlier, but I\ndon't say that part\naloud."
+      "text": "There's also the fact that she just\nfinished a\nmassive lunch earlier, but I\ndon't say that part\naloud.",
+      "choice_data_list": [
+        "Eating a lot right before a race isn't a good idea, after all."
+      ]
     },
     {
       "name": "Hishi Akebono",

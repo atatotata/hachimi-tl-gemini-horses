@@ -20,12 +20,16 @@
       "name": "Super Creek",
       "text": "My, my, are you participating in the sword \nfight show too~?",
       "choice_data_list": [
-        "A sword fight show... What's that?"
+        "You guys came along too, I see.",
+        "You guys came too, huh?"
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Fufu. It's an interactive swordplay play \nfor visitors. We're about to take part in \nit~."
+      "text": "Fufu. It's an interactive swordplay play \nfor visitors. We're about to take part in \nit~.",
+      "choice_data_list": [
+        "A sword-fighting show... What's that?"
+      ]
     },
     {
       "name": "Super Creek",
@@ -120,7 +124,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Hmph. I don't care how many there are, \nI'll kick—slash them all down!"
+      "text": "Hmph. I don't care how many there are, \nI'll kick—slash them all down!",
+      "choice_data_list": [
+        "This isn't quite what I heard, but... good luck!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -153,22 +160,27 @@
     {
       "text": "And so, through the heroic efforts of the \nninja and the villager, the corrupt \nmagistrate and his retinue were rounded up \nin one fell swoop.",
       "choice_data_list": [
-        "That was so thrilling!",
-        "If there was trouble, I could've helped \nout too.",
-        "If there was trouble, I could've helped \nout too."
+        "That felt exhilarating!",
+        "If there was trouble, I would've helped out too.",
+        "If there was trouble, I could've helped out too."
       ]
     },
     {
       "name": "Narita Taishin",
       "text": "Well... this much is nothing...",
       "choice_data_list": [
-        "If anything, you were the one saving \nCreek.",
-        "If anything, you were the one saving \nCreek."
+        "That felt exhilarating!",
+        "If there was trouble, I would've helped out too.",
+        "If there was trouble, I could've helped out too."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Uuu, you've grown up so splendidly... \nCould it be that you're outgrowing your \nMama? Does this mean I won't get to pat \nyour head anymore—"
+      "text": "Uuu, you've grown up so splendidly... \nCould it be that you're outgrowing your \nMama? Does this mean I won't get to pat \nyour head anymore—",
+      "choice_data_list": [
+        "If anything, you were actually helping Creek.",
+        "If anything, you were actually helping Creek, after all."
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -187,7 +199,10 @@
     },
     {
       "name": "Spectator A",
-      "text": "Man oh man~, nicely done, missy! That \nreally cleared the air!"
+      "text": "Man oh man~, nicely done, missy! That \nreally cleared the air!",
+      "choice_data_list": [
+        "True, that was really cool."
+      ]
     },
     {
       "name": "Spectator B",

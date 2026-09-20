@@ -11,7 +11,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Nya-ha-ha. It wasn't all that."
+      "text": "Nya-ha-ha. It wasn't all that.",
+      "choice_data_list": [
+        "That was a great run!"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -23,7 +26,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "I wonder... You know, my legs just felt\nstrangely\nlight while I was running."
+      "text": "I wonder... You know, my legs just felt\nstrangely\nlight while I was running.",
+      "choice_data_list": [
+        "Why, then?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -39,11 +45,17 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Well then, considering the effort I put\ninto that\nrace, how's about we end\npractice early today?"
+      "text": "Well then, considering the effort I put\ninto that\nrace, how's about we end\npractice early today?",
+      "choice_data_list": [
+        "It's nothing, really."
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Hoo boy. Guess this is what happens\nwhen I get\ntoo good, huh?"
+      "text": "Hoo boy. Guess this is what happens\nwhen I get\ntoo good, huh?",
+      "choice_data_list": [
+        "...You still look like you have energy, so just a little more..."
+      ]
     }
   ]
 }

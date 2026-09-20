@@ -35,7 +35,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "<i>Gasp!</i>"
+      "text": "<i>Gasp!</i>",
+      "choice_data_list": [
+        "Isn't that taking things a bit too far...?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -43,11 +46,21 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Did... Did you witness all of that just\nnow?"
+      "text": "Did... Did you witness all of that just\nnow?",
+      "choice_data_list": [
+        "You looked like you were in the middle of some intense ascetic training.",
+        "You've got an interesting side to you too, huh?",
+        "You've got an interesting side to you too, don't you?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Training! Yes! I was doing just that!"
+      "text": "Training! Yes! I was doing just that!",
+      "choice_data_list": [
+        "You looked like you were in the middle of some intense ascetic training.",
+        "You've got an interesting side to you too, huh?",
+        "You've got an interesting side to you too, don't you?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -59,7 +72,11 @@
     },
     {
       "name": "Monologue",
-      "text": "As Yaeno Muteki stands there, sweat\nglistening\non her brow, she does seem\nquite formidable."
+      "text": "As Yaeno Muteki stands there, sweat\nglistening\non her brow, she does seem\nquite formidable.",
+      "choice_data_list": [
+        "...True, they were definitely writhing.",
+        "...True, they were definitely writhing."
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -75,7 +92,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Yaeno Muteki runs off and veers around\nthe\ncorner of the street with\nunparalleled skill."
+      "text": "Yaeno Muteki runs off and veers around\nthe\ncorner of the street with\nunparalleled skill.",
+      "choice_data_list": [
+        "What?!"
+      ]
     }
   ]
 }

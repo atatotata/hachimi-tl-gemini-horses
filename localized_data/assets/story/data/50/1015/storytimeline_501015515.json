@@ -27,7 +27,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh, um... You see..."
+      "text": "Oh, um... You see...",
+      "choice_data_list": [
+        "...What on earth happened?",
+        "...What on earth happened?"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -79,11 +83,21 @@
     },
     {
       "name": "Monologue",
-      "text": "I watch her howling at the sky while she\ngets\nbattered by the elements."
+      "text": "I watch her howling at the sky while she\ngets\nbattered by the elements.",
+      "choice_data_list": [
+        "You'll catch a cold!",
+        "You're gonna catch a cold!",
+        "Rain, cease at once!"
+      ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "Trainer!"
+      "text": "Trainer!",
+      "choice_data_list": [
+        "You'll catch a cold!",
+        "You're gonna catch a cold!",
+        "Rain, cease at once!"
+      ]
     },
     {
       "name": "Monologue",

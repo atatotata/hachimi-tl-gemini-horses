@@ -27,7 +27,11 @@
     },
     {
       "name": "Buena Vista",
-      "text": "You'll be fine. I know you can do it, \nTrainer-san."
+      "text": "You'll be fine. I know you can do it, \nTrainer-san.",
+      "choice_data_list": [
+        "(Can I really pull this off...?)",
+        "(Can I really do this well...?)"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -44,13 +48,16 @@
       "name": "Narrator",
       "text": "And so, everyone gathered in front of the \ngiant new-model tire resting in a corner \nof the course.",
       "choice_data_list": [
-        "...Where should we start showcasing it?",
-        "...Where should we start showcasing it, I \nwonder?"
+        "...Time to give it our all!"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "First things first, let's share our ideas \ntogether. I'll take notes for everyone \nafterward!"
+      "text": "First things first, let's share our ideas \ntogether. I'll take notes for everyone \nafterward!",
+      "choice_data_list": [
+        "...What should we highlight first, I wonder.",
+        "...I wonder what we should highlight first."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -82,7 +89,11 @@
     },
     {
       "name": "Buena Vista",
-      "text": "No, no! That's not true at all."
+      "text": "No, no! That's not true at all.",
+      "choice_data_list": [
+        "Sorry I couldn't be more helpful.",
+        "Sorry I wasn't able to help more."
+      ]
     },
     {
       "name": "Buena Vista",
@@ -113,7 +124,10 @@
     },
     {
       "name": "Narrator",
-      "text": "...Everyone's nervous tension is palpable. \nI'm feeling the same way. But... Buena \nVista is right by my side—"
+      "text": "...Everyone's nervous tension is palpable. \nI'm feeling the same way. But... Buena \nVista is right by my side—",
+      "choice_data_list": [
+        "A-A-A-All right... Let's do this!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -124,7 +138,10 @@
     },
     {
       "name": "Buena Vista",
-      "text": "To everyone who has gathered here today to \nsee the new training tire...! W-Well \nthen... w-we shall begin, desu!"
+      "text": "To everyone who has gathered here today to \nsee the new training tire...! W-Well \nthen... w-we shall begin, desu!",
+      "choice_data_list": [
+        "ï¼â¦â¦Hm?ï¼"
+      ]
     },
     {
       "name": "Narrator",
@@ -136,7 +153,11 @@
     },
     {
       "name": "Buena Vista",
-      "text": "F-First, we launch the dedicated control \napp ...um... errr..."
+      "text": "F-First, we launch the dedicated control \napp ...um... errr...",
+      "choice_data_list": [
+        "Wait... did my nervousness rub off on you...!?",
+        "Wait... did my nervousness rub off on you...!?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -155,7 +176,10 @@
     },
     {
       "name": "New Hi-Tech Tire",
-      "text": "...DESTROY...!"
+      "text": "...DESTROY...!",
+      "choice_data_list": [
+        "T-Then let's try this switch..."
+      ]
     },
     {
       "name": "Espoir City",
@@ -184,13 +208,16 @@
       "name": "Buena Vista",
       "text": "...I'm sorry. If only I hadn't gotten so \nnervous—",
       "choice_data_list": [
-        "N-No, I'm the one who...",
-        "N-No, I'm the one who..."
+        "I-I'm sorry... Things kind of fell apart..."
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "It's alright! Overall reception was very \npositive, and the client company was quite \npleased as well...!"
+      "text": "It's alright! Overall reception was very \npositive, and the client company was quite \npleased as well...!",
+      "choice_data_list": [
+        "N-No, I should be the one to...",
+        "N-No, I should be the one..."
+      ]
     },
     {
       "name": "Narrator",

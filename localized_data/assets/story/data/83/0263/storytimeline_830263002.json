@@ -23,7 +23,10 @@
     },
     {
       "name": "Host",
-      "text": "Oh...? Are you quite sure about that? \nThere are many practical items available, \nthough..."
+      "text": "Oh...? Are you quite sure about that? \nThere are many practical items available, \nthough...",
+      "choice_data_list": [
+        "ï¼â¦â¦A tropical drink?ï¼"
+      ]
     },
     {
       "name": "Vivlos",
@@ -41,7 +44,10 @@
       ]
     },
     {
-      "text": "While it would probably be a terrible \nchoice on a real deserted island, today \nwas just a shoot for a few hours. The \nrecording went smoothly without a hitch."
+      "text": "While it would probably be a terrible \nchoice on a real deserted island, today \nwas just a shoot for a few hours. The \nrecording went smoothly without a hitch.",
+      "choice_data_list": [
+        "(I see...)"
+      ]
     },
     {
       "text": "Or so we thought—"
@@ -55,7 +61,10 @@
     },
     {
       "name": "Staff",
-      "text": "Yes, a replacement boat has been \ndispatched to pick us up, so please wait a \nlittle while...!"
+      "text": "Yes, a replacement boat has been \ndispatched to pick us up, so please wait a \nlittle while...!",
+      "choice_data_list": [
+        "(Huh?!)"
+      ]
     },
     {
       "name": "Vivlos",
@@ -66,7 +75,11 @@
       ]
     },
     {
-      "text": "And so we ended up waiting for the \nreplacement boat, but as time passed, the \nsun grew even hotter—"
+      "text": "And so we ended up waiting for the \nreplacement boat, but as time passed, the \nsun grew even hotter—",
+      "choice_data_list": [
+        "Yeah... I think we'll be fine once the replacement ship arrives.",
+        "Yeah... I think we'll be fine once the replacement ship gets here."
+      ]
     },
     {
       "name": "Vivlos",
@@ -86,12 +99,15 @@
       "name": "Vivlos",
       "text": "Wah... A parasol!? You went and got one \nfor me!?",
       "choice_data_list": [
-        "We can't afford you getting heatstroke, \nafter all."
+        "(Alright, let's borrow some filming equipment...!)"
       ]
     },
     {
       "name": "Vivlos",
-      "text": "Thank you so much~~...! ...Haaa~~. The \nshade feels so nice~..."
+      "text": "Thank you so much~~...! ...Haaa~~. The \nshade feels so nice~...",
+      "choice_data_list": [
+        "It'd be bad if you got heatstroke."
+      ]
     },
     {
       "name": "Vivlos",
@@ -105,11 +121,15 @@
       "name": "Vivlos",
       "text": "B-B-B-Bug! A buuug...!! It's squiggly and \nhas weird colors...!!",
       "choice_data_list": [
-        "A-Alright, I'll get rid of it, so calm \ndown!"
+        "Whoa...! What happened?!",
+        "Whoa...! What's wrong?!"
       ]
     },
     {
-      "text": "Finding bug spray among the survival \nprops, I successfully repelled the oddly \ncolored bug—!"
+      "text": "Finding bug spray among the survival \nprops, I successfully repelled the oddly \ncolored bug—!",
+      "choice_data_list": [
+        "A-All right, I'll get rid of it, so calm down!"
+      ]
     },
     {
       "name": "Vivlos",
@@ -130,7 +150,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "Okay! —You know, thank you soooo much for \neverything today!"
+      "text": "Okay! —You know, thank you soooo much for \neverything today!",
+      "choice_data_list": [
+        "It's getting dark, so watch your step, okay?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -149,7 +172,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "All the things you did for me, I bet \nOnee-chan usually does that kind of stuff \nfor me all the time."
+      "text": "All the things you did for me, I bet \nOnee-chan usually does that kind of stuff \nfor me all the time.",
+      "choice_data_list": [
+        "Well... maybe so."
+      ]
     },
     {
       "name": "Vivlos",
@@ -161,14 +187,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "Yeah! Next time, I'm gonna try helping out \ntoo!"
-    },
-    {
-      "text": "Vivlos has an honest and pure-hearted \npersonality. Perhaps thanks to this \nunusual experience, she seemed to gain a \nlot of new insights.",
+      "text": "Yeah! Next time, I'm gonna try helping out \ntoo!",
       "choice_data_list": [
-        "I hope you always treasure that innocence \nof yours.",
-        "I hope you always treasure that innocence \nof yours.",
-        "You've really grown up."
+        "I'll make sure never to forget my gratitude from now on.",
+        "I'll make sure never to forget my gratitude from now on."
       ]
     },
     {
@@ -180,7 +202,20 @@
       ]
     },
     {
-      "text": "While paying attention to practical \nmatters is important, her innocence is \nalso a precious strength. I told her that \nshe should treasure it."
+      "text": "Vivlos has an honest and pure-hearted \npersonality. Perhaps thanks to this \nunusual experience, she seemed to gain a \nlot of new insights.",
+      "choice_data_list": [
+        "I want you to hold onto that innocence of yours.",
+        "I hope you'll always cherish that innocence of yours.",
+        "You've grown up a bit, haven't you?"
+      ]
+    },
+    {
+      "text": "While paying attention to practical \nmatters is important, her innocence is \nalso a precious strength. I told her that \nshe should treasure it.",
+      "choice_data_list": [
+        "I want you to hold onto that innocence of yours.",
+        "I hope you'll always cherish that innocence of yours.",
+        "You've grown up a bit, haven't you?"
+      ]
     },
     {
       "name": "Vivlos",

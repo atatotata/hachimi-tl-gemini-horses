@@ -23,7 +23,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, Trainer... This is... urp!"
+      "text": "Oh, Trainer... This is... urp!",
+      "choice_data_list": [
+        "What're you doing...?",
+        "What are you doing...?"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -75,11 +79,21 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!"
+      "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!",
+      "choice_data_list": [
+        "Power through and clean your plate!",
+        "Power through and clean your plate!",
+        "If that's how it is, I'll use brute force...!"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "YESSS! You're right, Trainer! I gotta get\npumped!"
+      "text": "YESSS! You're right, Trainer! I gotta get\npumped!",
+      "choice_data_list": [
+        "Power through and clean your plate!",
+        "Power through and clean your plate!",
+        "If that's how it is, I'll use brute force...!"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -147,7 +161,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Oh, I get it! That's, like, such a pro\nmove!"
+      "text": "Oh, I get it! That's, like, such a pro\nmove!",
+      "choice_data_list": [
+        "Crush them from above!",
+        "You've gotta crush 'em from above!"
+      ]
     },
     {
       "name": "Winning Ticket",

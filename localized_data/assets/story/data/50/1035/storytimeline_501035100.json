@@ -135,7 +135,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "All riiight! Let's DO THIIIS!"
+      "text": "All riiight! Let's DO THIIIS!",
+      "choice_data_list": [
+        "Same here, let's do this!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -167,7 +170,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Heh heh! Right? That's 'cause we've\nbeen rivals\nsince we joined the academy!"
+      "text": "Heh heh! Right? That's 'cause we've\nbeen rivals\nsince we joined the academy!",
+      "choice_data_list": [
+        "You two are really close.",
+        "You two are really close, aren't you?"
+      ]
     },
     {
       "name": "Monologue",

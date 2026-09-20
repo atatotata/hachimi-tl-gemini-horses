@@ -11,7 +11,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...What I think?"
+      "text": "...What I think?",
+      "choice_data_list": [
+        "No, it's not an order, just a discussion.",
+        "No, it's not an order, just a discussion."
+      ]
     },
     {
       "name": "Monologue",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "You can check it out first, then decide afterwards."
+      ]
     },
     {
       "name": "Monologue",

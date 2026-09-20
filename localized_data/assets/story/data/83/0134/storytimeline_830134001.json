@@ -18,7 +18,10 @@
     },
     {
       "name": "Horse Girl A",
-      "text": "*sigh*... She's just reading a book, so \nwhy does it look like a masterpiece of a \npainting?"
+      "text": "*sigh*... She's just reading a book, so \nwhy does it look like a masterpiece of a \npainting?",
+      "choice_data_list": [
+        "(That's Mejiro Ramonu...)"
+      ]
     },
     {
       "name": "Horse Girl B",
@@ -37,7 +40,10 @@
     },
     {
       "name": "Narrator",
-      "text": "—I happened to run into her again at an \nart museum. There was a special exhibition \nfor artwork themed around races; \npresumably, it had piqued her interest as \nwell."
+      "text": "—I happened to run into her again at an \nart museum. There was a special exhibition \nfor artwork themed around races; \npresumably, it had piqued her interest as \nwell.",
+      "choice_data_list": [
+        "(I see, so it's a work of art...)"
+      ]
     },
     {
       "name": "Spectator A",
@@ -58,20 +64,23 @@
       "name": "Narrator",
       "text": "It depicted a winged horse girl galloping \nfreely across the vast sky. The \nbrushstrokes were vibrant and lively—",
       "choice_data_list": [
-        "It's beautiful—",
-        "It's beautiful..."
+        "(...An Umamusume with wings?)"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "A dreadful painting.",
       "choice_data_list": [
-        "!"
+        "So beautiful—",
+        "Stunning—"
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Narrator",
@@ -83,7 +92,11 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Why do you think it's a terrible drawing?",
+        "Why do you think it's a terrible drawing?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -96,7 +109,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Meticulous brushwork, vivid use of color. \nRecreating even light with such exquisite \nprecision, I genuinely thought the \npainting was lovely."
+      "text": "Meticulous brushwork, vivid use of color. \nRecreating even light with such exquisite \nprecision, I genuinely thought the \npainting was lovely.",
+      "choice_data_list": [
+        "Mention the quality of the drawing",
+        "Mention the feelings poured into the picture",
+        "Tell her it was intuition."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -121,12 +139,15 @@
       "name": "Mejiro Ramonu",
       "text": "...",
       "choice_data_list": [
-        "...Is that why you called it \"dreadful\"?"
+        "That's it...?"
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "...Ignorant, unenlightened, and utterly \ndevoid of love."
+      "text": "...Ignorant, unenlightened, and utterly \ndevoid of love.",
+      "choice_data_list": [
+        "...Is that why it's a \"terrible drawing\"?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -137,7 +158,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day..."
+      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day...",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -157,7 +181,11 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Rather, I sense an \"unfreedom\" shackled by \nimagination."
+      "text": "Rather, I sense an \"unfreedom\" shackled by \nimagination.",
+      "choice_data_list": [
+        "...Not you?",
+        "...Not for you?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -172,7 +200,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Who can say... All I can tell you is—"
+      "text": "Who can say... All I can tell you is—",
+      "choice_data_list": [
+        "Hence the 'terrible drawing'?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -183,7 +214,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day..."
+      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day...",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -198,7 +232,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Unpretentious, aren't you?"
+      "text": "Unpretentious, aren't you?",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -215,13 +252,16 @@
       "name": "Mejiro Ramonu",
       "text": "Though my answer remains unchanged.",
       "choice_data_list": [
-        "Why do you think it's \"dreadful\"?",
-        "Why do you consider it \"dreadful\"?"
+        "！！"
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Because it lacks love. Besides..."
+      "text": "Because it lacks love. Besides...",
+      "choice_data_list": [
+        "Why do you think it's an \"awful drawing\"?",
+        "Why do you think it's a 'terrible drawing'?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -232,7 +272,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day..."
+      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day...",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Narrator",
@@ -247,7 +290,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Sensibility varies from person to person, \nafter all."
+      "text": "Sensibility varies from person to person, \nafter all.",
+      "choice_data_list": [
+        "...Is that... not okay?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -264,12 +310,15 @@
       "name": "Mejiro Ramonu",
       "text": "I have no desire to debate, so it hardly \nmatters.",
       "choice_data_list": [
-        "By the way, what is the reason for calling \nit \"dreadful\"...?"
+        "！"
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Who can say... All I can tell you is—"
+      "text": "Who can say... All I can tell you is—",
+      "choice_data_list": [
+        "By the way, what's the reason behind the 'terrible drawing'...?"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -280,7 +329,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day..."
+      "text": "Mejiro Ramonu's eyes flared with a sharp \nintensity. That chilling gaze left a \ndeeper mark on me than anything else I saw \nthat day...",
+      "choice_data_list": [
+        "……！"
+      ]
     }
   ]
 }

@@ -61,7 +61,9 @@
     {
       "name": "Victoire Pisa",
       "text": "However, as for this path leading to the \nworld— I am sorry, but I cannot yield it \nto anyone.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...No. That can't be right."
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -79,13 +81,15 @@
       "name": "Victoire Pisa",
       "text": "Hello, Trainer-san. Is something the \nmatter?",
       "choice_data_list": [
-        "I want you to keep <chrname> company."
+        "(...I want to see for myself.)"
       ]
     },
     {
       "name": "Victoire Pisa",
       "text": "Yes, of course I don't mind. However—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'd like you to keep <chrname> company."
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -97,7 +101,9 @@
     {
       "name": "Victoire Pisa",
       "text": "“...... Understood. I will give it \neverything I have right now.”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'd like this to be a serious match."
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -125,7 +131,10 @@
     {
       "name": "Victoire Pisa",
       "text": "...It is to connect our 'bonds' across the \nworld.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Why is it you want to run in the Prix de l'Arc de Triomphe?",
+        "Why do you want to run in the Prix de l'Arc de Triomphe?"
+      ]
     },
     {
       "name": "Narrator",

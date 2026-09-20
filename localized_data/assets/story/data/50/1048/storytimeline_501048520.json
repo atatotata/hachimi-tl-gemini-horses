@@ -7,7 +7,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "I just remembered I have something to\ndo. You go\non ahead."
+      "text": "I just remembered I have something to\ndo. You go\non ahead.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Monologue",
@@ -59,15 +63,29 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems Tosen Jordan is planning to do\n\nsomething with Daiwa Scarlet..."
+      "text": "It seems Tosen Jordan is planning to do\n\nsomething with Daiwa Scarlet...",
+      "choice_data_list": [
+        "Take it easy, alright?",
+        "Take it easy, okay?",
+        "I'll show you a shortcut."
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? I'm still totes good to go. It's not\ncool to\nunderestimate people's stamina,\nyou know."
+      "text": "Huh? I'm still totes good to go. It's not\ncool to\nunderestimate people's stamina,\nyou know.",
+      "choice_data_list": [
+        "Take it easy, alright?",
+        "Take it easy, okay?",
+        "I'll show you a shortcut."
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "What? No, that's not what I'm—"
+      "text": "What? No, that's not what I'm—",
+      "choice_data_list": [
+        "Then want to try ramping up the training load?",
+        "Then should we try ramping up the training load?"
+      ]
     },
     {
       "name": "Tosen Jordan",

@@ -95,15 +95,26 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Hm? I'm fine. Why do you ask?"
+      "text": "Hm? I'm fine. Why do you ask?",
+      "choice_data_list": [
+        "Acute, are you sure?",
+        "Acute, are you sure?"
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh, that. Tarumae asked me, so..."
+      "text": "Oh, that. Tarumae asked me, so...",
+      "choice_data_list": [
+        "Did you just say the 'Champions Cup'?"
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Weeell..."
+      "text": "Weeell...",
+      "choice_data_list": [
+        "Why did you agree to that?",
+        "Why did you say yes?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -115,7 +126,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm afraid to push her any further. I don't\nwant to\ngo too far, so I let it be. But..."
+      "text": "I'm afraid to push her any further. I don't\nwant to\ngo too far, so I let it be. But...",
+      "choice_data_list": [
+        "...Yeah.",
+        "...Yeah."
+      ]
     },
     {
       "name": "Monologue",

@@ -95,7 +95,11 @@
     },
     {
       "name": "Duramente",
-      "text": "...No, I did not. However, as this remains \nmy own personal challenge――"
+      "text": "...No, I did not. However, as this remains \nmy own personal challenge――",
+      "choice_data_list": [
+        "Did you accomplish what you set out to do?",
+        "Were you able to accomplish what you came for?"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -130,7 +134,10 @@
     },
     {
       "name": "Duramente",
-      "text": "I couldn't bring myself to reveal it. \n...That I was struggling with something as \nsimple as cracking an egg, and went so far \nas to seek a solution elsewhere."
+      "text": "I couldn't bring myself to reveal it. \n...That I was struggling with something as \nsimple as cracking an egg, and went so far \nas to seek a solution elsewhere.",
+      "choice_data_list": [
+        "...They didn't get it?!"
+      ]
     },
     {
       "name": "Duramente",
@@ -157,14 +164,19 @@
       "name": "Neo Universe",
       "text": "...Neo Universe is \"COMF\". \"Connect\" with \nDuramente is good.",
       "choice_data_list": [
-        "You had some good \"communion\", huh?",
-        "You had some good \"communion\", didn't you?",
-        "I'd like to hear what you both thought of \nthe trip."
+        "Sounds like you made good 'contact.'",
+        "Sounds like you made good 'contact,' then.",
+        "I want to hear both of your thoughts on the mid-race."
       ]
     },
     {
       "name": "Duramente",
-      "text": "Yeah. Time like this is nice once in a \nwhile."
+      "text": "Yeah. Time like this is nice once in a \nwhile.",
+      "choice_data_list": [
+        "Sounds like you made good 'contact.'",
+        "Sounds like you made good 'contact,' then.",
+        "I want to hear both of your thoughts on the mid-race."
+      ]
     },
     {
       "name": "Duramente",

@@ -87,14 +87,16 @@
       "name": "Tokai Teio",
       "text": "Ah! Is that Sirius's Trainer over there? \nYoo-hoo!",
       "choice_data_list": [
-        "Were you two out together?",
-        "Have you two been hanging out together?"
+        "(This is kind of... an unusual sight?)"
       ]
     },
     {
       "name": "Sirius Symboli",
       "text": "Why would I bother doing something that \nannoying? This guy just tagged along on \nhis own.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Were the two of you out together?",
+        "Were the two of you out together?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -120,16 +122,21 @@
       "name": "Narrator",
       "text": "I understand completely how Tokai Teio \nfeels. When you're anxious, having someone \nshow even a little care makes you \nnaturally want to follow them.",
       "choice_data_list": [
-        "If you need a guide, I can help too!",
-        "If you need a guide, I can help too!",
-        "Gotta make sure she gets safely back to \nthe academy.",
-        "I need to make sure to walk her all the \nway back to the academy."
+        "If you need directions, I can help too!",
+        "If you need directions, I can help too!",
+        "I'd better make sure you get safely back to the academy.",
+        "I'd better make sure I see you safely back to the academy."
       ]
     },
     {
       "name": "Tokai Teio",
       "text": "\"What's this? You want to come along too? \nWell, I guess I can't say no~♪\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you need directions, I can help too!",
+        "If you need directions, I can help too!",
+        "I'd better make sure you get safely back to the academy.",
+        "I'd better make sure I see you safely back to the academy."
+      ]
     },
     {
       "name": "Sirius Symboli",

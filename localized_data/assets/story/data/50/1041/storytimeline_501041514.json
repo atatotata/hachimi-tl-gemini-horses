@@ -15,7 +15,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "What do you mean? Isn't it obvious? My\nstomach\nache subsided so I came to\nschool!"
+      "text": "What do you mean? Isn't it obvious? My\nstomach\nache subsided so I came to\nschool!",
+      "choice_data_list": [
+        "Wait, what are you doing, Bakushin O!",
+        "Wait, what are you doing, Bakushin O!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -23,7 +27,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I'm just hungry, that's all! It's definitely\nnot a\nstomachache!"
+      "text": "I'm just hungry, that's all! It's definitely\nnot a\nstomachache!",
+      "choice_data_list": [
+        "Maybe it's not fully healed after all..."
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +38,23 @@
     },
     {
       "name": "Monologue",
-      "text": "She clearly hasn't recovered."
+      "text": "She clearly hasn't recovered.",
+      "choice_data_list": [
+        "You have to head back to the dorms.",
+        "You have to head back to the dorms.",
+        "Are you really okay with making everyone worry?",
+        "Are you really okay with making everyone worry?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I tell her to rest up, but..."
+      "text": "I tell her to rest up, but...",
+      "choice_data_list": [
+        "You have to head back to the dorms.",
+        "You have to head back to the dorms.",
+        "Are you really okay with making everyone worry?",
+        "Are you really okay with making everyone worry?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -59,7 +78,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I refuse! As the class representative, I\nhave duties\nto attend to!"
+      "text": "I refuse! As the class representative, I\nhave duties\nto attend to!",
+      "choice_data_list": [
+        "Stop! We're heading back to the dorms!",
+        "Stop! We're heading back to the dorms!"
+      ]
     },
     {
       "name": "Classmate A",
@@ -99,7 +122,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "That's not true, have a look.",
+        "That's not true. Take a look."
+      ]
     },
     {
       "name": "Classmate A",
@@ -119,7 +146,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh my! It seems I'm still needed as class\n\nrepresentative!"
+      "text": "Oh my! It seems I'm still needed as class\n\nrepresentative!",
+      "choice_data_list": [
+        "See? What did I tell you?",
+        "See? Didn't I tell you?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -159,7 +190,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Y-yes. Sorry..."
+      "text": "Y-yes. Sorry...",
+      "choice_data_list": [
+        "Let's go rest in the infirmary for now."
+      ]
     },
     {
       "name": "Monologue",
@@ -175,7 +209,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "That's fine and all, but as class\nrepresentative, I\ncan't help but worry\nabout the class."
+      "text": "That's fine and all, but as class\nrepresentative, I\ncan't help but worry\nabout the class.",
+      "choice_data_list": [
+        "First, let's focus on getting you healed up."
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -187,7 +224,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I quietly exit the infirmary, being careful\nnot to\nwake Sakura Bakushin O."
+      "text": "I quietly exit the infirmary, being careful\nnot to\nwake Sakura Bakushin O.",
+      "choice_data_list": [
+        "...Guess I'll go check on the class for you.",
+        "...Shall I go check on the class for you?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -223,11 +264,17 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Intense training offsets intense pain...\nright?"
+      "text": "Intense training offsets intense pain...\nright?",
+      "choice_data_list": [
+        "Wait, what?!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "After that, her classmates and I have to\nstop\nSakura Bakushin O from getting up\nand running\nout."
+      "text": "After that, her classmates and I have to\nstop\nSakura Bakushin O from getting up\nand running\nout.",
+      "choice_data_list": [
+        "It's completely different...!"
+      ]
     }
   ]
 }

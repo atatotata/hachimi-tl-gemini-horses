@@ -36,7 +36,9 @@
     {
       "name": "Cesario",
       "text": "“—So, what did you want to discuss? \nTrainer.”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I need to... talk to her...)"
+      ]
     },
     {
       "name": "Narrator",
@@ -49,7 +51,10 @@
     {
       "name": "Cesario",
       "text": "True feelings—?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Your true feelings or whatever else, anything works.",
+        "Whether it's your true feelings or not, just tell me."
+      ]
     },
     {
       "name": "Cesario",
@@ -62,13 +67,15 @@
       "name": "Cesario",
       "text": "\"Yes. ...You're saying that's not what you \ntruly feel?\"",
       "choice_data_list": [
-        "...That's..."
+        "...Do you truly believe that?"
       ]
     },
     {
       "name": "Cesario",
       "text": "...I see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...That's..."
+      ]
     },
     {
       "name": "Cesario",
@@ -95,7 +102,9 @@
     {
       "name": "Narrator",
       "text": "Her defense mechanisms may have kicked in, \ntemporarily blinding her to her own \nemotions— that is a real possibility.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...Does she not realize?)"
+      ]
     },
     {
       "name": "Cesario",
@@ -108,14 +117,16 @@
       "name": "Narrator",
       "text": "\"...At the very least, confronting her \nemotions recklessly right now is not a \nwise move.\"",
       "choice_data_list": [
-        "Yeah, sorry for taking up your time.",
-        "Yeah, sorry for taking up your time."
+        "(If it was really that incredible—)"
       ]
     },
     {
       "name": "Cesario",
       "text": "No, not at all. There was actually one \nthing I wanted to consult you about as \nwell.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, sorry for taking up your time.",
+        "Yeah, sorry for taking up your time."
+      ]
     },
     {
       "name": "Cesario",
@@ -132,7 +143,9 @@
     {
       "name": "Narrator",
       "text": "\"If we take racing away from her now, it \nmight lead to something even more \nirreversible.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(If we want to be safe, rest is best. But—)"
+      ]
     },
     {
       "name": "Narrator",
@@ -160,7 +173,10 @@
     {
       "name": "Narrator",
       "text": "And so, the \"Summer Training Camp\" began.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Yeah.",
+        "...Yeah."
+      ]
     }
   ]
 }

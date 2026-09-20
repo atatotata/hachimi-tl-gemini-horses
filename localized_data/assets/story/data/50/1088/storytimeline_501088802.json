@@ -210,16 +210,21 @@
       "name": "Satono Crown",
       "text": "And so, what we ended up with is that \nprotein tea! How is it?",
       "choice_data_list": [
-        "So you're gonna sell it under the product \nname \"Delicious!\"?",
-        "Are you going to sell it with a product \nname like \"Delicious!\"?",
-        "Ah, that's a nice combo deal.",
-        "Yeah, that's a great combo product."
+        "It's delicious! What product name are you selling it under?",
+        "It's delicious! What product name are you selling it under?",
+        "Yeah, that's a great combo set.",
+        "Yeah, they make a great combo product."
       ]
     },
     {
       "name": "Satono Crown",
       "text": "A product name...! Come to think of it, we \nhaven't decided on one yet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's delicious! What product name are you selling it under?",
+        "It's delicious! What product name are you selling it under?",
+        "Yeah, that's a great combo set.",
+        "Yeah, they make a great combo product."
+      ]
     },
     {
       "name": "Satono Crown",
@@ -241,7 +246,9 @@
     {
       "name": "Both",
       "text": "Prioritizing simplicity is the best♪ \nPrioritizing simplicity is the best.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Isn't that a bit too simple?"
+      ]
     },
     {
       "name": "Satono Crown",

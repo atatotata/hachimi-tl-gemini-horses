@@ -118,13 +118,16 @@
       "name": "Rulership",
       "text": "\"No, I was just thinking that this race's \ndevelopments were rather irregular.\"",
       "choice_data_list": [
-        "Irregular?"
+        "What's the matter, Ruler?",
+        "What's wrong, Ruler?"
       ]
     },
     {
       "name": "Rulership",
       "text": "\"Yeah, when one player joins or leaves, it \noften completely changes the game.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "An anomaly?"
+      ]
     },
     {
       "name": "Rulership",
@@ -176,7 +179,9 @@
     {
       "name": "Rulership",
       "text": "Ah, could you wait just a moment? There is \nsomeone I must contact.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ruler, about what comes next..."
+      ]
     },
     {
       "name": "Rulership",
@@ -194,14 +199,16 @@
       "name": "Rulership",
       "text": "Yeah, it went off without a hitch. So, \nabout what comes next, right?",
       "choice_data_list": [
-        "Yeah, regarding our next goal, though—",
-        "Yeah, about our next goal, though..."
+        "Did everything go okay with your errand?"
       ]
     },
     {
       "name": "",
       "text": "To prove oneself as the true ruler, the \nfirst milestone to aim for should be the \nSpring GⅠs.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, about our next goal—",
+        "Yeah, about our next goal—"
+      ]
     },
     {
       "name": "",
@@ -213,7 +220,9 @@
     {
       "name": "Rulership",
       "text": "No, before starting a new game—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Maybe the Osaka Hai in March."
+      ]
     },
     {
       "name": "Rulership",
@@ -225,7 +234,9 @@
     {
       "name": "Rulership",
       "text": "Yeah, the Arima Kinen is over, but... it \ndidn't turn out to be the game I had \nanticipated.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Overtime...?"
+      ]
     },
     {
       "name": "Rulership",
@@ -273,7 +284,10 @@
     {
       "name": "Rulership",
       "text": "Yeah, I figured you'd say that. This extra \nround is a bit different in nature from \nthe Arima Kinen.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No problem. Let's do it—overtime!",
+        "No problem! Let's do it—overtime!"
+      ]
     },
     {
       "name": "Rulership",

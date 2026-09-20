@@ -27,7 +27,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And with that, the event begins.\nHowever..."
+      "text": "And with that, the event begins.\nHowever...",
+      "choice_data_list": [
+        "Nice to work with you."
+      ]
     },
     {
       "name": "Cameraman",
@@ -127,11 +130,21 @@
     },
     {
       "name": "Monologue",
-      "text": "Based on seeing what Kawakami Princess\ndid just\nnow, I believe..."
+      "text": "Based on seeing what Kawakami Princess\ndid just\nnow, I believe...",
+      "choice_data_list": [
+        "I'm sure Prince Charming will come to you instead.",
+        "There's also a chance you could become the prince yourself.",
+        "There's also a chance you could become the prince yourself."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I tell Kawakami Princess that her many\nwonderful\nand unique quirks will have\nprinces flocking her\nway."
+      "text": "I tell Kawakami Princess that her many\nwonderful\nand unique quirks will have\nprinces flocking her\nway.",
+      "choice_data_list": [
+        "I'm sure Prince Charming will come to you instead.",
+        "There's also a chance you could become the prince yourself.",
+        "There's also a chance you could become the prince yourself."
+      ]
     },
     {
       "name": "Kawakami Princess",

@@ -22,16 +22,18 @@
       "name": "Narita Top Road",
       "text": "Huh!? That can't be...!",
       "choice_data_list": [
-        "Does anything come to mind?"
+        "Wait... that's slower than before."
       ]
     },
     {
       "name": "Narita Top Road",
       "text": "I got enough sleep, and I ate breakfast... \nHmm, there's no obvious cause...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Does anything come to mind?"
+      ]
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—Hey, you forgot to drink this.",
       "choice_data_list": []
     },
@@ -55,7 +57,9 @@
     {
       "name": "Narita Top Road",
       "text": "Ehehe... It's an old habit of mine. I just \ncan't get into the groove without drinking \nit!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Was milk the cause?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -148,7 +152,10 @@
     {
       "name": "Narita Top Road",
       "text": "Yes! I think so too!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You two have a nice dynamic.",
+        "You two have a good relationship."
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -209,16 +216,21 @@
       "name": "",
       "text": "It seems Narita Top Road is doing well in \nher dorm room too.",
       "choice_data_list": [
-        "Keep joining forces and do your best!",
+        "Join forces and keep giving it your all!",
         "Keep joining forces and doing your best!",
-        "Looks like we could both gain something by \nworking together!",
-        "Looks like we could both gain something by \nworking together, huh!"
+        "If we work together, we'll both have something to gain!",
+        "If we work together, we'll both have something to gain!"
       ]
     },
     {
       "name": "Narita Top Road",
       "text": "Yes! From here on out, the two of us will \novercome academy life together!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Join forces and keep giving it your all!",
+        "Keep joining forces and doing your best!",
+        "If we work together, we'll both have something to gain!",
+        "If we work together, we'll both have something to gain!"
+      ]
     },
     {
       "name": "Jungle Pocket",

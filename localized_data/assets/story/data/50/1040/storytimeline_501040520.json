@@ -67,7 +67,11 @@
     },
     {
       "name": "Gold City",
-      "text": "A test of speed, huh. Sounds simple\nenough."
+      "text": "A test of speed, huh. Sounds simple\nenough.",
+      "choice_data_list": [
+        "Speed Contest: 'Buzzer Battle'",
+        "A Test of Grit: The \"Scattered Quiz\""
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -135,7 +139,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Now, next question! The oldest U—"
+      "text": "Now, next question! The oldest U—",
+      "choice_data_list": [
+        "(City's vibe seems different...)"
+      ]
     },
     {
       "name": "Gold City",
@@ -243,7 +250,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Urgh... I know!"
+      "text": "Urgh... I know!",
+      "choice_data_list": [
+        "City, calm down!"
+      ]
     },
     {
       "name": "Event Commentator",

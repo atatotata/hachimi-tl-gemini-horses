@@ -31,7 +31,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh, don't tell me. Tata caught your eye?"
+      "text": "Oh, don't tell me. Tata caught your eye?",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -91,7 +94,11 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Please, don't ask...\nJust thinking about\nit... makes me..."
+      "text": "Please, don't ask...\nJust thinking about\nit... makes me...",
+      "choice_data_list": [
+        "Wh-What happened!?",
+        "Wh-What happened!?"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -107,7 +114,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Ah..."
+      "text": "Ah...",
+      "choice_data_list": [
+        "C-Calm down...!"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -123,11 +133,21 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Yeaaaah, I might've gunned it a little\ntoo hard\nback there. Or maybe we got\ntoo much air?"
+      "text": "Yeaaaah, I might've gunned it a little\ntoo hard\nback there. Or maybe we got\ntoo much air?",
+      "choice_data_list": [
+        "That really was some grueling training.",
+        "That really was some grueling training.",
+        "Hearing you talk about it got me kind of interested—"
+      ]
     },
     {
       "name": "Aston Machan",
-      "text": "Yes, especially when we were driving by\nthe oce—"
+      "text": "Yes, especially when we were driving by\nthe oce—",
+      "choice_data_list": [
+        "That really was some grueling training.",
+        "That really was some grueling training.",
+        "Hearing you talk about it got me kind of interested—"
+      ]
     },
     {
       "name": "Aston Machan",

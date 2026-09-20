@@ -229,23 +229,27 @@
       "name": "Narrator",
       "text": "I had heard rumors that Daring Heart let \ngo of her beloved lizard... I wonder if \nshe's feeling down after all...",
       "choice_data_list": [
-        "Umm, should I go buy us some drinks?",
-        "I hope the little one I used to keep is \ndoing well!",
-        "I hope the little one you used to keep is \ndoing well!"
+        "Umm, should I go grab us some drinks?",
+        "I hope the pet you used to have is doing well!",
+        "I hope the pet you used to have is doing well, too!"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "In that case, let's go to a cafe! You go \non ahead, I'll catch up right away!",
       "choice_data_list": [
-        "Yeah, got it.",
-        "Yeah, I understand."
+        "Umm, should I go grab us some drinks?",
+        "I hope the pet you used to have is doing well!",
+        "I hope the pet you used to have is doing well, too!"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "All right, got it.",
+        "Yeah, I got it."
+      ]
     },
     {
       "name": "Daring Heart",

@@ -19,7 +19,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Um..."
+      "text": "Um...",
+      "choice_data_list": [
+        "How did it feel when you ran?"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -27,11 +30,18 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Really? That's a relief..."
+      "text": "Really? That's a relief...",
+      "choice_data_list": [
+        "Even just watching, I could tell it went great!"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "I agree. I think they're a good fit for me."
+      "text": "I agree. I think they're a good fit for me.",
+      "choice_data_list": [
+        "Sprints won't be a problem.",
+        "Sprints won't be a problem, then."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -39,7 +49,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Ideally, if she can run slightly longer\ndistances,\nshe can compete in more\ngraded races and\nimprove her versatility."
+      "text": "Ideally, if she can run slightly longer\ndistances,\nshe can compete in more\ngraded races and\nimprove her versatility.",
+      "choice_data_list": [
+        "That sounds nice too, but..."
+      ]
     },
     {
       "name": "Monologue",
@@ -51,15 +64,24 @@
     },
     {
       "name": "Reporter A",
-      "text": "Oh! A mile race?! If she's planning to run\nthe\nMilers Cup, then the next race after\nthat must\nbe..."
+      "text": "Oh! A mile race?! If she's planning to run\nthe\nMilers Cup, then the next race after\nthat must\nbe...",
+      "choice_data_list": [
+        "Our next goal is the Milers Cup."
+      ]
     },
     {
       "name": "Reporter A",
-      "text": "So she <i>is</i> going after a G1 race! Does she\nhave\nany plans to run in\nmedium-distance races in the\nfuture ?"
+      "text": "So she <i>is</i> going after a G1 race! Does she\nhave\nany plans to run in\nmedium-distance races in the\nfuture ?",
+      "choice_data_list": [
+        "We're planning to take on the GⅠ Yasuda Kinen as well."
+      ]
     },
     {
       "name": "Reporter A",
-      "text": "Hm. I see... Well, Nishino Flower has\nbeen\nperforming excellently so far."
+      "text": "Hm. I see... Well, Nishino Flower has\nbeen\nperforming excellently so far.",
+      "choice_data_list": [
+        "Nothing in particular right now."
+      ]
     },
     {
       "name": "Reporter A",
@@ -71,7 +93,10 @@
     },
     {
       "name": "Reporter A",
-      "text": "Haha. Apologies for suddenly bringing\nthat up.\nBut when you <i>are</i> awarded for\nyour excellence, I\nhope you'll allow the\nmedia to celebrate with you!"
+      "text": "Haha. Apologies for suddenly bringing\nthat up.\nBut when you <i>are</i> awarded for\nyour excellence, I\nhope you'll allow the\nmedia to celebrate with you!",
+      "choice_data_list": [
+        "I've never even thought about receiving an award."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -83,7 +108,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Thank you!"
+      "text": "Thank you!",
+      "choice_data_list": [
+        "All right, I'll be waiting outside."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -191,7 +219,11 @@
     },
     {
       "name": "Monologue",
-      "text": "As curious as I am about the change in\nYamanin\nZephyr, we first need to focus\non training for our\nnext goal."
+      "text": "As curious as I am about the change in\nYamanin\nZephyr, we first need to focus\non training for our\nnext goal.",
+      "choice_data_list": [
+        "We might find something out at the 'Milers C'.",
+        "We might learn something at the 'Milers C'."
+      ]
     }
   ]
 }

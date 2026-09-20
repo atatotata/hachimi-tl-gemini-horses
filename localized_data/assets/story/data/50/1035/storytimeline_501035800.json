@@ -31,7 +31,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "All right! Time to lug this coal to its\ndestination!\nYou three can catch up\nlater!"
+      "text": "All right! Time to lug this coal to its\ndestination!\nYou three can catch up\nlater!",
+      "choice_data_list": [
+        "Ticket?! Wait a sec—"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -107,7 +110,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...It's not the standard way to progress,\nbut by\nboosting her affinity with the\nmayor, Ticket\nforced the mission to\ncompletion."
+      "text": "...It's not the standard way to progress,\nbut by\nboosting her affinity with the\nmayor, Ticket\nforced the mission to\ncompletion.",
+      "choice_data_list": [
+        "What do you mean?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -159,11 +165,23 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes, and you never fail to move people's\nhearts\nwith your actions. That includes\nus."
+      "text": "Yes, and you never fail to move people's\nhearts\nwith your actions. That includes\nus.",
+      "choice_data_list": [
+        "You really are saving everyone.",
+        "You really are saving everyone, aren't you?",
+        "Want to take a commemorative photo?",
+        "Want to take a commemorative photo?"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "...I am?!"
+      "text": "...I am?!",
+      "choice_data_list": [
+        "You really are saving everyone.",
+        "You really are saving everyone, aren't you?",
+        "Want to take a commemorative photo?",
+        "Want to take a commemorative photo?"
+      ]
     },
     {
       "name": "Biwa Hayahide",

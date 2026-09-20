@@ -59,7 +59,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes. I'm fine."
+      "text": "Yes. I'm fine.",
+      "choice_data_list": [
+        "...Are you okay?",
+        "...Are you okay?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -111,7 +115,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, sorry! Let's reanalyze things right\naway.\nThere's not much time left until\nthe Derby, so we\ncan't waste any time..."
+      "text": "Oh, sorry! Let's reanalyze things right\naway.\nThere's not much time left until\nthe Derby, so we\ncan't waste any time...",
+      "choice_data_list": [
+        "Hayahide?"
+      ]
     },
     {
       "name": "",

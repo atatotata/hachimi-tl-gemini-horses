@@ -43,7 +43,10 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Wait a second, Rickey."
+      ]
     },
     {
       "name": "Monologue",
@@ -75,11 +78,18 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Guilty?"
+      "text": "Guilty?",
+      "choice_data_list": [
+        "Maybe she feels... responsible."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "After her devastating loss in Dubai, she\ncould be\nblaming herself, thinking she's\ndisgraced the\nhonor of her hometown."
+      "text": "After her devastating loss in Dubai, she\ncould be\nblaming herself, thinking she's\ndisgraced the\nhonor of her hometown.",
+      "choice_data_list": [
+        "Yeah, saying they can't face everyone back home.",
+        "Yeah, saying you couldn't face everyone back home."
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -95,7 +105,10 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "...Yeah, you're right. If I go to meet her\nright now,\nit'd have the opposite effect."
+      "text": "...Yeah, you're right. If I go to meet her\nright now,\nit'd have the opposite effect.",
+      "choice_data_list": [
+        "Let's channel our supportive spirit... during the race."
+      ]
     },
     {
       "name": "Monologue",

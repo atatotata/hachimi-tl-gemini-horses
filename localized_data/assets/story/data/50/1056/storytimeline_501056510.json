@@ -15,7 +15,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "You see, we're going to be interviewed\ntomorrow."
+      "text": "You see, we're going to be interviewed\ntomorrow.",
+      "choice_data_list": [
+        "Sure, but what did you want to talk about?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -51,7 +54,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "...Modern cameras? You mean they're\nsafer than\nthe older ones?"
+      "text": "...Modern cameras? You mean they're\nsafer than\nthe older ones?",
+      "choice_data_list": [
+        "Modern cameras are totally fine.",
+        "We just need to get your soul back."
+      ]
     },
     {
       "name": "Monologue",

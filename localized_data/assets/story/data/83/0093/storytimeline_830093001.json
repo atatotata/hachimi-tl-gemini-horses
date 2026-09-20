@@ -123,15 +123,28 @@
     },
     {
       "name": "Monologue",
-      "text": "I spot Daiwa Scarlet by the academy\ngates. She\nseems somewhat forlorn..."
+      "text": "I spot Daiwa Scarlet by the academy\ngates. She\nseems somewhat forlorn...",
+      "choice_data_list": [
+        "Heading back from shopping?",
+        "...Did something happen?",
+        "...Is something the matter?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ah, no... This cake was a gift."
+      "text": "Ah, no... This cake was a gift.",
+      "choice_data_list": [
+        "Heading back from shopping?",
+        "...Did something happen?",
+        "...Is something the matter?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "O-of course not! Um, my Mom bought it\nfor me!\nI'm so thrilled that I just kind of\nzoned out!"
+      "text": "O-of course not! Um, my Mom bought it\nfor me!\nI'm so thrilled that I just kind of\nzoned out!",
+      "choice_data_list": [
+        "Having some trouble with the present?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

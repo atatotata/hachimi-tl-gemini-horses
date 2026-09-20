@@ -12,13 +12,15 @@
       "name": "Narrator",
       "text": "To help Gentildonna grow even further, I \nexamined past data and summer Umamusume \ngrowth rates, calculated everything... and \ndrafted a meticulous training menu.",
       "choice_data_list": [
-        "(Gentildonna should be satisfied with \nthis.)"
+        "(I came up with a great training menu!)"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "――……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Gentil should be satisfied with this.)"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -30,7 +32,9 @@
     {
       "name": "Gentildonna",
       "text": "For example, take the turnaround in our \ntraining routine.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -52,7 +56,9 @@
     {
       "name": "Gentildonna",
       "text": "It seems you are still misjudging the \ncapabilities of your trainee.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -80,7 +86,10 @@
     {
       "name": "Narrator",
       "text": "“That's not realistic—” I started to say, \nbut held my tongue.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...That is definitely ideal, but—",
+        "...It's certainly ideal, but—"
+      ]
     },
     {
       "name": "Narrator",
@@ -93,21 +102,23 @@
       "name": "Gentildonna",
       "text": "Indeed. What I expect from a Trainer is an \neven greater surprise.",
       "choice_data_list": [
-        "…So, I can expect great things from you, \nright?",
-        "…So, I can expect great things from you, \nthen?"
+        "Merely convincing them isn't enough..."
       ]
     },
     {
       "name": "Gentildonna",
       "text": "What?",
       "choice_data_list": [
-        "The strength to withstand tremendous \nstrain"
+        "...In other words, I can expect great things from you.",
+        "...In other words, I can expect great things from you, right?"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "I was prepared for this from the very \nbeginning.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The strength to endure intense strain."
+      ]
     },
     {
       "name": "Gentildonna",
@@ -139,7 +150,9 @@
     {
       "name": "Narrator",
       "text": "The other premier Classic route... The \nwinner of this year's Satsuki Sho, the \nfirst jewel of the Classic Triple Crown.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(This girl is... Gold Ship!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -157,7 +170,10 @@
     {
       "name": "Gold Ship",
       "text": "Damn straight!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Wait, are you talking to me?",
+        "...Wait, are you talking to me?"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -169,7 +185,9 @@
     {
       "name": "Narrator",
       "text": "\"Come to think of it, Gentildonna is from \nthe same generation as Gold Ship and \nshould be familiar with her... Looking \nover to her for help—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Uhm...?"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -181,7 +199,9 @@
     {
       "name": "Gold Ship",
       "text": "Whaaat? Don't tell me you're... one of the \nRockfish gang?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ehhhh..."
+      ]
     },
     {
       "name": "Gold Ship",
@@ -194,13 +214,15 @@
       "name": "Gentildonna",
       "text": "\"...Showing them once should satisfy them. \nGo ahead and do it.\"",
       "choice_data_list": [
-        "Eeeh...!?!?"
+        "Ehhhh...?!"
       ]
     },
     {
       "name": "Narrator",
       "text": "\"...Problems are piling up left and right, \nbut regardless, the fiery summer training \ncamp has begun!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ehhhh...?!?!"
+      ]
     }
   ]
 }

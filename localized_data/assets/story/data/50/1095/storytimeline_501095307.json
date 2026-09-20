@@ -132,7 +132,10 @@
     {
       "name": "Narrator",
       "text": "My mind was thrown into utter chaos. How \nshould I comfort her? How should I praise \nher?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Amazing... You're incredible, Believe...!)",
+        "(Amazing... You're really incredible, Believe...!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -155,20 +158,22 @@
       "name": "Believe",
       "text": "? Yes.",
       "choice_data_list": [
-        "...Believe...!!!!!"
+        "Believe...!!"
       ]
     },
     {
       "name": "Believe",
       "text": "……？",
       "choice_data_list": [
-        "............――Belieeeeeve...!!!"
+        "...Believe...!!!!!"
       ]
     },
     {
       "name": "Believe",
       "text": "…………Um.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………――Believe~~~...!!!"
+      ]
     },
     {
       "name": "Believe",
@@ -180,7 +185,9 @@
     {
       "name": "Believe",
       "text": "I understand. For the most part... \nprobably.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Believe",
@@ -192,7 +199,9 @@
     {
       "name": "Believe",
       "text": "\"That's why I understand. ...I know.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah......"
+      ]
     },
     {
       "name": "Believe",
@@ -225,7 +234,10 @@
     {
       "name": "Believe",
       "text": "Yes, I know. That's why—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh! You have today off, remember?",
+        "Huh! You have today off, you know?"
+      ]
     },
     {
       "name": "Believe",
@@ -243,13 +255,15 @@
       "name": "Believe",
       "text": "Yes. It's plum syrup made by steeping \nplums in rock sugar. If you mix it with \nwater or sparkling water, it makes plum \njuice. Kiyomi-san shared some with me.",
       "choice_data_list": [
-        "Yeah, that place we often go to on our \nruns...!"
+        "This fragrance... could it be plum blossoms?"
       ]
     },
     {
       "name": "Believe",
       "text": "\"Plum blossom season is a bit past its \npeak, so I was worried whether any would \nbe left.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah, that place we often pass while running...!"
+      ]
     },
     {
       "name": "Believe",
@@ -281,7 +295,9 @@
     {
       "name": "Believe",
       "text": "\"It was always like that... whenever \nGrandpa finished work.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait... cheers?"
+      ]
     },
     {
       "name": "Believe's Grandmother",
@@ -319,14 +335,16 @@
       "name": "Narrator",
       "text": "Her quiet voice resonates in my chest. The \nslight tremor in it seeps deep into my \nheart.",
       "choice_data_list": [
-        "Yeah. ...I'd really love to make a toast.",
-        "Yeah. ...I'd love to make a toast with \nyou."
+        "Believe..."
       ]
     },
     {
       "name": "Believe",
       "text": "Thank you very much. ...Well then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah. ...Please, let me propose a toast.",
+        "Yeah. ...I'd love to make a toast."
+      ]
     },
     {
       "name": "Narrator",

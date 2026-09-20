@@ -31,7 +31,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh my, aren't we suspicious! You know\nI'm always\non the lookout for the latest\ntrends! If I say it's\nfly, then you can be\nsure it's <i>legit!</i>"
+      "text": "Oh my, aren't we suspicious! You know\nI'm always\non the lookout for the latest\ntrends! If I say it's\nfly, then you can be\nsure it's <i>legit!</i>",
+      "choice_data_list": [
+        "Is this really a trendy spot?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -43,7 +46,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Are you surprised?"
+      "text": "Are you surprised?",
+      "choice_data_list": [
+        "The racecourse is a happening spot?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -67,7 +73,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I know, right? Everyone here looks like\nthey're\nhaving a great time!"
+      "text": "I know, right? Everyone here looks like\nthey're\nhaving a great time!",
+      "choice_data_list": [
+        "It sure is a lively hot spot.",
+        "It sure is a lively hot spot, isn't it?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -143,11 +153,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "It's all thanks to your support, Trainer!"
+      "text": "It's all thanks to your support, Trainer!",
+      "choice_data_list": [
+        "I just wanted to see you run.",
+        "I just wanted to see you run."
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "Heehee! Your compliments are what\nmake me the\nhappiest!"
+      "text": "Heehee! Your compliments are what\nmake me the\nhappiest!",
+      "choice_data_list": [
+        "I just wanted to see you run.",
+        "I just wanted to see you run."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -159,7 +177,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I will! And I'll keep it going at full\nthrottle!"
+      "text": "I will! And I'll keep it going at full\nthrottle!",
+      "choice_data_list": [
+        "Looking forward to working with you from now on, too.",
+        "Looking forward to keeping at it together from here on out, too."
+      ]
     }
   ]
 }

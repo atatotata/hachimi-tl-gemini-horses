@@ -22,7 +22,11 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Hoh... I see. It appears thou hast also \nbeen guided by the Three Goddesses of \nDestiny."
+      "text": "Hoh... I see. It appears thou hast also \nbeen guided by the Three Goddesses of \nDestiny.",
+      "choice_data_list": [
+        "...What in the world are you doing?",
+        "...What are you doing?"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -70,7 +74,10 @@
       ]
     },
     {
-      "text": "Perhaps this band was a particular \nfavorite of hers. I watched Narita Brian's \nprofile as she enjoyed herself."
+      "text": "Perhaps this band was a particular \nfavorite of hers. I watched Narita Brian's \nprofile as she enjoyed herself.",
+      "choice_data_list": [
+        "(She looks pretty happy, for some reason...)"
+      ]
     },
     {
       "name": "Band Leader",
@@ -121,14 +128,19 @@
       "name": "Mayano Top Gun",
       "text": "Alright, alright! Case closed either way♪",
       "choice_data_list": [
-        "I'm looking forward to their next live \ntoo.",
-        "I'm looking forward to their next live \ntoo, huh?",
-        "Maybe we should join with our own band \nnext time?"
+        "I'm looking forward to the next live performance, too.",
+        "I'm looking forward to the next live performance, too.",
+        "Maybe next time we could enter with our own band?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...I'm not looking forward to it."
+      "text": "...I'm not looking forward to it.",
+      "choice_data_list": [
+        "I'm looking forward to the next live performance, too.",
+        "I'm looking forward to the next live performance, too.",
+        "Maybe next time we could enter with our own band?"
+      ]
     },
     {
       "name": "Mayano Top Gun",

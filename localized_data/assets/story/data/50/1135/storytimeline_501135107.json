@@ -73,18 +73,21 @@
       "name": "Stay Gold",
       "text": "Well, soil froze over during winter. Gotta \nprep it like this first.",
       "choice_data_list": [
-        "No not that, why today of all days…?"
+        "Why are you leveling the ground...?"
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Well, it's only meaningful because it's \ndone today. Ceremonies got conditions you \ngotta meet first!",
       "choice_data_list": [
-        "Yeah, so then what's all this!?"
+        "That's not what I mean. Why today...?"
       ]
     },
     {
-      "text": "I stopped her to ask what she was doing; \nturns out there was a ritual she wanted to \ntry after hearing about it on one of her \njourneys."
+      "text": "I stopped her to ask what she was doing; \nturns out there was a ritual she wanted to \ntry after hearing about it on one of her \njourneys.",
+      "choice_data_list": [
+        "No, wait, what does that even mean?!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -99,7 +102,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Right? Knew you'd say that!"
+      "text": "Right? Knew you'd say that!",
+      "choice_data_list": [
+        "...A blessing for the journey, huh... That sounds nice."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -111,7 +117,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Simply put, we're just planting tree seed \n—— just few special steps to follow."
+      "text": "Simply put, we're just planting tree seed \n—— just few special steps to follow.",
+      "choice_data_list": [
+        "What are we supposed to do for the ritual?",
+        "What are we supposed to do for the ritual?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -140,13 +150,17 @@
       "name": "Stay Gold",
       "text": "That, and —— journeys, y'know, gotta be \nfun.",
       "choice_data_list": [
-        "For you to enjoy this journey freely",
-        "For you to enjoy this journey freely"
+        "May you encounter many races that get your heart racing.",
+        "May you encounter many races that make your heart race"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "——Hey, you're not making any wishes for \nyourself, are you?"
+      "text": "——Hey, you're not making any wishes for \nyourself, are you?",
+      "choice_data_list": [
+        "May you freely enjoy this journey.",
+        "May you freely enjoy this journey"
+      ]
     },
     {
       "text": "Her words made me realize it. Wishing her \njourney goes well… comes straight from \nbottom of my heart.",
@@ -157,18 +171,21 @@
     {
       "text": "Lining up to strike stake again, I \nannounce my wish: \"To walk beside you on \nyour Golden Journey…\"",
       "choice_data_list": [
-        "$(scale 95)and, to forever watch over you \nby your side"
+        "She's speaking up for what she really wants."
       ]
     },
     {
       "text": "Lining up to strike stake again, I \nannounce my wish: \"To walk beside you on \nyour Golden Journey…\"",
       "choice_data_list": [
-        "$(scale 95)and, to forever watch over you \nby your side"
+        "May I stay by your side and watch over you forever."
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "……"
+      "text": "……",
+      "choice_data_list": [
+        "May I stay by your side and watch over you forever."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -188,7 +205,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Sorbus aucuparia, rowan tree. Says it \nwatches over travelers so they don't get \nlost."
+      "text": "Sorbus aucuparia, rowan tree. Says it \nwatches over travelers so they don't get \nlost.",
+      "choice_data_list": [
+        "That's lovely... What are you going to plant?",
+        "That's lovely... What are you going to plant?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -208,12 +229,15 @@
     {
       "text": "Ritual where we wish together for endless \njourney… something about this feels……",
       "choice_data_list": [
-        "(Greater than a wish, it's moreso a \nprayer)"
+        "True... or rather..."
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Alright, covered top with fallen leaves, \nso frost won't be issue."
+      "text": "Alright, covered top with fallen leaves, \nso frost won't be issue.",
+      "choice_data_list": [
+        "(It feels less like a wish and more like a prayer.)"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -223,7 +247,10 @@
       ]
     },
     {
-      "text": "We finished ritual. Can check on seeds \nanother time."
+      "text": "We finished ritual. Can check on seeds \nanother time.",
+      "choice_data_list": [
+        "No, it's nothing."
+      ]
     },
     {
       "text": "\"May our journey find happiness from here \non.\" If I silently pray right now ——"
@@ -245,7 +272,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "C'mon, c'mon, Stego~? Trick orーー",
+      "text": "C'mon, c'mon, Stego! Trick or—",
       "choice_data_list": [
         "H-H-Have this!"
       ]
@@ -254,6 +281,9 @@
       "text": "I opened chocolate bag I had on me and \ngave one to Gold Ship.",
       "color_text_info_list": [
         "Gold Ship"
+      ],
+      "choice_data_list": [
+        "H-Here, take this!"
       ]
     },
     {
@@ -270,7 +300,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "<i>Hmmm</i>, so that's how it is."
+      "text": "<i>Hmmm</i>, so that's how it is.",
+      "choice_data_list": [
+        "Actually... I was hoping to eat it with you.",
+        "Actually... I was hoping to eat it with you."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -292,7 +326,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Aah, thanks. Know you'll raise it into \ngreat tree."
+      "text": "Aah, thanks. Know you'll raise it into \ngreat tree.",
+      "choice_data_list": [
+        "Leave it to me, I'll be the guardian of the tree!",
+        "Leave it to me, I'll be the guardian of the tree!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -303,7 +341,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah, course. When time comes, let's enjoy \nit together."
+      "text": "Yeah, course. When time comes, let's enjoy \nit together.",
+      "choice_data_list": [
+        "Wait, can they actually be made into jam or jelly?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -321,7 +362,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "True, hard work works up an appetite——— \nah."
+      "text": "True, hard work works up an appetite——— \nah.",
+      "choice_data_list": [
+        "S-Sorry..."
+      ]
     },
     {
       "text": "Felt hard touch against lips, then smelled \nsweet aroma next second."

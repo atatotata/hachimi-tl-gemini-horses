@@ -106,7 +106,9 @@
     {
       "name": "",
       "text": "A few days after that incident, I picked \nup a photo of a Golden Retriever in the \nhallway. Thinking it might belong to \nAdmire Groove, I brought it to her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I wonder if she likes dogs?)"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -120,13 +122,16 @@
       "name": "Admire Groove",
       "text": "...I don't particularly like it.",
       "choice_data_list": [
-        "Huh?! But—"
+        "You really like dogs, huh.",
+        "I saw you donating the other day. That was very sweet of you."
       ]
     },
     {
       "name": "Admire Groove",
       "text": "That isn't mine either. ...Excuse me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?! But—"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -138,7 +143,9 @@
     {
       "name": "Admire Groove",
       "text": "... ......It came back.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah! I've gotta run... Here, take this!"
+      ]
     }
   ]
 }

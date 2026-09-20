@@ -211,7 +211,9 @@
     {
       "name": "Lucky Lilac",
       "text": "That is just...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So, how did it turn out?"
+      ]
     },
     {
       "name": "Believe",
@@ -247,16 +249,21 @@
       "name": "Lucky Lilac",
       "text": "She might be clumsy... but she's \nstraightforward and honest to a fault. \n—She really is someone who puts others \nfirst. Fufu.",
       "choice_data_list": [
-        "They really accepted your feelings, didn't \nthey?",
+        "They received your feelings, didn't they?",
         "They accepted your feelings, didn't they?",
         "If you'd told me, I would've helped too.",
-        "If you'd told me, I would've helped too."
+        "If you'd told me, I could have helped too."
       ]
     },
     {
       "name": "Lucky Lilac",
       "text": "Yes, of course. After all, she's not the \ntype of person to brush aside people's \nfeelings.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "They received your feelings, didn't they?",
+        "They accepted your feelings, didn't they?",
+        "If you'd told me, I would've helped too.",
+        "If you'd told me, I could have helped too."
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -268,7 +275,9 @@
     {
       "name": "Lucky Lilac",
       "text": "Well, of course. ...It was so tough, I \ncould never forget it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, really?"
+      ]
     }
   ]
 }

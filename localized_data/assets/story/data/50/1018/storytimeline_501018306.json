@@ -19,7 +19,11 @@
     },
     {
       "name": "Air Groove",
-      "text": "Indeed."
+      "text": "Indeed.",
+      "choice_data_list": [
+        "We'll have to show an even better run at the Oaks than today.",
+        "You'll have to show an even better run at the Oaks than today."
+      ]
     },
     {
       "name": "Air Groove",
@@ -27,7 +31,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The Japanese Oaks is coming up fast.\nWe can't\nafford to rest on our laurels!"
+      "text": "The Japanese Oaks is coming up fast.\nWe can't\nafford to rest on our laurels!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yes!"
+      ]
     }
   ]
 }

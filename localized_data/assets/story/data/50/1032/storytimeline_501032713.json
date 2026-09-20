@@ -7,7 +7,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hmm... Is this part of your duty as a\ntrainer?"
+      "text": "Hmm... Is this part of your duty as a\ntrainer?",
+      "choice_data_list": [
+        "That's not true."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -19,11 +22,21 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "It's not so bad that I can't walk... Well,\nI'll have\nyou carry me home anyway."
+      "text": "It's not so bad that I can't walk... Well,\nI'll have\nyou carry me home anyway.",
+      "choice_data_list": [
+        "That sounds better.",
+        "That sounds better, yeah.",
+        "No pampering allowed!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Good grief... I guess being so serious\ncomes along\nwith being a worrywart."
+      "text": "Good grief... I guess being so serious\ncomes along\nwith being a worrywart.",
+      "choice_data_list": [
+        "That sounds better.",
+        "That sounds better, yeah.",
+        "No pampering allowed!"
+      ]
     },
     {
       "name": "Agnes Tachyon",

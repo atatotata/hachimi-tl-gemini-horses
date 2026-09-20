@@ -27,7 +27,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Even you, Trainer? ...It really is sad that\nthey're\ngone now. I can't believe we'll\nnever see them\nagain."
+      "text": "Even you, Trainer? ...It really is sad that\nthey're\ngone now. I can't believe we'll\nnever see them\nagain.",
+      "choice_data_list": [
+        "You were comforting me too, you know.",
+        "I found it comforting too."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -151,7 +155,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Agreed!"
+      "text": "Agreed!",
+      "choice_data_list": [
+        "May they grow big and strong!",
+        "I'm sure it'll grow strong roots."
+      ]
     },
     {
       "name": "Yamanin Zephyr",

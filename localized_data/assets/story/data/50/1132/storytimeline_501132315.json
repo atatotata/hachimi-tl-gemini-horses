@@ -92,22 +92,24 @@
       "name": "Loves Only You",
       "text": "...Please, Trainer-kun. Tell me which race \nI should aim for next...!",
       "choice_data_list": [
-        "—In that case, there's only one goal to \naim for.",
-        "—In that case, there's only one goal to \naim for."
+        "Loves..."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "...Please, Trainer-chan. Tell me which \nrace I should aim for next...!",
       "choice_data_list": [
-        "—In that case, there's only one goal to \naim for.",
-        "—In that case, there's only one goal to \naim for."
+        "—In that case, there's only one goal to aim for.",
+        "—In that case, there's only one goal to aim for."
       ]
     },
     {
       "name": "Narrator",
       "text": "With today's race, Loves Only You must \nhave made it abundantly clear that she \nstands at the very forefront of this era.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "—In that case, there's only one goal to aim for.",
+        "—In that case, there's only one goal to aim for."
+      ]
     },
     {
       "name": "Narrator",
@@ -119,7 +121,9 @@
     {
       "name": "Narrator",
       "text": "A grand festival where the dreams of \nracing fans converge. Achieving results \nthere will undoubtedly leave an even \nstronger impression of her strength.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's run the Grand Prix—the Takarazuka Kinen."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -177,7 +181,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—Love-chan.",
       "choice_data_list": []
     },

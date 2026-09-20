@@ -19,11 +19,18 @@
     },
     {
       "name": "Air Shakur",
-      "text": "That supposed to be a joke? Injuries like\nthis are\na dime a dozen."
+      "text": "That supposed to be a joke? Injuries like\nthis are\na dime a dozen.",
+      "choice_data_list": [
+        "You really should get some proper rest.",
+        "Let's at least stick to light training."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Tch... Spare me the stupid analogies, will\nyou?"
+      "text": "Tch... Spare me the stupid analogies, will\nyou?",
+      "choice_data_list": [
+        "An injury is an injury. In binary terms, that's a 1."
+      ]
     },
     {
       "name": "Air Shakur",
@@ -55,7 +62,11 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Way to state the obvious. Geez..."
+      "text": "Way to state the obvious. Geez...",
+      "choice_data_list": [
+        "Seems best to call it here.",
+        "Seems best to call it here, then."
+      ]
     },
     {
       "name": "Monologue",

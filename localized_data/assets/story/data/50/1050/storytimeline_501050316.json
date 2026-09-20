@@ -55,7 +55,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Would it kill you to act like a normal\nperson for\nonce? Anyway..."
+      "text": "Would it kill you to act like a normal\nperson for\nonce? Anyway...",
+      "choice_data_list": [
+        "Yeah, which one will it be?!",
+        "Yeah, which one do you want?!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -63,7 +67,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Yeah. I'm pretty sure both Ticket and\nHayahide\nwill be entering it, so I might\nas well too."
+      "text": "Yeah. I'm pretty sure both Ticket and\nHayahide\nwill be entering it, so I might\nas well too.",
+      "choice_data_list": [
+        "The Arima Kinen, then...!",
+        "The Arima Kinen, right...!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -75,7 +83,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Our next goal is now set for the Arima\nKinen!"
+      "text": "Our next goal is now set for the Arima\nKinen!",
+      "choice_data_list": [
+        "Alright, let's do it!!"
+      ]
     }
   ]
 }

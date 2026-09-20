@@ -52,7 +52,10 @@
     {
       "name": "Rice Shower",
       "text": "I'm so sorry, everyone! We'll have to \nvisit the shrine another time...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Don't push yourself, you fall back too!",
+        "Don't push yourself, fall back too!"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -100,7 +103,10 @@
     {
       "name": "Narita Top Road",
       "text": "Haaahhh...! I... I did ittt~~...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You won on sheer willpower...!",
+        "You won on sheer willpower...!"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -152,7 +158,9 @@
     {
       "name": "Narrator",
       "text": "Perhaps because she couldn't fulfill her \nwishes, Narita Top Road's condition \nremained poor...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "E-Everyone, get back!"
+      ]
     }
   ]
 }

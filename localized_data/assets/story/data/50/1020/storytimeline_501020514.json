@@ -15,7 +15,10 @@
     },
     {
       "name": "King Halo",
-      "text": "Ohohoho! My forces need only to\nadvance, all\nwhile my king looks on from\nthe safety of his\nthrone!"
+      "text": "Ohohoho! My forces need only to\nadvance, all\nwhile my king looks on from\nthe safety of his\nthrone!",
+      "choice_data_list": [
+        "(Sky is on the back foot...)"
+      ]
     },
     {
       "name": "King Halo",
@@ -147,11 +150,23 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "There she goes. Well, that's King for\nyou."
+      "text": "There she goes. Well, that's King for\nyou.",
+      "choice_data_list": [
+        "An indomitable spirit is tough to beat.",
+        "An indomitable spirit is tough to beat, isn't it?",
+        "Her immense pride is her weak point.",
+        "Her immense pride is her weak point, huh."
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Haha! You're right about that. It makes\nher a real\npain to handle head-on."
+      "text": "Haha! You're right about that. It makes\nher a real\npain to handle head-on.",
+      "choice_data_list": [
+        "An indomitable spirit is tough to beat.",
+        "An indomitable spirit is tough to beat, isn't it?",
+        "Her immense pride is her weak point.",
+        "Her immense pride is her weak point, huh."
+      ]
     },
     {
       "name": "King Halo",

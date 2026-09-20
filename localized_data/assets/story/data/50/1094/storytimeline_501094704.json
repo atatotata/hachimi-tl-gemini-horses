@@ -32,14 +32,16 @@
       "name": "Jungle Pocket",
       "text": "\"...No clue. For now, let's go ask them \nwhat's up.\"",
       "choice_data_list": [
-        "I'll go too!",
-        "I'm coming too!"
+        "L/Roars is collapsing from within...? What do you mean?"
       ]
     },
     {
       "name": "L/Roars Leader",
       "text": "Aren't you ashamed of yourself, spreading \nfalse rumors like that?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll go too!",
+        "I'll go too!"
+      ]
     },
     {
       "name": "Leader of the Giant Ks",
@@ -86,7 +88,9 @@
     {
       "name": "Undercut Umamusume",
       "text": "I'm suggesting to the others that we \n'leave L/Roars and take them down.' If \nmore members defect, L/Roars will start to \nwaver, right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Why spread a rumor like that...?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -118,7 +122,9 @@
     {
       "name": "Jungle Pocket",
       "text": "No way in hell!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Pokke?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -136,31 +142,33 @@
       "name": "",
       "text": "A terrifying pressure blankets the area, \nswallowing everything whole. It is the \nwrath radiating from Jungle Pocket. Her \neyes gleam brightly as she locks onto her \nprey.",
       "choice_data_list": [
-        "Stop Pocket!",
-        "Let's ask the leader of L/Roars for help.",
-        "We'll have to let the other team get \naway..."
+        "(Wait, is Pokke pissed off...?!)"
       ]
     },
     {
       "name": "",
       "text": "—Steeling my resolve, I dashed out in \nfront of her. Standing right before her, I \nwas even more overwhelmed by her sheer \npresence. My knees began to tremble \nuncontrollably.",
       "choice_data_list": [
-        "Calm down! You don't need to deal with \nthem!",
-        "Calm down! You don't need to deal with \nthem!"
+        "Stop Pokke!",
+        "Let's ask the L/Roars boss for cooperation.",
+        "Our only option is to let the other team go..."
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Aaaargh?!",
       "choice_data_list": [
-        "If it's L/Roars, they'll be fine, right?!",
-        "If it's L/Roars, they'll be fine, won't \nthey?!"
+        "Calm down! There's no need for you to deal with them!",
+        "Calm down! There's no need for you to deal with them!"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Nnnrrrgghhh, AAAAAAAHHHHHHHHHHHHHH!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If it's L/Roars, they'll be fine, right!",
+        "If it's L/Roars, they'll be fine, won't they!"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -228,7 +236,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Aaaargh?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Run!!",
+        "Run!!"
+      ]
     },
     {
       "name": "",
@@ -262,14 +273,17 @@
       "name": "Jungle Pocket",
       "text": "\"Whoa, stop right there! You actually \nstepped in front of the Roaring Demon?! \nYou've got some serious guts! Ahahaha!\"",
       "choice_data_list": [
-        "You're not mad?",
-        "You're not mad?"
+        "I'm sorry for stopping you back then. But...",
+        "I know it was wrong of me to stop you back then. But..."
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Not at all. Though I was surprised.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're not angry?",
+        "You're not angry?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -292,7 +306,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Hahaha! Well then, keep watch right by my \nside at all times. Deal?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh!? Don't do that!",
+        "Huh!? Don't do that!?"
+      ]
     }
   ]
 }

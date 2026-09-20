@@ -43,7 +43,10 @@
     },
     {
       "name": "Woman in Suit",
-      "text": "Oh, it's her! Hey, so when are you guys\ndoing the\nGrand Concert?"
+      "text": "Oh, it's her! Hey, so when are you guys\ndoing the\nGrand Concert?",
+      "choice_data_list": [
+        "Light Hello-san!"
+      ]
     },
     {
       "name": "Man with Hat",
@@ -59,7 +62,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Fans?"
+      "text": "Fans?",
+      "choice_data_list": [
+        "It looks like they're fans."
+      ]
     },
     {
       "name": "Fan in Dress",
@@ -103,7 +109,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "...Great!"
+      "text": "...Great!",
+      "choice_data_list": [
+        "...Let's do this!"
+      ]
     },
     {
       "name": "Light Hello",

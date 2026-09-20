@@ -27,7 +27,11 @@
     },
     {
       "name": "Air Groove",
-      "text": "Hey now. You know how observant she\nis—if you\nmake that dejected\nexpression, she'll be able to\ntell."
+      "text": "Hey now. You know how observant she\nis—if you\nmake that dejected\nexpression, she'll be able to\ntell.",
+      "choice_data_list": [
+        "I'm going to miss you.",
+        "I'm going to miss you."
+      ]
     },
     {
       "name": "Air Groove",
@@ -115,7 +119,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "Wh-what's gotten into you?"
+      "text": "Wh-what's gotten into you?",
+      "choice_data_list": [
+        "Could you give me just a little more time?",
+        "Have you decided on a name yet?",
+        "May I come see you again?"
+      ]
     },
     {
       "name": "New Owner",
@@ -127,7 +136,10 @@
     },
     {
       "name": "Puppy",
-      "text": "Woof!"
+      "text": "Woof!",
+      "choice_data_list": [
+        "Even if you try to hide it, I can tell how you feel."
+      ]
     },
     {
       "name": "Air Groove",
@@ -251,7 +263,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Nobody asked for your opinion!"
+      "text": "Nobody asked for your opinion!",
+      "choice_data_list": [
+        "Shall we add it to our running route?"
+      ]
     },
     {
       "name": "Air Groove",

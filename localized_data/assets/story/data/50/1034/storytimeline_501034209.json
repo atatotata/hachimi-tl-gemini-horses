@@ -43,7 +43,11 @@
     },
     {
       "name": "Inari One",
-      "text": "...Yeah."
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "...Feeling nervous?",
+        "...Are you nervous?"
+      ]
     },
     {
       "name": "Inari One",
@@ -71,7 +75,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Right! See ya soon!"
+      "text": "Right! See ya soon!",
+      "choice_data_list": [
+        "Now that's what I'm talking about!"
+      ]
     },
     {
       "name": "Super Creek",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...What are you doing? Let's go."
+      "text": "...What are you doing? Let's go.",
+      "choice_data_list": [
+        "(I feel like someone's watching me...?)"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -31,7 +34,11 @@
     },
     {
       "name": "???",
-      "text": "Uh, uh-oh!"
+      "text": "Uh, uh-oh!",
+      "choice_data_list": [
+        "Is someone there?",
+        "Is someone there?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -51,7 +58,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?"
+      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?",
+      "choice_data_list": [
+        "So it was Vodka, huh.",
+        "So it was Vodka."
+      ]
     },
     {
       "name": "Vodka",
@@ -67,7 +78,10 @@
     },
     {
       "name": "Vodka",
-      "text": "No way! It's... an homage. I totally\nrespect Brian!"
+      "text": "No way! It's... an homage. I totally\nrespect Brian!",
+      "choice_data_list": [
+        "...Are you copying me, by any chance?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -111,11 +125,21 @@
     },
     {
       "name": "Vodka",
-      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!"
+      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!",
+      "choice_data_list": [
+        "That conviction will surely become your strength.",
+        "Want to test our strength with a tandem run?",
+        "Want to test your strength with a tandem run?"
+      ]
     },
     {
       "name": "Vodka",
-      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!"
+      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!",
+      "choice_data_list": [
+        "That conviction will surely become your strength.",
+        "Want to test our strength with a tandem run?",
+        "Want to test your strength with a tandem run?"
+      ]
     },
     {
       "name": "Vodka",

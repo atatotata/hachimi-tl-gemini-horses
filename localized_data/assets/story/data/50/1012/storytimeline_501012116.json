@@ -139,11 +139,17 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Arrrrgggh!"
+      "text": "Arrrrgggh!",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Man, I need to quit with the waterworks!\nAll this\nsobbing and sniffling is so not\nme!"
+      "text": "Man, I need to quit with the waterworks!\nAll this\nsobbing and sniffling is so not\nme!",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -239,7 +245,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Narita Brian hasn't changed at all."
+      "text": "Narita Brian hasn't changed at all.",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -251,7 +260,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Her fire is still burnin' strong as ever!"
+      "text": "Her fire is still burnin' strong as ever!",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "",
@@ -271,7 +283,11 @@
     },
     {
       "name": "",
-      "text": "With rekindled resolve, we're back on\ntrack to\ntackle the Japan Cup."
+      "text": "With rekindled resolve, we're back on\ntrack to\ntackle the Japan Cup.",
+      "choice_data_list": [
+        "Yeah...!",
+        "Yeah...!"
+      ]
     }
   ]
 }

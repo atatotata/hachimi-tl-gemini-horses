@@ -11,7 +11,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Over there! Check out that claw\nmachine!"
+      "text": "Over there! Check out that claw\nmachine!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Really?! ...Oh, uh, I mean..."
+      "text": "Really?! ...Oh, uh, I mean...",
+      "choice_data_list": [
+        "Shall I get it for you?"
+      ]
     },
     {
       "name": "Vodka",

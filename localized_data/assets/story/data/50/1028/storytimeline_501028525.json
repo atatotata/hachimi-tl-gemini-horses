@@ -15,7 +15,10 @@
     },
     {
       "name": "Biko Pegasus",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Not at all."
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -75,7 +78,12 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Okay! I'll get the food ready."
+      "text": "Okay! I'll get the food ready.",
+      "choice_data_list": [
+        "Let's make it a speed-eating contest!",
+        "Let's make it an eating showdown!",
+        "The showdown is off!"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -295,11 +303,17 @@
     },
     {
       "name": "Biko Pegasus",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "...Hold it, that's enough!"
+      ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yay, I won! Um, are you okay, Biko?\nDoes your\ntummy hurt?"
+      "text": "Yay, I won! Um, are you okay, Biko?\nDoes your\ntummy hurt?",
+      "choice_data_list": [
+        "The winner: Akebono!"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -335,7 +349,10 @@
     },
     {
       "name": "Monologue",
-      "text": "With that, their eating contest comes to\na close,\nwith Hishi Akebono as the clear\nwinner."
+      "text": "With that, their eating contest comes to\na close,\nwith Hishi Akebono as the clear\nwinner.",
+      "choice_data_list": [
+        "A-Akebono!?"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -371,7 +388,10 @@
     },
     {
       "name": "Bono and Biko",
-      "text": "Oh!"
+      "text": "Oh!",
+      "choice_data_list": [
+        "...What about the match?"
+      ]
     },
     {
       "name": "Monologue",
@@ -387,7 +407,10 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ohhh! Okay!"
+      "text": "Ohhh! Okay!",
+      "choice_data_list": [
+        "The collision training has already begun!"
+      ]
     },
     {
       "name": "Biko Pegasus",

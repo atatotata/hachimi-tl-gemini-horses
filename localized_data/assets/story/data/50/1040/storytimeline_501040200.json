@@ -27,7 +27,10 @@
     },
     {
       "name": "Reporter B",
-      "text": "Oh, come on! The world is <i>dying</i> to know\nwhat\nthis supermodel is up to!"
+      "text": "Oh, come on! The world is <i>dying</i> to know\nwhat\nthis supermodel is up to!",
+      "choice_data_list": [
+        "Excuse me, but you're disturbing the people around you."
+      ]
     },
     {
       "name": "Reporter A",
@@ -75,7 +78,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Why should I relax when I'm supposed to\ngive it\nmy all?"
+      "text": "Why should I relax when I'm supposed to\ngive it\nmy all?",
+      "choice_data_list": [
+        "Don't get too tense, alright?",
+        "Don't get too tense, okay?"
+      ]
     },
     {
       "name": "Gold City",
@@ -83,7 +90,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Huh? What's that supposed to mean?"
+      "text": "Huh? What's that supposed to mean?",
+      "choice_data_list": [
+        "Go out there and run your own race.",
+        "Just go out there and run your own race."
+      ]
     },
     {
       "name": "Gold City",

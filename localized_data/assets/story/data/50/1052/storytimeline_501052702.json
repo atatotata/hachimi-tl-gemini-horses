@@ -43,7 +43,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Wha?! A <i>hundred?!</i>"
+      "text": "Wha?! A <i>hundred?!</i>",
+      "choice_data_list": [
+        "Whisper, \"A hundred carrot cakes.\"",
+        "Carry her home on my back while she sleeps."
+      ]
     },
     {
       "name": "Haru Urara",
@@ -59,7 +63,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Whaaat?! I was?!"
+      "text": "Whaaat?! I was?!",
+      "choice_data_list": [
+        "It's a dream."
+      ]
     },
     {
       "name": "Haru Urara",
@@ -87,7 +94,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "<i>...Snore...</i>"
+      "text": "<i>...Snore...</i>",
+      "choice_data_list": [
+        "Awake?"
+      ]
     },
     {
       "name": "Monologue",

@@ -17,13 +17,15 @@
       "name": "Narrator",
       "text": "(*Bzzz, bzzz*)",
       "choice_data_list": [
-        "Hm? A phone call...?"
+        "(...At this rate, she'll hit her limit sooner or later.)"
       ]
     },
     {
       "name": "Narrator",
       "text": "I pick up the smartphone lying on the \ndesk. The name displayed on the screen \nis...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Hm? A phone call...?"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -35,7 +37,9 @@
     {
       "name": "Narrator",
       "text": "The person who called yesterday was none \nother than her mother.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Not at all, please, right this way!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -91,23 +95,28 @@
       "name": "Narrator",
       "text": "If I remember correctly, her mother was \nthe one she wanted most to acknowledge \nthat \"she is strong.\" In that case, I need \nto choose my words carefully...",
       "choice_data_list": [
-        "She shows her competitive spirit every \nsingle day.",
-        "I'm making sure to take proper breaks too! \n...Right?",
-        "I'm making sure to take proper breaks too! \n...Right?",
-        "I'm currently honing my technique."
+        "She shows her competitive spirit every single day.",
+        "We're taking proper breaks too, you know! ...Right?",
+        "We're taking proper breaks too, you know! ...Aren't we?",
+        "Right now, I'm honing my technique."
       ]
     },
     {
       "name": "Espoir City",
       "text": "...Hmph!",
       "choice_data_list": [
-        "That's your weapon, but it's also a \ndouble-edged sword..."
+        "She shows her competitive spirit every single day.",
+        "We're taking proper breaks too, you know! ...Right?",
+        "We're taking proper breaks too, you know! ...Aren't we?",
+        "Right now, I'm honing my technique."
       ]
     },
     {
       "name": "Espoir City",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's a weapon, but also a double-edged sword..."
+      ]
     },
     {
       "name": "Espoir City",
@@ -184,7 +193,9 @@
     {
       "name": "Espoir City",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Take care, and safe travels!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -196,7 +207,9 @@
     {
       "name": "Espoir City",
       "text": "See ya!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Um, Espo—"
+      ]
     },
     {
       "name": "Narrator",
@@ -208,7 +221,9 @@
     {
       "name": "Narrator",
       "text": "(*Bzzz, bzzz*)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I have to face her head-on...!"
+      ]
     },
     {
       "name": "Narrator",
@@ -221,13 +236,15 @@
       "name": "Espo's Mother",
       "text": "I'm sorry for calling you out here, \nTrainer. ...I really needed to talk to you \none-on-one.",
       "choice_data_list": [
-        "No... so, what was it you wanted to talk \nabout?"
+        "...Huh?"
       ]
     },
     {
       "name": "Narrator",
       "text": "The person I had just met a moment ago \ntook a breath before beginning to speak.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No... so what did you want to talk about?"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -244,7 +261,9 @@
     {
       "name": "Espo's Mother",
       "text": "\"Because the way she used to be was the \ncomplete opposite of who she is now.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...! How did you know—"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -336,7 +355,9 @@
     {
       "name": "Narrator",
       "text": "—If that's the case, it changes the way I \nsee her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Everything is inside out..."
+      ]
     },
     {
       "name": "Espoir City",
@@ -398,7 +419,9 @@
     {
       "name": "Espo's Mother",
       "text": "\"...Trainer, please look after that girl.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because deep down, you see yourself as weak."
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -435,7 +458,9 @@
     {
       "name": "Espo's Mother",
       "text": "Please, make that child strong.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "……――"
+      ]
     },
     {
       "name": "Espo's Mother",
@@ -453,13 +478,15 @@
       "name": "Narrator",
       "text": "After leaving the coffee shop, I escort \nEspoir City's mother back to the station \nonce again.",
       "choice_data_list": [
-        "...I'll definitely figure something out."
+        "...Yes."
       ]
     },
     {
       "name": "Narrator",
       "text": "I opened my \"textbook\" for Espoir City. \n...To explore what I could do for her as \nher Trainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'll make it work, no matter what."
+      ]
     }
   ]
 }

@@ -38,7 +38,10 @@
     },
     {
       "name": "Narrator",
-      "text": "When it comes to Mejiro Palmer, she's \nusually the trusted advisor for other \nhorse girls. I had thought she was relied \nupon far more often than the other way \naround."
+      "text": "When it comes to Mejiro Palmer, she's \nusually the trusted advisor for other \nhorse girls. I had thought she was relied \nupon far more often than the other way \naround.",
+      "choice_data_list": [
+        "(That's kind of unexpected, maybe...?)"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -54,7 +57,11 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Hmm? ...You look kind of surprised?"
+      "text": "Hmm? ...You look kind of surprised?",
+      "choice_data_list": [
+        "Huh? Oh, if you need a hand, of course.",
+        "Huh? Yeah, if you need a hand, of course."
+      ]
     },
     {
       "name": "Narrator",
@@ -99,13 +106,16 @@
       "name": "Narrator",
       "text": "She considers both herself and those \naround her carefully. Her levelheaded \napproach is truly something to learn from.",
       "choice_data_list": [
-        "What do you plan to do next?",
-        "What can I help you with?"
+        "(That's such a mature way of thinking...)"
       ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Let's see. I wanna take it easy today, so \nif I could get a little breather—"
+      "text": "Let's see. I wanna take it easy today, so \nif I could get a little breather—",
+      "choice_data_list": [
+        "What do you have planned next?",
+        "What can I help you with?"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -148,7 +158,10 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Right?! So glad~~! I was looking for \nsomeone to share this excitement with!"
+      "text": "Right?! So glad~~! I was looking for \nsomeone to share this excitement with!",
+      "choice_data_list": [
+        "That was so refreshing!"
+      ]
     },
     {
       "name": "Mejiro Palmer",

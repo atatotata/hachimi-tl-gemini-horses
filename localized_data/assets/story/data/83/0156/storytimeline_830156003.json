@@ -83,12 +83,16 @@
       "name": "Wonder Acute",
       "text": "Tending to the nukadoko, of course.",
       "choice_data_list": [
-        "Nu-Nukadoko...?"
+        "What are you doing in a place like this?",
+        "What are you doing in a place like this?"
       ]
     },
     {
       "name": "Wonder Acute",
-      "text": "...And that's the story. Just now, I was \nspeaking to it and giving it some \nencouragement."
+      "text": "...And that's the story. Just now, I was \nspeaking to it and giving it some \nencouragement.",
+      "choice_data_list": [
+        "A r-rice bran bed...?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -116,7 +120,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "I just did everything I could, is all. \nBecause I really wanted this pickling bed \nto bounce back."
+      "text": "I just did everything I could, is all. \nBecause I really wanted this pickling bed \nto bounce back.",
+      "choice_data_list": [
+        "Such incredible effort...!",
+        "Such incredible effort...!"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -148,15 +156,21 @@
       "name": "Wonder Acute",
       "text": "So as long as there's still hope, I won't \ngive up. I'll just give it all the care I \nhave.",
       "choice_data_list": [
-        "Then we can't let it end here.",
-        "Then we can't let it end here, can we?",
-        "I'll cheer you on too.",
+        "Then, we can't let it end here.",
+        "Then, we can't let it end here, can we?",
+        "I'll cheer for you, too.",
         "I'll cheer you on too."
       ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Yeah. The Ritto Dorm needs it, after all. \nFrom now on, on and on into the future."
+      "text": "Yeah. The Ritto Dorm needs it, after all. \nFrom now on, on and on into the future.",
+      "choice_data_list": [
+        "Then, we can't let it end here.",
+        "Then, we can't let it end here, can we?",
+        "I'll cheer for you, too.",
+        "I'll cheer you on too."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -189,7 +203,10 @@
       ]
     },
     {
-      "text": "Following that, with Wonder Acute's \naffectionate care, the Ritto Dorm's \npickling bed was successfully revived."
+      "text": "Following that, with Wonder Acute's \naffectionate care, the Ritto Dorm's \npickling bed was successfully revived.",
+      "choice_data_list": [
+        "There's a good girl~ Cheer up now~"
+      ]
     }
   ]
 }

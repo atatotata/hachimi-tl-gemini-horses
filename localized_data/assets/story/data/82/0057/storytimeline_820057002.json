@@ -10,7 +10,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Who knows... A lost child, perhaps?"
+      "text": "Who knows... A lost child, perhaps?",
+      "choice_data_list": [
+        "And that girl is...?"
+      ]
     },
     {
       "name": "Little Girl A",
@@ -102,7 +105,11 @@
     },
     {
       "name": "Little Girl A",
-      "text": "Yeah, okay!"
+      "text": "Yeah, okay!",
+      "choice_data_list": [
+        "Big brother wants to dance with you too.",
+        "Big sister wants to dance with you too."
+      ]
     },
     {
       "name": "Little Girl A",

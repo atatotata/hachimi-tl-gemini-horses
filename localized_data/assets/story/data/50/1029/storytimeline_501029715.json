@@ -35,7 +35,11 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Thanks a bunch! Now watch this!"
+      "text": "Thanks a bunch! Now watch this!",
+      "choice_data_list": [
+        "Got it. Let's push a little harder!",
+        "Pushing yourself too hard defeats the whole purpose."
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +51,10 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "You got it! I'll rest up so that the next\ntime y'see\nme, I'll be bright-eyed and\nbushy-tailed!"
+      "text": "You got it! I'll rest up so that the next\ntime y'see\nme, I'll be bright-eyed and\nbushy-tailed!",
+      "choice_data_list": [
+        "Let's get plenty of rest so we can give it our all tomorrow."
+      ]
     }
   ]
 }

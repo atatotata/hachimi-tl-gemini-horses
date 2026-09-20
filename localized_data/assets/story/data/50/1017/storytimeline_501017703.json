@@ -15,7 +15,10 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "That sounds perfect. Lead the—"
+      "text": "That sounds perfect. Lead the—",
+      "choice_data_list": [
+        "Shall we head to the trainer's office?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -63,11 +66,23 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Hmmm, what to do?"
+      "text": "Hmmm, what to do?",
+      "choice_data_list": [
+        "Tea will have to wait for next time.",
+        "Tea will have to wait for next time, then.",
+        "Need a hand with anything?",
+        "Is there anything I can help with?"
+      ]
     },
     {
       "name": "Symboli Rudolf",
-      "text": "It doesn't seem meant to be today, does\nit?"
+      "text": "It doesn't seem meant to be today, does\nit?",
+      "choice_data_list": [
+        "Tea will have to wait for next time.",
+        "Tea will have to wait for next time, then.",
+        "Need a hand with anything?",
+        "Is there anything I can help with?"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -103,7 +118,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Now, you three, please settle down and\nwait your\nturn. I'll hear you all out in a\nmore appropriate\nlocation."
+      "text": "Now, you three, please settle down and\nwait your\nturn. I'll hear you all out in a\nmore appropriate\nlocation.",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah."
+      ]
     },
     {
       "name": "Monologue",

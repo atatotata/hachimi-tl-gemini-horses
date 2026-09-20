@@ -22,7 +22,10 @@
     {
       "name": "Narrator",
       "text": "Heading to Rhein Kraft's recommended \nsunbathing spot together. Beneath the \nsunlight filtering through the trees, the \nwarmth is just right...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "In that case, maybe I'll go for a change of pace.",
+        "Sorry, I'm swamped with work..."
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -35,14 +38,16 @@
       "name": "Rhein Kraft",
       "text": "*Yaaawn*... Trainer-san, please have some \nof this too~. It's my special \"cozy blend\" \ntea.",
       "choice_data_list": [
-        "Are you sure I can have this?",
-        "Are you sure I can have this?"
+        "Yeah, that warmth is seeping right in...~"
       ]
     },
     {
       "name": "Rhein Kraft",
       "text": "Yes. Because happiness feels so much \nwarmer when shared.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Are you sure I can have this?",
+        "Are you sure I can have this?"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -64,7 +69,9 @@
     {
       "name": "Hishi Miracle",
       "text": "Ah, there she is. Craft-cha—... Whoops.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She fell asleep, huh...)"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -76,7 +83,9 @@
     {
       "name": "Hishi Miracle",
       "text": "Yup yup~. We've really been in \nCraft-chan's debt~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Did you need something from Craft?"
+      ]
     },
     {
       "name": "Seiun Sky",

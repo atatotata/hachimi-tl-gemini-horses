@@ -11,7 +11,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Mufufu! This is a cutting-edge divine \nrevelation receiving method that I devised \nmyself!"
+      "text": "Mufufu! This is a cutting-edge divine \nrevelation receiving method that I devised \nmyself!",
+      "choice_data_list": [
+        "...What in the world are you doing?",
+        "...What are you doing?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -26,7 +30,10 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Alright, here goes! Good Fortune Droplets, \nlaunch!"
+      "text": "Alright, here goes! Good Fortune Droplets, \nlaunch!",
+      "choice_data_list": [
+        "...Right...?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -153,14 +160,19 @@
       "name": "Matikanefukukitaru",
       "text": "W-W-What are you saying! It's entirely \nthanks to the divine prophecy's \nblessing...",
       "choice_data_list": [
-        "This kelp is proof of your friendship.",
-        "This kelp is proof of your friendship.",
-        "That interpretation felt pretty forced \nthough..."
+        "This kelp is proof of our friendship.",
+        "This kelp is proof of our friendship.",
+        "That felt like a pretty forced interpretation..."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Yes! I will treasure it forever! As a \nlucky charm, never letting it leave my \nside—"
+      "text": "Yes! I will treasure it forever! As a \nlucky charm, never letting it leave my \nside—",
+      "choice_data_list": [
+        "This kelp is proof of our friendship.",
+        "This kelp is proof of our friendship.",
+        "That felt like a pretty forced interpretation..."
+      ]
     },
     {
       "name": "Narrator",

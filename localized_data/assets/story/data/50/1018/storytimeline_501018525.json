@@ -27,7 +27,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Eavesdropping, were you?"
+      "text": "Eavesdropping, were you?",
+      "choice_data_list": [
+        "Tail care products?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -63,11 +66,23 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!"
+      "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!",
+      "choice_data_list": [
+        "I'll think about it with you too.",
+        "I'll think about it with you too.",
+        "Everyone's having a tough time...",
+        "Everyone's having a tough time, huh..."
+      ]
     },
     {
       "name": "Air Groove",
-      "text": "Am I hearing things? You may not have\nnoticed,\nbut you don't have a tail."
+      "text": "Am I hearing things? You may not have\nnoticed,\nbut you don't have a tail.",
+      "choice_data_list": [
+        "I'll think about it with you too.",
+        "I'll think about it with you too.",
+        "Everyone's having a tough time...",
+        "Everyone's having a tough time, huh..."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -91,7 +106,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Still, it's a little strange to think about.\nHaving a\ntail is so normal for us, yet for\nyou, it's something\nyou've never known."
+      "text": "Still, it's a little strange to think about.\nHaving a\ntail is so normal for us, yet for\nyou, it's something\nyou've never known.",
+      "choice_data_list": [
+        "That's great to hear!"
+      ]
     },
     {
       "name": "Air Groove",

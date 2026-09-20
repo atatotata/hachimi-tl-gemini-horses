@@ -248,13 +248,16 @@
       "name": "Special Week",
       "text": "Yes, of course! My cooking skills still \nhave a long way to go, but I did my best!",
       "choice_data_list": [
-        "Thanks! Well then—"
+        "Wait, can I really have this?",
+        "Wait, can I really have this?"
       ]
     },
     {
       "name": "Special Week",
       "text": "\"...H-How is it? I went through a lot of \ntrial and error in my own way, or rather, \nI did a bunch of taste tests... umm...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks! All right then—"
+      ]
     },
     {
       "name": "Special Week",
@@ -266,7 +269,9 @@
     {
       "name": "Special Week",
       "text": "Yes!! ...Ehehe, I kind of pressed you for \nit. I just really wanted to hear you say \nthat!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, it's delicious!"
+      ]
     }
   ]
 }

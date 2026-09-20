@@ -32,7 +32,10 @@
     {
       "name": "Fenomeno",
       "text": "First, we should purchase stationery, yes. \nA pencil set seems like a good choice, \nbut...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It might not be much, but I'll lend a hand too.",
+        "It might not be much, but I'll lend a hand too."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -64,7 +67,9 @@
     {
       "name": "Nakayama Festa",
       "text": "\"The rules are pretty intricate lately, so \nthere's real depth to it. The little brats \nwill get totally fired up too... Heh.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...That's surprisingly sensible!)"
+      ]
     },
     {
       "name": "Fenomeno",
@@ -116,7 +121,9 @@
     {
       "name": "Fenomeno",
       "text": "True, it is a bit surprising, but... could \nit be—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "To think you know so much about kids' stuff..."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -187,16 +194,21 @@
       "name": "Nakayama Festa",
       "text": "Ha. If I do nothing, Mom's just gonna nag \nme anyway.",
       "choice_data_list": [
-        "So you spent Christmas with your family, \nhuh?",
-        "So you spent Christmas with your family, \ndidn't you?",
-        "Getting presents for your younger siblings \nagain this year?",
-        "Are you getting presents for your younger \nsiblings again this year?"
+        "So you spent Christmas with your family.",
+        "So you spent Christmas with your family, then.",
+        "Are you preparing presents for your younger siblings this year too?",
+        "Are you getting presents for your younger siblings this year too?"
       ]
     },
     {
       "name": "Nakayama Festa",
       "text": "Ain't like I had anything better to do. \n...Though that's all in the past now.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So you spent Christmas with your family.",
+        "So you spent Christmas with your family, then.",
+        "Are you preparing presents for your younger siblings this year too?",
+        "Are you getting presents for your younger siblings this year too?"
+      ]
     },
     {
       "name": "Fenomeno",

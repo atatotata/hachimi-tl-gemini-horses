@@ -7,7 +7,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Take the day off? But..."
+      "text": "Take the day off? But...",
+      "choice_data_list": [
+        "Let's take today off."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -27,11 +30,21 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "...No dice, huh?"
+      "text": "...No dice, huh?",
+      "choice_data_list": [
+        "Now is a time for patience.",
+        "Right now is a time for patience.",
+        "...If it's just a walk..."
+      ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Ngh... You're right. I'll be patient, then."
+      "text": "Ngh... You're right. I'll be patient, then.",
+      "choice_data_list": [
+        "Now is a time for patience.",
+        "Right now is a time for patience.",
+        "...If it's just a walk..."
+      ]
     },
     {
       "name": "Kitasan Black",

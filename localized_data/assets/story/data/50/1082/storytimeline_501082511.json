@@ -57,7 +57,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—Cleaning the blackboard even though it's \nnot your turn for chores... You're quite \nhardworking.",
       "choice_data_list": []
     },
@@ -158,14 +158,17 @@
       "name": "North Flight",
       "text": "Fufu. Trainers are certainly like that.",
       "choice_data_list": [
-        "I do want to clean it up, but...",
-        "I do want to clean it up, but..."
+        "...Actually, messing it up might be faster.",
+        "Deep down, I know you love things clean and tidy!"
       ]
     },
     {
       "name": "Narrator",
       "text": "As things stand, I've let things get messy \nwhile caught up in work, so North Flight \nhas been tidying up for me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I do want to keep it clean, though...",
+        "I do try to keep it clean, though..."
+      ]
     },
     {
       "name": "North Flight",
@@ -182,7 +185,9 @@
     {
       "name": "Narrator",
       "text": "And so, we became much more mindful of \nkeeping the room tidy than before.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll do my best not to let myself get spoiled..."
+      ]
     },
     {
       "name": "North Flight",
@@ -195,7 +200,10 @@
     {
       "name": "Air Groove",
       "text": "At times like that, we should help each \nother out. Fortunately, you have someone \nbeside you who shares your values.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Though sometimes the busyness gets the better of me...",
+        "Though sometimes work gets the better of me, honestly..."
+      ]
     },
     {
       "name": "North Flight",

@@ -37,13 +37,15 @@
       "name": "Narrator",
       "text": "(Thud...!)",
       "choice_data_list": [
-        "Vivlos!"
+        "Vivlos?"
       ]
     },
     {
       "name": "Narrator",
       "text": "—Vivlos collapsed out of nowhere, so we \nrushed her straight to the hospital. The \nresults of her examination were...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Vivlos!"
+      ]
     },
     {
       "name": "Doctor",
@@ -115,7 +117,9 @@
     {
       "name": "Vivlos",
       "text": "...Hey, Trainer-san.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She's feeling down... That makes sense.)"
+      ]
     },
     {
       "name": "Vivlos",
@@ -138,14 +142,16 @@
       "name": "Narrator",
       "text": "Depending on her performance in the \nNakayama Kinen, we might be able to judge \nwhether she can withstand a grueling \noverseas campaign.",
       "choice_data_list": [
-        "Let's take it one step at a time and \nlisten to your body again, alright?",
-        "Let's take it one step at a time and \nlisten to your body again, okay?"
+        "...Let's find out at the Nakayama Kinen."
       ]
     },
     {
       "name": "Vivlos",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Listen to your body and take it one step at a time, alright?",
+        "Listen to your body and take it one step at a time, okay?"
+      ]
     },
     {
       "name": "Verxina",
@@ -182,7 +188,9 @@
     {
       "name": "Verxina",
       "text": "...Yes, indeed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...For now, let's head back to the Academy."
+      ]
     },
     {
       "name": "Verxina",
@@ -240,13 +248,15 @@
       "name": "Narrator",
       "text": "\"Right now, a heavy atmosphere hangs over \nher and everyone around her. I want to at \nleast do something to brighten her mood.\"",
       "choice_data_list": [
-        "(If it's Vivlos, it's gotta be—that, \nright?)"
+        "(I'd like to let her catch her breath.)"
       ]
     },
     {
       "name": "Vivlos",
       "text": "Kyaaah! Suuuuper celeb!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Knowing Vivlos, it's gotta be—that, right?)"
+      ]
     },
     {
       "name": "Narrator",
@@ -284,21 +294,23 @@
       "name": "Verxina",
       "text": "Was it really alright for us to join you?",
       "choice_data_list": [
-        "Of course! Have fun!"
+        "(I'm glad she liked it.)"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...Enjoy it, huh?",
       "choice_data_list": [
-        "You like this kind of thing, don't you?",
-        "You like this sort of thing, don't you?"
+        "Of course! Have fun."
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...! Ah, no...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Are you not a fan of this kind of thing?",
+        "Don't you like this kind of thing?"
+      ]
     },
     {
       "name": "Verxina",
@@ -332,14 +344,17 @@
       "name": "Verxina",
       "text": "Huh?",
       "choice_data_list": [
-        "It'll be a fun memory, right?",
-        "It'll be a fun memory, won't it?"
+        "Why are you apologizing?",
+        "Why are you apologizing?"
       ]
     },
     {
       "name": "Vivlos",
       "text": "！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "They're fond memories, aren't they?",
+        "They must be fond memories, right?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -416,7 +431,9 @@
     {
       "name": "Cheval Grand",
       "text": "...It's so dazzling. And yet, I...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Cheval Grand is...)"
+      ]
     },
     {
       "name": "Vivlos",
@@ -439,7 +456,10 @@
     {
       "name": "Vivlos",
       "text": "So Cheval-chi, you too—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -497,7 +517,10 @@
     {
       "name": "Vivlos",
       "text": "...It's okay. I understand Cheval-chi, \nafter all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
     },
     {
       "name": "Narrator",

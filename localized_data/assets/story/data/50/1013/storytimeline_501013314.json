@@ -19,11 +19,18 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Indeed. I'm very thankful for everyone's\n\ngenerosity."
+      "text": "Indeed. I'm very thankful for everyone's\n\ngenerosity.",
+      "choice_data_list": [
+        "That was an incredible amount.",
+        "That was quite an amount, wasn't it?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Thank you."
+      "text": "Thank you.",
+      "choice_data_list": [
+        "Once again, congratulations on achieving the Autumn Senior Triple Crown!"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -39,7 +46,10 @@
     },
     {
       "name": "???",
-      "text": "Excuse me."
+      "text": "Excuse me.",
+      "choice_data_list": [
+        "Go ahead."
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -67,7 +77,10 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "No, that alone isn't enough! That's why I\ncame to\nspeak with you directly."
+      "text": "No, that alone isn't enough! That's why I\ncame to\nspeak with you directly.",
+      "choice_data_list": [
+        "(That heaviest box...!)"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -139,7 +152,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro McQueen has become Senior\nAutumn\nTriple Crown champion. What\nshe will accomplish\nnext is anyone's\nguess!"
+      "text": "Mejiro McQueen has become Senior\nAutumn\nTriple Crown champion. What\nshe will accomplish\nnext is anyone's\nguess!",
+      "choice_data_list": [
+        "(So it was a failure, huh...)",
+        "(So it was a failure, huh...)"
+      ]
     }
   ]
 }

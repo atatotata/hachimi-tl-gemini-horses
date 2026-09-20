@@ -229,15 +229,19 @@
       "name": "Dantsu Flame",
       "text": "............ And off they go!",
       "choice_data_list": [
-        "Maybe Dantsu has a talent for being a \nTrainer.",
-        "Maybe Dantsu has a talent for being a \nTrainer, you know?",
-        "I think it was good for her, too."
+        "Maybe Dantsu has a knack for being a Trainer.",
+        "Maybe Dantsu has a knack for being a Trainer.",
+        "I'm sure it was good for her, too."
       ]
     },
     {
       "name": "Dantsu Flame",
       "text": "N-No way! You're giving me way too much \ncredit~...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Maybe Dantsu has a knack for being a Trainer.",
+        "Maybe Dantsu has a knack for being a Trainer.",
+        "I'm sure it was good for her, too."
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -254,7 +258,9 @@
     {
       "name": "Dantsu Flame",
       "text": "Heh. Ah...... geez.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I understand completely how you feel."
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -267,7 +273,10 @@
     {
       "name": "Dantsu Flame",
       "text": "\"Fufu. I hope today's experience will \nprove useful for her someday.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, and she'll pass it on to someone else in turn.",
+        "Yeah, she'll pass the torch to someone else, too."
+      ]
     }
   ]
 }

@@ -23,11 +23,18 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Thanks..."
+      "text": "Thanks...",
+      "choice_data_list": [
+        "That was an amazing live show!"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "...It just doesn't feel real. I can hardly\nbelieve it."
+      "text": "...It just doesn't feel real. I can hardly\nbelieve it.",
+      "choice_data_list": [
+        "...? What's wrong?",
+        "...? What's wrong?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -55,7 +62,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "A bigger stage will be even more fun."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -71,7 +81,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "Let's become the top Umadol!"
+      ]
     }
   ]
 }

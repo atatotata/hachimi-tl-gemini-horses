@@ -27,7 +27,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm a little worried about them, so I\ndecide to\nwatch Happy Meek's race."
+      "text": "I'm a little worried about them, so I\ndecide to\nwatch Happy Meek's race.",
+      "choice_data_list": [
+        "(Such a troubled look...?)"
+      ]
     },
     {
       "name": "Spectator A",
@@ -95,7 +98,11 @@
     },
     {
       "name": "Happy Meek",
-      "text": "She's gone..."
+      "text": "She's gone...",
+      "choice_data_list": [
+        "Meek!? What are you doing here alone?",
+        "Meek!? What are you doing here all by yourself?"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -103,7 +110,10 @@
     },
     {
       "name": "Happy Meek",
-      "text": "...I don't know."
+      "text": "...I don't know.",
+      "choice_data_list": [
+        "Any idea where they went?!"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -135,7 +145,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Seizing that one glimmer of hope, I hurry\nto the\naquarium with Happy Meek."
+      "text": "Seizing that one glimmer of hope, I hurry\nto the\naquarium with Happy Meek.",
+      "choice_data_list": [
+        "Could it be...!"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -167,7 +180,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I wanted to reflect on some things.\nMostly on my\nduties as a trainer."
+      "text": "I wanted to reflect on some things.\nMostly on my\nduties as a trainer.",
+      "choice_data_list": [
+        "Why did you come here all by yourself?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -187,7 +203,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "What? With Meek?"
+      "text": "What? With Meek?",
+      "choice_data_list": [
+        "Did you talk to Meek about your worries?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -195,11 +214,17 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "I think it's fine to let people worry about you."
+      ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "But... But... it's my fault I'm useless. I\ncan't force\nMeek to deal with my\nfailings..."
+      "text": "But... But... it's my fault I'm useless. I\ncan't force\nMeek to deal with my\nfailings...",
+      "choice_data_list": [
+        "Is a race something you have to tackle all alone?"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -311,7 +336,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I am. This incident made me realize\nsomething."
+      "text": "I am. This incident made me realize\nsomething.",
+      "choice_data_list": [
+        "Are you sure?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",

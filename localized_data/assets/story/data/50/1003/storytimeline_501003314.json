@@ -27,7 +27,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "No, I am. It just hasn't settled in that this\nis real\nyet..."
+      "text": "No, I am. It just hasn't settled in that this\nis real\nyet...",
+      "choice_data_list": [
+        "You don't seem very happy about it, though."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -107,7 +110,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Yes. Go on, Teio!"
+      "text": "Yes. Go on, Teio!",
+      "choice_data_list": [
+        "Go show them what a winner looks like once more!",
+        "Show them what a winner looks like once more!"
+      ]
     },
     {
       "name": "Tokai Teio",

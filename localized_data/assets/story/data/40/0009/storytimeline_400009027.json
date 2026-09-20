@@ -16,7 +16,9 @@
     {
       "name": "Sugar Lights",
       "text": "! Perfect timing, Trainer. I was just \nheading over to you two.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll help! Where are we carrying this?"
+      ]
     },
     {
       "name": "Sugar Lights",
@@ -29,18 +31,20 @@
       "name": "Sugar Lights",
       "text": "Fufu, yeah. That helps a lot. Now then, \nwho should we hand them out to first...",
       "choice_data_list": [
-        "Biwa Hayahide",
-        "Narita Taishin",
-        "Air Shakur",
-        "Symboli Kris S",
-        "Tanino Gimlet",
-        "Dr. Lights"
+        "All the more reason to let me help."
       ]
     },
     {
       "name": "Biwa Hayahide",
       "text": "As expected of you. I had gathered data in \nmy own way, but now I have access to much \nmore detailed statistics. I will use this \nas reference.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Biwa Hayahide",
+        "Narita Taishin",
+        "Air Shakur",
+        "Symboli Kris S",
+        "Tanino Gimlet",
+        "Dr. Reitz"
+      ]
     },
     {
       "name": "Sugar Lights",
@@ -128,7 +132,10 @@
     {
       "name": "Biwa Hayahide",
       "text": "...I see. Looking at it from a different \nperspective, that's true. Heh... you've \nopened my eyes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That isn't a weakness, it's one of your strengths.",
+        "That trait of yours isn't a weakness, it's a strength."
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -151,13 +158,15 @@
       "name": "Narita Taishin",
       "text": "... Just leave it there.",
       "choice_data_list": [
-        "Ah, Taishin!?"
+        "Taishin! Dr. Lights gave me a report!"
       ]
     },
     {
       "name": "Sugar Lights",
       "text": "\"...Fufu. I see you are devoted to your \ntraining. In that case, I shall take my \nleave.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah, Taishin?!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -200,7 +209,10 @@
     {
       "name": "Narrator",
       "text": "Startled, I exchange glances with Dr. \nWright. As I try to make sense of what on \nearth is going on—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Wait, where'd you get that bento?",
+        "...Wait, where'd you get that bento?"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -212,7 +224,9 @@
     {
       "name": "Sugar Lights",
       "text": "\"Exactly...! How long has it been since I \nlast had such a civilized meal?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, no! I'll gladly accept it!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -290,7 +304,10 @@
     {
       "name": "Air Shakur",
       "text": "Aah? What's that supposed to mean?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I hope it goes well!",
+        "I hope it goes well!"
+      ]
     },
     {
       "name": "Narrator",
@@ -302,7 +319,9 @@
     {
       "name": "Air Shakur",
       "text": "...Tsk. Knock that crap off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because they seem really serious about building that robot!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -340,13 +359,15 @@
       "name": "Symboli Kris S",
       "text": "1... 2... 3... 4... Pace, \ndisrupted――gradually.",
       "choice_data_list": [
-        "(It was muscle training! And she's taking \nit super seriously!)"
+        "Wait... What are you going to do?"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "\"Keep—mind the tempo. Don't rush, lower \nit—slowly...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(It was muscle training! And she's taking it super seriously!)"
+      ]
     },
     {
       "name": "Sugar Lights",
@@ -369,7 +390,10 @@
     {
       "name": "Symboli Kris S",
       "text": "\"...Coaching. ——With my way of doing \nthings—— I often end up——scaring people.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...? What's with you all of a sudden?",
+        "...? What's with you all of a sudden?"
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -386,7 +410,9 @@
     {
       "name": "Sugar Lights",
       "text": "... Kris S, watch me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I see, so that's..."
+      ]
     },
     {
       "name": "Narrator",
@@ -459,7 +485,10 @@
     {
       "name": "Sugar Lights",
       "text": "\"Ah, seriously... you whipped this up in \nno time at all?! That's incredible!?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah! It goes down easy and tastes great!",
+        "Yeah! It goes down smooth and tastes great!"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -496,7 +525,9 @@
     {
       "name": "Narrator",
       "text": "Seeing her heartfelt feelings strikes a \nchord within me as well. It was a \ncelebratory drink truly befitting of her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Gimlet..."
+      ]
     },
     {
       "name": "Sugar Lights",
@@ -530,21 +561,24 @@
       "name": "Narrator",
       "text": "I checked the report for <chrname> as well... and \nthe contents were very informative. So, to \nrepay the favor, even if just a little—",
       "choice_data_list": [
-        "...Could I have just a moment of your \ntime?"
+        "No, I'm the one who should be thanking you.",
+        "No, I'm the one who should be thanking you."
       ]
     },
     {
       "name": "Sugar Lights",
       "text": "...What is this?",
       "choice_data_list": [
-        "This is the ST-2 report I put together \nmyself.",
-        "This is the ST-2 report I put together in \nmy own way."
+        "...Could I have just a moment of your time?"
       ]
     },
     {
       "name": "Narrator",
       "text": "Even so, it's just a makeshift compilation \nof the notes I took during training. It \ncan't even begin to compare to her report, \nbut...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Here's the ST-2 report I put together in my own way.",
+        "Here's the report on the ST-2 that I put together."
+      ]
     },
     {
       "name": "Sugar Lights",

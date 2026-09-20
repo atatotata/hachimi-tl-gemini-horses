@@ -39,11 +39,17 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Now, take hold of my hand!"
+      "text": "Now, take hold of my hand!",
+      "choice_data_list": [
+        "Huh?!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "There is no time for hesitation! Don't you\nsee that\nhavoc is upon us?!"
+      "text": "There is no time for hesitation! Don't you\nsee that\nhavoc is upon us?!",
+      "choice_data_list": [
+        "No, but..."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -51,7 +57,12 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Let the luck-boosting commence! Ho!"
+      "text": "Let the luck-boosting commence! Ho!",
+      "choice_data_list": [
+        "Take her hand",
+        "Play it off with a high five",
+        "Politely decline"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
