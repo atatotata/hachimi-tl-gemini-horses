@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-19 -- Deep story & choices sweep (100% complete)
+- Restored 72,668 missing event choice options directly from decrypted JP asset bundles across 8,176 story timelines.
+- Translated 78,967 unique Japanese strings (dialogue lines, choice buttons, speaker names) via OmniRoute.
+- Cleaned up all untranslated Japanese dialogue choices and character names across all 22,084 story files in repo.
+- Translated remaining UI keys in `localize_dict.json` and 88 fresh `hachimi.log` keys.
+
 ## 2026-09-18 -- Rose Kingdom update & Full package fix
 - New character Rose Kingdom (1144): 119 story timelines + 7 home voices translated.
 - 463 new master.mdb strings covered (voice lines, titles, skills, UI).
