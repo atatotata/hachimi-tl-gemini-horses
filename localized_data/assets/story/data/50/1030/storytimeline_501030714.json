@@ -7,11 +7,17 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Don't worry, Big Sister... I just hurt\nmyself a\nlittle... Ow!"
+      "text": "Don't worry, Big Sister... I just hurt\nmyself a\nlittle... Ow!",
+      "choice_data_list": [
+        "You should lie down."
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "I'm fine. I won't let an injury like this\nstop me from\ntraining."
+      "text": "I'm fine. I won't let an injury like this\nstop me from\ntraining.",
+      "choice_data_list": [
+        "You should lie down."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -19,11 +25,20 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Don't worry!"
+      "text": "Don't worry!",
+      "choice_data_list": [
+        "Even if you say that, I'm worried...",
+        "What will you do if it gets worse?"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Oh... I'm sorry…"
+      "text": "Oh... I'm sorry…",
+      "choice_data_list": [
+        "Even if you say that, I'm worried...",
+        "Even if you say that, I'm still worried...",
+        "What will you do if it gets worse?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -31,11 +46,17 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I just... wanted you to know that I can\nkeep\nworking hard."
+      "text": "I just... wanted you to know that I can\nkeep\nworking hard.",
+      "choice_data_list": [
+        "I know."
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Oh… Thanks. In that case, I'll rest..."
+      "text": "Oh… Thanks. In that case, I'll rest...",
+      "choice_data_list": [
+        "I know."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -59,7 +80,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Okay... <i>Sigh...</i> Why do I always mess up\nlike this?"
+      "text": "Okay... <i>Sigh...</i> Why do I always mess up\nlike this?",
+      "choice_data_list": [
+        "Get some rest."
+      ]
     },
     {
       "name": "Monologue",

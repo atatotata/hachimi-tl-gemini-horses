@@ -155,7 +155,10 @@
     },
     {
       "name": "Monologue",
-      "text": "T.M. Opera O is skilled enough to\nhandle\nanything that comes up."
+      "text": "T.M. Opera O is skilled enough to\nhandle\nanything that comes up.",
+      "choice_data_list": [
+        "Of course, no holding back."
+      ]
     },
     {
       "name": "Monologue",
@@ -191,7 +194,11 @@
     },
     {
       "name": "Special Week",
-      "text": "You picked me!"
+      "text": "You picked me!",
+      "choice_data_list": [
+        "Special Week",
+        "Grass Wonder"
+      ]
     },
     {
       "name": "Special Week",

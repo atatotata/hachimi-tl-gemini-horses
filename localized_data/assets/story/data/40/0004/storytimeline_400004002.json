@@ -11,7 +11,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "What would you like me to explain?"
+      "text": "What would you like me to explain?",
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Don't listen to the explanation"
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +23,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Ah yes, your career goals."
+      "text": "Ah yes, your career goals.",
+      "choice_data_list": [
+        "About Training Goals",
+        "About TS Climax",
+        "About the Special Shop",
+        "About the Best Umamusume",
+        "I'm fine now."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -187,7 +198,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Very well! ♪ Just in case, I've prepared a\nsummary\nof everything you'll need to\nknow."
+      "text": "Very well! ♪ Just in case, I've prepared a\nsummary\nof everything you'll need to\nknow.",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hmm, maybe? My heart's beating pretty\nfast."
+      "text": "Hmm, maybe? My heart's beating pretty\nfast.",
+      "choice_data_list": [
+        "You aren't feeling nervous?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -23,7 +26,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Yep! Here I go! The legend of Teio\nbegins now!"
+      "text": "Yep! Here I go! The legend of Teio\nbegins now!",
+      "choice_data_list": [
+        "Go out there and run your heart out!",
+        "Run with everything you've got!"
+      ]
     }
   ]
 }

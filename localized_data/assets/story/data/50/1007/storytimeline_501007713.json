@@ -11,19 +11,33 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>"
+      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>",
+      "choice_data_list": [
+        "Wh-What's wrong!?",
+        "Wh-What's wrong!?"
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders."
+      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders.",
+      "choice_data_list": [
+        "Repairing the damaged spots comes first.",
+        "Let's upgrade your program right away!"
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "Oh, c'mon! I'm fine, I tell you!"
+      "text": "Oh, c'mon! I'm fine, I tell you!",
+      "choice_data_list": [
+        "Denied. Repairs take priority."
+      ]
     },
     {
       "name": "Gold Ship",
-      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to..."
+      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to...",
+      "choice_data_list": [
+        "Commander's orders!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -63,7 +77,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Hmm... Confirmation pending."
+      "text": "Hmm... Confirmation pending.",
+      "choice_data_list": [
+        "Let's get even stronger!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -71,7 +88,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely."
+      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely.",
+      "choice_data_list": [
+        "Conditions?"
+      ]
     },
     {
       "name": "Monologue",

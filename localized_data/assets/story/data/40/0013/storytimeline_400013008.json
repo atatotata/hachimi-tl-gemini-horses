@@ -32,13 +32,15 @@
       "name": "Casino Drive",
       "text": "Good morning, Trainer-san. Fufu, you still \nlook a bit sleepy.",
       "choice_data_list": [
-        "The jet lag is forcing me to wake up \nearly... *yawn*"
+        "I should probably get moving soon."
       ]
     },
     {
       "name": "Casino Drive",
       "text": "Fufu. I went to bed early last night. \nShall I brew some coffee to help wake you \nup?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Jet lag means waking up early is a must... *yawn*"
+      ]
     },
     {
       "name": "Forever Young",
@@ -51,7 +53,10 @@
     {
       "name": "Forever Young",
       "text": "Well, in this world, information is \neverythingâª It's a must-have, absolutely \na must.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Good morning. You came earlier than expected.",
+        "Good morning. You're earlier than expected."
+      ]
     },
     {
       "name": "Forever Young",

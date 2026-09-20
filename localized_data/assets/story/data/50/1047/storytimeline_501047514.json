@@ -151,7 +151,9 @@
     {
       "name": "Narrator",
       "text": "After the meeting, Zenno Rob Roy was \nchatting with Mejiro Dober with a look of \nrelief.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Maybe I'll go talk to her later.)"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -164,7 +166,10 @@
     {
       "name": "Zenno Rob Roy",
       "text": "I-I really haven't done anything that \nspecial, but... Thank you so much...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That was a great speech!",
+        "That was a great speech!"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -177,14 +182,16 @@
       "name": "Narrator",
       "text": "She told me about a charm she used on her \nlittle brother to relieve his nerves long \nago, and how she had just done the same \nfor Mejiro Dober.",
       "choice_data_list": [
-        "Maybe she's surprisingly big-sisterly?",
-        "Rob Roy, you gave a magnificent speech as \nwell"
+        "A good-luck charm?"
       ]
     },
     {
       "name": "Zenno Rob Roy",
       "text": "N-No! It's really nothing that \nimpressive...! I just happen to have a \nyounger brother...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Maybe you have a bit of a big sister streak?",
+        "Rob Roy gave a dignified speech as well."
+      ]
     },
     {
       "name": "Mejiro Dober",

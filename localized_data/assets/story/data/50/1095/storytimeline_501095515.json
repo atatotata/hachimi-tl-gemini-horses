@@ -191,7 +191,9 @@
     {
       "name": "Fuji Kiseki",
       "text": "...Indeed, that is strange. Everyone in \nthe Ritto dorm should have been present at \nroll call, but... I'll check again.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah, Fuji Kiseki. Got a minute?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -204,7 +206,10 @@
     {
       "name": "Narrator",
       "text": "I rushed to the Ritto Dormitory with Fuji \nKiseki. If they sent a safety check-in, \nthat means something must have happened to \nthe two of them!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What did you say?!",
+        "Excuse me?!"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -217,7 +222,10 @@
     {
       "name": "Fuji Kiseki",
       "text": "Believe, Lala! Thank goodness... Are you \nfeeling all right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Unlock the door! Hurry!!",
+        "Unlock the door! Hurry!!"
+      ]
     },
     {
       "name": "Believe",
@@ -231,14 +239,17 @@
       "name": "Lucky Lilac",
       "text": "We just moved like we were evacuating, so \nwe managed to pull through. It's all \nthanks to Believe-san keeping her cool.",
       "choice_data_list": [
-        "I'm just so glad you're safe!",
-        "There's such a thing as being too \npatient..."
+        "Yeah, it was an accident. Sorry I didn't notice sooner.",
+        "Yeah, it was an accident. Sorry I didn't notice sooner."
       ]
     },
     {
       "name": "Believe",
       "text": "............ ...I'm sorry.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Anyway, I'm glad you're safe!",
+        "There's being patient, and then there's this..."
+      ]
     },
     {
       "name": "Believe",
@@ -266,7 +277,10 @@
     {
       "name": "Narrator",
       "text": "I quietly make a resolution. Her threshold \nfor endurance is so high that she might \njust push past the pain without speaking \nup—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I have to keep a close eye on her...)",
+        "(I have to keep a close eye on her...)"
+      ]
     }
   ]
 }

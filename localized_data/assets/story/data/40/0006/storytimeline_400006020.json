@@ -52,13 +52,15 @@
       "name": "Narrator",
       "text": "\"I close my eyes and reflect on today's \nevents. Collapsing onto the bed, resting \nmy head against the pillow—\"",
       "choice_data_list": [
-        "(...I can't fall asleep.)"
+        "ï¼<chrname> held on with everything she had.ï¼"
       ]
     },
     {
       "name": "Narrator",
       "text": "Opening the door, I stepped out of the \nroom. I had nowhere in particular in mind \nto go.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...I can't fall asleep.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -70,7 +72,10 @@
     {
       "name": "Narrator",
       "text": "Who invited whom first at that moment? \nBefore we knew it, the two of us were \nwalking out of the hotel.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "<chrname>？",
+        "Lady <chrname>?"
+      ]
     },
     {
       "name": "Narrator",
@@ -97,7 +102,9 @@
     {
       "name": "Gold Ship",
       "text": "“......*pant*. *Pant*......!”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...The footsteps are multiplying...)"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -124,7 +131,9 @@
     {
       "name": "Narrator",
       "text": "\"None of the girls who set their sights on \nthe Prix de l'Arc de Triomphe have given \nup on winning. ...There's no way they ever \nwould.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(It's not over yet.)"
+      ]
     },
     {
       "name": "Narrator",

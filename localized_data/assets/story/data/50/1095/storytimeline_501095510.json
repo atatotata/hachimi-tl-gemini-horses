@@ -203,15 +203,23 @@
       "name": "Narrator",
       "text": "What she showed me then was an elaborately \ncrafted \"Hero's Belt,\" its center adorned \nwith constellation motifs.",
       "choice_data_list": [
-        "Oh, that's so cool!",
-        "Wow, so cool!"
+        "Hm? What's the matter?",
+        "Hm? What's wrong?"
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "Ehehe, pretty cool, right? It's finally \ndone! A Transformation Belt! I made it \ntogether with Believe-senpai!",
       "choice_data_list": [
-        "Huh, is that so?",
+        "Whoa, that's so cool!",
+        "Whoa, that's so cool!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. I'll take care of the decorations.",
+      "choice_data_list": [
+        "Wait, is that true?",
         "Wait, really?"
       ]
     },
@@ -219,18 +227,8 @@
       "name": "Believe",
       "text": "Yes. I'll take care of the decorations.",
       "choice_data_list": [
-        "Huh... You can really tell how much \nthought went into this!",
-        "Huh... You can really tell how much \nthought went into this!",
-        "What are you going to do with this?",
-        "What are you going to do with this?"
-      ]
-    },
-    {
-      "name": "Believe",
-      "text": "Yes. I'll take care of the decorations.",
-      "choice_data_list": [
-        "Huh... You can really tell how much \nthought went into this!",
-        "Huh... You can really tell how much \nthought went into this!",
+        "Oh... I can really feel the craftsmanship here!",
+        "Oh... I can really feel the craftsmanship here!",
         "What are you going to do with this?",
         "What are you going to do with this?"
       ]
@@ -238,7 +236,12 @@
     {
       "name": "Believe",
       "text": "......Thank you very much.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Oh... I can really feel the craftsmanship here!",
+        "Oh... I can really feel the craftsmanship here!",
+        "What are you going to do with this?",
+        "What are you going to do with this?"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -266,7 +269,10 @@
     {
       "name": "Believe",
       "text": "No, I...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, Believe is running too?",
+        "Wait, Believe is running too?"
+      ]
     },
     {
       "name": "Biko Pegasus",

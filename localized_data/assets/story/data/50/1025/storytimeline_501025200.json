@@ -15,7 +15,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "(She's not here...)"
+      "text": "(She's not here...)",
+      "choice_data_list": [
+        "Yeah, of course.",
+        "Yeah, of course."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "Let's close the gap, even just a bit."
+      ]
     },
     {
       "name": "Monologue",

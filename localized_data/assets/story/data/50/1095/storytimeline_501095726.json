@@ -33,13 +33,16 @@
       "name": "Believe",
       "text": "No, I'm not aiming that high. If I can \njust hook it and smooth it out nicely, \nthat'll do.",
       "choice_data_list": [
-        "You didn't have to spend money on me!?"
+        "You planning to go for it?",
+        "Are you planning to go for it?"
       ]
     },
     {
       "name": "Believe",
       "text": "Yes. It feels kind of unpleasant, so...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You went out of your way to spend money?!"
+      ]
     },
     {
       "name": "Narrator",
@@ -51,7 +54,9 @@
     {
       "name": "Believe",
       "text": "I don't mind grabbing it, but... I'm not \nparticularly used to playing games...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is it bad if I take it?"
+      ]
     },
     {
       "name": "Believe",
@@ -63,7 +68,9 @@
     {
       "name": "Believe",
       "text": "Trainer is?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "In that case, I'll give it a try!"
+      ]
     },
     {
       "name": "Believe",

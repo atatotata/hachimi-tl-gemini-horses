@@ -115,11 +115,18 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Huh? Oh. Yeah, I'm okay. Why?"
+      "text": "...Huh? Oh. Yeah, I'm okay. Why?",
+      "choice_data_list": [
+        "...Jordan, are you all right?",
+        "...Jordan, are you okay?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Oh..."
+      "text": "Oh...",
+      "choice_data_list": [
+        "And the outfit...?"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -203,15 +210,24 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "About our next goal..."
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Oh! Um... What were we talking about?"
+      "text": "Oh! Um... What were we talking about?",
+      "choice_data_list": [
+        "Jordan?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ah... Right. Uhhh..."
+      "text": "Ah... Right. Uhhh...",
+      "choice_data_list": [
+        "It's about our next goal."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -267,7 +283,10 @@
     },
     {
       "name": "Monologue",
-      "text": "There's just one small problem..."
+      "text": "There's just one small problem...",
+      "choice_data_list": [
+        "If it's the Osaka Hai, then she mightâ"
+      ]
     },
     {
       "name": "Monologue",

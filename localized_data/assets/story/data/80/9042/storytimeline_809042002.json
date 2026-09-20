@@ -11,7 +11,11 @@
     },
     {
       "name": "Horse Girl A",
-      "text": "Fault is mine for being too weak...! To \nreceive Byerley Turk-san's guidance, lack \nability as I am now... gh."
+      "text": "Fault is mine for being too weak...! To \nreceive Byerley Turk-san's guidance, lack \nability as I am now... gh.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Narrator",
@@ -30,7 +34,10 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "Leave her be."
+      "text": "Leave her be.",
+      "choice_data_list": [
+        "Is it okay not to chase after them?"
+      ]
     },
     {
       "name": "Byerley Turk",
@@ -42,7 +49,11 @@
     },
     {
       "name": "Byerley Turk",
-      "text": "...Hmph. Cheering on a support AI? Such \nthought process is typical of a novice."
+      "text": "...Hmph. Cheering on a support AI? Such \nthought process is typical of a novice.",
+      "choice_data_list": [
+        "You can't give up until the very end.",
+        "Ms. Byerley sure is strong."
+      ]
     },
     {
       "name": "Byerley Turk",
@@ -83,12 +94,15 @@
       "name": "Byerley Turk",
       "text": "...Now then, I have free time. If any \nstudent seeks strength, they are always \nwelcome.",
       "choice_data_list": [
-        "Eager to get back to work already, I see"
+        "...I see. Leave it to me!"
       ]
     },
     {
       "name": "Byerley Turk",
-      "text": "Naturally. A single day sooner, one more \nstudent... These horse girls must become \nstrong."
+      "text": "Naturally. A single day sooner, one more \nstudent... These horse girls must become \nstrong.",
+      "choice_data_list": [
+        "You're raring to go already, I see."
+      ]
     }
   ]
 }

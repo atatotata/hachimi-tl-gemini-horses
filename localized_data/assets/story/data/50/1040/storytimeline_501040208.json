@@ -15,7 +15,10 @@
     },
     {
       "name": "Gold City",
-      "text": "...Yeah!"
+      "text": "...Yeah!",
+      "choice_data_list": [
+        "Go on, tell them how you feel."
+      ]
     },
     {
       "name": "Gold City",
@@ -59,7 +62,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Yup. All that's left to do is run past it all!"
+      "text": "Yup. All that's left to do is run past it all!",
+      "choice_data_list": [
+        "Had enough already?",
+        "Had enough already?"
+      ]
     }
   ]
 }

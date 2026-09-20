@@ -11,7 +11,10 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Huh, that's strange. I'm sure she came\nthis way!"
+      "text": "Huh, that's strange. I'm sure she came\nthis way!",
+      "choice_data_list": [
+        "I don't think I saw it, but..."
+      ]
     },
     {
       "name": "Monologue",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It looks like Narita Taishin is avoiding\nTwin Turbo.\nCurious, I ask why."
+      "text": "It looks like Narita Taishin is avoiding\nTwin Turbo.\nCurious, I ask why.",
+      "choice_data_list": [
+        "That's fine, but..."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -51,7 +57,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "See, I had the same thought. But\nTaishin..."
+      "text": "See, I had the same thought. But\nTaishin...",
+      "choice_data_list": [
+        "Wouldn't one race get it out of your system?"
+      ]
     },
     {
       "name": "Narita Taishin",

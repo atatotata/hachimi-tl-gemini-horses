@@ -33,20 +33,23 @@
       "name": "Symboli Kris S",
       "text": "Yes. Concrete preference proposals—still \nnone.",
       "choice_data_list": [
-        "Is there anything you want to use as a \nmotif?"
+        "...The design of your racewear?",
+        "...Your racewear's design?"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "............ ――Nothing comes to mind.",
       "choice_data_list": [
-        "Any specific requests for colors, \ndecorations, or details...?"
+        "Is there anything you want to use as a motif?"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "............ ――I don't understand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "As for specific requests like colors or decorations..."
+      ]
     },
     {
       "name": "Narrator",
@@ -69,7 +72,10 @@
     {
       "name": "Symboli Kris S",
       "text": "—Functionality. —That is all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "How do you pick out your casual clothes?",
+        "How do you choose your casual clothes?"
+      ]
     },
     {
       "name": "Narrator",
@@ -81,7 +87,9 @@
     {
       "name": "Symboli Kris S",
       "text": "—I trust the designer's sense. ...However, \nI want to avoid leaving it entirely to \nothers.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Leaving the design to a pro might be a good idea, too..."
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -98,7 +106,9 @@
     {
       "name": "Symboli Kris S",
       "text": "—Feelings...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Just pour those feelings straight into your racewear."
+      ]
     },
     {
       "name": "Narrator",
@@ -197,24 +207,27 @@
       "name": "Symboli Kris S",
       "text": "—I see. In that case—that's good.",
       "choice_data_list": [
-        "You really feel like a member of the clan \nin both name and deed.",
-        "You really feel like a member of the clan \nin both name and deed.",
-        "I'll keep helping you repay the favor."
+        "No, that was a splendid declaration.",
+        "No, that was a wonderful declaration."
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "—I see. In that case—that's good.",
       "choice_data_list": [
-        "You really feel like a member of the clan \nin both name and deed.",
-        "You really feel like a member of the clan \nin both name and deed.",
+        "It truly feels like you're part of the family in name and deed.",
+        "It really feels like you're part of the family in name and deed, doesn't it?",
         "I'll keep helping you repay the favor."
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "“—It's thanks to thinking it through... \nwith you, Trainer. It turned out to be... \na fine racing outfit.”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It truly feels like you're part of the family in name and deed.",
+        "It really feels like you're part of the family in name and deed, doesn't it?",
+        "I'll keep helping you repay the favor."
+      ]
     },
     {
       "name": "Symboli Kris S",

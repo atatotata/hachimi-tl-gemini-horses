@@ -7,7 +7,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Thanks! My body's burnin' hot! These G1\nraces\nsure turn up the heat!"
+      "text": "Thanks! My body's burnin' hot! These G1\nraces\nsure turn up the heat!",
+      "choice_data_list": [
+        "That was an incredible run!",
+        "That was the best run ever!"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -115,7 +119,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Ooh, I don't think I can handle the\nsuspense!"
+      "text": "Ooh, I don't think I can handle the\nsuspense!",
+      "choice_data_list": [
+        "Let's wait for the announcement in January."
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -127,7 +134,11 @@
     },
     {
       "name": "Monologue",
-      "text": "We continue training diligently for the\nupcoming\nYasuda Kinen, awaiting the\nannouncement of the\nnext Umamusume\nof the Year..."
+      "text": "We continue training diligently for the\nupcoming\nYasuda Kinen, awaiting the\nannouncement of the\nnext Umamusume\nof the Year...",
+      "choice_data_list": [
+        "—Wait, it's already night!",
+        "—Wait, it's nighttime already!"
+      ]
     }
   ]
 }

@@ -23,7 +23,11 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh?!\nHell no! Don't get any weird\nideas!"
+      "text": "Huh?!\nHell no! Don't get any weird\nideas!",
+      "choice_data_list": [
+        "Shakur, you're doing a stage play!?",
+        "Shakur, you're doing a stage play!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -43,7 +47,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "You don't have to bother over every\nlittle detail.\nDamn..."
+      "text": "You don't have to bother over every\nlittle detail.\nDamn...",
+      "choice_data_list": [
+        "Then why on earth?"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -87,7 +94,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Right? I meticulously calculated every\naspect so\nas to create a feeling of\nimmersion, pulling the\naudience directly\ninto the world on stage."
+      "text": "Right? I meticulously calculated every\naspect so\nas to create a feeling of\nimmersion, pulling the\naudience directly\ninto the world on stage.",
+      "choice_data_list": [
+        "I was totally captivated...!"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -115,11 +125,21 @@
     },
     {
       "name": "Monologue",
-      "text": "It appears the real reason Air Shakur has\ndecided\nto help with the show isn't due\nto kindness, but\nrather the desire to\nprove a theory. All the same..."
+      "text": "It appears the real reason Air Shakur has\ndecided\nto help with the show isn't due\nto kindness, but\nrather the desire to\nprove a theory. All the same...",
+      "choice_data_list": [
+        "You really gave it your all, huh.",
+        "You really gave it your all, didn't you.",
+        "I'm helping them out until the main event."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "You really gave it your all, huh.",
+        "You really gave it your all, didn't you.",
+        "I'm helping them out until the main event."
+      ]
     },
     {
       "name": "Monologue",

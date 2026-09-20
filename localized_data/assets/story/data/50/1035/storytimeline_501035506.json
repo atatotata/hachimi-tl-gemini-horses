@@ -19,7 +19,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, hello. I'd normally say it should be\nobvious,\nbut perhaps that's not the case."
+      "text": "Oh, hello. I'd normally say it should be\nobvious,\nbut perhaps that's not the case.",
+      "choice_data_list": [
+        "What's all the commotion about...?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -47,7 +50,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Actually, your insight may be valuable\nprecisely\n<i>because</i> this isn't your area of\nexpertise."
+      "text": "Actually, your insight may be valuable\nprecisely\n<i>because</i> this isn't your area of\nexpertise.",
+      "choice_data_list": [
+        "Dancing isn't really my forte, but..."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -59,11 +65,23 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Come ooon! Please! I need your help!"
+      "text": "Come ooon! Please! I need your help!",
+      "choice_data_list": [
+        "You're just not fired up enough.",
+        "You're just not fired up enough!",
+        "You're tensing up too much.",
+        "You're putting too much tension into it."
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Amp myself up? Riiight, that's gotta be\nit!"
+      "text": "Amp myself up? Riiight, that's gotta be\nit!",
+      "choice_data_list": [
+        "You're just not fired up enough.",
+        "You're just not fired up enough!",
+        "You're tensing up too much.",
+        "You're putting too much tension into it."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -79,7 +97,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I suspect you may understand Ticket\nmore\nthoroughly than I do."
+      "text": "I suspect you may understand Ticket\nmore\nthoroughly than I do.",
+      "choice_data_list": [
+        "A good match...?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -127,7 +148,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Huh? I just tried to relax my entire body."
+      "text": "Huh? I just tried to relax my entire body.",
+      "choice_data_list": [
+        "W-Why'd you sit down all of a sudden?!",
+        "W-What's wrong, why did you suddenly sit down?!"
+      ]
     },
     {
       "name": "Biwa Hayahide",

@@ -142,7 +142,10 @@
     {
       "name": "Narrator",
       "text": "While I was handling the application \npaperwork, Fenomeno—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Apply to the academy",
+        "Guide students who are there for training."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -250,13 +253,15 @@
       "name": "Fenomeno",
       "text": "...Yes, last week... Stego-senpai said she \nfound some delicious anpan, and...",
       "choice_data_list": [
-        "...That's a nice photo............?"
+        "This is Meno's photo... maybe?"
       ]
     },
     {
       "name": "Fenomeno",
       "text": "“......Yes. It was a heartwarming time. \nHowever————”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...It's a nice photo............?"
+      ]
     },
     {
       "name": "Fenomeno",

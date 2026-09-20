@@ -67,7 +67,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "First, I'd like your permission to wear my\n\nsignature racewear."
+      "text": "First, I'd like your permission to wear my\n\nsignature racewear.",
+      "choice_data_list": [
+        "Talk about what?"
+      ]
     },
     {
       "name": "Air Groove",
@@ -139,11 +142,23 @@
     },
     {
       "name": "Younger Student",
-      "text": "<i>Huff, huff, huff...</i>"
+      "text": "<i>Huff, huff, huff...</i>",
+      "choice_data_list": [
+        "...She's really kind.",
+        "...She's really kind, isn't she?",
+        "...She's pretty strict.",
+        "...She's pretty strict, isn't she?"
+      ]
     },
     {
       "name": "Younger Student",
-      "text": "Yeah, she is... but also cruel."
+      "text": "Yeah, she is... but also cruel.",
+      "choice_data_list": [
+        "...She's really kind.",
+        "...She's really kind, isn't she?",
+        "...She's pretty strict.",
+        "...She's pretty strict, isn't she?"
+      ]
     },
     {
       "name": "Younger Student",

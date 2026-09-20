@@ -35,7 +35,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "...Do you really think so?"
+      ]
     },
     {
       "name": "Male Spectator",
@@ -51,7 +54,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Shall we go watch?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -147,7 +153,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Not wanting to hurt others is an\nadmirable trait.\nOn the other hand,\nstaying true to your path\nmeans you may\nhurt someone along the way."
+      "text": "Not wanting to hurt others is an\nadmirable trait.\nOn the other hand,\nstaying true to your path\nmeans you may\nhurt someone along the way.",
+      "choice_data_list": [
+        "...Being selfish and being true to yourself are two different things."
+      ]
     },
     {
       "name": "Monologue",
@@ -159,7 +168,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Only I... can decide..."
+      "text": "Only I... can decide...",
+      "choice_data_list": [
+        "That's for you to decide.",
+        "That's for you to decide."
+      ]
     },
     {
       "name": "Monologue",
@@ -231,7 +244,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Yes. It's true that my behavior before\nwas\nself-centered, and I'm ashamed of\nthat."
+      "text": "Yes. It's true that my behavior before\nwas\nself-centered, and I'm ashamed of\nthat.",
+      "choice_data_list": [
+        "Have you reached a conclusion?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -255,7 +271,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "A true princess wouldn't back down from\nan\nopportunity like this just because she\nfelt\nintimidated."
+      "text": "A true princess wouldn't back down from\nan\nopportunity like this just because she\nfelt\nintimidated.",
+      "choice_data_list": [
+        "...Aren't you scared?",
+        "...You're not scared?"
+      ]
     },
     {
       "name": "Monologue",
@@ -267,7 +287,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Right."
+      "text": "...Right.",
+      "choice_data_list": [
+        "...You're not alone, remember.",
+        "...You're not alone, you know."
+      ]
     }
   ]
 }

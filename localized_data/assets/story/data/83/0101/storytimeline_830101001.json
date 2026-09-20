@@ -23,7 +23,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh, I didn't expect extra company! But\nthis is just\nwhat I needed. Convince Cafe\nfor me, would you?"
+      "text": "Oh, I didn't expect extra company! But\nthis is just\nwhat I needed. Convince Cafe\nfor me, would you?",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I do... like cookies. But behind anything\nnice that\nTachyon does... is normally\nsomething sinister..."
+      "text": "I do... like cookies. But behind anything\nnice that\nTachyon does... is normally\nsomething sinister...",
+      "choice_data_list": [
+        "Don't you like cookies?",
+        "Don't you like cookies?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -55,7 +63,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Isn't that obvious? To experiment!"
+      "text": "Isn't that obvious? To experiment!",
+      "choice_data_list": [
+        "Why would you do that...?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -107,7 +118,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ooh, this response exceeds my\nexpectations! So\nthis abnormal event is\nthe work of your \"friend\"!"
+      "text": "Ooh, this response exceeds my\nexpectations! So\nthis abnormal event is\nthe work of your \"friend\"!",
+      "choice_data_list": [
+        "(Wh-what's happening...?!)",
+        "(Wh-what's happening...?!)"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -119,11 +134,23 @@
     },
     {
       "name": "Monologue",
-      "text": "After witnessing the room shake, Agnes\nTachyon\nis attempting to provoke a\nbigger reaction..."
+      "text": "After witnessing the room shake, Agnes\nTachyon\nis attempting to provoke a\nbigger reaction...",
+      "choice_data_list": [
+        "No, it's just a coincidence!",
+        "No, it's just a coincidence!",
+        "Any more than this is honestly scary...",
+        "Any more than this is honestly scary..."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I explain that I left the door open when I\nentered\nthe room, so it was likely just a\ndraft."
+      "text": "I explain that I left the door open when I\nentered\nthe room, so it was likely just a\ndraft.",
+      "choice_data_list": [
+        "No, it's just a coincidence!",
+        "No, it's just a coincidence!",
+        "Any more than this is honestly scary...",
+        "Any more than this is honestly scary..."
+      ]
     },
     {
       "name": "Agnes Tachyon",

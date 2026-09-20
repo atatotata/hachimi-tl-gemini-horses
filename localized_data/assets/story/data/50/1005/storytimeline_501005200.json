@@ -15,7 +15,10 @@
     },
     {
       "name": "Announcer A",
-      "text": "\"That may be so! Now, I don't know\nabout you,\nbut I can't wait to see how\nthey do today!\""
+      "text": "\"That may be so! Now, I don't know\nabout you,\nbut I can't wait to see how\nthey do today!\"",
+      "choice_data_list": [
+        "（！）"
+      ]
     },
     {
       "name": "",
@@ -23,7 +26,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "(N-Now I'm getting nervous...!)"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -67,7 +73,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Good!"
+      "text": "Good!",
+      "choice_data_list": [
+        "Ah...!",
+        "Yeah...!"
+      ]
     },
     {
       "name": "Fuji Kiseki",

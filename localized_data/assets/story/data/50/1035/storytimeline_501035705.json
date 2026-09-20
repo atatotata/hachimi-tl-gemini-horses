@@ -11,7 +11,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! I feel so refreshed! All revitalized!"
+      "text": "Yeah! I feel so refreshed! All revitalized!",
+      "choice_data_list": [
+        "Were you able to take a good breather?",
+        "Were you able to take a good breather?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -191,11 +195,21 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Nooo! I'll have less time for training and\nless time\nto have fun!"
+      "text": "Nooo! I'll have less time for training and\nless time\nto have fun!",
+      "choice_data_list": [
+        "It's no big deal. You can do it!",
+        "It's not that big of a problem. Hang in there!",
+        "Want to take another breather?"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "That's soooo mean! It <i>is</i> a big deal!"
+      "text": "That's soooo mean! It <i>is</i> a big deal!",
+      "choice_data_list": [
+        "It's no big deal. You can do it!",
+        "It's not that big of a problem. Hang in there!",
+        "Want to take another breather?"
+      ]
     },
     {
       "name": "Special Week",

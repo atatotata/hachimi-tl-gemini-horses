@@ -26,7 +26,9 @@
     {
       "name": "Loves Only You",
       "text": "\"Hey, Trainer-kun. The day after tomorrow \nis an all-out rest day, right?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I never thought it would come to this...)"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -44,7 +46,10 @@
     {
       "name": "Loves Only You",
       "text": "And also... \"We'd love it if your Trainer \njoined us too,\" ...they said.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sounds good to me! Go have fun!",
+        "Sounds good! Go have fun!"
+      ]
     },
     {
       "name": "Loves's Father",
@@ -56,7 +61,9 @@
     {
       "name": "Loves Only You",
       "text": "Whoa, look at all this outdoor gear! \nYou've really put together a serious \ncollection!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Understood, gladly."
+      ]
     },
     {
       "name": "Loves's Mother",
@@ -79,35 +86,37 @@
       "name": "Loves Only You",
       "text": "Fufu, Dad really gets obsessed with \nthings. So, which shall it be? Starting a \nfire without fire starters, or fishing in \na mountain stream?",
       "choice_data_list": [
-        "Probably the fire-starting part — that's \nthe heavy lifting",
-        "It's a test of patience... this fishing, I \nguess."
+        "It's far more authentic than I expected...!"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "We've gathered the big firewood, right? \nFor the rest, dry twigs and dry pinecones \nare fine, yes?",
       "choice_data_list": [
-        "Apparently it can be used as kindling \ninstead"
+        "Starting a fire, which takes some muscle.",
+        "A game of patience... maybe?"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Huh, how interesting. ...Wait? If you need \ndry pinecones, wouldn't the twigs need to \nbe dry too?",
       "choice_data_list": [
-        "True. Ah... this twig is a bit damp."
+        "They say it can be used instead of fire starter."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Let's divide the work and pick out only \nthe dry ones. I'll gather them all up, so \ncould you do the sorting?",
       "choice_data_list": [
-        "Got it!"
+        "True. Ah... this twig is a bit damp."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Ei! Oh? It split at an angle. Maybe \nchopping firewood is surprisingly tough?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Got it!"
+      ]
     },
     {
       "name": "Loves's Father",
@@ -119,7 +128,9 @@
     {
       "name": "Loves Only You",
       "text": "Fufu, that's right. We'll be fine. No \nmatter how difficult things get, we've \nalways brainstormed and worked through \nthem together.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thank you, but I'm all right!"
+      ]
     },
     {
       "name": "Loves's Father",
@@ -137,13 +148,15 @@
       "name": "Loves Only You",
       "text": "Divide up the chores by chopping firewood?",
       "choice_data_list": [
-        "I'll just hammer in the tip of the hatchet \nblade and pass it along, so let's do it \nassembly-line style."
+        "Splitting this part up might be the best call."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Ah... I see. Since our downward swings \ndidn't sync up, we're dividing the labor. \nSo all I have to do is keep cracking them \nopen!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll just hammer the hatchet blade in and pass it over, so keep the assembly line moving."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -155,7 +168,9 @@
     {
       "name": "Loves Only You",
       "text": "Huh? It's just a work chant. It's way more \nfun if we keep a rhythm, right? We still \nneed to start the fire, so let's hurry up.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh!? L-love you!? ...What is this?"
+      ]
     },
     {
       "name": "Loves's Father",
@@ -202,7 +217,9 @@
     {
       "name": "Loves Only You",
       "text": "Drive safe! ...Fufu. I'm glad you seemed \nto have a good time.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll do my best."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -230,20 +247,22 @@
       "name": "Loves Only You",
       "text": "Trainer-kun, just a little more!",
       "choice_data_list": [
-        "Aah! It got away again...!"
+        "Got it!"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Trainer-chan, just a little further!",
       "choice_data_list": [
-        "Aah! It got away again...!"
+        "Aargh! It got away again...!"
       ]
     },
     {
       "name": "Loves's Father",
       "text": "Oh, having a bit of a tough time? Need \nsome help?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Aargh! It got away again...!"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -265,7 +284,9 @@
     {
       "name": "Loves Only You",
       "text": "Well, true, both of them have barely \nmanaged to get away each time so far.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "In other words, one of us should take on a support role."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -287,7 +308,9 @@
     {
       "name": "Loves Only You",
       "text": "(That's right. I rushed in alone trying to \nreel it in and messed up, but Trainer-kun \nwill definitely seal the deal in the end.)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Don't rush! Let's take our time!"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -305,27 +328,29 @@
       "name": "Loves Only You",
       "text": "...Slowly. ......Reel it in slowly. \n............Trainer-chan!",
       "choice_data_list": [
-        "Now's the time...!"
+        "Now's our chance...!"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Here you go, Trainer-kun. I've handled my \nside.",
       "choice_data_list": [
-        "Okay! Let's get skewering!"
+        "Now's our chance...!"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Here you go, Trainer-chan. I've handled my \nside.",
       "choice_data_list": [
-        "Okay! Let's get skewering!"
+        "Okay! Let's get these skewered!"
       ]
     },
     {
       "name": "Loves's Mother",
       "text": "\"Loves. Do you have the fish for this dish \nyet?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Okay! Let's get these skewered!"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -338,13 +363,15 @@
       "name": "Loves Only You",
       "text": "Yeah, I'm fine, Mama. Now as for \nTrainer-chan—",
       "choice_data_list": [
-        "I've got the shiso miso all ready too!"
+        "The shiso miso is all ready to go too!"
       ]
     },
     {
       "name": "Loves's Mother",
       "text": "The two of them are in total sync. They \nknow exactly what the other is trying to \ndo, don't they?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The shiso miso is all ready to go too!"
+      ]
     },
     {
       "name": "Loves's Father",
@@ -381,7 +408,9 @@
     {
       "name": "Loves Only You",
       "text": "Yes, truly. Thanks to that, I feel \nenergized. I can work even harder starting \ntomorrow♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Your parents sound like fun."
+      ]
     },
     {
       "name": "Loves Only You",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "I'm done for... Gimme a second to rest."
+      "text": "I'm done for... Gimme a second to rest.",
+      "choice_data_list": [
+        "(She's exhausted...)"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -19,7 +22,11 @@
     },
     {
       "name": "King Halo",
-      "text": "Sky..."
+      "text": "Sky...",
+      "choice_data_list": [
+        "You can't do that?!",
+        "No way!?"
+      ]
     },
     {
       "name": "Seiun Sky",

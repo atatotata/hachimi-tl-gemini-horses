@@ -7,7 +7,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Pardon me... It's just that I've had a\nheadache for\na little while. I don't think\nit's anything to—"
+      "text": "Pardon me... It's just that I've had a\nheadache for\na little while. I don't think\nit's anything to—",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Security Captain",
@@ -15,7 +19,10 @@
     },
     {
       "name": "Security Officer",
-      "text": "Captain! Transport preparations are\ncomplete!\nWe've also booked Her\nHighness in for a\ncomplete medical\nevaluation!"
+      "text": "Captain! Transport preparations are\ncomplete!\nWe've also booked Her\nHighness in for a\ncomplete medical\nevaluation!",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Voice on the Radio",
@@ -47,7 +54,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Yes, that sounds—"
+      "text": "Yes, that sounds—",
+      "choice_data_list": [
+        "W-Well, let's wait and see for now.",
+        "W-Well, let's wait and see for now."
+      ]
     },
     {
       "name": "Fine Motion",

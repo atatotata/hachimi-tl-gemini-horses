@@ -12,13 +12,15 @@
       "name": "Narrator",
       "text": "My task is to build up strength worthy of \nBuena Vista's true caliber. While \npondering this— I spotted the Buena Vista \n\"trio.\"",
       "choice_data_list": [
-        "(Are those... the other girls from my \ngeneration?)"
+        "(As a Trainer, I need to grow even more!)"
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Fufu, your stories are always so \nexciting... and fun, Nakayama-san!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Is that...the girls from my year?)"
+      ]
     },
     {
       "name": "？？？？",
@@ -55,7 +57,9 @@
     {
       "name": "Transcend",
       "text": "Hey hey~. It's the academy's info broker, \nTranscend~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I see... Wait, who have you been this whole time?!"
+      ]
     },
     {
       "name": "Transcend",
@@ -67,7 +71,9 @@
     {
       "name": "Transcend",
       "text": "I think you already know, but... including \nme, we're all in Buena-chan's class year.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's true, but..."
+      ]
     },
     {
       "name": "Transcend",
@@ -81,21 +87,24 @@
       "name": "Transcend",
       "text": "\"If there's anyone you're interested in, \njust let me know. I wouldn't mind hooking \nyou up with some info~\"",
       "choice_data_list": [
-        "I-Information, you say...?"
+        "Yeah, they all seem really talented.",
+        "Yeah, they all seem very talented."
       ]
     },
     {
       "name": "Transcend",
       "text": "Well, I know you only care about \nBuena-chan, though.",
       "choice_data_list": [
-        "...By the way, what kind of thing is it?",
-        "...By the way, what kind of thing is it?"
+        "I-Info...?"
       ]
     },
     {
       "name": "Transcend",
       "text": "Well, of course! Anything you wanna know, \njust ask away.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...By the way, what kind of thing is it?",
+        "...By the way, what kind of thing is it?"
+      ]
     },
     {
       "name": "Transcend",
@@ -107,7 +116,9 @@
     {
       "name": "Transcend",
       "text": "Fufun, don't you dare underestimate an \ninformant.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "! How do you know that—"
+      ]
     },
     {
       "name": "Transcend",
@@ -119,7 +130,9 @@
     {
       "name": "Narrator",
       "text": "As her childhood friend, I like to think I \nknow Buena Vista well. But naturally, we \nhaven't spent every moment together.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah...!"
+      ]
     },
     {
       "name": "Narrator",
@@ -131,7 +144,9 @@
     {
       "name": "Transcend",
       "text": "Oh, you made it~ Been waiting for ya!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...Might as well rely on them.)"
+      ]
     },
     {
       "name": "Transcend",
@@ -146,7 +161,12 @@
     {
       "name": "Transcend",
       "text": "Her day-to-day school life, huh... Yes, \nyes, we've gotten plenty of anonymous \ntips.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "About everyday school life",
+        "Current obsessions",
+        "Buena from Transcend's Perspective",
+        "I'm fine now."
+      ]
     },
     {
       "name": "Transcend",
@@ -164,7 +184,10 @@
     {
       "name": "Transcend",
       "text": "\"So, is there anything else you'd like to \nask?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "People really look up to you...",
+        "People really look up to you..."
+      ]
     },
     {
       "name": "Transcend",
@@ -186,7 +209,9 @@
     {
       "name": "Transcend",
       "text": "\"So, is there anything else you'd like to \nask?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I see..."
+      ]
     },
     {
       "name": "Transcend",
@@ -208,7 +233,9 @@
     {
       "name": "Transcend",
       "text": "\"So, is there anything else you'd like to \nask?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...Well, I suppose that's true...?)"
+      ]
     },
     {
       "name": "Transcend",
@@ -235,7 +262,9 @@
     {
       "name": "Transcend",
       "text": "In short, you gotta build it up step by \nstep. Try exploring and learning a wide \nvariety of things.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Base stats...? Raising stats...?"
+      ]
     },
     {
       "name": "Transcend",
@@ -247,7 +276,9 @@
     {
       "name": "Narrator",
       "text": "I immediately went to the library to \nreview the basics. I also read not only \nthe latest training papers, but papers \nacross various fields to learn \ncomprehensively.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "True... Thanks for telling me!"
+      ]
     },
     {
       "name": "Narrator",
@@ -264,7 +295,9 @@
     {
       "name": "Senior Trainer",
       "text": "Oh, nice! Just keep sprinting right past \ntomorrow and into the day after!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Y-Yes...! Whoaaa...!"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -291,7 +324,9 @@
     {
       "name": "Buena Vista",
       "text": "Late-night snack time! I packed some rice \nballs and a few side dishes for you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Could this be...?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -314,7 +349,10 @@
     {
       "name": "Buena Vista",
       "text": "\"Yeah. While taking a break, we chatted \nabout all sorts of silly things.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You brought us refreshments.",
+        "You brought us a treat"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -327,45 +365,47 @@
       "name": "Narrator",
       "text": "She had always watched over her and cared \nfor her. ...Casually and effortlessly, \njust like right now.",
       "choice_data_list": [
-        "Hey, Buena.",
-        "Hey, Buena"
+        "Not at all. ...I was actually really happy."
       ]
     },
     {
       "name": "Narrator",
       "text": "She must be wondering if I'm pushing \nmyself too hard, or strung too tight. If \nI'm overworking myself... That's what \nshe's worried about. But—",
       "choice_data_list": [
-        "I can keep going. I'll be fine",
-        "I can keep going. I'm okay."
+        "Hey, Buena.",
+        "Hey, Buena."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "Huh...",
       "choice_data_list": [
-        "Because it's what I've been doing all this \ntime."
+        "I can keep going. I'll be fine.",
+        "I can keep going. Don't worry."
       ]
     },
     {
       "name": "Narrator",
       "text": "Nothing has changed since my days taking \nthe training academy entrance exams. My \nmotivation remains one and the same—and I \nalready know there's no limit to how hard \nI'll push myself for it.",
       "choice_data_list": [
-        "I'd do anything to stay by your side.",
-        "I'd do anything to stay by your side"
+        "Because it's what I've been doing all along."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "！",
       "choice_data_list": [
-        "Will you watch over me for a while?",
-        "Will you watch over me for a while?"
+        "I'd do anything to stay by your side.",
+        "I'd do anything to stay by your side."
       ]
     },
     {
       "name": "Buena Vista",
       "text": "...Yeah. Got it!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Could you watch over them for a bit?",
+        "Could you watch over them for a bit?"
+      ]
     },
     {
       "name": "Buena Vista",
@@ -407,7 +447,9 @@
     {
       "name": "Transcend",
       "text": "Looks like you cleared the event. Not bad~",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I-Is something wrong?"
+      ]
     },
     {
       "name": "Transcend",
@@ -425,7 +467,10 @@
     {
       "name": "Narrator",
       "text": "Thanks to Transcend, I grew a little. In \nmy heart, I put my hands together in \ngratitude toward the departing informant's \nback...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I sure learned a lot, though.",
+        "...We sure learned a lot, though."
+      ]
     }
   ]
 }

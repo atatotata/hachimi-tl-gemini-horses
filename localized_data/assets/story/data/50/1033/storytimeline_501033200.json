@@ -143,7 +143,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I figured the news might ease her nerves,\nbut\nmaybe I had no reason to be\nconcerned. Admire\nVega is present and\nsolemnly prepared."
+      "text": "I figured the news might ease her nerves,\nbut\nmaybe I had no reason to be\nconcerned. Admire\nVega is present and\nsolemnly prepared.",
+      "choice_data_list": [
+        "(Hmm, doesn't look like she has much interest...)",
+        "(Hmm, she doesn't seem very interested...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +155,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It's fine."
+      "text": "It's fine.",
+      "choice_data_list": [
+        "How are your legs feeling? Everything seem alright?",
+        "How are your legs feeling? Everything look okay?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -159,7 +167,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'll let you know if I have any issues. You\ndon't\nhave to keep asking each time."
+      "text": "I'll let you know if I have any issues. You\ndon't\nhave to keep asking each time.",
+      "choice_data_list": [
+        "Hm?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -167,7 +178,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'm saying that I won't give you the\nresponse you\nwant."
+      "text": "I'm saying that I won't give you the\nresponse you\nwant.",
+      "choice_data_list": [
+        "……？"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -175,7 +189,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I unconsciously chuckle. After all of that,\nat the\nvery least, I got an answer to my\nquestion—she's\ndoing fine."
+      "text": "I unconsciously chuckle. After all of that,\nat the\nvery least, I got an answer to my\nquestion—she's\ndoing fine.",
+      "choice_data_list": [
+        "I never thought it was unpleasant at all."
+      ]
     },
     {
       "name": "Monologue",
@@ -183,11 +200,19 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm not asking for her attention or\nconsideration.\nNo matter how she relates\nto me..."
+      "text": "I'm not asking for her attention or\nconsideration.\nNo matter how she relates\nto me...",
+      "choice_data_list": [
+        "You only need to look ahead when you run.",
+        "You can run looking only straight ahead."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Wherever you're headed, that's my path.",
+        "Wherever you go, that is my path."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -199,7 +224,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Good luck out there on your debut race!"
+      ]
     },
     {
       "name": "Admire Vega",

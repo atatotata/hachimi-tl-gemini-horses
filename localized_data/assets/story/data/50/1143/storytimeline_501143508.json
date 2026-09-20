@@ -12,13 +12,15 @@
       "name": "Victoire Pisa",
       "text": "…………。",
       "choice_data_list": [
-        "Pisa, are you listening?"
+        "I have the list of runners ready right here—"
       ]
     },
     {
       "name": "Victoire Pisa",
       "text": "*Zzz*... *zzz*... Nnh, ah, aaah...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Pisa, are you listening?"
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -31,7 +33,10 @@
     {
       "name": "Narrator",
       "text": "Regardless of what she dreamed, she must \nbe tired enough to doze off like that. I \nmight need to re-evaluate her schedule...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...What kind of dream are you having?",
+        "...What kind of dream are you having?"
+      ]
     }
   ]
 }

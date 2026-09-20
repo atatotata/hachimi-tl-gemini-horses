@@ -23,7 +23,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "That... might be nice. I shouldn't stay\ncooped up\nindoors..."
+      "text": "That... might be nice. I shouldn't stay\ncooped up\nindoors...",
+      "choice_data_list": [
+        "Want to go for a walk to clear your head?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -119,7 +122,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "No, it's nothing. Just an illusion... right?\nIt must\nhave been..."
+      "text": "No, it's nothing. Just an illusion... right?\nIt must\nhave been...",
+      "choice_data_list": [
+        "Cafe, is something the matter?",
+        "Cafe, is something wrong?"
+      ]
     },
     {
       "name": "Monologue",
@@ -155,7 +162,12 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Go see the fish? I'm not sure what you\nmean,\nbut..."
+      "text": "...Go see the fish? I'm not sure what you\nmean,\nbut...",
+      "choice_data_list": [
+        "Feel like a fish in water",
+        "Have them enjoy some coffee",
+        "Strolling around town."
+      ]
     },
     {
       "name": "Manhattan Cafe",

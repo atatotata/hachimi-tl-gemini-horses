@@ -95,7 +95,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, Trainer! Come to see me off?"
+      "text": "Oh, Trainer! Come to see me off?",
+      "choice_data_list": [
+        "Ticket!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -111,7 +114,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It's time, Ticket."
+      "text": "It's time, Ticket.",
+      "choice_data_list": [
+        "Yeah, go for it!",
+        "Yeah, go get 'em!"
+      ]
     },
     {
       "name": "Monologue",
@@ -119,7 +126,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "HERE WE GOOO!"
+      "text": "HERE WE GOOO!",
+      "choice_data_list": [
+        "(Show 'em what your race is all about.)",
+        "(Show them what your race is all about.)"
+      ]
     },
     {
       "name": "Monologue",

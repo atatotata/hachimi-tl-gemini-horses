@@ -19,7 +19,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "You say that, but I've already wasted\nover twenty\nminutes waiting around."
+      "text": "You say that, but I've already wasted\nover twenty\nminutes waiting around.",
+      "choice_data_list": [
+        "I think they'll be here soon, but..."
+      ]
     },
     {
       "name": "Monologue",
@@ -59,7 +62,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Oh, am I really that tardy?"
+      "text": "Oh, am I really that tardy?",
+      "choice_data_list": [
+        "Is that why you're late?"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -123,7 +129,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Okay! I'll see you later! ♪"
+      "text": "Okay! I'll see you later! ♪",
+      "choice_data_list": [
+        "Good luck out there."
+      ]
     }
   ]
 }

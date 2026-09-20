@@ -15,7 +15,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "It is understandable that you would be\nconfused.\nAllow me to fill you in on the\nparticulars."
+      "text": "It is understandable that you would be\nconfused.\nAllow me to fill you in on the\nparticulars.",
+      "choice_data_list": [
+        "...What's the situation?"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "My, that's good to hear. Well then, I'll\nattend to\nthe preparations."
+      "text": "My, that's good to hear. Well then, I'll\nattend to\nthe preparations.",
+      "choice_data_list": [
+        "I don't mind."
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +93,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes, I see your point."
+      "text": "Yes, I see your point.",
+      "choice_data_list": [
+        "It's dangerous, you should run.",
+        "You should stay and seize the opportunity."
+      ]
     },
     {
       "name": "Mejiro McQueen",

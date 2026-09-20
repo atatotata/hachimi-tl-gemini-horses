@@ -15,7 +15,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Well... I broke one of Grass's flower\nvases the\nother day..."
+      "text": "Well... I broke one of Grass's flower\nvases the\nother day...",
+      "choice_data_list": [
+        "Why?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -39,7 +42,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Really?! Thank you!"
+      "text": "Really?! Thank you!",
+      "choice_data_list": [
+        "Shall we go buy it together?",
+        "Wanna go buy it together?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -71,11 +78,23 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Do you know what flower would be best\nto give\nGrass in this situation?"
+      "text": "Do you know what flower would be best\nto give\nGrass in this situation?",
+      "choice_data_list": [
+        "How about chamomile?",
+        "How about chamomile?",
+        "How about baby's breath, then?",
+        "How about baby's breath?"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Oh, they make tea out of chamomile,\nright?"
+      "text": "Oh, they make tea out of chamomile,\nright?",
+      "choice_data_list": [
+        "How about chamomile?",
+        "How about chamomile?",
+        "How about baby's breath, then?",
+        "How about baby's breath?"
+      ]
     },
     {
       "name": "Monologue",

@@ -11,13 +11,15 @@
       "name": "Narrator",
       "text": "On our way back to the academy after an \noutside interview, \nPhalaenopsis stopped in front of a \nbookstore.",
       "choice_data_list": [
-        "If there's something you want to buy, I \ncan wait with you."
+        "...? What's wrong?"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "No, there is nothing I wish to buy... \nmerely something I must check. Would you \nmind waiting a moment?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If there's something you want to buy, I'll go with you."
+      ]
     },
     {
       "name": "Narrator",
@@ -40,7 +42,10 @@
     {
       "name": "Narrator",
       "text": "Led by El Condor Pasa and Special Week... \nas well as names like Grass Wonder \nand Seiun Sky mentioned throughout the \npress.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, I see it often.",
+        "Yeah, I see it all the time."
+      ]
     },
     {
       "name": "Narrator",
@@ -88,7 +93,10 @@
     {
       "name": "Narrator",
       "text": "Her words bring back memories of the scene \nat the club we visited just the other day—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What's missing... Is that really what it is?",
+        "What's missing... Is that really what it is?"
+      ]
     },
     {
       "name": "Female Club Staff Member A",
@@ -105,7 +113,9 @@
     {
       "name": "Phalaenopsis",
       "text": "—No. It is not enough.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I don't think there's any need to rush, though."
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -122,7 +132,9 @@
     {
       "name": "Phalaenopsis",
       "text": "...The Japan Cup made me keenly aware. \nThe brilliance they emanate is simply too \ndazzling.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………Can I ask why you think so?"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -139,7 +151,9 @@
     {
       "name": "Narrator",
       "text": "Inspired by her contemporaries' success, \nshe took a stoic measure \nof where she stood, and I couldn't help \nbut admire her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I see..."
+      ]
     },
     {
       "name": "Narrator",
@@ -151,7 +165,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Yes. I place myself in your care.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's work together to figure out how to grab the spotlight."
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -243,7 +259,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Indeed. Becoming a raging inferno like \nBrian, \nI shall confront those on the Classic \nroute.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Will you tell me?"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -270,7 +288,9 @@
     {
       "name": "Phalaenopsis",
       "text": "...I am well aware this is reckless. \nI know how little time remains. And yet—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "…………Huh!? The Arima!?"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -293,13 +313,15 @@
       "name": "Narrator",
       "text": "To model herself after Narita Brian \nand become the 'peerless bloom of this \nera.' \nThere was nothing wrong with that goal, \nbut...",
       "choice_data_list": [
-        "(Her approach to achieving it is far too \nshortsighted.)"
+        "(......Something's off.)"
       ]
     },
     {
       "name": "Narrator",
       "text": "We had once agreed to pursue the Tiara \nroute \nto attract successors to the club. \nJust the two of us, together with her \nTrainer.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(The means to that end are far too short-sighted.)"
+      ]
     },
     {
       "name": "Narrator",
@@ -318,13 +340,16 @@
       "name": "Phalaenopsis",
       "text": "...Not like me? What do you mean by that?",
       "choice_data_list": [
-        "You're scattering your focus."
+        "I don't think that's like you.",
+        "I don't think that's like you."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "My focus...? Me?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Our focus is too scattered."
+      ]
     },
     {
       "name": "Narrator",
@@ -342,13 +367,15 @@
       "name": "Narrator",
       "text": "Run the Tiara. Claim the Arima as well. \nChallenge every G1 that crosses her \nvision. \nThe words she spoke were bold, but—",
       "choice_data_list": [
-        "It sounds like reckless bravado."
+        "Except right now, that's 'dulled'."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sounds like sheer recklessness to me."
+      ]
     },
     {
       "name": "Narrator",
@@ -360,7 +387,9 @@
     {
       "name": "Narrator",
       "text": "Our true purpose was always the prosperity \nof the club... \nWhich was why we chose the Tiara route \nto pave the path for future generations.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's rethink whether we should really aim for Arima."
+      ]
     },
     {
       "name": "Narrator",
@@ -373,7 +402,10 @@
     {
       "name": "Phalaenopsis",
       "text": "That... is true.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because you're an Umamusume who's shone in the Tiara races.",
+        "Because you're an Umamusume who has shone in the Tiara."
+      ]
     },
     {
       "name": "Narrator",
@@ -390,7 +422,9 @@
     {
       "name": "Phalaenopsis",
       "text": "…………\n…………。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So, I don't think there's any need to panic."
+      ]
     },
     {
       "name": "Phalaenopsis",

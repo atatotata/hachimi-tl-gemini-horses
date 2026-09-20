@@ -27,7 +27,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Indeed. Some have expressed their\ndissatisfaction\nseeing Meisho Doto and\nT.M. Opera O pitted\nagainst each other."
+      "text": "Indeed. Some have expressed their\ndissatisfaction\nseeing Meisho Doto and\nT.M. Opera O pitted\nagainst each other.",
+      "choice_data_list": [
+        "An overseas GⅠ race?"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -47,7 +50,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "What do you think of Meisho Doto?"
+      ]
     },
     {
       "name": "Monologue",
@@ -71,7 +77,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I... I..."
+      "text": "I... I...",
+      "choice_data_list": [
+        "Yeah, that's what it means.",
+        "Yeah, that's it."
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -119,11 +129,18 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Are you... really okay with this, Trainer?"
+      "text": "Are you... really okay with this, Trainer?",
+      "choice_data_list": [
+        "...Understood."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Some things are hard to understand just\nby\nlooking from the outside, but I'm\nfully convinced\nafter hearing what she\nsaid."
+      "text": "Some things are hard to understand just\nby\nlooking from the outside, but I'm\nfully convinced\nafter hearing what she\nsaid.",
+      "choice_data_list": [
+        "You're absolutely right.",
+        "You're totally right."
+      ]
     },
     {
       "name": "Monologue",

@@ -19,7 +19,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Prez is out, but I know all the details. I'll\ntake that\noff your hands!"
+      "text": "Prez is out, but I know all the details. I'll\ntake that\noff your hands!",
+      "choice_data_list": [
+        "Yeah. I was asked to deliver this to the president.",
+        "Yeah. I was told to deliver this to the president."
+      ]
     },
     {
       "name": "Special Week",
@@ -35,7 +39,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Uh, it's just... Am I really a good choice\nfor a\nvocalist?"
+      "text": "Uh, it's just... Am I really a good choice\nfor a\nvocalist?",
+      "choice_data_list": [
+        "Did something happen?",
+        "Is something wrong?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -91,7 +99,11 @@
     },
     {
       "name": "Special Week",
-      "text": "A get-together it is! We can munch on\nsome\nsnacks while we chat!"
+      "text": "A get-together it is! We can munch on\nsome\nsnacks while we chat!",
+      "choice_data_list": [
+        "A bonding party!!",
+        "Moving your body will serve as practice too."
+      ]
     },
     {
       "name": "Tokai Teio",

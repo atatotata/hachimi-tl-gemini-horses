@@ -70,7 +70,10 @@
     },
     {
       "name": "Daring Heart",
-      "text": "Who knows? I'm sure that's part of it, of \ncourse, but..."
+      "text": "Who knows? I'm sure that's part of it, of \ncourse, but...",
+      "choice_data_list": [
+        "Then is that just part of your natural personality?"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -110,7 +113,11 @@
     },
     {
       "name": "Daring Heart",
-      "text": "When I was really little, I raced my mom \nand lost. It was only natural, of \ncourse... but I still wanted to win so \nbadly."
+      "text": "When I was really little, I raced my mom \nand lost. It was only natural, of \ncourse... but I still wanted to win so \nbadly.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -133,7 +140,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Her mother clearly knew exactly how to \nkeep one's spirits lifted. So much so that \nthere was never any time to hang one's \nhead in sorrow."
+      "text": "Her mother clearly knew exactly how to \nkeep one's spirits lifted. So much so that \nthere was never any time to hang one's \nhead in sorrow.",
+      "choice_data_list": [
+        "...I see."
+      ]
     },
     {
       "name": "Narrator",
@@ -148,7 +158,10 @@
     },
     {
       "name": "Daring Heart",
-      "text": "You're very welcome!"
+      "text": "You're very welcome!",
+      "choice_data_list": [
+        "Thank you for telling me."
+      ]
     },
     {
       "name": "Daring Heart",
@@ -168,7 +181,11 @@
     },
     {
       "name": "Daring Heart",
-      "text": "Fufu! I get told that a lot!"
+      "text": "Fufu! I get told that a lot!",
+      "choice_data_list": [
+        "...You're good at giving compliments too.",
+        "...You're quite the flatterer yourself."
+      ]
     }
   ]
 }

@@ -38,7 +38,10 @@
     },
     {
       "name": "Host",
-      "text": "Next up to the challenge is Team Kris S & \nGimlet!! Can they catch up to Taishin & \nHayahide~~?!"
+      "text": "Next up to the challenge is Team Kris S & \nGimlet!! Can they catch up to Taishin & \nHayahide~~?!",
+      "choice_data_list": [
+        "(When you say the next team...)"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -126,7 +129,11 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "——...There was——no fear."
+      "text": "——...There was——no fear.",
+      "choice_data_list": [
+        "If it were me, I might not be able to fire—I'd be afraid of hitting an ally.",
+        "If it were me, I'd probably be too scared of hitting an ally to shoot."
+      ]
     },
     {
       "name": "Symboli Kris S",
@@ -146,15 +153,21 @@
       "name": "Symboli Kris S",
       "text": "That is... simply all.",
       "choice_data_list": [
-        "Heh... As expected of rivals!",
-        "Heh... As expected of rivals!",
-        "Is there a trick to understanding him?",
-        "Is there a trick to understanding him?"
+        "Oh... That's a true rival for you!",
+        "Oh... That's a true rival for you!",
+        "Is there a trick to understanding it?",
+        "Is there a secret to understanding it?"
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Kuh-kuh-kuh! You predict my movements, my \nworthy rival?"
+      "text": "Kuh-kuh-kuh! You predict my movements, my \nworthy rival?",
+      "choice_data_list": [
+        "Oh... That's a true rival for you!",
+        "Oh... That's a true rival for you!",
+        "Is there a trick to understanding it?",
+        "Is there a secret to understanding it?"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -177,7 +190,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...No, that's way too hard."
+      "text": "...No, that's way too hard.",
+      "choice_data_list": [
+        "Don't think, feel... is that it?"
+      ]
     }
   ]
 }

@@ -58,7 +58,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Yeah, exactly! If we're aiming, we aim for \nnumber one. Playing normally won't turn \nthis around anyway."
+      "text": "Yeah, exactly! If we're aiming, we aim for \nnumber one. Playing normally won't turn \nthis around anyway.",
+      "choice_data_list": [
+        "Yeah, let's go with that!"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -89,7 +92,10 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hmm? Trainer-san, are you nervous? Your \nface looks so scary!"
+      "text": "Hmm? Trainer-san, are you nervous? Your \nface looks so scary!",
+      "choice_data_list": [
+        "(This is the critical moment, but...)"
+      ]
     },
     {
       "name": "Vivlos",
@@ -134,12 +140,17 @@
       "choice_data_list": [
         "You really are amazing!",
         "You really are amazing!",
-        "That was so cool!!"
+        "You were so cool!!"
       ]
     },
     {
       "name": "Vivlos",
-      "text": "Right, right♪ Praise me more! Spoil me \nrotten, okay??"
+      "text": "Right, right♪ Praise me more! Spoil me \nrotten, okay??",
+      "choice_data_list": [
+        "You really are amazing!",
+        "You really are amazing!",
+        "You were so cool!!"
+      ]
     },
     {
       "name": "Vivlos",

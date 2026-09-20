@@ -11,7 +11,10 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "No! I'm out visit'n trendy spots Grass 'n\nthe others\ntold me 'bout!"
+      "text": "No! I'm out visit'n trendy spots Grass 'n\nthe others\ntold me 'bout!",
+      "choice_data_list": [
+        "Shopping?"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -23,11 +26,21 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I brought a map, but I've been walk'n\n'round in\ncircles for a while now..."
+      "text": "I brought a map, but I've been walk'n\n'round in\ncircles for a while now...",
+      "choice_data_list": [
+        "According to this map, our current location and destination are...",
+        "You should use a navigation app.",
+        "You should try using a navigation app."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I look at Yukino Bijin's map and point\nout the\npath she should take to her\ndestination."
+      "text": "I look at Yukino Bijin's map and point\nout the\npath she should take to her\ndestination.",
+      "choice_data_list": [
+        "According to this map, our current location and destination are...",
+        "You should use a navigation app.",
+        "You should try using a navigation app."
+      ]
     },
     {
       "name": "Yukino Bijin",

@@ -59,7 +59,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Heh... Yeah, I let first place slip through\nmy\nfingers..."
+      "text": "Heh... Yeah, I let first place slip through\nmy\nfingers...",
+      "choice_data_list": [
+        "That was too bad.",
+        "That was too bad, wasn't it."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -71,7 +75,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! After all, winning makes me\nhappier than\nlosing!"
+      "text": "Yeah! After all, winning makes me\nhappier than\nlosing!",
+      "choice_data_list": [
+        "Let's win next time!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -103,7 +110,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "The Osaka Hai? Sure, I'm in!"
+      "text": "The Osaka Hai? Sure, I'm in!",
+      "choice_data_list": [
+        "How about the Osaka Hai?"
+      ]
     },
     {
       "name": "Winning Ticket",

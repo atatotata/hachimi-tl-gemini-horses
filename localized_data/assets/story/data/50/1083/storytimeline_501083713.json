@@ -23,21 +23,24 @@
       "name": "Symboli Kris S",
       "text": "\"...Then—light training. I want to \nminimize—any disruptions to the schedule.\"",
       "choice_data_list": [
-        "Please rest up until you're completely \nhealed.",
-        "As long as it's within reason..."
+        "What are you going to do if your injury gets worse?",
+        "What will you do if your injury gets worse?"
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "But if we do that, the plan will—",
       "choice_data_list": [
-        "I'll make sure we make up for lost time."
+        "Please take it easy until you're healed.",
+        "As long as it's within reason..."
       ]
     },
     {
       "name": "Narrator",
       "text": "Persuade her that readjusting the training \nmenu will allow her to catch up once she's \nfully healed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll make sure we recover the lost time."
+      ]
     },
     {
       "name": "Symboli Kris S",

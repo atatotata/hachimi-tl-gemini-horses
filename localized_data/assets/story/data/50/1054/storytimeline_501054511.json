@@ -7,7 +7,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "(Beep-beep, beep-beep-beep... Standby)",
       "choice_data_list": []
     },
@@ -27,13 +27,15 @@
       "name": "Biko Pegasus",
       "text": "Ah, Trainer! I'm just about to help out \nwith Tachyon-senpai's experiment! As \nthanks for appearing in my hero show!",
       "choice_data_list": [
-        "！？"
+        "What on earth...!"
       ]
     },
     {
       "name": "Narrator",
       "text": "Agnes Tachyon is infamous for her \nsuspicious experiments. ...I should \nprobably keep a close eye on her.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -56,13 +58,15 @@
       "name": "Agnes Tachyon",
       "text": "Hahaha! That's true. Though I haven't even \ntouched the controls yet.",
       "choice_data_list": [
-        "? W-Wait, that..."
+        "The robot's starting to run, though..."
       ]
     },
     {
       "name": "Agnes Tachyon",
       "text": "Yeah, they're completely out of control!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "? D-Does that mean..."
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -74,7 +78,9 @@
     {
       "name": "Biko Pegasus",
       "text": "Haaaaaahhhhhh--!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait! Getting close is dangero—"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -91,7 +97,9 @@
     {
       "name": "Agnes Tachyon",
       "text": "What a magnificent person you are!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Exactly, are you injured anywhere...?!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -108,7 +116,9 @@
     {
       "name": "Agnes Tachyon",
       "text": "Hm, oh, right! If it puts too much strain \non your body, we can't call it a success!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "W-Wait, shouldn't you worry about your body first...!?"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -130,7 +140,9 @@
     {
       "name": "Narrator",
       "text": "It's a parade of dangerous research, as \nexpected. Going along with this any \nfurther might be...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, a suspicious drink?! STOOOOP!!"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -201,16 +213,21 @@
       "name": "Biko Pegasus",
       "text": "Of course! I believe in your passion!",
       "choice_data_list": [
-        "If that's what you want to do... then I'll \nlend you a hand too!",
-        "If that's what you intend to do... then \nI'll lend you my strength!",
-        "...I'll buckle down and reshape my mindset \ntoo.",
-        "...I'll get my act together too."
+        "If that's what you're set on... then count me in!",
+        "If you're up for it... I'll lend a hand too!",
+        "...I'll get my head back in the game too.",
+        "...I'll buckle down too."
       ]
     },
     {
       "name": "Biko Pegasus",
       "text": "!! Thank you! Having you help out is so \nreassuring, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If that's what you're set on... then count me in!",
+        "If you're up for it... I'll lend a hand too!",
+        "...I'll get my head back in the game too.",
+        "...I'll buckle down too."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -248,7 +265,10 @@
     {
       "name": "Agnes Tachyon",
       "text": "...I, too, am a scientist of sorts. Next \ntime, I shall ensure it is perfected.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(You're the one to say that...?)",
+        "(You're the one to talk...)"
+      ]
     },
     {
       "name": "Biko Pegasus",

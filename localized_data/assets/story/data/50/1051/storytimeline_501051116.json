@@ -79,7 +79,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "N-no... Let's keep going!"
+      "text": "N-no... Let's keep going!",
+      "choice_data_list": [
+        "Is something wrong?",
+        "Is something wrong?"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +95,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "...Are you okay?"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -99,7 +106,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Not at all! I feel perfectly fine!"
+      "text": "Not at all! I feel perfectly fine!",
+      "choice_data_list": [
+        "Does anything feel off with your body?"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -107,11 +117,17 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "What?! N-no, I'm fine! I can keep\ntraining."
+      "text": "What?! N-no, I'm fine! I can keep\ntraining.",
+      "choice_data_list": [
+        "Then let's call it a day after this."
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Don't push yourself too hard!"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -119,7 +135,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "No, I..."
+      "text": "No, I...",
+      "choice_data_list": [
+        "You don't have to apologize."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -131,7 +150,10 @@
     },
     {
       "name": "Infirmary Doctor",
-      "text": "Trainer, her body is already in a state of\nflux."
+      "text": "Trainer, her body is already in a state of\nflux.",
+      "choice_data_list": [
+        "(And besides, maybe...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -175,11 +197,18 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "No, I'm fine!"
+      "text": "No, I'm fine!",
+      "choice_data_list": [
+        "Isn't your body still feeling worn out?",
+        "Aren't you still feeling worn out?"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Oh, s-sorry... I, uh..."
+      "text": "Oh, s-sorry... I, uh...",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -187,7 +216,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "<i>Pant, pant, pant...</i> Huh?"
+      "text": "<i>Pant, pant, pant...</i> Huh?",
+      "choice_data_list": [
+        "Flower!"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -211,7 +243,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Flower..."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -227,7 +262,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Waaah! I'm doomed!"
+      "text": "Waaah! I'm doomed!",
+      "choice_data_list": [
+        "Calm down, Flower."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -247,7 +285,10 @@
     },
     {
       "name": "Monologue",
-      "text": "After hearing what she said, I'm\nconvinced. Right\nnow, she's standing at\nthe crossroads of change."
+      "text": "After hearing what she said, I'm\nconvinced. Right\nnow, she's standing at\nthe crossroads of change.",
+      "choice_data_list": [
+        "It's okay, you're okay."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -255,7 +296,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "<i>Sniffle...</i> Okay..."
+      "text": "<i>Sniffle...</i> Okay...",
+      "choice_data_list": [
+        "Let's go have the doctor take a look together."
+      ]
     },
     {
       "name": "Infirmary Doctor",
@@ -295,7 +339,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Congratulations, Flower!"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -307,15 +354,26 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yes, but still..."
+      "text": "Yes, but still...",
+      "choice_data_list": [
+        "You didn't want to make us worry, did you?",
+        "You didn't want to make us worry, right?"
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Don't worry."
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Trainer! Thank you!"
+      "text": "Trainer! Thank you!",
+      "choice_data_list": [
+        "I'll never let you fall apart, I promise.",
+        "I'll never let you ruin yourself, I promise."
+      ]
     },
     {
       "name": "Infirmary Doctor",

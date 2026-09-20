@@ -27,13 +27,15 @@
       "name": "Passionate Teacher",
       "text": "\"If you gathered this without her \nknowing... You must be troubled about \nsomething, right?\"",
       "choice_data_list": [
-        "\"Yes. The thing is...\""
+        "(Everyone...)"
       ]
     },
     {
       "name": "Narrator",
       "text": "She's eager to livestream even while \ntraveling. But I want her to get some rest \non this trip. I told her I was troubled \nabout what to do.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "'Yes. You see...'"
+      ]
     },
     {
       "name": "Community Members",
@@ -46,13 +48,15 @@
       "name": "Hardworker@Overseas Assignment",
       "text": "\"Make this trip so fun she completely \nforgets about streaming!!\"",
       "choice_data_list": [
-        "『！？』"
+        "『……？』"
       ]
     },
     {
       "name": "Community Members",
       "text": "\"Leave the backup to me!\" \"Share your \ntravel destination with me. I'll look into \nit beforehand.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "『！？』"
+      ]
     },
     {
       "name": "Community Members",
@@ -70,21 +74,23 @@
       "name": "Loves Only You",
       "text": "...Trainer-chan? Trainer-chan? Hey, are \nyou listening~~??",
       "choice_data_list": [
-        "Yeah, sorry. I was just really looking \nforward to the hot springs..."
+        "Ah, sorry. I was just really looking forward to the hot springs..."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Ehehe♪ That's right! Me too♡ Let's fully \nenjoy this hot springs trip together♪",
       "choice_data_list": [
-        "(Ah, I'll make sure you enjoy it to the \nfullest... I promise!)",
-        "(Yeah, I'll make sure they have a blast... \nwithout fail!)"
+        "Ah, sorry. I was just really looking forward to the hot springs..."
       ]
     },
     {
       "name": "Narrator",
       "text": "Afterward, we teamed up with the community \nmembers and thoroughly prepared for the \nhot spring trip. And finally, the day of \nthe trip arrived—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Yeah, I'll make sure she enjoys every bit of it... Absolutely!)",
+        "(Yeah, I'll make sure she enjoys every bit of it... absolutely!)"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -101,7 +107,9 @@
     {
       "name": "Loves Only You",
       "text": "Yeah, great idea♪ I actually researched a \nplace beforehand~! Though it's a super \nfamous shop, so—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "First, how about some hot spring manju?"
+      ]
     },
     {
       "name": "Narrator",
@@ -118,7 +126,9 @@
     {
       "name": "Passionate Teacher",
       "text": "\"That place is famous and draws huge \nlines. However, it opens at 10:00. The \ntour buses arrive around 11:00. Which \nmeans—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Just like everyone told me...!)"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -166,27 +176,29 @@
       "name": "Loves Only You",
       "text": "Trainer-kun! They have a ping-pong table! \nWhat do you think? Wanna play a match?",
       "choice_data_list": [
-        "More importantly, there's an arcade on the \nfirst floor!"
+        "'Leave it to me!'"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Trainer-chan! Look, a ping-pong table! \nWhat do you say? Care for a match?",
       "choice_data_list": [
-        "More importantly, there's an arcade on the \nfirst floor!"
+        "More importantly, there's an arcade on the first floor, you know?"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "The arcade? ...Ah, could it be?!",
       "choice_data_list": [
-        "How about a fighting game instead of table \ntennis?"
+        "More importantly, there's an arcade on the first floor, you know?"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "I'm in! Hehehe~♪ I won't pull any punches, \nokay~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "How about a fighting game instead of ping-pong?"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -200,14 +212,17 @@
       "name": "Loves Only You",
       "text": "Haaah, I'm exhausted~. Trainer-chan, you \nreally hate losing way too much~.",
       "choice_data_list": [
-        "Because I'm your trainer, after all.",
+        "Because I'm your Trainer, you know.",
         "Because I'm your Trainer, after all."
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Ahaha, that might be true♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because I'm your Trainer, you know.",
+        "Because I'm your Trainer, after all."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -250,14 +265,16 @@
       "name": "Loves Only You",
       "text": "All the commu-members... did this for me?",
       "choice_data_list": [
-        "I've been planning all sorts of things for \ntoday, you know.",
-        "I've been planning all sorts of things for \ntoday."
+        "Calm down. There's nothing to worry about. Actually—"
       ]
     },
     {
       "name": "Loves Only You",
       "text": "Aaaah――――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I had all sorts of things planned for today, you know.",
+        "I had all sorts of things planned for today."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -274,7 +291,9 @@
     {
       "name": "Loves Only You",
       "text": "Mmh...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sorry, sorry!"
+      ]
     },
     {
       "name": "Loves Only You",

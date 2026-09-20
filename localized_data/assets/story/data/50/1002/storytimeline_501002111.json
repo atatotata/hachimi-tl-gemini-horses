@@ -275,7 +275,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She's off in her own world, so I try to get\nher\nattention."
+      "text": "She's off in her own world, so I try to get\nher\nattention.",
+      "choice_data_list": [
+        "Suzuka?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -283,7 +286,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "No, it's nothing. I just... felt like looking\nout at\nthe grounds."
+      "text": "No, it's nothing. I just... felt like looking\nout at\nthe grounds.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -291,7 +298,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hehe, yeah. I'm really happy about it. It\nfeels like\nthe beginning of something\nnew."
+      "text": "Hehe, yeah. I'm really happy about it. It\nfeels like\nthe beginning of something\nnew.",
+      "choice_data_list": [
+        "Really?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -319,11 +329,17 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "But as long as you're with me, I know I'll\nbe okay."
+      "text": "But as long as you're with me, I know I'll\nbe okay.",
+      "choice_data_list": [
+        "(Still—if it's her, I'm sure she can.)"
+      ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Just like I've been all this time."
+      "text": "Just like I've been all this time.",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Monologue",

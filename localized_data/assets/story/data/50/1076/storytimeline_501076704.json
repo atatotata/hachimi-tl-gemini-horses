@@ -38,14 +38,17 @@
       "name": "Sakura Laurel",
       "text": "! Are you sure it's okay...?",
       "choice_data_list": [
-        "I wanna see what's at the top, huh?",
-        "I want to see what's at the top, don't \nyou?"
+        "Now that you've grown, you can take on the challenge.",
+        "Now that you've grown, you can take on the challenge, right?"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "Yes! When I was little, my teacher told me \nit was dangerous and stopped me, so...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I want to see what's at the top, huh?",
+        "I want to see what's at the top, right?"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -78,7 +81,10 @@
     {
       "name": "Sakura Chiyono O",
       "text": "Gulp, gulp... Phaaah! \"Water tastes best \nwhen you're pushing full steam ahead!\" \nRight?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, but be cautious.",
+        "Yeah, but be careful."
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -90,7 +96,9 @@
     {
       "name": "Narrator",
       "text": "“—And after that, Sakura Laurel and the \nothers continued climbing the mountain \ntoward the summit.”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Leave the pace management to me."
+      ]
     },
     {
       "name": "Narrator",
@@ -142,7 +150,9 @@
     {
       "name": "The Three",
       "text": "……！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It'll be a bit of a walk, but should we look for a shortcut?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -160,7 +170,10 @@
     {
       "name": "Sakura Laurel",
       "text": "! ...Fufu, ahaha!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Laurel hasn't given up. So I'm not giving up either.",
+        "Laurel hasn't given up. So I'm not giving up either."
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -186,16 +199,21 @@
       "name": "Sakura Laurel",
       "text": "Together with me— please aim for the \nsummit!",
       "choice_data_list": [
-        "Not just the summit— let's go beyond, as \nfar as we can!",
-        "Let's find the shortest route.",
-        "We'll head back together.",
-        "We'll head back together."
+        "Not just the summit, but anywhere!",
+        "Let's look for the shortest route.",
+        "We're going home together.",
+        "We're going home together, okay?"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "I was waiting for that answer♪ Let's move \nforward together, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Not just the summit, but anywhere!",
+        "Let's look for the shortest route.",
+        "We're going home together.",
+        "We're going home together, okay?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

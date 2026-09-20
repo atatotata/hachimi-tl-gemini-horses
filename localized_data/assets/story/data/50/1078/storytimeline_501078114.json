@@ -87,7 +87,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes. I think I'll be able to run now. Let's\nget back\nto our training."
+      "text": "Yes. I think I'll be able to run now. Let's\nget back\nto our training.",
+      "choice_data_list": [
+        "Um... looks like the rain stopped?",
+        "Um... looks like the rain stopped?"
+      ]
     },
     {
       "name": "TV",
@@ -95,7 +99,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Why... would I?"
+      "text": "Why... would I?",
+      "choice_data_list": [
+        "...Are you sure you don't want to watch the rest?",
+        "...Are you sure you don't want to watch the rest?"
+      ]
     },
     {
       "name": "Monologue",
@@ -135,7 +143,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I try calling out to her several times, but\nreceive\nno response whatsoever."
+      "text": "I try calling out to her several times, but\nreceive\nno response whatsoever.",
+      "choice_data_list": [
+        "(She's practically glued to the TV...)"
+      ]
     },
     {
       "name": "Monologue",

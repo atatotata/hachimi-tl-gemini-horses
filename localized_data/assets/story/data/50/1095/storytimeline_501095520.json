@@ -176,7 +176,9 @@
     {
       "name": "Believe",
       "text": "...No. Today... I took a bit too long of a \nbreak, so I was thinking of pushing myself \nhard now.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Good work! How's training coming along?"
+      ]
     },
     {
       "name": "Narrator",
@@ -191,15 +193,19 @@
       "name": "Narrator",
       "text": "\"According to her... today's self-training \nprogressed quite leisurely, with elderly \nladies treating her to home-cooked meals \nand treats along the way.\"",
       "choice_data_list": [
-        "Was that a good break?",
-        "I would've loved to try that tsukudani \ntoo.",
-        "I wanted to try some too, the tsukudani"
+        "Was that a nice break?",
+        "I would've liked to try that tsukudani too.",
+        "I wanted to try that tsukudani too."
       ]
     },
     {
       "name": "Believe",
       "text": "Yes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Was that a nice break?",
+        "I would've liked to try that tsukudani too.",
+        "I wanted to try that tsukudani too."
+      ]
     },
     {
       "name": "Believe",
@@ -227,7 +233,10 @@
     {
       "name": "Believe",
       "text": "If you want to thank someone, not me... \nthank everyone who gave them to us.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, are you sure? Thanks!",
+        "Wait, really? Thank you!"
+      ]
     },
     {
       "name": "Believe",

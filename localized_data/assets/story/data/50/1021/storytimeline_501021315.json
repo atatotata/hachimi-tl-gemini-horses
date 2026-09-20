@@ -55,7 +55,11 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Hehe, I know, right? White Lightning\nsure lit up\nthat big ol' stage. And I\ncouldn't have done it\nwithout you!"
+      "text": "Hehe, I know, right? White Lightning\nsure lit up\nthat big ol' stage. And I\ncouldn't have done it\nwithout you!",
+      "choice_data_list": [
+        "Yeah, you were magnificent.",
+        "Yeah, that was splendid."
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -103,7 +107,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She stares ahead. Shocked to the core,\nTamamo\nCross is frozen in place."
+      "text": "She stares ahead. Shocked to the core,\nTamamo\nCross is frozen in place.",
+      "choice_data_list": [
+        "Tamamo...!?"
+      ]
     }
   ]
 }

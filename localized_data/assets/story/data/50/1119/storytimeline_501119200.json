@@ -18,13 +18,16 @@
       "name": "Narrator",
       "text": "\"...Dream Journey showed no signs of \nnervousness. Calm as ever, with not a \ntrace of anxiety on the surface—\"",
       "choice_data_list": [
-        "(I don't know what to say...!)"
+        "Ah...!",
+        "Yeah...!"
       ]
     },
     {
       "name": "Narrator",
       "text": "I want to say something as her Trainer to \nhelp her perform better, yet I can't find \nthe words...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I can't think of anything to say...!)"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -52,13 +55,15 @@
       "name": "Narrator",
       "text": "How pathetic. I was the one who was \nrushing things, getting unnecessarily \nnervous...",
       "choice_data_list": [
-        "……I'm praying you can give it your all."
+        "Journey...—"
       ]
     },
     {
       "name": "Dream Journey",
       "text": "Thank you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'll be praying you can give it your best."
+      ]
     },
     {
       "name": "Dream Journey",

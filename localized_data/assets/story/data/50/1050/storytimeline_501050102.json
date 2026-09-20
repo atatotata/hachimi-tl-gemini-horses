@@ -15,7 +15,11 @@
     },
     {
       "name": "Monologue",
-      "text": "She hates crowds, so I wasn't expecting\nto bump\ninto her at a shrine crowded\nwith people making\ntheir first visit of the\nyear."
+      "text": "She hates crowds, so I wasn't expecting\nto bump\ninto her at a shrine crowded\nwith people making\ntheir first visit of the\nyear.",
+      "choice_data_list": [
+        "Taishin!? You came!?",
+        "Taishin!? You were here!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -71,7 +75,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Like..."
+      "text": "Like...",
+      "choice_data_list": [
+        "I'll treat you to something tasty.",
+        "Might as well go for a run, then.",
+        "Let's hit the arcade!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -79,7 +88,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It's just, this was the only place that\ndidn't have a\nline out the door!"
+      "text": "It's just, this was the only place that\ndidn't have a\nline out the door!",
+      "choice_data_list": [
+        "It's not like that...!"
+      ]
     },
     {
       "name": "Bear-eared Maid",

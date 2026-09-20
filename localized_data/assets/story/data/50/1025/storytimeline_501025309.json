@@ -31,7 +31,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I didn't get that close. But..."
+      "text": "I didn't get that close. But...",
+      "choice_data_list": [
+        "Congratulations! Were you able to see their faces?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -115,11 +118,18 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hm, and what's behind that decision?"
+      "text": "Hm, and what's behind that decision?",
+      "choice_data_list": [
+        "No, let's aim for the Arima Kinen a bit further down the road.",
+        "No, let's aim for the Arima Kinen a bit further down the line."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "Because I want you to rest, even if just a little."
+      ]
     },
     {
       "name": "Monologue",
@@ -155,7 +165,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "The two seniors currently ranked\nhighest. They're\nsnapping up first and\nsecond position in every\nrace."
+      "text": "The two seniors currently ranked\nhighest. They're\nsnapping up first and\nsecond position in every\nrace.",
+      "choice_data_list": [
+        "Those two?"
+      ]
     },
     {
       "name": "Manhattan Cafe",

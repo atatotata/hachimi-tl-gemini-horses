@@ -11,7 +11,9 @@
     {
       "name": "No Reason",
       "text": "Ho, it was a letter from a fan! Let me \nread it at once!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "There's a letter inside for No Reason."
+      ]
     },
     {
       "name": "No Reason",
@@ -44,13 +46,15 @@
       "name": "No Reason",
       "text": "Is that so? I assumed everyone engaged in \nthis to some extent.",
       "choice_data_list": [
-        "You can't read that normally!"
+        "I can't read cursive hentaigana like that!"
       ]
     },
     {
       "name": "No Reason",
       "text": "I see... Then it cannot be helped. I shall \nwrite using the kind of characters \neveryone else uses.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Nobody would normally be able to read that!"
+      ]
     },
     {
       "name": "Narrator",
@@ -73,7 +77,10 @@
     {
       "name": "No Reason",
       "text": "I wonder if those who support me will be \ndelighted by this letter...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No Reason, what's the matter?",
+        "No Reason, what's the matter?"
+      ]
     },
     {
       "name": "No Reason",
@@ -86,21 +93,23 @@
       "name": "No Reason",
       "text": "Right...? Was it truly wise of me to pen a \nmissive using unfamiliar script...?",
       "choice_data_list": [
-        "Let's write it however No Reason wants to!"
+        "True, that might be so..."
       ]
     },
     {
       "name": "No Reason",
       "text": "Wouldn't that make it impossible to read—",
       "choice_data_list": [
-        "It's fine! I'll add the translation!",
-        "It's fine! I'll add the translation!"
+        "Just write it however you want to, No Reason!"
       ]
     },
     {
       "name": "No Reason",
       "text": "I see, a brilliant idea! Let's go with \nthat!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Don't worry! I'll translate for you!",
+        "Don't worry! I'll translate for you!"
+      ]
     },
     {
       "name": "No Reason",
@@ -114,13 +123,16 @@
       "name": "No Reason",
       "text": "\"You can't even read this?! What a \nhopeless fellow!\"",
       "choice_data_list": [
-        "I'm telling you, nobody would normally be \nable to read that!"
+        "Hey, what does this say?",
+        "Hey, what does this say?"
       ]
     },
     {
       "name": "Narrator",
       "text": "Afterward, having finished writing her \nreply, No Reason threw herself into her \ntraining with even greater zeal than \nusual.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Like I said, normal people can't read that!"
+      ]
     }
   ]
 }

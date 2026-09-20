@@ -47,7 +47,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "That's perfect! Come, don't be shy. Just\nchug it\ndown with a big gulp!"
+      "text": "That's perfect! Come, don't be shy. Just\nchug it\ndown with a big gulp!",
+      "choice_data_list": [
+        "True, maybe I've been feeling tired lately..."
+      ]
     },
     {
       "name": "Monologue",
@@ -55,11 +58,19 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh my, awake already? Hehe, and you\nlook\nthoroughly refreshed."
+      "text": "Oh my, awake already? Hehe, and you\nlook\nthoroughly refreshed.",
+      "choice_data_list": [
+        "Way to go, <chrname>!",
+        "You're amazing, <chrname>!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "How very interesting! You see, I\ndesigned this\ndrink so that it converts\nelements of the subject's\ndeep\nsubconscious into a dream."
+      "text": "How very interesting! You see, I\ndesigned this\ndrink so that it converts\nelements of the subject's\ndeep\nsubconscious into a dream.",
+      "choice_data_list": [
+        "I had such a wonderful dream...",
+        "I had such a wonderful dream..."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -67,7 +78,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hehe, is that your guilty conscience\nspeaking?\nWell, no matter. The nature\nof your desires is\ninconsequential to this\nexperiment."
+      "text": "Hehe, is that your guilty conscience\nspeaking?\nWell, no matter. The nature\nof your desires is\ninconsequential to this\nexperiment.",
+      "choice_data_list": [
+        "D-Did I say anything weird in my sleep...?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -103,7 +117,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Well, that's the problem. Nothing I saw\nin my\ndream truly resonated with me, so\nI was led to\nbelieve that my concoction\nwas a failure."
+      "text": "Well, that's the problem. Nothing I saw\nin my\ndream truly resonated with me, so\nI was led to\nbelieve that my concoction\nwas a failure.",
+      "choice_data_list": [
+        "How was it for you, personally?",
+        "How was it for you?"
+      ]
     },
     {
       "name": "Agnes Tachyon",

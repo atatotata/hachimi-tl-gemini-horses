@@ -47,14 +47,16 @@
       "name": "Daiichi Ruby",
       "text": "What is it?",
       "choice_data_list": [
-        "I'll help out the butler too.",
-        "I'll help the butler too!"
+        "……"
       ]
     },
     {
       "name": "",
       "text": "While they're probably used to choosing \nvenues and managing the schedule, my \nknowledge as a Trainer should be useful \nfor deciding which reporters to invite.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll help the butler, too.",
+        "I'll help the butler too."
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -67,7 +69,10 @@
     {
       "name": "Daiichi Ruby",
       "text": "All of the above is for down the road. \nI'll explain the details later.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...! Yeah!",
+        "...! Yeah!"
+      ]
     },
     {
       "name": "Daiichi Ruby",

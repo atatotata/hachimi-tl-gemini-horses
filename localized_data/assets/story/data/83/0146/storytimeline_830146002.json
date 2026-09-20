@@ -31,7 +31,10 @@
     },
     {
       "name": "Monologue",
-      "text": "They explain the situation and I learn\nthat they're\ntrying to stop the lady from\nclimbing the\nmountain."
+      "text": "They explain the situation and I learn\nthat they're\ntrying to stop the lady from\nclimbing the\nmountain.",
+      "choice_data_list": [
+        "Is something the matter?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -79,7 +82,10 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Are you perhaps referring to the divine\nmessenger\nfrom the legend that's passed\ndown at this very\nshrine?"
+      "text": "Are you perhaps referring to the divine\nmessenger\nfrom the legend that's passed\ndown at this very\nshrine?",
+      "choice_data_list": [
+        "Are you on an 'errand'?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -123,7 +129,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "A divine message? For me?"
+      "text": "A divine message? For me?",
+      "choice_data_list": [
+        "Was it a divine message?",
+        "You helped someone out, so you should be proud of yourself."
+      ]
     },
     {
       "name": "Monologue",

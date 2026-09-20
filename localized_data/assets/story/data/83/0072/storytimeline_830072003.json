@@ -19,7 +19,10 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Huh? We are?"
+      "text": "Huh? We are?",
+      "choice_data_list": [
+        "Here is our destination."
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -39,7 +42,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hehe, welcome to your surprise party,\nMayano."
+      "text": "Hehe, welcome to your surprise party,\nMayano.",
+      "choice_data_list": [
+        "Phew, it was a success!",
+        "Great, it was a success!"
+      ]
     },
     {
       "name": "Biwa Hayahide",

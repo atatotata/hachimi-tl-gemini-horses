@@ -47,7 +47,10 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hey, Trainer! Helios said she found a\nlost dog!"
+      "text": "Hey, Trainer! Helios said she found a\nlost dog!",
+      "choice_data_list": [
+        "!? What's the situation here?"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -95,7 +98,11 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Anyone would want to help out if they\nfound a\ndog in distress!"
+      "text": "Anyone would want to help out if they\nfound a\ndog in distress!",
+      "choice_data_list": [
+        "You two were totally in sync.",
+        "You two were totally in sync."
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -103,7 +110,10 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Actually, Helios and I run together all\nthe time!"
+      "text": "Actually, Helios and I run together all\nthe time!",
+      "choice_data_list": [
+        "What's 'that'?"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -115,11 +125,21 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes! We don't plan it or anything, but\nwe're\nalways at the same place at the\nsame time. It's\nalmost like destiny is\nbringing us together!"
+      "text": "Yes! We don't plan it or anything, but\nwe're\nalways at the same place at the\nsame time. It's\nalmost like destiny is\nbringing us together!",
+      "choice_data_list": [
+        "Let's keep getting along from now on.",
+        "Let's stay good friends from now on, okay?",
+        "Could we both have psychic powers...?"
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "Of course!"
+      "text": "Of course!",
+      "choice_data_list": [
+        "Let's keep getting along from now on.",
+        "Let's stay good friends from now on, okay?",
+        "Could we both have psychic powers...?"
+      ]
     },
     {
       "name": "Daitaku Helios",

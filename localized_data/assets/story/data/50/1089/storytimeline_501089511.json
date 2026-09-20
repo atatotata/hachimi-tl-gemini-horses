@@ -17,7 +17,10 @@
     {
       "name": "Cheval Grand",
       "text": "...Ah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Cheval? What's the matter?",
+        "...Cheval? What's wrong?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -50,7 +53,10 @@
     {
       "name": "Cheval Grand",
       "text": "I-If you don't get enough sleep, you catch \ncolds more easily, and it raises your risk \nfor high blood pressure and diabetes.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait... what's gotten into you all of a sudden?",
+        "Wait... where did that come from all of a sudden?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -63,7 +69,10 @@
     {
       "name": "Cheval Grand",
       "text": "Huh?! ...Ah, um...! Th-This isn't about \nme, though...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "True. In that case, you need to go to bed early!",
+        "True. In that case, you need to go to bed early!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -85,7 +94,9 @@
     {
       "name": "Cheval Grand",
       "text": "～～～～！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Wait. What do you mean?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -128,7 +139,10 @@
     {
       "name": "Cheval Grand",
       "text": "...Ah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Cheval? What's the matter?",
+        "...Cheval? What's wrong?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -175,7 +189,9 @@
     {
       "name": "Cheval Grand",
       "text": "......I-I'm sorry I couldn't get angry \nproperly...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So you were looking out for me."
+      ]
     },
     {
       "name": "Narrator",
@@ -187,7 +203,9 @@
     {
       "name": "Cheval Grand",
       "text": "Ah... yes... In that case, I'm glad...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "All right! We're calling it a day."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -204,7 +222,9 @@
     {
       "name": "Cheval Grand",
       "text": "...G-Good morning.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Good morning!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -219,8 +239,8 @@
       "name": "Cheval Grand",
       "text": "...Ah. Trainer... Your color's looking \nbetter...",
       "choice_data_list": [
-        "Looks like my stamina's finally coming \nback",
-        "Yeah, I'm bursting with motivation!",
+        "Looks like your stamina has finally returned.",
+        "Yeah, you're bursting with motivation!",
         "Yeah, I'm bursting with motivation!"
       ]
     },
@@ -228,13 +248,17 @@
       "name": "Cheval Grand",
       "text": "I-If that's the case, I'm glad...",
       "choice_data_list": [
-        "Thanks for checking in on me the other \nday!"
+        "Looks like your stamina has finally returned.",
+        "Yeah, you're bursting with motivation!",
+        "Yeah, I'm bursting with motivation!"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "N-No, not at all... It's really nothing \nyou need to thank me for...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thanks for looking out for me the other day!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -253,13 +277,16 @@
       "name": "Cheval Grand",
       "text": "Huh... You noticed that I've been going \nfor runs at night...?",
       "choice_data_list": [
-        "Let's both try our best not to overdo it!"
+        "Still, keep your solo training in moderation, okay?",
+        "Still, keep your solo training in moderation, okay?"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "...Yes. Likewise for both of us... hehe...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's both try our best not to push ourselves too hard!"
+      ]
     }
   ]
 }

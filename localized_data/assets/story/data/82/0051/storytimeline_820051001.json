@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "A few hours later, right before classes\nbegin..."
+      "text": "A few hours later, right before classes\nbegin...",
+      "choice_data_list": [
+        "(Working hard so early in the morning...)"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Later on, around lunchtime..."
+      "text": "Later on, around lunchtime...",
+      "choice_data_list": [
+        "(Maybe she's helping out a friend?)"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -47,7 +53,11 @@
     },
     {
       "name": "Monologue",
-      "text": "And then finally, at night..."
+      "text": "And then finally, at night...",
+      "choice_data_list": [
+        "(...Is she resting properly?)",
+        "(...I wonder if she's resting properly?)"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -55,11 +65,18 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Oh. Good evening."
+      "text": "Oh. Good evening.",
+      "choice_data_list": [
+        "(Isn't she pushing herself a bit too hard...?)"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I tell her about how I saw her training in\nthe\nmorning, then running around all\nday, helping\neveryone out."
+      "text": "I tell her about how I saw her training in\nthe\nmorning, then running around all\nday, helping\neveryone out.",
+      "choice_data_list": [
+        "Shouldn't you take a break soon?",
+        "Shouldn't you take a break soon?"
+      ]
     },
     {
       "name": "K.S.Miracle",
@@ -71,7 +88,11 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Huh? Exhausted?"
+      "text": "Huh? Exhausted?",
+      "choice_data_list": [
+        "Still, the fatigue must be piling up.",
+        "Still, the fatigue must be piling up."
+      ]
     },
     {
       "name": "K.S.Miracle",

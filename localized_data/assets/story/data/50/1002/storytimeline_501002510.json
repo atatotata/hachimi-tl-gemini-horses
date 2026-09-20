@@ -55,7 +55,11 @@
     },
     {
       "name": "Air Groove",
-      "text": "Hmmm..."
+      "text": "Hmmm...",
+      "choice_data_list": [
+        "If it's just a little bit, that should be fine.",
+        "If it's just a little bit, that should be fine, right?"
+      ]
     },
     {
       "name": "Monologue",
@@ -71,7 +75,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Run with them... Okay! Running <i>is</i> my\nspecialty."
+      "text": "Run with them... Okay! Running <i>is</i> my\nspecialty.",
+      "choice_data_list": [
+        "Starting with tandem training.",
+        "Starting from how to run as a Front Runner."
+      ]
     },
     {
       "name": "Young Student A",
@@ -231,7 +239,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Huh? Wait, Trainer..."
+      "text": "Huh? Wait, Trainer...",
+      "choice_data_list": [
+        "Looking forward to working with you."
+      ]
     },
     {
       "name": "Monologue",

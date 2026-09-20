@@ -26,7 +26,9 @@
     {
       "name": "Narrator",
       "text": "...Lately, Bubble Gum Fellow's condition \nhas clearly been off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Bubble—"
+      ]
     },
     {
       "name": "Narrator",
@@ -43,7 +45,9 @@
     {
       "name": "Bubble Gum Fellow",
       "text": "――Wait!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Bubble. The Japan Cup is—"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -61,7 +65,10 @@
     {
       "name": "Bubble Gum Fellow",
       "text": "......Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...It's for everyone's sake, right?",
+        "...It's for everyone's sake, isn't it?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -104,13 +111,15 @@
       "name": "Narrator",
       "text": "That was the only compromise I could make \nright now to protect both her and what she \nholds dear.",
       "choice_data_list": [
-        "...If there are no problems there, I'll \nrun."
+        "...Let's get a thorough examination done after this."
       ]
     },
     {
       "name": "Bubble Gum Fellow",
       "text": "Trainer—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If there are no problems there, I'll race."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -197,7 +206,9 @@
     {
       "name": "Doctor",
       "text": "\"...If Bubble-san unconsciously surpassed \nher limits in the Tenno Sho (Autumn) just \nto triumph in such an unprecedentedly \ngrueling race—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Could it be from the race earlier...?"
+      ]
     },
     {
       "name": "Doctor",
@@ -239,7 +250,9 @@
     {
       "name": "Doctor",
       "text": "...Entering the race itself should be \npossible. However, as for whether your \nrunning will return to form... I'm \nterribly sorry, but I cannot guarantee it.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Running the Japan Cup would—"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -271,7 +284,9 @@
     {
       "name": "Bubble Gum Fellow",
       "text": "\"Don't worry. All I have to do is get back \ninto top form by the Japan Cup.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Bubble..."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -289,7 +304,10 @@
     {
       "name": "Narrator",
       "text": "Wishing that in the time to come, a way \nforward will open up.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah...",
+        "Yeah..."
+      ]
     },
     {
       "name": "Narrator",
@@ -372,7 +390,10 @@
     {
       "name": "Narrator",
       "text": "All that's left for me to do is believe \nBubble Gum Fellow can run her true race, \npray for her, and send her out there...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, you're right...!",
+        "Yeah, you're right...!"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -385,7 +406,10 @@
     {
       "name": "Bubble Gum Fellow",
       "text": "...Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Come back safe and sound, okay...?!",
+        "Please come back safe and sound...!"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -438,12 +462,12 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "――\"Nice to meet you.\"",
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "\"I am Bubble Gum Fellow from Japan. It is \nan honor to meet you.\"",
       "choice_data_list": []
     },

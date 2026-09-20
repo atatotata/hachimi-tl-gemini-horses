@@ -39,7 +39,11 @@
     },
     {
       "name": "Inari One",
-      "text": "Vigor, huh... yeah, inchin' forward in this\ncramped\nspace isn't enough to get in the\nzone."
+      "text": "Vigor, huh... yeah, inchin' forward in this\ncramped\nspace isn't enough to get in the\nzone.",
+      "choice_data_list": [
+        "A dynamic sense of pushing forward?",
+        "Could it be because there's no audience?"
+      ]
     },
     {
       "name": "Inari One",
@@ -87,15 +91,25 @@
     },
     {
       "name": "Inari One",
-      "text": "Quit dawdlin'! Come on, altogether now!\nHeave,\nho! Heave, ho!"
+      "text": "Quit dawdlin'! Come on, altogether now!\nHeave,\nho! Heave, ho!",
+      "choice_data_list": [
+        "M-Me—!?",
+        "M-Me--!?"
+      ]
     },
     {
       "name": "Inari One",
-      "text": "Say it like you mean it!"
+      "text": "Say it like you mean it!",
+      "choice_data_list": [
+        "Wasshoi, wasshoi...?"
+      ]
     },
     {
       "name": "Inari One",
-      "text": "That's more like it! I already feel\nstronger! Now\ntry again, this time with\nall your breath!"
+      "text": "That's more like it! I already feel\nstronger! Now\ntry again, this time with\nall your breath!",
+      "choice_data_list": [
+        "Wasshoi! Wasshoi!!"
+      ]
     }
   ]
 }

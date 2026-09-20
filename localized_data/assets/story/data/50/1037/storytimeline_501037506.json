@@ -39,11 +39,21 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Is that how it works? Very well. First, I'll\nhave to\nchoose a song..."
+      "text": "Is that how it works? Very well. First, I'll\nhave to\nchoose a song...",
+      "choice_data_list": [
+        "Wouldn't a German song be good?",
+        "Wouldn't a German song be nice?",
+        "...First, show us an example!"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ooh, nice idea! If you pick a song\nwithout\nchoreography, you'll have no\nchoice <i>but</i> to go\nwith the flow!"
+      "text": "Ooh, nice idea! If you pick a song\nwithout\nchoreography, you'll have no\nchoice <i>but</i> to go\nwith the flow!",
+      "choice_data_list": [
+        "Wouldn't a German song be good?",
+        "Wouldn't a German song be nice?",
+        "...First, show us an example!"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -123,7 +133,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "You're right. I don't know if I'll be any\ngood at it,\nbut I'll attempt to go with\nthis \"flow.\""
+      "text": "You're right. I don't know if I'll be any\ngood at it,\nbut I'll attempt to go with\nthis \"flow.\"",
+      "choice_data_list": [
+        "In that case, why don't you try dancing?"
+      ]
     },
     {
       "name": "Tosen Jordan",

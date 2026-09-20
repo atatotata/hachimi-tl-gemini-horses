@@ -19,11 +19,18 @@
     },
     {
       "name": "Admire Vega",
-      "text": "That's what I'd like to know."
+      "text": "That's what I'd like to know.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
     },
     {
       "name": "Boy",
-      "text": "Waaaaaah! I'm scared!"
+      "text": "Waaaaaah! I'm scared!",
+      "choice_data_list": [
+        "Um, are you lost?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,11 +38,19 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? I said I've already tried everyth—"
+      "text": "Huh? I said I've already tried everyth—",
+      "choice_data_list": [
+        "Let's join forces!",
+        "First, let's calm them down."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "I'll keep an eye on things, so go call an attendant.",
+        "I'll keep an eye on things, so go get a staff member."
+      ]
     },
     {
       "name": "Monologue",
@@ -51,7 +66,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Me too."
+      "text": "...Me too.",
+      "choice_data_list": [
+        "Glad you found it."
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +97,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Yeah."
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "I'm glad."
+      ]
     }
   ]
 }

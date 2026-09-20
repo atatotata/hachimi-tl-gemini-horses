@@ -15,11 +15,21 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "I... I have to get stronger!"
+      "text": "I... I have to get stronger!",
+      "choice_data_list": [
+        "Leave the support to me!",
+        "We can't afford to stop here.",
+        "We can't afford to stop here."
+      ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Thank you! Knowing you have my back is\nreally\nreassuring!"
+      "text": "Thank you! Knowing you have my back is\nreally\nreassuring!",
+      "choice_data_list": [
+        "Leave the support to me!",
+        "We can't afford to stop here.",
+        "We can't afford to stop here."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -47,7 +57,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Roger that, Trainer!"
+      "text": "Roger that, Trainer!",
+      "choice_data_list": [
+        "Time for special training once we get back!",
+        "Special training once we get back!"
+      ]
     }
   ]
 }

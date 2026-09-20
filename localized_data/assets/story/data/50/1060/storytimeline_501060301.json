@@ -11,11 +11,18 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Oh, Trainer..."
+      "text": "Oh, Trainer...",
+      "choice_data_list": [
+        "Nature!"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "Yeah. I won't be able to see this for a\nwhile..."
+      "text": "Yeah. I won't be able to see this for a\nwhile...",
+      "choice_data_list": [
+        "Were you looking at the sea?",
+        "Were you looking at the sea?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -27,7 +34,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Phew..."
+      "text": "Phew...",
+      "choice_data_list": [
+        "Of course!"
+      ]
     },
     {
       "name": "Nice Nature",

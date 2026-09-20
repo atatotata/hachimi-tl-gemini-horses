@@ -11,7 +11,11 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "Yes—I am on my way to the flower shop \nwhere I met you previously, Trainer-san."
+      "text": "Yes—I am on my way to the flower shop \nwhere I met you previously, Trainer-san.",
+      "choice_data_list": [
+        "Hello. Are you out shopping, too?",
+        "Hello. Are you out shopping as well?"
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -55,7 +59,11 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "—Yes. And so, I offered to help, asking if \nI could please collaborate with them."
+      "text": "—Yes. And so, I offered to help, asking if \nI could please collaborate with them.",
+      "choice_data_list": [
+        "That's a wonderful story.",
+        "That's a wonderful story."
+      ]
     },
     {
       "name": "Easily Distracted Girl",
@@ -81,12 +89,16 @@
       "name": "Curren Bouquetd'or",
       "text": "Eh?",
       "choice_data_list": [
-        "I'd like to help to repay you for the \nother day."
+        "Can I help out with that, too?",
+        "Can I help out with that, too?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "And so, after buying all the flowers \ntogether with Curren Bouquetd'or, we \nreturned to the academy."
+      "text": "And so, after buying all the flowers \ntogether with Curren Bouquetd'or, we \nreturned to the academy.",
+      "choice_data_list": [
+        "To thank you for the other day, I'd like to lend a hand."
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -101,7 +113,10 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "It may seem so at first glance— but if we \nfollow the guidance that harmony provides, \nwe will surely find the answer..."
+      "text": "It may seem so at first glance— but if we \nfollow the guidance that harmony provides, \nwe will surely find the answer...",
+      "choice_data_list": [
+        "Pulling it all together sounds tough."
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -124,7 +139,10 @@
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "Yes. Ever since they first consulted me— I \nhave felt so happy, deep in my heart."
+      "text": "Yes. Ever since they first consulted me— I \nhave felt so happy, deep in my heart.",
+      "choice_data_list": [
+        "You seem really happy."
+      ]
     },
     {
       "name": "Curren Bouquetd'or",
@@ -152,15 +170,21 @@
       "name": "Curren Bouquetd'or",
       "text": "And being able to witness that created \nharmony――truly brings me happiness.",
       "choice_data_list": [
-        "Are you going to deliver those flowers \nright away?",
-        "Are you going to deliver those flowers \nright away?",
-        "I'm sure everyone will be thrilled!",
-        "I'm sure everyone will be thrilled!"
+        "Are you delivering those flowers right away?",
+        "Are you going to deliver those flowers right away?",
+        "I bet everyone will love it!",
+        "I'm sure everyone will be delighted!"
       ]
     },
     {
       "name": "Curren Bouquetd'or",
-      "text": "――Yes, of course."
+      "text": "――Yes, of course.",
+      "choice_data_list": [
+        "Are you delivering those flowers right away?",
+        "Are you going to deliver those flowers right away?",
+        "I bet everyone will love it!",
+        "I'm sure everyone will be delighted!"
+      ]
     },
     {
       "name": "Loves Only You",

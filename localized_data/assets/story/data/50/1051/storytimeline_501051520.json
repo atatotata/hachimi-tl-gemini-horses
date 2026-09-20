@@ -19,7 +19,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Nishino Flower appears far more fired up\nthan\nusual. I'm a little concerned, so I\ndecide to keep\nan eye on her from a\ndistance."
+      "text": "Nishino Flower appears far more fired up\nthan\nusual. I'm a little concerned, so I\ndecide to keep\nan eye on her from a\ndistance.",
+      "choice_data_list": [
+        "(Will she be okay?)"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -143,7 +146,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Trainer!"
+      "text": "Trainer!",
+      "choice_data_list": [
+        "...Wait, did you know the whole time?"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -151,11 +157,23 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Um... Wait, have you been watching me\nfrom the\nstart?"
+      "text": "Um... Wait, have you been watching me\nfrom the\nstart?",
+      "choice_data_list": [
+        "Yeah, you were so powerful and cool!",
+        "Yeah, you were so powerful and cool!",
+        "'Good results come from a good environment.' Great words to live by.",
+        "'Good results come from a good environment.' That's a great saying."
+      ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Th-thank you very much!"
+      "text": "Th-thank you very much!",
+      "choice_data_list": [
+        "Yeah, you were so powerful and cool!",
+        "Yeah, you were so powerful and cool!",
+        "'Good results come from a good environment.' Great words to live by.",
+        "'Good results come from a good environment.' That's a great saying."
+      ]
     },
     {
       "name": "Nishino Flower",

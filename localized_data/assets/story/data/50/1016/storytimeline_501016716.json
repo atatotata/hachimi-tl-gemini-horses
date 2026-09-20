@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "It feels tight in some places when I\nmove. Looks\nlike I gained some muscle."
+      "text": "It feels tight in some places when I\nmove. Looks\nlike I gained some muscle.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -23,11 +27,18 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...What?!"
+      "text": "...What?!",
+      "choice_data_list": [
+        "Looks like your skeletal muscle percentage has dropped a bit...",
+        "Looks like your skeletal muscle percentage went down a bit..."
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "I'm going running."
+      "text": "I'm going running.",
+      "choice_data_list": [
+        "In other words, what actually increased was..."
+      ]
     },
     {
       "name": "Narita Brian",

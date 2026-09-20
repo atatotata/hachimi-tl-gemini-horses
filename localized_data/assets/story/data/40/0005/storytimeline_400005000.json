@@ -17,7 +17,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Now then, what would you like me to \nexplain?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Don't listen to the explanation"
+      ]
     },
     {
       "name": "",
@@ -33,7 +36,13 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Regarding \"Training Goals and Special \nRaces,\" right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "About Training Goals and Special Races",
+        "About Fragments of Knowledge",
+        "About Crystals of Knowledge",
+        "About the Goddesses' Wisdom",
+        "I'm fine now."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -221,7 +230,10 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Understood♪ Just to be sure, I have a \nbrief summary right here.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

@@ -27,7 +27,11 @@
     },
     {
       "name": "Agnes Digital",
-      "text": "Hmmm?! It seems Rob Roy is in a pickle!"
+      "text": "Hmmm?! It seems Rob Roy is in a pickle!",
+      "choice_data_list": [
+        "Doesn't seem like they heard me.",
+        "Doesn't seem like they heard me, huh."
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -123,11 +127,21 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Th-th-that makes me so happy! Just... so\nvery\nhappy..."
+      "text": "Th-th-that makes me so happy! Just... so\nvery\nhappy...",
+      "choice_data_list": [
+        "S-So cool...!",
+        "You're one of the main characters too, you know.",
+        "You're one of the protagonists too, you know."
+      ]
     },
     {
       "name": "Agnes Digital",
-      "text": "I only spoke what was honestly on my\nmind."
+      "text": "I only spoke what was honestly on my\nmind.",
+      "choice_data_list": [
+        "S-So cool...!",
+        "You're one of the main characters too, you know.",
+        "You're one of the protagonists too, you know."
+      ]
     },
     {
       "name": "Zenno Rob Roy",

@@ -16,7 +16,9 @@
     {
       "name": "Narrator",
       "text": "I came here before to borrow expedition \nmaterials. I must have taken it by mistake \nback then.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'm sorry I didn't notice sooner...!"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -44,13 +46,15 @@
       "name": "Dream Journey",
       "text": "Actually, that happens to be the very item \nI was searching for earlier. ...To think I \nwould find it in a place like this.",
       "choice_data_list": [
-        "...! In that case, I'll give you this \nbook."
+        "Oh, yeah. You know your stuff, considering how obscure it is."
       ]
     },
     {
       "name": "Narrator",
       "text": "I quickly presented the book to her \nwide-eyed self. I had brought it to leave \nin the trainer's office, but there could \nbe no better apology than this.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...! In that case, you can have this book."
+      ]
     },
     {
       "name": "Dream Journey",
@@ -63,7 +67,10 @@
     {
       "name": "Dream Journey",
       "text": "I, see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you care about me, I want you to accept it.",
+        "If you care about me, please take this."
+      ]
     },
     {
       "name": "Dream Journey",
@@ -92,27 +99,33 @@
       "name": "Dream Journey",
       "text": "Fufu... But wouldn't that make it \nimpossible to compete against an \nUmamusume?",
       "choice_data_list": [
-        "Everyone here is as sweet as you.",
-        "There are only kind girls like you around \nhere."
+        "I'm as strong as anyone else, so don't worry.",
+        "I'm careful about who I pick."
       ]
     },
     {
       "name": "Dream Journey",
       "text": "Do you think so? ...Fufufu.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Everyone here is as kind as you are.",
+        "Everyone's just as kind as you are."
+      ]
     },
     {
       "name": "Dream Journey",
       "text": "—Now then. Are these all the materials you \nrequested?",
       "choice_data_list": [
         "Yeah. There's no mistake this time.",
-        "うん。今度こそ間違いないよ"
+        "Yeah. No doubt about it this time."
       ]
     },
     {
       "name": "Dream Journey",
       "text": "...Fufu. My apologies, that was \nunnecessary advice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah. There's no mistake this time.",
+        "Yeah. No doubt about it this time. "
+      ]
     },
     {
       "name": "Dream Journey",
@@ -124,20 +137,23 @@
       "text": "—Now then. Are these all the materials you \nrequested?",
       "choice_data_list": [
         "Yeah. There's no mistake this time.",
-        "うん。今度こそ間違いないよ"
+        "Yeah. No doubt about it this time."
       ]
     },
     {
       "name": "Dream Journey",
       "text": "...There aren't any mixed-up documents, \ncorrect?",
       "choice_data_list": [
-        "I-I'm okay!"
+        "Yeah. There's no mistake this time.",
+        "Yeah. No doubt about it this time. "
       ]
     },
     {
       "name": "Dream Journey",
       "text": "Fufufu. I kid. —I look forward to your \nnext visit.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I-I'm fine!"
+      ]
     }
   ]
 }

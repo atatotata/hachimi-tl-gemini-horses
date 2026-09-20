@@ -11,7 +11,11 @@
     },
     {
       "name": "Monologue",
-      "text": "It's rare to see Narita Taishin in such a\ngood\nmood."
+      "text": "It's rare to see Narita Taishin in such a\ngood\nmood.",
+      "choice_data_list": [
+        "You look like you're having a lot of fun.",
+        "You seem to be having a lot of fun, don't you."
+      ]
     },
     {
       "name": "Monologue",
@@ -23,7 +27,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...You think so too?"
+      "text": "...You think so too?",
+      "choice_data_list": [
+        "Yeah, I thought it'd help with your growth.",
+        "Yeah, I thought it'd help with your growth."
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -31,7 +39,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Hmph."
+      "text": "Hmph.",
+      "choice_data_list": [
+        "Be careful not to eat too much.",
+        "All right! Time to fuel up with nutrients!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -39,7 +51,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "That's true, but don't you worry!"
+      "text": "That's true, but don't you worry!",
+      "choice_data_list": [
+        "But Taishin sometimes overdoes it."
+      ]
     },
     {
       "name": "Super Creek",

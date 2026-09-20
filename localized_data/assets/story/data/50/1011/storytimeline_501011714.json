@@ -11,7 +11,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "...I wasn't. But I thought I could push\nthrough it\nfor a single training session."
+      "text": "...I wasn't. But I thought I could push\nthrough it\nfor a single training session.",
+      "choice_data_list": [
+        "Have you been feeling sick since this morning?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -23,11 +26,19 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "You're really not going to leave, are\nyou?"
+      "text": "You're really not going to leave, are\nyou?",
+      "choice_data_list": [
+        "I'll keep an eye on things here until you're healed.",
+        "Let's take a quick rest and make up for it right away!"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes... Yes, I suppose you're right."
+      "text": "Yes... Yes, I suppose you're right.",
+      "choice_data_list": [
+        "I am a Trainer, after all.",
+        "I am a Trainer, after all."
+      ]
     },
     {
       "name": "Grass Wonder",

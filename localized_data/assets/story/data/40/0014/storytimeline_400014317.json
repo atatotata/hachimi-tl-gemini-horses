@@ -23,14 +23,17 @@
       "name": "Calstone Light O",
       "text": "Then—Ah! There's a \"Straight Wire Hall\"! \nLet's go, Trainer, right away!",
       "choice_data_list": [
-        "(Ahh, that shop...)",
-        "(Ahh, that shop, huh...)"
+        "Yeah. I'm hungry too, so let's grab a bite before heading back.",
+        "Yeah. I'm hungry too, so let's eat before heading back."
       ]
     },
     {
       "name": "Narrator",
       "text": "\"Straight Wire Emporium,\" the place where \nI was once handed a clothespin and forced \nto fish for walleye pollock... \n...Honestly, it terrifies me. Bracing \nmyself, I entered the shop.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Ah, that shop, huh...)",
+        "(Ah, that shop, right...)"
+      ]
     },
     {
       "name": "Hariganedo Umamusume Shopkeeper",
@@ -48,7 +51,10 @@
     {
       "name": "Umamusume in Sweats",
       "text": "Whaaat!? The Ultra Giga Burger Combo?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Hm? What's going on here—)",
+        "(Hm? What even is this situation—)"
+      ]
     },
     {
       "name": "Hariganedo Umamusume Shopkeeper",
@@ -66,14 +72,16 @@
       "name": "Calstone Light O",
       "text": "...Hm. Trainer, I think we might have \nstumbled into somewhere bad.",
       "choice_data_list": [
-        "Ah, yeah...",
-        "Y-yeah..."
+        "（！！！？）"
       ]
     },
     {
       "name": "Narrator",
       "text": "However, the store was packed with \nUmamusume. Completely surrounded on all \nsides, it looked impossible to make it to \nthe exit...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-Yeah..."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -105,7 +113,9 @@
     {
       "name": "Hariganedo Umamusume Shopkeeper",
       "text": "Oho, a newcomer to the seminar? Then it's \nonly natural you'd wonder. The truth is—I \nused to be a racing Umamusume myself.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(She listened...! What a lifesaver...!)"
+      ]
     },
     {
       "name": "Hariganedo Umamusume Shopkeeper",
@@ -117,7 +127,9 @@
     {
       "name": "Stay Gold",
       "text": "\"Short for 'Learning & Maintenance', huh. \nHaha, what do you know. It's just an \nordinary seminar.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh? Then what you meant by \"rah-men\" was..."
+      ]
     },
     {
       "name": "Hariganedo Umamusume Shopkeeper",
@@ -134,7 +146,9 @@
     {
       "name": "Hariganedo Umamusume Shopkeeper",
       "text": "âRamen is a complete, perfect \nnutritional meal, you see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Oh, come to think of it...!"
+      ]
     },
     {
       "name": "Hariganedo Umamusume Shopkeeper",
@@ -151,7 +165,9 @@
     {
       "name": "Calstone Light O",
       "text": "Yes. Top speed is always a battle against \none's limits. —The closer you get to the \nlight, the more your body burns and gets \nworn down.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh? R-really...?"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -183,7 +199,9 @@
     {
       "name": "Stay Gold",
       "text": "Haha. ...You look surprised.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(\"To keep shining as the light\"... huh.)"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -196,7 +214,10 @@
     {
       "name": "Narrator",
       "text": "After that, Calstone Light O listened \nintently with a positive attitude— making \nme feel glad that I had come.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Yeah, seems that way.",
+        "...Yeah, seems like it."
+      ]
     }
   ]
 }

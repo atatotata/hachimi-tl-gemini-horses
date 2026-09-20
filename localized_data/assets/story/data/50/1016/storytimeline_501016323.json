@@ -123,11 +123,18 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Thanks. I'm a little tired, though, so I'm\ngoing to\nlay down for a minute."
+      "text": "Thanks. I'm a little tired, though, so I'm\ngoing to\nlay down for a minute.",
+      "choice_data_list": [
+        "You worked hard out there.",
+        "You worked so hard."
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "Until you've finished making a training\nplan for\nthe Arima Kinen."
+      "text": "Until you've finished making a training\nplan for\nthe Arima Kinen.",
+      "choice_data_list": [
+        "About how much?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -135,7 +142,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Just messing with you. I'll be in that\nchair over\nthere."
+      "text": "...Just messing with you. I'll be in that\nchair over\nthere.",
+      "choice_data_list": [
+        "Huh?!"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -143,7 +153,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Yawn...</i> That's right. Get it ready quick,\nokay?"
+      "text": "<i>Yawn...</i> That's right. Get it ready quick,\nokay?",
+      "choice_data_list": [
+        "This is training for the Arima Kinen, right?",
+        "This is training for the Arima Kinen, isn't it?"
+      ]
     },
     {
       "name": "Monologue",

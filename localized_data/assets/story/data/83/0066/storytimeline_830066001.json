@@ -27,7 +27,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Ah..."
+      "text": "Ah...",
+      "choice_data_list": [
+        "Did they misunderstand something?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -35,11 +38,18 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I completed a difficulty C objective,\nsecuring an\nitem on sale, which also let\nme see my friend\nsmile. Therefore, the\nanswer to your question is\n\"yes.\""
+      "text": "I completed a difficulty C objective,\nsecuring an\nitem on sale, which also let\nme see my friend\nsmile. Therefore, the\nanswer to your question is\n\"yes.\"",
+      "choice_data_list": [
+        "You really had a great time, huh.",
+        "You really had a great time, didn't you?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I wonder. Past experience suggests an\neighty\npercent probability that the same\nsituation will\noccur again."
+      "text": "I wonder. Past experience suggests an\neighty\npercent probability that the same\nsituation will\noccur again.",
+      "choice_data_list": [
+        "I'm sure any misunderstanding will be cleared up soon."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -83,7 +93,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "Hehe. I'd be more than happy to lend\nyou an\near. ♪ If something's troubling\nyou, a problem\nshared is a problem\nhalved."
+      "text": "Hehe. I'd be more than happy to lend\nyou an\near. ♪ If something's troubling\nyou, a problem\nshared is a problem\nhalved.",
+      "choice_data_list": [
+        "No, it's just..."
+      ]
     },
     {
       "name": "Super Creek",
@@ -139,7 +152,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I'm fine as I am? Without any... special\nchanges?"
+      "text": "I'm fine as I am? Without any... special\nchanges?",
+      "choice_data_list": [
+        "I think you're fine just the way you are!",
+        "What costume wouldn't require changing your expression?"
+      ]
     },
     {
       "name": "Monologue",

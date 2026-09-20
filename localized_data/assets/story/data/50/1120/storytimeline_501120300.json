@@ -43,13 +43,16 @@
       "name": "Durandal",
       "text": "\"I hear Believe-san's grandfather is an \nactual craftsman.\"",
       "choice_data_list": [
-        "Durandal! Were you listening?"
+        "Slow and steady... just like a dedicated artisan.",
+        "Slow and steady... like a dedicated artisan."
       ]
     },
     {
       "name": "Durandal",
       "text": "It simply happened to reach my ears, so \nplease do not misunderstand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Durandal! Were you listening?"
+      ]
     },
     {
       "name": "Durandal",
@@ -76,7 +79,9 @@
     {
       "name": "",
       "text": "I watched the footage of her recent races, \nand her race execution was remarkably \nsolid.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That master craftsmanship might be nearing perfection."
+      ]
     },
     {
       "name": "",
@@ -123,7 +128,9 @@
     {
       "name": "Durandal",
       "text": "Where is Bakushin O-san?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Now, now. Let's all go get treated to a feast."
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -271,7 +278,10 @@
     {
       "name": "Godolphin Barb",
       "text": "Yes. Umamusume racing history, too, has \nevolved upon the foundations of the past.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "With the feelings of us in the audience playing a role as well...",
+        "The feelings of those of us watching the race also have an impact..."
+      ]
     },
     {
       "name": "Godolphin Barb",
@@ -354,14 +364,16 @@
       "name": "Both",
       "text": "!? I completely forgot!",
       "choice_data_list": [
-        "We really were together the whole time \nduring training camp, weren't we?",
-        "We were together the entire training camp, \nafter all."
+        "Well, that's because you're in different classes..."
       ]
     },
     {
       "name": "",
       "text": "And so, a summer training camp that \nremained lively until the very end came to \na close.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We were together the entire training camp, after all.",
+        "We were together the entire training camp, after all."
+      ]
     }
   ]
 }

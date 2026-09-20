@@ -15,11 +15,17 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "I'll go search!"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Ah, Trainer... Sorry for worrying you."
+      "text": "Ah, Trainer... Sorry for worrying you.",
+      "choice_data_list": [
+        "Found you! Zephyr, it's time to head out!"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -27,7 +33,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "The wind... that ordinarily blows here."
+      "text": "The wind... that ordinarily blows here.",
+      "choice_data_list": [
+        "Check?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -55,7 +64,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Zephyr! Trainer! You're here!"
+      "text": "Zephyr! Trainer! You're here!",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah, that's true."
+      ]
     },
     {
       "name": "Nishino Flower",

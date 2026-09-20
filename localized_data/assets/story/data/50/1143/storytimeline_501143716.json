@@ -22,7 +22,10 @@
     {
       "name": "Narrator",
       "text": "She was someone who never neglected \nself-management and was a total stranger \nto an unhealthy lifestyle. Wondering about \nthe reason, I asked her—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I see... Did something happen?",
+        "I see... Did something happen?"
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -45,7 +48,10 @@
     {
       "name": "Victoire Pisa",
       "text": "I'm sorry... Whenever I think it's a \nchance to help someone accomplish \nsomething, I just can't resist.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...That's tough for you, isn't it?",
+        "...That must be difficult for you, huh?"
+      ]
     },
     {
       "name": "Victoire Pisa",
@@ -58,21 +64,23 @@
       "name": "Victoire Pisa",
       "text": "Um... what sort of thing is that?",
       "choice_data_list": [
-        "On tasting days, I use the 'divided meals' \napproach.",
-        "On tasting days, I use the 'divided meals' \napproach."
+        "In that case, let's make taste-testing an absolute prerequisite."
       ]
     },
     {
       "name": "Narrator",
       "text": "She can never refuse a taste test. If so, \nwe can simply treat it as a supplemental \nsnack and adjust her dinner portions \naccordingly.",
       "choice_data_list": [
-        "I'll think of a routine you can keep doing \nwhile helping out."
+        "On days with taste tests, you use the idea of \"divided meals.\"",
+        "On days with taste tests, you use the idea of \"divided meals.\""
       ]
     },
     {
       "name": "Victoire Pisa",
       "text": "Incredible... That's fantastic! Trainer, \nyes please, I would love that.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll design a routine that still lets you help out."
+      ]
     },
     {
       "name": "Narrator",

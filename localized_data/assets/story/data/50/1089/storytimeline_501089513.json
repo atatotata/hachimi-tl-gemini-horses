@@ -31,7 +31,9 @@
     {
       "name": "Clerk",
       "text": "I'm glad to hear that. Still... What a \nwonderful racing outfit! Especially that \ncape!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Everything seems fine, thank you."
+      ]
     },
     {
       "name": "Clerk",
@@ -65,13 +67,16 @@
       "name": "Cheval Grand",
       "text": "――! Huh, what...?",
       "choice_data_list": [
-        "Because you looked so happy."
+        "Does that cape have some kind of special meaning?",
+        "Does that cape have some kind of special meaning?"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "Ah... I'm sorry, I got a little carried \naway...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because you looked so happy."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -191,23 +196,27 @@
       "name": "Cheval Grand",
       "text": "Someday—to the peak.",
       "choice_data_list": [
-        "You can do it!",
-        "You can do it!",
-        "Let's go together—to the world!"
+        "You can do it.",
+        "You can do it.",
+        "Let's go together—to the world stage!"
       ]
     },
     {
       "name": "Cheval Grand",
       "text": "――！！",
       "choice_data_list": [
-        "I'm sure you'll stand at the very top",
-        "I'm sure you'll stand at the very top."
+        "You can do it.",
+        "You can do it.",
+        "Let's go together—to the world stage!"
       ]
     },
     {
       "name": "Narrator",
       "text": "She has the talent to accomplish it. She \nhas the tenacity to reach it. I know that \nbetter than anyone.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I know you'll reach the top.",
+        "I know you'll reach the top."
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -234,7 +243,9 @@
     {
       "name": "Cheval Grand",
       "text": "Yes...! And with that, someday, the best \nin the world—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's rack up wins all across the globe!"
+      ]
     },
     {
       "name": "Narrator",
@@ -256,7 +267,9 @@
     {
       "name": "Narrator",
       "text": "Before we knew it, we had drawn the stares \nof passersby... Shrugging our shoulders a \nbit, the two of us headed back to the \nacademy.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, no, the pleasure's mine..."
+      ]
     }
   ]
 }

@@ -19,7 +19,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Nice Nature and Ikuno Dictus happen to\nwalk by\nat that very moment, so we\ndecide to ask them."
+      "text": "Nice Nature and Ikuno Dictus happen to\nwalk by\nat that very moment, so we\ndecide to ask them.",
+      "choice_data_list": [
+        "Shall we ask someone what's going on?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -27,7 +30,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Friendly Love</i> is a teen drama about\nUmamusume\nattending a fictional high\nschool. I often hear\nstudents having\nexcited discussions about it."
+      "text": "<i>Friendly Love</i> is a teen drama about\nUmamusume\nattending a fictional high\nschool. I often hear\nstudents having\nexcited discussions about it.",
+      "choice_data_list": [
+        "Yeah, from that drama..."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -107,7 +113,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I feel like something soft is caressing my\nback!"
+      "text": "I feel like something soft is caressing my\nback!",
+      "choice_data_list": [
+        "!?"
+      ]
     },
     {
       "name": "Nature & Ikuno",
@@ -135,7 +144,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Oh, that's right! Yes, let's go."
+      "text": "Oh, that's right! Yes, let's go.",
+      "choice_data_list": [
+        "Zephyr, let's head out for training soon!",
+        "(Patiently explain the facts for future reference.)"
+      ]
     },
     {
       "name": "Ikuno Dictus",

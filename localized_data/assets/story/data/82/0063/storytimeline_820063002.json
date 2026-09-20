@@ -13,12 +13,16 @@
       "name": "Silence Suzuka",
       "text": "Actually…… lately I feel like someone's \nbeen watching me the entire time…… and \nso……",
       "choice_data_list": [
-        "Someone's watching you, huh……"
+        "What's the matter?",
+        "What is it?"
       ]
     },
     {
       "name": "???",
-      "text": "*staaaaaaare*……"
+      "text": "*staaaaaaare*……",
+      "choice_data_list": [
+        "Being watched by someone, huh...?"
+      ]
     },
     {
       "name": "Narrator",
@@ -30,7 +34,11 @@
     },
     {
       "name": "Special Week",
-      "text": "Awawawa~~!?"
+      "text": "Awawawa~~!?",
+      "choice_data_list": [
+        "What're you up to?",
+        "What are you up to?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -98,7 +106,11 @@
     },
     {
       "name": "Special Week",
-      "text": "U-Um, actually…… There's just one more \nthing on my mind……"
+      "text": "U-Um, actually…… There's just one more \nthing on my mind……",
+      "choice_data_list": [
+        "Feel better now?",
+        "Do you feel better now?"
+      ]
     },
     {
       "name": "Special Week",
@@ -125,7 +137,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "With Spe-chan...? Yes, okay... If that's \nthe case."
+      "text": "With Spe-chan...? Yes, okay... If that's \nthe case.",
+      "choice_data_list": [
+        "Why don't the two of you try it together?"
+      ]
     },
     {
       "name": "Narrator",

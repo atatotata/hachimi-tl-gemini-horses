@@ -17,13 +17,15 @@
       "name": "Kiseki",
       "text": "âAh, Trainer-san!",
       "choice_data_list": [
-        "It's about time for lunch, but..."
+        "How's your condition?"
       ]
     },
     {
       "name": "Kiseki",
       "text": "Huh, already!? I was just about to start \ninking—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's almost time for lunch, but..."
+      ]
     },
     {
       "name": "Kiseki",
@@ -41,7 +43,10 @@
     {
       "name": "Kiseki",
       "text": "That may be true, but... ever since \nyesterday, ideas have just been pouring \nout of me nonstop!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Don't push yourself too hard, alright?",
+        "Make sure not to push yourself too hard, okay?"
+      ]
     },
     {
       "name": "Kiseki",
@@ -70,21 +75,24 @@
       "name": "Narrator",
       "text": "While stopping her, I feel a sense of \nrelief. Even after a historic victory, \nshe's still throwing herself \nwholeheartedly into stories, just as she \nalways has.",
       "choice_data_list": [
-        "Even if you conquer the world, you haven't \nchanged, huh.",
-        "Even if you conquer the world, you haven't \nchanged, have you?"
+        "You say that, but it'll probably drag on, so let's stop right here~",
+        "You say that, but you know it'll drag on, so let's stop right here~"
       ]
     },
     {
       "name": "Kiseki",
       "text": "Pardon?",
       "choice_data_list": [
-        "Because I thought you might've had a \nchange of heart or something."
+        "Even after beating the world, you haven't changed a bit.",
+        "Even after beating the world, you haven't changed a bit, have you?"
       ]
     },
     {
       "name": "Kiseki",
       "text": "Hmm... Not much of a noticeable change, \nreally...? Besides—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I thought you might have had a change of heart, after all."
+      ]
     },
     {
       "name": "Kiseki",
@@ -96,7 +104,9 @@
     {
       "name": "Kiseki",
       "text": "Fufu, just think about it! What everyone \nwill be thinking for my next race is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――！"
+      ]
     },
     {
       "name": "Kiseki",
@@ -143,7 +153,9 @@
     {
       "name": "Narrator",
       "text": "The frenzy she ignited leads to the next. \nThe story connects... seemingly without \nend.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Come on, let's go eat already!"
+      ]
     }
   ]
 }

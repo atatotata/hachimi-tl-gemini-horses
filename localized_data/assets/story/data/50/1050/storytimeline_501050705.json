@@ -11,11 +11,18 @@
     },
     {
       "name": "",
-      "text": "At Narita Taishin's request, we head to a\nnearby\nshopping mall in search of a\nbookstore."
+      "text": "At Narita Taishin's request, we head to a\nnearby\nshopping mall in search of a\nbookstore.",
+      "choice_data_list": [
+        "Sure, let's go!"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "What? Oh, I'm not buying anything for\nmyself."
+      "text": "What? Oh, I'm not buying anything for\nmyself.",
+      "choice_data_list": [
+        "What book are you going to buy?",
+        "What kind of book are you buying?"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -115,11 +122,21 @@
     },
     {
       "name": "",
-      "text": "I didn't mean to eavesdrop, but I\nactually\noverheard their whole\nconversation."
+      "text": "I didn't mean to eavesdrop, but I\nactually\noverheard their whole\nconversation.",
+      "choice_data_list": [
+        "I'm sure Hayahide will love it.",
+        "...Yeah, let's head back.",
+        "...Yeah, let's head home."
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh?! Wh-what are you talking about?!"
+      "text": "Huh?! Wh-what are you talking about?!",
+      "choice_data_list": [
+        "I'm sure Hayahide will love it.",
+        "...Yeah, let's head back.",
+        "...Yeah, let's head home."
+      ]
     },
     {
       "name": "Narita Taishin",

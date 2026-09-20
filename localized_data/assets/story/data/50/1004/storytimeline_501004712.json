@@ -11,11 +11,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh snap, Trainer!"
+      "text": "Oh snap, Trainer!",
+      "choice_data_list": [
+        "You're late, what happened?",
+        "You're late, did something happen?"
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "I'm afraid I can't tell you that..."
+      "text": "I'm afraid I can't tell you that...",
+      "choice_data_list": [
+        "You're late, what happened?",
+        "You're late, did something happen?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -27,7 +35,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Okay. I'm sorry for making you worry."
+      "text": "Okay. I'm sorry for making you worry.",
+      "choice_data_list": [
+        "Let's be careful next time.",
+        "Be careful next time, okay?"
+      ]
     },
     {
       "name": "Monologue",

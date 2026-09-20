@@ -15,7 +15,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hey, you might as well watch our chess\nmatch! I'm\njust about to whoop Air\nGroove!"
+      "text": "Hey, you might as well watch our chess\nmatch! I'm\njust about to whoop Air\nGroove!",
+      "choice_data_list": [
+        "Then I'll have you wait for me."
+      ]
     },
     {
       "name": "Air Groove",
@@ -31,15 +34,30 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Plus, Prez said I could run with her if I\ndo!"
+      "text": "Plus, Prez said I could run with her if I\ndo!",
+      "choice_data_list": [
+        "Go for broke!",
+        "Just go for broke!",
+        "Let's work out a strategy and give it our all!",
+        "Let's devise a strategy and do our best!"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "What do you mean?! At least be a <i>little</i>\nmore\nencouraging, like, \"You've got this\nin the bag!\""
+      "text": "What do you mean?! At least be a <i>little</i>\nmore\nencouraging, like, \"You've got this\nin the bag!\"",
+      "choice_data_list": [
+        "Go for broke!",
+        "Just go for broke!",
+        "Let's work out a strategy and give it our all!",
+        "Let's devise a strategy and do our best!"
+      ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Ouch, didn't think my own trainer would\nbe so\nbrutal!"
+      "text": "Ouch, didn't think my own trainer would\nbe so\nbrutal!",
+      "choice_data_list": [
+        "Our opponent is just too tough."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -95,7 +113,11 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Tokai... KO'd?"
+      "text": "Tokai... KO'd?",
+      "choice_data_list": [
+        "Crumbling Teio, huh.",
+        "Crumbling Teio, yeah."
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -151,7 +173,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah, you're right. Thanks, Trainer!"
+      "text": "Yeah, you're right. Thanks, Trainer!",
+      "choice_data_list": [
+        "Times like this are when we need to stay calm."
+      ]
     },
     {
       "name": "Tokai Teio",

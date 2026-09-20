@@ -175,7 +175,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Yes, I'm all right.\n...Hey, Trainer?"
+      "text": "Yes, I'm all right.\n...Hey, Trainer?",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -187,7 +190,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Right. I'm sure they'll all remember me."
+      "text": "Right. I'm sure they'll all remember me.",
+      "choice_data_list": [
+        "No one will ever forget the impact you made.",
+        "No one will ever forget the impact you made."
+      ]
     },
     {
       "name": "Fine Motion",

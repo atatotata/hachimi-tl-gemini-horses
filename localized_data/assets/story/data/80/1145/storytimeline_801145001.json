@@ -48,13 +48,16 @@
       "name": "Rulership",
       "text": "Heh heh, I see.",
       "choice_data_list": [
-        "(Is she smiling...?)"
+        "(Should I give her some encouragement?)",
+        "(Maybe I should give her some encouragement?)"
       ]
     },
     {
       "name": "Narrator",
       "text": "The next day, I quickly realized the \nmeaning behind that smile.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Is she smiling...?)"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -116,7 +119,9 @@
     {
       "name": "Rulership",
       "text": "It means the game had already begun, far \nbeyond the boundaries of the 8x8 board.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You were magnificent."
+      ]
     },
     {
       "name": "Rulership",
@@ -132,14 +137,18 @@
       "text": "Hey, how about having a bout with me? I \nhaven't had nearly enough yet!",
       "choice_data_list": [
         "Challenge accepted!",
-        "Challenge accepted!",
-        "Maybe I'll pass..."
+        "I'll take on the challenge!",
+        "Maybe we should hold off..."
       ]
     },
     {
       "name": "Rulership",
       "text": "Heh heh, that's the spirit!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Challenge accepted!",
+        "I'll take on the challenge!",
+        "Maybe we should hold off..."
+      ]
     },
     {
       "name": "Rulership",

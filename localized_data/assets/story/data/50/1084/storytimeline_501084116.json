@@ -11,7 +11,9 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "No. This is a decision the two of you made \ntogether. Whatever form it took, I always \nintended to support you.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yes. ...Sorry for causing a commotion."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -23,7 +25,9 @@
     {
       "name": "Tazuna Hayakawa",
       "text": "Understood.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll observe Gimlet's condition and decide accordingly."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -36,14 +40,16 @@
       "name": "Tanino Gimlet",
       "text": "――Now then, shall we begin?",
       "choice_data_list": [
-        "Yeah, let's take it carefully.",
-        "Yeah, let's proceed with caution."
+        "Thank you very much!"
       ]
     },
     {
       "name": "Tanino Gimlet",
       "text": "Heh— Sit back and wait, world. For my \nglorious and beautiful resurrection...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, let's proceed with caution.",
+        "Yeah, let's play it safe."
+      ]
     }
   ]
 }

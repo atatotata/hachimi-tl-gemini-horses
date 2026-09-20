@@ -11,7 +11,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I'll be your trainer's backup, so no\nworries!"
+      "text": "I'll be your trainer's backup, so no\nworries!",
+      "choice_data_list": [
+        "Yeah, let's do this!",
+        "Yeah, let's go!"
+      ]
     },
     {
       "name": "Monologue",
@@ -51,11 +55,18 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Um, but didn't you say you weren't sure\nif I can\nhandle them not too long ago?"
+      "text": "Um, but didn't you say you weren't sure\nif I can\nhandle them not too long ago?",
+      "choice_data_list": [
+        "――Everything's fine!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I can't make any guarantees, but as her\ntrainer, I\ngive her my honest opinion. I\nsaw firsthand how\nmuch progress she\nmade this summer."
+      "text": "I can't make any guarantees, but as her\ntrainer, I\ngive her my honest opinion. I\nsaw firsthand how\nmuch progress she\nmade this summer.",
+      "choice_data_list": [
+        "Even so, it'll probably be fine.",
+        "Even so, it'll probably be okay."
+      ]
     },
     {
       "name": "Monologue",
@@ -71,7 +82,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Okay... Even if it wasn't fine, I was\nprepared to\nnot let it get to me, but..."
+      "text": "Okay... Even if it wasn't fine, I was\nprepared to\nnot let it get to me, but...",
+      "choice_data_list": [
+        "Yeah, nothing to worry about.",
+        "Yeah, no need to worry."
+      ]
     },
     {
       "name": "Kitasan Black",

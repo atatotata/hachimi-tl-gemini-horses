@@ -47,14 +47,16 @@
       "name": "Red Desire",
       "text": "......Phew.",
       "choice_data_list": [
-        "How are you feeling? A little... nervous?",
-        "How are you feeling? A little... nervous?"
+        "(Desire...)"
       ]
     },
     {
       "name": "Red Desire",
       "text": "No. Right now, my heart is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "How are you feeling? A little... nervous?",
+        "How are you feeling? A little... nervous?"
+      ]
     },
     {
       "name": "Red Desire",
@@ -66,7 +68,9 @@
     {
       "name": "Red Desire",
       "text": "You heard it, didn't you? The melody of \nthis world's blessings, praising that \nperson—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Red Desire",
@@ -113,7 +117,9 @@
     {
       "name": "Red Desire",
       "text": "Yes...! Saint Red Desire swears to do her \nutmost and seize the radiance!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We will definitely overcome this trial!"
+      ]
     },
     {
       "name": "Buena Vista",

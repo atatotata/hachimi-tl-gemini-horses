@@ -7,7 +7,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "That's right, Big Brother... I am!"
+      "text": "That's right, Big Brother... I am!",
+      "choice_data_list": [
+        "You're really fired up.",
+        "You're really fired up."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -31,7 +35,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Y-yeah!"
+      "text": "Y-yeah!",
+      "choice_data_list": [
+        "We're definitely gonna win, woo..."
+      ]
     }
   ]
 }

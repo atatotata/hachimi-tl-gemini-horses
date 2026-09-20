@@ -68,34 +68,37 @@
       "name": "Transcend",
       "text": "Wait, are you lost...?",
       "choice_data_list": [
-        "It's okay, let's search the area again—"
+        "Even looking at the map, I can't tell where we are...",
+        "Even looking at the map, I can't tell where we are..."
       ]
     },
     {
       "name": "",
       "text": "Just as a massive clap of thunder roared, \na heavy downpour instantly began to fall.",
       "choice_data_list": [
-        "Let's take shelter from the rain over \nthere!"
+        "Don't worry, let's search the area again—"
       ]
     },
     {
       "name": "Transcend",
       "text": "Guh...! Just a little more!",
       "choice_data_list": [
-        "Wait, Tran! Watch your step!"
+        "Let's take shelter from the rain over there!"
       ]
     },
     {
       "name": "Transcend",
       "text": "Whoa!?",
       "choice_data_list": [
-        "Tran! Are you oka— Whoa!?"
+        "Wait, Tran! Watch your step!"
       ]
     },
     {
       "name": "",
       "text": "Panicking and trying to rush over to \nTranscend as she sank to her knees in the \nmud, I ended up tripping and tumbling over \nmyself.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Tran! Are you alr—whoa?!"
+      ]
     },
     {
       "name": "Transcend",
@@ -112,7 +115,9 @@
     {
       "name": "Transcend",
       "text": "\"...Sigh. I'm sorry, Trainy. I never \nthought it would turn out like this...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The map is soaking wet too...!"
+      ]
     },
     {
       "name": "",
@@ -135,13 +140,15 @@
       "name": "Transcend",
       "text": "I mean, that was totally entering the \nunknown! Pfft... And seeing you get stuck \nin the mud out of worry for me, Trai-chan, \nwas way too hilarious!",
       "choice_data_list": [
-        "Geez, it's not a laughing ma—... *snort*!"
+        "Huh...?!"
       ]
     },
     {
       "name": "",
       "text": "When my eyes met Transcend's mud-covered \nface, I couldn't help but laugh. We were a \ncomplete mess, but our spirits were bright \nand clear.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Jeez, it's no laughing ma—... *snort*!"
+      ]
     },
     {
       "name": "Transcend",
@@ -164,7 +171,10 @@
     {
       "name": "Transcend",
       "text": "Heheh... We're totally on the same \nwavelength, aren't we?♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I love spending time with you too, Tran.",
+        "I love spending time with you too, Tran."
+      ]
     },
     {
       "name": "Transcend",
@@ -182,13 +192,15 @@
       "name": "Transcend",
       "text": "Heheh, can't you smell it, Trainer-chan? \nLook, it's wafting right over... That \nsubtle scent of sulfur from the open-air \nbath!",
       "choice_data_list": [
-        "It's true?!"
+        "The map is completely useless, so what should we do?"
       ]
     },
     {
       "name": "",
       "text": "Pushing through the trees and treading \nfirmly on the ground, we followed the \nnarrow animal trail all the way... until a \nsmall open-air bath appeared.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, seriously!?"
+      ]
     },
     {
       "name": "",
@@ -216,21 +228,23 @@
       "name": "Transcend",
       "text": "Whew, that was a lovely bath.",
       "choice_data_list": [
-        "That was the best...!"
+        "That was amazing...!"
       ]
     },
     {
       "name": "Transcend",
       "text": "It really soaked right into our muddy, \nchilled-to-the-bone bodies, didn't it?",
       "choice_data_list": [
-        "Ah... But that was really rough, wasn't \nit?",
-        "Yeah... But that really must have been \ntough."
+        "That was amazing...!"
       ]
     },
     {
       "name": "Transcend",
       "text": "Right. If you wanna pursue the ultimate \n\"real thing,\" you can't forget the \nultimate prep!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah... But that was really rough.",
+        "Yeah... But that really was rough on you."
+      ]
     },
     {
       "name": "Transcend",
@@ -247,7 +261,9 @@
     {
       "name": "Transcend",
       "text": "Hell yeah! In search of even greater \nthrills... let's keep charging ahead, \nTrainy!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's do it!"
+      ]
     },
     {
       "name": "",
@@ -265,13 +281,15 @@
       "name": "Transcend",
       "text": "Trai-chan... you've completely let your \nguard down, huh? The power of the hot \nsprings is terrifying.",
       "choice_data_list": [
-        "It's important, so I wanted to tell you \nproperly."
+        "Thanks for giving me the best comfort, Tran."
       ]
     },
     {
       "name": "Transcend",
       "text": "Aww, don't worry about it. If Trainer-chan \nisn't full of energy, it's just no fun, \ny'know? For me, that is♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's important, so I wanted to make sure I told you properly."
+      ]
     },
     {
       "name": "Transcend",
@@ -283,7 +301,9 @@
     {
       "name": "Transcend",
       "text": "My HP's pretty much all recovered~ \nSpending time like this with you really is \nimportant, Trainer-chan.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yum-yum~"
+      ]
     },
     {
       "name": "Transcend",
@@ -296,7 +316,10 @@
     {
       "name": "Transcend",
       "text": "Heheh... Yup, that's a promise.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, it's a promise.",
+        "Yeah, promise."
+      ]
     }
   ]
 }

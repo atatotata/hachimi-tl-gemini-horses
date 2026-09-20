@@ -7,7 +7,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Well..."
+      "text": "Well...",
+      "choice_data_list": [
+        "What're you up to?",
+        "What are you up to?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -115,11 +119,18 @@
     },
     {
       "name": "Gold City",
-      "text": "Wha... How do you know that?"
+      "text": "Wha... How do you know that?",
+      "choice_data_list": [
+        "Training shoes, maybe?",
+        "Something sweet, maybe?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "She kept looking at her feet during\npractice\nyesterday, and just now at the\nstore with Yukino\nBijin, she kept\nglancing at shoes on display."
+      "text": "She kept looking at her feet during\npractice\nyesterday, and just now at the\nstore with Yukino\nBijin, she kept\nglancing at shoes on display.",
+      "choice_data_list": [
+        "Because you kept worrying about your shoes the whole time."
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -139,7 +150,10 @@
     },
     {
       "name": "Gold City",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Like 'that'...?"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -163,7 +177,10 @@
     },
     {
       "name": "Monologue",
-      "text": "To avoid getting overly hungry, she\nalways snacks\non a little something every\ncouple of hours."
+      "text": "To avoid getting overly hungry, she\nalways snacks\non a little something every\ncouple of hours.",
+      "choice_data_list": [
+        "Because it's usually snack time."
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -191,11 +208,18 @@
     },
     {
       "name": "Gold City",
-      "text": "What? But you ordered that. Plus, you\nhaven't\neven touched it."
+      "text": "What? But you ordered that. Plus, you\nhaven't\neven touched it.",
+      "choice_data_list": [
+        "Would you eat this crepe for me?",
+        "Could you eat this crepe for me?"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "I'm not as hungry as I thought... Please, help me out!"
+      ]
     },
     {
       "name": "Gold City",

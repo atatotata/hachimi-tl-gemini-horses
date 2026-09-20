@@ -75,7 +75,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Aren't these pair tickets...?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -95,11 +98,18 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Me? But I'm so busy with training..."
+      "text": "Me? But I'm so busy with training...",
+      "choice_data_list": [
+        "You should use it.",
+        "You can use it"
+      ]
     },
     {
       "name": "",
-      "text": "I tell her how she'll probably have more\ntime once\nthe Twinkle Series is over, so\nshe'll have plenty of\nchances to use the\ncoupon then."
+      "text": "I tell her how she'll probably have more\ntime once\nthe Twinkle Series is over, so\nshe'll have plenty of\nchances to use the\ncoupon then.",
+      "choice_data_list": [
+        "Then let's save it as a reward for some other time."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -115,7 +125,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "What do you mean? Of course I do!\nYou're my\npartner in crime!"
+      "text": "What do you mean? Of course I do!\nYou're my\npartner in crime!",
+      "choice_data_list": [
+        "Are you sure?",
+        "Are you sure?"
+      ]
     },
     {
       "name": "Hishi Amazon",

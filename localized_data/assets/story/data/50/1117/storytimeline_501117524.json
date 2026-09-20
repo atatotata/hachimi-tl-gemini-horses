@@ -52,7 +52,10 @@
     {
       "name": "Win Variation",
       "text": "—Huh? Ah...! Am I... spinning...!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're in high spirits, Shion.",
+        "You're in high spirits, Shion."
+      ]
     },
     {
       "name": "Win Variation",
@@ -68,14 +71,18 @@
       "text": "Nnnrgh!! Id-Idiot-cation! What am I \ngetting so giddy about...!",
       "choice_data_list": [
         "That was a beautiful pirouette.",
-        "That was a beautiful pirouette, wasn't it?",
-        "Still, it's dangerous to walk around while \ncleaning up, so..."
+        "That was such a beautiful pirouette.",
+        "Still, it's dangerous to walk around while tidying up..."
       ]
     },
     {
       "name": "Win Variation",
       "text": "I-Is that so...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That was a beautiful pirouette.",
+        "That was such a beautiful pirouette.",
+        "Still, it's dangerous to walk around while tidying up..."
+      ]
     },
     {
       "name": "Win Variation",

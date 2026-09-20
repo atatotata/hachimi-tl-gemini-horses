@@ -99,7 +99,11 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Gratitude! Thank you, from the bottom\nof my\nheart! I knew you wouldn't let me\ndown!"
+      "text": "Gratitude! Thank you, from the bottom\nof my\nheart! I knew you wouldn't let me\ndown!",
+      "choice_data_list": [
+        "I'll help out as well!",
+        "I'll help out too!"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -111,11 +115,19 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "It is. Not to mention, this is when they\nneed to be\nfocusing on training."
+      "text": "It is. Not to mention, this is when they\nneed to be\nfocusing on training.",
+      "choice_data_list": [
+        "That's a heavy burden on the Umamusume...",
+        "That's a heavy burden on the Umamusume..."
+      ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Just us? Surely not..."
+      "text": "Just us? Surely not...",
+      "choice_data_list": [
+        "Isn't there anything we can do just by ourselves?",
+        "I wonder if there's anything we can do on our own."
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -159,7 +171,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Oh? Why, that's..."
+      "text": "Oh? Why, that's...",
+      "choice_data_list": [
+        "I'll do my best in their place today!"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -183,7 +198,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Say no more! I will make sure our readers\nfully\nunderstand how deep your\ndedication runs!"
+      "text": "Say no more! I will make sure our readers\nfully\nunderstand how deep your\ndedication runs!",
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -207,7 +225,10 @@
     },
     {
       "name": "Spectator A",
-      "text": "Ah ha ha! Good luck, trainers!"
+      "text": "Ah ha ha! Good luck, trainers!",
+      "choice_data_list": [
+        "U-Umapyoi, Umapyoi!"
+      ]
     },
     {
       "name": "Spectator B",

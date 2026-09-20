@@ -32,13 +32,15 @@
       "name": "Narrator",
       "text": "I look back at the daily report emails \nthat had changed so drastically. \nIndependent training reports that kept \nsaying 'None', and a completely blank \nremarks column...",
       "choice_data_list": [
-        "(Something… is being hidden from me)"
+        "Messiah..."
       ]
     },
     {
       "name": "Narrator",
       "text": "Something is almost certainly wrong with \nAir Messiah. I knew that, and tried to \ntalk to her whenever I had the chance, \nbut—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Something... is being hidden from me.)"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -65,7 +67,9 @@
     {
       "name": "Narrator",
       "text": "She wouldn't give me the time of day at \nall. Those frustrating days continued on \nand on...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ah, wai—!"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -128,7 +132,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Hm? If it isn't Air Messiah.",
       "choice_data_list": []
     },
@@ -447,7 +451,9 @@
     {
       "name": "Narrator",
       "text": "After reading through the daily report to \nthe very end, I tightly grip my \nsmartphone. ...This is a cry. A cry from \nher heart.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Messiah."
+      ]
     },
     {
       "name": "Narrator",
@@ -460,13 +466,15 @@
       "name": "Narrator",
       "text": "The moment the message was sent, the \nlaptop was flipped open immediately. \n—There was no time to lose.",
       "choice_data_list": [
-        "(I'll have everything ready... by \ntomorrow!)"
+        "\"We will definitely talk tomorrow.\""
       ]
     },
     {
       "name": "Narrator",
       "text": "Even the time it takes to return to my \nroom is precious. Under the starlight, I \nwipe away sweat while typing on the \nkeyboard as fast as I possibly can.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I'll get everything ready... by tomorrow!)"
+      ]
     },
     {
       "name": "Narrator",

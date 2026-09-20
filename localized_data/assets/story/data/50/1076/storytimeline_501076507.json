@@ -67,7 +67,10 @@
     {
       "name": "Sakura Laurel",
       "text": "...Yes, I'm okay!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Are you sure you don't need to say anything?",
+        "Are you sure you don't want to call out to her?"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -90,7 +93,10 @@
     {
       "name": "Sakura Laurel",
       "text": "Fufu, well then, let's head back! ...And \nsince we're at it, let's run!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, of course!",
+        "Yeah, of course!"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -102,7 +108,9 @@
     {
       "name": "Narrator",
       "text": "Sakura Laurel jogged back toward Tracen \nAcademy with light, nimble steps!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, hold on a second!"
+      ]
     }
   ]
 }

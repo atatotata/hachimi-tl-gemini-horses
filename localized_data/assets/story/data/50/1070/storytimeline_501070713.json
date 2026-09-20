@@ -19,15 +19,19 @@
       "name": "Sirius Symboli",
       "text": "I just twisted it a little, it's no big \ndeal. Let's get back to training.",
       "choice_data_list": [
-        "Let's play it safe and take a break.",
-        "If I think it's too much, I'm stopping \nyou, got it?",
-        "If I think it's too much, I'll stop you, \nokay?"
+        "Let's play it safe and rest.",
+        "If I think it's too much, I'm stopping you, got it?",
+        "If I think it's too much, I'm stopping you, okay?"
       ]
     },
     {
       "name": "Sirius Symboli",
       "text": "Hey, who do you think you're bossing—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Let's play it safe and rest.",
+        "If I think it's too much, I'm stopping you, got it?",
+        "If I think it's too much, I'm stopping you, okay?"
+      ]
     },
     {
       "name": "Sirius's Juniors",
@@ -49,7 +53,9 @@
     {
       "name": "Sirius Symboli",
       "text": "Tch... Don't let yourself get swayed by \nstupid rumors.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I-It's just a little scratch!"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -92,7 +98,10 @@
     {
       "name": "Sirius Symboli",
       "text": "It's nothin'. Now hurry up and clear the \nway for my owner.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Does it hurt?!",
+        "Does it hurt?!"
+      ]
     },
     {
       "name": "Narrator",
@@ -175,7 +184,10 @@
     {
       "name": "Narrator",
       "text": "Together with the juniors, I watched over \nSirius Symboli as she trained.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah."
+      ]
     }
   ]
 }

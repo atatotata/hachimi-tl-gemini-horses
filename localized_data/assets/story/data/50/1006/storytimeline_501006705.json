@@ -23,7 +23,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah..."
+      "text": "Yeah...",
+      "choice_data_list": [
+        "Are you hungry?"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Growl...</i>"
+      "text": "<i>Growl...</i>",
+      "choice_data_list": [
+        "Let's hurry home and eat.",
+        "Want to grab a bite before heading back?",
+        "Should we grab a bite before heading back?"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah... Dinner's waiting for me at the\ndorm, so I\nthink I'll save my appetite for\nwhen I get back."
+      "text": "Yeah... Dinner's waiting for me at the\ndorm, so I\nthink I'll save my appetite for\nwhen I get back.",
+      "choice_data_list": [
+        "Let's hurry home and eat.",
+        "Want to grab a bite before heading back?",
+        "Should we grab a bite before heading back?"
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +60,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sorry... And thanks for being so\nunderstanding!"
+      "text": "Sorry... And thanks for being so\nunderstanding!",
+      "choice_data_list": [
+        "You can go ahead and run home."
+      ]
     },
     {
       "name": "Monologue",
@@ -67,7 +83,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "How did you know? Are you some kinda\npsychic?"
+      "text": "How did you know? Are you some kinda\npsychic?",
+      "choice_data_list": [
+        "You want to eat curry, don't you?",
+        "You want to eat curry, right?"
+      ]
     },
     {
       "name": "Monologue",

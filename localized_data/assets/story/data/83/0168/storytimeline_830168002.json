@@ -107,7 +107,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Golshi-san is being attacked by monsters! \nTo let me escape, she sacrificed herself \nand...!!"
+      "text": "Golshi-san is being attacked by monsters! \nTo let me escape, she sacrificed herself \nand...!!",
+      "choice_data_list": [
+        "What's the matter?!",
+        "What's wrong?!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -130,7 +134,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "THANK GOODNESSSSS! For a second I didn't \nknow what was going to happen!"
+      "text": "THANK GOODNESSSSS! For a second I didn't \nknow what was going to happen!",
+      "choice_data_list": [
+        "??? What are you talking about?"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -151,14 +158,20 @@
       "text": "Oh, right, I found that pile of gold coins \nearlier. What do we do with 'em? I don't \nwant 'em myself though.",
       "choice_data_list": [
         "Let's leave the treasure behind.",
-        "Does a pile of gold coins really even \nexist...?",
-        "Does a pile of gold coins really even \nexist...?",
+        "Does a mountain of gold coins really exist...?",
+        "Does a mountain of gold coins really exist...?",
         "How about donating it somewhere?"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Pretty classy, ain'tcha? As long as \nthere's treasure, this place stays a \nTreasure Island."
+      "text": "Pretty classy, ain'tcha? As long as \nthere's treasure, this place stays a \nTreasure Island.",
+      "choice_data_list": [
+        "Let's leave the treasure behind.",
+        "Does a mountain of gold coins really exist...?",
+        "Does a mountain of gold coins really exist...?",
+        "How about donating it somewhere?"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -205,7 +218,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Eek, it followed us?! RUN! If we get \ncaught, it really WILL be our last run!!!"
+      "text": "Eek, it followed us?! RUN! If we get \ncaught, it really WILL be our last run!!!",
+      "choice_data_list": [
+        "Hm? What is it?"
+      ]
     },
     {
       "name": "Gold Ship",

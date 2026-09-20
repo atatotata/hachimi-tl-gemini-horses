@@ -32,14 +32,16 @@
       "name": "",
       "text": "—It is broad daylight on New Year's Day in \nthe Trainer's office. The fireworks are \nsimply a video being played on a tablet by \nDaring Heart and the others.",
       "choice_data_list": [
-        "New Year's Eve is already over, right...?",
-        "New Year's Eve is already over, right...?"
+        "No, even if you tell me to shout...—"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"My, you really stay calm no matter what, \ndon't you? Though that is one of your best \nqualities!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "New Year's Eve is already over, right...?",
+        "New Year's Eve is already over, isn't it...?"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -56,7 +58,9 @@
     {
       "name": "Daring Heart",
       "text": "No! Today of all days, I won't listen to \nanything serious!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Still, we're finally in the Classic year, which means—"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -69,14 +73,16 @@
       "name": "Daring Heart",
       "text": "High, middle, or low?",
       "choice_data_list": [
-        "Wh-What is that...?",
-        "Wh-What is that...?"
+        "Huh?"
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"Just think of it as your vibe! Which one \ndo you want?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wh-What is that...?",
+        "Wh-What is that...?"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -90,7 +96,11 @@
     {
       "name": "Daring Heart",
       "text": "High, huh! Okay, in that case—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "High",
+        "Middle",
+        "Low"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -107,7 +117,9 @@
     {
       "name": "Daring Heart",
       "text": "Trainer, you chose \"high\", didn't you? \nCome on, get waaaay more hyped!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Her hype is climbing even higher...!)"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -120,20 +132,22 @@
       "name": "Daring Heart",
       "text": "Yes! Say, “Ho, ho, ho!”",
       "choice_data_list": [
-        "Ho, ho, ho...!"
+        "...W-Whoooa!"
       ]
     },
     {
       "name": "Heart's Friends",
       "text": "\"Look at Trainer go, gettin' it done♪\" \n\"Wanna MC next~?\" \"Sounds awesome!\" \"Tear \nit up, Trainer-san~!\"",
       "choice_data_list": [
-        "A-all right...! Check it, yo!"
+        "H-H-Ho...!"
       ]
     },
     {
       "name": "",
       "text": "An unfamiliar atmosphere, an unfamiliar \nlevel of excitement... Yet thanks to \nDaring Heart and her friends, it turned \nout to be a really fun time.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "A-Alright...! Check it, yo!"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -150,7 +164,9 @@
     {
       "name": "Daring Heart",
       "text": "Haaah... It's so warm...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Go? But—where to?"
+      ]
     },
     {
       "name": "",
@@ -173,7 +189,10 @@
     {
       "name": "Daring Heart",
       "text": "Well, just playing it safe. I wanted to \nchill out, the way a New Year's should be.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Still... what makes it 'middle'?",
+        "Still... which part of that is 'middle'?"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -196,7 +215,10 @@
     {
       "name": "",
       "text": "Listening to the soft crackling of the \nfire... I spent a relaxing, carefree time \nwith Daring Heart and the others.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah...",
+        "Yeah..."
+      ]
     },
     {
       "name": "Daring Heart",
@@ -234,21 +256,23 @@
       "name": "Daring Heart",
       "text": "Ahaha, what are you talking about?! \nZombies don't care about the seasons, do \nthey? Come on, stop saying such weird \nthings~!",
       "choice_data_list": [
-        "(...Did I say something that weird?)",
-        "(...Did I say something that weird?)"
+        "Why is there a zombie event on New Year's!?"
       ]
     },
     {
       "name": "Zombie A",
       "text": "Ah... Aaah...",
       "choice_data_list": [
-        "...Ngh, whoa, here it comes—"
+        "(...Did I say something that weird?)",
+        "(...Was what I said really that weird?)"
       ]
     },
     {
       "name": "Zombie A",
       "text": "—Ahhh, Happy New Yeeeaaarrr...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...! Whoa, here it comes—"
+      ]
     },
     {
       "name": "Heart's Friend B",
@@ -270,7 +294,9 @@
     {
       "name": "Daring Heart",
       "text": "Phew~... That was so fun!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(What was she so afraid of...?)"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -283,13 +309,15 @@
       "name": "Daring Heart",
       "text": "Yes—is what I'd like to say, but... I have \na New Year's party with Craft and the \nothers right after this!",
       "choice_data_list": [
-        "Huh, right after this?!"
+        "You should take some time to rest."
       ]
     },
     {
       "name": "Daring Heart",
       "text": "\"You bet! So with that said... I wanna \ntake a shower, so I'll be heading back \nfirst!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, right after this?!"
+      ]
     },
     {
       "name": "Daring Heart",
@@ -311,7 +339,9 @@
     {
       "name": "Heart's Friend A",
       "text": "I'd heard rumors that an amazing girl from \nthat Hill Esta Academy had enrolled here.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You can't lose...?"
+      ]
     },
     {
       "name": "Heart's Friend A",
@@ -349,7 +379,10 @@
     {
       "name": "Heart's Friend C",
       "text": "Of course I am! Otherwise, I wouldn't be \nchasing you this hard~.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You really look up to Heart, don't you?",
+        "You really look up to Heart, don't you?"
+      ]
     },
     {
       "name": "Heart's Friend D",
@@ -368,13 +401,16 @@
       "name": "Heart's Friends",
       "text": "\"Ahaha, running low on energy~?\" \"Hey, \nwanna go to karaoke now?\" \"Down~!\" \"How \nabout you, Trainer?\"",
       "choice_data_list": [
-        "...I'll make sure everyone gets back to \nthe dorm safely."
+        "...Yeah, leave it to me.",
+        "...Yeah, leave it to me."
       ]
     },
     {
       "name": "Daring Heart",
       "text": "—Well then, once more! Ready, set—!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'll make sure every last one of them gets back to the dorms safely."
+      ]
     },
     {
       "name": "Heart & Craft",

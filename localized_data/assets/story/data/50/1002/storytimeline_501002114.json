@@ -19,7 +19,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yes. Recently, she's also been going out\nrunning\nin the morning."
+      "text": "Yes. Recently, she's also been going out\nrunning\nin the morning.",
+      "choice_data_list": [
+        "Looks like you're doing great.",
+        "Looks like you're doing great."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -99,11 +103,18 @@
     },
     {
       "name": "Special Week",
-      "text": "Huh?! No! Not at all!"
+      "text": "Huh?! No! Not at all!",
+      "choice_data_list": [
+        "Aren't you pushing yourself a bit too hard?"
+      ]
     },
     {
       "name": "Special Week",
-      "text": "Ah... I'm sorry for worrying you..."
+      "text": "Ah... I'm sorry for worrying you...",
+      "choice_data_list": [
+        "A good break is necessary from time to time.",
+        "A good break is necessary from time to time, you know."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -171,7 +182,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Oh... I'm sorry, I was just a little\nsurprised."
+      "text": "Oh... I'm sorry, I was just a little\nsurprised.",
+      "choice_data_list": [
+        "...Suzuka?"
+      ]
     },
     {
       "name": "Silence Suzuka",

@@ -117,13 +117,15 @@
       "name": "Hishi Miracle",
       "text": "Ah, no, but if I don't make it in time~...",
       "choice_data_list": [
-        "If that's how it is, so be it. Let's take \nthe gamble."
+        "Let's take a break for a while."
       ]
     },
     {
       "name": "Narrator",
       "text": "This is a \"gamble.\" Ever since we teamed \nup, we've kept on betting and kept on \nwinning, and that's why we are where we \nare today.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If that's how it is, it can't be helped. Let's take the chance."
+      ]
     },
     {
       "name": "Narrator",
@@ -335,7 +337,9 @@
     {
       "name": "Hishi Miracle",
       "text": "Yes. My heart is completely set.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Really...?"
+      ]
     },
     {
       "name": "Hishi Miracle",

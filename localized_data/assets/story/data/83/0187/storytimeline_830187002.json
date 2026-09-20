@@ -10,7 +10,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "—You there."
+      "text": "—You there.",
+      "choice_data_list": [
+        "Maybe I'll do some shopping..."
+      ]
     },
     {
       "name": "Orfevre",
@@ -21,7 +24,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Overwhelmed by her unyielding presence, \nbefore I knew it, I had been led straight \ninto—a sporting goods store boasting \nvarious top brands."
+      "text": "Overwhelmed by her unyielding presence, \nbefore I knew it, I had been led straight \ninto—a sporting goods store boasting \nvarious top brands.",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Orfevre",
@@ -36,7 +42,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "What is it? You are the porter; obey with \nhaste."
+      "text": "What is it? You are the porter; obey with \nhaste.",
+      "choice_data_list": [
+        "Um..."
+      ]
     },
     {
       "name": "Orfevre",
@@ -56,7 +65,11 @@
     },
     {
       "name": "Orfevre",
-      "text": "To the register. We move on to the next."
+      "text": "To the register. We move on to the next.",
+      "choice_data_list": [
+        "Never mind that! Um, why do I have to—",
+        "Never mind that! Um, why do I have to—"
+      ]
     },
     {
       "name": "Narrator",
@@ -75,7 +88,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "Next."
+      "text": "Next.",
+      "choice_data_list": [
+        "(Oh, this book looks fun... Wait, no!)"
+      ]
     },
     {
       "name": "Orfevre",
@@ -86,7 +102,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Carrying an ever-growing pile of bags, I \nchased after her while gasping for breath. \nReaching my physical limit, I finally \ncalled out to stop her—"
+      "text": "Carrying an ever-growing pile of bags, I \nchased after her while gasping for breath. \nReaching my physical limit, I finally \ncalled out to stop her—",
+      "choice_data_list": [
+        "(I-It's so heavy...!!)"
+      ]
     },
     {
       "name": "Orfevre",
@@ -97,7 +116,10 @@
     },
     {
       "name": "Narrator",
-      "text": "To fully support <chrname> as a Trainer, basic \nphysical fitness is indeed vital. Even so, \nthat feels entirely separate from being \ndragged around like this—"
+      "text": "To fully support <chrname> as a Trainer, basic \nphysical fitness is indeed vital. Even so, \nthat feels entirely separate from being \ndragged around like this—",
+      "choice_data_list": [
+        "No, that might be true, but...!"
+      ]
     },
     {
       "name": "Orfevre",
@@ -116,7 +138,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "A break is permitted. We still have the \njourney back; recover that frail stamina \nof yours, even if just a little."
+      "text": "A break is permitted. We still have the \njourney back; recover that frail stamina \nof yours, even if just a little.",
+      "choice_data_list": [
+        "Ummmmm..."
+      ]
     },
     {
       "name": "Narrator",
@@ -128,7 +153,11 @@
     },
     {
       "name": "Orfevre",
-      "text": "A Trainer responsible for horse girls must \nconstantly broaden their horizons."
+      "text": "A Trainer responsible for horse girls must \nconstantly broaden their horizons.",
+      "choice_data_list": [
+        "Why did you ask me to help?",
+        "Why did you ask me to help?"
+      ]
     },
     {
       "name": "Orfevre",
@@ -148,7 +177,11 @@
     },
     {
       "name": "Narrator",
-      "text": "It was a specialized training theory book, \nbut a title I hadn't read before. Since \nthe chance presented itself, I wanted to \nlearn more."
+      "text": "It was a specialized training theory book, \nbut a title I hadn't read before. Since \nthe chance presented itself, I wanted to \nlearn more.",
+      "choice_data_list": [
+        "Then... could you tell me what that book is about?",
+        "Thanks, I learned a lot today."
+      ]
     },
     {
       "name": "Orfevre",
@@ -159,7 +192,10 @@
     },
     {
       "name": "Orfevre",
-      "text": "Very well. One must possess an insatiable \nhunger for knowledge, after all."
+      "text": "Very well. One must possess an insatiable \nhunger for knowledge, after all.",
+      "choice_data_list": [
+        "Oh, sorr—"
+      ]
     },
     {
       "name": "Orfevre",
@@ -176,12 +212,15 @@
       "name": "Narrator",
       "text": "Panicking at the sudden unreasonable \ndemand, my mind raced. Entertainment... \nmeaning a quick party trick...?! In any \ncase, something everyone knows—",
       "choice_data_list": [
-        "I-I'll dance the Umapyoi! U~ Umadacchi!"
+        "E-Entertainment...?!"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "............"
+      "text": "............",
+      "choice_data_list": [
+        "I-I'll dance the Umapyoi! U-Umadacchi!"
+      ]
     },
     {
       "name": "Orfevre",
@@ -192,7 +231,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Though my performance fell flat on its \nface, she let me rest leisurely until it \nwas time to head back."
+      "text": "Though my performance fell flat on its \nface, she let me rest leisurely until it \nwas time to head back.",
+      "choice_data_list": [
+        "R-Right, of course..."
+      ]
     }
   ]
 }

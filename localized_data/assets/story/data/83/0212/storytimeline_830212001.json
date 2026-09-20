@@ -19,7 +19,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Well, you see... Something came up and \nI've gotta learn how to use this machine \nhere."
+      "text": "Well, you see... Something came up and \nI've gotta learn how to use this machine \nhere.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -150,14 +154,19 @@
       "name": "Assistant AI",
       "text": "\"Sure are, Accu-san.\"",
       "choice_data_list": [
-        "You did great even though tech isn't your \nstrong suit.",
-        "You worked hard even though it's tough for \nyou.",
-        "...Did it just copy your entire \npersonality?"
+        "You worked hard even though it's not your strong suit.",
+        "You did your best even though it's not your forte, huh.",
+        "...Did someone just copy your personality?"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Accu-san kept talking to it every single \nday until she got the hang of it. You've \ngot amazing patience, seriously."
+      "text": "Accu-san kept talking to it every single \nday until she got the hang of it. You've \ngot amazing patience, seriously.",
+      "choice_data_list": [
+        "You worked hard even though it's not your strong suit.",
+        "You did your best even though it's not your forte, huh.",
+        "...Did someone just copy your personality?"
+      ]
     },
     {
       "name": "Wonder Acute",

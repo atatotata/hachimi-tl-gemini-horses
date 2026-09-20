@@ -11,11 +11,18 @@
     },
     {
       "name": "Gold City",
-      "text": "...Oh."
+      "text": "...Oh.",
+      "choice_data_list": [
+        "All that's left is going home, but..."
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Not especially. That's why I asked you."
+      "text": "Not especially. That's why I asked you.",
+      "choice_data_list": [
+        "Is there somewhere you want to stop by?",
+        "Is there somewhere you'd like to drop in?"
+      ]
     },
     {
       "name": "Gold City",
@@ -55,7 +62,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Are you sure?"
+      "text": "Are you sure?",
+      "choice_data_list": [
+        "Since we have the chance, let's learn how to take a detour from our senior."
+      ]
     },
     {
       "name": "Inari One",
@@ -71,7 +81,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Well... if you say so."
+      "text": "Well... if you say so.",
+      "choice_data_list": [
+        "For now, let's say we meet up at the destination.",
+        "Go have fun with your fellow students."
+      ]
     },
     {
       "name": "Inari One",
@@ -155,7 +169,10 @@
     },
     {
       "name": "Inari One",
-      "text": "C'mon, City, don't let this chance go to\nwaste.\nLet's go!"
+      "text": "C'mon, City, don't let this chance go to\nwaste.\nLet's go!",
+      "choice_data_list": [
+        "Just let me know when you're heading back."
+      ]
     },
     {
       "name": "Gold City",
@@ -171,7 +188,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Yup! First we hit up the arcade, then we\ngot\nhoneyade, then we went to a public\nbath, and..."
+      "text": "Yup! First we hit up the arcade, then we\ngot\nhoneyade, then we went to a public\nbath, and...",
+      "choice_data_list": [
+        "Is your \"detour\" over now?",
+        "Is your \"detour\" over now?"
+      ]
     },
     {
       "name": "Inari One",
@@ -187,7 +208,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Haha, I'm <i>askin'</i> if you're swooning at the\nsight.\nYou got that dreamy look on your\nface."
+      "text": "Haha, I'm <i>askin'</i> if you're swooning at the\nsight.\nYou got that dreamy look on your\nface.",
+      "choice_data_list": [
+        "...To-o-on?"
+      ]
     },
     {
       "name": "Gold City",

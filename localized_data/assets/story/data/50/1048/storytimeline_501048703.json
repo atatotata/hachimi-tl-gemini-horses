@@ -7,7 +7,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Isn't this place awesome? I wanna go\nsometime!\nAnd by sometime, I mean let's\ngo already!"
+      "text": "Isn't this place awesome? I wanna go\nsometime!\nAnd by sometime, I mean let's\ngo already!",
+      "choice_data_list": [
+        "...Is something wrong with this?",
+        "...Is something wrong with this?"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "What? You mean you wanna come all\nthe way out\nhere and <i>not</i> do it?"
+      "text": "What? You mean you wanna come all\nthe way out\nhere and <i>not</i> do it?",
+      "choice_data_list": [
+        "Still, we don't have much time today..."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -63,7 +70,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "What? We can't go back yet. I can't let\nit end like\nthis!"
+      "text": "What? We can't go back yet. I can't let\nit end like\nthis!",
+      "choice_data_list": [
+        "Then since we caught something, let's head back."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -71,11 +81,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Yeah, yeah, as if I don't know tha—gyah!"
+      "text": "Yeah, yeah, as if I don't know tha—gyah!",
+      "choice_data_list": [
+        "Watch your step!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "<i>SPLASH!</i>"
+      "text": "<i>SPLASH!</i>",
+      "choice_data_list": [
+        "Look ou—!!"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -87,7 +103,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "No, it's <i>not</i> fine. This isn't good. We\nhave to dry\nyou off quick before you\ncatch a cold!"
+      "text": "No, it's <i>not</i> fine. This isn't good. We\nhave to dry\nyou off quick before you\ncatch a cold!",
+      "choice_data_list": [
+        "I'm fine, I just got a little wet."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -103,7 +122,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...'Kay."
+      "text": "...'Kay.",
+      "choice_data_list": [
+        "It'll be fine."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -119,11 +141,21 @@
     },
     {
       "name": "Monologue",
-      "text": "She's playing it calm, but I can tell she's\nactually\nupset. What should I say to her?"
+      "text": "She's playing it calm, but I can tell she's\nactually\nupset. What should I say to her?",
+      "choice_data_list": [
+        "I'm just glad you're safe.",
+        "I'm just glad you're safe.",
+        "...Did you learn your lesson?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? What do you mean?"
+      "text": "Huh? What do you mean?",
+      "choice_data_list": [
+        "I'm just glad you're safe.",
+        "I'm just glad you're safe.",
+        "...Did you learn your lesson?"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -139,11 +171,18 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "And me being happy is exactly what\ncaused you\nso much trouble! That's how\nyou ended up in the\nocean!"
+      "text": "And me being happy is exactly what\ncaused you\nso much trouble! That's how\nyou ended up in the\nocean!",
+      "choice_data_list": [
+        "I think having so much energy is great."
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "It's fun precisely because it's hard.",
+        "The struggle is what makes it fun, you know."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -163,7 +202,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Never mind the apology letter, don't go catching a cold, alright?",
+        "Never mind the apology letter, just don't catch a cold."
+      ]
     },
     {
       "name": "Tosen Jordan",

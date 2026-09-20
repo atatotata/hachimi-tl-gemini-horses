@@ -61,7 +61,9 @@
     {
       "name": "Narrator",
       "text": "Leaving tracks of horseshoes behind her. \nStreaking across the same turf, like a \nsingle ray of light—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Hang in there...!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -83,7 +85,9 @@
     {
       "name": "Commentary",
       "text": "It's Sakura! Sakura!! Capping off the \nyear-end Grand Prix in style is Sakura \nLaurel!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(That just now was...)"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -201,13 +205,20 @@
       "name": "Sakura Laurel",
       "text": "Ahaha, your voice is super loud. Did \nsomething good happen?",
       "choice_data_list": [
-        "You won the championship!",
-        "You won!"
+        "Congratulations on first place, Laurel!!!!"
       ]
     },
     {
       "name": "Sakura Laurel",
       "text": "Fufu. That's true~.",
+      "choice_data_list": [
+        "You won!",
+        "You won the championship!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...A dream?",
       "choice_data_list": [
         "And then I had another dream!",
         "And then I had another dream!"
@@ -215,16 +226,11 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "...A dream?",
-      "choice_data_list": [
-        "Yeah, the dream where you and Brian race \nagainst each other!",
-        "Yeah, a dream where you and Brian race \nagainst each other!"
-      ]
-    },
-    {
-      "name": "Sakura Laurel",
       "text": "――！",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, a dream of you and Brian going head-to-head!",
+        "Yeah, a dream where you and Brian race against each other!"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -246,7 +252,9 @@
     {
       "name": "Sakura Laurel",
       "text": "Now, I wonder why?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...! Why that...?"
+      ]
     },
     {
       "name": "Sakura Laurel",

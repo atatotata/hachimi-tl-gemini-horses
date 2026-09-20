@@ -75,11 +75,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Feeling the growing tension in the air, I\ninterrupt.\nAlthough Air Shakur is often\nmisunderstood, she's\nnever been\nsomeone who looks down on others."
+      "text": "Feeling the growing tension in the air, I\ninterrupt.\nAlthough Air Shakur is often\nmisunderstood, she's\nnever been\nsomeone who looks down on others.",
+      "choice_data_list": [
+        "N-Now, now!"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...Tch."
+      "text": "...Tch.",
+      "choice_data_list": [
+        "I think Shakur has another objective in mind."
+      ]
     },
     {
       "name": "Air Shakur",
@@ -99,7 +105,10 @@
     },
     {
       "name": "Monologue",
-      "text": "This race must be a special one, because\nthe\ncheers at the venue are almost wild\nin their\nintensity."
+      "text": "This race must be a special one, because\nthe\ncheers at the venue are almost wild\nin their\nintensity.",
+      "choice_data_list": [
+        "...That was amazing!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -143,11 +152,23 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Tch, high and mighty to the end. Thanks\nfor\nwasting my time."
+      "text": "Tch, high and mighty to the end. Thanks\nfor\nwasting my time.",
+      "choice_data_list": [
+        "Still, it turned into a great song!",
+        "Still, it turned into a great song, didn't it?",
+        "Did you really not collect any running data?",
+        "Did you really not collect any running data?"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Eh, it came out fine. It was something to\ndo, at\nleast."
+      "text": "Eh, it came out fine. It was something to\ndo, at\nleast.",
+      "choice_data_list": [
+        "Still, it turned into a great song!",
+        "Still, it turned into a great song, didn't it?",
+        "Did you really not collect any running data?",
+        "Did you really not collect any running data?"
+      ]
     },
     {
       "name": "Air Shakur",

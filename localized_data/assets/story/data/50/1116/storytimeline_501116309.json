@@ -57,13 +57,15 @@
       "name": "Narrator",
       "text": "Though she didn't get the result she \nwanted, everyone watching today \nacknowledges Gentildonna's overwhelming \nstrength.",
       "choice_data_list": [
-        "(Next time, I'll definitely lead her to \nvictory...!)"
+        "(Everyone is watching Gentil after her defeat.)"
       ]
     },
     {
       "name": "Verxina",
       "text": "Haa... haa...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Next time, I'll definitely guide her to victory...!)"
+      ]
     },
     {
       "name": "Spectators",
@@ -111,7 +113,10 @@
     {
       "name": "Gentildonna",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sorry I couldn't lead you to victory.",
+        "Sorry I couldn't lead you to victory."
+      ]
     },
     {
       "name": "Gentildonna",
@@ -125,13 +130,16 @@
       "name": "Narrator",
       "text": "...Frustration suddenly welled up within \nme. She is strong. Failing to draw out her \nfull potential was entirely my \nresponsibility.",
       "choice_data_list": [
-        "Next time, we'll win together."
+        "I lost right alongside you.",
+        "I lost right along with you."
       ]
     },
     {
       "name": "Gentildonna",
       "text": "……――",
-      "choice_data_list": []
+      "choice_data_list": [
+        "We'll win together next time."
+      ]
     },
     {
       "name": "Gentildonna",
@@ -164,14 +172,16 @@
       "name": "Gentildonna",
       "text": "Well, how about it? You're going to push \nme to greater heights, aren't you?",
       "choice_data_list": [
-        "Ah, to heights beyond your imagination",
-        "Yeah, to heights beyond your imagination."
+        "(Dig in!)"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "... You really said it, didn't you?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, to heights beyond your imagination.",
+        "Yeah, to heights beyond your imagination."
+      ]
     },
     {
       "name": "Gentildonna",
