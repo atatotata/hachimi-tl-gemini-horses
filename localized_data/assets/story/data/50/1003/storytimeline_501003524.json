@@ -47,7 +47,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I shout and dive in front of Tokai Teio,\njust\nmanaging to cover her. A moment\nlater, the juice\nfloods my mouth."
+      "text": "I shout and dive in front of Tokai Teio,\njust\nmanaging to cover her. A moment\nlater, the juice\nfloods my mouth.",
+      "choice_data_list": [
+        "Watch out, Teio!",
+        "We're not gonna make it...!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -55,11 +59,19 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Really?! Wow, what a relief!"
+      "text": "Really?! Wow, what a relief!",
+      "choice_data_list": [
+        "Don't worry, it was delicious.",
+        "Don't worry, it was delicious."
+      ]
     },
     {
       "name": "Everyone",
-      "text": "What?!"
+      "text": "What?!",
+      "choice_data_list": [
+        "Never mind that, it's time for training!",
+        "Never mind that, time for training!"
+      ]
     },
     {
       "name": "Monologue",

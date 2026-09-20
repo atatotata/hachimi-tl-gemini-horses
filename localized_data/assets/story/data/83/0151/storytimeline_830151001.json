@@ -107,7 +107,11 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Hmm... I'm feeling a little blue."
+      "text": "Hmm... I'm feeling a little blue.",
+      "choice_data_list": [
+        "Are you okay? What's the matter?",
+        "Are you okay? Is something wrong?"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -126,7 +130,10 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Things that are fun...?"
+      "text": "Things that are fun...?",
+      "choice_data_list": [
+        "A date is all about doing whatever feels fun to you."
+      ]
     },
     {
       "name": "Narrator",

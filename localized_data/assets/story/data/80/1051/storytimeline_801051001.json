@@ -19,7 +19,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "W-wait! I made lunch for you!"
+      "text": "W-wait! I made lunch for you!",
+      "choice_data_list": [
+        "I-I wonder..."
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +34,23 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hm. Well, then..."
+      "text": "Hm. Well, then...",
+      "choice_data_list": [
+        "What a cute side dish.",
+        "What a cute side dish, isn't it?",
+        "Looks nutritious.",
+        "Looks nutritious."
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Haha! Are those carrots cut into hearts\nand stars?\nYou even made the hot dog\nsausages look like\noctopuses."
+      "text": "Haha! Are those carrots cut into hearts\nand stars?\nYou even made the hot dog\nsausages look like\noctopuses.",
+      "choice_data_list": [
+        "What a cute side dish.",
+        "What a cute side dish, isn't it?",
+        "Looks nutritious.",
+        "Looks nutritious."
+      ]
     },
     {
       "name": "Agnes Tachyon",

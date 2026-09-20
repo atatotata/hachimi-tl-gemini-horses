@@ -22,7 +22,10 @@
     {
       "name": "Neo Universe",
       "text": "Neo Universe cannot eat it. Because—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Do you want to eat some?",
+        "Do you want to have some?"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -35,13 +38,15 @@
       "name": "Narrator",
       "text": "I'm surprised. Neo Universe having a \ncavity... I could never have imagined her \ngetting something like that...",
       "choice_data_list": [
-        "Then let's go get you checked out!"
+        "Wait, could it be... a cavity!?"
       ]
     },
     {
       "name": "Neo Universe",
       "text": "A medical checkup... I'm guessing \n\"NOST\"...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Then let's go for a checkup!"
+      ]
     },
     {
       "name": "Dentist",
@@ -74,7 +79,10 @@
     {
       "name": "Narrator",
       "text": "They found no cavities at all, and the \nvisit ended with praise for my \nwell-aligned teeth. Then what's causing \nthe pain...?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What's going on here...?",
+        "What does this even mean..."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -91,7 +99,9 @@
     {
       "name": "Neo Universe",
       "text": "\"This pain will not subside. What will \nsubside is—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What do you mean?"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -108,7 +118,9 @@
     {
       "name": "Neo Universe",
       "text": "—Affirmative. Yes. More importantly, Neo \nUniverse...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Do we just have to bear with it for a while?"
+      ]
     },
     {
       "name": "Narrator",

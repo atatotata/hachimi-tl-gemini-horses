@@ -23,7 +23,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Ah, don't worry. It isn't a literal fight or\nanything."
+      "text": "Ah, don't worry. It isn't a literal fight or\nanything.",
+      "choice_data_list": [
+        "A fight?!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -71,7 +74,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Not at all. Well, you can just see for\nyourself."
+      "text": "Not at all. Well, you can just see for\nyourself.",
+      "choice_data_list": [
+        "Am I being a bother...?"
+      ]
     },
     {
       "name": "Inari One",
@@ -135,11 +141,21 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems Inari's straightforward energy\nserves as a\nsource of support for those\naround her. Gold City\nand Chiyono O\nbreak out into smiles at being\n\"called\nout\" by their peer."
+      "text": "It seems Inari's straightforward energy\nserves as a\nsource of support for those\naround her. Gold City\nand Chiyono O\nbreak out into smiles at being\n\"called\nout\" by their peer.",
+      "choice_data_list": [
+        "Go out there and \"brawl\" with all your might!",
+        "Go \"brawl\" with all your might!",
+        "Just watching makes me want to go for a run too."
+      ]
     },
     {
       "name": "Inari One",
-      "text": "All righty then! Let's do this, City,\nChiyono O! The\nrest of ya, keep your\neyes peeled!"
+      "text": "All righty then! Let's do this, City,\nChiyono O! The\nrest of ya, keep your\neyes peeled!",
+      "choice_data_list": [
+        "Go out there and \"brawl\" with all your might!",
+        "Go \"brawl\" with all your might!",
+        "Just watching makes me want to go for a run too."
+      ]
     },
     {
       "name": "Inari One",

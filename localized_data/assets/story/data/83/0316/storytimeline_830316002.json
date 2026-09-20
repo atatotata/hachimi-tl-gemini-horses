@@ -10,7 +10,10 @@
     },
     {
       "name": "Samson Big",
-      "text": "Ah, Trainer-san! Yes, that's right."
+      "text": "Ah, Trainer-san! Yes, that's right.",
+      "choice_data_list": [
+        "Hey, practicing your instrument?"
+      ]
     },
     {
       "name": "Samson Big",
@@ -21,7 +24,10 @@
     },
     {
       "name": "Samson Big",
-      "text": "No, actually not at all! But when I saw \nthe poster calling for challengers, I just \ncouldn't sit still!"
+      "text": "No, actually not at all! But when I saw \nthe poster calling for challengers, I just \ncouldn't sit still!",
+      "choice_data_list": [
+        "A contest! So you're good on the bass?"
+      ]
     },
     {
       "name": "Samson Big",
@@ -36,7 +42,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...It's nothing."
+      "text": "...It's nothing.",
+      "choice_data_list": [
+        "Is something wrong?",
+        "Is something wrong?"
+      ]
     },
     {
       "text": "After that, whenever I happened to catch \nsight of Samson Big around the academy..."
@@ -151,15 +161,10 @@
     },
     {
       "name": "Samson Big",
-      "text": "Ah, from the other day! Ehehe, does it \nlook that way?"
-    },
-    {
-      "name": "Samson Big",
-      "text": "Whenever Big is having trouble, she \nteaches me from time to time! Brian-chan \nis really kind, isn't she?♪",
+      "text": "Ah, from the other day! Ehehe, does it \nlook that way?",
       "choice_data_list": [
-        "Kind... Yeah, maybe she really is.",
-        "If you win, you'll have to thank her.",
-        "If you win, you'll have to thank her."
+        "You're pretty close with Narita Brian, huh.",
+        "You're pretty close with Narita Brian, aren't you."
       ]
     },
     {
@@ -173,7 +178,21 @@
     },
     {
       "name": "Samson Big",
-      "text": "Right, right! It might be hard to tell a \nlot of the time, but Brian-chan is super \nthoughtful!"
+      "text": "Whenever Big is having trouble, she \nteaches me from time to time! Brian-chan \nis really kind, isn't she?♪",
+      "choice_data_list": [
+        "Kind... Yeah, maybe you're right.",
+        "If we win, we'll have her to thank.",
+        "If we win, we'll have her to thank, right?"
+      ]
+    },
+    {
+      "name": "Samson Big",
+      "text": "Right, right! It might be hard to tell a \nlot of the time, but Brian-chan is super \nthoughtful!",
+      "choice_data_list": [
+        "Kind... Yeah, maybe you're right.",
+        "If we win, we'll have her to thank.",
+        "If we win, we'll have her to thank, right?"
+      ]
     },
     {
       "name": "Samson Big",

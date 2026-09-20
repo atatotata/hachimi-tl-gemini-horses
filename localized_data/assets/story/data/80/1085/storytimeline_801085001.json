@@ -47,11 +47,23 @@
     },
     {
       "name": "Monologue",
-      "text": "Her expression is so grave, I can't help\nbut say\nsomething."
+      "text": "Her expression is so grave, I can't help\nbut say\nsomething.",
+      "choice_data_list": [
+        "It's already night. Why not head home and rest?",
+        "It's already night. Why don't you head home and rest?",
+        "Is there anything I can do to help?",
+        "Is there anything I can do to help?"
+      ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "It's already night. Why not head home and rest?",
+        "It's already night. Why don't you head home and rest?",
+        "Is there anything I can do to help?",
+        "Is there anything I can do to help?"
+      ]
     },
     {
       "name": "Daiichi Ruby",

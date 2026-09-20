@@ -31,7 +31,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Why, thank you. I think I'll go with the\nchestnut\none, then."
+      "text": "Why, thank you. I think I'll go with the\nchestnut\none, then.",
+      "choice_data_list": [
+        "Everyone, grab whatever you like."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -55,7 +58,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "We can just split it.",
+        "You could always just compete."
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +158,10 @@
     },
     {
       "name": "Both",
-      "text": "That's it!"
+      "text": "That's it!",
+      "choice_data_list": [
+        "Why not settle it fairly in a race?"
+      ]
     },
     {
       "name": "Monologue",
@@ -167,7 +177,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Thank you. Good luck with those two!"
+      "text": "Thank you. Good luck with those two!",
+      "choice_data_list": [
+        "I'll go deliver it.",
+        "I'll go deliver it."
+      ]
     },
     {
       "name": "Tokai Teio",

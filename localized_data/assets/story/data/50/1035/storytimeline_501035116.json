@@ -43,7 +43,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Uh-huh! For real!"
+      "text": "Uh-huh! For real!",
+      "choice_data_list": [
+        "That was an intense race.",
+        "That was an intense race, wasn't it?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -79,7 +83,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "But at this rate, I'll be left behind! I\nwon't be able\nto run an exciting race!"
+      "text": "But at this rate, I'll be left behind! I\nwon't be able\nto run an exciting race!",
+      "choice_data_list": [
+        "This is already too much.",
+        "This is already too much."
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +99,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Tomorrow?"
+      "text": "Tomorrow?",
+      "choice_data_list": [
+        "Let's channel that into tomorrow's training!"
+      ]
     },
     {
       "name": "Winning Ticket",

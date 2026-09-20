@@ -151,7 +151,9 @@
     {
       "name": "Durandal",
       "text": "T-Trainer-dono?! N-No, well, um...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I wanted to talk to you for a sec... Are you busy right now?"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -163,7 +165,9 @@
     {
       "name": "Durandal",
       "text": "T-Trainer-dono?! Please don't tease me so \nmu—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...I'm a little curious."
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -178,15 +182,19 @@
       "name": "Calstone Light O",
       "text": "She was repeatedly turning over in her \nmind what sounded like pieces of advice \nshe received during training.",
       "choice_data_list": [
-        "Training at full power even in your \nsleep... impressive as always.",
-        "Training at full power even in your \nsleep... impressive as always, huh?",
-        "All that patient coaching really paid off, \nhuh."
+        "Full-power training even in your sleep... That's impressive.",
+        "Full-power training even in your sleep... Impressive as always.",
+        "All that patient coaching really paid off, huh?"
       ]
     },
     {
       "name": "Durandal",
       "text": "\"...Of course! As my lord's sword, even \nwithin a dream is a place to train!\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Full-power training even in your sleep... That's impressive.",
+        "Full-power training even in your sleep... Impressive as always.",
+        "All that patient coaching really paid off, huh?"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -219,7 +227,10 @@
     {
       "name": "Durandal",
       "text": "...I am unworthy of such praise, but it \nbraces my resolve! I will press forward \nwith all my might!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll do my best to give you helpful guidance too.",
+        "I'll do my best to give helpful guidance too."
+      ]
     }
   ]
 }

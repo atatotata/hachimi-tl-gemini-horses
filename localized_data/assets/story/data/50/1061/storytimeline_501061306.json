@@ -51,7 +51,11 @@
     },
     {
       "name": "King Halo",
-      "text": "Yeah, I'm fine, besides the fact that I\nlost."
+      "text": "Yeah, I'm fine, besides the fact that I\nlost.",
+      "choice_data_list": [
+        "...Are you okay?",
+        "...Are you okay?"
+      ]
     },
     {
       "name": "King Halo",
@@ -151,7 +155,10 @@
     },
     {
       "name": "King Halo",
-      "text": "There's no need to worry."
+      "text": "There's no need to worry.",
+      "choice_data_list": [
+        "Isn't your body feeling tired?"
+      ]
     },
     {
       "name": "King Halo",

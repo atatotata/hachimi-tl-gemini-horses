@@ -31,7 +31,9 @@
     {
       "name": "Stay Gold",
       "text": "Oh, what's this? An electrical discharge \ndemonstration?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "W-Wait, hold on!"
+      ]
     },
     {
       "name": "Narrator",
@@ -55,14 +57,17 @@
       "name": "Stay Gold",
       "text": "Yeah, it's really well made. Looks just \nlike the real thing.",
       "choice_data_list": [
-        "Huh! You've seen a fire before!?",
-        "Huh! Have you seen a fire before!?"
+        "Whoa! I'm really learning a lot here.",
+        "Whoa! That's really educational."
       ]
     },
     {
       "name": "Stay Gold",
       "text": "\"Yeah, lightning strikes happen pretty \noften when you're traveling. And well, \nsometimes that ends up starting a fire.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?! You've seen a fire before?!",
+        "Huh?! You've seen a fire before?!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -90,7 +95,10 @@
     {
       "name": "Stay Gold",
       "text": "Ah—those are ice crystals blooming on the \nlake. Limited in both season and location. \nThey're a rare sight that you don't often \nget the chance to see.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You know about this?",
+        "You know about this?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -113,7 +121,10 @@
     {
       "name": "Stay Gold",
       "text": "Yeah. It was pretty much just like this.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is the real thing actually like this?",
+        "Is the real thing actually like this?"
+      ]
     },
     {
       "name": "Narrator",
@@ -145,7 +156,9 @@
     {
       "name": "Stay Gold",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Something, anything...!!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -158,7 +171,10 @@
     {
       "name": "Stay Gold",
       "text": "Clouds? ...—!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Hey, look at that cloud! Isn't it gorgeous?",
+        "Hey, look at that cloud! Isn't it so pretty?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -175,7 +191,9 @@
     {
       "name": "Stay Gold",
       "text": "Ah, it's a natural optical phenomenon! \nHowever, since it depends on the sun's \nposition and cloud conditions, the timing \nis quite tricky.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "A-An iridescent cloud?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -192,7 +210,9 @@
     {
       "name": "Stay Gold",
       "text": "! ...—Heh.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...Thank goodness.)"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -205,7 +225,10 @@
     {
       "name": "Stay Gold",
       "text": "Hahaha... N-No, it's just, you were \nfrantically darting your eyes around, and \nthen looked so blatantly relieved—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wh-Why are you laughing?",
+        "Wh-What are you laughing at?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -217,7 +240,9 @@
     {
       "name": "Stay Gold",
       "text": "Can you blame me? I meanâ",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Y-You don't have to laugh that hard..."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -230,7 +255,10 @@
     {
       "name": "Stay Gold",
       "text": "Yeah. ...I see, Trainer. So you can make \nthat kind of face too, huh.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh? Mine?",
+        "Huh? Mine?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -250,22 +278,26 @@
       "name": "Stay Gold",
       "text": "Today sure was a day full of sights to \nsee.",
       "choice_data_list": [
-        "...Then, where should we go hang out next?",
-        "Someday, let's go see something you've \nnever seen before.",
-        "Someday, let's go see something you've \nnever seen before."
+        "...Then where should we go hang out next?",
+        "Someday, let's go see something you've never seen before.",
+        "Someday, let's go see something you've never seen before."
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Haha, planning for the next trip already? \nIf you want, you can pick our destination \nnext time too.",
       "choice_data_list": [
-        "...Did you have fun today?"
+        "...Then where should we go hang out next?",
+        "Someday, let's go see something you've never seen before.",
+        "Someday, let's go see something you've never seen before."
       ]
     },
     {
       "name": "Stay Gold",
       "text": "Now then. I wonder about that?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Did you have fun today, by any chance?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -288,7 +320,10 @@
     {
       "name": "Stay Gold",
       "text": "\"—Heh, is that so? Then let's go. Someday, \nthat is.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Even so, I want to go with you.",
+        "Even so, I want to go with you."
+      ]
     }
   ]
 }

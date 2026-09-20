@@ -12,14 +12,16 @@
       "name": "Narita Top Road",
       "text": "Okaaay!",
       "choice_data_list": [
-        "Alright, got a perfect shot of that smile!",
-        "Alright, got a perfect smiling shot!"
+        "Alright then, taking the picture! Say cheese!"
       ]
     },
     {
       "name": "Narita Top Road",
       "text": "Thank you! With this, the fan letter \nrequest for \"a picture of your smile\" is \nall taken care of!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Alright, got a picture-perfect smile.",
+        "Alright, got a picture-perfect smile."
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -31,7 +33,9 @@
     {
       "name": "Narita Top Road",
       "text": "Are you sure!? There are so many request \nletters, so I'd love your help!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is there anything else I can help with?"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -75,13 +79,16 @@
       "name": "Narita Top Road",
       "text": "Gasp!? I-I'm okay!! I was just spacing out \na bit...",
       "choice_data_list": [
-        "If you're tired, we can do it tomorrow—"
+        "Are you okay, Top Road?",
+        "Are you okay, Top Road?"
       ]
     },
     {
       "name": "Narita Top Road",
       "text": "! No, please let me continue! I won't push \nmyself too hard, of course.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "If you're tired, we can save it for tomorrow—"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -98,7 +105,9 @@
     {
       "name": "Narita Top Road",
       "text": "Thank you, Trainer!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...All right. I'll help you to the very end!"
+      ]
     },
     {
       "name": "Narrator",
@@ -111,14 +120,16 @@
       "name": "Narita Top Road",
       "text": "*Zzz*... *zzz*. *Zzz*... *zzzzz*.",
       "choice_data_list": [
-        "You did so well right up to the very end.",
-        "You did so well right up to the very end, \ndidn't you?"
+        "All right, that takes care of all the replies—"
       ]
     },
     {
       "name": "Narita Top Road",
       "text": "Fufu... Thank... you... Everyo... mnya.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You really hung in there till the end.",
+        "You really did your best right to the end."
+      ]
     },
     {
       "name": "Narrator",

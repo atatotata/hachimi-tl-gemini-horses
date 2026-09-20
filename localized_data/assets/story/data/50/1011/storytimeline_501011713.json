@@ -11,11 +11,19 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "<i>Sigh...</i> I apologize for the inconvenience."
+      "text": "<i>Sigh...</i> I apologize for the inconvenience.",
+      "choice_data_list": [
+        "That was carelessness on my part.",
+        "Let's rest today and give it our best again!"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Trainer! This wasn't your fault in any\nway."
+      "text": "Trainer! This wasn't your fault in any\nway.",
+      "choice_data_list": [
+        "It was careless of me.",
+        "Let's rest today and give it our best again!"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -23,7 +31,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes. You're right."
+      "text": "Yes. You're right.",
+      "choice_data_list": [
+        "Then, let's both be careful."
+      ]
     },
     {
       "name": "Grass Wonder",

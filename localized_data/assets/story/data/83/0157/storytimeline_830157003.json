@@ -83,7 +83,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "No... today, there are others..."
+      "text": "No... today, there are others...",
+      "choice_data_list": [
+        "Are you all on your own again today...?",
+        "Are you all by yourself again today...?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -106,22 +110,27 @@
       "name": "Manhattan Cafe",
       "text": "Today... the three of us... made plans to \ntrain together...",
       "choice_data_list": [
-        "Looks like you're having more fun than \nbefore!",
-        "You look like you're enjoying yourself \nmore than before!",
-        "Since I'm here, mind if I watch your \ntraining?"
+        "You look like you're having more fun than before!",
+        "You look like you're having more fun than before!",
+        "Since we're here, want me to watch your training?"
       ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "............Does it... seem that way to \nyou...?",
       "choice_data_list": [
-        "Yeah, everyone looks like they're having a \nblast!",
-        "Yeah, everyone looks like they're having \nfun!"
+        "You look like you're having more fun than before!",
+        "You look like you're having more fun than before!",
+        "Since we're here, want me to watch your training?"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I see... If so... I'm glad, then..."
+      "text": "I see... If so... I'm glad, then...",
+      "choice_data_list": [
+        "Yeah, everyone looks like they're having a blast!",
+        "Yeah, everyone looks like they're having fun!"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -160,7 +169,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...See... what did I tell you?"
+      "text": "...See... what did I tell you?",
+      "choice_data_list": [
+        "Wh... Wh-Whaaat?!"
+      ]
     },
     {
       "name": "Narrator",

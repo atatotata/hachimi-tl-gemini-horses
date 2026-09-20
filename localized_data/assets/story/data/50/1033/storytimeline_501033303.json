@@ -107,7 +107,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "But you're my trainer... What do you\nthink?"
+      "text": "But you're my trainer... What do you\nthink?",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,7 +126,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Good, then that's that."
+      "text": "Good, then that's that.",
+      "choice_data_list": [
+        "I agree. Let's aim for the 'Hopeful Stakes'.",
+        "I agree. Let's aim for the Hopeful Stakes."
+      ]
     },
     {
       "name": "Monologue",
@@ -139,7 +146,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "My goal is to run in a junior-year G1\nrace. Or...\nactually, my goal is to win it."
+      "text": "My goal is to run in a junior-year G1\nrace. Or...\nactually, my goal is to win it.",
+      "choice_data_list": [
+        "Hm?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -151,7 +161,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Yeah, get home safe, okay—",
+        "Yeah, get home safe—"
+      ]
     },
     {
       "name": "Admire Vega",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Thank you."
+      "text": "...Thank you.",
+      "choice_data_list": [
+        "Good work, Cafe!"
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +90,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I..."
+      "text": "I...",
+      "choice_data_list": [
+        "Tell me how you feel, Cafe.",
+        "Tell me how you feel, Cafe."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -99,7 +106,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Her friend's voice slightly sways my\njudgment as\nher trainer."
+      "text": "Her friend's voice slightly sways my\njudgment as\nher trainer.",
+      "choice_data_list": [
+        "――Let's enter."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -111,7 +121,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Perish the thought. I'm only on this path\nwith you\nbecause I trust in Cafe and her\npotential."
+      "text": "Perish the thought. I'm only on this path\nwith you\nbecause I trust in Cafe and her\npotential.",
+      "choice_data_list": [
+        "Are you opposed to it?",
+        "Are you against it?"
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -27,13 +27,15 @@
       "name": "Jungle Pocket",
       "text": "You don't happen to have nunchucks on ya, \ndo you? Nunchucks.",
       "choice_data_list": [
-        "Nunchucks!? I don't have any, what are you \ntalking about!?"
+        "What is it?"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Nah, it's fine. If you don't have it, \nnothing can be done.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Nunchucks!? I don't have any, what are you talking about!?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -60,7 +62,9 @@
     {
       "name": "",
       "text": "Did Jungle Pocket beat them in a fight? As \nI watched the situation unfold...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――！！"
+      ]
     },
     {
       "name": "Air Messiah",
@@ -234,7 +238,7 @@
     },
     {
       "name": "Female Fans",
-      "text": "Kyaaaaaah, it's Jungle Pocket! \nPokke-samaー!!",
+      "text": "Kyaaaaaah, it's Jungle Pocket! \nPokke-sama!!",
       "choice_data_list": []
     },
     {
@@ -258,14 +262,16 @@
       "name": "Jungle Pocket",
       "text": "What is it?",
       "choice_data_list": [
-        "You're so popular. And you're good at \nhandling it, too.",
-        "You're quite popular, huh? And you're so \ngood at handling it, too."
+        "Pokke..."
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "That's not it! These guys have got it all \nwrong!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You're quite popular. And you handle them so well, too.",
+        "You're really popular. And you handle them so well, too."
+      ]
     },
     {
       "name": "Jungle Pocket",

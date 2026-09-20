@@ -11,7 +11,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "What would you like to know about?"
+      "text": "What would you like to know about?",
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Don't listen to the explanation"
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +23,13 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Right, the Grand Concert."
+      "text": "Right, the Grand Concert.",
+      "choice_data_list": [
+        "About the Grand Live",
+        "About the performance",
+        "About Lessons",
+        "I'm fine now."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -143,7 +153,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Okay. ♪ I've prepared a summary of\neverything\nyou need to know, just in\ncase."
+      "text": "Okay. ♪ I've prepared a summary of\neverything\nyou need to know, just in\ncase.",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

@@ -21,13 +21,17 @@
       "name": "Hokko Tarumae",
       "text": "Hyah! T-Trainer-san from the academy!?",
       "choice_data_list": [
-        "Live activities seem tough.",
-        "Doing lives looks tough."
+        "Seems like you're really agonizing over it.",
+        "Seems like you're really agonizing over it, aren't you."
       ]
     },
     {
       "name": "Hokko Tarumae",
-      "text": "Ugh... Well, it is tough, but I'm \nmanaging."
+      "text": "Ugh... Well, it is tough, but I'm \nmanaging.",
+      "choice_data_list": [
+        "Concert activities look pretty tough.",
+        "Concert activities look pretty tough, huh."
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -45,7 +49,10 @@
       ]
     },
     {
-      "text": "Looking over, Smart Falcon appeared to be \nholding a street live. Likely sponsored by \nthe shopping district, shop banners were \nvisible around the stage."
+      "text": "Looking over, Smart Falcon appeared to be \nholding a street live. Likely sponsored by \nthe shopping district, shop banners were \nvisible around the stage.",
+      "choice_data_list": [
+        "That's..."
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -156,14 +163,19 @@
       "name": "Hokko Tarumae",
       "text": "I'm going to face them properly! And I'll \nmake it a live show that brings joy to \neveryone!",
       "choice_data_list": [
-        "Sounds great, do your best!",
-        "Looks like I don't need to worry about you \nanymore.",
-        "Looks like there's nothing to worry about \nanymore."
+        "Sounds good to me! Do your best!",
+        "Looks like there's nothing to worry about anymore.",
+        "Looks like there's no need to worry anymore."
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Mhm, mhm♪ With how you are now, \nTarumae-chan, you'll be just fine!"
+      "text": "Mhm, mhm♪ With how you are now, \nTarumae-chan, you'll be just fine!",
+      "choice_data_list": [
+        "Sounds good to me! Do your best!",
+        "Looks like there's nothing to worry about anymore.",
+        "Looks like there's no need to worry anymore."
+      ]
     },
     {
       "name": "Hokko Tarumae",

@@ -139,7 +139,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh, umm... I'm looking for a place where\nwe can\nrehearse for the party..."
+      "text": "Oh, umm... I'm looking for a place where\nwe can\nrehearse for the party...",
+      "choice_data_list": [
+        "Did something happen?",
+        "Is something wrong?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -147,11 +151,21 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I want this to be an absolute success, so\nI need to\nmake sure the preparations are\nperfect!"
+      "text": "I want this to be an absolute success, so\nI need to\nmake sure the preparations are\nperfect!",
+      "choice_data_list": [
+        "I'm sure it'll be a fun party.",
+        "I'll help you look too.",
+        "I'll help look for it too."
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Yeah, I think so too! Especially since\neveryone is\nworking so hard for my sake!"
+      "text": "Yeah, I think so too! Especially since\neveryone is\nworking so hard for my sake!",
+      "choice_data_list": [
+        "I'm sure it'll be a fun party.",
+        "I'll help you look too.",
+        "I'll help look for it too."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -163,7 +177,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Th-thank you! I really appreciate it!"
+      "text": "Th-thank you! I really appreciate it!",
+      "choice_data_list": [
+        "Because I'd be happy if I could help."
+      ]
     },
     {
       "name": "Monologue",

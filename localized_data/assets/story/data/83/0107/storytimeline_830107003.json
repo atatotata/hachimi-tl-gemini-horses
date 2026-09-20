@@ -11,7 +11,11 @@
     },
     {
       "name": "Reporter A",
-      "text": "I heard they renovated the place, but I\ndon't see\nany changes."
+      "text": "I heard they renovated the place, but I\ndon't see\nany changes.",
+      "choice_data_list": [
+        "W-Well, it's lively enough to make you think that!",
+        "W-Well, it's packed enough to make you think that!"
+      ]
     },
     {
       "name": "Reporter B",
@@ -43,7 +47,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Let's start off with the spa! The steam\nwill melt\naway your built-up fatigue. ♪"
+      "text": "Let's start off with the spa! The steam\nwill melt\naway your built-up fatigue. ♪",
+      "choice_data_list": [
+        "P-Please take good care of me...!"
+      ]
     },
     {
       "name": "Butler",
@@ -59,7 +66,11 @@
     },
     {
       "name": "Reporter A",
-      "text": "Well, this is nothing special. Any\nestablishment\ncould provide the same\nservice if they wanted to."
+      "text": "Well, this is nothing special. Any\nestablishment\ncould provide the same\nservice if they wanted to.",
+      "choice_data_list": [
+        "You can actually get that ready...?!",
+        "You can get that ready...?!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -147,7 +158,10 @@
     },
     {
       "name": "Manager",
-      "text": "Oh! Th-thank you so much!"
+      "text": "Oh! Th-thank you so much!",
+      "choice_data_list": [
+        "We'll definitely come again!"
+      ]
     },
     {
       "name": "Monologue",

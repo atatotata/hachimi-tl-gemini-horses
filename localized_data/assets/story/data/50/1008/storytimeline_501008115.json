@@ -27,15 +27,24 @@
     },
     {
       "name": "Vodka",
-      "text": "Now I've done it..."
+      "text": "Now I've done it...",
+      "choice_data_list": [
+        "Sounded like there was a weird noise just now..."
+      ]
     },
     {
       "name": "Vodka",
-      "text": "I messed up. I made a really cool turn\naround that\ncorner, and ended up\ntwisting my ankle."
+      "text": "I messed up. I made a really cool turn\naround that\ncorner, and ended up\ntwisting my ankle.",
+      "choice_data_list": [
+        "What did?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "<i>Wee woo wee woo...</i>"
+      "text": "<i>Wee woo wee woo...</i>",
+      "choice_data_list": [
+        "……！？"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -71,7 +80,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Well, I guess there's no helping it."
+      "text": "Well, I guess there's no helping it.",
+      "choice_data_list": [
+        "For now, the expedition is canceled.",
+        "For now, we're calling off the expedition."
+      ]
     },
     {
       "name": "Monologue",
@@ -163,7 +176,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Haha. You sure are crazy, partner.\nCompletely\ndifferent from <i>her.</i>"
+      "text": "Haha. You sure are crazy, partner.\nCompletely\ndifferent from <i>her.</i>",
+      "choice_data_list": [
+        "Don't sweat it, it keeps things interesting.",
+        "Don't worry about it, it never gets old and it's fun."
+      ]
     },
     {
       "name": "Vodka",

@@ -19,7 +19,11 @@
     },
     {
       "name": "Monologue",
-      "text": "My motivation renewed, I sit down to\ndraft a solid\nrace agenda."
+      "text": "My motivation renewed, I sit down to\ndraft a solid\nrace agenda.",
+      "choice_data_list": [
+        "(As her Trainer, I've got to step up!)",
+        "(As her Trainer, I've got to give it my all!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +35,18 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Ohhh! That's a G1 race! Sounds fun!"
+      "text": "Ohhh! That's a G1 race! Sounds fun!",
+      "choice_data_list": [
+        "How about the 'Hopeful Stakes'?",
+        "How about the 'Hopeful Stakes'?"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "Do your best and get great results!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -103,7 +114,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Huuuh?! Even though I'm trying so hard?"
+      "text": "Huuuh?! Even though I'm trying so hard?",
+      "choice_data_list": [
+        "Not really..."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -119,7 +133,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Biwa Hayahide is a good friend to\nTicket. Maybe\nshe can help us figure\nsomething out."
+      "text": "Biwa Hayahide is a good friend to\nTicket. Maybe\nshe can help us figure\nsomething out.",
+      "choice_data_list": [
+        "(That's right...!)"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -203,11 +220,17 @@
     },
     {
       "name": "Monologue",
-      "text": "To confirm, I look at my stopwatch and\nsee...\nshe's beaten her personal record!"
+      "text": "To confirm, I look at my stopwatch and\nsee...\nshe's beaten her personal record!",
+      "choice_data_list": [
+        "(Wasn't that actually a pretty good time...?)"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Huh? What is it?"
+      "text": "Huh? What is it?",
+      "choice_data_list": [
+        "Ticket! Look!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -223,7 +246,10 @@
     },
     {
       "name": "Monologue",
-      "text": "\"UWAAAGH! I won't lose, I won't lose, I\nWON'T\nLOSE!\""
+      "text": "\"UWAAAGH! I won't lose, I won't lose, I\nWON'T\nLOSE!\"",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "name": "Monologue",
@@ -259,7 +285,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No... I wasn't certain. However, I've had\na similar\nexperience myself, you see."
+      "text": "No... I wasn't certain. However, I've had\na similar\nexperience myself, you see.",
+      "choice_data_list": [
+        "Did you enter the race... knowing full well?"
+      ]
     },
     {
       "name": "Biwa Hayahide",

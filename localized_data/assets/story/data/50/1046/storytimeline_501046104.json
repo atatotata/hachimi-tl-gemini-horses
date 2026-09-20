@@ -19,7 +19,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "<i>Huff...</i> It's okay! I can... keep going!"
+      "text": "<i>Huff...</i> It's okay! I can... keep going!",
+      "choice_data_list": [
+        "Want to take a break soon?",
+        "Want to take a break soon?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -35,15 +39,25 @@
     },
     {
       "name": "",
-      "text": "She's been overexerting herself, though.\nI need\nsomething she can enjoy without\nputting too\nmuch stress on her body..."
+      "text": "She's been overexerting herself, though.\nI need\nsomething she can enjoy without\nputting too\nmuch stress on her body...",
+      "choice_data_list": [
+        "(Her sports-grit switch is totally flipped...)"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "A dance lesson! Like special Umadol\ntraining,\nright?"
+      "text": "A dance lesson! Like special Umadol\ntraining,\nright?",
+      "choice_data_list": [
+        "Core Strength! Dance Lessons on the Beach",
+        "Patience! Dance lessons at the training camp."
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "All right! Let's dance!"
+      "text": "All right! Let's dance!",
+      "choice_data_list": [
+        "Let's strengthen your core on the beach."
+      ]
     },
     {
       "name": "",
@@ -59,7 +73,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Hold on, Trainer! I'm okay!"
+      "text": "Hold on, Trainer! I'm okay!",
+      "choice_data_list": [
+        "Falco...!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -79,7 +96,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Trainer!"
+      "text": "Trainer!",
+      "choice_data_list": [
+        "...You're the next prima, Falco!",
+        "...You're the next prima, Falco!"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -99,7 +120,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "You'll understand once you try."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -107,15 +131,26 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Why, you! You can't just have ramen\nright in front\nof my face like this!"
+      "text": "Why, you! You can't just have ramen\nright in front\nof my face like this!",
+      "choice_data_list": [
+        "*Slurp*... Come on, keep dancing."
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "<i>Gulp!</i> I-I want some too! Just a bite..."
+      "text": "<i>Gulp!</i> I-I want some too! Just a bite...",
+      "choice_data_list": [
+        "The deep seafood flavor is delicious!",
+        "The rich seafood flavor is so delicious!"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Uggghhh! You're a monster!"
+      "text": "Uggghhh! You're a monster!",
+      "choice_data_list": [
+        "After we dance through one whole set... *slurp*",
+        "After we dance through one whole set... *slurp*"
+      ]
     },
     {
       "name": "Umamusume A",

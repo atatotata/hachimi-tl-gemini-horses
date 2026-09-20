@@ -63,7 +63,10 @@
     },
     {
       "name": "Monologue",
-      "text": "That on its own is enough of a sign that\n\nsomething is wrong."
+      "text": "That on its own is enough of a sign that\n\nsomething is wrong.",
+      "choice_data_list": [
+        "(Huh, still in uniform...?)"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -79,11 +82,18 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "Ayabe"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "You understand \"yourself\" pretty well by now, don't you?",
+        "You understand 'yourself' pretty well by now, don't you?"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +101,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Tell me what you want to do."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -103,7 +116,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Thank you."
+      "text": "...Thank you.",
+      "choice_data_list": [
+        "Alright, got it!",
+        "Yeah, got it!"
+      ]
     },
     {
       "name": "Narita Top Road",

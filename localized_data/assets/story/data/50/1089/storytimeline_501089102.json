@@ -173,7 +173,11 @@
     {
       "name": "Cheval Grand",
       "text": "Ah, yes...! I was just getting thirsty \nmyself—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Shall we grab some tea before heading back?",
+        "Well then, let's go get some exercise!",
+        "Mind if we stop by the bookstore?"
+      ]
     },
     {
       "name": "",
@@ -206,7 +210,10 @@
     {
       "name": "Cheval Grand",
       "text": "Y-Yes, you're right. It's beautiful... Is \nthis a violin?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Do you hear something?",
+        "...Can you hear that?"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -239,7 +246,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—If that's how it is.",
       "choice_data_list": []
     },
@@ -293,7 +300,9 @@
     {
       "name": "Cheval Grand",
       "text": "Ah, true. Above the game center—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wasn't there a batting center nearby?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -385,7 +394,9 @@
     {
       "name": "",
       "text": "One of Cheval Grand's hobbies is fishing. \nAs her trainer, I thought it would be \ngreat to find more ways we could enjoy it \ntogether.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I wanted a book on how to clean fish."
+      ]
     },
     {
       "name": "Cheval Grand",

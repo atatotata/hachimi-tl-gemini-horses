@@ -47,7 +47,11 @@
     },
     {
       "name": "Narrator",
-      "text": "—And so, race day arrived. I was curious \nmyself, so I joined Vodka to watch her \njunior's run."
+      "text": "—And so, race day arrived. I was curious \nmyself, so I joined Vodka to watch her \njunior's run.",
+      "choice_data_list": [
+        "(She's really shaping up for the race.)",
+        "(She's really shaping up for the race, isn't she.)"
+      ]
     },
     {
       "name": "Vodka",
@@ -102,7 +106,10 @@
     },
     {
       "name": "Vodka",
-      "text": "Heheh, hell yeah!"
+      "text": "Heheh, hell yeah!",
+      "choice_data_list": [
+        "That was such a kind, spot-on cheer!"
+      ]
     },
     {
       "name": "Vodka",

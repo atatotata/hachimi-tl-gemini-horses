@@ -7,7 +7,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "The shop we were looking for the other\nday. You\nknow, with the cherry pie?"
+      "text": "The shop we were looking for the other\nday. You\nknow, with the cherry pie?",
+      "choice_data_list": [
+        "Of course. Where are you heading?",
+        "Of course. Where are you heading?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -15,7 +19,10 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "We're looking for a red roof. Reeed\nroof...\nHmmm..."
+      "text": "We're looking for a red roof. Reeed\nroof...\nHmmm...",
+      "choice_data_list": [
+        "Understood. Shall we head over, then?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -27,7 +34,10 @@
     },
     {
       "name": "Bakery Owner",
-      "text": "Good afternoon! What can I get for you?"
+      "text": "Good afternoon! What can I get for you?",
+      "choice_data_list": [
+        "Found it!!"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -47,7 +57,10 @@
     },
     {
       "name": "Bakery Owner",
-      "text": "We don't even have the ingredients, I'm\nafraid.\nI'm sorry you came all this way..."
+      "text": "We don't even have the ingredients, I'm\nafraid.\nI'm sorry you came all this way...",
+      "choice_data_list": [
+        "Is that so?"
+      ]
     },
     {
       "name": "Bakery Owner",
@@ -67,7 +80,10 @@
     },
     {
       "name": "Monologue",
-      "text": "We purchase a few pastries as a token of\nthanks\nfor the recipe, then stop by a\ngrocery store on\nour way back to buy\nthe ingredients for the pie."
+      "text": "We purchase a few pastries as a token of\nthanks\nfor the recipe, then stop by a\ngrocery store on\nour way back to buy\nthe ingredients for the pie.",
+      "choice_data_list": [
+        "(At least we managed to find the recipe.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -119,15 +135,33 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh my, there's no need to thank me for\n\nsomething like this. I'm happy to do it\nanytime."
+      "text": "Oh my, there's no need to thank me for\n\nsomething like this. I'm happy to do it\nanytime.",
+      "choice_data_list": [
+        "Thank you for doing this for us.",
+        "Thank you for doing this for us."
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh my, there's no need to thank me for\n\nsomething like this. I'm happy to do it\nanytime."
+      "text": "Oh my, there's no need to thank me for\n\nsomething like this. I'm happy to do it\nanytime.",
+      "choice_data_list": [
+        "You really care about your friends, don't you.",
+        "You really care about your friends, don't you?",
+        "You're really great at making sweets.",
+        "You're really great at making sweets, aren't you?",
+        "I'll make you something in return next time."
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Oho, you're going to make me blush."
+      "text": "Oho, you're going to make me blush.",
+      "choice_data_list": [
+        "You really care about your friends, don't you.",
+        "You really care about your friends, don't you?",
+        "You're really great at making sweets.",
+        "You're really great at making sweets, aren't you?",
+        "I'll make you something in return next time."
+      ]
     },
     {
       "name": "Wonder Acute",

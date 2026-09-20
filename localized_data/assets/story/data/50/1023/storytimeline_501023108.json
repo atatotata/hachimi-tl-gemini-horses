@@ -15,7 +15,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I am! I'm in a <i>huge</i> bind, and I need\nHayahide's\nhelp!"
+      "text": "I am! I'm in a <i>huge</i> bind, and I need\nHayahide's\nhelp!",
+      "choice_data_list": [
+        "Looks like they're in a bit of a jam, though..."
+      ]
     },
     {
       "name": "Monologue",
@@ -167,7 +170,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Thank you... But if I'd only gotten one\nmore\nquestion right..."
+      "text": "Thank you... But if I'd only gotten one\nmore\nquestion right...",
+      "choice_data_list": [
+        "Hayahide worked really hard too."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -199,7 +205,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hehe! I couldn't have done it without\neveryone\nrooting for me."
+      "text": "Hehe! I couldn't have done it without\neveryone\nrooting for me.",
+      "choice_data_list": [
+        "Impressive, Hayahide!"
+      ]
     },
     {
       "name": "Winning Ticket",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "The whole area is awash in a carpet of\n\nyellow-green! Oh, what do I <i>do,</i> Trainer?"
+      "text": "The whole area is awash in a carpet of\n\nyellow-green! Oh, what do I <i>do,</i> Trainer?",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't want to invalidate her beliefs, but\nit seems\nexcessive to let her skip a whole\nday of training."
+      "text": "I don't want to invalidate her beliefs, but\nit seems\nexcessive to let her skip a whole\nday of training.",
+      "choice_data_list": [
+        "W-Wait, hold on!"
+      ]
     },
     {
       "name": "Monologue",
@@ -71,7 +78,10 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "I'll try it out right away!"
+      "text": "I'll try it out right away!",
+      "choice_data_list": [
+        "(And that's fine.)"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

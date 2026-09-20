@@ -27,7 +27,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "All right, then! Let's get you signed up\nfor the\nUnity Cup straight away."
+      "text": "All right, then! Let's get you signed up\nfor the\nUnity Cup straight away.",
+      "choice_data_list": [
+        "Understood!"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -51,7 +54,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I fill in our name on the form as \"Happy\nHoppers.\"\nThat makes it official!"
+      "text": "I fill in our name on the form as \"Happy\nHoppers.\"\nThat makes it official!",
+      "choice_data_list": [
+        "Taiki's <HOP CHEERS>",
+        "Fukukitaru's <Harenohi Runners>",
+        "Urara's <Carrot Pudding>",
+        "Rice's <Blooms>",
+        "Team <Carrots>"
+      ]
     },
     {
       "name": "Monologue",

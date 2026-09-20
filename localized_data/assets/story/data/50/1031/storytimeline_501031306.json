@@ -75,7 +75,10 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer?"
+      "text": "Trainer?",
+      "choice_data_list": [
+        "Ines!!"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -83,11 +86,18 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "...C'mon, don't ask for the impossible.\n<i>Someone's</i>\ngotta answer those cheers, so\nyou should hurry on\nover and..."
+      "text": "...C'mon, don't ask for the impossible.\n<i>Someone's</i>\ngotta answer those cheers, so\nyou should hurry on\nover and...",
+      "choice_data_list": [
+        "I'm not staying behind, I'm coming with you!"
+      ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Because everyone's waiting for you, too!",
+        "Because everyone's waiting for you, too!"
+      ]
     },
     {
       "name": "Spectators",
@@ -107,7 +117,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ahaha... Geez..."
+      "text": "Ahaha... Geez...",
+      "choice_data_list": [
+        "That's how deeply moved they were by your running.",
+        "That's how deeply moved I was by your running."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -115,7 +129,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Hehe, thanks! Don't complain if I'm too\nheavy!"
+      "text": "Hehe, thanks! Don't complain if I'm too\nheavy!",
+      "choice_data_list": [
+        "Yeah, I can lend you a shoulder, too.",
+        "Yeah, I'll lend you a shoulder, too."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -191,7 +209,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "I'm glad to... hear that..."
+      "text": "I'm glad to... hear that...",
+      "choice_data_list": [
+        "Yeah, that was a wonderful concert!",
+        "Yeah, that was an amazing concert!"
+      ]
     },
     {
       "name": "Monologue",
@@ -199,11 +221,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Really... glad..."
+      "text": "Really... glad...",
+      "choice_data_list": [
+        "...Ines?!"
+      ]
     },
     {
       "name": "",
-      "text": "Ines Fujin collapses onto the cold, hard\nfloor of\nthe backstage wings."
+      "text": "Ines Fujin collapses onto the cold, hard\nfloor of\nthe backstage wings.",
+      "choice_data_list": [
+        "Ines!!"
+      ]
     }
   ]
 }

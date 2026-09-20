@@ -21,7 +21,9 @@
     {
       "name": "Believe",
       "text": "...? That's what I intend to do, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh? You're doing voluntary training this weekend?"
+      ]
     },
     {
       "name": "Narrator",
@@ -34,7 +36,10 @@
     {
       "name": "Narrator",
       "text": "\"Ligne Droite\", commonly known as Droit, \nis a dance party held in spring. Dressed \nin gorgeous outfits, all the Umamusume \nenjoy dancing the night away.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The 'Ligne Droite' is this weekend, right?",
+        "The 'Ligne Droite' is this weekend, right?"
+      ]
     },
     {
       "name": "Narrator",
@@ -56,11 +61,13 @@
     {
       "name": "Narrator",
       "text": "Although, there are some who choose to \nfocus purely on independent training. If \nthey truly do not wish to participate, \nthen—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(True, it does seem like an event she'd have no interest in...)"
+      ]
     },
     {
-      "name": "？？？",
-      "text": "W-W-W-Waiiiit a secondーーー!!",
+      "name": "???",
+      "text": "W-W-W-Wait a secooond!!",
       "choice_data_list": [
         "！？"
       ]
@@ -68,7 +75,9 @@
     {
       "name": "Believe",
       "text": "...Dantsu-san?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Dantsu Flame",

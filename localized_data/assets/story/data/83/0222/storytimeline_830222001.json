@@ -17,7 +17,10 @@
       ]
     },
     {
-      "text": "If I happen to see a horse girl like that, \nI should let them know. As I walked along \nthinking that—"
+      "text": "If I happen to see a horse girl like that, \nI should let them know. As I walked along \nthinking that—",
+      "choice_data_list": [
+        "(...? Is she looking for someone?)"
+      ]
     },
     {
       "name": "Espoir City",
@@ -33,17 +36,20 @@
       "name": "Espoir City",
       "text": "Whaddya starin' at, ya punk?!",
       "choice_data_list": [
-        "Whoa, sorry!?"
+        "(Could it be her? But...)"
       ]
     },
     {
       "text": "—She's way too feisty to be considered a \nchihuahua! Must definitely be the wrong \nhorse girl!",
       "choice_data_list": [
-        "(Better back off before I get on her bad \nside!)"
+        "Whoa, sorry?!"
       ]
     },
     {
-      "text": "—Just as I turned on my heels to leave."
+      "text": "—Just as I turned on my heels to leave.",
+      "choice_data_list": [
+        "(Time to retreat before I get on her bad side!)"
+      ]
     },
     {
       "name": "Mysterious Roar & Espo",
@@ -81,7 +87,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Yes. ...I'm so sorry, Espo-san. That loud \nnoise must have frightened you terribly."
+      "text": "Yes. ...I'm so sorry, Espo-san. That loud \nnoise must have frightened you terribly.",
+      "choice_data_list": [
+        "So the reason you were looking for her was――",
+        "So the reason you all were looking for her was――"
+      ]
     },
     {
       "name": "Espoir City",
@@ -113,7 +123,11 @@
     },
     {
       "name": "Espoir City",
-      "text": "U-Uuuuugh... SHUUUUUT UUUUP!!"
+      "text": "U-Uuuuugh... SHUUUUUT UUUUP!!",
+      "choice_data_list": [
+        "I-It's okay. Just calm down.",
+        "Th-Th-This one talked too!!??"
+      ]
     },
     {
       "name": "Espoir City",

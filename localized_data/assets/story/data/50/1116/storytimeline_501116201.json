@@ -27,7 +27,10 @@
     {
       "name": "Narrator",
       "text": "It's at Kyoto Racecourse just like her \ndebut race, and at the same distance, so \nshe has experience, but... there is still \none thing bothering me—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Looks like she's locked in.)",
+        "(Seems like she's locked in.)"
+      ]
     },
     {
       "name": "Spectator A",
@@ -64,7 +67,9 @@
     {
       "name": "Gentildonna",
       "text": "Utterly and completely ridiculous.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
       "name": "Gentildonna",

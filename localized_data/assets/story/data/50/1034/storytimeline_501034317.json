@@ -143,7 +143,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I have a feeling it'd be best to get Inari\naway from\neveryone as quickly as\npossible."
+      "text": "I have a feeling it'd be best to get Inari\naway from\neveryone as quickly as\npossible.",
+      "choice_data_list": [
+        "Inari, let's head home."
+      ]
     },
     {
       "name": "Inari One",
@@ -175,11 +178,19 @@
     },
     {
       "name": "Inari One",
-      "text": "Whazza matter, Boss? You all right?\nCould scare\nthe clouds away with that\nface you're makin'!"
+      "text": "Whazza matter, Boss? You all right?\nCould scare\nthe clouds away with that\nface you're makin'!",
+      "choice_data_list": [
+        "...Are you doing all right yourself, Inari?",
+        "...Are you doing all right yourself, Inari?"
+      ]
     },
     {
       "name": "Inari One",
-      "text": "'Course I am! No need to worry 'bout me!\nSure,\nI've been a bit down 'cause the\nweather's been all\ngloomy lately, but\nthat's all!"
+      "text": "'Course I am! No need to worry 'bout me!\nSure,\nI've been a bit down 'cause the\nweather's been all\ngloomy lately, but\nthat's all!",
+      "choice_data_list": [
+        "...Are you doing all right yourself, Inari?",
+        "...Are you doing all right yourself, Inari?"
+      ]
     },
     {
       "name": "Inari One",
@@ -191,15 +202,26 @@
     },
     {
       "name": "Inari One",
-      "text": "Creek's gonna be there too, not just\nOguri! That\nmeans I gotta put the pedal\nto the metal 'n' train\nlike hell!"
+      "text": "Creek's gonna be there too, not just\nOguri! That\nmeans I gotta put the pedal\nto the metal 'n' train\nlike hell!",
+      "choice_data_list": [
+        "...Yeah, you're right.",
+        "Right..."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Seems like I'll have to keep a close eye\non her. I\nmight have to intervene if it\ncomes down to it, to\nensure her own\nsafety."
+      "text": "Seems like I'll have to keep a close eye\non her. I\nmight have to intervene if it\ncomes down to it, to\nensure her own\nsafety.",
+      "choice_data_list": [
+        "...Yeah, you're right.",
+        "Right..."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "As her trainer and faithful partner in all\nthis, I\nhave to be ready."
+      "text": "As her trainer and faithful partner in all\nthis, I\nhave to be ready.",
+      "choice_data_list": [
+        "(Even if that isn't what she truly wants...)"
+      ]
     },
     {
       "name": "Inari One",

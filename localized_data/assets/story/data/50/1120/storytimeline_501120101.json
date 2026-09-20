@@ -16,7 +16,9 @@
     {
       "name": "Narrator",
       "text": "I instinctively checked the calendar. But \nit was a day off. Training with her wasn't \nsupposed to start until the first day of \nthe semester. Could it be some kind of \nemergency?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Light O?"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -28,7 +30,9 @@
     {
       "name": "Calstone Light O",
       "text": "\"Tch. Here's a souvenir from my trip home. \nTake it.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Definitely not!"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -45,7 +49,9 @@
     {
       "name": "Calstone Light O",
       "text": "\"My parents said greetings are best done \nearly. So, I came as fast as I could.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It could have waited until after the break, though."
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -57,7 +63,9 @@
     {
       "name": "Calstone Light O",
       "text": "Yes. I do not wish to waste a single \nminute or second.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Challenges? You mean the training menu?"
+      ]
     },
     {
       "name": "Narrator",
@@ -75,6 +83,13 @@
       "name": "Calstone Light O",
       "text": "What kind of task would be fitting for New \nYear's?",
       "choice_data_list": [
+        "Then let's take on a challenge fit for the New Year."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ah, they're holding it in the shopping \ndistrict. The \"Friendly Mochi-Pounding \nFestival.\"",
+      "choice_data_list": [
         "Let's pound some mochi!",
         "Let's go to the New Year's buffet.",
         "How about Umamusume Karuta?"
@@ -82,16 +97,11 @@
     },
     {
       "name": "Calstone Light O",
-      "text": "Ah, they're holding it in the shopping \ndistrict. The \"Friendly Mochi-Pounding \nFestival.\"",
-      "choice_data_list": [
-        "Thrusting practice should make for good \ntraining.",
-        "Thrusting practice should make for good \ntraining."
-      ]
-    },
-    {
-      "name": "Calstone Light O",
       "text": "\"Indeed, getting to eat mochi too makes it \nkilling two birds with one stone. Ah, I'll \nmake sure Trainer gets some too.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Swinging the mallet should make for great training.",
+        "Swinging the mallet's bound to be great training, right?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -123,7 +133,9 @@
     {
       "name": "Narrator",
       "text": "Calstone Light O is guaranteed to pound \nmochi fast. I've never seen it, but it's \ndefinitely fast. No ordinary mochi-turner \ncould ever keep up with that speed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It might be tough to go as a pair..."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -170,7 +182,9 @@
     {
       "name": "Shopping District Man",
       "text": "H-Hey, look at that mochi pounding! It's \nso fast... I can't even see their hands!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "S-So fast...!"
+      ]
     },
     {
       "name": "Girl",
@@ -207,7 +221,9 @@
     {
       "name": "Calstone Light O",
       "text": "Your diet is completely ruined. This won't \ndo. Let's get you some proper nutrition at \nthe buffet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ugh... I got sick of cup ramen too."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -289,7 +305,9 @@
     {
       "name": "Curren Chan",
       "text": "Ahaha! Right O-san, you plated everything \nin a straight line! That's so cute~!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Of course, with pleasure!"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -326,7 +344,9 @@
     {
       "name": "Narrator",
       "text": "If I recall, there should be a tournament \nbeing held nearby. Of course, we can't \nparticipate, but they have a hands-on \nkaruta corner set up.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It's an Umamusume karuta tournament."
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -338,7 +358,9 @@
     {
       "name": "Calstone Light O",
       "text": "Karuta is also a contest of speed. It \nseems like it would make for good \nexercise.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "True, but what a way to put it..."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -365,7 +387,9 @@
     {
       "name": "Right O & Fukukitaru",
       "text": "Yes! Uh, uh, uh... found it! Here you go!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "On a spring day, with radiant light..."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -393,7 +417,10 @@
     {
       "name": "Narrator",
       "text": "Umamusume Karuta uses the \"Ogura Hyakunin \nIsshu.\" You read the first half of the \npoem, and take the card with the second \nhalf. The second half is read aloud in the \nlatter part.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sorry, looks like they don't know the rules...",
+        "Sorry, it seems they don't know the rules..."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -476,7 +503,10 @@
     {
       "name": "Calstone Light O",
       "text": "That is what my mother taught me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wh-What's wrong? All of a sudden...",
+        "Wh-What's wrong? All of a sudden..."
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -533,7 +563,9 @@
     {
       "name": "Calstone Light O",
       "text": "Ever since then, I've felt a bit closer to \nTachyon.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wasn't that completely lacking in freshness?!"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -570,7 +602,9 @@
     {
       "name": "Narrator",
       "text": "A small feeling of unease arises in my \nchest.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...No, it's nothing."
+      ]
     },
     {
       "name": "Narrator",

@@ -103,7 +103,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Yes. Just... a few more..."
+      "text": "...Yes. Just... a few more...",
+      "choice_data_list": [
+        "You're still going to run?",
+        "Are you still going to run?"
+      ]
     },
     {
       "name": "Monologue",
@@ -111,7 +115,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...You're right."
+      "text": "...You're right.",
+      "choice_data_list": [
+        "Why not rest up early and run again in the morning?",
+        "Overdoing it is no good."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -119,11 +127,17 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Do you have... someone you want to...\ncatch up\nto?"
+      "text": "Do you have... someone you want to...\ncatch up\nto?",
+      "choice_data_list": [
+        "Hm?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I see. Must be nice... to have\nsomeone... as your\nequal... Someone who\ninspires... and is inspired by\nyou."
+      "text": "...I see. Must be nice... to have\nsomeone... as your\nequal... Someone who\ninspires... and is inspired by\nyou.",
+      "choice_data_list": [
+        "You have plenty of rivals."
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +165,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Like that one time, someone might ask\nto train\ntogether with her. If she isn't fit\nto run when that\nhappens..."
+      "text": "Like that one time, someone might ask\nto train\ntogether with her. If she isn't fit\nto run when that\nhappens...",
+      "choice_data_list": [
+        "We need to make sure you're in top condition."
+      ]
     },
     {
       "name": "Manhattan Cafe",

@@ -55,16 +55,21 @@
       "name": "Tap Dance City",
       "text": "Trainer, I'm gonna stay behind and do some \nvoluntary training before heading home. \nCool with you?",
       "choice_data_list": [
-        "Yeah, let's do everything in our power!",
         "Yeah, let's do everything we possibly can!",
-        "Resting is the best option right now.",
-        "Resting is the best thing to do right now."
+        "Yeah, let's do everything we possibly can!",
+        "Resting is the best thing you can do right now.",
+        "Resting is the best thing you can do right now, you know."
       ]
     },
     {
       "name": "Seeking the Pearl",
       "text": "Good! Let's start running together! Aim \nfor a glorious future!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, let's do everything we possibly can!",
+        "Yeah, let's do everything we possibly can!",
+        "Resting is the best thing you can do right now.",
+        "Resting is the best thing you can do right now, you know."
+      ]
     },
     {
       "name": "Tap Dance City",

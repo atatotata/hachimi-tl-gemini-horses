@@ -87,7 +87,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Satono Diamond has maintained her\ndignified\ndemeanor this whole time, but\nshe hasn't said a\nword. Then..."
+      "text": "Satono Diamond has maintained her\ndignified\ndemeanor this whole time, but\nshe hasn't said a\nword. Then...",
+      "choice_data_list": [
+        "Dia, what is it?",
+        "Dia, what's wrong?"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -163,7 +167,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I mutter the words to myself, dismayed\nat the\nsight before me."
+      "text": "I mutter the words to myself, dismayed\nat the\nsight before me.",
+      "choice_data_list": [
+        "Run... in this...?",
+        "Run... in this...?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -215,11 +223,19 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "You mean, just sprint through\neverything? Even\nthe potholes and mud\nswamps?"
+      "text": "You mean, just sprint through\neverything? Even\nthe potholes and mud\nswamps?",
+      "choice_data_list": [
+        "...Charge right through without hesitation, even on a bad track?",
+        "...Shall we try charging right through without hesitation, even on a bad track?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Knowing Kitasan Black, she might really\nbe strong\nenough to brute force her way\nthrough even the\nworst stretches."
+      "text": "Knowing Kitasan Black, she might really\nbe strong\nenough to brute force her way\nthrough even the\nworst stretches.",
+      "choice_data_list": [
+        "Yeah, charge right in without fear!",
+        "Yeah, charge right in without fear!"
+      ]
     },
     {
       "name": "Monologue",

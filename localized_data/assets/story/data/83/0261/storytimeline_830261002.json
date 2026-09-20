@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "ドゥラメンテ",
-      "text": "はっ、はっ…… …………ふぅ……。"
+      "name": "Duramente",
+      "text": "*pant*, *pant*... ......Phew..."
     },
     {
       "name": "Win Variation",
@@ -126,7 +126,11 @@
     },
     {
       "name": "Win Variation",
-      "text": "We sure did! Sorry about that! I'm the one \nwho dragged Duramente-san along!"
+      "text": "We sure did! Sorry about that! I'm the one \nwho dragged Duramente-san along!",
+      "choice_data_list": [
+        "Did you take a detour?",
+        "Hachimi isn't really good for hydration, you know..."
+      ]
     },
     {
       "name": "Duramente",
@@ -137,7 +141,10 @@
     },
     {
       "name": "Duramente",
-      "text": "Yes. But rest assured, we did nothing to \ncompromise the dignity of the academy."
+      "text": "Yes. But rest assured, we did nothing to \ncompromise the dignity of the academy.",
+      "choice_data_list": [
+        "A secret...?"
+      ]
     },
     {
       "text": "Since they called it a secret, pressing \nthe matter felt tasteless. Looking at \ntheir smiles, it's clear they have nothing \nto feel guilty about.",
@@ -148,7 +155,11 @@
     },
     {
       "name": "Win Variation",
-      "text": "! What a kind Trainer...! Hehe!"
+      "text": "! What a kind Trainer...! Hehe!",
+      "choice_data_list": [
+        "If it's a secret, fair enough.",
+        "If it's a secret, I suppose it can't be helped."
+      ]
     },
     {
       "name": "Win Variation",
@@ -164,12 +175,15 @@
     {
       "text": "There is no need to scold the two who \nowned up to it themselves. Accepting the \njuice, I head over to the vending machine.",
       "choice_data_list": [
-        "Here, consider this hush money for \naccepting the hush money."
+        "I see. Thank you for being honest with me."
       ]
     },
     {
       "name": "Duramente",
-      "text": "Fufu... Hush money on top of hush money, \nis it? Understood, I shall accept it."
+      "text": "Fufu... Hush money on top of hush money, \nis it? Understood, I shall accept it.",
+      "choice_data_list": [
+        "Consider this hush money for accepting hush money."
+      ]
     },
     {
       "name": "Win Variation",

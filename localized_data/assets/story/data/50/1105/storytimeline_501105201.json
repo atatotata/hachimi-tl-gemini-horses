@@ -24,9 +24,11 @@
       ]
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Excuse me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Go ahead."
+      ]
     },
     {
       "name": "",
@@ -34,7 +36,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "\"Long time no see, Neo Universe. And nice \nto meet you, Trainer.\"",
       "choice_data_list": [
         "Um... who are you?",
@@ -44,7 +46,10 @@
     {
       "name": "Neo Universe",
       "text": "\"Contact\" record exists. This \"human\" is—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Um... who are you?",
+        "Um... who might you be?"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -81,7 +86,9 @@
     {
       "name": "A Certain Trainer",
       "text": "Yes, we finally managed to reach this \npoint. Winning a few graded races along \nthe way.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Your trainee is running in the Satsuki Sho?"
+      ]
     },
     {
       "name": "A Certain Trainer",
@@ -145,13 +152,16 @@
       "name": "Neo Universe",
       "text": "\"Destiny\"...",
       "choice_data_list": [
-        "Right, to \"XACF\"."
+        "Universe, let's overcome our 'destiny.'",
+        "Universe, let's overcome our 'destiny.'"
       ]
     },
     {
       "name": "",
       "text": "It probably means something close to \n\"destiny.\" If I had to make an educated \nguess...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, to “XACF”."
+      ]
     },
     {
       "name": "Neo Universe",

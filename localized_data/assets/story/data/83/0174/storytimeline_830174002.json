@@ -119,7 +119,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "D-Don't call out to me all of a sudden!"
+      "text": "D-Don't call out to me all of a sudden!",
+      "choice_data_list": [
+        "You're looking at that so seriously.",
+        "You're looking at that so seriously, aren't you."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -139,15 +143,21 @@
       "name": "Mejiro Dober",
       "text": "I was looking at Ramonu-san's painting. \n...To make sure of the strength of my own \nfeelings.",
       "choice_data_list": [
-        "Facing Ramonu's painting head-on, huh?",
-        "Facing Ramonu's painting head-on, huh?",
-        "Are you planning to challenge Ramonu to a \nmatch?",
-        "Are you planning to challenge Ramonu to a \nmatch?"
+        "You're really facing Ramonu's painting, aren't you?",
+        "You're really taking in Ramonu's painting, aren't you?",
+        "Are you planning to challenge Ramonu?",
+        "Are you planning to challenge Ramonu?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Ramonu-san's painting is filled with \nsuch intense... raw passion."
+      "text": "...Ramonu-san's painting is filled with \nsuch intense... raw passion.",
+      "choice_data_list": [
+        "You're really facing Ramonu's painting, aren't you?",
+        "You're really taking in Ramonu's painting, aren't you?",
+        "Are you planning to challenge Ramonu?",
+        "Are you planning to challenge Ramonu?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -173,13 +183,17 @@
       "name": "Mejiro Dober",
       "text": "...Though I don't know if she'll even give \nme the time of day...",
       "choice_data_list": [
-        "I'll keep an eye on the painting, so go on \nahead.",
-        "I'll watch the painting, why don't you go \nahead?"
+        "I'll keep an eye on the paintings, so go on ahead.",
+        "I'll keep an eye on the paintings, so why don't you go on ahead?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "...! I told you it's none of your—ah, \ngeez! Whatever you do, don't touch or move \nthe painting!"
+      "text": "...! I told you it's none of your—ah, \ngeez! Whatever you do, don't touch or move \nthe painting!",
+      "choice_data_list": [
+        "I'll keep an eye on the paintings, so go on ahead.",
+        "I'll keep an eye on the paintings, so why don't you go on ahead?"
+      ]
     },
     {
       "name": "Mejiro Dober",

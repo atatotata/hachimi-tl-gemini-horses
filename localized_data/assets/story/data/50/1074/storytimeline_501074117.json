@@ -83,7 +83,11 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Meee?"
+      "text": "Meee?",
+      "choice_data_list": [
+        "What do you think, Bright?",
+        "What do you think, Bright?"
+      ]
     },
     {
       "name": "Monologue",
@@ -271,11 +275,18 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "――It's okay."
+      ]
     },
     {
       "name": "Monologue",
-      "text": "My answer is confident. I know that we'll\nreach\nour goal in time."
+      "text": "My answer is confident. I know that we'll\nreach\nour goal in time.",
+      "choice_data_list": [
+        "Bright will be fine.",
+        "Bright will be just fine."
+      ]
     },
     {
       "name": "Mejiro Bright",

@@ -23,7 +23,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Obviously."
+      "text": "Obviously.",
+      "choice_data_list": [
+        "Are you keeping it powered off until we're done?",
+        "Are you going to keep it powered off until we're done?"
+      ]
     },
     {
       "name": "Gold City",

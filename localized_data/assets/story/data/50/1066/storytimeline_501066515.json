@@ -179,15 +179,19 @@
       "name": "Twin Turbo",
       "text": "*gasp*, *pant*... Really? Turbo was that \namazing...!?",
       "choice_data_list": [
-        "In a way, you were invincible.",
-        "In a way, you were invincible.",
-        "Let's keep front-running from here on out."
+        "In a way, they were invincible.",
+        "In a way, they were invincible, weren't they?",
+        "Let's keep leading from the front."
       ]
     },
     {
       "name": "Narrator",
       "text": "Fearing neither foul weather nor fierce \nrivals, being able to front-run with \neverything she had was a kind of talent. I \ntold her that it was something no one else \ncould do.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "In a way, they were invincible.",
+        "In a way, they were invincible, weren't they?",
+        "Let's keep leading from the front."
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -234,7 +238,9 @@
     {
       "name": "Narrator",
       "text": "Hurriedly stopping Twin Turbo as she tried \nto dash off again, I suggested that she \nget some good rest since she had worked so \nhard today.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?!"
+      ]
     }
   ]
 }

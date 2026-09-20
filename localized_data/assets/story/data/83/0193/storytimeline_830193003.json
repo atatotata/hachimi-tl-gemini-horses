@@ -14,7 +14,10 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "!?? ...Ah, um... I-I'm sorry...! I-I was, \nwell..."
+      "text": "!?? ...Ah, um... I-I'm sorry...! I-I was, \nwell...",
+      "choice_data_list": [
+        "It's getting late, you know?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -27,20 +30,23 @@
       "name": "Narrator",
       "text": "Feeling concerned, I watched over her \ntraining. And then... I noticed something.",
       "choice_data_list": [
-        "...Looks like she isn't overdoing it.",
-        "...Looks like she isn't overdoing it."
+        "...A-Are you going to be okay?"
       ]
     },
     {
       "name": "Narrator",
       "text": "Taking proper breaks while repeating slope \ndashes, Cheval Grand was putting in \nappropriate effort, strictly within safe, \nreasonable limits.",
       "choice_data_list": [
-        "She's a really diligent girl..."
+        "...It seems you haven't been reckless.",
+        "...It seems you haven't done anything reckless."
       ]
     },
     {
       "name": "Narrator",
-      "text": "What drove her to work so genuinely hard? \nI couldn't help but feel intrigued by her."
+      "text": "What drove her to work so genuinely hard? \nI couldn't help but feel intrigued by her.",
+      "choice_data_list": [
+        "She's such an earnest girl..."
+      ]
     },
     {
       "name": "Win Variation",
@@ -88,7 +94,11 @@
     },
     {
       "name": "Verxina",
-      "text": "Yes. After all, it's my precious sister's \nmock race. There's no way I could miss it."
+      "text": "Yes. After all, it's my precious sister's \nmock race. There's no way I could miss it.",
+      "choice_data_list": [
+        "Did you two come to watch Cheval Grand as well?",
+        "Did you two come to see Cheval Grand too?"
+      ]
     },
     {
       "name": "Verxina",
@@ -99,7 +109,10 @@
     },
     {
       "name": "Verxina",
-      "text": "Yes. More than anyone."
+      "text": "Yes. More than anyone.",
+      "choice_data_list": [
+        "She really is a hard worker."
+      ]
     },
     {
       "name": "Verxina",
@@ -154,7 +167,10 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...Ah! Th-Thank you very much... Um... \nI'm, so happy..."
+      "text": "...Ah! Th-Thank you very much... Um... \nI'm, so happy...",
+      "choice_data_list": [
+        "Good work. That was a great run!"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -173,7 +189,10 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...! ...Um, ah... I-Is that... so...?"
+      "text": "...! ...Um, ah... I-Is that... so...?",
+      "choice_data_list": [
+        "That was a truly confident run!"
+      ]
     },
     {
       "name": "Cheval Grand",

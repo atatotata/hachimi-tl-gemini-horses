@@ -35,11 +35,18 @@
     },
     {
       "name": "Gold City",
-      "text": "Oh, you're that trainer from school... No,\nit's\nnothing big. Just thought it's about\ntime I look\nafter myself."
+      "text": "Oh, you're that trainer from school... No,\nit's\nnothing big. Just thought it's about\ntime I look\nafter myself.",
+      "choice_data_list": [
+        "Something troubling you?"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "If it's something you're not good at, it's okay to rely on others, isn't it?",
+        "If it's something you're not good at, it's okay to rely on someone, right?"
+      ]
     },
     {
       "name": "Monologue",
@@ -123,11 +130,21 @@
     },
     {
       "name": "Gold City",
-      "text": "...That's a relief."
+      "text": "...That's a relief.",
+      "choice_data_list": [
+        "Did you improve after learning from your manager?",
+        "Relying on others is fine once in a while.",
+        "Relying on others is fine once in a while."
+      ]
     },
     {
       "name": "Gold City",
-      "text": "Ah... Yeah, I guess I was. She's given me\na few\nlessons."
+      "text": "Ah... Yeah, I guess I was. She's given me\na few\nlessons.",
+      "choice_data_list": [
+        "Did you improve after learning from your manager?",
+        "Relying on others is fine once in a while.",
+        "Relying on others is fine once in a while."
+      ]
     },
     {
       "name": "Gold City",

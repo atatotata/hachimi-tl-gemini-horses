@@ -7,7 +7,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "No, it's fine, Trainer. You did what you\ncould!"
+      "text": "No, it's fine, Trainer. You did what you\ncould!",
+      "choice_data_list": [
+        "Sorry, I couldn't help.",
+        "Sorry, I couldn't help you."
+      ]
     },
     {
       "name": "Winning Ticket",

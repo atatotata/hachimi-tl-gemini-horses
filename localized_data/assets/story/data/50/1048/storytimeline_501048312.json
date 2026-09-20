@@ -107,7 +107,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ahaha... Right? I <i>am</i> going to be the\ngreatest\ndummy, after all."
+      "text": "Ahaha... Right? I <i>am</i> going to be the\ngreatest\ndummy, after all.",
+      "choice_data_list": [
+        "You really do have an incredible talent.",
+        "You truly have an incredible talent."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -115,11 +119,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Why not? She's more of a dummy than\nme, right?"
+      "text": "Why not? She's more of a dummy than\nme, right?",
+      "choice_data_list": [
+        "Want to go challenge them again?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "...You think so?"
+      ]
     },
     {
       "name": "Monologue",

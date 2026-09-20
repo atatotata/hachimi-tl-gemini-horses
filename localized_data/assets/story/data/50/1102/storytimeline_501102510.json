@@ -17,7 +17,10 @@
     {
       "name": "Neo Universe",
       "text": "\"Visitors\"... Neo Universe and the others \ncame to \"observe.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "What are you doing at this hour?",
+        "What are you doing at this hour?"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -55,10 +58,13 @@
     {
       "name": "Sounds of Earth",
       "text": "Shall I play a tune then? A serenade, \nperhaps, while we wait for her entrance...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Can't see a thing.",
+        "...Can't see anything, huh."
+      ]
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "(Vroom, vroom, vroom...)",
       "choice_data_list": [
         "—Kh!?"
@@ -68,21 +74,23 @@
       "name": "Narrator",
       "text": "Looking up at the sky, I saw a mysterious \nlight hovering with a low humming noise!",
       "choice_data_list": [
-        "Wh-What is that!?",
-        "Wh-What is that!?"
+        "—!?"
       ]
     },
     {
       "name": "Neo Universe",
       "text": "See, told you... \"Music\"... \"Vroom \nvroom\"...",
       "choice_data_list": [
-        "That creepy sound is music...!?"
+        "Wh-What on earth is that!?",
+        "Wh-What is that!?"
       ]
     },
     {
       "name": "Sounds of Earth",
       "text": "No, this sound that the light makes \nresound...! It's truly a magnificent \nsymphony...!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That creepy noise is... music...?!"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -105,7 +113,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "(Vroom... ROOOAR, ROOOOAR!)",
       "choice_data_list": []
     },
@@ -120,7 +128,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "(*BOOOOOM, BAAAAM!*)",
       "choice_data_list": []
     },
@@ -144,7 +152,9 @@
     {
       "name": "Sounds of Earth",
       "text": "Now, the final measure!! Match your \nbreathing—!!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "No, it's a dialogue through sound...!"
+      ]
     },
     {
       "name": "Earth and Friends",
@@ -157,7 +167,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "(*whistle*......)",
       "choice_data_list": []
     },
@@ -204,15 +214,19 @@
       "name": "Sounds of Earth",
       "text": "\"Why don't you try playing too when the \ntime comes? A conversation across the \nstars will make your heart soar even \nhigher.\"",
       "choice_data_list": [
-        "I want to join too, to knock some sense \ninto my suspicious mind.",
-        "I want to join too, to knock some sense \ninto my suspicious mind.",
-        "Th-This conversation is on such a high \nplane, I can barely follow..."
+        "I want to join too, to whip my suspicious mind back into shape.",
+        "I'd like to participate too, to whip my suspicious mind back into shape.",
+        "T-This conversation is on such a high plane, I can barely keep up..."
       ]
     },
     {
       "name": "Sounds of Earth",
       "text": "There's nothing wrong with doubt, amico. \nWhat matters is the music you play, isn't \nthat right?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I want to join too, to whip my suspicious mind back into shape.",
+        "I'd like to participate too, to whip my suspicious mind back into shape.",
+        "T-This conversation is on such a high plane, I can barely keep up..."
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -251,7 +265,9 @@
     {
       "name": "Neo Universe",
       "text": "The possibilities are \"unknown\"... What \nNeo Universe and the others touched was a \nfragment of the \"Monolith\"...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I wonder when \"they\" will come next?"
+      ]
     },
     {
       "name": "Sounds of Earth",

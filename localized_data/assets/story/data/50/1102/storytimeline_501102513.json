@@ -91,7 +91,9 @@
     {
       "name": "Staff",
       "text": "\"...Sensei, is it really impossible to \nwear a different outfit...?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait...?!"
+      ]
     },
     {
       "name": "Renowned Musician",
@@ -187,7 +189,7 @@
       "text": "I am deeply honored, but I am merely the \nprelude. Now, how ought I to respond in a \nsituation like this?",
       "choice_data_list": [
         "Let's play your favorite song!",
-        "Let's play your favorite song!",
+        "Let's play a song you like!",
         "Let's take everyone's orders!"
       ]
     },
@@ -195,13 +197,17 @@
       "name": "Sounds of Earth",
       "text": "Bravissimo!! Then Trainer, please take \nhold of this!",
       "choice_data_list": [
-        "...Huh?"
+        "Let's play your favorite song!",
+        "Let's play a song you like!",
+        "Let's take everyone's orders!"
       ]
     },
     {
       "name": "",
       "text": "(Shaka-shaka-shaka-shaka! \nShaka-shaka-shaka-shaka!)",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Huh?"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -213,7 +219,9 @@
     {
       "name": "",
       "text": "And so, after somehow stalling for time, \nthe musician's costume arrived safely, and \nthe performance went off without a hitch.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(*Shake-shake-shake-shake!*)"
+      ]
     },
     {
       "name": "Sounds of Earth",

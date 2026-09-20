@@ -31,7 +31,9 @@
     {
       "name": "Furioso",
       "text": "\"‘Are you okay?’ ‘Don't push yourself.’ \n‘Let's run together next time’... and so \non.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...You think so?"
+      ]
     },
     {
       "name": "Furioso",
@@ -52,9 +54,9 @@
       "name": "Furioso",
       "text": "Trainer! Let's train so I can shake off \nthis haze!",
       "choice_data_list": [
-        "First things first, we need to treat that \ninjury.",
-        "First things first, let's get that injury \nhealed up.",
-        "Just don't push yourself too hard.",
+        "First things first, heal your injury.",
+        "First, let's heal your injury, okay?",
+        "Just don't push yourself too hard, alright?",
         "Just don't push yourself too hard, okay?"
       ]
     },
@@ -62,14 +64,19 @@
       "name": "Furioso",
       "text": "! ...B-But!",
       "choice_data_list": [
-        "Our objective is to win!",
-        "Our objective is to win!"
+        "First things first, heal your injury.",
+        "First, let's heal your injury, okay?",
+        "Just don't push yourself too hard, alright?",
+        "Just don't push yourself too hard, okay?"
       ]
     },
     {
       "name": "Furioso",
       "text": "—! The goal is... not to remain unmoved.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Our objective is to win!",
+        "Our goal is to win!"
+      ]
     },
     {
       "name": "Furioso",
@@ -91,7 +98,9 @@
     {
       "name": "Furioso",
       "text": "\"I'm getting impatient, losing my focus... \nCould this be... the URA's—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Are you okay!?"
+      ]
     },
     {
       "name": "Furioso",

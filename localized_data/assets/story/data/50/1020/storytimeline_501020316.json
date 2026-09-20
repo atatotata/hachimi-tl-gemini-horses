@@ -123,7 +123,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "There you are! Listen, there's something\nI need\nto—"
+      "text": "There you are! Listen, there's something\nI need\nto—",
+      "choice_data_list": [
+        "Sky, over here!",
+        "Sky, over here!"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -147,7 +151,10 @@
     },
     {
       "name": "Doctor",
-      "text": "Oh, it's not that bad of an injury. It won't\nhave\nany impact on her training."
+      "text": "Oh, it's not that bad of an injury. It won't\nhave\nany impact on her training.",
+      "choice_data_list": [
+        "How bad is the injury?"
+      ]
     },
     {
       "name": "Doctor",
@@ -163,15 +170,25 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Which means I won't be racing in this\nyear's Arima\nKinen..."
+      "text": "Which means I won't be racing in this\nyear's Arima\nKinen...",
+      "choice_data_list": [
+        "Let's treat this as a good stopping point."
+      ]
     },
     {
       "name": "",
-      "text": "Her career as a racer isn't over. She just\nhas to\ntake the time to recover, then\nwe'll pull out all\nthe stops."
+      "text": "Her career as a racer isn't over. She just\nhas to\ntake the time to recover, then\nwe'll pull out all\nthe stops.",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
     },
     {
       "name": "Seiun Sky",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "You'll have other chances to run with your rivals."
+      ]
     },
     {
       "name": "",
@@ -183,7 +200,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "I said no! If I'm gonna race, I have to do\nit now!"
+      "text": "I said no! If I'm gonna race, I have to do\nit now!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -195,7 +215,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "I can win. I mean, I've finally come this\nfar! Things\nwere just getting interesting!"
+      "text": "I can win. I mean, I've finally come this\nfar! Things\nwere just getting interesting!",
+      "choice_data_list": [
+        "Sky..."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -215,11 +238,18 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "What do you mean?"
+      "text": "What do you mean?",
+      "choice_data_list": [
+        "Think you can move briskly?",
+        "Can you move briskly?"
+      ]
     },
     {
       "name": "",
-      "text": "I explain that we'll have to shorten\ntraining time\nwhile increasing intensity,\nleaving the remaining\ntime for warm-ups\nand other measures to\npromote her\nrecovery."
+      "text": "I explain that we'll have to shorten\ntraining time\nwhile increasing intensity,\nleaving the remaining\ntime for warm-ups\nand other measures to\npromote her\nrecovery.",
+      "choice_data_list": [
+        "I'd like to improve our training efficiency."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -235,7 +265,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "...Yeah!"
+      "text": "...Yeah!",
+      "choice_data_list": [
+        "Let's make sure you finish the Arima Kinen safe and sound."
+      ]
     },
     {
       "name": "Seiun Sky",

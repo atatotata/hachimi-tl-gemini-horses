@@ -23,7 +23,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, Trainer. That's right. Taiki and I\ndecided to\nhave one at the park today."
+      "text": "Oh, Trainer. That's right. Taiki and I\ndecided to\nhave one at the park today.",
+      "choice_data_list": [
+        "Having tea?",
+        "Are you having tea?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -47,7 +51,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "A wasp! And a darn big one, too!\nAAAAAH!"
+      "text": "A wasp! And a darn big one, too!\nAAAAAH!",
+      "choice_data_list": [
+        "What's the matter?!",
+        "What's wrong?!"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -63,11 +71,21 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes, I can take care of this. The best\nthing to do\nis..."
+      "text": "Yes, I can take care of this. The best\nthing to do\nis...",
+      "choice_data_list": [
+        "Let's be careful!",
+        "First move wins!",
+        "The first move wins!"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Yes, very true. As long as we stay still\nand don't\ndisturb the bee..."
+      "text": "Yes, very true. As long as we stay still\nand don't\ndisturb the bee...",
+      "choice_data_list": [
+        "Let's be careful!",
+        "First move wins!",
+        "The first move wins!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -143,7 +161,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "That's a fact! Grass's approach was\nwonderfully\nperfect!"
+      "text": "That's a fact! Grass's approach was\nwonderfully\nperfect!",
+      "choice_data_list": [
+        "Grass seemed fine, but..."
+      ]
     },
     {
       "name": "Grass Wonder",

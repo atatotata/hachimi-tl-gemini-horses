@@ -23,7 +23,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "But I want to win..."
+      "text": "But I want to win...",
+      "choice_data_list": [
+        "Let's focus on treatment for now.",
+        "Let's figure out a way to train."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "You're right... I know that. Still..."
+      "text": "You're right... I know that. Still...",
+      "choice_data_list": [
+        "If it gets worse, you won't even be able to run in races.",
+        "If it gets worse, you won't even be able to run in races."
+      ]
     },
     {
       "name": "Monologue",
@@ -47,7 +55,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I felt a slight twinge... But it's nothing to\nworry\nab—OUCH!"
+      "text": "I felt a slight twinge... But it's nothing to\nworry\nab—OUCH!",
+      "choice_data_list": [
+        "Are you okay...!?",
+        "Are you okay...?!"
+      ]
     },
     {
       "name": "Monologue",
@@ -63,7 +75,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It doesn't hurt. I think I'll be all right like\nthis."
+      "text": "It doesn't hurt. I think I'll be all right like\nthis.",
+      "choice_data_list": [
+        "Are you feeling okay?"
+      ]
     },
     {
       "name": "Admire Vega",

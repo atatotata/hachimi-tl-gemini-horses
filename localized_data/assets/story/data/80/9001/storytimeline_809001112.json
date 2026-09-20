@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Tucker Brine",
-      "text": "Are you ready to climb this mountainーー!?"
+      "text": "Are you ready to climb this mountain?!"
     },
     {
       "name": "Tazuna & Hello",
-      "text": "YEAAAHーー!!"
+      "text": "YEAAAH!!"
     },
     {
       "name": "Narrator",
@@ -22,7 +22,10 @@
     },
     {
       "name": "Narrator",
-      "text": "However—"
+      "text": "However—",
+      "choice_data_list": [
+        "Looking forward to working with you!"
+      ]
     },
     {
       "name": "Light Hello",
@@ -41,7 +44,10 @@
     },
     {
       "name": "Tucker Brine",
-      "text": "Mm, actually you did pretty well holding \nout! Head up to the summit by bus first! \nCatch ya later!"
+      "text": "Mm, actually you did pretty well holding \nout! Head up to the summit by bus first! \nCatch ya later!",
+      "choice_data_list": [
+        "I-I'm sorry... Looks like this is my limit."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -136,18 +142,24 @@
     },
     {
       "name": "Tucker Brine",
-      "text": "TRAAAACEEEEEN!!"
+      "text": "TRAAAACEEEEEN!!",
+      "choice_data_list": [
+        "Oh, is that Tazuna-san and the others?"
+      ]
     },
     {
       "name": "Tazuna & Hello",
-      "text": "FIGHT! OH! FIGHT! OOOOHーー!!",
+      "text": "FIGHT! OH! FIGHT! OOOOH!!",
       "choice_data_list": [
         "...!?"
       ]
     },
     {
       "name": "Light Hello",
-      "text": "Haa... haa... Ah, what a gorgeous view...!"
+      "text": "Haa... haa... Ah, what a gorgeous view...!",
+      "choice_data_list": [
+        "……！？"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

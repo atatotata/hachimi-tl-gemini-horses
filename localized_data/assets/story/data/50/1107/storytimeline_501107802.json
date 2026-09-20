@@ -17,7 +17,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Thank you very much for making the \narrangements. Well then, I will take my \nleave.",
       "choice_data_list": []
     },
@@ -76,7 +76,9 @@
     {
       "name": "Dream Journey",
       "text": "\"...Parley. If I recall, that means \n'negotiation.' However, I believe our \ndiscussion has already concluded.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Tap... what in the world are you...??)"
+      ]
     },
     {
       "name": "Tap Dance City",
@@ -172,16 +174,21 @@
       "name": "Tap Dance City",
       "text": "Phew! Finally got my hands on it! Alright, \nlet's go!",
       "choice_data_list": [
-        "You actually figured out it was a \nsurprise, huh!",
-        "You actually figured out it was a \nsurprise!",
-        "The Captain's quite the smooth talker \ntoo...",
-        "The Captain's quite the smooth talker, \nhuh..."
+        "Impressive that you realized it was a surprise!",
+        "Good catch figuring out it was a surprise!",
+        "The Captain sure is a smooth talker...",
+        "The Captain sure is a smooth talker, huh..."
       ]
     },
     {
       "name": "Tap Dance City",
       "text": "Well, it was just a hunch, though!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Impressive that you realized it was a surprise!",
+        "Good catch figuring out it was a surprise!",
+        "The Captain sure is a smooth talker...",
+        "The Captain sure is a smooth talker, huh..."
+      ]
     },
     {
       "name": "Tap Dance City",

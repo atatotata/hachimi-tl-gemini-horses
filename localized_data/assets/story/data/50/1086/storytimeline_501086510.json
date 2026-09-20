@@ -7,7 +7,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "O Witch of Toriko... cast your magic \nalready! I'll definitely memorize it...!",
       "choice_data_list": [
         "(I really feel someone watching me...)"
@@ -17,13 +17,15 @@
       "name": "Mejiro Ramonu",
       "text": "...Looks like our conversation is over.",
       "choice_data_list": [
-        "Huh? No, not yet..."
+        "(I can really feel eyes on me...)"
       ]
     },
     {
       "name": "Mejiro Ramonu",
       "text": "Lacking focus. I simply cannot bear to \nlisten to someone in that state.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh? No, not yet..."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -31,7 +33,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Aah! Where do you think you're going?!",
       "choice_data_list": []
     },
@@ -47,13 +49,16 @@
       "name": "Sweep Tosho",
       "text": "Isn't it obvious?! I came to catch the \ndecisive moment when Ramonu uses her \nmagic!",
       "choice_data_list": [
-        "Magic?"
+        "Is something wrong...?",
+        "What's the matter...?"
       ]
     },
     {
       "name": "Sweep Tosho",
       "text": "That's right! It has to be!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Magic?"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -86,7 +91,10 @@
     {
       "name": "Narrator",
       "text": "\"While Sweep Tosho was absorbed in \ntalking, Mejiro Ramonu had already slipped \naway, giving me nothing more than a \npassing glance.\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -99,7 +107,10 @@
     {
       "name": "Sweep Tosho",
       "text": "Is this really the time to be emotionally \nwounded!? Let's chase after them!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Ain't that the truth...",
+        "Really, yeah..."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -127,7 +138,10 @@
     {
       "name": "Mejiro Ramonu",
       "text": "Heh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "It seems they want to see your magic...",
+        "It seems they want to see your magic..."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -145,29 +159,31 @@
       "name": "Sweep Tosho",
       "text": "What, if you knew, you should have told me \nearlier! So, what kind of magic is it?!",
       "choice_data_list": [
-        "Her magic is speed!",
-        "Just let the magic enchant you and learn."
+        "(I knew it, she dumped it all on me!)"
       ]
     },
     {
       "name": "Sweep Tosho",
       "text": "Huh? Speed?",
       "choice_data_list": [
-        "Oh, right!",
-        "Yeah, that's right!"
+        "Her magic is speed!",
+        "You can just get cast under a spell and learn from it."
       ]
     },
     {
       "name": "Narrator",
       "text": "The greatest magic Mejiro Ramonu \npossesses... the thing that captivates \npeople the most is, without a doubt, her \nrunning. And among all her qualities, her \nspeed is truly beautiful.",
       "choice_data_list": [
-        "For example, during a certain training \nsession—"
+        "Oh, that's right!",
+        "Yeah, that's it!"
       ]
     },
     {
       "name": "Narrator",
       "text": "So, I spoke about Mejiro Ramonu's \nmesmerizing running up to this point. I \nthought Sweep Tosho would understand once \nshe learned of its charm, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "For instance, during one of our training sessions—"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -179,7 +195,9 @@
     {
       "name": "Sweep Tosho",
       "text": "The way you talk is way too passionate, \nit's scary! You're... don't tell me you've \nalready fallen completely under their \nspell?!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Bwuh?!"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -191,7 +209,9 @@
     {
       "name": "Mejiro Ramonu",
       "text": "...Giggle.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Ramonu."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -213,7 +233,9 @@
     {
       "name": "Sweep Tosho",
       "text": "\"...Does that mean... I'm gonna be \ncompletely captivated by Ramonu?\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Because learning by doing is the best way."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -251,7 +273,10 @@
     {
       "name": "Mejiro Ramonu",
       "text": "Really? Guess that makes us accomplices, \nhuh...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Look who's talking.",
+        "More like you, honestly."
+      ]
     }
   ]
 }

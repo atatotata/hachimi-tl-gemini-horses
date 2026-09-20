@@ -55,7 +55,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Thank you very much as well."
+      ]
     },
     {
       "name": "Monologue",
@@ -71,7 +74,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Thank you."
+      "text": "Thank you.",
+      "choice_data_list": [
+        "Is something the matter?"
+      ]
     },
     {
       "name": "Light Hello",

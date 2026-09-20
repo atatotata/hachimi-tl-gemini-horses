@@ -93,13 +93,16 @@
       "name": "Symboli Kris S",
       "text": "—Are you scared?",
       "choice_data_list": [
-        "Huh?"
+        "...Yeah, you're right.",
+        "Right..."
       ]
     },
     {
       "name": "Symboli Kris S",
       "text": "...My battle—with Gimlet.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "",
@@ -127,7 +130,10 @@
     {
       "name": "",
       "text": "As Symboli Kris S's trainer, I resolved to \nstand beside her, see things from her \nperspective, match her pace, and walk \ntogether to fulfill our mission.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "――It's alright. There's nothing to fear.",
+        "――It's okay. There's nothing to be afraid of."
+      ]
     },
     {
       "name": "",
@@ -150,7 +156,10 @@
     {
       "name": "",
       "text": "\"The moment to decide the pinnacle of the \ngeneration—the number one in Japan— was \ndrawing ever closer—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     }
   ]
 }

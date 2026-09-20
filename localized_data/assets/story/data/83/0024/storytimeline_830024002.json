@@ -35,7 +35,10 @@
     },
     {
       "name": "Reporter",
-      "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!"
+      "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!",
+      "choice_data_list": [
+        "Please direct any further questions through the academy."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -43,7 +46,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, I know..."
+      "text": "Yeah, I know...",
+      "choice_data_list": [
+        "If something feels fishy, turn it down right away."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -67,11 +73,19 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "But..."
+      "text": "But...",
+      "choice_data_list": [
+        "You need to turn them down properly.",
+        "You have to turn them down properly."
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Your fans want to cherish you too.",
+        "Your fans want to cherish you too."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -91,7 +105,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Okay, I'll do that."
+      "text": "...Okay, I'll do that.",
+      "choice_data_list": [
+        "Turn to an adult when that happens.",
+        "I'll teach you magic words."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -99,7 +117,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy."
+      "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy.",
+      "choice_data_list": [
+        "Me?",
+        "Me?"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -111,7 +133,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, I've heard. My mom often praised\nme for it."
+      "text": "Yeah, I've heard. My mom often praised\nme for it.",
+      "choice_data_list": [
+        "You can be a little too honest sometimes.",
+        "You have a habit of being a little too honest."
+      ]
     },
     {
       "name": "Monologue",
@@ -123,7 +149,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "That's... exactly what you told the\nreporter!"
+      "text": "That's... exactly what you told the\nreporter!",
+      "choice_data_list": [
+        "\"Please go through the academy.\""
+      ]
     },
     {
       "name": "Oguri Cap",

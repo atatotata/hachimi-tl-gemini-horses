@@ -17,7 +17,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "Do you want to 'peek' into the \"DPSE\" too, \nStill in Love?",
       "choice_data_list": []
     },
@@ -227,7 +227,10 @@
     {
       "name": "Still in Love",
       "text": "Yes. Universe and I... I am certain we are \nlooking at the same thing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Stargazing together, huh? You two really get along.",
+        "If you'd like, tell me what kind of moon it was."
+      ]
     },
     {
       "name": "Neo Universe",

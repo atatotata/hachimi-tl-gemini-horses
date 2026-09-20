@@ -39,7 +39,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "<i>Huff...</i> Of course I can!"
+      "text": "<i>Huff...</i> Of course I can!",
+      "choice_data_list": [
+        "Can you still run? If you can, ten more sets!",
+        "Can you still run? If you're up for it, ten more sets!"
+      ]
     },
     {
       "name": "Monologue",

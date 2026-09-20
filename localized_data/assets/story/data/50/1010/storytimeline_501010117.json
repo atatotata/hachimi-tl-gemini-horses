@@ -79,7 +79,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I choose to believe in Taiki Shuttle's\npotential. I\nwon't doubt her ever again."
+      "text": "I choose to believe in Taiki Shuttle's\npotential. I\nwon't doubt her ever again.",
+      "choice_data_list": [
+        "No, that's not it.",
+        "No, that's not what I mean."
+      ]
     },
     {
       "name": "Monologue",
@@ -95,7 +99,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Yeppers! Somebody wants to see me!"
+      "text": "Yeppers! Somebody wants to see me!",
+      "choice_data_list": [
+        "Did you have some business to attend to?",
+        "Did you have something to take care of?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -203,7 +211,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Silence Suzuka is currently the\ntop-ranked\nUmamusume."
+      "text": "Silence Suzuka is currently the\ntop-ranked\nUmamusume.",
+      "choice_data_list": [
+        "True...!!"
+      ]
     },
     {
       "name": "Monologue",
@@ -239,7 +250,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Taiki Shuttle's chances of becoming\nUmamusume\nof the Year hinge on the\nresults of the Mile\nChampionship!"
+      "text": "Taiki Shuttle's chances of becoming\nUmamusume\nof the Year hinge on the\nresults of the Mile\nChampionship!",
+      "choice_data_list": [
+        "Alright, that's the spirit!!",
+        "Alright, that's the spirit!!"
+      ]
     }
   ]
 }

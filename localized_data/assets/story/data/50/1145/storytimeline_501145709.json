@@ -29,15 +29,19 @@
       "name": "Rulership",
       "text": "\"Hey, I'd like to hear your thoughts for \nreference. How did today's race look from \nyour perspective?\"",
       "choice_data_list": [
-        "So close. You ran an amazing race.",
-        "So close. Your running was incredible.",
-        "Let's polish up the rough edges!"
+        "You were so close. Your run was incredible.",
+        "You were so close. Your run was incredible.",
+        "Let's polish up those rough edges!"
       ]
     },
     {
       "name": "Rulership",
       "text": "...Right? It was so close... Just a little \nbit more...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You were so close. Your run was incredible.",
+        "You were so close. Your run was incredible.",
+        "Let's polish up those rough edges!"
+      ]
     },
     {
       "name": "Rulership",
@@ -65,7 +69,10 @@
     {
       "name": "Rulership",
       "text": "...Understood. Let's reexamine the \ntraining routine as well.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Exactly!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Rulership",

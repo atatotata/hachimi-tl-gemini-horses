@@ -7,7 +7,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I... might not be..."
+      "text": "I... might not be...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Oh, come on!"
+      "text": "Oh, come on!",
+      "choice_data_list": [
+        "You can win, Nature!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -51,7 +57,10 @@
     },
     {
       "name": "Racecourse Employee",
-      "text": "Tokai Teio withdrew from the race."
+      "text": "Tokai Teio withdrew from the race.",
+      "choice_data_list": [
+        "Did something happen?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -87,7 +96,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I can't! I was finally ready to face her..."
+      "text": "I can't! I was finally ready to face her...",
+      "choice_data_list": [
+        "Calm down."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -103,7 +115,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Don't chase anyone's back!",
+        "Don't chase after anyone's back!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -111,11 +127,18 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I know, I know... But..."
+      "text": "I know, I know... But...",
+      "choice_data_list": [
+        "Teio isn't running in this one."
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "All the more reason to win!",
+        "All the more reason you have to win!"
+      ]
     },
     {
       "name": "Monologue",
@@ -127,7 +150,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "My own..."
+      "text": "My own...",
+      "choice_data_list": [
+        "Let's just make sure you run your own race."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -147,7 +173,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I will!"
+      "text": "I will!",
+      "choice_data_list": [
+        "Go get 'em!",
+        "Good luck out there!"
+      ]
     }
   ]
 }

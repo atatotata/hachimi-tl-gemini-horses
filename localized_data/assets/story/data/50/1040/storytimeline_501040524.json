@@ -43,7 +43,11 @@
     },
     {
       "name": "Gold City",
-      "text": "I saw you, dummy."
+      "text": "I saw you, dummy.",
+      "choice_data_list": [
+        "Assume it's a misunderstanding and quietly leave.",
+        "I'll cheer for you with all my might!!"
+      ]
     },
     {
       "name": "Photographer",
@@ -63,7 +67,10 @@
     },
     {
       "name": "Photographer",
-      "text": "Oh. It seems you have a very enthusiastic\nfan!\nImpressive commitment."
+      "text": "Oh. It seems you have a very enthusiastic\nfan!\nImpressive commitment.",
+      "choice_data_list": [
+        "Go for it--! City!!"
+      ]
     },
     {
       "name": "Gold City",

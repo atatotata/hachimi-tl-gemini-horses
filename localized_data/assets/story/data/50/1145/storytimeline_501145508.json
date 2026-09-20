@@ -22,13 +22,15 @@
       "name": "Rulership",
       "text": "*Inhale*... *Zzz*... *zzz*...",
       "choice_data_list": [
-        "(Is she asleep...?)"
+        "Rulership...?"
       ]
     },
     {
       "name": "",
       "text": "Falling asleep while thinking over tactics \nmeans she must be exhausted from the race. \nIt would be best to reconsider our \nschedule.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Is she asleep...?)"
+      ]
     }
   ]
 }

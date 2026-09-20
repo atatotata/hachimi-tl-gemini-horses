@@ -39,7 +39,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Something felt off about during the race.\nSatono\nDiamond was clearly feeling\ntired near the end."
+      "text": "Something felt off about during the race.\nSatono\nDiamond was clearly feeling\ntired near the end.",
+      "choice_data_list": [
+        "(That's not her best...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -63,11 +66,18 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Trainer..."
+      "text": "Trainer...",
+      "choice_data_list": [
+        "(Dia...!)"
+      ]
     },
     {
       "name": "Satono Diamond",
-      "text": "Huh?! There's no need for you to\napologize!"
+      "text": "Huh?! There's no need for you to\napologize!",
+      "choice_data_list": [
+        "Sorry for making you run all the way to the racecourse.",
+        "Sorry for making you run all the way to the racecourse, okay?"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -83,7 +93,10 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "But I won't lose next time!"
+      "text": "But I won't lose next time!",
+      "choice_data_list": [
+        "Dia..."
+      ]
     },
     {
       "name": "Satono Diamond",

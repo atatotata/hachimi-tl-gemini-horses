@@ -15,7 +15,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Would you like to use this umbrella?"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -23,7 +26,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Then I suppose I have no reason to\nrefuse. Thank\nyou for this."
+      "text": "Then I suppose I have no reason to\nrefuse. Thank\nyou for this.",
+      "choice_data_list": [
+        "I have a folding umbrella, so don't worry.",
+        "I have a folding umbrella with me, so..."
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -31,7 +38,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes. I have an important matter\nscheduled for\ntoday. Come, let's go to\nthe racecourse."
+      "text": "Yes. I have an important matter\nscheduled for\ntoday. Come, let's go to\nthe racecourse.",
+      "choice_data_list": [
+        "In a selection race?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -71,7 +81,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "One of the younger students that Scarlet\nand I\nhave grown close to is competing\nin today's\ntryouts."
+      "text": "One of the younger students that Scarlet\nand I\nhave grown close to is competing\nin today's\ntryouts.",
+      "choice_data_list": [
+        "Speaking of which, what were those important plans?"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -79,7 +92,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "I wonder if she'll be okay... Do you think\nshe's\nnervous?!"
+      "text": "I wonder if she'll be okay... Do you think\nshe's\nnervous?!",
+      "choice_data_list": [
+        "That's really important!"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -135,15 +151,28 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Hehe... Thank you! However, those\nwords would\nbe better directed at our\nyoung victor."
+      "text": "Hehe... Thank you! However, those\nwords would\nbe better directed at our\nyoung victor.",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Hehe... Thank you! However, those\nwords would\nbe better directed at our\nyoung victor."
+      "text": "Hehe... Thank you! However, those\nwords would\nbe better directed at our\nyoung victor.",
+      "choice_data_list": [
+        "Guess that makes us rivals from now on!",
+        "Guess that makes us rivals from now on!",
+        "Time for a big celebration today."
+      ]
     },
     {
       "name": "Eishin Flash",
-      "text": "So it seems. We'll have to stay on our\ntoes once\nshe has a trainer of her own."
+      "text": "So it seems. We'll have to stay on our\ntoes once\nshe has a trainer of her own.",
+      "choice_data_list": [
+        "Guess that makes us rivals from now on!",
+        "Guess that makes us rivals from now on!",
+        "Time for a big celebration today."
+      ]
     },
     {
       "name": "Daiwa Scarlet",

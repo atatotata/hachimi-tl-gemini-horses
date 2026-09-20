@@ -70,7 +70,9 @@
     {
       "name": "Narrator",
       "text": "The two danced to the thunderous rhythm of \nthe Japanese drums, \nmoving with the gallant grace of true \nsamurai.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(This sound... taiko drums?)"
+      ]
     },
     {
       "name": "Narrator",
@@ -82,7 +84,9 @@
     {
       "name": "Air Groove",
       "text": "Oho, now this is... intriguing.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(That's so cool...!)"
+      ]
     },
     {
       "name": "Samson Big",
@@ -115,7 +119,10 @@
     {
       "name": "Narrator",
       "text": "It was a truly mesmerizing performance. \nI told Phalaenopsis and the others that it \nwould be a shame \nto let it end as mere practice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I think that's a great idea too!",
+        "I think that's a great idea too!"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -136,8 +143,8 @@
       "name": "Samson Big",
       "text": "Yeah, I'll do my best too! \nI'm gonna practice tons before the big \nday~~!",
       "choice_data_list": [
-        "Is there anything I can do to help?",
-        "Is there anything I can do to help?",
+        "Is there anything I can help with too?",
+        "Is there anything I can do to help out?",
         "Then I want to be the DJ!",
         "Then I want to be the DJ!"
       ]
@@ -145,7 +152,12 @@
     {
       "name": "Phalaenopsis",
       "text": "Hmm, let's see—ah, \nthen could you help us brainstorm the \noutfits?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is there anything I can help with too?",
+        "Is there anything I can do to help out?",
+        "Then I want to be the DJ!",
+        "Then I want to be the DJ!"
+      ]
     },
     {
       "name": "Phalaenopsis",

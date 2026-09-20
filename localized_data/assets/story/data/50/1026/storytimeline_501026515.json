@@ -11,7 +11,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes. You see—"
+      "text": "Yes. You see—",
+      "choice_data_list": [
+        "It's rare for you to cut it that close.",
+        "It's unusual for you to cut it so close."
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -27,7 +31,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "That's correct! The topic at hand is why\nshe keeps\nbreaking our vending\nmachines!"
+      "text": "That's correct! The topic at hand is why\nshe keeps\nbreaking our vending\nmachines!",
+      "choice_data_list": [
+        "A debate?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh? Yes, you're right about that."
+      "text": "Oh? Yes, you're right about that.",
+      "choice_data_list": [
+        "It's a real pain when the vending machine's out of order..."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -79,7 +89,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "A friend... I have determined that option\nto be\ndifficult."
+      "text": "A friend... I have determined that option\nto be\ndifficult.",
+      "choice_data_list": [
+        "Let's ask a friend who's nearby.",
+        "Like using a tool to buy it, maybe?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -183,7 +197,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Indeed."
+      "text": "Indeed.",
+      "choice_data_list": [
+        "Sounds great!"
+      ]
     },
     {
       "name": "Mihono Bourbon",

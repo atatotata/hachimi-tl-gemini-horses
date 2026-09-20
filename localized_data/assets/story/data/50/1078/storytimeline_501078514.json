@@ -35,7 +35,11 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "The wind <i>is</i> quite strong today, though,\nso\nperhaps a mischievous wind has flung\nit off\nsomewhere."
+      "text": "The wind <i>is</i> quite strong today, though,\nso\nperhaps a mischievous wind has flung\nit off\nsomewhere.",
+      "choice_data_list": [
+        "I didn't see it either.",
+        "I didn't see them either."
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -119,11 +123,21 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Even when we were sure it was a lost\ncause, you\npushed on without hesitation\nand swept our\nworries away as casually\nas the wind blows."
+      "text": "Even when we were sure it was a lost\ncause, you\npushed on without hesitation\nand swept our\nworries away as casually\nas the wind blows.",
+      "choice_data_list": [
+        "Zephyr's got what it takes.",
+        "That shows in your running, too.",
+        "That shows in your running, too."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Hehe. Yes, I'm quite the capable wind."
+      "text": "Hehe. Yes, I'm quite the capable wind.",
+      "choice_data_list": [
+        "Zephyr's got what it takes.",
+        "That shows in your running, too.",
+        "That shows in your running, too."
+      ]
     },
     {
       "name": "Daiichi Ruby",

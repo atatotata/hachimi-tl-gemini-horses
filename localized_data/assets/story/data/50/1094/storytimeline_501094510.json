@@ -22,13 +22,15 @@
       "name": "Jungle Pocket",
       "text": "Oh, if it isn't my partner! What's up, out \nfor a walk?",
       "choice_data_list": [
-        "Pretty much. How about you?"
+        "(That's Pokke and the others... What are they doing?)"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "I'm just helping out Fuji-san a bit. Here, \ntake this.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Pretty much. How about you?"
+      ]
     },
     {
       "name": "Narrator",
@@ -41,7 +43,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Yeah. Fuji-san's always looking into it, \nbut... Man, it's seriously incredible!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Impressive, Pokke and the others made this?",
+        "Amazing. Pokke and the others made this?"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -64,7 +69,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Heheh, thanks.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Way to go, Pokke and the gang!",
+        "Good job, Pokke and the others!"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -132,10 +140,13 @@
     {
       "name": "Fuji Kiseki",
       "text": "Yeah. But if it's Pokke—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "So you haven't heard anything either, even as dorm head?",
+        "So you haven't heard anything either, despite being dorm head."
+      ]
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "—Uoooohhhhhhh!!",
       "choice_data_list": []
     },
@@ -160,7 +171,10 @@
     {
       "name": "Jungle Pocket",
       "text": "Oh, partner! Well of course. It's nothing \nto praise me over.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You made curfew, Pokke!",
+        "You made it back before curfew, Pokke!"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -172,7 +186,9 @@
     {
       "name": "Fuji Kiseki",
       "text": "Because if a dorm resident breaks curfew, \nI'm the dorm leader who gets scolded for \nit. In other words—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, Fuji?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -203,16 +219,21 @@
       "name": "Jungle Pocket",
       "text": "Ah, you really are so cool! Always makin' \nfolks wanna come back home to you, that's \nseriously what's so great about you!",
       "choice_data_list": [
-        "You gave it your all, huh!",
-        "You gave it your all, didn't you!",
-        "Maybe having those feelings is what helped \nyou run so fast.",
-        "Maybe having those feelings is what helped \nyou run so fast."
+        "You really gave it everything you had!",
+        "You really gave it everything you had, huh!",
+        "Maybe having those feelings was why you could run so fast, huh.",
+        "Maybe having those feelings was why you could run so fast, don't you think?"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "Yeah. I'm not carrying the title of \nFuji-san's junior with half-assed resolve.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You really gave it everything you had!",
+        "You really gave it everything you had, huh!",
+        "Maybe having those feelings was why you could run so fast, huh.",
+        "Maybe having those feelings was why you could run so fast, don't you think?"
+      ]
     },
     {
       "name": "Jungle Pocket",

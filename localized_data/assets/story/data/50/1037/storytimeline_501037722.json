@@ -11,7 +11,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "My apologies. I woke up with a\nheadache this\nmorning..."
+      "text": "My apologies. I woke up with a\nheadache this\nmorning...",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -19,7 +23,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes, there is no cause for concern."
+      "text": "Yes, there is no cause for concern.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
     },
     {
       "name": "Eishin Flash",

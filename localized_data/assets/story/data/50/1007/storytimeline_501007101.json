@@ -39,7 +39,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "What's this? Do you have something\nspecial to\nconfess to me?"
+      "text": "What's this? Do you have something\nspecial to\nconfess to me?",
+      "choice_data_list": [
+        "Oh, yeah, by the way—",
+        "Y-Yeah, by the way—"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -47,7 +51,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "...Huh? The Classics?"
+      "text": "...Huh? The Classics?",
+      "choice_data_list": [
+        "Let's make our mark in the Classics this year!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -59,7 +66,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "All right, I'm interested! Tell me more!\nHow do\nyou think I should be styling my\nperformances?"
+      "text": "All right, I'm interested! Tell me more!\nHow do\nyou think I should be styling my\nperformances?",
+      "choice_data_list": [
+        "...Hmm?"
+      ]
     },
     {
       "name": "Monologue",
@@ -67,7 +77,12 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah, that makes sense. Stamina's\nimportant for\nextra long performances."
+      "text": "Yeah, that makes sense. Stamina's\nimportant for\nextra long performances.",
+      "choice_data_list": [
+        "Let's build up the stamina to run long distances!",
+        "We can figure it out together from here on.",
+        "Let's do a dome tour!"
+      ]
     },
     {
       "name": "Gold Ship",

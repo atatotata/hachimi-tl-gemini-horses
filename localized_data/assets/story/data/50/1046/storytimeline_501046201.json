@@ -31,7 +31,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Well, yeah. I knew this would happen."
+      "text": "Well, yeah. I knew this would happen.",
+      "choice_data_list": [
+        "You seem pretty calm.",
+        "You're looking pretty calm."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -63,11 +67,18 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "...?!"
+      "text": "...?!",
+      "choice_data_list": [
+        "L-O-V-E! Love, Falco!"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "...Haha, I should know this by now. I'm\nnot on my\nown."
+      "text": "...Haha, I should know this by now. I'm\nnot on my\nown.",
+      "choice_data_list": [
+        "I believe in you too.",
+        "I believe in you too."
+      ]
     },
     {
       "name": "Smart Falcon",

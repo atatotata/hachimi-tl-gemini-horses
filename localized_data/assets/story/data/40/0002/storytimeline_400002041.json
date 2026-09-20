@@ -11,7 +11,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "What would you like me to explain?"
+      "text": "What would you like me to explain?",
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Don't listen to the explanation"
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +23,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "The Unity Cup is a team-based\ncompetition held\nby Tracen Academy\nthat runs concurrently with\nthe Twinkle\nSeries!"
+      "text": "The Unity Cup is a team-based\ncompetition held\nby Tracen Academy\nthat runs concurrently with\nthe Twinkle\nSeries!",
+      "choice_data_list": [
+        "About the Aoharu Cup",
+        "About the Aoharu Cup races",
+        "About Team Members and Aoharu Training",
+        "About Team Info",
+        "I'm fine now."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -323,7 +334,11 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Very well! ♪ Just in case, I've prepared a\nsummary\nof everything you'll need to\nknow."
+      "text": "Very well! ♪ Just in case, I've prepared a\nsummary\nof everything you'll need to\nknow.",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

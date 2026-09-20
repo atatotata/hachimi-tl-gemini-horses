@@ -43,7 +43,10 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "For starters, can you both tell me what\nyou were\nplanning to get?"
+      "text": "For starters, can you both tell me what\nyou were\nplanning to get?",
+      "choice_data_list": [
+        "So progress stalled due to conflicting opinions, then."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -103,7 +106,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro Palmer keeps talking with them\nuntil they\nfinally find common ground."
+      "text": "Mejiro Palmer keeps talking with them\nuntil they\nfinally find common ground.",
+      "choice_data_list": [
+        "(I've basically become an interpreter...!)"
+      ]
     },
     {
       "name": "Shop Staff",
@@ -139,7 +145,11 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ahaha! Nah, I hardly did anything."
+      "text": "Ahaha! Nah, I hardly did anything.",
+      "choice_data_list": [
+        "You were a splendid mediator.",
+        "You were a splendid mediator."
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -151,11 +161,21 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "All I did was help them see that!"
+      "text": "All I did was help them see that!",
+      "choice_data_list": [
+        "That's no easy feat.",
+        "That's not something just anyone can do, you know.",
+        "That was a good learning experience."
+      ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "You are <i>so</i> extra, I swear! You're gonna\nmake me\nblush with all that flattery!"
+      "text": "You are <i>so</i> extra, I swear! You're gonna\nmake me\nblush with all that flattery!",
+      "choice_data_list": [
+        "That's no easy feat.",
+        "That's not something just anyone can do, you know.",
+        "That was a good learning experience."
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -167,7 +187,11 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Yeah! ♪"
+      "text": "Yeah! ♪",
+      "choice_data_list": [
+        "Then we're even.",
+        "Then we're even."
+      ]
     },
     {
       "name": "Monologue",
@@ -183,11 +207,17 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Gah! Never mind, forget it! There's no\nway I can\nlive up to a title like that!"
+      "text": "Gah! Never mind, forget it! There's no\nway I can\nlive up to a title like that!",
+      "choice_data_list": [
+        "Right away, 'Professor' Palmer."
+      ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Hey, cut it out already!"
+      "text": "Hey, cut it out already!",
+      "choice_data_list": [
+        "Come on, that's not true, 'Professor' Palmer."
+      ]
     },
     {
       "name": "Monologue",

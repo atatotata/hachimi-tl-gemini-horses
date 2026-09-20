@@ -247,7 +247,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Unsure of what she's trying to get at, I\nrespond\nwith a question my own."
+      "text": "Unsure of what she's trying to get at, I\nrespond\nwith a question my own.",
+      "choice_data_list": [
+        "Yeah...? What do you mean by that?",
+        "Yeah...? What do you mean?"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -279,7 +283,11 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "...Really?"
+      "text": "...Really?",
+      "choice_data_list": [
+        "I see âpotentialâ in you.",
+        "I see real \"potential\" in you."
+      ]
     },
     {
       "name": "Monologue",

@@ -22,7 +22,10 @@
     {
       "name": "Gentildonna",
       "text": "Of course. The strong have no time to \nstand still, after all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, do you really plan on continuing?",
+        "Wait, are you really planning on continuing?"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -37,23 +40,27 @@
       "name": "Gentildonna",
       "text": "Now, Trainer, won't you get ready as well? \nThis isn't where we are meant to be.",
       "choice_data_list": [
-        "...Knowing when to comfortably take a rest \nis the mark of true strength.",
-        "...Taking a well-deserved rest is the mark \nof true strength, you know.",
-        "At least let me adjust your training menu."
+        "...Knowing when to rest is also the mark of the strong.",
+        "...Knowing when to rest is also the mark of the strong, you know.",
+        "At least let me adjust the routine."
       ]
     },
     {
       "name": "Narrator",
       "text": "You might feel confident in your physical \ncondition, but I'd still like you to rest \njust in case. Besides, even if you take a \nbreak here—",
       "choice_data_list": [
-        "The fact that you're strong is completely \nundeniable.",
-        "The fact that you're strong remains \nunshaken."
+        "...Knowing when to rest is also the mark of the strong.",
+        "...Knowing when to rest is also the mark of the strong, you know.",
+        "At least let me adjust the routine."
       ]
     },
     {
       "name": "Gentildonna",
       "text": "—...What a shallow way of thinking.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "The fact that you're one of the strongest will never waver.",
+        "The fact that you're strong won't change"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -86,13 +93,15 @@
       "name": "Gentildonna",
       "text": "...How pathetic. After boasting like that, \ntoo...",
       "choice_data_list": [
-        "Let's just rest for now."
+        "Gentil!!"
       ]
     },
     {
       "name": "Gentildonna",
       "text": "Yes. After that, we'll regroup. We need \nthe resilience to not be stopped by an \ninjury of this caliber...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Anyway, let's rest for now."
+      ]
     },
     {
       "name": "Narrator",
@@ -109,7 +118,9 @@
     {
       "name": "Gentildonna",
       "text": "—...Phew. Not too bad.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Amazing...! You can't even tell there was an injury...!"
+      ]
     },
     {
       "name": "Gentildonna",

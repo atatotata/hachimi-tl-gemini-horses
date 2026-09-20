@@ -43,7 +43,10 @@
     },
     {
       "name": "Staff",
-      "text": "We've heard about what happened the\nother\nday..."
+      "text": "We've heard about what happened the\nother\nday...",
+      "choice_data_list": [
+        "Yes...?"
+      ]
     },
     {
       "name": "Staff",
@@ -51,7 +54,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I remember the conversation I had with\nSweep\nTosho's grandmother."
+      "text": "I remember the conversation I had with\nSweep\nTosho's grandmother.",
+      "choice_data_list": [
+        "...Is that because you're worried?"
+      ]
     },
     {
       "name": "Sweep's Grandma",
@@ -67,11 +73,17 @@
     },
     {
       "name": "Staff",
-      "text": "Are you sure? Wouldn't it be best to set\nup some\nkind of contingency plan just in\ncase?"
+      "text": "Are you sure? Wouldn't it be best to set\nup some\nkind of contingency plan just in\ncase?",
+      "choice_data_list": [
+        "I'm all right."
+      ]
     },
     {
       "name": "Staff",
-      "text": "...All right, then. You're her trainer, so if\nyou say\nso."
+      "text": "...All right, then. You're her trainer, so if\nyou say\nso.",
+      "choice_data_list": [
+        "She'll be fine."
+      ]
     },
     {
       "name": "Sweep Tosho",

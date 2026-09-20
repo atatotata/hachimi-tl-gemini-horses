@@ -12,13 +12,16 @@
       "name": "Phalaenopsis",
       "text": "......Hm?",
       "choice_data_list": [
-        "...Is something wrong?"
+        "Yeah, next up is—",
+        "Right, next up is—"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "No—that person walking over there. \nI couldn't help but take notice.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "...Something wrong?"
+      ]
     },
     {
       "name": "Distressed Woman",
@@ -56,7 +59,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Much obliged. Now, let us be off.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I'll handle the luggage.",
+        "I'll carry the luggage for you."
+      ]
     },
     {
       "name": "Distressed Woman",
@@ -95,21 +101,24 @@
       "name": "Phalaenopsis",
       "text": "—It is... nothing serious.",
       "choice_data_list": [
-        ", let's rest."
+        "...Hasn't your body temperature gotten too high?",
+        "...Aren't you running a bit too hot?"
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "I told you, it is nothing serious... \nI simply do not wish to impose upon your \ntime.",
       "choice_data_list": [
-        "There's no need to push yourself, not in \nfront of me.",
-        "There's no need to push yourself, not in \nfront of me."
+        "Let's take a short break."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "...... Fufu.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You don't have to push yourself in front of me.",
+        "You don't need to push yourself in front of me, too."
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -131,7 +140,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Yes. One who is capable of kindness \npossesses both \nthe wisdom to see into another's heart and \nstand by them, \nand the strength to reach out a helping \nhand.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Is she strong?"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -144,7 +155,10 @@
     {
       "name": "Phalaenopsis",
       "text": "...Truly, I am much better now. \nI cannot impose on you forever. Please, \nlet me down.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...If you're going to put it like that, you're the one who...)",
+        "(...If you're going to put it like that, you're the one who...)"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -156,7 +170,9 @@
     {
       "name": "Phalaenopsis",
       "text": "...Oh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "A few words are starting to come to mind."
+      ]
     },
     {
       "name": "Narrator",
@@ -208,7 +224,9 @@
     {
       "name": "Phalaenopsis",
       "text": "Family.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "That's—"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -230,17 +248,23 @@
       "name": "Phalaenopsis",
       "text": "And—once you do, \nthat bond shall surely never unravel.",
       "choice_data_list": [
-        "As your pupil, I'll keep following in your \nfootsteps.",
-        "I'd love to see that kind of bond spread \nfurther and further.",
-        "I'd love to see that kind of bond spread \nfurther and further.",
-        "I want to be someone who can give a lot to \nothers too.",
-        "I want to be someone who can give a lot to \nothers too."
+        "As your apprentice, I'll follow you wherever you go.",
+        "I'd love to keep expanding relationships like that.",
+        "It'd be great to keep expanding relationships like that.",
+        "I want to be someone who can give plenty back, too.",
+        "I want to be someone who gives a lot to others too."
       ]
     },
     {
       "name": "Phalaenopsis",
       "text": "Fufufu, how earnest of you. \nI am deeply grateful for that sentiment as \nwell.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "As your apprentice, I'll follow you wherever you go.",
+        "I'd love to keep expanding relationships like that.",
+        "It'd be great to keep expanding relationships like that.",
+        "I want to be someone who can give plenty back, too.",
+        "I want to be someone who gives a lot to others too."
+      ]
     },
     {
       "name": "Phalaenopsis",

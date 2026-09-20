@@ -12,21 +12,23 @@
       "name": "Narrator",
       "text": "Accepting every single request will impact \nher most important training. <chrname>'s wishes \ncome first, but—",
       "choice_data_list": [
-        "(I really want to live up to those \nexpectations if I can.)",
-        "(I'd like to live up to their expectations \nif I can...)"
+        "(It's a welcome offer, but...)"
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "Trainer-kun.",
       "choice_data_list": [
-        "Huh, everyone...?"
+        "(I'd really like to live up to their expectations, though.)",
+        "(I'd really like to live up to their expectations, though...)"
       ]
     },
     {
       "name": "Saint Lite",
       "text": "I have heard. That you are having trouble \nbalancing your work and training.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, everyone...?"
+      ]
     },
     {
       "name": "Haiseiko",
@@ -38,7 +40,9 @@
     {
       "name": "Narrator",
       "text": "And so, having gained a reassuring ally... \nwe decided to accept the requests we chose \nafter consulting with <chrname>.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(It's true, that really is the ultimate support...!)"
+      ]
     },
     {
       "name": "Narrator",
@@ -61,13 +65,15 @@
       "name": "Speed Symboli",
       "text": "\"Still, it sounds like it's going to be a \ngreat talk show. To think you'd be \nappearing on stage as well.\"",
       "choice_data_list": [
-        "At <nickname>'s request..."
+        "Understood... I'll make the adjustments!"
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "I see. You two have a great relationship.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Per <nickname>'s wishes..."
+      ]
     },
     {
       "name": "Speed Symboli",
@@ -80,28 +86,30 @@
       "name": "Speed Symboli",
       "text": "To me?",
       "choice_data_list": [
-        "It's about speaking for the sake of the \nfuture."
+        "I was influenced by you, too."
       ]
     },
     {
       "name": "Narrator",
       "text": "For the sake of her ideals, Speed Symboli \nspoke openly without hiding a thing... and \nher tone was always one of steadfast \nself-affirmation.",
       "choice_data_list": [
-        "<nickname> must surely..."
+        "It is to speak for the sake of the future."
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "...If that is the case, it surely isn't \njust me. You too—Trainer-kun.",
       "choice_data_list": [
-        "Me...?",
-        "M-me...?"
+        "<nickname> must also be..."
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "“Yeah. Because... I want to answer their \nexpectations.”",
-      "choice_data_list": []
+      "choice_data_list": [
+        "You mean... me?",
+        "Me...?"
+      ]
     },
     {
       "name": "Former Academy Chairwoman",
@@ -123,7 +131,9 @@
     {
       "name": "Speed Symboli",
       "text": "...Ah, excuse me.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "—...Speed Symboli-san?"
+      ]
     },
     {
       "name": "Speed Symboli",
@@ -155,7 +165,9 @@
     {
       "name": "Haiseiko",
       "text": "Yes, it feels great!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "<nickname>, what do you think?"
+      ]
     },
     {
       "name": "Haiseiko",
@@ -172,7 +184,9 @@
     {
       "name": "Haiseiko",
       "text": "Huh?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I think you inspired them."
+      ]
     },
     {
       "name": "Narrator",
@@ -194,7 +208,9 @@
     {
       "name": "Haiseiko",
       "text": "By all means! I'm sure <nickname>-chan will be \noverjoyed.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I know it'll be that much harder, so I'll support you!"
+      ]
     },
     {
       "name": "Haiseiko",
@@ -232,7 +248,10 @@
     {
       "name": "Haiseiko",
       "text": "Yes! Make sure you give <nickname>-chan plenty of \npraise, okay?♪",
-      "choice_data_list": []
+      "choice_data_list": [
+        "To me...?",
+        "To me...?"
+      ]
     },
     {
       "name": "Narrator",
@@ -260,13 +279,15 @@
       "name": "Saint Lite",
       "text": "Oh? For example?",
       "choice_data_list": [
-        "Something like... staying proud and \ndignified..."
+        "I'm sure there are parts she learned from you, too."
       ]
     },
     {
       "name": "Narrator",
       "text": "St. Lite's dignified bearing, taking pride \nin her own achievements... Deeply \nimpressed by her presence, <chrname>—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Holding your head high with pride... maybe?"
+      ]
     },
     {
       "name": "Narrator",
@@ -278,7 +299,9 @@
     {
       "name": "Saint Lite",
       "text": "\"I don't mind. Though I'm not particularly \nfond of parties...\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Thank you for coming along with me. It was a huge help."
+      ]
     },
     {
       "name": "Saint Lite",
@@ -290,7 +313,9 @@
     {
       "name": "Saint Lite",
       "text": "Yes. It almost feels as though...—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "I-Is that so?"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -317,7 +342,9 @@
     {
       "name": "Saint Lite",
       "text": "In short, what I wished to say was...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "St. Lite?"
+      ]
     },
     {
       "name": "Saint Lite",
@@ -360,14 +387,16 @@
       "name": "Haiseiko",
       "text": "Fufu, I have to praise <nickname>-chan—and Trainer!",
       "choice_data_list": [
-        "Huh, no, no, I'm—!",
-        "Huh, no, no, I'm—!"
+        "Yes...!"
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "For her sake and for the fans, I planned \nfar ahead and poured my whole heart into \ngiving it my all.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait, no, no, I'm—!",
+        "Wait, no, no, I'm—!"
+      ]
     },
     {
       "name": "Speed Symboli",
@@ -414,7 +443,9 @@
     {
       "name": "Narrator",
       "text": "Yes, they too... surely did not achieve \ngreat feats all on their own. By their \nside was—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Everyone..."
+      ]
     },
     {
       "name": "Narrator",
@@ -437,13 +468,15 @@
       "name": "Speed Symboli",
       "text": "Leave the rest to us. You should head back \nto the academy.",
       "choice_data_list": [
-        "Yes, thank you so much!"
+        "……！"
       ]
     },
     {
       "name": "Speed Symboli",
       "text": "Well then, Trainer-kun.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yes, thank you very much!"
+      ]
     },
     {
       "name": "Speed Symboli",

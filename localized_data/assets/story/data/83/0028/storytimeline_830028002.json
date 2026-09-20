@@ -19,7 +19,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "Kita, did you drop this cold medicine?"
+      "text": "Kita, did you drop this cold medicine?",
+      "choice_data_list": [
+        "Cooling gel sheet...?"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -71,7 +74,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Thank you so much, everyone!"
+      "text": "Thank you so much, everyone!",
+      "choice_data_list": [
+        "It'd be tough alone—I'll carry it.",
+        "It'd be tough alone, right? I'll carry it."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -79,7 +86,10 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Kita? Thanks for coming..."
+      "text": "Kita? Thanks for coming...",
+      "choice_data_list": [
+        "I'll leave the get-well gift right here."
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -119,11 +129,21 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "See, I've got my own reasons too! So just\nrest up\nand let me handle this!"
+      "text": "See, I've got my own reasons too! So just\nrest up\nand let me handle this!",
+      "choice_data_list": [
+        "We need to get that treated quickly.",
+        "We can't let all this energy beat us!"
+      ]
     },
     {
       "name": "Satono Diamond",
-      "text": "...Hehe, I suppose you're right."
+      "text": "...Hehe, I suppose you're right.",
+      "choice_data_list": [
+        "We need to get that treated quickly.",
+        "We need to get that treated quickly.",
+        "We can't let all this energy beat us!",
+        "We can't let all this energy beat us!"
+      ]
     },
     {
       "name": "Satono Diamond",

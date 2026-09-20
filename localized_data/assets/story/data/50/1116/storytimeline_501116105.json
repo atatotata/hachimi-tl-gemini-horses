@@ -37,7 +37,10 @@
     {
       "name": "Gentildonna",
       "text": "Yes, let's do that.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Want to take a peek inside?",
+        "Should we peek inside?"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -50,13 +53,15 @@
       "name": "Gentildonna",
       "text": "\"...What's with that meaningful look on \nyour face?\"",
       "choice_data_list": [
-        "I had no idea you liked it so much you \nwanted to dress me up in it."
+        "...Huh."
       ]
     },
     {
       "name": "Gentildonna",
       "text": "……。",
-      "choice_data_list": []
+      "choice_data_list": [
+        "To think they liked you enough to want to play dress-up."
+      ]
     },
     {
       "name": "Gentildonna",
@@ -83,7 +88,9 @@
     {
       "name": "Narrator",
       "text": "—This year as well, the passionate summer \ntraining camp begins!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(There's just no competing with that...)"
+      ]
     }
   ]
 }

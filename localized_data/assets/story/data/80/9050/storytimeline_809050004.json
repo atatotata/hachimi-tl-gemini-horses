@@ -15,13 +15,16 @@
       "name": "Horse Girl",
       "text": "Ah, aaah...!!",
       "choice_data_list": [
-        "What happened!?",
-        "What's wrong!?"
+        "...! What was that just now!?"
       ]
     },
     {
       "name": "Horse Girl",
-      "text": "...Bl... Bloo...d...!"
+      "text": "...Bl... Bloo...d...!",
+      "choice_data_list": [
+        "What's the matter?!",
+        "What's wrong?!"
+      ]
     },
     {
       "name": "Horse Girl",
@@ -31,7 +34,10 @@
       ]
     },
     {
-      "text": "Checking inside the room— a scene of blood \nsplattered across the floor and walls \ncomes into view."
+      "text": "Checking inside the room— a scene of blood \nsplattered across the floor and walls \ncomes into view.",
+      "choice_data_list": [
+        "Wh-what...?!"
+      ]
     },
     {
       "name": "Horse Girls",
@@ -50,7 +56,10 @@
     },
     {
       "name": "Hoshina Keiko",
-      "text": "...Yes, Trainer-san over there is quite \nright."
+      "text": "...Yes, Trainer-san over there is quite \nright.",
+      "choice_data_list": [
+        "Calm down, don't panic."
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -74,12 +83,15 @@
     {
       "text": "Something definitely happened here. I \ncan't rest easy until the truth is known.",
       "choice_data_list": [
-        "As an adult looking after horse girls, I \nwant to help."
+        "No, I'll help out too!"
       ]
     },
     {
       "name": "Hoshina Keiko",
-      "text": "...I see. Fair enough. Guess I'll put you \nto work then."
+      "text": "...I see. Fair enough. Guess I'll put you \nto work then.",
+      "choice_data_list": [
+        "As an adult who protects Umamusume, I want to help."
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -97,12 +109,15 @@
     {
       "text": "That's it...! Seen this before at the \nacademy. From how it dripped, and how \nquickly it stopped, I can deduce—",
       "choice_data_list": [
-        "A nosebleed—and from a physical impact!"
+        "(The way this blood drips, have I seen it somewhere...?)"
       ]
     },
     {
       "name": "Hoshina Keiko",
-      "text": "...I see. A nosebleed fits the situation."
+      "text": "...I see. A nosebleed fits the situation.",
+      "choice_data_list": [
+        "A nosebleed—and from trauma, no less!"
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -113,7 +128,10 @@
     },
     {
       "name": "Hoshina Keiko",
-      "text": "...Heh. As expected of an active Trainer. \nSharp eyes."
+      "text": "...Heh. As expected of an active Trainer. \nSharp eyes.",
+      "choice_data_list": [
+        "Some Umamusume are just naturally prone to that."
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -135,8 +153,12 @@
       ]
     },
     {
-      "name": "青ざめたウマ娘",
-      "text": "...Eep!!"
+      "name": "A Pale Umamusume",
+      "text": "...Eep!!",
+      "choice_data_list": [
+        "Hey, you—",
+        "Um, excuse me, you—"
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -146,19 +168,22 @@
       ]
     },
     {
-      "name": "青ざめたウマ娘",
+      "name": "A Pale Umamusume",
       "text": "*pant* *pant* *cough*... Ugh! St-Stay \naway...!",
       "choice_data_list": [
-        "Running after a nosebleed is dangerous! \nCome here!",
-        "Running after a nosebleed is dangerous! \nCome here!"
+        "I'll chase after them!"
       ]
     },
     {
-      "name": "青ざめたウマ娘",
-      "text": "Ugh, I can't... Because, because...! I \nscared everyone...!"
+      "name": "A Pale Umamusume",
+      "text": "Ugh, I can't... Because, because...! I \nscared everyone...!",
+      "choice_data_list": [
+        "It's dangerous to run after a nosebleed! Over here!",
+        "It's dangerous to run after a nosebleed! Come here!"
+      ]
     },
     {
-      "name": "青ざめたウマ娘",
+      "name": "A Pale Umamusume",
       "text": "I ruined the fun memories... caused \ntrouble for the inn too... I can't go \nback...!"
     },
     {
@@ -174,7 +199,10 @@
     },
     {
       "name": "Hoshina Keiko",
-      "text": "...*ahem*."
+      "text": "...*ahem*.",
+      "choice_data_list": [
+        "Proprietress!"
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -185,7 +213,7 @@
       "text": "A far bigger issue than a nosebleed... is \nyour current state, dear guest."
     },
     {
-      "name": "青ざめたウマ娘",
+      "name": "A Pale Umamusume",
       "text": "...My state?"
     },
     {
@@ -209,7 +237,10 @@
     },
     {
       "name": "Hoshina Keiko",
-      "text": "Wouldn't have gone so smoothly on my own. \nYour contribution was huge."
+      "text": "Wouldn't have gone so smoothly on my own. \nYour contribution was huge.",
+      "choice_data_list": [
+        "The proprietress's persuasion really worked, didn't it?"
+      ]
     },
     {
       "name": "Hoshina Keiko",
@@ -222,13 +253,16 @@
       "name": "Hoshina Keiko",
       "text": "...Hehe, let me offer a small thanks. \nCelebration dishes, and a private \nreservation for the hot springs just \nopened up.",
       "choice_data_list": [
-        "I'll start with the food...!",
-        "Private hot springs!? Really!?"
+        "Ah, thank you very much...!"
       ]
     },
     {
       "name": "Hoshina Keiko",
-      "text": "Alright, I'll go bring it over, just sit \ntight."
+      "text": "Alright, I'll go bring it over, just sit \ntight.",
+      "choice_data_list": [
+        "Then, starting with the food...!",
+        "A private hot spring?! Are you sure?!"
+      ]
     },
     {
       "name": "Hoshina Keiko",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Air Groove",
-      "text": "Indeed. I can't afford to fall ill here. That\ngoes for\nyou too."
+      "text": "Indeed. I can't afford to fall ill here. That\ngoes for\nyou too.",
+      "choice_data_list": [
+        "The main event is close, so let's get plenty of rest.",
+        "The main event is close, so let's get plenty of rest."
+      ]
     },
     {
       "name": "Air Groove",
@@ -235,11 +239,18 @@
     },
     {
       "name": "Air Groove",
-      "text": "<i>Sigh...</i> This appears to be a common\nthing with\nyou."
+      "text": "<i>Sigh...</i> This appears to be a common\nthing with\nyou.",
+      "choice_data_list": [
+        "I just couldn't leave it alone."
+      ]
     },
     {
       "name": "Air Groove",
-      "text": "Indeed."
+      "text": "Indeed.",
+      "choice_data_list": [
+        "Let's become everyone's \"ideal.\"",
+        "Let's become everyone's \"ideal.\""
+      ]
     },
     {
       "name": "Monologue",

@@ -27,7 +27,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "What do I do?! I forgot to bring lunch!\nThe meat,\nthe veggies—everything!"
+      "text": "What do I do?! I forgot to bring lunch!\nThe meat,\nthe veggies—everything!",
+      "choice_data_list": [
+        "What's wrong?!",
+        "What's wrong?!"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -47,11 +51,17 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Let's go fishing!"
+      "text": "Let's go fishing!",
+      "choice_data_list": [
+        "Nothing we can do. Let's head home today and—"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "I saw some in the stream earlier! Wait for\nme, I'll\ncatch some!"
+      "text": "I saw some in the stream earlier! Wait for\nme, I'll\ncatch some!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Monologue",
@@ -111,7 +121,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah!"
+      "text": "Yeah!",
+      "choice_data_list": [
+        "Don't panic, observe carefully!",
+        "Don't panic, observe carefully!"
+      ]
     },
     {
       "name": "Haru Urara",

@@ -19,7 +19,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Yes. She's concerned about me..."
+      "text": "Yes. She's concerned about me...",
+      "choice_data_list": [
+        "Your 'friend'?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -31,11 +34,21 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I know things shouldn't be like this,\nbut..."
+      "text": "I know things shouldn't be like this,\nbut...",
+      "choice_data_list": [
+        "You'll be fine!",
+        "You can't let yourself get the better of you.",
+        "Don't let yourself get the better of you."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I... I don't know..."
+      "text": "I... I don't know...",
+      "choice_data_list": [
+        "You'll be fine!",
+        "You can't let yourself get the better of you.",
+        "Don't let yourself get the better of you."
+      ]
     },
     {
       "name": "Monologue",
@@ -43,11 +56,18 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Hehe... You might just be right..."
+      "text": "Hehe... You might just be right...",
+      "choice_data_list": [
+        "See, your 'friend' says so too!",
+        "See, your 'friend' says so too!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Well... more or less..."
+      "text": "Well... more or less...",
+      "choice_data_list": [
+        "Wait, did they really say that?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -71,7 +91,11 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>SMACK!</i>"
+      "text": "<i>SMACK!</i>",
+      "choice_data_list": [
+        "That's the spirit!",
+        "That's the spirit!"
+      ]
     },
     {
       "name": "Manhattan Cafe",

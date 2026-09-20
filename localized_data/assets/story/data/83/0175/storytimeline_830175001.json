@@ -12,12 +12,15 @@
       "name": "Narrator",
       "text": "Turning around, I saw Mejiro Ramonu gazing \nat a horse girl with a surprised look on \nher face.",
       "choice_data_list": [
-        "(I thought she was talking to me...)"
+        "Hm...?"
       ]
     },
     {
       "name": "Horse Girl A",
-      "text": "M-Me? Why...?"
+      "text": "M-Me? Why...?",
+      "choice_data_list": [
+        "(For a second, I thought she was talking to me...)"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -40,7 +43,10 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "What's up, what happened? If you want, \ntell me about it."
+      "text": "What's up, what happened? If you want, \ntell me about it.",
+      "choice_data_list": [
+        "A-Are you okay...?"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -68,7 +74,11 @@
     },
     {
       "name": "Narrator",
-      "text": "While running around the campus on my own, \nI found the horse girl from earlier and \nMejiro Ramonu outside the art room."
+      "text": "While running around the campus on my own, \nI found the horse girl from earlier and \nMejiro Ramonu outside the art room.",
+      "choice_data_list": [
+        "I'll help out too!",
+        "I'll help too!"
+      ]
     },
     {
       "name": "Horse Girl A",
@@ -83,7 +93,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "If you do not wish to, you do not wish to."
+      "text": "If you do not wish to, you do not wish to.",
+      "choice_data_list": [
+        "(Wh-Whoa, whoa, whoa...!)"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -102,7 +115,10 @@
     },
     {
       "name": "Horse Girl A",
-      "text": "Y-Your attitude is the problem! In the \nend, you went and got the key yourself \nanyway, right?! Then from the very \nstart... Ah, ...!"
+      "text": "Y-Your attitude is the problem! In the \nend, you went and got the key yourself \nanyway, right?! Then from the very \nstart... Ah, ...!",
+      "choice_data_list": [
+        "(She probably literally just 'gave asking a shot.')"
+      ]
     },
     {
       "name": "Narrator",
@@ -144,7 +160,10 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Th-There you are~~~! Hey, wasn't that girl \nfrom earlier just running past...?"
+      "text": "Th-There you are~~~! Hey, wasn't that girl \nfrom earlier just running past...?",
+      "choice_data_list": [
+        "(That's where you're going with this...?!)"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -167,7 +186,11 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Is that so..."
+      "text": "Is that so...",
+      "choice_data_list": [
+        "She's probably super conscious of you.",
+        "She's probably super conscious of you."
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -178,7 +201,10 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "To fan the sparks into a flame... so that \nthose legs turn toward me."
+      "text": "To fan the sparks into a flame... so that \nthose legs turn toward me.",
+      "choice_data_list": [
+        "Wait!"
+      ]
     }
   ]
 }

@@ -27,7 +27,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Thank you, I am. I'm happy to see you\nhere. My—"
+      "text": "Thank you, I am. I'm happy to see you\nhere. My—",
+      "choice_data_list": [
+        "You seem to be doing well.",
+        "You seem to be doing well."
+      ]
     },
     {
       "name": "Reporter",
@@ -107,7 +111,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Y-you're right!"
+      "text": "Y-you're right!",
+      "choice_data_list": [
+        "They really were connected.",
+        "They were connected, weren't they?"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -119,11 +127,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?"
+      "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?",
+      "choice_data_list": [
+        "With who you are now, you'll be just fine.",
+        "You'll be fine, just as you are right now.",
+        "What do you want to do?",
+        "What do you want to do?"
+      ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...I see. Hehe, got it. Catch you later."
+      "text": "...I see. Hehe, got it. Catch you later.",
+      "choice_data_list": [
+        "With who you are now, you'll be just fine.",
+        "You'll be fine, just as you are right now.",
+        "What do you want to do?",
+        "What do you want to do?"
+      ]
     },
     {
       "name": "MC",

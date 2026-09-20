@@ -15,7 +15,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I was going to... but the course I want is\nonly\navailable for two or more people."
+      "text": "I was going to... but the course I want is\nonly\navailable for two or more people.",
+      "choice_data_list": [
+        "Aren't you coming in?"
+      ]
     },
     {
       "name": "Monologue",
@@ -23,11 +26,18 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Are you sure? I don't want to\ninconvenience you\njust for the sake of\nmy work..."
+      "text": "Are you sure? I don't want to\ninconvenience you\njust for the sake of\nmy work...",
+      "choice_data_list": [
+        "If you don't mind me, shall I keep you company?",
+        "Shall I join you, if you don't mind me?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "That's right! Meek told me this café has\namazing\nfood."
+      "text": "That's right! Meek told me this café has\namazing\nfood.",
+      "choice_data_list": [
+        "All-you-can-eat is your job...?"
+      ]
     },
     {
       "name": "Trainer Kiryuin",
@@ -59,7 +69,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I think so! I'll give it a try as soon as I get\nhome."
+      "text": "I think so! I'll give it a try as soon as I get\nhome.",
+      "choice_data_list": [
+        "Do you think you can make it properly?"
+      ]
     },
     {
       "name": "Monologue",
@@ -87,7 +100,10 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Trainer\n<username>...\nYes,\nabsolutely!"
+      "text": "Trainer\n<username>...\nYes,\nabsolutely!",
+      "choice_data_list": [
+        "I'll gladly join you again."
+      ]
     },
     {
       "name": "Monologue",

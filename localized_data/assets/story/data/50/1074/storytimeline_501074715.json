@@ -7,7 +7,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "<i>Pant... Pant...</i> ...Yes! I cut seconds off my\ntime!"
+      "text": "<i>Pant... Pant...</i> ...Yes! I cut seconds off my\ntime!",
+      "choice_data_list": [
+        "(What is she looking at?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -27,11 +30,21 @@
     },
     {
       "name": "Monologue",
-      "text": "I can tell why she wants to put in some\nextra\ntraining hours. So, with that in\nmind..."
+      "text": "I can tell why she wants to put in some\nextra\ntraining hours. So, with that in\nmind...",
+      "choice_data_list": [
+        "I'll tag along too!",
+        "I'll join you too!",
+        "There's no need to rush."
+      ]
     },
     {
       "name": "Mejiro Bright",
-      "text": "Why, thank you, Trainer! How terribly\nkind of\nyou."
+      "text": "Why, thank you, Trainer! How terribly\nkind of\nyou.",
+      "choice_data_list": [
+        "I'll tag along too!",
+        "I'll join you too!",
+        "There's no need to rush."
+      ]
     },
     {
       "name": "Mejiro Bright",

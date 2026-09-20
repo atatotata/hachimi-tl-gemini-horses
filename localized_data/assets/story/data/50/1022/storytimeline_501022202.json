@@ -15,7 +15,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hehe, it's a secret. ♪ You'll just have to\nwait and\nsee!"
+      "text": "Hehe, it's a secret. ♪ You'll just have to\nwait and\nsee!",
+      "choice_data_list": [
+        "And the results?"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,11 +154,18 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...?"
+      "text": "...?",
+      "choice_data_list": [
+        "Wait."
+      ]
     },
     {
       "name": "Fine Motion",
-      "text": "...Right. Okay, I'm off!"
+      "text": "...Right. Okay, I'm off!",
+      "choice_data_list": [
+        "Go out there and run your own race too.",
+        "Go out and run your own race too."
+      ]
     }
   ]
 }

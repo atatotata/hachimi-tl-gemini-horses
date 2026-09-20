@@ -55,7 +55,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Um... Actually, I'm looking for Sky."
+      "text": "Um... Actually, I'm looking for Sky.",
+      "choice_data_list": [
+        "Looking for someone?",
+        "Are you looking for someone?"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -127,7 +131,11 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Yep! I was running all over the place!"
+      "text": "Yep! I was running all over the place!",
+      "choice_data_list": [
+        "You worked hard so you could give her that flower crown, didn't you?",
+        "A flower crown of gratitude sounds lovely."
+      ]
     },
     {
       "name": "Seiun Sky",

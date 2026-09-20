@@ -147,20 +147,22 @@
       "name": "Fusaichi Pandora",
       "text": "\"Convenience store! Reward sweets! Come \nwith me!\"",
       "choice_data_list": [
-        "...Save it for tomorrow."
+        "Hm? That's my phone."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "No way! I want to eat it right now! Come \nwith me~!",
       "choice_data_list": [
-        "\"Eating at this hour isn't good for your \nbody—\""
+        "...Save it for tomorrow."
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "—Not eating right now would be far worse \nfor my soul!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "'Eating at this hour isn't good for your body, either—'"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -202,7 +204,9 @@
     {
       "name": "Fusaichi Pandora",
       "text": "Huh!? Seriously!? Really!?",
-      "choice_data_list": []
+      "choice_data_list": [
+        "'Huh?!'"
+      ]
     },
     {
       "name": "Jungle Pocket",
@@ -221,24 +225,27 @@
       "name": "Jungle Pocket",
       "text": "No. I have a curfew, and I'll just sprint \nthere to count it as training anyway.",
       "choice_data_list": [
-        "'I see, just don't go too fast, okay?'",
-        "\"Pandora, can you keep up?\"",
-        "\"Pandora, can you keep up?\""
+        "'Are you really going? Then I'll come...'",
+        "'Are you really going? Then I'll come...'"
       ]
     },
     {
       "name": "Jungle Pocket",
       "text": "No. I have a curfew, and I'll just sprint \nthere to count it as training anyway.",
       "choice_data_list": [
-        "'I see, just don't go too fast, okay?'",
-        "\"Pandora, can you keep up?\"",
-        "\"Pandora, can you keep up?\""
+        "'I see. Just make sure not to go too fast, okay?'",
+        "'Pandora, can you keep up?'",
+        "'Pandora, can you keep up?'"
       ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Well then~ why don't we take a leisurely \nwalk? That'd be safe, too♡",
-      "choice_data_list": []
+      "choice_data_list": [
+        "'I see. Just make sure not to go too fast, okay?'",
+        "'Pandora, can you keep up?'",
+        "'Pandora, can you keep up?'"
+      ]
     },
     {
       "name": "Jungle Pocket",

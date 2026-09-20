@@ -11,7 +11,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "What? No, no, no! That'll be a surprise\nfor the big\nday!"
+      "text": "What? No, no, no! That'll be a surprise\nfor the big\nday!",
+      "choice_data_list": [
+        "Really?! Tell me everything!",
+        "Really? Tell me everything!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -59,7 +63,10 @@
     },
     {
       "name": "Light Hello",
-      "text": "Hehe, I guess so. We do have plenty of\ntime,\nfortunately."
+      "text": "Hehe, I guess so. We do have plenty of\ntime,\nfortunately.",
+      "choice_data_list": [
+        "Shall we think about it together?"
+      ]
     },
     {
       "name": "Light Hello",

@@ -23,7 +23,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "...You haven't forgotten about training, have you?",
+        "...You didn't forget about training, did you?"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Yeah! I'll be extra especially careful! I\npromise!"
+      "text": "Yeah! I'll be extra especially careful! I\npromise!",
+      "choice_data_list": [
+        "Make sure you're more careful next time, okay?"
+      ]
     }
   ]
 }

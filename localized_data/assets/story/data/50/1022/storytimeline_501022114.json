@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Fine Motion suddenly runs off towards\nthe stands\nin the middle of training!"
+      "text": "Fine Motion suddenly runs off towards\nthe stands\nin the middle of training!",
+      "choice_data_list": [
+        "Fine?!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -63,11 +66,19 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Are you kidding?! Doesn't that go\nwithout\nsaying?!"
+      "text": "Are you kidding?! Doesn't that go\nwithout\nsaying?!",
+      "choice_data_list": [
+        "Do you not want to?",
+        "Don't you want to?"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Because it's necessary, duh. Accurate\nnumbers\nnever lie."
+      "text": "Because it's necessary, duh. Accurate\nnumbers\nnever lie.",
+      "choice_data_list": [
+        "Then why are you collecting data on Fine?",
+        "Then why are you collecting data on Fine?"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -171,7 +182,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "...In what sense?"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -187,7 +201,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hehe, can you tell?"
+      "text": "Hehe, can you tell?",
+      "choice_data_list": [
+        "That's what you like about it, huh.",
+        "That's what you like about it, right?"
+      ]
     },
     {
       "name": "Fine Motion",

@@ -15,7 +15,11 @@
     },
     {
       "name": "Kiseki",
-      "text": "Well of course I am! Because...!"
+      "text": "Well of course I am! Because...!",
+      "choice_data_list": [
+        "...It's well-received, but you look gloomy, huh?",
+        "...It's well-received, but you look gloomy, don't you?"
+      ]
     },
     {
       "name": "Kiseki",
@@ -38,7 +42,10 @@
     },
     {
       "name": "Rulership",
-      "text": "――, you got a moment? I'd like to borrow \nKiseki."
+      "text": "――, you got a moment? I'd like to borrow \nKiseki.",
+      "choice_data_list": [
+        "There's no need to look so glum..."
+      ]
     },
     {
       "name": "Rulership",
@@ -162,15 +169,10 @@
     },
     {
       "name": "Kiseki",
-      "text": "Yeah... That heated game with Ruler-senpai \nreminded me of something crucial."
-    },
-    {
-      "name": "Kiseki",
-      "text": "That I'm someone who can create exciting \ndevelopments that belong uniquely to me!",
+      "text": "Yeah... That heated game with Ruler-senpai \nreminded me of something crucial.",
       "choice_data_list": [
-        "I'll be looking forward to a thrilling \nmanga that's true to your style.",
-        "I'll be looking forward to a thrilling \nmanga that's true to your style.",
-        "Then... Master T shall be your next \nopponent!"
+        "Looks like you cleared your head.",
+        "Seems like you cleared your head, huh."
       ]
     },
     {
@@ -184,7 +186,21 @@
     },
     {
       "name": "Kiseki",
-      "text": "Leave it to me! ...That's right. This \nacademy is overflowing with exciting \nthings...!"
+      "text": "That I'm someone who can create exciting \ndevelopments that belong uniquely to me!",
+      "choice_data_list": [
+        "I'll be waiting for a fun manga that's uniquely yours.",
+        "I'll be waiting for a fun manga that's uniquely you.",
+        "Then... I, Master T, will be your next opponent."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Leave it to me! ...That's right. This \nacademy is overflowing with exciting \nthings...!",
+      "choice_data_list": [
+        "I'll be waiting for a fun manga that's uniquely yours.",
+        "I'll be waiting for a fun manga that's uniquely you.",
+        "Then... I, Master T, will be your next opponent."
+      ]
     },
     {
       "name": "Kiseki",

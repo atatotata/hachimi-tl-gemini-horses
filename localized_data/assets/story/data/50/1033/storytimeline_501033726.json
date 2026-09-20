@@ -15,7 +15,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I was just thinking about it... Not for me,\nthough.\nFor a friend."
+      "text": "I was just thinking about it... Not for me,\nthough.\nFor a friend.",
+      "choice_data_list": [
+        "Is it the plushie you want?",
+        "Is it the plushie you want?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -31,11 +35,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh? I told you... I don't need it."
+      "text": "Huh? I told you... I don't need it.",
+      "choice_data_list": [
+        "I'll get it for you."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...Do whatever you want."
+      "text": "...Do whatever you want.",
+      "choice_data_list": [
+        "Maybe you'll change your mind once you get it."
+      ]
     },
     {
       "name": "Monologue",

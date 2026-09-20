@@ -63,14 +63,17 @@
       "name": "Loves Only You",
       "text": "――We did it, Trainer!",
       "choice_data_list": [
-        "Yeah, that really was the best race \never...!",
-        "Yeah, that was truly the best race...!"
+        "Yeah, that was truly the greatest race...!",
+        "Yeah, that was truly the best race ever...!"
       ]
     },
     {
       "name": "",
       "text": "Loves Only You overcame the phlegmon and \npulled off a magnificent, flawless \nvictory.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Yeah, that was truly the greatest race...!",
+        "Yeah, that was truly the best race ever...!"
+      ]
     },
     {
       "name": "",
@@ -258,7 +261,10 @@
     {
       "name": "",
       "text": "On the path ahead of Loves Only You, many \nUmamusume would stand as formidable \nrivals.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(I need to learn from that too.)",
+        "(I really should learn from that.)"
+      ]
     },
     {
       "name": "",
@@ -275,7 +281,9 @@
     {
       "name": "",
       "text": "\"The Oaks will soon be upon us. As if it \ncan hardly wait for the birth of a new \nQueen of the Oaks—\"",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(That's my role as a bridge between them.)"
+      ]
     }
   ]
 }

@@ -31,7 +31,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Okay."
+      "text": "...Okay.",
+      "choice_data_list": [
+        "Go on ahead and get on the bus.",
+        "Go ahead and get on the bus first."
+      ]
     },
     {
       "name": "Magazine Reporter",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Sigh...</i>"
+      "text": "<i>Sigh...</i>",
+      "choice_data_list": [
+        "I'll handle the press inquiries!"
+      ]
     },
     {
       "name": "Symboli Rudolf",

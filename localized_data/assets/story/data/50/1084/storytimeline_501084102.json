@@ -27,7 +27,7 @@
       "choice_data_list": []
     },
     {
-      "name": "？？？",
+      "name": "???",
       "text": "――Oh my. What a coincidence.",
       "choice_data_list": []
     },
@@ -111,7 +111,9 @@
     {
       "name": "Tanino Gimlet",
       "text": "Heh... As expected of you, Vodka. You \nunderstand my true intentions well.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Things seem to be heating up...?)"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -143,7 +145,9 @@
     {
       "name": "Tanino Gimlet",
       "text": "It seems I'll need to make a decision.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(Wait, are sparks flying over here too!?)"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -160,7 +164,9 @@
     {
       "name": "Tanino Gimlet",
       "text": "As a neutral third party, present us with \nrules for a fair duel. With that, Tachyon \nand I shall settle who is right.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Y-Yes!"
+      ]
     },
     {
       "name": "Narrator",
@@ -174,7 +180,11 @@
     {
       "name": "Daiwa Scarlet",
       "text": "Tachyon-san, that's amazing...! This broth \nmatches my taste perfectly...!",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Cooking",
+        "Battledore",
+        "Games"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -196,7 +206,9 @@
     {
       "name": "Narrator",
       "text": "Afterward, we held a taste test to compare \nthe two pairs' ozoni, but—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(That's kind of heartwarming...)"
+      ]
     },
     {
       "name": "Narrator",
@@ -228,7 +240,9 @@
     {
       "name": "Narrator",
       "text": "In the end, the rally continued until the \nsun went down, and with everyone \ncollapsing from exhaustion at the same \ntime... the battle concluded in a draw—",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(T-There's no end in sight...!!)"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -255,7 +269,9 @@
     {
       "name": "Narrator",
       "text": "Afterward, we played against each other in \nvarious games until sundown, but with \nneither of us pulling ahead in wins, it \nultimately ended in a draw...",
-      "choice_data_list": []
+      "choice_data_list": [
+        "(...She looks like she's having so much fun.)"
+      ]
     }
   ]
 }

@@ -7,7 +7,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "This is going to worry my security team\nagain..."
+      "text": "This is going to worry my security team\nagain...",
+      "choice_data_list": [
+        "I wasn't paying close enough attention either...",
+        "I wasn't paying close enough attention either..."
+      ]
     },
     {
       "name": "Fine Motion",
@@ -19,11 +23,21 @@
     },
     {
       "name": "Fine Motion",
-      "text": "It could be like rehabilitation. ...What do\nyou\nthink, Trainer?"
+      "text": "It could be like rehabilitation. ...What do\nyou\nthink, Trainer?",
+      "choice_data_list": [
+        "I can't permit that.",
+        "...Don't overdo it, got it?",
+        "...Don't overdo it, okay?"
+      ]
     },
     {
       "name": "Fine Motion",
-      "text": "But... what if they say I shouldn't enter\nany more\nraces?"
+      "text": "But... what if they say I shouldn't enter\nany more\nraces?",
+      "choice_data_list": [
+        "I can't permit that.",
+        "...Don't overdo it, got it?",
+        "...Don't overdo it, okay?"
+      ]
     },
     {
       "name": "Monologue",
@@ -51,7 +65,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Ngh... Excuse me... I'm all right. But if it\nhurts this\nmuch, then..."
+      "text": "Ngh... Excuse me... I'm all right. But if it\nhurts this\nmuch, then...",
+      "choice_data_list": [
+        "Are you okay!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,7 +96,10 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Oh! That's a grand idea. ♪ We could do\n\nvisualization exercises!"
+      "text": "Oh! That's a grand idea. ♪ We could do\n\nvisualization exercises!",
+      "choice_data_list": [
+        "If it hurts even a little, we're switching to classroom study."
+      ]
     },
     {
       "name": "Security Captain",
@@ -95,7 +115,10 @@
     },
     {
       "name": "Monologue",
-      "text": "A dazzling smile lights up Fine Motion's\nface. I'd\nbetter come up with a training\nplan fast!"
+      "text": "A dazzling smile lights up Fine Motion's\nface. I'd\nbetter come up with a training\nplan fast!",
+      "choice_data_list": [
+        "Ohhh!"
+      ]
     }
   ]
 }

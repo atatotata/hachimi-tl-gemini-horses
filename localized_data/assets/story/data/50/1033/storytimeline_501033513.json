@@ -27,7 +27,10 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "Oh! I know somewhere nice!"
+      "text": "Oh! I know somewhere nice!",
+      "choice_data_list": [
+        "Want to go somewhere for a change of pace?"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -123,15 +126,30 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I wouldn't say that."
+      "text": "I wouldn't say that.",
+      "choice_data_list": [
+        "True, it really has improved a lot."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "I wouldn't say that."
+      "text": "I wouldn't say that.",
+      "choice_data_list": [
+        "You could probably do modeling work too.",
+        "You could probably do modeling work too.",
+        "I can't wait to see the finished product.",
+        "I'm looking forward to seeing how it turns out."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "That's a different conversation."
+      "text": "That's a different conversation.",
+      "choice_data_list": [
+        "You could probably do modeling work too.",
+        "You could probably do modeling work too.",
+        "I can't wait to see the finished product.",
+        "I'm looking forward to seeing how it turns out."
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -139,7 +157,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Not a chance."
+      "text": "Not a chance.",
+      "choice_data_list": [
+        "...Want to give it a shot?"
+      ]
     },
     {
       "name": "Narita Top Road",

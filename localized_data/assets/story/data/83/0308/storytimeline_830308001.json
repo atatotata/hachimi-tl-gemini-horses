@@ -155,7 +155,10 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Ah... yes! I formed a band with Lala and \nthe others! We have an upcoming live \nperformance! Trainer, please come see us \nplay!"
+      "text": "Ah... yes! I formed a band with Lala and \nthe others! We have an upcoming live \nperformance! Trainer, please come see us \nplay!",
+      "choice_data_list": [
+        "Are you practicing the guitar?"
+      ]
     },
     {
       "text": "Forming a band with friends is supposed to \nbe fun... Yet she seemed to be pushing \nherself far too hard.",
@@ -168,14 +171,19 @@
     {
       "text": "Forming a band with friends is supposed to \nbe fun... Yet she seemed to be pushing \nherself far too hard.",
       "choice_data_list": [
-        "Make sure to enjoy the band to the fullest",
-        "Aren't you practicing with everyone?",
-        "Aren't you practicing with everyone?"
+        "Have a blast with the band!",
+        "Aren't you going to practice with the others?",
+        "Aren't you going to practice with everyone?"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "Fufu... Of course, that's the plan. \nHowever—"
+      "text": "Fufu... Of course, that's the plan. \nHowever—",
+      "choice_data_list": [
+        "Have a blast with the band!",
+        "Aren't you going to practice with the others?",
+        "Aren't you going to practice with everyone?"
+      ]
     },
     {
       "name": "Almond Eye",

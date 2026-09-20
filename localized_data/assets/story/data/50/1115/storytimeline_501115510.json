@@ -181,7 +181,9 @@
     {
       "name": "Orfevre",
       "text": "Indeed. The pork bowl this time was quite \npassable.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Did the food turn out well?"
+      ]
     },
     {
       "name": "Narrator",
@@ -196,22 +198,26 @@
       "name": "Narrator",
       "text": "...I couldn't imagine Orfevre cooking, but \nit seems she properly took part in class. \nFeeling relieved, I—",
       "choice_data_list": [
-        "Pork bowl! Eating that is bound to fill \nyou with energy!",
-        "Pork bowl! Eating that is bound to fill \nyou with energy!",
-        "You managed to cook it that quickly?"
+        "A pork bowl! Eating that'll definitely give you a surge of energy!",
+        "A pork bowl! Eating that'll definitely give you a surge of energy!",
+        "You managed to cook that so quickly?"
       ]
     },
     {
       "name": "Orfevre",
       "text": "...Do you desire it as well? A feast fit \nfor a King.",
       "choice_data_list": [
-        "Huh!? ......Y-You're gonna make it for \nme!!?"
+        "A pork bowl! Eating that'll definitely give you a surge of energy!",
+        "A pork bowl! Eating that'll definitely give you a surge of energy!",
+        "You managed to cook that so quickly?"
       ]
     },
     {
       "name": "Orfevre",
       "text": "......Heh. Yeah.",
-      "choice_data_list": []
+      "choice_data_list": [
+        "Wait!? ...Y-you'll make one for me!!?"
+      ]
     },
     {
       "name": "Orfevre",

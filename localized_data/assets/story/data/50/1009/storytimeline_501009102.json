@@ -23,7 +23,10 @@
     },
     {
       "name": "Monologue",
-      "text": "The number one that she's striving for..."
+      "text": "The number one that she's striving for...",
+      "choice_data_list": [
+        "'Number one'..."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -43,7 +46,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "E-excuse me?"
+      "text": "E-excuse me?",
+      "choice_data_list": [
+        "Shall we try entering the Arima Kinen?",
+        "How about we try entering the Arima Kinen?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -51,7 +58,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ngh..."
+      "text": "Ngh...",
+      "choice_data_list": [
+        "Still, you want to be 'number one,' don't you?",
+        "Still, you want to be 'number one,' right?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -75,11 +86,19 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "...You have <i>got</i> to be joking!"
+      "text": "...You have <i>got</i> to be joking!",
+      "choice_data_list": [
+        "First, some nutrition to refuel...",
+        "Rebuild from the basics!",
+        "Let's hone our technique!"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "We don't have time to—"
+      "text": "We don't have time to—",
+      "choice_data_list": [
+        "You can't fight a battle on an empty stomach."
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +110,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "...Hmph!"
+      "text": "...Hmph!",
+      "choice_data_list": [
+        "Let's eat before going home."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -127,7 +149,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Hmph. And here I was about to say you\nseem\nreliable for once."
+      "text": "Hmph. And here I was about to say you\nseem\nreliable for once.",
+      "choice_data_list": [
+        "I guess so."
+      ]
     }
   ]
 }

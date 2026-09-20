@@ -19,11 +19,18 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Oh, hello. I'm sorry—were we being too\nloud?"
+      "text": "Oh, hello. I'm sorry—were we being too\nloud?",
+      "choice_data_list": [
+        "Hello."
+      ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "We're sharing our impressions of the\nlatest\nvolume in this novel series. It's a\nvery intriguing\nbook..."
+      "text": "We're sharing our impressions of the\nlatest\nvolume in this novel series. It's a\nvery intriguing\nbook...",
+      "choice_data_list": [
+        "I'm fine. What were you guys talking about?",
+        "I'm fine. What were you talking about?"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -47,11 +54,21 @@
     },
     {
       "name": "Monologue",
-      "text": "Maybe the book's a hidden gem? In that\ncase, I\ncan see why they'd feel\ndisheartened about not\nhaving enough\npeople to discuss it with."
+      "text": "Maybe the book's a hidden gem? In that\ncase, I\ncan see why they'd feel\ndisheartened about not\nhaving enough\npeople to discuss it with.",
+      "choice_data_list": [
+        "Maybe I'll give that novel a read too.",
+        "Maybe I'll read that novel too.",
+        "Can you tell me what you like best about that book?"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "...!"
+      "text": "...!",
+      "choice_data_list": [
+        "Maybe I'll give that novel a read too.",
+        "Maybe I'll read that novel too.",
+        "Can you tell me what you like best about that book?"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +108,10 @@
     },
     {
       "name": "Monologue",
-      "text": "In front of Hayahide looms what can\nonly be\ndescribed as a mountain of\nbooks!"
+      "text": "In front of Hayahide looms what can\nonly be\ndescribed as a mountain of\nbooks!",
+      "choice_data_list": [
+        "Th-That's so much!?!?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -99,7 +119,11 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh, wait, Hayahide. Could you bring\nalong the\nseries guide as well?"
+      "text": "Oh, wait, Hayahide. Could you bring\nalong the\nseries guide as well?",
+      "choice_data_list": [
+        "There's still more of them...?!",
+        "There's going to be even more...?!"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -119,7 +143,10 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ahaha... I think you've caught on. There\naren't\nmany people to discuss the latest\nvolume with\nbecause so few people have\nread all of the\nprevious ones."
+      "text": "Ahaha... I think you've caught on. There\naren't\nmany people to discuss the latest\nvolume with\nbecause so few people have\nread all of the\nprevious ones.",
+      "choice_data_list": [
+        "C-Could it be...?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -127,7 +154,11 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Really?! I'm so thrilled!"
+      "text": "Really?! I'm so thrilled!",
+      "choice_data_list": [
+        "Th-That's not true at all...!",
+        "Th-That's not true at all...!"
+      ]
     },
     {
       "name": "Monologue",
@@ -139,7 +170,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, I stay up late reading every\nnight for a\n<i>very</i> lengthy period."
+      "text": "And so, I stay up late reading every\nnight for a\n<i>very</i> lengthy period.",
+      "choice_data_list": [
+        "(Read all the volumes! Go for ittt...!)"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -203,7 +237,10 @@
     },
     {
       "name": "Monologue",
-      "text": "More than an hour has passed, but none\nof them\nare showing any signs of slowing\ndown."
+      "text": "More than an hour has passed, but none\nof them\nare showing any signs of slowing\ndown.",
+      "choice_data_list": [
+        "(The passion...! Her energy is off the charts!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -227,7 +264,11 @@
     },
     {
       "name": "Rob Roy & Ardan",
-      "text": "You will?!"
+      "text": "You will?!",
+      "choice_data_list": [
+        "...Okay! Let's read every single one!",
+        "...Okay! I'll read every single one!"
+      ]
     },
     {
       "name": "Monologue",

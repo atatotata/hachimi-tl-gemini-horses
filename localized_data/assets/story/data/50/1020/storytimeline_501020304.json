@@ -11,7 +11,10 @@
     },
     {
       "name": "Monologue",
-      "text": "We should be preparing for our next\nrace, but\nSky is lounging around as\nusual."
+      "text": "We should be preparing for our next\nrace, but\nSky is lounging around as\nusual.",
+      "choice_data_list": [
+        "(She's asleep...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +38,10 @@
     },
     {
       "name": "King Halo",
-      "text": "Hmph, it's fine. I've no doubt she's\nfaking it. Isn't\nthat right, Sky?"
+      "text": "Hmph, it's fine. I've no doubt she's\nfaking it. Isn't\nthat right, Sky?",
+      "choice_data_list": [
+        "S-Sky! Wake up!"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -155,7 +161,11 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Sure, extra effort..."
+      "text": "Sure, extra effort...",
+      "choice_data_list": [
+        "Let's give it our all!",
+        "Let's do our best!"
+      ]
     },
     {
       "name": "Seiun Sky",
