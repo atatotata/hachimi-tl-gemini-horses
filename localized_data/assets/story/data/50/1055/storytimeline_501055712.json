@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Marvelous Sunday didn't show up for \ntraining. Growing worried, I searched all \nover and found her covered in mud by the \nriverbed.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "Trainer! Guess what? While looking for \nMarvelous, I found a tsuchinoko! ☆",
-      "choice_data_list": []
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "When I tried to touch it, it started \nhopping all over! I chased after it and \ngot completely covered in mud!",
-      "choice_data_list": [
-        "...Training time is already up, you know."
-      ]
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "—Ah!? I-I'm sorry... I didn't notice you.",
-      "choice_data_list": [
-        "...It's past our training time."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "I firmly cautioned Marvelous Sunday to be \nmore careful in the future.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Marvelous Sunday didn't show up for \ntraining. Growing worried, I searched all \nover and found her covered in mud by the \nriverbed.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Trainer! Guess what? While looking for \nMarvelous, I found a tsuchinoko! ☆",
+            "choice_data_list": []
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "When I tried to touch it, it started \nhopping all over! I chased after it and \ngot completely covered in mud!",
+            "choice_data_list": [
+                "...Training time is already up, yo..."
+            ]
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "—Ah!? I-I'm sorry... I didn't notice you.",
+            "choice_data_list": [
+                "...It's past our training time."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "I firmly cautioned Marvelous Sunday to be \nmore careful in the future.",
+            "choice_data_list": []
+        }
+    ]
 }

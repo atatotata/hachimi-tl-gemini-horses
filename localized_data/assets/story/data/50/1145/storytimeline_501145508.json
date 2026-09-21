@@ -1,36 +1,36 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Rulership",
-      "text": "\"So that's how you're playing it... Not \nbad, Trainer. Then my next move should \nbe...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rulership",
-      "text": "U-Um......",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rulership",
-      "text": "『………………』",
-      "choice_data_list": [
-        "Ruler Ship...?"
-      ]
-    },
-    {
-      "name": "Rulership",
-      "text": "*Inhale*... *Zzz*... *zzz*...",
-      "choice_data_list": [
-        "Rulership...?"
-      ]
-    },
-    {
-      "name": "",
-      "text": "Falling asleep while thinking over tactics \nmeans she must be exhausted from the race. \nIt would be best to reconsider our \nschedule.",
-      "choice_data_list": [
-        "(Is she asleep...?)"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Rulership",
+            "text": "\"So that's how you're playing it... Not \nbad, Trainer. Then my next move should \nbe...\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Rulership",
+            "text": "U-Um......",
+            "choice_data_list": []
+        },
+        {
+            "name": "Rulership",
+            "text": "『………………』",
+            "choice_data_list": [
+                "Ruler Ship...?"
+            ]
+        },
+        {
+            "name": "Rulership",
+            "text": "*Inhale*... *Zzz*... *zzz*...",
+            "choice_data_list": [
+                "Rulership...?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Falling asleep while thinking over\ntactics \nmeans she must be exhausted from the\nrace. It would be best to reconsider our \nschedule.",
+            "choice_data_list": [
+                "(Is she asleep...?)"
+            ]
+        }
+    ]
 }

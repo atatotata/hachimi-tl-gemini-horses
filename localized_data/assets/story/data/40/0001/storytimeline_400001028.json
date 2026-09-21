@@ -1,117 +1,117 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "One afternoon on my day off, I'm\nwalking by an\noutdoor café when I\nhappen upon a familiar face."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Huh? No way...\nTrainer\n<username>?!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Why, hello there. To think I'd bump into\nyou here!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "I was going to... but the course I want is\nonly\navailable for two or more people.",
-      "choice_data_list": [
-        "Aren't you coming in?"
-      ]
-    },
-    {
-      "name": "Monologue",
-      "text": "She glances at a signboard that reads,\n\n\"All-you-can-eat sweets and pastries!\nPerfect for\npartners and pals!\""
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Are you sure? I don't want to\ninconvenience you\njust for the sake of\nmy work...",
-      "choice_data_list": [
-        "If you don't mind me, shall I keep you company?",
-        "Shall I join you, if you don't mind me?"
-      ]
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "That's right! Meek told me this café has\namazing\nfood.",
-      "choice_data_list": [
-        "All-you-can-eat is your job...?"
-      ]
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "So I figured that if I could make some for\nher, I\ncould increase her motivation even\nfurther!"
-    },
-    {
-      "name": "Monologue",
-      "text": "As a fellow trainer, I'm impressed by her\n\ndedication, so I decide to help her with\nher\n\"work.\""
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Hmm... The parfait cream seems to\nemphasize the\nrichness of the milk over\nsweetness."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "But combined with the berry sauce, the\naftertaste\nis surprisingly light."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Now for this brûlée cake... Ngh! So rich...\nSo\nsweet..."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "With your help, I was able to try all the\ndishes I\nwanted!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Thank you,\nTrainer\n<username>!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "I think so! I'll give it a try as soon as I get\nhome.",
-      "choice_data_list": [
-        "Do you think you can make it properly?"
-      ]
-    },
-    {
-      "name": "Monologue",
-      "text": "A few days later..."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Listen! Meek beat her fastest time\nyesterday!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "She said it was because the desserts I\nmade really\nmotivated her. Hehe!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "But I still have a long way to go! I need\nto keep\nresearching until I can recreate\nthe flavors of that\ncafé perfectly!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "I never want to give Meek anything less\nthan\ntop-class support."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "To that end, I'll spare no effort!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Trainer\n<username>...\nYes,\nabsolutely!",
-      "choice_data_list": [
-        "I'll gladly join you again."
-      ]
-    },
-    {
-      "name": "Monologue",
-      "text": "Trainer Kiryuin shares some of her\nhomemade\nsweets with me as a\nthank-you for helping out."
-    },
-    {
-      "name": "Monologue",
-      "text": "I eat them together with\n<chrname>."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One afternoon on my day off, I'm\nwalking by an\noutdoor café when I\nhappen upon a familiar face."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Huh? No way...\nTrainer\n<username>?!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Why, hello there. To think I'd bump into\nyou here!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I was going to... but the course I want is\nonly\navailable for two or more people.",
+            "choice_data_list": [
+                "Aren't you coming in?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She glances at a signboard that reads,\n\n\"All-you-can-eat sweets and pastries!\nPerfect for\npartners and pals!\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Are you sure? I don't want to\ninconvenience you\njust for the sake of\nmy work...",
+            "choice_data_list": [
+                "If you don't mind me, shall I keep...",
+                "Shall I join you, if you don't min..."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That's right! Meek told me this café has\namazing\nfood.",
+            "choice_data_list": [
+                "All-you-can-eat is your job...?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So I figured that if I could make some for\nher, I\ncould increase her motivation even\nfurther!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a fellow trainer, I'm impressed by her\n\ndedication, so I decide to help her with\nher\n\"work.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hmm... The parfait cream seems to\nemphasize the\nrichness of the milk over\nsweetness."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But combined with the berry sauce, the\naftertaste\nis surprisingly light."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Now for this brûlée cake...\nNgh! So rich...\nSo\nsweet..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "With your help, I was able to try all the\ndishes I\nwanted!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you,\nTrainer\n<username>!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I think so!\nI'll give it a try as soon as I get\nhome.",
+            "choice_data_list": [
+                "Do you think you can make it properly?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Listen! Meek beat her fastest time\nyesterday!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "She said it was because the desserts I\nmade really\nmotivated her. Hehe!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But I still have a long way to go! I need\nto keep\nresearching until I can recreate\nthe flavors of that\ncafé perfectly!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I never want to give Meek anything less\nthan\ntop-class support."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "To that end, I'll spare no effort!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer\n<username>...\nYes,\nabsolutely!",
+            "choice_data_list": [
+                "I'll gladly join you again."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Trainer Kiryuin shares some of her\nhomemade\nsweets with me as a\nthank-you for helping out."
+        },
+        {
+            "name": "Monologue",
+            "text": "I eat them together with\n<chrname>."
+        }
+    ]
 }

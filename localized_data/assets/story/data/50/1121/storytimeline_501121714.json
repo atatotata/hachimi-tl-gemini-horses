@@ -1,145 +1,145 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "I rushed an injured Durandal to the \nnurse's office in a great hurry.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "Kh... What an absolute blunder...!",
-      "choice_data_list": [
-        "Let's focus on healing your injury for \nnow."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "...No, please let me continue my training.",
-      "choice_data_list": [
-        "Let's focus on healing your injury for now."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "Focusing solely on recuperation would \nexpose a weakness to strong rivals. \n...Tactically speaking, that is not a wise \nmove.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "To offer this victory to my master! Now is \nthe time to show a knight's pride...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "Even if it's just light training, I don't \nmind. Please, let me continue!",
-      "choice_data_list": [
-        "Let's not push ourselves too hard.",
-        "...If it's a light training menu, then \nmaybe."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "No, I'm certainly not pushing myself! As a \nproud knight, this much is nothing...!",
-      "choice_data_list": [
-        "Let's not push ourselves too hard.",
-        "...As long as it's a lighter routine..."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "Is it precisely because... she is a noble \nknight?",
-      "choice_data_list": [
-        "Precisely because you're such a splendid knight.",
-        "It's precisely because you're such a noble knight."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "A seasoned knight can accurately assess \nthe situation. Whether it is wise to push \nthrough and proceed or not.",
-      "choice_data_list": [
-        "Try analyzing it calmly once more"
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "...There is a high probability the injury \ncould worsen. Indeed, it is a risk we \ncannot overlook.",
-      "choice_data_list": [
-        "Take a moment and analyze it calmly once more."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "I am sorry. I shall focus on resting and \nrecuperating for a while.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "Thank you very much. As a knight, I shall \nlet no sign of distress show...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Durandal goes for a jog on the soft dirt \ntrack, but...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "K-Kh...!",
-      "choice_data_list": [
-        "Let's stop there."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "If I quit now, they'll realize I'm \ninjured...!",
-      "choice_data_list": [
-        "Let's not push it any further."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Pushing herself further might lead to an \neven worse injury. I persuaded her that \nthis would put her at a far greater \ndisadvantage than exposing a weakness.",
-      "choice_data_list": [
-        "It takes courage to retreat, too"
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "...Understood.",
-      "choice_data_list": [
-        "Having the courage to retreat is important too."
-      ]
-    },
-    {
-      "name": "Durandal",
-      "text": "This is all due to my inexperience... I am \nterribly sorry.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Durandal aggravated her injury and was \nforced to rest...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"When Durandal goes for a jog on the soft \ndirt track...\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "Phew...! Alright, it hardly hurts at all.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Durandal",
-      "text": "With this, no one will realize she is \ninjured.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"Durandal trained at a manageable pace and \nmade a smooth recovery.\"",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "I rushed an injured Durandal to the \nnurse's office in a great hurry.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "Kh... What an absolute blunder...!",
+            "choice_data_list": [
+                "Let's focus on healing your injury..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "...No, please let me continue my training.",
+            "choice_data_list": [
+                "Let's focus on healing your injury..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "Focusing solely on recuperation would \nexpose a weakness to strong rivals. \n...Tactically speaking,\nthat is not a wise \nmove.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "To offer this victory to my master!\nNow is \nthe time to show a knight's pride...!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "Even if it's just light training, I don't \nmind. Please, let me continue!",
+            "choice_data_list": [
+                "Let's not push ourselves too hard.",
+                "...If it's a light training menu, ..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "No, I'm certainly not pushing myself!\nAs a \nproud knight, this much is nothing...!",
+            "choice_data_list": [
+                "Let's not push ourselves too hard.",
+                "...As long as it's a lighter routi..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "Is it precisely because... she is a noble \nknight?",
+            "choice_data_list": [
+                "Precisely because you're such a sp...",
+                "It's precisely because you're such..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "A seasoned knight can accurately assess \nthe situation. Whether it is wise to push \nthrough and proceed or not.",
+            "choice_data_list": [
+                "Try analyzing it calmly once more"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "...There is a high probability the injury \ncould worsen. Indeed, it is a risk we \ncannot overlook.",
+            "choice_data_list": [
+                "Take a moment and analyze it calml..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "I am sorry. I shall focus on resting and \nrecuperating for a while.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "Thank you very much. As a knight, I shall \nlet no sign of distress show...!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"Durandal goes for a jog on the soft dirt \ntrack, but...\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "K-Kh...!",
+            "choice_data_list": [
+                "Let's stop there."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "If I quit now, they'll realize I'm \ninjured...!",
+            "choice_data_list": [
+                "Let's not push it any further."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "Pushing herself further might lead to an \neven worse injury. I persuaded her that \nthis would put her at a far greater \ndisadvantage than exposing a weakness.",
+            "choice_data_list": [
+                "It takes courage to retreat, too"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "...Understood.",
+            "choice_data_list": [
+                "Having the courage to retreat is i..."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "This is all due to my inexperience...\nI am \nterribly sorry.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"Durandal aggravated her injury and was \nforced to rest...\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"When Durandal goes for a jog on the soft \ndirt track...\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "Phew...! Alright, it hardly hurts at all.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Durandal",
+            "text": "With this, no one will realize she is \ninjured.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"Durandal trained at a manageable pace\nand \nmade a smooth recovery.\"",
+            "choice_data_list": []
+        }
+    ]
 }

@@ -1,27 +1,27 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Satono Diamond",
-      "text": "I guess we're stopping for now, huh?"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "N-no, you were fine! The controls are\npretty\ndifficult on this model!",
-      "choice_data_list": [
-        "I have no excuse..."
-      ]
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Since the difficulty seems a bit\novertuned, I'll let\nsomeone at the\ncompany know the next time I\nhave a\nchance."
-    },
-    {
-      "name": "Monologue",
-      "text": "Well, that was disappointing.",
-      "choice_data_list": [
-        "N-No, I'm fine!"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "I guess we're stopping for now, huh?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "N-no, you were fine! The controls are\npretty\ndifficult on this model!",
+            "choice_data_list": [
+                "I have no excuse..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Since the difficulty seems a bit\novertuned, I'll let someone at the\ncompany know the next time I\nhave a\nchance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing.",
+            "choice_data_list": [
+                "N-No, I'm fine!"
+            ]
+        }
+    ]
 }

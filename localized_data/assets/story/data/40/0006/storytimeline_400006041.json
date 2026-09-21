@@ -1,55 +1,55 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "...Number one in the world. The ultimate \nbattlefield where unyielding pride clashed \nand sparks flew.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "While generous applause rained down on the \nvictor, <chrname> stood frozen upon the turf.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "I rush over to <chrname>. And then, she—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "—A fighting spirit ignited in those eyes.",
-      "choice_data_list": [
-        "...Let's try again."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "<chrname> nods. She channels even her frustration \ninto pure drive.",
-      "choice_data_list": [
-        "...Let's give it another try.",
-        "...Let's give it another try."
-      ]
-    },
-    {
-      "name": "Mei Satake",
-      "text": "...Yeah. Let's take on the challenge, as \nmany times as it takes.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "\"That is what we're here for. That is why \nProject L'Arc exists.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "—As long as you desire it, let's aim to be \nthe best in the world.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "Now that is true romance.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "...Number one in the world. The ultimate \nbattlefield where unyielding pride\nclashed \nand sparks flew.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "While generous applause rained down on\nthe \nvictor,\n<chrname> stood frozen upon the turf.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "I rush over to <chrname>. And then, she—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "—A fighting spirit ignited in those eyes.",
+            "choice_data_list": [
+                "...Let's try again."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "<chrname> nods.\nShe channels even her frustration \ninto pure drive.",
+            "choice_data_list": [
+                "...Let's give it another try.",
+                "...Let's give it another try."
+            ]
+        },
+        {
+            "name": "Mei Satake",
+            "text": "...Yeah. Let's take on the challenge, as \nmany times as it takes.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "\"That is what we're here for. That is why \nProject L'Arc exists.\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "—As long as you desire it,\nlet's aim to be \nthe best in the world.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "Now that is true romance.",
+            "choice_data_list": []
+        }
+    ]
 }

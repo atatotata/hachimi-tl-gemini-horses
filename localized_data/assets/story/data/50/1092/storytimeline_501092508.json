@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Dantsu Flame",
-      "text": "Trai~ner-saaan. Hellooo~.",
-      "choice_data_list": [
-        "Dantsu... are you feeling a little spacey \nor something?"
-      ]
-    },
-    {
-      "name": "Dantsu Flame",
-      "text": "I've been so sleepy lately... My head just \nfeels all floaty and fluffy~",
-      "choice_data_list": [
-        "Dantsu... aren't you seeming a bit spacey?"
-      ]
-    },
-    {
-      "name": "Dantsu Flame",
-      "text": "Mmm... It's so warm here... I feel like \nI'm gonna fall asleep~",
-      "choice_data_list": []
-    },
-    {
-      "name": "Dantsu Flame",
-      "text": "*Yaaawn*... *snooze*...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"...It seems fatigue has built up a bit. \nLet's reconsider the race schedule.\"",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Dantsu Flame",
+            "text": "Trai~ner-saaan. Hellooo~.",
+            "choice_data_list": [
+                "Dantsu... are you feeling a little..."
+            ]
+        },
+        {
+            "name": "Dantsu Flame",
+            "text": "I've been so sleepy lately...\nMy head just \nfeels all floaty and fluffy~",
+            "choice_data_list": [
+                "Dantsu... aren't you seeming a bit..."
+            ]
+        },
+        {
+            "name": "Dantsu Flame",
+            "text": "Mmm... It's so warm here... I feel like \nI'm gonna fall asleep~",
+            "choice_data_list": []
+        },
+        {
+            "name": "Dantsu Flame",
+            "text": "*Yaaawn*... *snooze*...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"...It seems fatigue has built up a bit. \nLet's reconsider the race schedule.\"",
+            "choice_data_list": []
+        }
+    ]
 }

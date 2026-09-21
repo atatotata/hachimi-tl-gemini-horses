@@ -1,38 +1,38 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "When Rulership showed up for the meeting, \nhe was carrying a heavy-looking plastic \nbag.",
-      "choice_data_list": [
-        "What's that?"
-      ]
-    },
-    {
-      "name": "Rulership",
-      "text": "...? ...Ah, is it this...?",
-      "choice_data_list": [
-        "What's that?"
-      ]
-    },
-    {
-      "name": "Rulership",
-      "text": "...This is pure fuel. At times like this, \nyou've gotta go with the classic flavor. \nIt gives you that hard-hitting punch, and \nthat's the best...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Peering into the bag— I found it crammed \nfull of energy drinks. At this rate, she's \ngoing to ruin her health...!",
-      "choice_data_list": [
-        "I can't just overlook you taking in that \nhuge amount."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Fatigue seems to be catching up with \nRulership after a string of races. I \nshould probably reconsider her race \nschedule...",
-      "choice_data_list": [
-        "I can't just turn a blind eye to consuming that much."
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "When Rulership showed up for the meeting, \nhe was carrying a heavy-looking plastic \nbag.",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "name": "Rulership",
+            "text": "...? ...Ah, is it this...?",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "name": "Rulership",
+            "text": "...This is pure fuel. At times like this, \nyou've gotta go with the classic flavor. \nIt gives you that hard-hitting punch, and \nthat's the best...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Peering into the bag— I found it crammed \nfull of energy drinks. At this rate,\nshe's \ngoing to ruin her health...!",
+            "choice_data_list": [
+                "I can't just overlook you taking i..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "Fatigue seems to be catching up with \nRulership after a string of races. I \nshould probably reconsider her race \nschedule...",
+            "choice_data_list": [
+                "I can't just turn a blind eye to c..."
+            ]
+        }
+    ]
 }

@@ -1,144 +1,144 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "I take Narita Taishin to the infirmary\nafter she\nsuffers an injury during training."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own.",
-      "choice_data_list": [
-        "It'd be awful if that made it worse.",
-        "It'd be awful if that made it worse, you know.",
-        "Got it! Let's resume training!"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Oh, bug off!",
-      "choice_data_list": [
-        "It'd be awful if that made it worse.",
-        "It'd be awful if that made it worse, you know.",
-        "Got it! Let's resume training!"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Do you really think I'm some frail wimp?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Is it because I'm shorter than the others?\nBecause\nI'm tiny and weak? Is that it?!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Well, I don't need you to!",
-      "choice_data_list": [
-        "I'm worried about Taishin.",
-        "I'm worried about Taishin."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Why don't you stop worrying and use\nyour time to\nthink up a training regimen?"
-    },
-    {
-      "name": "Monologue",
-      "text": "If she agrees to rest, I'll happily think up\nas many\nregimens as she'd like, but...",
-      "choice_data_list": [
-        "If I think about it, will you treat it?",
-        "If I think it over, will you treat me?"
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "No, that's not what I'm getting at! Are\nyou even\nlistening to me?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "<i>Sigh...</i> I don't even know why I bother\nwith you...",
-      "choice_data_list": [
-        "Of course!"
-      ]
-    },
-    {
-      "name": "Monologue",
-      "text": "Narita Taishin loses her will to keep\narguing and\nconsequently agrees to\nreceive treatment for her\ninjury."
-    },
-    {
-      "name": "Monologue",
-      "text": "I decide to place my trust in her, as she's\n\nprobably the person who knows herself\nbest."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Hmph. Should have started with that."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "<i>Pant... pant...</i>"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Oh, be quiet! I can keep going!",
-      "choice_data_list": [
-        "It's that injury from earlier after all..."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "I can keep running! I have to... keep\nrunning!"
-    },
-    {
-      "name": "Monologue",
-      "text": "I understand her impatience, but it\nwould be\ndangerous to let her continue."
-    },
-    {
-      "name": "Monologue",
-      "text": "I manage to calm her down and cut\ntraining short\nfor the day."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "<i>Pant... pant...</i> You see?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Duh. No way in hell I'm gonna let\nsomething that\nsmall hold me back.",
-      "choice_data_list": [
-        "Looks like your injury really is fine.",
-        "It really seems like you're completely fine."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "I've gotta do more training than anyone\nelse if I\nhope to beat them."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "<i>Sigh.</i> You're such a nag.",
-      "choice_data_list": [
-        "But I want you to take care of your own body."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Whatever. Stop hounding me and let me\ntrain\nalready!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "I won't have to deal with you hovering\nover me all\nthe time once I get stronger."
-    },
-    {
-      "name": "Monologue",
-      "text": "Despite her complaints, Narita Taishin\nfinishes\nthe full training session."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I take Narita Taishin to the infirmary\nafter she\nsuffers an injury during training."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own.",
+            "choice_data_list": [
+                "It'd be awful if that made it worse.",
+                "It'd be awful if that made it wors...",
+                "Got it! Let's resume training!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, bug off!",
+            "choice_data_list": [
+                "It'd be awful if that made it worse.",
+                "It'd be awful if that made it wors...",
+                "Got it! Let's resume training!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Do you really think I'm some frail wimp?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Is it because I'm shorter than the others?\nBecause\nI'm tiny and weak? Is that it?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, I don't need you to!",
+            "choice_data_list": [
+                "I'm worried about Taishin.",
+                "I'm worried about Taishin."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why don't you stop worrying and use\nyour time to\nthink up a training regimen?"
+        },
+        {
+            "name": "Monologue",
+            "text": "If she agrees to rest,\nI'll happily think up\nas many\nregimens as she'd like, but...",
+            "choice_data_list": [
+                "If I think about it, will you trea...",
+                "If I think it over, will you treat me?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No, that's not what I'm getting at! Are\nyou even\nlistening to me?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh...</i> I don't even know why I\nbother\nwith you...",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin loses her will to keep\narguing and\nconsequently agrees to\nreceive treatment for her\ninjury."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to place my trust in her,\nas she's\n\nprobably the person who knows herself\nbest."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmph. Should have started with that."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Pant... pant...</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, be quiet! I can keep going!",
+            "choice_data_list": [
+                "It's that injury from earlier afte..."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I can keep running! I have to... keep\nrunning!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I understand her impatience, but it\nwould be\ndangerous to let her continue."
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to calm her down and cut\ntraining short\nfor the day."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Pant... pant...</i> You see?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Duh. No way in hell I'm gonna let\nsomething that\nsmall hold me back.",
+            "choice_data_list": [
+                "Looks like your injury really is fine.",
+                "It really seems like you're comple..."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I've gotta do more training than anyone\nelse if I\nhope to beat them."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh.</i> You're such a nag.",
+            "choice_data_list": [
+                "But I want you to take care of you..."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whatever. Stop hounding me and let me\ntrain\nalready!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I won't have to deal with you hovering\nover me all\nthe time once I get stronger."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her complaints, Narita Taishin\nfinishes\nthe full training session."
+        }
+    ]
 }

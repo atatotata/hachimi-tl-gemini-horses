@@ -1,42 +1,42 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "One day, during a strategy meeting for our \nnext race.",
-      "choice_data_list": [
-        "I've prepared the list of runners right \nhere, so—"
-      ]
-    },
-    {
-      "name": "Victoire Pisa",
-      "text": "…………。",
-      "choice_data_list": [
-        "I have the list of runners ready right here—"
-      ]
-    },
-    {
-      "name": "Victoire Pisa",
-      "text": "*Zzz*... *zzz*... Nnh, ah, aaah...",
-      "choice_data_list": [
-        "Pisa, are you listening?"
-      ]
-    },
-    {
-      "name": "Victoire Pisa",
-      "text": "\"...Tree kangaroo-san, that's not a tree, \nthat's a high-rise apart...ment... \n...Mnya.\"",
-      "choice_data_list": [
-        "...Just what kind of dream are you having?",
-        "...Just what kind of dream are you having?"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Regardless of what she dreamed, she must \nbe tired enough to doze off like that. I \nmight need to re-evaluate her schedule...",
-      "choice_data_list": [
-        "...What kind of dream are you having?",
-        "...What kind of dream are you having?"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "One day,\nduring a strategy meeting for our \nnext race.",
+            "choice_data_list": [
+                "I've prepared the list of runners ..."
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…………。",
+            "choice_data_list": [
+                "I have the list of runners ready r..."
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "*Zzz*... *zzz*... Nnh, ah, aaah...",
+            "choice_data_list": [
+                "Pisa, are you listening?"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "\"...Tree kangaroo-san, that's not a tree, \nthat's a high-rise apart...ment... \n...Mnya.\"",
+            "choice_data_list": [
+                "...Just what kind of dream are you...",
+                "...Just what kind of dream are you..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "Regardless of what she dreamed, she must \nbe tired enough to doze off like that. I \nmight need to re-evaluate her schedule...",
+            "choice_data_list": [
+                "...What kind of dream are you having?",
+                "...What kind of dream are you having?"
+            ]
+        }
+    ]
 }
