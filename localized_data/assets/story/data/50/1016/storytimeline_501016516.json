@@ -1,138 +1,138 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "I spot Narita Brian and Biwa Hayahide at\na ramen\nshop."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Ahhh, that hit the spot."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Yeah, it was delicious!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...Well, I'm going to call it here."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "You're going already? Don't you want to\nlet your\nfood settle first?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...Oh, it's you. No, we just happened to\nboth be\nhere.",
-            "choice_data_list": [
-                "Lunch together?"
-            ]
-        },
-        {
-            "name": "Ramen Shop Owner",
-            "text": "Welcome! Let me know when you're\nready to\norder!"
-        },
-        {
-            "name": "Ramen Shop Owner",
-            "text": "We've got a special on offer! The Roast\nPork\nMountain!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "It's delicious. Every single bite was so\njuicy, it was\nalmost like meat broth.",
-            "choice_data_list": [
-                "Extra, extra chashu..."
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aren't you a bit too focused on meat?\nYou even\nput all your veggies in my\nbowl."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...Did not."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "You did too! I saw you! You need to eat\nsome\nvegetables too!"
-        },
-        {
-            "name": "Ramen Shop Owner",
-            "text": "Ahaha! As long as you enjoyed it, I'm\nhappy!"
-        },
-        {
-            "name": "Ramen Shop Owner",
-            "text": "If you liked it that much, how about\nsome extra\npork? On the house."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Really?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...I suppose you're right. Eating too much\njust will\njust slow me down.",
-            "choice_data_list": [
-                "You're eating too much.",
-                "Why don't you take them up on that..."
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Indeed. I think that's a wise decision.\nYou give\ngood advice, Trainer."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Tch. What a meaningless remark. You're\ntrying\ntoo hard to play the part of big\nsister.",
-            "choice_data_list": [
-                "Thank you very much...?"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Well, I <i>am</i> your big sister..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hey, Brian! We're not racing back! Slow\ndown!"
-        },
-        {
-            "name": "Monologue",
-            "text": "As I watch the amusing exchange\nbetween the\nsisters, I order myself the\nRoast Pork Mountain."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...That's what I'm talking about. Gotta\nfinish every\nlast bite!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "That's absurd! You're just going to eat\nthe pork\nplain?!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Why not? Hey, I'll take you up on that\nextra pork!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "...Geez."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "...Phew. That was more than I expected."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "The owner was so impressed with you\nthat he kept\nbringing more..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Are you going to be okay? You've\nclearly\nexceeded the appropriate\namount of food for the\nday..."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "It's not a problem... In any case...\nI'll burn\nit off\nrunning in no time..."
-        },
-        {
-            "name": "Monologue",
-            "text": "While Narita Brian certainly seems to\nhave had\nher fill of roast pork, she may\nhave overdone it..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "I spot Narita Brian and Biwa Hayahide at\na ramen\nshop."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahhh, that hit the spot."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yeah, it was delicious!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Well, I'm going to call it here."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You're going already? Don't you want to\nlet your\nfood settle first?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oh, it's you. No, we just happened to\nboth be\nhere.",
+      "choice_data_list": [
+        "Lunch together?"
+      ]
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "Welcome! Let me know when you're\nready to\norder!"
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "We've got a special on offer! The Roast\nPork\nMountain!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It's delicious. Every single bite was so\njuicy, it was\nalmost like meat broth.",
+      "choice_data_list": [
+        "Extra, extra chashu..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aren't you a bit too focused on meat?\nYou even\nput all your veggies in my\nbowl."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Did not."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You did too! I saw you! You need to eat\nsome\nvegetables too!"
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "Ahaha! As long as you enjoyed it, I'm\nhappy!"
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "If you liked it that much, how about\nsome extra\npork? On the house."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Really?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...I suppose you're right. Eating too much\njust will\njust slow me down.",
+      "choice_data_list": [
+        "You're eating too much.",
+        "Why don't you take them up on that offer?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Indeed. I think that's a wise decision.\nYou give\ngood advice, Trainer."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch. What a meaningless remark. You're\ntrying\ntoo hard to play the part of big\nsister.",
+      "choice_data_list": [
+        "Thank you very much...?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Well, I <i>am</i> your big sister..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hey, Brian! We're not racing back! Slow\ndown!"
+    },
+    {
+      "name": "Monologue",
+      "text": "As I watch the amusing exchange\nbetween the\nsisters, I order myself the\nRoast Pork Mountain."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...That's what I'm talking about. Gotta\nfinish every\nlast bite!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "That's absurd! You're just going to eat\nthe pork\nplain?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Why not? Hey, I'll take you up on that\nextra pork!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Geez."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Phew. That was more than I expected."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "The owner was so impressed with you\nthat he kept\nbringing more..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Are you going to be okay? You've\nclearly\nexceeded the appropriate\namount of food for the\nday..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It's not a problem... In any case... I'll burn\nit off\nrunning in no time..."
+    },
+    {
+      "name": "Monologue",
+      "text": "While Narita Brian certainly seems to\nhave had\nher fill of roast pork, she may\nhave overdone it..."
+    }
+  ]
 }

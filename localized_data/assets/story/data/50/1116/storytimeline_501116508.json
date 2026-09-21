@@ -1,29 +1,29 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Gentildonna",
-            "text": "Hmph...! Hmph...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "...Phew. I've only just passed 400, and \nyet I'm already this exhausted...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "\"This is no good. Just carrying on \naimlessly like this won't help.\"",
-            "choice_data_list": [
-                "(Normally she'd knock out a thousa..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems Gentildonna is tired from the \nrace. It might be best to reconsider our \nupcoming schedule.",
-            "choice_data_list": [
-                "(Normally, she'd knock out a thous..."
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gentildonna",
+      "text": "Hmph...! Hmph...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phew. I've only just passed 400, and \nyet I'm already this exhausted...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"This is no good. Just carrying on \naimlessly like this won't help.\"",
+      "choice_data_list": [
+        "(Normally she'd knock out a thousand reps \nwithout a problem...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Gentildonna is tired from the \nrace. It might be best to reconsider our \nupcoming schedule.",
+      "choice_data_list": [
+        "(Normally, she'd knock out a thousand reps easily...)"
+      ]
+    }
+  ]
 }

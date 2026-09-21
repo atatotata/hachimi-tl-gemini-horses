@@ -1,136 +1,136 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Gentildonna suffered a severe injury and \nwas immediately treated at the nurse's \noffice.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "According to the doctor, it looks like I \nneed to rest for a while.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Still, in my opinion,\ntraining is possible \nas long as we pay close attention.",
-            "choice_data_list": [
-                "Are you planning to keep going?",
-                "Are you planning to keep going?"
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Of course. The strong have no time to \nstand still, after all.",
-            "choice_data_list": [
-                "Wait, do you really plan on contin...",
-                "Wait, are you really planning on c..."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Now, Trainer,\nwon't you get ready as well? \nThis isn't where we are meant to be.",
-            "choice_data_list": [
-                "...Knowing when to comfortably tak...",
-                "...Taking a well-deserved rest is ...",
-                "At least let me adjust your traini..."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Now, Trainer,\nwon't you get ready as well? \nThis isn't where we are meant to be.",
-            "choice_data_list": [
-                "...Knowing when to rest is also th...",
-                "...Knowing when to rest is also th...",
-                "At least let me adjust the routine."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "You might feel confident in your physical \ncondition, but I'd still like you to rest \njust in case. Besides, even if you take a \nbreak here—",
-            "choice_data_list": [
-                "...Knowing when to rest is also th...",
-                "...Knowing when to rest is also th...",
-                "At least let me adjust the routine."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "—...What a shallow way of thinking.",
-            "choice_data_list": [
-                "The fact that you're one of the st...",
-                "The fact that you're strong won't ..."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "“Still,\nI can tell you won't break either. \nVery well, now is the time for silence.”",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Gentildonna wore a fearless smile. It \nseems she was convinced.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Yes. That is quite acceptable, then.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "*pant*... *pant*...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "――~~~~...gh!!",
-            "choice_data_list": [
-                "Gentil!!"
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "...How pathetic.\nAfter boasting like that, \ntoo...",
-            "choice_data_list": [
-                "Gentil!!"
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Yes. After that, we'll regroup. We need \nthe resilience to not be stopped by an \ninjury of this caliber...",
-            "choice_data_list": [
-                "Anyway, let's rest for now."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "After giving Gentildonna some rest, we \ndiscussed our future plans.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gentildonna",
-            "text": "Haaaaah!!",
-            "choice_data_list": [
-                "Incredible...! You can't even tell..."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "—...Phew. Not too bad.",
-            "choice_data_list": [
-                "Amazing...! You can't even tell th..."
-            ]
-        },
-        {
-            "name": "Gentildonna",
-            "text": "If it's only this much, we could probably \nadd a bit more load.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "No matter how fierce the adversity, \nGentildonna charged forward with \nunyielding power.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Gentildonna suffered a severe injury and \nwas immediately treated at the nurse's \noffice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "According to the doctor, it looks like I \nneed to rest for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Still, in my opinion, training is possible \nas long as we pay close attention.",
+      "choice_data_list": [
+        "Are you planning to keep going?",
+        "Are you planning to keep going?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Of course. The strong have no time to \nstand still, after all.",
+      "choice_data_list": [
+        "Wait, do you really plan on continuing?",
+        "Wait, are you really planning on continuing?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Now, Trainer, won't you get ready as well? \nThis isn't where we are meant to be.",
+      "choice_data_list": [
+        "...Knowing when to comfortably take a rest \nis the mark of true strength.",
+        "...Taking a well-deserved rest is the mark \nof true strength, you know.",
+        "At least let me adjust your training menu."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Now, Trainer, won't you get ready as well? \nThis isn't where we are meant to be.",
+      "choice_data_list": [
+        "...Knowing when to rest is also the mark of the strong.",
+        "...Knowing when to rest is also the mark of the strong, you know.",
+        "At least let me adjust the routine."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "You might feel confident in your physical \ncondition, but I'd still like you to rest \njust in case. Besides, even if you take a \nbreak here—",
+      "choice_data_list": [
+        "...Knowing when to rest is also the mark of the strong.",
+        "...Knowing when to rest is also the mark of the strong, you know.",
+        "At least let me adjust the routine."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "—...What a shallow way of thinking.",
+      "choice_data_list": [
+        "The fact that you're one of the strongest will never waver.",
+        "The fact that you're strong won't change"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "“Still, I can tell you won't break either. \nVery well, now is the time for silence.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gentildonna wore a fearless smile. It \nseems she was convinced.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Yes. That is quite acceptable, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "*pant*... *pant*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――~~~~...gh!!",
+      "choice_data_list": [
+        "Gentil!!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...How pathetic. After boasting like that, \ntoo...",
+      "choice_data_list": [
+        "Gentil!!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Yes. After that, we'll regroup. We need \nthe resilience to not be stopped by an \ninjury of this caliber...",
+      "choice_data_list": [
+        "Anyway, let's rest for now."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After giving Gentildonna some rest, we \ndiscussed our future plans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Haaaaah!!",
+      "choice_data_list": [
+        "Incredible...! You can't even tell you \nwere injured...!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "—...Phew. Not too bad.",
+      "choice_data_list": [
+        "Amazing...! You can't even tell there was an injury...!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "If it's only this much, we could probably \nadd a bit more load.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "No matter how fierce the adversity, \nGentildonna charged forward with \nunyielding power.",
+      "choice_data_list": []
+    }
+  ]
 }

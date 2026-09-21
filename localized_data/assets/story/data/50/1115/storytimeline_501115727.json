@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Orfevre",
-            "text": "—Ho... This is splendid.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Orfevre",
-            "text": "Thou hast done well. Speak thy desired \nreward.",
-            "choice_data_list": [
-                "Just knowing you had fun is enough...",
-                "As long as you had fun, that's mor..."
-            ]
-        },
-        {
-            "name": "Orfevre",
-            "text": "I forbid it. What kind of king bestows no \ngrace worthy of the title?",
-            "choice_data_list": [
-                "Just knowing you had fun is enough...",
-                "Just seeing you have fun is more t..."
-            ]
-        },
-        {
-            "name": "Orfevre",
-            "text": "\"Anything will do. I shall give it to \nyou... Come now.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "—It was an utterly satisfying result!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "—Ho... This is splendid.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thou hast done well. Speak thy desired \nreward.",
+      "choice_data_list": [
+        "Just knowing you had fun is enough for me.",
+        "As long as you had fun, that's more than \nenough."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I forbid it. What kind of king bestows no \ngrace worthy of the title?",
+      "choice_data_list": [
+        "Just knowing you had fun is enough for me.",
+        "Just seeing you have fun is more than enough."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Anything will do. I shall give it to \nyou... Come now.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
 }

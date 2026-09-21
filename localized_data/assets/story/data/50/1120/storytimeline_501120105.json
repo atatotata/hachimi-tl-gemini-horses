@@ -1,59 +1,59 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "The annual summer training camp has\nbegun. \nThe Ibis Summer Dash is just around the \ncorner, so we must get in top shape.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Summer training camp has begun. A most \nrewarding camp where I can continuously \nobserve my research subject's changes 24 \nhours a day.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Tachyon, I have some advice for you.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Oh, what is it?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Drop the 24-hour surveillance. Pulling \nall-nighters is bad for your health.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "If it's just for a few hours, the Trainer \nand I can cover for you. So get some \nproper sleep, understand?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "...So that's your angle.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "There's no need to worry. The changes are \nobvious at a glance.\nI'm sure someone will \ncome report it soon enough.",
-            "choice_data_list": [
-                "Wait. What do you mean, an 'obviou..."
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "You'll just have to try it and see... \nHeheheh.",
-            "choice_data_list": [
-                "Wait. What do you mean by an 'imme..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I strictly warned Calstone Light O not to \neat anything given to her by Agnes\nTachyon \nright away.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The annual summer training camp has begun. \nThe Ibis Summer Dash is just around the \ncorner, so we must get in top shape.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Summer training camp has begun. A most \nrewarding camp where I can continuously \nobserve my research subject's changes 24 \nhours a day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tachyon, I have some advice for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, what is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Drop the 24-hour surveillance. Pulling \nall-nighters is bad for your health.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "If it's just for a few hours, the Trainer \nand I can cover for you. So get some \nproper sleep, understand?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...So that's your angle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "There's no need to worry. The changes are \nobvious at a glance. I'm sure someone will \ncome report it soon enough.",
+      "choice_data_list": [
+        "Wait. What do you mean, an 'obvious \nchange'!?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "You'll just have to try it and see... \nHeheheh.",
+      "choice_data_list": [
+        "Wait. What do you mean by an 'immediately obvious change'?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I strictly warned Calstone Light O not to \neat anything given to her by Agnes Tachyon \nright away.",
+      "choice_data_list": []
+    }
+  ]
 }

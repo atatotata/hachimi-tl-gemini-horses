@@ -1,101 +1,101 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Silence Suzuka has suffered an injury, so\nI've\nbrought her to the infirmary."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Sorry for causing so much trouble."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yes. The worst of the pain is gone. I\nthink I'll be\nfine with some rest.",
-            "choice_data_list": [
-                "Are you sure you should be awake?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I'm so sorry..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "If I had only been more careful..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "If I had only been more careful...",
-            "choice_data_list": [
-                "Take it easy and rest for now.",
-                "Take it easy and get some rest for...",
-                "Let's get you healed up fast and s..."
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yeah... But my poor legs will be so\nbored...",
-            "choice_data_list": [
-                "Take it easy and rest for now.",
-                "Take it easy and get some rest for...",
-                "Let's get you healed up fast and s..."
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "<i>Sigh...</i> I already miss the feeling\nof the\nturf under\nmy feet."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Right!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, I have a proposition. I've heard that\nlight\nexercise is useful for recovery."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Do you think I could do a little light\njogging to\nhelp my rehabilitation?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I'll be careful.\nI'll make sure to go slow.",
-            "choice_data_list": [
-                "As long as you don't push yourself..."
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "<i>Huff... Huff...</i>"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "...!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "<i>Sigh...</i> There's still a while to go\nbefore\nI'm feeling\n100%."
-        },
-        {
-            "name": "Monologue",
-            "text": "By attempting to jog while undergoing \nrehabilitation, Silence Suzuka has\ndisrupted her recovery process,\nlengthening the necessary treatment\nperiod."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "<i>Huff... Huff...</i>"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Hehe. I'm starting to feel a lot better."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I might be able to return to my training\nsoon!"
-        },
-        {
-            "name": "Monologue",
-            "text": "It seems that jogging has helped to\nspeed up\nSilence Suzuka's recovery."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Silence Suzuka has suffered an injury, so\nI've\nbrought her to the infirmary."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sorry for causing so much trouble."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yes. The worst of the pain is gone. I\nthink I'll be\nfine with some rest.",
+      "choice_data_list": [
+        "Are you sure you should be awake?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I'm so sorry..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "If I had only been more careful..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "If I had only been more careful...",
+      "choice_data_list": [
+        "Take it easy and rest for now.",
+        "Take it easy and get some rest for now.",
+        "Let's get you healed up fast and start training!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yeah... But my poor legs will be so\nbored...",
+      "choice_data_list": [
+        "Take it easy and rest for now.",
+        "Take it easy and get some rest for now.",
+        "Let's get you healed up fast and start training!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Sigh...</i> I already miss the feeling of the\nturf under\nmy feet."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Right!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, I have a proposition. I've heard that\nlight\nexercise is useful for recovery."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Do you think I could do a little light\njogging to\nhelp my rehabilitation?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I'll be careful. I'll make sure to go slow.",
+      "choice_data_list": [
+        "As long as you don't push yourself too hard!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Huff... Huff...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Sigh...</i> There's still a while to go before\nI'm feeling\n100%."
+    },
+    {
+      "name": "Monologue",
+      "text": "By attempting to jog while undergoing\n\nrehabilitation, Silence Suzuka has\ndisrupted her\nrecovery process,\nlengthening the necessary\ntreatment\nperiod."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Huff... Huff...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe. I'm starting to feel a lot better."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I might be able to return to my training\nsoon!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems that jogging has helped to\nspeed up\nSilence Suzuka's recovery."
+    }
+  ]
 }

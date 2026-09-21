@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Rulership didn't show up for training. \nShe's been slacking off a lot lately,\nso I \ngo to pick her up and give her a stern \ntalking-to.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Rulership",
-            "text": "Whoa!? Trainer!? What's with the scary \nface... I-It's not like I was planning to \nplay games or anything...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Rulership",
-            "text": "I know! This is \"preserving physical \nresources\"...\na tactic looking towards the \nlong game!",
-            "choice_data_list": [
-                "\"Rules\" are meant to be strictly f...",
-                "\"Rules\" are meant to be strictly f..."
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "......*sigh*, you're right. On the board, \nrules are absolute. My bad...",
-            "choice_data_list": [
-                "The 'rules' must be strictly follo...",
-                "The 'rules' must be strictly follo..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I gave them a stern talking-to to ensure \nthey would never do the same thing again.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Rulership didn't show up for training. \nShe's been slacking off a lot lately, so I \ngo to pick her up and give her a stern \ntalking-to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Whoa!? Trainer!? What's with the scary \nface... I-It's not like I was planning to \nplay games or anything...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I know! This is \"preserving physical \nresources\"... a tactic looking towards the \nlong game!",
+      "choice_data_list": [
+        "\"Rules\" are meant to be strictly followed, \nright?",
+        "\"Rules\" are meant to be strictly followed, \nright?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "......*sigh*, you're right. On the board, \nrules are absolute. My bad...",
+      "choice_data_list": [
+        "The 'rules' must be strictly followed, right?",
+        "The 'rules' must be strictly followed, aren't they?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave them a stern talking-to to ensure \nthey would never do the same thing again.",
+      "choice_data_list": []
+    }
+  ]
 }

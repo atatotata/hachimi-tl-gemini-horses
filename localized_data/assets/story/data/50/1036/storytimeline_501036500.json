@@ -1,72 +1,72 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Agnes Tachyon",
-            "text": "You and your trainer seem to be getting\nalong\nquite well."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Okay? Any reason you're bringing this\nup?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I was watching my subje—the hard-working\nstudents the other day as\npart of my research on the connection\nbetween nutrient intake and physique,\nand I spotted the two of you."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Your trainer must be something special\nto keep\nup with you."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "I have no idea what you're talkin' about."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Hyaaah!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "<i>Pant, pant.</i> Hey! What was my time?"
-        },
-        {
-            "name": "Monologue",
-            "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today.",
-            "choice_data_list": [
-                "I sent it to your computer."
-            ]
-        },
-        {
-            "name": "Air Shakur",
-            "text": "...Got it."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "I'm feeling good today. I think I can go\nanother\nfew laps."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "...",
-            "choice_data_list": [
-                "If your times fall below the bench...",
-                "If your times fall below the bench..."
-            ]
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Nah, it's nothing.",
-            "choice_data_list": [
-                "Is something wrong?",
-                "Is something wrong?"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Your trainer must be something special\nto keep\nup with you."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "(Well, it beats getting in my way.)"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "You and your trainer seem to be getting\nalong\nquite well."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Okay? Any reason you're bringing this\nup?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I was watching my subje—the\nhard-working\nstudents the other day as\npart of my research on\nthe connection\nbetween nutrient intake and\nphysique,\nand I spotted the two of you."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Your trainer must be something special\nto keep\nup with you."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I have no idea what you're talkin' about."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hyaaah!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Pant, pant.</i> Hey! What was my time?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today.",
+      "choice_data_list": [
+        "I sent it to your computer."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Got it."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I'm feeling good today. I think I can go\nanother\nfew laps."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "If your times fall below the benchmark, I'll let you know.",
+        "If your times fall below the benchmark, I'll let you know."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nah, it's nothing.",
+      "choice_data_list": [
+        "Is something wrong?",
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Your trainer must be something special\nto keep\nup with you."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Well, it beats getting in my way.)"
+    }
+  ]
 }

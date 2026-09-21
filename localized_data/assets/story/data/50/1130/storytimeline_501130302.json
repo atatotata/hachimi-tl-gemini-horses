@@ -1,438 +1,438 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "On the way home after going shopping with \nLucky Lilac—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "Step right up,\nthe New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Huh, tickets for a hot spring trip?\nThat's \nquite a lavish lottery prize.",
-            "choice_data_list": [
-                "Come to think of it, I think I got..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Oh? In that case, would you like to draw \none to test your luck?",
-            "choice_data_list": [
-                "Come to think of it, I think I got..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "\"Just because you're Lucky Lilac. ...Hah, \nshut up.\"",
-            "choice_data_list": [
-                "If Luck draws it, maybe we'll win."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "...Still, well, it's a good opportunity. \nShall we try spinning it together?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "\"Let's treat this as a test of our luck \ntogether from here on.\"",
-            "choice_data_list": [
-                "Alright, let's give it a try!"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Together with Lucky Lilac, I spun the \nraffle wheel's crank!",
-            "choice_data_list": [
-                "Alright, let's give it a shot!"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "And the result was—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "Incredible! Congraaaatulations!!\nThe Grand \nPrize, 'Hot Springs Trip Ticket',\nhas been \nwon~~~~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Acquired \"<itemname>\".",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Uh—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(Y-You're kiddin' me~~~~~~~?!?! Did I \nreally actually win...?!)",
-            "choice_data_list": [
-                "You did it!",
-                "You did it!"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Yes. Unbelievably enough,\nit really turned \nout to be a lucky lilac.",
-            "choice_data_list": [
-                "We did it!",
-                "We did it!"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "...Still, what should I do with this? I \nnever thought I'd actually win, so I \nhaven't thought about how to spend it at \nall—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(...Or rather...)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(Wait, so this means I'm going with \nTrainer, right?)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(I'd really love to go, but... I wonder \nwhat Trainer thinks. Would it be a \nbother...?)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(No, but we did draw it as a pair... \nThough it's not like we talked about what \nto do about the hot springs...â)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(—Ah, geez! No use overthinking it! Just \ngotta go for it with that in mind!)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "—For now, let's use it once things settle \ndown and we can take our time.",
-            "choice_data_list": [
-                "Yeah, that seems like a good idea.",
-                "Yeah, that seems like a good idea!"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "…………。",
-            "choice_data_list": [
-                "Yeah, that seems like a good idea.",
-                "Yeah, that looks like a good idea."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Alright.",
-            "choice_data_list": [
-                "Luck?"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Ah, no. It's nothing.",
-            "choice_data_list": [
-                "Luck?"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "...Well then, Trainer,\ncould you hold onto \nthe travel vouchers for me?",
-            "choice_data_list": [
-                "Okay, leave it to me!"
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Then let's look forward to that time, \nyeah?",
-            "choice_data_list": [
-                "Okay, leave it to me."
-            ]
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Acquired \"<itemname>\".",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Oh! We got a good one!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Ooh, what a magnificent dish. It feels \nalmost like a waste to just eat it plain \nlike this.",
-            "choice_data_list": [
-                "Indeed... I'd love to set out some..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Ah, then since we're here,\nwhy don't we go \nbuy some ingredients and cook something \nafter this?",
-            "choice_data_list": [
-                "True... It'd be nice to have some ..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Afterward, we ended up borrowing a corner \nof the academy cafeteria's kitchen—",
-            "choice_data_list": [
-                "Sounds good! Let's do it."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Alright, I'll make the marinade, so \nTrainer, please take care of the soup and \nsalad.",
-            "choice_data_list": [
-                "Leave it to me! Are 10 stockpots e...",
-                "Leave it to me! Are 10 stockpots e..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "How much food are you even plannin' to \nmake?!\nEven an Umamusume couldn't eat that \nmuch!!",
-            "choice_data_list": [
-                "Leave it to me! Will ten stockpots...",
-                "Leave it to me! Will ten stockpots..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "...Fufu—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Even after that, we cooked together while \nsharing silly, casual chats with Lucky \nLilac, enjoying a wonderful time—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Acquired \"<itemname>\".",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Oh my...! I won something.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "\"W-Well, you said it was a mountain of \nfood so I wondered what to expect, but \nthis is way more than I imagined...\"",
-            "choice_data_list": [
-                "It might be a bit tough for just u...",
-                "It might be a bit much for just us..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "...If that's the case,\nwould it be alright \nif I took some?",
-            "choice_data_list": [
-                "It might be a bit tough for just t...",
-                "It might be hard for just us to fi..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Since I had the opportunity,\nI thought I'd \nuse this to express my gratitude.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "“—I see. And that's why you baked it into \na carrot cake and brought it to me.”",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Yes. Everyone has taken such good care of \nme, so...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "Thank you very much. I shall enjoy it, \nthen.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Nakayama Festa",
-            "text": "Huh, I like that it isn't too sweet. I'll \ngladly accept it.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I smell a huge wave coming...! A collab \nwith Golshi-chan brand fried \nnoodles—this'll conquer the world, I tell \nya...!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fenomeno",
-            "text": "\"Thank you very much, even including me, \nOfficer Fenomeno...! I shall savor every \nbite!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Stay Gold",
-            "text": "I really should drop by more often~. This \ncake is delicious. Thanks, Lala.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Orfevre",
-            "text": "Your spirit in serving me is commendable. \nContinue to strive diligently.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Stay Gold",
-            "text": "Look, Orfe is happy too~.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Orfevre",
-            "text": "...You.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Fufu. I'm relieved to see it suited \neveryone's tastes.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(Thank goodness~~~~!! And man, I'm so \nfreakin' happy~~~~!!)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "3rd prize~! The prize is \"one carrot\"!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Acquired \"<itemname>\".",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Fufu. Well, this should be just about \nright, don't ya think?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Still, a single carrot... It's \nsurprisingly tricky to figure out the\nbest \nway to use it.",
-            "choice_data_list": [
-                "Maybe I'll make them into carrot s..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Ah, yeah, that's right. Kind of like a \nlight snack.",
-            "choice_data_list": [
-                "Maybe we should make carrot sticks..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Oh, that sounds fun. Well then, shall we \nwatch something in the Trainer's office?",
-            "choice_data_list": [
-                "And snacking on that while watchin..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Afterward, Lucky Lilac and I ended up \nwatching a comedy show together in the \ntrainer's office—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Fufu...! This duo has some serious \nmomentum behind their comebacks, don't \nthey?",
-            "choice_data_list": [
-                "Yeah, about a tenth of it's pure luck.",
-                "Yeah, it's about a tenth of what L..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "Man, just how hard was that retort?!",
-            "choice_data_list": [
-                "Yeah, it's about a tenth of that rack.",
-                "Yeah, there's about a tenth of wha..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "And so, while munching on carrot sticks, \nthey spent a wonderful time together.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Shopping District Local",
-            "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Acquired \"<itemname>\".",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(N-Now that I actually missed, it really \nbums me out...)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "W-Well... times like this happen too, \nright?",
-            "choice_data_list": [
-                "I suppose............ you're \nrigh..."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "(Wait,\naren't you the one who's completely \nbummed out?!)",
-            "choice_data_list": [
-                "I guess............ you're right....."
-            ]
-        },
-        {
-            "name": "Lucky Lilac",
-            "text": "It can't be helped. Let's just go home \nquietly.",
-            "choice_data_list": [
-                "Right..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "And so, feeling a little dejected,\nthe two \nof them returned to the academy...",
-            "choice_data_list": [
-                "Yeah..."
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way home after going shopping with \nLucky Lilac—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Huh, tickets for a hot spring trip? That's \nquite a lavish lottery prize.",
+      "choice_data_list": [
+        "Come to think of it, I think I got a \nlottery ticket."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Oh? In that case, would you like to draw \none to test your luck?",
+      "choice_data_list": [
+        "Come to think of it, I think I got a raffle ticket."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Just because you're Lucky Lilac. ...Hah, \nshut up.\"",
+      "choice_data_list": [
+        "If Luck draws it, maybe we'll win."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Still, well, it's a good opportunity. \nShall we try spinning it together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Let's treat this as a test of our luck \ntogether from here on.\"",
+      "choice_data_list": [
+        "Alright, let's give it a try!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Together with Lucky Lilac, I spun the \nraffle wheel's crank!",
+      "choice_data_list": [
+        "Alright, let's give it a shot!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Uh—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Y-You're kiddin' me~~~~~~~?!?! Did I \nreally actually win...?!)",
+      "choice_data_list": [
+        "You did it!",
+        "You did it!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Yes. Unbelievably enough, it really turned \nout to be a lucky lilac.",
+      "choice_data_list": [
+        "We did it!",
+        "We did it!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Still, what should I do with this? I \nnever thought I'd actually win, so I \nhaven't thought about how to spend it at \nall—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(...Or rather...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Wait, so this means I'm going with \nTrainer, right?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(I'd really love to go, but... I wonder \nwhat Trainer thinks. Would it be a \nbother...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(No, but we did draw it as a pair... \nThough it's not like we talked about what \nto do about the hot springs...â)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(—Ah, geez! No use overthinking it! Just \ngotta go for it with that in mind!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "—For now, let's use it once things settle \ndown and we can take our time.",
+      "choice_data_list": [
+        "Yeah, that seems like a good idea.",
+        "Yeah, that seems like a good idea!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "…………。",
+      "choice_data_list": [
+        "Yeah, that seems like a good idea.",
+        "Yeah, that looks like a good idea."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Alright.",
+      "choice_data_list": [
+        "Luck?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, no. It's nothing.",
+      "choice_data_list": [
+        "Luck?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Well then, Trainer, could you hold onto \nthe travel vouchers for me?",
+      "choice_data_list": [
+        "Okay, leave it to me!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Then let's look forward to that time, \nyeah?",
+      "choice_data_list": [
+        "Okay, leave it to me."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Oh! We got a good one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ooh, what a magnificent dish. It feels \nalmost like a waste to just eat it plain \nlike this.",
+      "choice_data_list": [
+        "Indeed... I'd love to set out some side \ndishes too."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, then since we're here, why don't we go \nbuy some ingredients and cook something \nafter this?",
+      "choice_data_list": [
+        "True... It'd be nice to have some side dishes to go with it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, we ended up borrowing a corner \nof the academy cafeteria's kitchen—",
+      "choice_data_list": [
+        "Sounds good! Let's do it."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Alright, I'll make the marinade, so \nTrainer, please take care of the soup and \nsalad.",
+      "choice_data_list": [
+        "Leave it to me! Are 10 stockpots enough?",
+        "Leave it to me! Are 10 stockpots enough?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "How much food are you even plannin' to \nmake?! Even an Umamusume couldn't eat that \nmuch!!",
+      "choice_data_list": [
+        "Leave it to me! Will ten stockpots be enough?",
+        "Leave it to me! Will ten stockpots be enough?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Fufu—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even after that, we cooked together while \nsharing silly, casual chats with Lucky \nLilac, enjoying a wonderful time—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Oh my...! I won something.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"W-Well, you said it was a mountain of \nfood so I wondered what to expect, but \nthis is way more than I imagined...\"",
+      "choice_data_list": [
+        "It might be a bit tough for just us to \nfinish it all off.",
+        "It might be a bit much for just us to \nfinish it all."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...If that's the case, would it be alright \nif I took some?",
+      "choice_data_list": [
+        "It might be a bit tough for just the two of us to finish.",
+        "It might be hard for just us to finish all of this."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Since I had the opportunity, I thought I'd \nuse this to express my gratitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "“—I see. And that's why you baked it into \na carrot cake and brought it to me.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Yes. Everyone has taken such good care of \nme, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Thank you very much. I shall enjoy it, \nthen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Huh, I like that it isn't too sweet. I'll \ngladly accept it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "I smell a huge wave coming...! A collab \nwith Golshi-chan brand fried \nnoodles—this'll conquer the world, I tell \nya...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"Thank you very much, even including me, \nOfficer Fenomeno...! I shall savor every \nbite!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I really should drop by more often~. This \ncake is delicious. Thanks, Lala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Your spirit in serving me is commendable. \nContinue to strive diligently.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Look, Orfe is happy too~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...You.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu. I'm relieved to see it suited \neveryone's tastes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Thank goodness~~~~!! And man, I'm so \nfreakin' happy~~~~!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~! The prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu. Well, this should be just about \nright, don't ya think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Still, a single carrot... It's \nsurprisingly tricky to figure out the best \nway to use it.",
+      "choice_data_list": [
+        "Maybe I'll make them into carrot sticks or \nsomething."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, yeah, that's right. Kind of like a \nlight snack.",
+      "choice_data_list": [
+        "Maybe we should make carrot sticks or something?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Oh, that sounds fun. Well then, shall we \nwatch something in the Trainer's office?",
+      "choice_data_list": [
+        "And snacking on that while watching something, maybe?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Lucky Lilac and I ended up \nwatching a comedy show together in the \ntrainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu...! This duo has some serious \nmomentum behind their comebacks, don't \nthey?",
+      "choice_data_list": [
+        "Yeah, about a tenth of it is pure luck.",
+        "Yeah, it's about a tenth of what Luck has."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Man, just how hard was that retort?!",
+      "choice_data_list": [
+        "Yeah, it's about a tenth of that rack.",
+        "Yeah, there's about a tenth of what Luck has."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, while munching on carrot sticks, \nthey spent a wonderful time together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(N-Now that I actually missed, it really \nbums me out...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "W-Well... times like this happen too, \nright?",
+      "choice_data_list": [
+        "I suppose............ you're \nright............"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Wait, aren't you the one who's completely \nbummed out?!)",
+      "choice_data_list": [
+        "I guess............ you're right............"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "It can't be helped. Let's just go home \nquietly.",
+      "choice_data_list": [
+        "Right..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, feeling a little dejected, the two \nof them returned to the academy...",
+      "choice_data_list": [
+        "Yeah..."
+      ]
+    }
+  ]
 }

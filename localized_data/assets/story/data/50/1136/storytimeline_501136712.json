@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "When Red Desire didn't show up for \ntraining even after the scheduled time, I \nwent looking for her—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Red Desire",
-            "text": "Incredible... My hands can't stop turning \nthe pages...! So this is the power of the \nsacred text, \"Offerings to the Saint\"...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Red Desire",
-            "text": "What a miracle to stumble upon such a\nrare \nbook at the academy! This can only be \ndivine providence—",
-            "choice_data_list": [
-                "Hate to ruin your fun, but..."
-            ]
-        },
-        {
-            "name": "Red Desire",
-            "text": "Oh, you're reading too, Trainer...",
-            "choice_data_list": [
-                "Sorry to interrupt your fun, but..."
-            ]
-        },
-        {
-            "name": "Red Desire",
-            "text": "Ah! Training! I am terribly sorry, it \ncompletely slipped my mind...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When Red Desire didn't show up for \ntraining even after the scheduled time, I \nwent looking for her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Incredible... My hands can't stop turning \nthe pages...! So this is the power of the \nsacred text, \"Offerings to the Saint\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "What a miracle to stumble upon such a rare \nbook at the academy! This can only be \ndivine providence—",
+      "choice_data_list": [
+        "Hate to ruin your fun, but..."
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Oh, you're reading too, Trainer...",
+      "choice_data_list": [
+        "Sorry to interrupt your fun, but..."
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Ah! Training! I am terribly sorry, it \ncompletely slipped my mind...",
+      "choice_data_list": []
+    }
+  ]
 }

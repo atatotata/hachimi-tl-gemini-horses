@@ -1,38 +1,38 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Shinko Windy",
-            "text": "Urrgh... so sleepy...",
-            "choice_data_list": [
-                "You didn't sleep well last night, ...",
-                "You couldn't sleep well last night?"
-            ]
-        },
-        {
-            "name": "Shinko Windy",
-            "text": "...Yeah. I read that popular manga. It \nturned out to be... pretty scary...",
-            "choice_data_list": [
-                "Couldn't sleep well last night?",
-                "Did you have trouble sleeping last..."
-            ]
-        },
-        {
-            "name": "Shinko Windy",
-            "text": "N-N-No way! As if! I-I'm not scared of \nghosts in the slightest!!",
-            "choice_data_list": [
-                "Could it be you were too scared to..."
-            ]
-        },
-        {
-            "name": "Shinko Windy",
-            "text": "Why am I sleep-deprived...? Right,\nbecause \nI binge-read the whole thing! Man, it was \nso good! Wahahaha...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "...Regardless of the reason, Shinko Windy \ndoesn't seem to have gotten much rest due \nto a lack of sleep...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Shinko Windy",
+      "text": "Urrgh... so sleepy...",
+      "choice_data_list": [
+        "You didn't sleep well last night, did you?",
+        "You couldn't sleep well last night?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "...Yeah. I read that popular manga. It \nturned out to be... pretty scary...",
+      "choice_data_list": [
+        "Couldn't sleep well last night?",
+        "Did you have trouble sleeping last night?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "N-N-No way! As if! I-I'm not scared of \nghosts in the slightest!!",
+      "choice_data_list": [
+        "Could it be you were too scared to sleep...?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Why am I sleep-deprived...? Right, because \nI binge-read the whole thing! Man, it was \nso good! Wahahaha...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Regardless of the reason, Shinko Windy \ndoesn't seem to have gotten much rest due \nto a lack of sleep...",
+      "choice_data_list": []
+    }
+  ]
 }

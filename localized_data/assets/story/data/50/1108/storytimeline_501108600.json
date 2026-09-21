@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Before the race. The moment I opened the \nwaiting room door to call Duramente— a \npiercing atmosphere ran right through me.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "………………。",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "“—Hm, is it already post time? You could \nhave simply called out to me.”",
-            "choice_data_list": [
-                "You were so focused, and your spir..."
-            ]
-        },
-        {
-            "name": "Duramente",
-            "text": "Ah... I was doing some visualization \ntraining in order to become the \n\"strongest\" in the race.",
-            "choice_data_list": [
-                "You were so focused, and had such ..."
-            ]
-        },
-        {
-            "name": "Duramente",
-            "text": "I've got a good feel for it now. All \nthat's left is to prove it with my own \nability.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Before the race. The moment I opened the \nwaiting room door to call Duramente— a \npiercing atmosphere ran right through me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "“—Hm, is it already post time? You could \nhave simply called out to me.”",
+      "choice_data_list": [
+        "You were so focused, and your spirit was \nincredible, so..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Ah... I was doing some visualization \ntraining in order to become the \n\"strongest\" in the race.",
+      "choice_data_list": [
+        "You were so focused, and had such incredible intensity."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "I've got a good feel for it now. All \nthat's left is to prove it with my own \nability.",
+      "choice_data_list": []
+    }
+  ]
 }

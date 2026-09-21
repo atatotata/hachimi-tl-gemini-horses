@@ -1,63 +1,63 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, while out with Calstone Light O—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "...Trainer. Are you good at claw crane \ngames?",
-            "choice_data_list": [
-                "I wouldn't say I'm good at it... j..."
-            ]
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "I'll be blunt. Please teach me how to do \nthat.",
-            "choice_data_list": [
-                "I wouldn't say I'm great at it... ..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Looking in the direction Calstone Light O \npointed, there was a claw machine filled \nwith plushies modeled after Umamusume.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "\"I happened to receive one the other day, \nbut... having just one on the desk feels \nso incomplete!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Lining them up in a straight line is\ntruly \nthe way to go. That's what I thought, and \ndecided to give it a try, but...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Guh...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "I see. I should at least be able to give \nyou a lecture on how to do it.",
-            "choice_data_list": [
-                "If that's the case, maybe I'll giv..."
-            ]
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "! Thank you. I will watch closely, look \nstraight at you, and commit it to memory!",
-            "choice_data_list": [
-                "In that case, maybe I'll give it a..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "—I can't afford to lose this game!!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Calstone Light O—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...Trainer. Are you good at claw crane \ngames?",
+      "choice_data_list": [
+        "I wouldn't say I'm good at it... just \naverage, I guess."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I'll be blunt. Please teach me how to do \nthat.",
+      "choice_data_list": [
+        "I wouldn't say I'm great at it... Just average, I guess."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Calstone Light O \npointed, there was a claw machine filled \nwith plushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"I happened to receive one the other day, \nbut... having just one on the desk feels \nso incomplete!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Lining them up in a straight line is truly \nthe way to go. That's what I thought, and \ndecided to give it a try, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Guh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I see. I should at least be able to give \nyou a lecture on how to do it.",
+      "choice_data_list": [
+        "If that's the case, maybe I'll give it a \ntry!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "! Thank you. I will watch closely, look \nstraight at you, and commit it to memory!",
+      "choice_data_list": [
+        "In that case, maybe I'll give it a shot!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
 }

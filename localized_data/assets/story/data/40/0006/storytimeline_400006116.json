@@ -1,61 +1,61 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "While taking a walk after training, my \nsmartphone buzzed."
-        },
-        {
-            "name": "Narrator",
-            "text": "It's a message from <support>!\nEven in their casual \nwords, I can feel their warm \nthoughtfulness toward us.",
-            "choice_data_list": [
-                "(...I really appreciate this.)"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Since I'm replying anyway,\nI'll include an \nupdate on how well <chrname> is doing.\nI'm sure \nthey'll be happy to hear it.",
-            "choice_data_list": [
-                "(...That's much appreciated.)"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Now then,\nwhat's the best way to let <support> know \nabout <chrname>'s recent progress...?",
-            "choice_data_list": [
-                "Send a photo of <chrname>",
-                "Take a video of her training",
-                "Use the power of words! Express it..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I reached out to <chrname> and brought up\nthe idea \nabout the photos.",
-            "choice_data_list": [
-                "Send photos of <chrname>.",
-                "Film the training session.",
-                "Now for the power of the written w..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Afterward, I met up with <chrname>,\ntook a few \nphotos, and sent them off to <support>."
-        },
-        {
-            "name": "Narrator",
-            "text": "I decided to ask <chrname> for permission\nto film a \nvideo during our next training session!"
-        },
-        {
-            "name": "Narrator",
-            "text": "I'll show <support>,\nwho is always cheering her on, \njust how energetic she is!"
-        },
-        {
-            "name": "Narrator",
-            "text": "I drafted a message,\nrecalling how <chrname> did \nduring today's training."
-        },
-        {
-            "name": "Narrator",
-            "text": "Making sure everything comes across \nclearly to <support>,\nwho supports her so warmly!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While taking a walk after training, my \nsmartphone buzzed."
+    },
+    {
+      "name": "Narrator",
+      "text": "It's a message from <support>! Even in their casual \nwords, I can feel their warm \nthoughtfulness toward us.",
+      "choice_data_list": [
+        "(...I really appreciate this.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Since I'm replying anyway, I'll include an \nupdate on how well <chrname> is doing. I'm sure \nthey'll be happy to hear it.",
+      "choice_data_list": [
+        "(...That's much appreciated.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Now then, what's the best way to let <support> know \nabout <chrname>'s recent progress...?",
+      "choice_data_list": [
+        "Send a photo of <chrname>",
+        "Take a video of her training",
+        "Use the power of words! Express it in \nwriting"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I reached out to <chrname> and brought up the idea \nabout the photos.",
+      "choice_data_list": [
+        "Send photos of <chrname>.",
+        "Film the training session.",
+        "Now for the power of the written word! Let's express it in writing."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I met up with <chrname>, took a few \nphotos, and sent them off to <support>."
+    },
+    {
+      "name": "Narrator",
+      "text": "I decided to ask <chrname> for permission to film a \nvideo during our next training session!"
+    },
+    {
+      "name": "Narrator",
+      "text": "I'll show <support>, who is always cheering her on, \njust how energetic she is!"
+    },
+    {
+      "name": "Narrator",
+      "text": "I drafted a message, recalling how <chrname> did \nduring today's training."
+    },
+    {
+      "name": "Narrator",
+      "text": "Making sure everything comes across \nclearly to <support>, who supports her so warmly!"
+    }
+  ]
 }

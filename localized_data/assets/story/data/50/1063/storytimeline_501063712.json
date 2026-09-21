@@ -1,45 +1,45 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "A little past the scheduled training\ntime, \nI received an email from Ikuno Dictus. \nHowever, its contents were rather \nmysterious—",
-            "choice_data_list": [
-                "\"Running late. Smartphone.\" ...Wha...",
-                "\"Running late. Smartphone.\" ...Wha..."
-            ]
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "Trainer...! S-Sorry I'm late!",
-            "choice_data_list": [
-                "'Running late. Smartphone'—what is...",
-                "'Running late. Smartphone.' ...What?"
-            ]
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "I am so terribly sorry...!! I dropped my \nsmartphone earlier and it took me a while \nto find it—",
-            "choice_data_list": [
-                "\"Running late. Smartphone.\" ...Ah,...",
-                "So that's why it said \"Running lat..."
-            ]
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "Ah! I sent it written like that...!\nIt was \nalready past the time when I collected \nthem, so I panicked... How \nembarrassing...!",
-            "choice_data_list": [
-                "'Running late. Smartphone'—so that...",
-                "So that's why you sent 'Running la..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Seeing how shaken she was, it was clear \nshe truly regretted her actions... So I \nforgave her without scolding her any \nfurther.",
-            "choice_data_list": [
-                "Next time, make sure to tell me first.",
-                "Next time, come tell me first, okay?"
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "A little past the scheduled training time, \nI received an email from Ikuno Dictus. \nHowever, its contents were rather \nmysterious—",
+      "choice_data_list": [
+        "\"Running late. Smartphone.\" ...What's that \nsupposed to mean?",
+        "\"Running late. Smartphone.\" ...What does \nthat even mean?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Trainer...! S-Sorry I'm late!",
+      "choice_data_list": [
+        "'Running late. Smartphone'—what is that even supposed to mean?",
+        "'Running late. Smartphone.' ...What?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "I am so terribly sorry...!! I dropped my \nsmartphone earlier and it took me a while \nto find it—",
+      "choice_data_list": [
+        "\"Running late. Smartphone.\" ...Ah, that's \nwhat you meant.",
+        "So that's why it said \"Running late. \nSmartphone.\""
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ah! I sent it written like that...! It was \nalready past the time when I collected \nthem, so I panicked... How \nembarrassing...!",
+      "choice_data_list": [
+        "'Running late. Smartphone'—so that's what that was.",
+        "So that's why you sent 'Running late. Smartphone.'"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing how shaken she was, it was clear \nshe truly regretted her actions... So I \nforgave her without scolding her any \nfurther.",
+      "choice_data_list": [
+        "Next time, make sure to tell me first.",
+        "Next time, come tell me first, okay?"
+      ]
+    }
+  ]
 }
