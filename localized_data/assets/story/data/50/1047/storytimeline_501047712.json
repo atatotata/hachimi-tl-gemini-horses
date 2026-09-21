@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "I searched for Zenno Rob Roy, who hadn't \nshown up despite it being time for \ntraining, and found her on a hill...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Ah, Trainer! Look at this cityscape. The \nbuildings and the park's location... \nthere's no doubt about it!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "\"This town was the model for where the \nprotagonist grew up! The scene where they \ntrain by running all around town was so \nmemorable—\"",
-            "choice_data_list": [
-                "Looks like it's time for your trai...",
-                "Time for your training too, huh?"
-            ]
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Ah...! I-I-I'm so sorry! What have I \ndone...?!",
-            "choice_data_list": [
-                "Time for your training too, huh.",
-                "Time for your training too, huh?"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Zenno Rob Roy got too caught up \nresearching the book and ended up\nskipping \ntraining. I warned her to be more careful \nin the future.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I searched for Zenno Rob Roy, who hadn't \nshown up despite it being time for \ntraining, and found her on a hill...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, Trainer! Look at this cityscape. The \nbuildings and the park's location... \nthere's no doubt about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"This town was the model for where the \nprotagonist grew up! The scene where they \ntrain by running all around town was so \nmemorable—\"",
+      "choice_data_list": [
+        "Looks like it's time for your training \ntoo.",
+        "Time for your training too, huh?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah...! I-I-I'm so sorry! What have I \ndone...?!",
+      "choice_data_list": [
+        "Time for your training too, huh.",
+        "Time for your training too, huh?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Zenno Rob Roy got too caught up \nresearching the book and ended up skipping \ntraining. I warned her to be more careful \nin the future.",
+      "choice_data_list": []
+    }
+  ]
 }

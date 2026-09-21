@@ -1,40 +1,40 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Buena Vista",
-            "text": "I see, so this is where you use this \nformula... Thank you, I finally get it~.",
-            "choice_data_list": [
-                "That's rare. I'd expect you to be ...",
-                "That's rare. You'd normally be abl..."
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "I've just been spacing out a lot\nlately... \nEven what's in the textbooks won't really \nstick in my head.",
-            "choice_data_list": [
-                "That's unusual. A question like th...",
-                "That's unusual. Surely you could s..."
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "If only you could read to me like old \ntimes... Just kidding.",
-            "choice_data_list": [
-                "...A textbook?"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Ahaha... Yeah, it really is weird, huh. \nHaaah...",
-            "choice_data_list": [
-                "...The textbook?"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Buena Vista is letting out sighs. Fatigue \nmight be catching up to her. Let's \nreconsider her racing schedule a bit.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "I see, so this is where you use this \nformula... Thank you, I finally get it~.",
+      "choice_data_list": [
+        "That's rare. I'd expect you to be able to \nsolve a problem like this.",
+        "That's rare. You'd normally be able to \nsolve a problem like this."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've just been spacing out a lot lately... \nEven what's in the textbooks won't really \nstick in my head.",
+      "choice_data_list": [
+        "That's unusual. A question like that should be easy for you.",
+        "That's unusual. Surely you could solve a problem like that."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "If only you could read to me like old \ntimes... Just kidding.",
+      "choice_data_list": [
+        "...A textbook?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ahaha... Yeah, it really is weird, huh. \nHaaah...",
+      "choice_data_list": [
+        "...The textbook?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista is letting out sighs. Fatigue \nmight be catching up to her. Let's \nreconsider her racing schedule a bit.",
+      "choice_data_list": []
+    }
+  ]
 }

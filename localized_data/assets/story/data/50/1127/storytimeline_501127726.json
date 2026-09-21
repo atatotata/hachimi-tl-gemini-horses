@@ -1,71 +1,71 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, while out and about with \nFenomeno...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fenomeno",
-            "text": "Hm, that's...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Looking in the direction Fenomeno is \npointing, I spot a crane game filled with \nUmamusume plushies.",
-            "choice_data_list": [
-                "Phenomeno, so you're interested in...",
-                "Phenomeno, are you interested in P..."
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "Ah, no, I just remembered seeing some \nchildren happily holding one earlier.",
-            "choice_data_list": [
-                "Fenomeno, are you interested in Pa...",
-                "Fenomeno, are you interested in Pa..."
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "If I have that, it might make it easier \nfor people to feel close to me, or—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fenomeno",
-            "text": "That's it! No matter how much I strive to \nbe a role model for the children, if \nthey're terrified of me and won't even \nlook my way, it completely defeats the \npurpose...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fenomeno",
-            "text": "\"However! If I have that plushie, they're \nsure to look at me with fondness!\"",
-            "choice_data_list": [
-                "Then 'll have to work hard and win it!",
-                "Then I've got to do my best to get it!"
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "Sir, yes, sir! Regarding that matter,\nthis \nofficer is somewhat unfamiliar with games \nof that nature.",
-            "choice_data_list": [
-                "Then we've gotta do our best to wi...",
-                "Then we've gotta do our best to wi..."
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "So... Boss, if you wouldn't mind, could \nyou please show me how it's done?!",
-            "choice_data_list": [
-                "...Understood. I'll give it a try."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "—I can't afford to lose this game!!",
-            "choice_data_list": [
-                "...Got it. I'll give it a shot."
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about with \nFenomeno...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Hm, that's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Fenomeno is \npointing, I spot a crane game filled with \nUmamusume plushies.",
+      "choice_data_list": [
+        "Phenomeno, so you're interested in Paka \nPuchi?",
+        "Phenomeno, are you interested in Paka \nPuchi?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ah, no, I just remembered seeing some \nchildren happily holding one earlier.",
+      "choice_data_list": [
+        "Fenomeno, are you interested in Paka-Petites?",
+        "Fenomeno, are you interested in Paka-Petites?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "If I have that, it might make it easier \nfor people to feel close to me, or—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "That's it! No matter how much I strive to \nbe a role model for the children, if \nthey're terrified of me and won't even \nlook my way, it completely defeats the \npurpose...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"However! If I have that plushie, they're \nsure to look at me with fondness!\"",
+      "choice_data_list": [
+        "Then I'll have to work hard and win it!",
+        "Then I've got to do my best to get it!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Sir, yes, sir! Regarding that matter, this \nofficer is somewhat unfamiliar with games \nof that nature.",
+      "choice_data_list": [
+        "Then we've gotta do our best to win it!",
+        "Then we've gotta do our best to win it!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "So... Boss, if you wouldn't mind, could \nyou please show me how it's done?!",
+      "choice_data_list": [
+        "...Understood. I'll give it a try."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": [
+        "...Got it. I'll give it a shot."
+      ]
+    }
+  ]
 }

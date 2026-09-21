@@ -1,69 +1,69 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, while out with Cheval Grand—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "Ah, is that...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Looking where Cheval Grand is pointing, I \nsee a crane game filled with plushies \nmodeled after Umamusume.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "A new one came out, huh... ............",
-            "choice_data_list": [
-                "Do you want that plushie?",
-                "Do you want that plushie?"
-            ]
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "Huh... Ah, um... I-I'm fine...",
-            "choice_data_list": [
-                "Do you want a plushie?",
-                "Do you want a plushie?"
-            ]
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "L-Let's get going, Trainer. If someone \nwants to play, we'll just be in the way...",
-            "choice_data_list": [
-                "...Well then, maybe I'll hang out ...",
-                "...Well then, maybe I'll hang out ..."
-            ]
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "\"...T-Trainer-san did?! Why would they?\"",
-            "choice_data_list": [
-                "……Then maybe I'll hang out and pla...",
-                "...Well then, maybe I'll hang out ..."
-            ]
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "F-Fishing practice...? Come to think of \nit... it might be a little similar.",
-            "choice_data_list": [
-                "I figured it'd make for good fishi..."
-            ]
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "Understood, I'll be cheering for you... \nGood luck, Trainer...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "—I can't afford to lose this game!!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Cheval Grand—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ah, is that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Cheval Grand is pointing, I \nsee a crane game filled with plushies \nmodeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "A new one came out, huh... ............",
+      "choice_data_list": [
+        "Do you want that plushie?",
+        "Do you want that plushie?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Huh... Ah, um... I-I'm fine...",
+      "choice_data_list": [
+        "Do you want a plushie?",
+        "Do you want a plushie?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "L-Let's get going, Trainer. If someone \nwants to play, we'll just be in the way...",
+      "choice_data_list": [
+        "...Well then, maybe I'll hang out and play \nhere!",
+        "...Well then, maybe I'll hang out and play \nhere!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"...T-Trainer-san did?! Why would they?\"",
+      "choice_data_list": [
+        "……Then maybe I'll hang out and play here for a bit!",
+        "...Well then, maybe I'll hang out here and play for a bit!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "F-Fishing practice...? Come to think of \nit... it might be a little similar.",
+      "choice_data_list": [
+        "I figured it'd make for good fishing practice!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Understood, I'll be cheering for you... \nGood luck, Trainer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
 }

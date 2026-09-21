@@ -1,128 +1,128 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "On the way back from going shopping with \nCesario—",
-            "choice_data_list": []
-        },
-        {
-            "name": "???",
-            "text": "Cesario-san!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Hello, Spe-san. Are you out shopping or \nsomething today?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Special Week",
-            "text": "Ehe, actually, I'm going out for ramen! \nIt's a place I go to a lot with King-chan \nand the others♪",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "(Spe-san's generation, overflowing with \nbrilliant talent... And this is the ramen \nshop they all frequent...)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Special Week",
-            "text": "I've been looking forward to eel ramen \nsince this morning...\nWould the two of you \nlike to join me if you're free?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Did you say eel...?!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Umm... Trainer. I have a bit of interest \nin that shop...",
-            "choice_data_list": [
-                "I haven't had lunch yet either, so..."
-            ]
-        },
-        {
-            "name": "Special Week",
-            "text": "Another serving, please!",
-            "choice_data_list": [
-                "We haven't had lunch yet anyway, s..."
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "\"Another refill...?! And not just extra \nnoodles like before... but the whole bowl \nfrom scratch...?!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Special Week",
-            "text": "Ehehe... The soup was so delicious,\nI just \ncouldn't resist...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "(...Why is this? Looking at Spe-san gives \nme an overwhelming appetite... Is \nsomething inside me...?)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "\"...Trainer. I'm going to stay by \nSpe-san's side to the very end today as \nwell.\"",
-            "choice_data_list": [
-                "What's wrong all of a sudden...?",
-                "What's wrong all of a sudden...?"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "I feel like something inside me... \nsomething like destiny... is sensing a \nconnection between that appetite and \nSpe-san's strength.",
-            "choice_data_list": [
-                "What is it, all of a sudden...?",
-                "What is it, all of a sudden...?"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "Hm, is that so? Indeed, compared to my \nusual portion size, this would clearly be \novereating...",
-            "choice_data_list": [
-                "That doesn't mean you can overeat.",
-                "True, if food really is the drivin..."
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "\"...I was almost swept away by a strange \nimpulse. Thank you very much.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "I finished the delicious meal, leaving my \nstomach comfortably full.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Yes. I... want to believe in this feeling.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Spe-san, I'll join you for seconds too!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Special Week",
-            "text": "Ah, in that case, looks like you can \nswitch up the flavor with these \nseasonings♪",
-            "choice_data_list": []
-        },
-        {
-            "name": "Cesario",
-            "text": "Thank you very much. Now then... time for \nseconds!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "On this day,\nCesario displayed an appetite \nthat nearly rivaled Special Week's...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from going shopping with \nCesario—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "Cesario-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Hello, Spe-san. Are you out shopping or \nsomething today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehe, actually, I'm going out for ramen! \nIt's a place I go to a lot with King-chan \nand the others♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "(Spe-san's generation, overflowing with \nbrilliant talent... And this is the ramen \nshop they all frequent...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "I've been looking forward to eel ramen \nsince this morning... Would the two of you \nlike to join me if you're free?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Did you say eel...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Umm... Trainer. I have a bit of interest \nin that shop...",
+      "choice_data_list": [
+        "I haven't had lunch yet either, so let's \ngo."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Another serving, please!",
+      "choice_data_list": [
+        "We haven't had lunch yet anyway, so let's go."
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "\"Another refill...?! And not just extra \nnoodles like before... but the whole bowl \nfrom scratch...?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe... The soup was so delicious, I just \ncouldn't resist...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "(...Why is this? Looking at Spe-san gives \nme an overwhelming appetite... Is \nsomething inside me...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "\"...Trainer. I'm going to stay by \nSpe-san's side to the very end today as \nwell.\"",
+      "choice_data_list": [
+        "What's wrong all of a sudden...?",
+        "What's wrong all of a sudden...?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "I feel like something inside me... \nsomething like destiny... is sensing a \nconnection between that appetite and \nSpe-san's strength.",
+      "choice_data_list": [
+        "What is it, all of a sudden...?",
+        "What is it, all of a sudden...?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Hm, is that so? Indeed, compared to my \nusual portion size, this would clearly be \novereating...",
+      "choice_data_list": [
+        "That doesn't mean you can overeat.",
+        "True, if food really is the driving force behind that late burst of speed..."
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "\"...I was almost swept away by a strange \nimpulse. Thank you very much.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I finished the delicious meal, leaving my \nstomach comfortably full.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Yes. I... want to believe in this feeling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Spe-san, I'll join you for seconds too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah, in that case, looks like you can \nswitch up the flavor with these \nseasonings♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Thank you very much. Now then... time for \nseconds!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On this day, Cesario displayed an appetite \nthat nearly rivaled Special Week's...",
+      "choice_data_list": []
+    }
+  ]
 }

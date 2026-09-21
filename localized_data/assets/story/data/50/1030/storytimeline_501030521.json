@@ -1,29 +1,29 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "After training with Rice Shower..."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Nnng..."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I've been having this scary dream\nrecently... I'm surrounded by black\nshadows, and they're all\nspeaking to me\nin a language I don't know...",
-            "choice_data_list": [
-                "Are you okay?",
-                "Are you okay?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I keep having it... so now, I'm afraid to\nsleep...\n<i>Sigh...</i>"
-        },
-        {
-            "name": "Monologue",
-            "text": "She seems to be really struggling. I wish\nI could\ndo something to help."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "After training with Rice Shower..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nnng..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I've been having this scary dream\nrecently... I'm\nsurrounded by black\nshadows, and they're all\nspeaking to me\nin a language I don't know...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I keep having it... so now, I'm afraid to\nsleep...\n<i>Sigh...</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "She seems to be really struggling. I wish\nI could\ndo something to help."
+    }
+  ]
 }

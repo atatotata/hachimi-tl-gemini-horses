@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Calstone Light O",
-            "text": "Mmh...\nThe desks aren't lined up straight! \nI made sure to align them during cleaning \ntime...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Should I mark the floor with vinyl \ntape...? No, I am the only one who can \ndetect the slightest misalignment... I \nhave to be the one to do it...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Alright, that's impeccably straight!",
-            "choice_data_list": [
-                "Yeah... as long as you're not slac...",
-                "Yeah... As long as they haven't be..."
-            ]
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "...Gasp?!",
-            "choice_data_list": [
-                "Yeah... assuming you haven't been ...",
-                "Yeah... assuming you haven't been ..."
-            ]
-        },
-        {
-            "name": "",
-            "text": "I ended up having to give Calstone\nLight O \na lecture for ditching training...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "Mmh... The desks aren't lined up straight! \nI made sure to align them during cleaning \ntime...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Should I mark the floor with vinyl \ntape...? No, I am the only one who can \ndetect the slightest misalignment... I \nhave to be the one to do it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright, that's impeccably straight!",
+      "choice_data_list": [
+        "Yeah... as long as you're not slacking \noff, that is.",
+        "Yeah... As long as they haven't been \nslacking off, that is."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...Gasp?!",
+      "choice_data_list": [
+        "Yeah... assuming you haven't been slacking off, that is.",
+        "Yeah... assuming you haven't been slacking off, that is."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I ended up having to give Calstone Light O \na lecture for ditching training...",
+      "choice_data_list": []
+    }
+  ]
 }

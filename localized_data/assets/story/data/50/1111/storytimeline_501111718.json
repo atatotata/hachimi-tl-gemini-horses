@@ -1,41 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Air Messiah",
-            "text": "\"Dear Trainer <username>,\nThank you for your hard \nwork. Here is my report from my time off.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Air Messiah",
-            "text": "\"Meal details attached in the document.\nOn \nsunny days, light jogs to break a light \nsweat; otherwise focused on rest through \nreading and studying.\" —",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "I look over the vacation report sent by \nAir Messiah. Just as I finish reading it, \nthe door opens.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Air Messiah",
-            "text": "Good morning, Trainer-san.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Air Messiah",
-            "text": "I will return to training starting today. \nI look forward to your continued guidance \nand support.",
-            "choice_data_list": [
-                "Yeah. Let's give it our all again ...",
-                "Yeah. Let's give it our all again ..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Air Messiah's complexion looks great.\nJust as the report said,\nit seems she enjoyed a \nrelaxing break and rested both mind and \nbody thoroughly.",
-            "choice_data_list": [
-                "Yeah. Let's give it our all again ...",
-                "Yeah. Let's give it our all again ..."
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "\"Dear Trainer <username>, Thank you for your hard \nwork. Here is my report from my time off.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Meal details attached in the document. On \nsunny days, light jogs to break a light \nsweat; otherwise focused on rest through \nreading and studying.\" —",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I look over the vacation report sent by \nAir Messiah. Just as I finish reading it, \nthe door opens.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Good morning, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I will return to training starting today. \nI look forward to your continued guidance \nand support.",
+      "choice_data_list": [
+        "Yeah. Let's give it our all again starting \ntoday.",
+        "Yeah. Let's give it our all again starting \ntoday."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Air Messiah's complexion looks great. Just \nas the report said, it seems she enjoyed a \nrelaxing break and rested both mind and \nbody thoroughly.",
+      "choice_data_list": [
+        "Yeah. Let's give it our all again starting today.",
+        "Yeah. Let's give it our all again starting today."
+      ]
+    }
+  ]
 }

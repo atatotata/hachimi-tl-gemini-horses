@@ -1,40 +1,40 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "I tell Mihono Bourbon about our plans\nregarding\ntraining and promo concerts\nleading up to the\nGrand Concert."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Orders received."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...What I think?",
-            "choice_data_list": [
-                "No, it's not an order, just a disc...",
-                "No, it's not an order, just a disc..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Light Hello described the Grand Concert\nas a\nstage for runners to convey their\ngratitude."
-        },
-        {
-            "name": "Monologue",
-            "text": "That's why, if Bourbon's going to\nperform, I want\nher to do it because she\n<i>wants</i> to, not because I\n\"order\" her to."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...",
-            "choice_data_list": [
-                "You can check it out first, then d..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "If there ever comes a day when she\nwants to perform of her own volition,\nthen we'll talk about\ngetting her up on\nstage."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "I tell Mihono Bourbon about our plans\nregarding\ntraining and promo concerts\nleading up to the\nGrand Concert."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Orders received."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...What I think?",
+      "choice_data_list": [
+        "No, it's not an order, just a discussion.",
+        "No, it's not an order, just a discussion."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Light Hello described the Grand Concert\nas a\nstage for runners to convey their\ngratitude."
+    },
+    {
+      "name": "Monologue",
+      "text": "That's why, if Bourbon's going to\nperform, I want\nher to do it because she\n<i>wants</i> to, not because I\n\"order\" her to."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "You can check it out first, then decide afterwards."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "If there ever comes a day when she\nwants to\nperform of her own volition,\nthen we'll talk about\ngetting her up on\nstage."
+    }
+  ]
 }

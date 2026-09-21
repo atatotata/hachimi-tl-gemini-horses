@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Apparently, a meteor shower is visible \ntonight. As I gazed up at the sky—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "—A light raced across the night sky.",
-            "choice_data_list": [
-                "I want to make <nickname> even str..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Chanting a wish three times toward the \nstars like a magic spell. Whether that \nprayer was heard or not...",
-            "choice_data_list": [
-                "I want to make <nickname> even str..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "A shooting star blinked across the sky \nseveral times.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "From that day on,\n<chrname>'s running became \nvisibly sharper!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Apparently, a meteor shower is visible \ntonight. As I gazed up at the sky—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—A light raced across the night sky.",
+      "choice_data_list": [
+        "I want to make <nickname> even stronger!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Chanting a wish three times toward the \nstars like a magic spell. Whether that \nprayer was heard or not...",
+      "choice_data_list": [
+        "I want to make <nickname> even stronger!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A shooting star blinked across the sky \nseveral times.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "From that day on, <chrname>'s running became \nvisibly sharper!",
+      "choice_data_list": []
+    }
+  ]
 }

@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Having some business with Jungle\nPocket, I \nheaded over to her hangout spot and \nfound――",
-            "choice_data_list": []
-        },
-        {
-            "name": "Stray Dog & Stray Cat",
-            "text": "Whimper... Meow.",
-            "choice_data_list": [
-                "Is that Pokke and—the animals from..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Animals are gathering and snuggling close \nto a dispirited Jungle Pocket...\nThe scene \nalmost looks like a corner of a zoo.",
-            "choice_data_list": [
-                "Is that Pokke and... the animals f..."
-            ]
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "...Phew...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Is the fatigue building up from racing\nday \nafter day? It might be best to reconsider \nthe upcoming schedule.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Having some business with Jungle Pocket, I \nheaded over to her hangout spot and \nfound――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stray Dog & Stray Cat",
+      "text": "Whimper... Meow.",
+      "choice_data_list": [
+        "Is that Pokke and—the animals from here?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Animals are gathering and snuggling close \nto a dispirited Jungle Pocket... The scene \nalmost looks like a corner of a zoo.",
+      "choice_data_list": [
+        "Is that Pokke and... the animals from around here?"
+      ]
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "...Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Is the fatigue building up from racing day \nafter day? It might be best to reconsider \nthe upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
 }

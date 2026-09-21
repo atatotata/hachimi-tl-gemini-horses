@@ -1,39 +1,39 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "One day, I spot Manhattan Cafe\nclutching her\nhead in the hallway."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "<i>Sigh...</i>"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "...I'm fine. I just have a headache.",
-            "choice_data_list": [
-                "Are you okay?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Um... Would you mind accompanying me\nfor a\nwhile?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "It's just that when I get headaches,\n<i>they</i>\nstart to\nget rowdy...",
-            "choice_data_list": [
-                "Of course, but..."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "I wouldn't want anything to happen to\nyou..."
-        },
-        {
-            "name": "Monologue",
-            "text": "It's touching that she cares about me,\nbut I'm\nmore worried about her\nheadache than my\nwell-being..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "One day, I spot Manhattan Cafe\nclutching her\nhead in the hallway."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Sigh...</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...I'm fine. I just have a headache.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Um... Would you mind accompanying me\nfor a\nwhile?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "It's just that when I get headaches, <i>they</i>\nstart to\nget rowdy...",
+      "choice_data_list": [
+        "Of course, but..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I wouldn't want anything to happen to\nyou..."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's touching that she cares about me,\nbut I'm\nmore worried about her\nheadache than my\nwell-being..."
+    }
+  ]
 }

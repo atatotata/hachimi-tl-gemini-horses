@@ -1,244 +1,244 @@
 {
-    "title": "An Invitation from the Board",
-    "text_block_list": [
-        {},
+  "title": "An Invitation from the Board",
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "Today, in keeping with the promise we made that day,\nI came to watch the Arima Kinen\ntogether with Rose Kingdom."
+    },
+    {
+      "name": "Spectators",
+      "text": "“Gotta be Buena!” “Totally agree.”\n“Isn't it Pisa's turn?” “Rulership might take it though.”\n“I’m putting my faith in Flash!”"
+    },
+    {
+      "name": "Spectators",
+      "text": "\"'...If only Rose were running.\nShe was so great in the Japan Cup, after all.'\n'Yeah, it really is a shame.'\"",
+      "choice_data_list": [
+        "Lady Rose, the spectator stands are—"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I wish to burn it into my memory from up close."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "In this year-end Grand Prix—upon that grand stage, what will be achieved, and what will slip away?"
+    },
+    {
+      "name": "Announcer",
+      "text": "They're off! In the battle for the lead, number 4, Tosen Jordan, makes the first move—",
+      "color_text_info_list": [
         {
-            "name": "Narrator",
-            "text": "Today,\nin keeping with the promise we made that\nday,\nI came to watch the Arima Kinen\ntogether with Rose Kingdom."
-        },
-        {
-            "name": "Spectators",
-            "text": "“Gotta be Buena!” “Totally agree.”\n“Isn't it Pisa's turn?” “Rulership might\ntake it though.”\n“I’m putting my faith in Flash!”"
-        },
-        {
-            "name": "Spectators",
-            "text": "\"'...If only Rose were running.\nShe was so great in the Japan Cup,\nafter all.'\n'Yeah, it really is a shame.'\"",
-            "choice_data_list": [
-                "Lady Rose, the spectator stands are—"
-            ]
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "I wish to burn it into my memory from up\nclose."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "In this year-end Grand Prix—\nupon that grand stage, what will be achieved,\nand what will slip away?"
-        },
-        {
-            "name": "Announcer",
-            "text": "They're off! In the battle for the lead,\nnumber 4, Tosen Jordan,\nmakes the first move—",
-            "color_text_info_list": [
-                {
-                    "Text": "トーセンジョーダン",
-                    "FontColor": 29
-                }
-            ]
-        },
-        {
-            "name": "Announcer",
-            "text": "200 meters to go,\nand Victoire Pisa takes the lead!\n—Here comes Buena Vista from the far\noutside!"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "What I couldn't deliver at the Japan\nCup...\nI will, without fail,\nclaim it right here—!"
-        },
-        {
-            "name": "Victoire Pisa",
-            "text": "A circle of unity that reaches all across\nJapan—!\nYAAAAAAAAAAAAAAHH!!"
-        },
-        {
-            "name": "Announcer",
-            "text": "Buena Vista and Victoire Pisa...!\nCrossing the finish line side by side!!!"
-        },
-        {
-            "name": "Announcer",
-            "text": "They cross the line together—\nDid Victoire Pisa just barely hold on?!"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "……――"
-        },
-        {
-            "name": "Narrator",
-            "text": "(Woooooah!)"
-        },
-        {
-            "name": "Spectators",
-            "text": "“Congrats, Pisa!!” “That was the best!”\n“Way to hold on by a nose!!”\n“Great run,\nBuena!” “What an explosive finishing\nkick!”"
-        },
-        {
-            "name": "Spectators",
-            "text": "“Flash!” “Great effort out there~!”\n“Ruler!” “Get 'em next time!”"
-        },
-        {
-            "name": "Spectators",
-            "text": "“Man,\nnow I’m seriously hyped for next year!”\n“The possibilities are endless!”"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "(... Had I been able to run as well,\nhow much more attention\nwould have been bestowed upon our house?)"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "(... How foolish.\n\"What ifs\" are entirely meaningless.\nI must simply never forget this\nbitterness.)"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "(Etch the cheers into your ears.\nSear them into your heart.)"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "……。"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Trainer.\nI had a bouquet prepared for today's\nvictor.\nCould you deliver it to Pisa for me?",
-            "choice_data_list": [
-                "May I be the one to present it?"
-            ]
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Yes, please.\n...Forgive me."
-        },
-        {
-            "name": "Victoire Pisa",
-            "text": "Oh, thank you so much...!\nWhat a wonderful fragrance."
-        },
-        {
-            "name": "Victoire Pisa",
-            "text": "Please tell Rose-san that I eagerly await\nthe day we face each other next.",
-            "choice_data_list": [
-                "Understood."
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "……。"
-        },
-        {
-            "name": "Narrator",
-            "text": "A few days after the Arima Kinen,\nhaving witnessed firsthand the fierce battle\nand the deep emotion it stirred—"
-        },
-        {
-            "name": "Narrator",
-            "text": "An entirely unforeseen press conference was\nheld."
-        },
-        {
-            "name": "Rulership",
-            "text": "Shortly after the New Year,\nwe advanced our piece to the Nikkei Shinshun\nHai."
-        },
-        {
-            "name": "Narrator",
-            "text": "(*Murmur...!*)"
-        },
-        {
-            "name": "Reporter A",
-            "text": "\"The Nikkei Shinshun Hai...\nThat's the race Rose Kingdom-san is targeting\nnext after bypassing the Arima Kinen,\nright?\""
-        },
-        {
-            "name": "Reporter A",
-            "text": "Is it her presence, after all?"
-        },
-        {
-            "name": "Rulership",
-            "text": "Naturally. You are well aware,\nare you not?\nOf the fated rivalry between my alma mater\nand the Rose Clan."
-        },
-        {
-            "name": "Rulership",
-            "text": "Both of our camps possess considerable\nhistory.\nWe have crossed paths at the racecourse from\ntime to time."
-        },
-        {
-            "name": "Rulership",
-            "text": "In particular,\nAir Groove-san—\na revered senior from my alma mater—\nbattled a horse girl of that famed Rose Clan\nfor the crown at the Japanese Oaks—",
-            "color_text_info_list": [
-                {
-                    "Text": "オークス",
-                    "FontColor": 30
-                }
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "The very person who thwarted the fulfillment\nof our long-cherished dream."
-        },
-        {
-            "name": "Narrator",
-            "text": "Air Groove hailed from the same Umamusume\ntraining academy as Rulership,\nstanding as something of an elder sister\nfigure to her.\nBearing the moniker of 'Empress,' she was\na contender of formidable power.",
-            "color_text_info_list": [
-                {
-                    "Text": "女帝",
-                    "FontColor": 13
-                }
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "How quickly the years have passed since\nthen.\nFate is truly a fickle thing."
-        },
-        {
-            "name": "Rulership",
-            "text": "During the Classic campaign,\nwhen there was a gap in ability,\nshe had played the role of a rival,\nbut in the Senior year, the story changes."
-        },
-        {
-            "name": "Rulership",
-            "text": "My hand is set.\nCome early spring,\nbearing the academy on my shoulders,\nI shall bring the Rose clan down once\nmore."
-        },
-        {
-            "name": "Rulership",
-            "text": "History turns full circle,\nand fate repeats itself.\n...I know you're listening, Rose Kingdom."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "...—\nRuler.",
-            "choice_data_list": [
-                "History moves in cycles, and desti..."
-            ]
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "...She is not that sort of person.\nI doubt she cares in the slightest for the\nties and grudges of history."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "There must be another reason for her entering\nthe race.\nWas it necessary for her plan, or perhaps—"
-        },
-        {
-            "name": "Rulership",
-            "text": "...\nStill,\nwell—speaking for myself personally."
-        },
-        {
-            "name": "Rulership",
-            "text": "Your absence is regrettable beyond\nmeasure."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "...Despite how she appears,\nshe is surprisingly kind."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Perhaps she means to slap some sense into me,\ntelling me to focus on the bout directly\nbefore my eyes.",
-            "choice_data_list": [
-                "I see."
-            ]
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Of course,\nthere is no knowing the absolute truth.\nYet if that truly were the case—"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Refusing to dance upon a stage so gracefully\nprepared\nwould be nothing short of discourtesy."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "—Phew, alright!"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "Scrutinize the training regimen.\nThe Nikkei Shinshun Hai... let us make it\nour revenge match against that academy."
+          "Text": "トーセンジョーダン",
+          "FontColor": 29
         }
-    ],
-    "no_wrap": true
+      ]
+    },
+    {
+      "name": "Announcer",
+      "text": "200 meters to go, and Victoire Pisa takes the lead!\n—Here comes Buena Vista from the far outside!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "What I couldn't deliver at the Japan Cup...\nI will, without fail, claim it right here—!"
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "A circle of unity that reaches all across Japan—!\nYAAAAAAAAAAAAAAHH!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Buena Vista and Victoire Pisa...!\nCrossing the finish line side by side!!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "They cross the line together—\nDid Victoire Pisa just barely hold on?!"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "……――"
+    },
+    {
+      "name": "Narrator",
+      "text": "(Woooooah!)"
+    },
+    {
+      "name": "Spectators",
+      "text": "“Congrats, Pisa!!” “That was the best!”\n“Way to hold on by a nose!!”\n“Great run, Buena!” “What an explosive finishing kick!”"
+    },
+    {
+      "name": "Spectators",
+      "text": "“Flash!” “Great effort out there~!”\n“Ruler!” “Get 'em next time!”"
+    },
+    {
+      "name": "Spectators",
+      "text": "“Man, now I’m seriously hyped for next year!”\n“The possibilities are endless!”"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "(... Had I been able to run as well, how much more attention\nwould have been bestowed upon our house?)"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "(... How foolish. \"What ifs\" are entirely meaningless.\nI must simply never forget this bitterness.)"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "(Etch the cheers into your ears. Sear them into your heart.)"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "……。"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Trainer.\nI had a bouquet prepared for today's victor.\nCould you deliver it to Pisa for me?",
+      "choice_data_list": [
+        "May I be the one to present it?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Yes, please.\n...Forgive me."
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Oh, thank you so much...!\nWhat a wonderful fragrance."
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Please tell Rose-san that I eagerly await\nthe day we face each other next.",
+      "choice_data_list": [
+        "Understood."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "……。"
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days after the Arima Kinen,\nhaving witnessed firsthand the fierce battle and the deep emotion it stirred—"
+    },
+    {
+      "name": "Narrator",
+      "text": "An entirely unforeseen press conference was held."
+    },
+    {
+      "name": "Rulership",
+      "text": "Shortly after the New Year,\nwe advanced our piece to the Nikkei Shinshun Hai."
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Murmur...!*)"
+    },
+    {
+      "name": "Reporter A",
+      "text": "\"The Nikkei Shinshun Hai... That's the race Rose Kingdom-san is targeting next after bypassing the Arima Kinen, right?\""
+    },
+    {
+      "name": "Reporter A",
+      "text": "Is it her presence, after all?"
+    },
+    {
+      "name": "Rulership",
+      "text": "Naturally. You are well aware, are you not?\nOf the fated rivalry between my alma mater\nand the Rose Clan."
+    },
+    {
+      "name": "Rulership",
+      "text": "Both of our camps possess considerable history.\nWe have crossed paths at the racecourse from time to time."
+    },
+    {
+      "name": "Rulership",
+      "text": "In particular, Air Groove-san—a revered senior from my alma mater—\nbattled a horse girl of that famed Rose Clan for the crown at the Japanese Oaks—",
+      "color_text_info_list": [
+        {
+          "Text": "オークス",
+          "FontColor": 30
+        }
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "The very person who thwarted the fulfillment of our long-cherished dream."
+    },
+    {
+      "name": "Narrator",
+      "text": "Air Groove hailed from the same Umamusume training academy as Rulership, standing as something of an elder sister figure to her. Bearing the moniker of 'Empress,' she was a contender of formidable power.",
+      "color_text_info_list": [
+        {
+          "Text": "女帝",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "How quickly the years have passed since then.\nFate is truly a fickle thing."
+    },
+    {
+      "name": "Rulership",
+      "text": "During the Classic campaign, when there was a gap in ability,\nshe had played the role of a rival,\nbut in the Senior year, the story changes."
+    },
+    {
+      "name": "Rulership",
+      "text": "My hand is set.\nCome early spring, bearing the academy on my shoulders,\nI shall bring the Rose clan down once more."
+    },
+    {
+      "name": "Rulership",
+      "text": "History turns full circle, and fate repeats itself.\n...I know you're listening, Rose Kingdom."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...—\nRuler.",
+      "choice_data_list": [
+        "History moves in cycles, and destiny repeats itself... is that it?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...She is not that sort of person.\nI doubt she cares in the slightest for the ties and grudges of history."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "There must be another reason for her entering the race.\nWas it necessary for her plan, or perhaps—"
+    },
+    {
+      "name": "Rulership",
+      "text": "...\nStill, well—speaking for myself personally."
+    },
+    {
+      "name": "Rulership",
+      "text": "Your absence is regrettable beyond measure."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...Despite how she appears, she is surprisingly kind."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Perhaps she means to slap some sense into me, telling me to focus on the bout directly before my eyes.",
+      "choice_data_list": [
+        "I see."
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Of course, there is no knowing the absolute truth.\nYet if that truly were the case—"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Refusing to dance upon a stage so gracefully prepared\nwould be nothing short of discourtesy."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "—Phew, alright!"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Scrutinize the training regimen.\nThe Nikkei Shinshun Hai... let us make it\nour revenge match against that academy."
+    }
+  ],
+  "no_wrap": true
 }
