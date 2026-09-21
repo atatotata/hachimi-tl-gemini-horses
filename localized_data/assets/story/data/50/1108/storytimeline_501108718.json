@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "When I asked Duramente if she was able to \nspend her day off relaxing—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "I got a message from my older sisters and \ngave them an update on how I've been \ndoing.",
-            "choice_data_list": [
-                "What did you talk about with your ...",
-                "What did you talk about with your ..."
-            ]
-        },
-        {
-            "name": "Duramente",
-            "text": "It was mainly about racing. My sister \nasked me questions quite often.",
-            "choice_data_list": [
-                "What did you talk about with your ...",
-                "What did you talk about with your ..."
-            ]
-        },
-        {
-            "name": "Duramente",
-            "text": "Are your uphill times improving? What's \nyour current muscle mass? Be careful not \nto overtrain. ...Just our usual \nconversation like always.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "Having a long chat with my sisters was a \ngreat way to refresh myself.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I asked Duramente if she was able to \nspend her day off relaxing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I got a message from my older sisters and \ngave them an update on how I've been \ndoing.",
+      "choice_data_list": [
+        "What did you talk about with your big \nsister?",
+        "What did you talk about with your big \nsister?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "It was mainly about racing. My sister \nasked me questions quite often.",
+      "choice_data_list": [
+        "What did you talk about with your big sister?",
+        "What did you talk about with your big sister?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Are your uphill times improving? What's \nyour current muscle mass? Be careful not \nto overtrain. ...Just our usual \nconversation like always.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Having a long chat with my sisters was a \ngreat way to refresh myself.",
+      "choice_data_list": []
+    }
+  ]
 }

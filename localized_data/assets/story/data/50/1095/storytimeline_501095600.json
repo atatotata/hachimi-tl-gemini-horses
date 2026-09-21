@@ -1,55 +1,55 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Believe",
-            "text": "…………。 …………。",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "When I entered the waiting room, Believe \nwas working out. For a second, I thought \nshe might be nervous, but—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Believe",
-            "text": "...Yeah. With this—",
-            "choice_data_list": [
-                "Were you checking your condition?",
-                "Were you checking how your body wa..."
-            ]
-        },
-        {
-            "name": "Believe",
-            "text": "Yes.",
-            "choice_data_list": [
-                "Were you checking your physical co...",
-                "Were you checking how your body felt?"
-            ]
-        },
-        {
-            "name": "Believe",
-            "text": "...Because Grandpa always checks his\ntools \nbefore starting work, too.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Believe",
-            "text": "It's the same as that.\nI was just checking \nto see if I was ready.",
-            "choice_data_list": [
-                "I see... Are you feeling in top sh..."
-            ]
-        },
-        {
-            "name": "Believe",
-            "text": "Yes.",
-            "choice_data_list": [
-                "I see... Feeling good today?"
-            ]
-        },
-        {
-            "name": "Believe",
-            "text": "—I will not lose.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "…………。 …………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I entered the waiting room, Believe \nwas working out. For a second, I thought \nshe might be nervous, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Yeah. With this—",
+      "choice_data_list": [
+        "Were you checking your condition?",
+        "Were you checking how your body was \nfeeling?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes.",
+      "choice_data_list": [
+        "Were you checking your physical condition?",
+        "Were you checking how your body felt?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Because Grandpa always checks his tools \nbefore starting work, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "It's the same as that. I was just checking \nto see if I was ready.",
+      "choice_data_list": [
+        "I see... Are you feeling in top shape \ntoday?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes.",
+      "choice_data_list": [
+        "I see... Feeling good today?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "—I will not lose.",
+      "choice_data_list": []
+    }
+  ]
 }

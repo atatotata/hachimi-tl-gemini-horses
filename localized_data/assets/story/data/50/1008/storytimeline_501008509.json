@@ -1,37 +1,37 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Vodka seems to be really struggling with\ntoday's\ntraining..."
-        },
-        {
-            "name": "Vodka",
-            "text": "<i>Siiigh...</i> Damn it!\nMy body isn't workin'\nwith me!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Am I seriously getting worn out from\n<i>this?</i> How\ncan I be so lame?!"
-        },
-        {
-            "name": "Vodka",
-            "text": "What?! Why would I do something lame\nlike\nthat?! I've still got more in me...",
-            "choice_data_list": [
-                "How about taking a short break?",
-                "How about taking a short break?"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "<i>Whaaam!</i>"
-        },
-        {
-            "name": "Vodka",
-            "text": "Wah?! I-I fell?! What's wrong with me?!"
-        },
-        {
-            "name": "Monologue",
-            "text": "...She seems <i>really</i> tired.\nWe should\nprobably ease\nup on how many races we\ndo."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Vodka seems to be really struggling with\ntoday's\ntraining..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Siiigh...</i> Damn it! My body isn't workin'\nwith me!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Am I seriously getting worn out from\n<i>this?</i> How\ncan I be so lame?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "What?! Why would I do something lame\nlike\nthat?! I've still got more in me...",
+      "choice_data_list": [
+        "How about taking a short break?",
+        "How about taking a short break?"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Whaaam!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Wah?! I-I fell?! What's wrong with me?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "...She seems <i>really</i> tired. We should\nprobably ease\nup on how many races we\ndo."
+    }
+  ]
 }

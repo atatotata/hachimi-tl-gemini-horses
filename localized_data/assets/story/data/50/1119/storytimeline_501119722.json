@@ -1,59 +1,59 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "We were discussing our training strategy \ngoing forward, but...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "\"...Indeed. Incorporating straight-line \nenhancement drills sounds perfectly fine.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "...Please let me take the rest back to \nreview. That concludes today's agenda. If \nyou will excuse me.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It's rare for Dream Journey to postpone \nsolving a problem. Maybe it's just my \nimagination, but she doesn't look quite \nwell either...",
-            "choice_data_list": [
-                "...Hey, um. Are you not feeling we..."
-            ]
-        },
-        {
-            "name": "Dream Journey",
-            "text": "No, there's no problem at all. Thank you \nfor your concern.",
-            "choice_data_list": [
-                "...Hey... Are you feeling unwell, ..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "There is no opening in Dream Journey's \nsmile... Unable to read her true \nintentions, I had no choice but to step \naside.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "Well then, until next time.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "...You're quite perceptive.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "……!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Dream Journey was plagued by headaches\nfor \na while...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "We were discussing our training strategy \ngoing forward, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Indeed. Incorporating straight-line \nenhancement drills sounds perfectly fine.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Please let me take the rest back to \nreview. That concludes today's agenda. If \nyou will excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's rare for Dream Journey to postpone \nsolving a problem. Maybe it's just my \nimagination, but she doesn't look quite \nwell either...",
+      "choice_data_list": [
+        "...Hey, um. Are you not feeling well, by \nany chance?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "No, there's no problem at all. Thank you \nfor your concern.",
+      "choice_data_list": [
+        "...Hey... Are you feeling unwell, by any chance?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "There is no opening in Dream Journey's \nsmile... Unable to read her true \nintentions, I had no choice but to step \naside.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Well then, until next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...You're quite perceptive.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey was plagued by headaches for \na while...",
+      "choice_data_list": []
+    }
+  ]
 }

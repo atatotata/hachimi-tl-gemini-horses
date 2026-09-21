@@ -1,389 +1,389 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "The summer training camp to hone their \nskills begins once again this year.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Logotype",
-            "text": "Already in your gym clothes? You're quite \nfired up today~.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "This summer, I'm gonna become the \nstrongest!!\nSo Rogo—just wait and see what \nI do at the Kikuka Sho!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Logotype",
-            "text": "...Huh,\ndidn't I tell you? I'm not running \nin the Kikuka Sho.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "...Ehh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Logotype",
-            "text": "Excuse me~. I was just wondering if maybe \nthere's a path better suited for me...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Logotype",
-            "text": "\"Well, as long as we keep running, we'll \nget to compete again somewhere.\nLet's both \ndo our best.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "...So cool!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Logotype isn't here... Which means in the \nKikuka Sho, the highest expectations will \nlikely fall on Epiphaneia.",
-            "choice_data_list": [
-                "(Now I really can't afford to lose..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "Good morning. I look forward to working \nwith you today.",
-            "choice_data_list": [
-                "(All the more reason we can't lose..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "I'm looking forward to working with you!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "So you're Epiphaneia? What an energetic \nchild.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "...Oh, what wonderful muscles you have. \nEven among the top athletes I know,\nhardly \nanyone comes close to this...",
-            "choice_data_list": [
-                "Yes, she's a really powerful girl."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "\"The voice of destiny always cheers me on \nso enthusiastically when I do strength \ntraining! So I've got total confidence in \nmy power!\"",
-            "choice_data_list": [
-                "That's right, she's such an energe..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "Fufu, then regarding that strength you're \nso proud of...\nLet's do a motion analysis. \nI brought the equipment, so let's take a \nlook right away.",
-            "choice_data_list": [
-                "Please!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "\"Ugh, it's so ticklish! Are you still \nslapping more of that on me?!\"",
-            "choice_data_list": [
-                "Please!"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I attached motion capture markers to \nEpiphaneia. First, we'll use motion \ncapture to record her movements in 3D \nspace with high precision.",
-            "choice_data_list": [
-                "There are only two left, so...!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Haaaaah!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "Whoa...! I've watched footage before, \nbut... Seeing it in person is on another \nlevel...!",
-            "choice_data_list": [
-                "Yes, Umamusume races are truly int..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "We have her run with motion markers \nattached, run the captured data through \nmotion analysis software, and then Sensei \nanalyzes it with a professional eye—",
-            "choice_data_list": [
-                "Yes, Umamusume races have incredib..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "...Yes, please remove the markers. Next, \nwe'll film race footage simulating real \nconditions. Could you please ask the \ncollaborators to get ready?",
-            "choice_data_list": [
-                "Everyone, please take your startin..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "—Regarding Epiphaneia-san's running,\nfirst \nand foremost, her instantaneous power is \nincredible. The viscoelasticity of her \nmuscle tendons must be extraordinarily \nhigh.",
-            "choice_data_list": [
-                "Everyone, please take your startin..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Thanks!\nGuess that just proves my physical \nabilities are incredible too!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "What concerns me is, as expected, your \nmovement during the race. Do you see how \nunsteady your footwork is? The sway in \nyour upper body is also at a level we \ncannot ignore.",
-            "choice_data_list": [
-                "Why does it get so messy?"
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "Please look at this data. It shows where \nand how Epiphaneia-san is directing her \npower during the race.",
-            "choice_data_list": [
-                "Why does it get so disrupted?"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Whoa,\nit's heading out in all kinds of big \nways! ...Wait, huh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "That's right. Like this, the force is \ndispersed,\nmaking it impossible to trigger \nan effective burst of power.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "In order to demonstrate your abilities to \nthe fullest, you must first create a flow \nthat concentrates your power into a\nsingle \npoint.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "And there is the \"strength\" of \nEpiphaneia-san that I want to ride that \nmomentum with.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "In Epiphaneia-san's running form,\nthere is \na strong sense of forward drive— a sheer \ndetermination to push ahead.",
-            "choice_data_list": [
-                "That's Epi's fighting spirit... is..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "Yes. Fighting spirit is also something \nthat can be converted into strength.",
-            "choice_data_list": [
-                "That's Epi's fighting spirit... is..."
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "If I can consciously control the flow of \npower and channel my fighting spirit into \nit—",
-            "choice_data_list": [
-                "You can unleash your fighting spir..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "\"To do that... I have to stay conscious \nand keep every part of myself under \ncontrol—\"",
-            "choice_data_list": [
-                "You can unleash your fighting spir..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Huh? Then what about the voice of destiny?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "I gotta keep that under control too. \nShould I really just ignore it after all?",
-            "choice_data_list": [
-                "...No! There's no need for that."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "The voice will affirm her choices. If she \ncan run in her best rhythm and choose \nwhere to unleash her explosive burst...\nit \nwill surely give her the push she needs.",
-            "choice_data_list": [
-                "...No! That won't be necessary."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "……！！",
-            "choice_data_list": [
-                "In fact, our voices will be the gr..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Right, right?! After all,\nvoices are truly \nwonderful things!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "...Hehe.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "“—Well then, I shall take my leave. \nPlease, do make good use of the data.”",
-            "choice_data_list": [
-                "Thank you so much for your time!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Thank you very much!!",
-            "choice_data_list": [
-                "Thank you so much for your time!"
-            ]
-        },
-        {
-            "name": "Teacher",
-            "text": "Not at all.\nBoth of them are such earnest, \nupfront people... It was truly a pleasure \nworking with them.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Teacher",
-            "text": "\"I'm sure the two of you can overcome\nthis \nchallenge. Best of luck, okay?\"",
-            "choice_data_list": [
-                "Yes, thank you so much!!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "So, Trainer! What kind of training are we \nactually gonna do!?",
-            "choice_data_list": [
-                "Yes, thank you so much!!"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "To master how to use her body,\nshe'll also \nneed the technique to control it with \nprecision. Which means what we need is—",
-            "choice_data_list": [
-                "Hmm, yeah..."
-            ]
-        },
-        {
-            "name": "???",
-            "text": "*Sigh*... So hot... Time to cool off...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Win Variation",
-            "text": "…………――",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Her name is Win Variation. An Umamusume \nfrom the same generation as the \"Tyrant\" \nOrfevre, currently recovering from an \ninjury from what I hear.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "And right now, what she is dancing is— \nballet.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Incredible...! It's so powerful, yet so \nfluid...!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Ballet is often thought of as purely \nelegant, but in truth, it requires \ntremendous muscular strength. That \nstrength must be controlled down to the \nmillimeter and expressed all the way to \nthe fingertips.",
-            "choice_data_list": [
-                "...I've got it, ballet!!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "! I see, got it!!",
-            "choice_data_list": [
-                "...Of course, ballet!!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Shion!! Teach me ballet!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Win Variation",
-            "text": "Whoa!? ...Huh, wh-what is it?! What, what?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "\"I absolutely need your help! —It has to \nbe you!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "\"Please, won't you give me some time! No, \nyou definitely should give it to me!!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Win Variation",
-            "text": "Ye- WHAAAAAT?!",
-            "choice_data_list": [
-                "I'm counting on you too...!",
-                "Please, I'm begging you too...!"
-            ]
-        },
-        {
-            "name": "Win Variation",
-            "text": "Huh, wh... what...?",
-            "choice_data_list": [
-                "Please, from me as well...!",
-                "Please, I'm begging you too...!"
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Well then, I'm counting on you! Teacher \nShion!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Win Variation",
-            "text": "...I'm such a pushover.",
-            "choice_data_list": [
-                "That's a huge help, thank you!"
-            ]
-        },
-        {
-            "name": "Win Variation",
-            "text": "...Well, I'm injured right now, so I \ncouldn't really move around anyway...",
-            "choice_data_list": [
-                "That's a huge help, thank you!"
-            ]
-        },
-        {
-            "name": "Win Variation",
-            "text": "Alright, I've made up my mind! If I'm \ndoing this, I'm going all out, no holding \nback!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "Aaaagh!!!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "And so, alongside our usual training, Win \nVariation began teaching us ballet \nmovements.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The summer training camp to hone their \nskills begins once again this year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Already in your gym clothes? You're quite \nfired up today~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "This summer, I'm gonna become the \nstrongest!! So Rogo—just wait and see what \nI do at the Kikuka Sho!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "...Huh, didn't I tell you? I'm not running \nin the Kikuka Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Ehh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Excuse me~. I was just wondering if maybe \nthere's a path better suited for me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "\"Well, as long as we keep running, we'll \nget to compete again somewhere. Let's both \ndo our best.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...So cool!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Logotype isn't here... Which means in the \nKikuka Sho, the highest expectations will \nlikely fall on Epiphaneia.",
+      "choice_data_list": [
+        "(Now I really can't afford to lose! For \nthat, I need to...)"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Good morning. I look forward to working \nwith you today.",
+      "choice_data_list": [
+        "(All the more reason we can't lose! To that end...)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I'm looking forward to working with you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "So you're Epiphaneia? What an energetic \nchild.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "...Oh, what wonderful muscles you have. \nEven among the top athletes I know, hardly \nanyone comes close to this...",
+      "choice_data_list": [
+        "Yes, she's a really powerful girl."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"The voice of destiny always cheers me on \nso enthusiastically when I do strength \ntraining! So I've got total confidence in \nmy power!\"",
+      "choice_data_list": [
+        "That's right, she's such an energetic girl."
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Fufu, then regarding that strength you're \nso proud of... Let's do a motion analysis. \nI brought the equipment, so let's take a \nlook right away.",
+      "choice_data_list": [
+        "Please!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Ugh, it's so ticklish! Are you still \nslapping more of that on me?!\"",
+      "choice_data_list": [
+        "Please!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I attached motion capture markers to \nEpiphaneia. First, we'll use motion \ncapture to record her movements in 3D \nspace with high precision.",
+      "choice_data_list": [
+        "There are only two left, so...!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Haaaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "Whoa...! I've watched footage before, \nbut... Seeing it in person is on another \nlevel...!",
+      "choice_data_list": [
+        "Yes, Umamusume races are truly intense!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "We have her run with motion markers \nattached, run the captured data through \nmotion analysis software, and then Sensei \nanalyzes it with a professional eye—",
+      "choice_data_list": [
+        "Yes, Umamusume races have incredible intensity!"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "...Yes, please remove the markers. Next, \nwe'll film race footage simulating real \nconditions. Could you please ask the \ncollaborators to get ready?",
+      "choice_data_list": [
+        "Everyone, please take your starting \npositions!"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "—Regarding Epiphaneia-san's running, first \nand foremost, her instantaneous power is \nincredible. The viscoelasticity of her \nmuscle tendons must be extraordinarily \nhigh.",
+      "choice_data_list": [
+        "Everyone, please take your starting positions!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thanks! Guess that just proves my physical \nabilities are incredible too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "What concerns me is, as expected, your \nmovement during the race. Do you see how \nunsteady your footwork is? The sway in \nyour upper body is also at a level we \ncannot ignore.",
+      "choice_data_list": [
+        "Why does it get so messy?"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Please look at this data. It shows where \nand how Epiphaneia-san is directing her \npower during the race.",
+      "choice_data_list": [
+        "Why does it get so disrupted?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Whoa, it's heading out in all kinds of big \nways! ...Wait, huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "That's right. Like this, the force is \ndispersed, making it impossible to trigger \nan effective burst of power.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "In order to demonstrate your abilities to \nthe fullest, you must first create a flow \nthat concentrates your power into a single \npoint.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "And there is the \"strength\" of \nEpiphaneia-san that I want to ride that \nmomentum with.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "In Epiphaneia-san's running form, there is \na strong sense of forward drive— a sheer \ndetermination to push ahead.",
+      "choice_data_list": [
+        "That's Epi's fighting spirit... isn't it"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Yes. Fighting spirit is also something \nthat can be converted into strength.",
+      "choice_data_list": [
+        "That's Epi's fighting spirit... isn't it?"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "If I can consciously control the flow of \npower and channel my fighting spirit into \nit—",
+      "choice_data_list": [
+        "You can unleash your fighting spirit at \nthe perfect moment!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"To do that... I have to stay conscious \nand keep every part of myself under \ncontrol—\"",
+      "choice_data_list": [
+        "You can unleash your fighting spirit at the perfect moment!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Huh? Then what about the voice of destiny?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I gotta keep that under control too. \nShould I really just ignore it after all?",
+      "choice_data_list": [
+        "...No! There's no need for that."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The voice will affirm her choices. If she \ncan run in her best rhythm and choose \nwhere to unleash her explosive burst... it \nwill surely give her the push she needs.",
+      "choice_data_list": [
+        "...No! That won't be necessary."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……！！",
+      "choice_data_list": [
+        "In fact, our voices will be the greatest encouragement of all!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Right, right?! After all, voices are truly \nwonderful things!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "...Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "“—Well then, I shall take my leave. \nPlease, do make good use of the data.”",
+      "choice_data_list": [
+        "Thank you so much for your time!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thank you very much!!",
+      "choice_data_list": [
+        "Thank you so much for your time!"
+      ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Not at all. Both of them are such earnest, \nupfront people... It was truly a pleasure \nworking with them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teacher",
+      "text": "\"I'm sure the two of you can overcome this \nchallenge. Best of luck, okay?\"",
+      "choice_data_list": [
+        "Yes, thank you so much!!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "So, Trainer! What kind of training are we \nactually gonna do!?",
+      "choice_data_list": [
+        "Yes, thank you so much!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "To master how to use her body, she'll also \nneed the technique to control it with \nprecision. Which means what we need is—",
+      "choice_data_list": [
+        "Hmm, yeah..."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "*Sigh*... So hot... Time to cool off...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her name is Win Variation. An Umamusume \nfrom the same generation as the \"Tyrant\" \nOrfevre, currently recovering from an \ninjury from what I hear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And right now, what she is dancing is— \nballet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Incredible...! It's so powerful, yet so \nfluid...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ballet is often thought of as purely \nelegant, but in truth, it requires \ntremendous muscular strength. That \nstrength must be controlled down to the \nmillimeter and expressed all the way to \nthe fingertips.",
+      "choice_data_list": [
+        "...I've got it, ballet!!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "! I see, got it!!",
+      "choice_data_list": [
+        "...Of course, ballet!!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Shion!! Teach me ballet!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Whoa!? ...Huh, wh-what is it?! What, what?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"I absolutely need your help! —It has to \nbe you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Please, won't you give me some time! No, \nyou definitely should give it to me!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ye- WHAAAAAT?!",
+      "choice_data_list": [
+        "I'm counting on you too...!",
+        "Please, I'm begging you too...!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Huh, wh... what...?",
+      "choice_data_list": [
+        "Please, from me as well...!",
+        "Please, I'm begging you too...!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Well then, I'm counting on you! Teacher \nShion!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...I'm such a pushover.",
+      "choice_data_list": [
+        "That's a huge help, thank you!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Well, I'm injured right now, so I \ncouldn't really move around anyway...",
+      "choice_data_list": [
+        "That's a huge help, thank you!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Alright, I've made up my mind! If I'm \ndoing this, I'm going all out, no holding \nback!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Aaaagh!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, alongside our usual training, Win \nVariation began teaching us ballet \nmovements.",
+      "choice_data_list": []
+    }
+  ]
 }

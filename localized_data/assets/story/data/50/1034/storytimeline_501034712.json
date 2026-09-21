@@ -1,42 +1,42 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Just when I think Inari One isn't going to\nshow up\nto training..."
-        },
-        {
-            "name": "Inari One",
-            "text": "I'm late! Sorry, Boss. No excuses for my\n\ndisgraceful behavior!"
-        },
-        {
-            "name": "Inari One",
-            "text": "I'm late! Sorry, Boss. No excuses for my\n\ndisgraceful behavior!",
-            "choice_data_list": [
-                "Why were you late?"
-            ]
-        },
-        {
-            "name": "Inari One",
-            "text": "Didn't I just say I don't make excuses?!\nI'm an Edo\ngirl, after all!",
-            "choice_data_list": [
-                "Why were you late?"
-            ]
-        },
-        {
-            "name": "Inari One",
-            "text": "Tch! You're so mature and sensible!\nMeanwhile,\njust look at me!",
-            "choice_data_list": [
-                "...Be more careful from now on, okay?"
-            ]
-        },
-        {
-            "name": "Inari One",
-            "text": "I'm real sorry!\nFeel free to splash boilin'\nhot soup\nin my face as a punishment!"
-        },
-        {
-            "name": "Monologue",
-            "text": "In the end, Inari One refuses to tell me\nwhy she arrived late. However, she\nappears to be quite\nremorseful, so I\ndecide to let it slide this time."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Just when I think Inari One isn't going to\nshow up\nto training..."
+    },
+    {
+      "name": "Inari One",
+      "text": "I'm late! Sorry, Boss. No excuses for my\n\ndisgraceful behavior!"
+    },
+    {
+      "name": "Inari One",
+      "text": "I'm late! Sorry, Boss. No excuses for my\n\ndisgraceful behavior!",
+      "choice_data_list": [
+        "Why were you late?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Didn't I just say I don't make excuses?!\nI'm an Edo\ngirl, after all!",
+      "choice_data_list": [
+        "Why were you late?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Tch! You're so mature and sensible!\nMeanwhile,\njust look at me!",
+      "choice_data_list": [
+        "...Be more careful from now on, okay?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "I'm real sorry! Feel free to splash boilin'\nhot soup\nin my face as a punishment!"
+    },
+    {
+      "name": "Monologue",
+      "text": "In the end, Inari One refuses to tell me\nwhy she\narrived late. However, she\nappears to be quite\nremorseful, so I\ndecide to let it slide this time."
+    }
+  ]
 }

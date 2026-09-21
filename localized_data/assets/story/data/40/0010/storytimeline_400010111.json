@@ -1,15 +1,15 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "She has been undergoing high-intensity \ntraining lately,\nbut... <chrname> is showing signs \nof fatigue.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Let's return to our normal intensity soon \nand resume training properly.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "She has been undergoing high-intensity \ntraining lately, but... <chrname> is showing signs \nof fatigue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Let's return to our normal intensity soon \nand resume training properly.",
+      "choice_data_list": []
+    }
+  ]
 }

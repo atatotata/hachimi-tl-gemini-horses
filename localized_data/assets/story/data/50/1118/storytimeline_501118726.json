@@ -1,60 +1,60 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, while out with Admire Groove—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Admire Groove",
-            "text": "……。",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "What she was looking at was a crane game \nfilled with plushies themed after \nUmamusume.",
-            "choice_data_list": [
-                "Are you interested in this, by any...",
-                "Are you interested, by any chance?"
-            ]
-        },
-        {
-            "name": "Admire Groove",
-            "text": "...No. I was just remembering something \nfrom the past.",
-            "choice_data_list": [
-                "Are you interested?",
-                "Are you interested?"
-            ]
-        },
-        {
-            "name": "Admire Groove",
-            "text": "The people playing around with that... \nwere very noisy.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It doesn't seem like a very fond memory. \nHowever, if she has a fun experience with \na claw crane game, that might overwrite \nthe impression.",
-            "choice_data_list": [
-                "Let's give it a try. It might be f..."
-            ]
-        },
-        {
-            "name": "Admire Groove",
-            "text": "No, thank you.",
-            "choice_data_list": [
-                "Let's give it a try. It might be fun!"
-            ]
-        },
-        {
-            "name": "Admire Groove",
-            "text": "If that's what you want to do, be my \nguest.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "—I can't afford to lose this game!!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Admire Groove—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What she was looking at was a crane game \nfilled with plushies themed after \nUmamusume.",
+      "choice_data_list": [
+        "Are you interested in this, by any chance?",
+        "Are you interested, by any chance?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...No. I was just remembering something \nfrom the past.",
+      "choice_data_list": [
+        "Are you interested?",
+        "Are you interested?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "The people playing around with that... \nwere very noisy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It doesn't seem like a very fond memory. \nHowever, if she has a fun experience with \na claw crane game, that might overwrite \nthe impression.",
+      "choice_data_list": [
+        "Let's give it a try. It might be fun if we \ndo!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "No, thank you.",
+      "choice_data_list": [
+        "Let's give it a try. It might be fun!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "If that's what you want to do, be my \nguest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
 }

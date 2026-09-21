@@ -1,41 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Sweep Tosho didn't show up for training\ntoday so I've been searching everywhere\nfor her. The sun is\nstarting to set when I\nfinally find her in the library."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Oh, Familiar. What're you doing here?"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "...Oh.",
-            "choice_data_list": [
-                "Weren't we supposed to train today?",
-                "We were supposed to have training ..."
-            ]
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "I-It's not like I forgot! I've just been\nreally busy\npracticing magic!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Hold on! I'll just use magic to reverse\ntime back to\nbefore training starts!\nThat'll definitely work!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Philadelphus reversal! Philadelphus\nreversaaal!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Turn back already! C'mon! Philadelphus\nreversal!"
-        },
-        {
-            "name": "Monologue",
-            "text": "I can tell she's sorry by how desperately\nshe's\ntrying to use magic, so I let her off\nwith a warning."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Sweep Tosho didn't show up for training\ntoday so\nI've been searching everywhere\nfor her. The sun is\nstarting to set when I\nfinally find her in the library."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oh, Familiar. What're you doing here?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Oh.",
+      "choice_data_list": [
+        "Weren't we supposed to train today?",
+        "We were supposed to have training today, you know."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "I-It's not like I forgot! I've just been\nreally busy\npracticing magic!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hold on! I'll just use magic to reverse\ntime back to\nbefore training starts!\nThat'll definitely work!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Philadelphus reversal! Philadelphus\nreversaaal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Turn back already! C'mon! Philadelphus\nreversal!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I can tell she's sorry by how desperately\nshe's\ntrying to use magic, so I let her off\nwith a warning."
+    }
+  ]
 }

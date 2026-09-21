@@ -1,35 +1,35 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "During training, I notice Air Groove\nstumbling for\na moment."
-        },
-        {
-            "name": "Air Groove",
-            "text": "You could say that—I went to bed later\nthan I\nintended. The moon was so\nbeautiful, I...",
-            "choice_data_list": [
-                "Didn't get enough sleep?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "No, I needn't go into that. Forget I said\nanything."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Fine... I tried reading under the\nmoonlight and...\ncompletely lost track of\nthe time.",
-            "choice_data_list": [
-                "Now that just makes me even more c..."
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "But this is a problem of my own doing!\nNow, let's\nget back to training!"
-        },
-        {
-            "name": "Monologue",
-            "text": "We return to training, but Air Groove\nremains a\nlittle off form."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "During training, I notice Air Groove\nstumbling for\na moment."
+    },
+    {
+      "name": "Air Groove",
+      "text": "You could say that—I went to bed later\nthan I\nintended. The moon was so\nbeautiful, I...",
+      "choice_data_list": [
+        "Didn't get enough sleep?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No, I needn't go into that. Forget I said\nanything."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Fine... I tried reading under the\nmoonlight and...\ncompletely lost track of\nthe time.",
+      "choice_data_list": [
+        "Now that just makes me even more curious."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "But this is a problem of my own doing!\nNow, let's\nget back to training!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We return to training, but Air Groove\nremains a\nlittle off form."
+    }
+  ]
 }

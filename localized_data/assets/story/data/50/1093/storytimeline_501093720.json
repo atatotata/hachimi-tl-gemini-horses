@@ -1,713 +1,713 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, I came to the nurse's office to \nhave <chrname>'s condition checked, and—",
-            "choice_data_list": []
-        },
-        {
-            "name": "???",
-            "text": "\"Ah, yes, hello~! Custo... I mean, \nstudent, right!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "???",
-            "text": "Injuries? Illness? Or mental care? Well, \nleave it aaall to me with a boom!",
-            "choice_data_list": [
-                "...Who is it?!"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "Huh? Well, she's in the infirmary,\nso... A \nsomewhat fantastic school nurse? Or \nsomething like that?",
-            "choice_data_list": [
-                "...Who's there?!"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "Ahaha, guess you're not that easily \nfooled. I'll just introduce myself \nnormally after all.",
-            "choice_data_list": [
-                "That's not right, is it...?"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "Ahem! Truth be told, I am none other than—",
-            "choice_data_list": []
-        },
-        {
-            "name": "???",
-            "text": "The savior who guides (probably)\ncountless \nUmamusume!\nThe (self-proclaimed) legendary \nacupuncturist with miraculous hands!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Its name is Sasami Anshinzawa!! Wow, such \nre~lief☆",
-            "choice_data_list": [
-                "…………"
-            ]
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "...Um. This kind of treatment...? Well, I \ndon't have much experience with it \neither...",
-            "choice_data_list": [
-                "…………"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Wow, you don't look relieved at aaall☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "\"Alright, alright, that's enough of that \nfor now. Now that intros are out of the \nway, ready to get jabbed?\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "N-No! I'll pass!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ahahaha! There's no need to be scared,\nyou \nknow? I'm just going to poke a little \npressure point with my secret bamboo \nneedle.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "And then, wham... and bam... Anyway, it's \ngonna be insaaanely incredible!",
-            "choice_data_list": [
-                "(That is extremely suspicious...)"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah! Just so you know, there's nothing \nshady about this! I haven't failed even \nonce, after all!",
-            "choice_data_list": [
-                "(Incredibly suspicious...)"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...And Master is?",
-            "choice_data_list": [
-                "Did you say 'Master'!?"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Come on, this is my first job, so broadly \nspeaking, I've never failed before!",
-            "choice_data_list": [
-                "Wait, *just* your master!?"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I spent ten whole years serving tea under \na legendary master... I mean, training \nunder one, so I've got plenty of \nexperience.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Wow, what a relieeef☆",
-            "choice_data_list": [
-                "(She is radiating pure suspicion...!)"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I couldn't possibly agree to an offer\nlike \nthis. Taking <chrname> with me,\nI was about to walk \nout, but—",
-            "choice_data_list": [
-                "(Downright radiating suspicion...!)"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "W-Wait, wait, wait, hold on!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "You're K.S.Miracle, right!? An Umamusume \nwith a kind and gentle demeanor, yet \nrunning with fierce determination in \npursuit of miracles!",
-            "choice_data_list": [
-                "...Do you know them?"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Of course I know! I saw it!!\nBecause I'm a \nfan!!",
-            "choice_data_list": [
-                "...You know?"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I came here to cheer you guys on! Believe \nit or not, I came to help out!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "So pleeeaaase~~!! Give me a chance, will \nya~~?!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "\"Ms. Sasabari... Working so \ndesperately...\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Please, please, please! I'll even let you \nchoose which pressure point to hit!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "There's no waaaay I'll mess up~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Probably.",
-            "choice_data_list": [
-                "Probably!?"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah, well, more like practically almost \ndefinitely? Kind of? ...Whatever, don't \nworry about the details!",
-            "choice_data_list": [
-                "Probably?!"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "More importantly, which pressure point \nshould we aim for?! Stat boost, health \nboost... Ooh, there's even a charm boost!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "...It carries a terrifyingly dangerous \nscent, but there's a slight chance it \nmight have an incredible effect... maybe.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "What should we do...?",
-            "choice_data_list": [
-                "Aim for the pressure point that tu...",
-                "Aim for the secret pressure point ...",
-                "I'll aim for the pressure point th...",
-                "Aim for the secret pressure point ...",
-                "I'm feeling anxious, so I'll sit t..."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I see, I see! 'The pressure point to \nbecome a strong Umamusume,' right!",
-            "choice_data_list": [
-                "Target the pressure point that tur...",
-                "Target the secret pressure point t...",
-                "Aim for the pressure point that re...",
-                "Aim for the pressure point that bo...",
-                "I'm uneasy about this, so I'll pass."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Alright, I'm gonna jab it in,\nokay? Ready? \n...Are you reeeeeeeeeally sure about this?",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Now, relax your muscles~... Wow, \npain-free☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Time for a jab!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Ugh...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Jab successfully administered!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Wait, it succeeded? Seriously!? Huh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was brimming with an\nunrecognizable, \nincredible surge of power!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "H-Huh... T-Trainer... um...",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Am I... standing straight right now...?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was visibly out of sorts...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah... Well, you know... right?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, byebye~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I see, I see! 'Target the pressure point \nto win races,' right!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Alright, I'm gonna jab it in,\nokay? Ready? \n...Are you reeeeeeeeeally sure about this?",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Now, relax your muscles~... Wow, \npain-free☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Time for a jab!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Ugh...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Jab successfully administered!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Wait, it succeeded? Seriously!? Huh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "I could feel a dramatic improvement in\n<chrname>'s \noverall skill!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "H-Huh... T-Trainer... um...",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Am I... standing straight right now...?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was visibly out of sorts...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah... Well, you know... right?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, byebye~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I see, I see! 'Target the pressure point \nto become fit and healthy,' right!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Alright, I'm gonna jab it in,\nokay? Ready? \n...Are you reeeeeeeeeally sure about this?",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Now, relax your muscles~... Wow, \npain-free☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Time for a jab!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Ugh...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Jab successfully administered!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Wait, it succeeded? Seriously!? Huh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname>'s entire coat was glistening so\nbrightly \nit seemed about to radiate light! She's \npractically bursting with healthy \nenergy...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "H-Huh... T-Trainer... um...",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Am I... standing straight right now...?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was visibly out of sorts...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah... Well, you know... right?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, byebye~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "I see, I see! 'Target the pressure point \nto boost charm,' right!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Alright, I'm gonna jab it in,\nokay? Ready? \n...Are you reeeeeeeeeally sure about this?",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
-            "choice_data_list": [
-                "Yes.",
-                "No."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Now, relax your muscles~... Wow, \npain-free☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Time for a jab!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Ugh...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Jab successfully administered!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Wait, it succeeded? Seriously!? Huh!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was radiating an undeniable charm\nthat \nmade every passerby turn their head!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "H-Huh... T-Trainer... um...",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "Am I... standing straight right now...?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "<chrname> was visibly out of sorts...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Ah... Well, you know... right?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, byebye~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Huh!? D-Don't say that~...",
-            "choice_data_list": [
-                "I think I'll pass.",
-                "Reconsider"
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "—Hey, you! You've trespassed onto the \nacademy grounds, haven't you!?",
-            "choice_data_list": [
-                "Better not.",
-                "Reconsider"
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Gyahaa!? Crap, I got caught!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, time to retreat~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Ah!? H-Hold on a second~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "\"...Even though you were looking out for \nme, I kind of feel bad about it...\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "K.S.Miracle",
-            "text": "But... yeah.\nI really have to get stronger \nthrough my own efforts, after all.",
-            "choice_data_list": [
-                "Yeah.",
-                "Right."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "\"Just who on earth was Sasabari...? \nThinking about it seemed pointless, so I \ndecided to forget about today's incident.\"",
-            "choice_data_list": [
-                "Yeah.",
-                "Yeah."
-            ]
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Oh dear, did you get it wrong? Well, that \ntotally happens, it happens all the time!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Well then, tell me one more time, please. \nWhich pressure point should we aim for!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Talk about keeping me in suspense~?!\nWait, \nno, if we take this long—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "—Hey, you! You've trespassed onto the \nacademy grounds, haven't you!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "Gyahaa!? Crap, I got caught!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Sasami Anshinzawa",
-            "text": "...Whoa, time to retreat~☆",
-            "choice_data_list": []
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Ah!? H-Hold on a second~!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "...I kept agonizing over it for so long \nthat it ended up being left unresolved.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "What on earth was that all about...? I \nexchanged glances with <chrname>,\ntilting my head \nin confusion.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, I came to the nurse's office to \nhave <chrname>'s condition checked, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "\"Ah, yes, hello~! Custo... I mean, \nstudent, right!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "Injuries? Illness? Or mental care? Well, \nleave it aaall to me with a boom!",
+      "choice_data_list": [
+        "...Who is it?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Huh? Well, she's in the infirmary, so... A \nsomewhat fantastic school nurse? Or \nsomething like that?",
+      "choice_data_list": [
+        "...Who's there?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ahaha, guess you're not that easily \nfooled. I'll just introduce myself \nnormally after all.",
+      "choice_data_list": [
+        "That's not right, is it...?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ahem! Truth be told, I am none other than—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "The savior who guides (probably) countless \nUmamusume! The (self-proclaimed) legendary \nacupuncturist with miraculous hands!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Its name is Sasami Anshinzawa!! Wow, such \nre~lief☆",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Um. This kind of treatment...? Well, I \ndon't have much experience with it \neither...",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, you don't look relieved at aaall☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "\"Alright, alright, that's enough of that \nfor now. Now that intros are out of the \nway, ready to get jabbed?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "N-No! I'll pass!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahahaha! There's no need to be scared, you \nknow? I'm just going to poke a little \npressure point with my secret bamboo \nneedle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "And then, wham... and bam... Anyway, it's \ngonna be insaaanely incredible!",
+      "choice_data_list": [
+        "(That is extremely suspicious...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah! Just so you know, there's nothing \nshady about this! I haven't failed even \nonce, after all!",
+      "choice_data_list": [
+        "(Incredibly suspicious...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...And Master is?",
+      "choice_data_list": [
+        "Did you say 'Master'!?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Come on, this is my first job, so broadly \nspeaking, I've never failed before!",
+      "choice_data_list": [
+        "Wait, *just* your master!?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I spent ten whole years serving tea under \na legendary master... I mean, training \nunder one, so I've got plenty of \nexperience.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, what a relieeef☆",
+      "choice_data_list": [
+        "(She is radiating pure suspicion...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I couldn't possibly agree to an offer like \nthis. Taking <chrname> with me, I was about to walk \nout, but—",
+      "choice_data_list": [
+        "(Downright radiating suspicion...!)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "W-Wait, wait, wait, hold on!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You're K.S.Miracle, right!? An Umamusume \nwith a kind and gentle demeanor, yet \nrunning with fierce determination in \npursuit of miracles!",
+      "choice_data_list": [
+        "...Do you know them?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Of course I know! I saw it!! Because I'm a \nfan!!",
+      "choice_data_list": [
+        "...You know?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I came here to cheer you guys on! Believe \nit or not, I came to help out!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So pleeeaaase~~!! Give me a chance, will \nya~~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "\"Ms. Sasabari... Working so \ndesperately...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Please, please, please! I'll even let you \nchoose which pressure point to hit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "There's no waaaay I'll mess up~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Probably.",
+      "choice_data_list": [
+        "Probably!?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah, well, more like practically almost \ndefinitely? Kind of? ...Whatever, don't \nworry about the details!",
+      "choice_data_list": [
+        "Probably?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "More importantly, which pressure point \nshould we aim for?! Stat boost, health \nboost... Ooh, there's even a charm boost!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It carries a terrifyingly dangerous \nscent, but there's a slight chance it \nmight have an incredible effect... maybe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What should we do...?",
+      "choice_data_list": [
+        "Aim for the pressure point that turns her \ninto a strong Umamusume.",
+        "Aim for the secret pressure point that \nwill let you win the race.",
+        "I'll aim for the pressure point that \nrestores health and vigor!",
+        "Aim for the secret pressure point that \nboosts your charm!",
+        "I'm feeling anxious, so I'll sit this one \nout."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see! 'The pressure point to \nbecome a strong Umamusume,' right!",
+      "choice_data_list": [
+        "Target the pressure point that turns her into a strong Umamusume.",
+        "Target the secret pressure point to win the race.",
+        "Aim for the pressure point that restores health and vitality.",
+        "Aim for the pressure point that boosts charm",
+        "I'm uneasy about this, so I'll pass."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, I'm gonna jab it in, okay? Ready? \n...Are you reeeeeeeeeally sure about this?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, relax your muscles~... Wow, \npain-free☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Time for a jab!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ugh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Jab successfully administered!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it succeeded? Seriously!? Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was brimming with an unrecognizable, \nincredible surge of power!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "H-Huh... T-Trainer... um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Am I... standing straight right now...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly out of sorts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... Well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, byebye~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see! 'Target the pressure point \nto win races,' right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, I'm gonna jab it in, okay? Ready? \n...Are you reeeeeeeeeally sure about this?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, relax your muscles~... Wow, \npain-free☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Time for a jab!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ugh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Jab successfully administered!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it succeeded? Seriously!? Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I could feel a dramatic improvement in <chrname>'s \noverall skill!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "H-Huh... T-Trainer... um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Am I... standing straight right now...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly out of sorts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... Well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, byebye~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see! 'Target the pressure point \nto become fit and healthy,' right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, I'm gonna jab it in, okay? Ready? \n...Are you reeeeeeeeeally sure about this?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, relax your muscles~... Wow, \npain-free☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Time for a jab!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ugh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Jab successfully administered!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it succeeded? Seriously!? Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname>'s entire coat was glistening so brightly \nit seemed about to radiate light! She's \npractically bursting with healthy \nenergy...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "H-Huh... T-Trainer... um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Am I... standing straight right now...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly out of sorts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... Well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, byebye~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see! 'Target the pressure point \nto boost charm,' right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, I'm gonna jab it in, okay? Ready? \n...Are you reeeeeeeeeally sure about this?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-doke, leave it to me! Come forth, \nbamboo needles! Reveal thyself, pressure \npoints!",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, relax your muscles~... Wow, \npain-free☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Time for a jab!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ugh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Jab successfully administered!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...H-Huh? Is it just me, or do I feel \npower... welling up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "I-Incredible. Just as expected of you, \nAnshinzawa-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it succeeded? Seriously!? Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! How did I even do that~?!?! \nI'm a genius~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was radiating an undeniable charm that \nmade every passerby turn their head!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she's seized her potential. I \nfelt that we had taken a huge step toward \nour dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "H-Huh... T-Trainer... um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Am I... standing straight right now...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly out of sorts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... Well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, byebye~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deeply regretting ever accepting such a \nsuspicious invitation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Huh!? D-Don't say that~...",
+      "choice_data_list": [
+        "I think I'll pass.",
+        "Reconsider"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—Hey, you! You've trespassed onto the \nacademy grounds, haven't you!?",
+      "choice_data_list": [
+        "Better not.",
+        "Reconsider"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyahaa!? Crap, I got caught!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, time to retreat~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah!? H-Hold on a second~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "\"...Even though you were looking out for \nme, I kind of feel bad about it...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "But... yeah. I really have to get stronger \nthrough my own efforts, after all.",
+      "choice_data_list": [
+        "Yeah.",
+        "Right."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Just who on earth was Sasabari...? \nThinking about it seemed pointless, so I \ndecided to forget about today's incident.\"",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh dear, did you get it wrong? Well, that \ntotally happens, it happens all the time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well then, tell me one more time, please. \nWhich pressure point should we aim for!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Talk about keeping me in suspense~?! Wait, \nno, if we take this long—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—Hey, you! You've trespassed onto the \nacademy grounds, haven't you!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyahaa!? Crap, I got caught!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, time to retreat~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah!? H-Hold on a second~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I kept agonizing over it for so long \nthat it ended up being left unresolved.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What on earth was that all about...? I \nexchanged glances with <chrname>, tilting my head \nin confusion.",
+      "choice_data_list": []
+    }
+  ]
 }
