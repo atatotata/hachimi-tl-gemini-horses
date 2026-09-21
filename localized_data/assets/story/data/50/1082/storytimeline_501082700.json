@@ -1,36 +1,36 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "North Flight",
-      "text": "Good morning, Trainer-san... *sigh*...",
-      "choice_data_list": [
-        "Are you okay? Feeling a bit anemic?",
-        "Are you okay? Feeling a bit anemic?"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "No, it's really nothing! It's just that \nlast night I was reading 'Big Sis's' \nletter, so...",
-      "choice_data_list": [
-        "Are you okay? Feeling a bit lightheaded?",
-        "Are you okay? Feeling a bit lightheaded?"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Your writing is so wonderful, Big Sis. It \nmakes my heart feel as light as a feather, \nso I just love it.",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "*Yawn*... I wonder how they're doing. I \nwant to see them again...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "She looks unusually relaxed and happy, but \nher footing seems somewhat unsteady. It \nlooks like she didn't get a good rest...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "North Flight",
+            "text": "Good morning, Trainer-san... *sigh*...",
+            "choice_data_list": [
+                "Are you okay? Feeling a bit anemic?",
+                "Are you okay? Feeling a bit anemic?"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "No, it's really nothing! It's just that \nlast night I was reading 'Big Sis's' \nletter, so...",
+            "choice_data_list": [
+                "Are you okay? Feeling a bit lighth...",
+                "Are you okay? Feeling a bit lighth..."
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Your writing is so wonderful, Big Sis. It \nmakes my heart feel as light as a\nfeather, \nso I just love it.",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "*Yawn*... I wonder how they're doing. I \nwant to see them again...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "She looks unusually relaxed and happy,\nbut \nher footing seems somewhat unsteady. It \nlooks like she didn't get a good rest...",
+            "choice_data_list": []
+        }
+    ]
 }

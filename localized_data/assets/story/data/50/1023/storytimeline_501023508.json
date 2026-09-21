@@ -1,28 +1,28 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "I've been so absorbed in my work that I\nlose track\nof time. As I rush back home, I\nrun into someone\nfamiliar..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Oh? What are you still doing here,\nTrainer?"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "I just can't stop thinking about the race...\nI\nthought running would take my mind\noff of it.",
-      "choice_data_list": [
-        "Doing extra training this late?"
-      ]
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "But... no such luck. I'm not sure what else\nto try..."
-    },
-    {
-      "name": "",
-      "text": "She seems exhausted from her race... It\nmight be\ntime to adjust her schedule so\nshe can take a\nbreak."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "I've been so absorbed in my work that I\nlose track\nof time. As I rush back home, I\nrun into someone\nfamiliar..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh? What are you still doing here,\nTrainer?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I just can't stop thinking about the\nrace...\nI\nthought running would take my mind\noff of it.",
+            "choice_data_list": [
+                "Doing extra training this late?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But... no such luck.\nI'm not sure what else\nto try..."
+        },
+        {
+            "name": "",
+            "text": "She seems exhausted from her race... It\nmight be\ntime to adjust her schedule so\nshe can take a\nbreak."
+        }
+    ]
 }

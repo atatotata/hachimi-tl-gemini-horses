@@ -1,40 +1,40 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Kiseki",
-      "text": "...Fufu, fufufu... With this much, even \nthis deadly crunch will...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Canned coffee, energy drinks, cooling \nsheets. A mountain of drowsiness-fighting \nitems is piled up in front of Kiseki...!",
-      "choice_data_list": [
-        "W-What happened, what's that...?",
-        "W-What's wrong, what's that...?"
-      ]
-    },
-    {
-      "name": "Kiseki",
-      "text": "Fufu... This is my secret weapon for when \nthere's a deadline I *absolutely* have to \nmeet...!",
-      "choice_data_list": [
-        "Wh-What's with that...?",
-        "Wh-What's with that...?"
-      ]
-    },
-    {
-      "name": "Kiseki",
-      "text": "I've been spacing out a lot lately, so... \nI thought I'd dig deep with this... Heheh, \nhehehehe...!",
-      "choice_data_list": [
-        "No, let's not do anything reckless, okay?!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Kiseki seems utterly exhausted. I should \nprobably reconsider her race schedule...",
-      "choice_data_list": [
-        "Wait, let's not do anything reckless!?"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kiseki",
+            "text": "...Fufu, fufufu... With this much, even \nthis deadly crunch will...!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Canned coffee, energy drinks, cooling \nsheets. A mountain of drowsiness-fighting \nitems is piled up in front of Kiseki...!",
+            "choice_data_list": [
+                "W-What happened, what's that...?",
+                "W-What's wrong, what's that...?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Fufu... This is my secret weapon for when \nthere's a deadline I *absolutely* have to \nmeet...!",
+            "choice_data_list": [
+                "Wh-What's with that...?",
+                "Wh-What's with that...?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "I've been spacing out a lot lately, so... \nI thought I'd dig deep with this...\nHeheh, \nhehehehe...!",
+            "choice_data_list": [
+                "No, let's not do anything reckless..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "Kiseki seems utterly exhausted. I should \nprobably reconsider her race schedule...",
+            "choice_data_list": [
+                "Wait, let's not do anything reckless!?"
+            ]
+        }
+    ]
 }

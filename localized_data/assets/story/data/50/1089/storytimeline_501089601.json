@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Cheval Grand",
-      "text": "Urgh...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "...My legs are shaking. I keep seeing \nflashes of when I lost before...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "Even though I poured everything into \ntraining... I still can't shake this \nanxiety...",
-      "choice_data_list": [
-        "But it's also true that you pushed through \nthat tough training!"
-      ]
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "...!? You're... right.",
-      "choice_data_list": [
-        "It's also true you pushed through all that rigorous training!"
-      ]
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "I've worked so hard up to this day because \nI want to win... ――I'll give it everything \nI have right now...!",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Cheval Grand",
+            "text": "Urgh...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "...My legs are shaking. I keep seeing \nflashes of when I lost before...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "Even though I poured everything into \ntraining... I still can't shake this \nanxiety...",
+            "choice_data_list": [
+                "But it's also true that you pushed..."
+            ]
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "...!? You're... right.",
+            "choice_data_list": [
+                "It's also true you pushed through ..."
+            ]
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "I've worked so hard up to this day\nbecause \nI want to win...\n――I'll give it everything \nI have right now...!",
+            "choice_data_list": []
+        }
+    ]
 }

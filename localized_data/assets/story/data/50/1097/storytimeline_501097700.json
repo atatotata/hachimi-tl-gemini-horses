@@ -1,38 +1,38 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Still in Love",
-      "text": "Good... morning... ...*yawn*...",
-      "choice_data_list": [
-        "You look sleepy.",
-        "You look sleepy."
-      ]
-    },
-    {
-      "name": "Still in Love",
-      "text": "—...Ngh. I-I'm so sorry... To let you see \nme in such an unsightly state...",
-      "choice_data_list": [
-        "You look sleepy.",
-        "You look sleepy."
-      ]
-    },
-    {
-      "name": "Still in Love",
-      "text": "Y-Yes... Um... I've just been having a \nlittle trouble sleeping...",
-      "choice_data_list": [
-        "Haven't you been getting much rest?"
-      ]
-    },
-    {
-      "name": "Still in Love",
-      "text": "(...I can't tell them. That I stayed up \nlate because I was pouring my feelings for \nTrainer into my diary...)",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "It seems Still in Love couldn't get a good \nnight's sleep...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Still in Love",
+            "text": "Good... morning... ...*yawn*...",
+            "choice_data_list": [
+                "You look sleepy.",
+                "You look sleepy."
+            ]
+        },
+        {
+            "name": "Still in Love",
+            "text": "—...Ngh. I-I'm so sorry... To let you see \nme in such an unsightly state...",
+            "choice_data_list": [
+                "You look sleepy.",
+                "You look sleepy."
+            ]
+        },
+        {
+            "name": "Still in Love",
+            "text": "Y-Yes... Um... I've just been having a \nlittle trouble sleeping...",
+            "choice_data_list": [
+                "Haven't you been getting much rest?"
+            ]
+        },
+        {
+            "name": "Still in Love",
+            "text": "(...I can't tell them. That I stayed up \nlate because I was pouring my feelings\nfor \nTrainer into my diary...)",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "It seems Still in Love couldn't get a\ngood \nnight's sleep...",
+            "choice_data_list": []
+        }
+    ]
 }

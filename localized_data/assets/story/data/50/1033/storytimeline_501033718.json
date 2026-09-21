@@ -1,28 +1,28 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Admire Vega",
-      "text": "I did some training on my own during my\nbreak.\nI'll share the data with you later."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...What is it?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...What?",
-      "choice_data_list": [
-        "I was just wondering if you were able to rest properly."
-      ]
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...Yeah, I've rested."
-    },
-    {
-      "name": "Monologue",
-      "text": "It sounds like Admire Vega had a\nfulfilling day\noff."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "I did some training on my own during my\nbreak.\nI'll share the data with you later."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...What is it?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...What?",
+            "choice_data_list": [
+                "I was just wondering if you were a..."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Yeah, I've rested."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Admire Vega had a\nfulfilling day\noff."
+        }
+    ]
 }

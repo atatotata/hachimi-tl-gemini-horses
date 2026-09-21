@@ -1,25 +1,25 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Super Creek",
-      "text": "Oh dear... You were so close."
-    },
-    {
-      "name": "Super Creek",
-      "text": "There, there. It's okay! Don't let it get to\nyou.",
-      "choice_data_list": [
-        "Sorry...",
-        "I'm sorry..."
-      ]
-    },
-    {
-      "name": "Super Creek",
-      "text": "Everyone has their off days."
-    },
-    {
-      "name": "Monologue",
-      "text": "Well, that was disappointing."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "Oh dear... You were so close."
+        },
+        {
+            "name": "Super Creek",
+            "text": "There,\nthere. It's okay! Don't let it get to\nyou.",
+            "choice_data_list": [
+                "Sorry...",
+                "I'm sorry..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Everyone has their off days."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
 }

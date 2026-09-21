@@ -1,29 +1,29 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Break is over and I'm on my way back to\nthe\noffice, when..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "<i>Yawn...</i> Phew..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...I was working out, and before I knew\nit, the sun\ncame up. That's all.",
-      "choice_data_list": [
-        "Good morning. Didn't get enough sleep?",
-        "Good morning. Didn't get enough sleep?"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "<i>Yawn...</i> ...Maybe I'll go up to the roof,\nand...\ncatch some shut-eye..."
-    },
-    {
-      "name": "",
-      "text": "It appears that Narita Brian was losing\nsleep\nduring the break rather than\nresting up..."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Break is over and I'm on my way back to\nthe\noffice, when..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Yawn...</i> Phew..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...I was working out, and before I knew\nit, the sun\ncame up. That's all.",
+            "choice_data_list": [
+                "Good morning. Didn't get enough sleep?",
+                "Good morning. Didn't get enough sleep?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Yawn...</i> ...Maybe I'll go up to the\nroof,\nand...\ncatch some shut-eye..."
+        },
+        {
+            "name": "",
+            "text": "It appears that Narita Brian was losing\nsleep\nduring the break rather than\nresting up..."
+        }
+    ]
 }

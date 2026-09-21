@@ -1,44 +1,44 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Cheers envelop the victor. <chrname> was not at the \ncenter of that circle.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "—There is always a reason behind defeat.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "\"If you take another look at that, the \nnext result will definitely be different.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mei Satake",
-      "text": "This isn't the end, Trainer <username>.",
-      "choice_data_list": [
-        "Yes, switching over now!"
-      ]
-    },
-    {
-      "name": "Chairwoman Akikawa",
-      "text": "...Mhm!",
-      "choice_data_list": [
-        "Right, refocusing now!"
-      ]
-    },
-    {
-      "name": "Mei Satake",
-      "text": "You all can do it. Without a doubt.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Spurred on by the two of them, I start \nrunning. I need to scrutinize it right \naway: <chrname>'s running for the Prix de l'Arc de \nTriomphe!",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Cheers envelop the victor.\n<chrname> was not at the \ncenter of that circle.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "—There is always a reason behind defeat.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "\"If you take another look at that, the \nnext result will definitely be different.\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mei Satake",
+            "text": "This isn't the end, Trainer <username>.",
+            "choice_data_list": [
+                "Yes, switching over now!"
+            ]
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "...Mhm!",
+            "choice_data_list": [
+                "Right, refocusing now!"
+            ]
+        },
+        {
+            "name": "Mei Satake",
+            "text": "You all can do it. Without a doubt.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Spurred on by the two of them, I start \nrunning. I need to scrutinize it right \naway:\n<chrname>'s running for the Prix de l'Arc\nde Triomphe!",
+            "choice_data_list": []
+        }
+    ]
 }

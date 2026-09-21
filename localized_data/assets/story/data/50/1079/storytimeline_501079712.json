@@ -1,38 +1,38 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Worried about Furioso not showing up for \ntraining, I went looking for her and ended \nup...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Furioso",
-      "text": "~♪ Fufu, what a truly beautiful beach. \nThere are so many seashells I never see \nback home.",
-      "choice_data_list": [
-        "Thank goodness, you were here.",
-        "Thank goodness, you're here."
-      ]
-    },
-    {
-      "name": "Furioso",
-      "text": "! Are you looking for shells too, Trainer? \nIt brings back memories, clam digging in \nFunabashi—",
-      "choice_data_list": [
-        "Thank goodness, there you are.",
-        "What a relief, there you are."
-      ]
-    },
-    {
-      "name": "Furioso",
-      "text": "—Ah!? I-I'm so sorry! I was just \noverwhelmed with nostalgia...",
-      "choice_data_list": [
-        "Furioso, training time's already over."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "I gave a firm warning so that the same \nmistake wouldn't happen again.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Worried about Furioso not showing up for \ntraining,\nI went looking for her and ended \nup...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Furioso",
+            "text": "~♪ Fufu, what a truly beautiful beach. \nThere are so many seashells I never see \nback home.",
+            "choice_data_list": [
+                "Thank goodness, you were here.",
+                "Thank goodness, you're here."
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "! Are you looking for shells too,\nTrainer? \nIt brings back memories, clam digging in \nFunabashi—",
+            "choice_data_list": [
+                "Thank goodness, there you are.",
+                "What a relief, there you are."
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "—Ah!? I-I'm so sorry! I was just \noverwhelmed with nostalgia...",
+            "choice_data_list": [
+                "Furioso, training time's already over."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "I gave a firm warning so that the same \nmistake wouldn't happen again.",
+            "choice_data_list": []
+        }
+    ]
 }

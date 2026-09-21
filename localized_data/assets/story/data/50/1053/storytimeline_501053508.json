@@ -1,28 +1,28 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Bamboo Memory",
-      "text": "<i>Sigh...</i> Oh... Hey, Trainer..."
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Huh? N-no, not at all! I'm totally fine! In\nfact, I\nwas just gonna practice with my—",
-      "choice_data_list": [
-        "You look kind of tired?"
-      ]
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Where's my practice sword?!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Ah... ahaha! That's right. I was letting it\ndry in my\nroom. Let me just go get it!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Bamboo Memory must still be feeling\ntired from\nracing. It might be a good\nidea to reevaluate her\nrace schedule."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Sigh...</i> Oh... Hey, Trainer..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh? N-no,\nnot at all! I'm totally fine! In\nfact, I\nwas just gonna practice with my—",
+            "choice_data_list": [
+                "You look kind of tired?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Where's my practice sword?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ah... ahaha! That's right.\nI was letting it\ndry in my\nroom. Let me just go get it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory must still be feeling\ntired from\nracing. It might be a good\nidea to reevaluate her\nrace schedule."
+        }
+    ]
 }
