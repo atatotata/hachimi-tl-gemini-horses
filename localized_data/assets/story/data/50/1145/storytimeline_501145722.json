@@ -1,51 +1,51 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Rulership",
-            "text": "...Ow, ow ow... Ah~ dammit, my head hurts \nso bad.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Rulership",
-            "text": "“Still, my win streak is on the line. I \ncan't just quit here... Ow!?”",
-            "choice_data_list": []
-        },
-        {
-            "name": "Rulership",
-            "text": "...Ugh, send... help...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "I received an SOS from Rulership and \nrushed right over to her.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Rulership",
-            "text": "Ah... You're here, Trainer... My head \nhurts so much, it's terrible...",
-            "choice_data_list": [
-                "...Have you been playing too many ..."
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "“...... That's true, but... What, are you \nsaying I'm some idiot who's addicted to \ngames and can't manage himself...?”",
-            "choice_data_list": [
-                "...Have you been playing too many ..."
-            ]
-        },
-        {
-            "name": "Rulership",
-            "text": "“Still, what happens next is...! \nOw-ow-ow...!”",
-            "choice_data_list": [
-                "Then, you'd better get plenty of rest."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Rulership was plagued by a headache.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rulership",
+      "text": "...Ow, ow ow... Ah~ dammit, my head hurts \nso bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "“Still, my win streak is on the line. I \ncan't just quit here... Ow!?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "...Ugh, send... help...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I received an SOS from Rulership and \nrushed right over to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ah... You're here, Trainer... My head \nhurts so much, it's terrible...",
+      "choice_data_list": [
+        "...Have you been playing too many games?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "“...... That's true, but... What, are you \nsaying I'm some idiot who's addicted to \ngames and can't manage himself...?”",
+      "choice_data_list": [
+        "...Have you been playing too many games, by any chance?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "“Still, what happens next is...! \nOw-ow-ow...!”",
+      "choice_data_list": [
+        "Then, you'd better get plenty of rest."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Rulership was plagued by a headache.",
+      "choice_data_list": []
+    }
+  ]
 }

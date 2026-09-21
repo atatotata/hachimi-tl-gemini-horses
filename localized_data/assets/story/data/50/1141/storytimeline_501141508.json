@@ -1,38 +1,38 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "It happened when I was having a meeting \nwith Epiphaneia—",
-            "choice_data_list": [
-                "This time, we'll focus on improvin..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "—I see!",
-            "choice_data_list": [
-                "This time, let's focus heavily on ..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "—I've got it!",
-            "choice_data_list": [
-                "? So that's why you wanted to try ..."
-            ]
-        },
-        {
-            "name": "Epiphaneia",
-            "text": "—Got it!",
-            "choice_data_list": [
-                "Um, meaning—"
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Perhaps she's exhausted; despite her \nenergetic replies, it feels like nothing \nis getting through to her. I should \nprobably reconsider our upcoming schedule.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened when I was having a meeting \nwith Epiphaneia—",
+      "choice_data_list": [
+        "This time, we'll focus on improving \nstamina—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—I see!",
+      "choice_data_list": [
+        "This time, let's focus heavily on boosting staminaâ"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—I've got it!",
+      "choice_data_list": [
+        "? So that's why you wanted to try the new equipment—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—Got it!",
+      "choice_data_list": [
+        "Um, meaning—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps she's exhausted; despite her \nenergetic replies, it feels like nothing \nis getting through to her. I should \nprobably reconsider our upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
 }

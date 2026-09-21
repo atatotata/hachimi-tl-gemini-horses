@@ -1,28 +1,28 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "I planned on taking Haru Urara on a \ncarrot-picking trip as a reward for all of\nher hard\nwork in the races, but when I\nbring it up to her..."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Oh... Carrots..."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Ngh... Yeah, I'm just not feeling...\nsuper... up for\nit...",
-            "choice_data_list": [
-                "Are you okay?"
-            ]
-        },
-        {
-            "name": "Haru Urara",
-            "text": "My body feels as heavy as a rock... Let's\nsave the\ncarrots for another time."
-        },
-        {
-            "name": "Monologue",
-            "text": "It's likely due to her running too many\nraces back-to-back. It seems like it\nwould be best to\nrearrange her race\nschedule."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "I planned on taking Haru Urara on a\n\ncarrot-picking trip as a reward for all of\nher hard\nwork in the races, but when I\nbring it up to her..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh... Carrots..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ngh... Yeah, I'm just not feeling...\nsuper... up for\nit...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "My body feels as heavy as a rock... Let's\nsave the\ncarrots for another time."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's likely due to her running too many\nraces\nback-to-back. It seems like it\nwould be best to\nrearrange her race\nschedule."
+    }
+  ]
 }

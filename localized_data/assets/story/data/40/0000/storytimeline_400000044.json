@@ -1,37 +1,37 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "<chrname> has sustained a\nserious\ninjury!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Should I have her focus on getting\nbetter or push\nthrough the pain..."
-        },
-        {
-            "name": "Monologue",
-            "text": "I decide to focus on getting her injuries\ntreated.",
-            "choice_data_list": [
-                "Anyway, I'll take care of you.",
-                "I'm going to be tough!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "<chrname> seems to be\nfeeling a little\ndepressed because she\ncan't get any exercise..."
-        },
-        {
-            "name": "Monologue",
-            "text": "There's no time to waste! I harden my\nheart and decide to have\n<chrname> push\nthrough the\npain."
-        },
-        {
-            "name": "Monologue",
-            "text": "But she forces herself too hard and her\ninjury\nworsens..."
-        },
-        {
-            "name": "Monologue",
-            "text": "And the injury is miraculously healed!\nPractice\ngoes perfectly!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "<chrname> has sustained a\nserious\ninjury!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Should I have her focus on getting\nbetter or push\nthrough the pain..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I decide to focus on getting her injuries\ntreated.",
+      "choice_data_list": [
+        "Anyway, I'll take care of you.",
+        "I'm going to be tough!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> seems to be\nfeeling a little\ndepressed because she\ncan't get any exercise..."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no time to waste! I harden my\nheart and\ndecide to have\n<chrname> push\nthrough the\npain."
+    },
+    {
+      "name": "Monologue",
+      "text": "But she forces herself too hard and her\ninjury\nworsens..."
+    },
+    {
+      "name": "Monologue",
+      "text": "And the injury is miraculously healed!\nPractice\ngoes perfectly!"
+    }
+  ]
 }

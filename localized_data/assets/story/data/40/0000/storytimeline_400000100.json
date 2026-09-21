@@ -1,90 +1,90 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "One day, during training, I sense\nsomeone staring\nat me. I turn to check,\nonly to find..."
-        },
-        {
-            "name": "Monologue",
-            "text": "An unfamiliar woman is watching our\nsession\nintently. I figure that she's just a\nfan or spectator\nand try to shrug it off."
-        },
-        {
-            "name": "Monologue",
-            "text": "But... she stays there standing around,\neven after\nthe training's over. Was she\nwaiting for me?"
-        },
-        {
-            "name": "???",
-            "text": "Oh, apologies. Did I disturb your\ntraining session?",
-            "choice_data_list": [
-                "...Um, is something the matter?"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "That's a relief! I was actually hoping to\nborrow\nyou for a couple questions, if\nyou have a minute.",
-            "choice_data_list": [
-                "No, I'm already finished."
-            ]
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "My name is Etsuko Otonashi. I'm a\nreporter from\n<i>Twinkle Monthly.</i>"
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "I was in awe watching you and your trainee\npractice. I'd love to write a story\nabout you two and your activities to\nshow my support. If that's okay with you,\nof course."
-        },
-        {
-            "name": "Monologue",
-            "text": "She seems like a polite person, and she\nsounds sincere. Not to mention, a\nwell-written article\nwould bring\n<chrname> more fans."
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "Thank you so much. Then, let's get right\nto it...\nWhat criteria do you consider\nwhen developing\nyour training regimen?",
-            "choice_data_list": [
-                "Likewise, I'd be delighted."
-            ]
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "I see. So in short, your role as a trainer\nis...",
-            "choice_data_list": [
-                "I'm thinking carefully about how t..."
-            ]
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "That... That's just...",
-            "choice_data_list": [
-                "To help an Umamusume achieve her d..."
-            ]
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "THAT'S SIMPLY AMAZING!",
-            "choice_data_list": [
-                "S...?"
-            ]
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "It appears that you're ready to do\nanything to\nhelp your trainee attain her\ndreams!"
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "Training wherever and whenever she\nasks! Taking her on hot spring tours to\nrecover from races! Venturing to remote\nmountain streams just to fetch her a cup\nof water!"
-        },
-        {
-            "name": "Reporter Otonashi",
-            "text": "Ah... What devotion... I'm so moved! I\npromise my\narticle will instill a fiery\npassion in all who read it!",
-            "choice_data_list": [
-                "(Did we ever talk about that...?!)"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "And just like that, I think I got in the\ngood books\nof a <i>very</i> inspired ally."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "One day, during training, I sense\nsomeone staring\nat me. I turn to check,\nonly to find..."
+    },
+    {
+      "name": "Monologue",
+      "text": "An unfamiliar woman is watching our\nsession\nintently. I figure that she's just a\nfan or spectator\nand try to shrug it off."
+    },
+    {
+      "name": "Monologue",
+      "text": "But... she stays there standing around,\neven after\nthe training's over. Was she\nwaiting for me?"
+    },
+    {
+      "name": "???",
+      "text": "Oh, apologies. Did I disturb your\ntraining session?",
+      "choice_data_list": [
+        "...Um, is something the matter?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "That's a relief! I was actually hoping to\nborrow\nyou for a couple questions, if\nyou have a minute.",
+      "choice_data_list": [
+        "No, I'm already finished."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "My name is Etsuko Otonashi. I'm a\nreporter from\n<i>Twinkle Monthly.</i>"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I was in awe watching you and your\ntrainee\npractice. I'd love to write a story\nabout you two\nand your activities to\nshow my support. If that's\nokay with you,\nof course."
+    },
+    {
+      "name": "Monologue",
+      "text": "She seems like a polite person, and she\nsounds\nsincere. Not to mention, a\nwell-written article\nwould bring\n<chrname> more fans."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Thank you so much. Then, let's get right\nto it...\nWhat criteria do you consider\nwhen developing\nyour training regimen?",
+      "choice_data_list": [
+        "Likewise, I'd be delighted."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I see. So in short, your role as a trainer\nis...",
+      "choice_data_list": [
+        "I'm thinking carefully about how to help her seize her dream."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "That... That's just...",
+      "choice_data_list": [
+        "To help an Umamusume achieve her dreams!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "THAT'S SIMPLY AMAZING!",
+      "choice_data_list": [
+        "S...?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It appears that you're ready to do\nanything to\nhelp your trainee attain her\ndreams!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Training wherever and whenever she\nasks! Taking\nher on hot spring tours to\nrecover from races!\nVenturing to remote\nmountain streams just to\nfetch her a cup\nof water!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah... What devotion... I'm so moved! I\npromise my\narticle will instill a fiery\npassion in all who read it!",
+      "choice_data_list": [
+        "(Did we ever talk about that...?!)"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And just like that, I think I got in the\ngood books\nof a <i>very</i> inspired ally."
+    }
+  ]
 }

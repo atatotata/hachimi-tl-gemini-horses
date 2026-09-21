@@ -1,41 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Jungle Pocket",
-            "text": "Whoa, whoa, you're way too good at this! \nAre you some kind of claw machine demon\nor \nwhat!?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "You got me this many.\nI'm definitely gonna \nmaster these magic tricks.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "When that time comes, I'm gonna blow your \nmind before anyone else's!",
-            "choice_data_list": [
-                "Are you sure you want me to be the...",
-                "Are you sure you want me to be the..."
-            ]
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "Hm? Well, obviously!",
-            "choice_data_list": [
-                "Are you sure you want me to be the...",
-                "Are you sure you want me to be the..."
-            ]
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "Hell yeah, time to head back and train! \nYou'd better look forward to itâª",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "—It was an utterly satisfying result!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Jungle Pocket",
+      "text": "Whoa, whoa, you're way too good at this! \nAre you some kind of claw machine demon or \nwhat!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "You got me this many. I'm definitely gonna \nmaster these magic tricks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "When that time comes, I'm gonna blow your \nmind before anyone else's!",
+      "choice_data_list": [
+        "Are you sure you want me to be the first?",
+        "Are you sure you want me to be the first?"
+      ]
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Hm? Well, obviously!",
+      "choice_data_list": [
+        "Are you sure you want me to be the first?",
+        "Are you sure you want me to be the first?"
+      ]
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Hell yeah, time to head back and train! \nYou'd better look forward to itâª",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
 }

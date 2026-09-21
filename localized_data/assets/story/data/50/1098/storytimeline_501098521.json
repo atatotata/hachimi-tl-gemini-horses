@@ -1,37 +1,37 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Copano Rickey",
-            "text": "Hmm, I see. If I combine this with the\nmethod I\ntried yesterday... hmm,\ninteresting."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "<i>Yaaawn...</i>"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Yeah. I imported a few feng shui books\nfrom\noverseas, and they all have super\ninteresting\nconcepts.",
-            "choice_data_list": [
-                "You've looked sleepy all the time ...",
-                "You've looked sleepy all the time ..."
-            ]
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "I've been so caught up in reading and\ntrying them\nout that I haven't been\ngetting much sleep."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "I won't...",
-            "choice_data_list": [
-                "Try not to overdo it, alright?",
-                "Try not to overdo it, okay?"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "It's good that Copano Rickey's\npassionate about\nstudying, but she's\nclearly sleep deprived."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Copano Rickey",
+      "text": "Hmm, I see. If I combine this with the\nmethod I\ntried yesterday... hmm,\ninteresting."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "<i>Yaaawn...</i>"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Yeah. I imported a few feng shui books\nfrom\noverseas, and they all have super\ninteresting\nconcepts.",
+      "choice_data_list": [
+        "You've looked sleepy all the time lately.",
+        "You've looked sleepy all the time lately."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I've been so caught up in reading and\ntrying them\nout that I haven't been\ngetting much sleep."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I won't...",
+      "choice_data_list": [
+        "Try not to overdo it, alright?",
+        "Try not to overdo it, okay?"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It's good that Copano Rickey's\npassionate about\nstudying, but she's\nclearly sleep deprived."
+    }
+  ]
 }

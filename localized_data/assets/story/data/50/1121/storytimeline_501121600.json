@@ -1,37 +1,37 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Post time was drawing near,\nso I was about \nto call out to Durandal, but—",
-            "choice_data_list": [
-                "(I can sense something like a huge..."
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "Haa...!",
-            "choice_data_list": [
-                "(I can feel a presence like a mass..."
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "I am honored. But during the race, my own \nbody, my very legs become the holy sword.",
-            "choice_data_list": [
-                "...I feel like I can almost see th...",
-                "...I feel like I can almost see th..."
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "All who dare stand in my way shall be \nswept aside by my run.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Durandal",
-            "text": "Victory for my master. I pray that you \nbear witness.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Post time was drawing near, so I was about \nto call out to Durandal, but—",
+      "choice_data_list": [
+        "(I can sense something like a huge blade \non the other side of the door...)"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Haa...!",
+      "choice_data_list": [
+        "(I can feel a presence like a massive blade through the door...)"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I am honored. But during the race, my own \nbody, my very legs become the holy sword.",
+      "choice_data_list": [
+        "...I feel like I can almost see the holy sword right there.",
+        "...I feel like I can almost see the holy sword right there."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "All who dare stand in my way shall be \nswept aside by my run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Victory for my master. I pray that you \nbear witness.",
+      "choice_data_list": []
+    }
+  ]
 }

@@ -1,48 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Marvelous Sunday came walking from down \nthe hallway, looking unwell...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "Aha, marve... ngh!",
-            "choice_data_list": [
-                "What's the matter?",
-                "What's wrong?"
-            ]
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "You know... my head is just full of \nmarvelous things.",
-            "choice_data_list": [
-                "What's the matter?",
-                "What is it?"
-            ]
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "\"Yeah.\nLike a spiky ball is spinning round \nand round in your head?\"",
-            "choice_data_list": [
-                "In your head?"
-            ]
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "\"Sometimes, deep behind my eyes,\nsparks go \ncrackle-crackle, flashing bright...\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "It feels so painfully funny, it's totally \nmarvelous—ouch, owowow!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems Marvelous Sunday is suffering \nfrom a headache...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday came walking from down \nthe hallway, looking unwell...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Aha, marve... ngh!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "You know... my head is just full of \nmarvelous things.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Yeah. Like a spiky ball is spinning round \nand round in your head?\"",
+      "choice_data_list": [
+        "In your head?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Sometimes, deep behind my eyes, sparks go \ncrackle-crackle, flashing bright...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "It feels so painfully funny, it's totally \nmarvelous—ouch, owowow!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Marvelous Sunday is suffering \nfrom a headache...",
+      "choice_data_list": []
+    }
+  ]
 }

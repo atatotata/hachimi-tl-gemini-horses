@@ -1,30 +1,30 @@
 {
-    "title": "Post-Race Fatigue",
-    "text_block_list": [
-        {},
-        {
-            "name": "Narrator",
-            "text": "It happened when Rose Kingdom and I were\npassing in front of a bookstore."
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "...?\nHmph...\nA feature on French formal gardens...",
-            "choice_data_list": [
-                "Is something wrong?"
-            ]
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "No...\nI simply thought it might not be a bad\nidea\nto tour the lands tied to our lineage for\na while—"
-        },
-        {
-            "name": "Rose Kingdom",
-            "text": "...What am I saying?\nRight now,\nI must focus on what needs to be done...\nNo, but still—"
-        },
-        {
-            "name": "Narrator",
-            "text": "Perhaps due to fatigue,\nmy self-control is waning.\nIt might be prudent to review my upcoming\nschedule."
-        }
-    ],
-    "no_wrap": true
+  "title": "Post-Race Fatigue",
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "It happened when Rose Kingdom and I were\npassing in front of a bookstore."
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...?\nHmph... A feature on French formal gardens...",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "No... I simply thought it might not be a bad idea\nto tour the lands tied to our lineage for a while—"
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...What am I saying?\nRight now, I must focus on what needs to be done...\nNo, but still—"
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps due to fatigue, my self-control is waning.\nIt might be prudent to review my upcoming schedule."
+    }
+  ],
+  "no_wrap": true
 }

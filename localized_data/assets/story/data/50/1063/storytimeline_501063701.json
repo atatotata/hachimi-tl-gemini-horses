@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Ikuno Dictus",
-            "text": "Good morning. You've arrived right on \nschedule, as expected.",
-            "choice_data_list": [
-                "You seem to be in a good mood.",
-                "You seem to be in a good mood."
-            ]
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "Yes, I'm using my day off to do some \nshopping.\nA friend asked me to help manage \nthings for them.",
-            "choice_data_list": [
-                "You sure are in a good mood.",
-                "You're in a good mood, aren't you?"
-            ]
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "Based on her tastes and budget, I mapped \nout the best town, the best shops,\nand the \nbest route to find clothes she'd be \nsatisfied with—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Ikuno Dictus",
-            "text": "When a process falls into place so \nperfectly like that, it really brings a \nsmile to my face as well.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems Ikuno Dictus had the best day\noff \npossible.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Ikuno Dictus",
+      "text": "Good morning. You've arrived right on \nschedule, as expected.",
+      "choice_data_list": [
+        "You seem to be in a good mood.",
+        "You seem to be in a good mood."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Yes, I'm using my day off to do some \nshopping. A friend asked me to help manage \nthings for them.",
+      "choice_data_list": [
+        "You sure are in a good mood.",
+        "You're in a good mood, aren't you?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Based on her tastes and budget, I mapped \nout the best town, the best shops, and the \nbest route to find clothes she'd be \nsatisfied with—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "When a process falls into place so \nperfectly like that, it really brings a \nsmile to my face as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Ikuno Dictus had the best day off \npossible.",
+      "choice_data_list": []
+    }
+  ]
 }

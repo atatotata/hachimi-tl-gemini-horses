@@ -1,63 +1,63 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "One day, while out with Daring Heart—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Daring Heart",
-            "text": "\"Wow! Look at that, Trainer! There are so \nmany cute girls!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Looking where Daring Heart pointed, there \nwas a crane game filled with plushies \ndesigned after Umamusume.",
-            "choice_data_list": [
-                "You really like Paka Petits, don't..."
-            ]
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Fufu,\nsurprised? I don't play much myself, \nbut I actually receive quite a lot as \npresents.",
-            "choice_data_list": [
-                "You really like Paka Puchi, huh."
-            ]
-        },
-        {
-            "name": "Daring Heart",
-            "text": "And keeping it in my room like that, I've \ngrown kind of attached to it.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Daring Heart",
-            "text": "It's quite lovely, really, feeling \nsurrounded by so many children even after \nreturning to my room.",
-            "choice_data_list": [
-                "Then let me give you a present too!",
-                "In that case, let me give you a pr..."
-            ]
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Huh, but...",
-            "choice_data_list": [
-                "Then let me give you a present too!",
-                "Then let me give you a present too!"
-            ]
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Trainer... You've got a point! Well then, \nlet's see what you've got. Good luck!",
-            "choice_data_list": [
-                "The more there are, the livelier i...",
-                "The more there are, the livelier i..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "—I can't afford to lose this game!!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Daring Heart—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow! Look at that, Trainer! There are so \nmany cute girls!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Daring Heart pointed, there \nwas a crane game filled with plushies \ndesigned after Umamusume.",
+      "choice_data_list": [
+        "You really like Paka Petits, don't you?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, surprised? I don't play much myself, \nbut I actually receive quite a lot as \npresents.",
+      "choice_data_list": [
+        "You really like Paka Puchi, huh."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And keeping it in my room like that, I've \ngrown kind of attached to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's quite lovely, really, feeling \nsurrounded by so many children even after \nreturning to my room.",
+      "choice_data_list": [
+        "Then let me give you a present too!",
+        "In that case, let me give you a present \ntoo!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Huh, but...",
+      "choice_data_list": [
+        "Then let me give you a present too!",
+        "Then let me give you a present too!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Trainer... You've got a point! Well then, \nlet's see what you've got. Good luck!",
+      "choice_data_list": [
+        "The more there are, the livelier it is, right?",
+        "The more there are, the livelier it is, don't you think?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
 }

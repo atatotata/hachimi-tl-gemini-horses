@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Calstone Light O",
-            "text": "How wonderfully simple to understand!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "\"Looking at all these success stories,\nI'm \nsure I can do it well too.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Nice lecture, Trainer.",
-            "choice_data_list": [
-                "If you'd like, go ahead and displa..."
-            ]
-        },
-        {
-            "name": "Calstone Light O",
-            "text": "Are you sure? Thank you so much! Then I \nshall keep this momentum going...!",
-            "choice_data_list": [
-                "If you'd like, please display that..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "—It was an utterly satisfying result!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "How wonderfully simple to understand!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Looking at all these success stories, I'm \nsure I can do it well too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Nice lecture, Trainer.",
+      "choice_data_list": [
+        "If you'd like, go ahead and display that \none with the others too"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Are you sure? Thank you so much! Then I \nshall keep this momentum going...!",
+      "choice_data_list": [
+        "If you'd like, please display that alongside the others."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
 }

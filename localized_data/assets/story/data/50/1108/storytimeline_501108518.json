@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Duramente",
-            "text": "(Lately, through their training, more and \nmore Umamusume are showing signs of \ngrowth.)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "(However, I have no intention of letting \nthem catch up. Should I increase my daily \nworkload to further enhance my physical \ncapabilities?)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Duramente",
-            "text": "—Thinking that, I tried adding weights to \nmy wrists, ankles, and torso.",
-            "choice_data_list": [
-                "I see... You're trembling all over..."
-            ]
-        },
-        {
-            "name": "Duramente",
-            "text": "It seems I put too much of a load on it, \nbeyond what I anticipated.\n...It'd be best \nto take some of it off.",
-            "choice_data_list": [
-                "I see... You're shaking like a lea..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "*Clatter, THUD!* —The weights were taken \noff with a loud thud. Though it didn't \nshow on her face, she seemed utterly \nexhausted.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Duramente",
+      "text": "(Lately, through their training, more and \nmore Umamusume are showing signs of \ngrowth.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "(However, I have no intention of letting \nthem catch up. Should I increase my daily \nworkload to further enhance my physical \ncapabilities?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Thinking that, I tried adding weights to \nmy wrists, ankles, and torso.",
+      "choice_data_list": [
+        "I see... You're trembling all over, are \nyou alright?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "It seems I put too much of a load on it, \nbeyond what I anticipated. ...It'd be best \nto take some of it off.",
+      "choice_data_list": [
+        "I see... You're shaking like a leaf, though. Are you all right?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "*Clatter, THUD!* —The weights were taken \noff with a loud thud. Though it didn't \nshow on her face, she seemed utterly \nexhausted.",
+      "choice_data_list": []
+    }
+  ]
 }

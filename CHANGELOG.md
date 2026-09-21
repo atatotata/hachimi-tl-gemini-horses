@@ -1,11 +1,5 @@
 # Changelog
 
-## 2026-09-21 -- Overflow mitigation & dict cleanup
-- Fixed 214,957 text overflow issues across 19,303 story files (dialogue box, choice buttons, speaker names).
-- Dialogue box constraints: max 38 chars/line, max 5 lines, max 150 chars total. Choice buttons: max 34 chars.
-- Cleaned 253 remnant CJK punctuation (bullet dots, prolonged sound marks) from dict files.
-- Hachimi font rendering params: 0.96x font size, 0.72x line spacing, 1.9x line width.
-
 ## 2026-09-19 -- Deep story & choices sweep (100% complete)
 - Restored 72,668 missing event choice options directly from decrypted JP asset bundles across 8,176 story timelines.
 - Translated 78,967 unique Japanese strings (dialogue lines, choice buttons, speaker names) via OmniRoute.

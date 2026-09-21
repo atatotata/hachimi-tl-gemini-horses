@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Kiseki",
-            "text": "Mmm, for this part of the story... I want \nit to feel like \"A formidable foe \nappears!\", but—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Kiseki",
-            "text": "Aha! Wait a second, if I bring out that \ndemon who appeared in Episode 13... Oh, \nohooo~! Oh man, am I a genius or what?!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Kiseki",
-            "text": "Paint it, world of Kiseki—\"The Created \nFantasy\"! Once my brush starts moving, \nnothing can stop itttt!!",
-            "choice_data_list": [
-                "Kiseki, so you were here...! I've ...",
-                "Kiseki, so you were here...! I've ..."
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Huh? ...T-Trainer!? Whoa, how did it get \nso late already...?!",
-            "choice_data_list": [
-                "Kiseki, so this is where you were....",
-                "Kiseki, so this is where you were...."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "I gave Kiseki a stern reprimand for \ngetting completely carried away and \nforgetting about training.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kiseki",
+      "text": "Mmm, for this part of the story... I want \nit to feel like \"A formidable foe \nappears!\", but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Aha! Wait a second, if I bring out that \ndemon who appeared in Episode 13... Oh, \nohooo~! Oh man, am I a genius or what?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Paint it, world of Kiseki—\"The Created \nFantasy\"! Once my brush starts moving, \nnothing can stop itttt!!",
+      "choice_data_list": [
+        "Kiseki, so you were here...! I've been \nlooking for you!",
+        "Kiseki, so you were here...! I've been \nsearching for you!"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Huh? ...T-Trainer!? Whoa, how did it get \nso late already...?!",
+      "choice_data_list": [
+        "Kiseki, so this is where you were...! I was looking for you!",
+        "Kiseki, so this is where you were...! I was looking for you!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave Kiseki a stern reprimand for \ngetting completely carried away and \nforgetting about training.",
+      "choice_data_list": []
+    }
+  ]
 }

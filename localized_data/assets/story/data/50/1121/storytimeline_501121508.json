@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Durandal",
-            "text": "—Alright. Now all that's left is to apply \nthe cuticle oil to my nails...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Durandal",
-            "text": "Eek! ...Oh no,\nthe contents spilled out of \nthe bottle...!",
-            "choice_data_list": [
-                "Are you okay...?"
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "\"...It seems I was spacing out a bit. I'm \nsorry, I'll clean it up right away.\"",
-            "choice_data_list": [
-                "Are you okay...?"
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "I have been taking care of my toenails\nfor \na long time, so mistakes like this are \nrare... This won't do.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "\"Durandal doesn't seem to be doing too \nwell... Maybe it's fatigue from the race. \nIt might be best to reconsider her future \nschedule.\"",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "—Alright. Now all that's left is to apply \nthe cuticle oil to my nails...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Eek! ...Oh no, the contents spilled out of \nthe bottle...!",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "\"...It seems I was spacing out a bit. I'm \nsorry, I'll clean it up right away.\"",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I have been taking care of my toenails for \na long time, so mistakes like this are \nrare... This won't do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal doesn't seem to be doing too \nwell... Maybe it's fatigue from the race. \nIt might be best to reconsider her future \nschedule.\"",
+      "choice_data_list": []
+    }
+  ]
 }
