@@ -1,45 +1,45 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Before the race. The moment I opened the \ndoor to the waiting room to call Jungle \nPocket—",
-      "choice_data_list": [
-        "(What is this heavy pressure...!?)",
-        "(What is this overwhelming pressure...?!)"
-      ]
-    },
-    {
-      "name": "Jungle Pocket",
-      "text": "—Alright, let's do this...!",
-      "choice_data_list": [
-        "(What is this overwhelming pressure...!??)",
-        "(What is this pressure...?!)"
-      ]
-    },
-    {
-      "name": "Jungle Pocket",
-      "text": "Trainer. What're you just standing there \nfor?",
-      "choice_data_list": [
-        "N-No... the race is starting soon."
-      ]
-    },
-    {
-      "name": "Jungle Pocket",
-      "text": "Yeah. Alright, time to go wild.",
-      "choice_data_list": [
-        "N-No... your race is about to start."
-      ]
-    },
-    {
-      "name": "Jungle Pocket",
-      "text": "Hey, Trainer.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Jungle Pocket",
-      "text": "Keep your eyes peeled on my \"fight,\" got \nit?",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Before the race. The moment I opened the \ndoor to the waiting room to call Jungle \nPocket—",
+            "choice_data_list": [
+                "(What is this heavy pressure...!?)",
+                "(What is this overwhelming pressur..."
+            ]
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "—Alright, let's do this...!",
+            "choice_data_list": [
+                "(What is this overwhelming pressur...",
+                "(What is this pressure...?!)"
+            ]
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Trainer. What're you just standing there \nfor?",
+            "choice_data_list": [
+                "N-No... the race is starting soon."
+            ]
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Yeah. Alright, time to go wild.",
+            "choice_data_list": [
+                "N-No... your race is about to start."
+            ]
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Hey, Trainer.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Keep your eyes peeled on my \"fight,\" got \nit?",
+            "choice_data_list": []
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Ruby's Butler",
-      "text": "Milady... Will the dinner party proceed as \nscheduled, then? Perhaps you should rest \nuntil your headache subsides—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "No. I cannot afford to rest over something \nlike this.",
-      "choice_data_list": [
-        "What's the matter?",
-        "What's wrong?"
-      ]
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "It is nothing serious. There is no need \nfor concern.",
-      "choice_data_list": [
-        "What's the matter?",
-        "What is it?"
-      ]
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "Well then, class is about to start, so \nplease excuse me.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "—......",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "(This level of... pain is nothing...)",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "And so, Daiichi Ruby was plagued by a \nheadache for a while...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Ruby's Butler",
+            "text": "Milady...\nWill the dinner party proceed as \nscheduled, then? Perhaps you should rest \nuntil your headache subsides—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "No. I cannot afford to rest over\nsomething \nlike this.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "It is nothing serious. There is no need \nfor concern.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Well then, class is about to start, so \nplease excuse me.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "—......",
+            "choice_data_list": []
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "(This level of... pain is nothing...)",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "And so, Daiichi Ruby was plagued by a \nheadache for a while...",
+            "choice_data_list": []
+        }
+    ]
 }

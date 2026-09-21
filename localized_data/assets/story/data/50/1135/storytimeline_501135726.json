@@ -1,52 +1,52 @@
 {
-  "title": "Claw Machine!",
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "On a certain outing with Stay Gold ——"
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Oh, they got Paka plushies."
-    },
-    {
-      "text": "Looking towards where Stay Gold was \npointing, I saw a Claw Machine with \nhorsegirl plushies.",
-      "choice_data_list": [
-        "You interested?"
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "They make good souvenirs. It seems that \nyou can only get them at certain \nlocations.",
-      "choice_data_list": [
-        "Curious?"
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "They're also popular with foreigners. They \nget super happy when you give them one \ny'know? It's that <i>\"Japan KAWAII\"</i> thing.",
-      "choice_data_list": [
-        "<i>Ooh…</i> then I want to get a lot!",
-        "<i>Ooh…</i> then I want to get many!"
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Yeah, though it's pretty hard… You good at \nthis sort of thing Trainer?",
-      "choice_data_list": [
-        "Ooh... In that case, I want to get a ton of them!",
-        "Ooh... In that case, I want to get a ton of them!"
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Haha, I'm sure you're better than me. Ah, \ndo you wanna try to get some for me then?",
-      "choice_data_list": [
-        "Not bad, I guess?"
-      ]
-    },
-    {
-      "text": "——I can't lose against this game!!"
-    }
-  ]
+    "title": "Claw Machine!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On a certain outing with Stay Gold ——"
+        },
+        {
+            "name": "Stay Gold",
+            "text": "Oh, they got Paka plushies."
+        },
+        {
+            "text": "Looking towards where Stay Gold was \npointing, I saw a Claw Machine with \nhorsegirl plushies.",
+            "choice_data_list": [
+                "You interested?"
+            ]
+        },
+        {
+            "name": "Stay Gold",
+            "text": "They make good souvenirs. It seems that \nyou can only get them at certain \nlocations.",
+            "choice_data_list": [
+                "Curious?"
+            ]
+        },
+        {
+            "name": "Stay Gold",
+            "text": "They're also popular with foreigners.\nThey \nget super happy when you give them one \ny'know?\nIt's that <i>\"Japan KAWAII\"</i> thing.",
+            "choice_data_list": [
+                "<i>Ooh…</i> then I want to get a lot!",
+                "<i>Ooh…</i> then I want to get many!"
+            ]
+        },
+        {
+            "name": "Stay Gold",
+            "text": "Yeah,\nthough it's pretty hard… You good at \nthis sort of thing Trainer?",
+            "choice_data_list": [
+                "Ooh... In that case, I want to get...",
+                "Ooh... In that case, I want to get..."
+            ]
+        },
+        {
+            "name": "Stay Gold",
+            "text": "Haha, I'm sure you're better than me. Ah, \ndo you wanna try to get some for me then?",
+            "choice_data_list": [
+                "Not bad, I guess?"
+            ]
+        },
+        {
+            "text": "——I can't lose against this game!!"
+        }
+    ]
 }

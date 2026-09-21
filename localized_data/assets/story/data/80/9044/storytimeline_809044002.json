@@ -1,107 +1,107 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "After finishing the popular movie and \nstepping out of the theater, I spotted \nRyoka Tsurugi. She appeared to be intently \nobserving the audience.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "—The age demographic ranges from teens to \nthirties, with roughly an even split \nbetween male and female, I'd say...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Spectator A",
-      "text": "Man, I had no idea that actor could pull \noff such an intense performance! Totally \nblew me away!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Spectator B",
-      "text": "I know, right?! He had that handsome \nheartthrob image, but that villainous face \ngave me total chills! Villains are awesome \ntoo!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "Spectator satisfaction seems quite high.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "The casting and its sheer \nunexpectedness... Word of mouth is bound \nto boost audience turnout. If only we \ncould achieve that same effect with \nvideos――",
-      "choice_data_list": [
-        "...Ms. Tsurugi. Are you on the clock?"
-      ]
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "Ah! Trainer. Yes, just a bit of market \nresearch.",
-      "choice_data_list": [
-        "Hello, Ms. Tsurugi. Are you working?"
-      ]
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "Did you just finish watching a movie, \nTrainer? How was it?",
-      "choice_data_list": [
-        "The action was so flashy, I really enjoyed \nit."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "As we passionately discussed our \nimpressions of the movie, voices from \nother audience members could be heard here \nand there as well.",
-      "choice_data_list": [
-        "The action was so flashy, I really enjoyed it."
-      ]
-    },
-    {
-      "name": "Spectator C",
-      "text": "That final showdown in the snowy mountains \nwas seriously on the edge of my seat.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Spectator D",
-      "text": "Totally, totally. The moment they plunged \noff that cliff, my heart clenched up right \nalong with them.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "Hehe.",
-      "choice_data_list": [
-        "What's the matter?"
-      ]
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "No, listening to the audience's reactions— \nit just made me feel happy as well.",
-      "choice_data_list": [
-        "Is something wrong?"
-      ]
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "It's strange, isn't it? Even though it's \nnot a piece I had anything to do with.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "And yet, entertainment like this brings a \nsmile to everyone's faces. And makes me \nsmile too――",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "Seeing happiness spread outward like \nthat... made me realize once again just \nhow wonderful it is.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Ryoka Tsurugi",
-      "text": "That's why encountering such wonderful \nworks always fills me with motivation!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Hearing her wholehearted wish for others' \nhappiness warmed me to the very core.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "After finishing the popular movie and \nstepping out of the theater, I spotted \nRyoka Tsurugi.\nShe appeared to be intently \nobserving the audience.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "—The age demographic ranges from teens to \nthirties, with roughly an even split \nbetween male and female, I'd say...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Spectator A",
+            "text": "Man, I had no idea that actor could pull \noff such an intense performance! Totally \nblew me away!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Spectator B",
+            "text": "I know, right?! He had that handsome \nheartthrob image,\nbut that villainous face \ngave me total chills!\nVillains are awesome too!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "Spectator satisfaction seems quite high.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "The casting and its sheer \nunexpectedness... Word of mouth is bound \nto boost audience turnout. If only we \ncould achieve that same effect with \nvideos――",
+            "choice_data_list": [
+                "...Ms. Tsurugi. Are you on the clock?"
+            ]
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "Ah! Trainer. Yes, just a bit of market \nresearch.",
+            "choice_data_list": [
+                "Hello, Ms. Tsurugi. Are you working?"
+            ]
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "Did you just finish watching a movie, \nTrainer? How was it?",
+            "choice_data_list": [
+                "The action was so flashy, I really..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "As we passionately discussed our \nimpressions of the movie, voices from \nother audience members could be heard\nhere \nand there as well.",
+            "choice_data_list": [
+                "The action was so flashy, I really..."
+            ]
+        },
+        {
+            "name": "Spectator C",
+            "text": "That final showdown in the snowy\nmountains \nwas seriously on the edge of my seat.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Spectator D",
+            "text": "Totally, totally. The moment they plunged \noff that cliff,\nmy heart clenched up right \nalong with them.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "Hehe.",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "No, listening to the audience's\nreactions— \nit just made me feel happy as well.",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "It's strange, isn't it? Even though it's \nnot a piece I had anything to do with.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "And yet, entertainment like this brings a \nsmile to everyone's faces. And makes me \nsmile too――",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "Seeing happiness spread outward like \nthat... made me realize once again just \nhow wonderful it is.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Ryoka Tsurugi",
+            "text": "That's why encountering such wonderful \nworks always fills me with motivation!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Hearing her wholehearted wish for others' \nhappiness warmed me to the very core.",
+            "choice_data_list": []
+        }
+    ]
 }

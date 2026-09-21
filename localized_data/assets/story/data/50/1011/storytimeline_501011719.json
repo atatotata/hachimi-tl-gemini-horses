@@ -1,45 +1,45 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "I meet Grass Wonder at her classroom to\ntake her\nto training."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Oh my... Thank you for coming all this\nway."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "But may I ask to be excused from\ntraining for\ntoday?"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Well, no. I'm perfectly healthy, it's just—",
-      "choice_data_list": [
-        "Are you feeling under the weather?",
-        "Are you feeling under the weather?"
-      ]
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Hey! Hey, Grass! Can you help me figure\nout what\nthis Classical Japanese poem\nmeans?"
-    },
-    {
-      "name": "Umamusume B",
-      "text": "Ah! No fair! I was gonna ask her an\nEnglish\nquestion!"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Just a moment. I'll be right there."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "I'm sorry, Trainer. But you can see how\nI'm\nneeded."
-    },
-    {
-      "name": "Monologue",
-      "text": "Grass Wonder gives an apologetic bow\nbefore\ngoing back inside the classroom."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I meet Grass Wonder at her classroom to\ntake her\nto training."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my... Thank you for coming all this\nway."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But may I ask to be excused from\ntraining for\ntoday?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, no. I'm perfectly healthy,\nit's just—",
+            "choice_data_list": [
+                "Are you feeling under the weather?",
+                "Are you feeling under the weather?"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey! Hey, Grass! Can you help me figure\nout what\nthis Classical Japanese poem\nmeans?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ah! No fair! I was gonna ask her an\nEnglish\nquestion!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Just a moment. I'll be right there."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm sorry, Trainer. But you can see how\nI'm\nneeded."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder gives an apologetic bow\nbefore\ngoing back inside the classroom."
+        }
+    ]
 }

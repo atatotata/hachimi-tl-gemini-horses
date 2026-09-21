@@ -1,38 +1,38 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Dream Journey",
-      "text": "...It's certainly not that easy, is it?",
-      "choice_data_list": [
-        "Sorry..."
-      ]
-    },
-    {
-      "name": "Dream Journey",
-      "text": "Please don't apologize. If anything, I am \nthe one who should be sorry for asking the \nimpossible of you.",
-      "choice_data_list": [
-        "Sorry..."
-      ]
-    },
-    {
-      "name": "Dream Journey",
-      "text": "I always end up relying on you too much, \ndon't I, Trainer?",
-      "choice_data_list": [
-        "I'll do my best to win it next time..."
-      ]
-    },
-    {
-      "name": "Dream Journey",
-      "text": "...Yes, if there's a next time, let's do \nit again.",
-      "choice_data_list": [
-        "I'll do my best to win it next time..."
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "It ended in a disappointing result...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Dream Journey",
+            "text": "...It's certainly not that easy, is it?",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Please don't apologize. If anything, I am \nthe one who should be sorry for asking\nthe \nimpossible of you.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "I always end up relying on you too much, \ndon't I, Trainer?",
+            "choice_data_list": [
+                "I'll do my best to win it next time..."
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "...Yes, if there's a next time, let's do \nit again.",
+            "choice_data_list": [
+                "I'll do my best to win it next time..."
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "It ended in a disappointing result...",
+            "choice_data_list": []
+        }
+    ]
 }

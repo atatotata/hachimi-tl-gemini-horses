@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Gran Alegria",
-      "text": "*Yaaawn*... Good mile-ning, Trainer-san~.",
-      "choice_data_list": [
-        "Are you short on sleep, perhaps?"
-      ]
-    },
-    {
-      "name": "Gran Alegria",
-      "text": "Ahaha~ But I feel amazing! After all...",
-      "choice_data_list": [
-        "Didn't get enough sleep?"
-      ]
-    },
-    {
-      "name": "Gran Alegria",
-      "text": "I rewatched races from when I was little! \nThere was such huge cheering! It made my \nheart race—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gran Alegria",
-      "text": "*Yaaawn*... My adrenaline was going a \nhundred miles an hour... so I couldn't get \nany sleep...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Gran Alegria was so overwhelmed by the \nfever pitch of the crowd's cheers that she \ncouldn't sleep well...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Gran Alegria",
+            "text": "*Yaaawn*... Good mile-ning, Trainer-san~.",
+            "choice_data_list": [
+                "Are you short on sleep, perhaps?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Ahaha~ But I feel amazing! After all...",
+            "choice_data_list": [
+                "Didn't get enough sleep?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "I rewatched races from when I was little! \nThere was such huge cheering! It made my \nheart race—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "*Yaaawn*... My adrenaline was going a \nhundred miles an hour...\nso I couldn't get \nany sleep...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Gran Alegria was so overwhelmed by the \nfever pitch of the crowd's cheers that\nshe \ncouldn't sleep well...",
+            "choice_data_list": []
+        }
+    ]
 }

@@ -1,41 +1,41 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Fine Motion and I are drinking some tea\nwhile we\nhave a meeting."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Hm, where's the sugar? Ah! Here it is! ♪"
-    },
-    {
-      "name": "Monologue",
-      "text": "<i>Plip, plip, plip... Plop, plop... PLOP!</i>"
-    },
-    {
-      "name": "Fine Motion",
-      "text": "So then, Trainer, about our training\nregimen..."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "What do you think about making some\nchanges\nbased on my race results? I\npersonally believe\nflexibility is key.",
-      "choice_data_list": [
-        "(Aren't there an awful lot of sugar cubes...?)",
-        "(Isn't that a lot of sugar cubes...?)"
-      ]
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Hehe, it's decided then! ♪ Okay, I'm\ngoing to\ngive it my all tomorrow!",
-      "choice_data_list": [
-        "Ah, yeah...!",
-        "Y-Yeah...!"
-      ]
-    },
-    {
-      "name": "Monologue",
-      "text": "Fine Motion doesn't let her fatigue\nshow, but it\nmight be the reason she's\ncraving all that sugar. I\nmight want to\ntake another look at her race\nschedule."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fine Motion and I are drinking some tea\nwhile we\nhave a meeting."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, where's the sugar? Ah! Here it is! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Plip, plip, plip... Plop,\nplop... PLOP!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So then, Trainer, about our training\nregimen..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What do you think about making some\nchanges\nbased on my race results? I\npersonally believe\nflexibility is key.",
+            "choice_data_list": [
+                "(Aren't there an awful lot of suga...",
+                "(Isn't that a lot of sugar cubes...?)"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, it's decided then! ♪ Okay, I'm\ngoing to\ngive it my all tomorrow!",
+            "choice_data_list": [
+                "Ah, yeah...!",
+                "Y-Yeah...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion doesn't let her fatigue\nshow, but it might be the reason she's\ncraving all that sugar. I might want to\ntake another look at her race\nschedule."
+        }
+    ]
 }

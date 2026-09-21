@@ -1,67 +1,67 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Mr. C.B. didn't show up for training. \nWorried, I was searching the school \ngrounds when a colleague called out to me.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Fellow Trainer",
-      "text": "Your training plan really was incredible! \nI could totally tell you shaved off sleep \nto put it together.",
-      "choice_data_list": [
-        "I'm still figuring it out through trial \nand error, though.",
-        "I'm still figuring it out through trial \nand error, though."
-      ]
-    },
-    {
-      "name": "Fellow Trainer",
-      "text": "With this, my trainee should—speak of the \ndevil. I hope she likes the menu. See ya!",
-      "choice_data_list": [
-        "I'm still working it out through trial and error, though.",
-        "It's still a matter of trial and error, though."
-      ]
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "――――…………。",
-      "choice_data_list": [
-        "Good, you seem to be doing well.",
-        "Good, you seem to be doing well."
-      ]
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "Yeah, sorry about that. I just really \nwasn't in the mood for training.",
-      "choice_data_list": [
-        "Glad to see you're doing well.",
-        "Glad to see you seem full of energy."
-      ]
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "I was just killing time, and ended up \nslacking off completely.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "So, I overheard a bit earlier. ...You came \nup with a new menu for me, didn't you?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "\"I'll definitely show up to the next \ntraining session. I'm really curious to \nsee what the menu will be, after all.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "I'm really sorry.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Free-spirited as she was, she seemed to \nregret her actions, so I settled for \nsimply cautioning her to be careful in the \nfuture.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Mr. C.B. didn't show up for training. \nWorried, I was searching the school \ngrounds when a colleague called out to me.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "Your training plan really was incredible! \nI could totally tell you shaved off sleep \nto put it together.",
+            "choice_data_list": [
+                "I'm still figuring it out through ...",
+                "I'm still figuring it out through ..."
+            ]
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "With this, my trainee should—speak of the \ndevil. I hope she likes the menu. See ya!",
+            "choice_data_list": [
+                "I'm still working it out through t...",
+                "It's still a matter of trial and e..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "――――…………。",
+            "choice_data_list": [
+                "Good, you seem to be doing well.",
+                "Good, you seem to be doing well."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Yeah, sorry about that. I just really \nwasn't in the mood for training.",
+            "choice_data_list": [
+                "Glad to see you're doing well.",
+                "Glad to see you seem full of energy."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I was just killing time, and ended up \nslacking off completely.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "So, I overheard a bit earlier.\n...You came \nup with a new menu for me, didn't you?",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "\"I'll definitely show up to the next \ntraining session. I'm really curious to \nsee what the menu will be, after all.\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I'm really sorry.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Free-spirited as she was, she seemed to \nregret her actions, so I settled for \nsimply cautioning her to be careful in\nthe \nfuture.",
+            "choice_data_list": []
+        }
+    ]
 }

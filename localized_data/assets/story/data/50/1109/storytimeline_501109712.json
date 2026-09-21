@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "Rhein Kraft didn't show up for training, \nso I went out to look for her.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Rhein Kraft",
-      "text": "“—Mumble mumble... ...The sun is... so \nnice and warm today, too...”",
-      "choice_data_list": [
-        "Craft, it's time for training."
-      ]
-    },
-    {
-      "name": "Rhein Kraft",
-      "text": "—Huh!? Trainer? ...N-No way, is it really \nthat time already!?",
-      "choice_data_list": [
-        "Craft, it's time for training."
-      ]
-    },
-    {
-      "name": "Rhein Kraft",
-      "text": "It was so comfortable that I overslept. \n...I'm sorry.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "\"I made sure to firmly caution Rhein Kraft \nso that the same thing wouldn't happen \nagain.\"",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "Rhein Kraft didn't show up for training, \nso I went out to look for her.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "“—Mumble mumble... ...The sun is... so \nnice and warm today, too...”",
+            "choice_data_list": [
+                "Craft, it's time for training."
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "—Huh!? Trainer? ...N-No way, is it really \nthat time already!?",
+            "choice_data_list": [
+                "Craft, it's time for training."
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "It was so comfortable that I overslept. \n...I'm sorry.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "\"I made sure to firmly caution Rhein\nKraft \nso that the same thing wouldn't happen \nagain.\"",
+            "choice_data_list": []
+        }
+    ]
 }

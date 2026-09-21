@@ -1,32 +1,32 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Eishin Flash",
-      "text": "<i>Huff... puff...</i> Today's weight training\nworkout is...\ncomplete."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Hm, what time is it now?"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Huh... It appears I finished much earlier\nthan\nexpected..."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "What?! I-I stand corrected...",
-      "choice_data_list": [
-        "Well, you're a little late, though...?"
-      ]
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "<i>Sigh...</i> I appear to have confused the big\nhand\nwith the little hand on the clock.\nHow\nembarrassing..."
-    },
-    {
-      "name": "Monologue",
-      "text": "She must be exhausted if she's managed\nto\nmisread the clock. I should rethink her\nrace\nschedule."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Huff...\npuff...</i> Today's weight training\nworkout is...\ncomplete."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hm, what time is it now?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh... It appears I finished much earlier\nthan\nexpected..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What?! I-I stand corrected...",
+            "choice_data_list": [
+                "Well, you're a little late, though...?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh...</i> I appear to have confused\nthe big hand\nwith the little hand on the clock.\nHow\nembarrassing..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be exhausted if she's managed\nto\nmisread the clock. I should rethink her\nrace\nschedule."
+        }
+    ]
 }

@@ -1,40 +1,40 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "One day, as I approach the front gate of\nthe\nacademy, I catch a glimpse of\nsomeone rushing\ninto a taxi and\nspeeding away."
-    },
-    {
-      "name": "Air Groove",
-      "text": "<i>Pant, pant...</i> Hey, you! Have you seen a\nreporter\npass by?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Grrr, so they've escaped...",
-      "choice_data_list": [
-        "She got in a taxi and left."
-      ]
-    },
-    {
-      "name": "Air Groove",
-      "text": "That reporter was here to photograph\nour\ntraining, but the fool used the flash!",
-      "choice_data_list": [
-        "What happened?",
-        "What happened?"
-      ]
-    },
-    {
-      "name": "Air Groove",
-      "text": "I explicitly forbade its usage before we\nstarted."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Hmph. I'll call the publisher later and file\na\ncomplaint."
-    },
-    {
-      "name": "Monologue",
-      "text": "After chasing down that reporter, Air\nGroove\nlooks a bit worn out."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I approach the front gate of\nthe academy, I catch a glimpse of\nsomeone rushing\ninto a taxi and\nspeeding away."
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Pant, pant...</i> Hey,\nyou! Have you seen a\nreporter\npass by?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Grrr, so they've escaped...",
+            "choice_data_list": [
+                "She got in a taxi and left."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That reporter was here to photograph\nour\ntraining, but the fool used the flash!",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I explicitly forbade its usage before we\nstarted."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph.\nI'll call the publisher later and file\na\ncomplaint."
+        },
+        {
+            "name": "Monologue",
+            "text": "After chasing down that reporter, Air\nGroove\nlooks a bit worn out."
+        }
+    ]
 }

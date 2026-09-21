@@ -1,117 +1,117 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "It's been a few days since Director\nAkikawa left.\nOne day, shortly after I've\nsent\n<chrname> off to do\nsome endurance\nrunning..."
-    },
-    {
-      "name": "???",
-      "text": "..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I spot a woman I've never seen before\nwatching\nthe Umamusume training."
-    },
-    {
-      "name": "???",
-      "text": "...You're the trainer of that girl who just\ntook off\nrunning around the grounds,\naren't you?",
-      "choice_data_list": [
-        "Um...?"
-      ]
-    },
-    {
-      "name": "???",
-      "text": "I've been watching your training session.\nI\nunderstand this is rather impolite to say\nupon our\nfirst meeting, but..."
-    },
-    {
-      "name": "???",
-      "text": "You're horribly lax."
-    },
-    {
-      "name": "???",
-      "text": "You permit her too much solo training,\noverlook\nher tardiness, and allow her to\nchitchat idly with\nothers during her\nbreaks.",
-      "choice_data_list": [
-        "Huh?"
-      ]
-    },
-    {
-      "name": "???",
-      "text": "Oh? Your expression suggests you don't\nagree\nwith my observations."
-    },
-    {
-      "name": "???",
-      "text": "Then can you tell me how much she's\nsleeping on\nthe daily, and what the\nquality of her sleep is?\nAre you checking\nin with her every day?"
-    },
-    {
-      "name": "???",
-      "text": "Lack of decent sleep not only worsens a\nrunner's\nperformance but also invites\naccidents. It is\nimperative to be aware of\nher sleeping habits.",
-      "choice_data_list": [
-        "N-No..."
-      ]
-    },
-    {
-      "name": "???",
-      "text": "I understand this academy values its\nstudents'\nindependence.",
-      "choice_data_list": [
-        "I'm sorry..."
-      ]
-    },
-    {
-      "name": "???",
-      "text": "However, this way of thinking is\nirresponsible."
-    },
-    {
-      "name": "Monologue",
-      "text": "She directs her gaze over toward a\nmountain in\nthe distance."
-    },
-    {
-      "name": "???",
-      "text": "Do you see that cedar-covered\nmountain? It's\npopular with hikers during\nthe climbing season."
-    },
-    {
-      "name": "???",
-      "text": "You'll find magnificent trees that rustle\nin the\nwind, birds that sing\nwhole-heartedly, and mulch\nthat softly\nwelcomes your feet."
-    },
-    {
-      "name": "???",
-      "text": "But like most mountains in this country,\nit is only\nthat way due to external care\nand management."
-    },
-    {
-      "name": "???",
-      "text": "Without any sort of outside interference,\nthe\nforests descend into decay. The sun\ndoesn't reach\nthe floor, the grass dies,\nand the ground becomes\na graveyard of\ndead trees and rotting leaves."
-    },
-    {
-      "name": "???",
-      "text": "Such unkempt mountains are more prone\nto\nlandslides and floods... This is why\nmanagement is\nso important."
-    },
-    {
-      "name": "???",
-      "text": "You may feel like a kind and generous\nmentor,\nwatching passively over your\nstudents, but all\nyou're doing is leaving\ntheir potential to rot."
-    },
-    {
-      "name": "Monologue",
-      "text": "As she speaks, the woman's gaze grows\nfierce.\nThe heavy atmosphere is\nbeginning to feel\noverwhelming, but just\nthen..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "There you are! I was looking for you, Ms.\n\nKashimoto!"
-    },
-    {
-      "name": "???",
-      "text": "My apologies. I merely wished to\nobserve a\ntypical training session."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Oh, Trainer! I see you've already met\nDirector\nAkikawa's temporary\nreplacement."
-    },
-    {
-      "name": "Riko Kashimoto",
-      "text": "My name is Riko Kashimoto. I have been\ntasked\nwith managing the academy\nduring my tenure."
-    },
-    {
-      "name": "Riko Kashimoto",
-      "text": "I... look forward to working with you."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been a few days since Director\nAkikawa left. One day, shortly after I've\nsent <chrname> off to do\nsome endurance\nrunning..."
+        },
+        {
+            "name": "???",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot a woman I've never seen before\nwatching\nthe Umamusume training."
+        },
+        {
+            "name": "???",
+            "text": "...You're the trainer of that girl who\njust\ntook off\nrunning around the grounds,\naren't you?",
+            "choice_data_list": [
+                "Um...?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "I've been watching your training session.\nI\nunderstand this is rather impolite to say\nupon our\nfirst meeting, but..."
+        },
+        {
+            "name": "???",
+            "text": "You're horribly lax."
+        },
+        {
+            "name": "???",
+            "text": "You permit her too much solo training,\noverlook her tardiness, and allow her to\nchitchat idly with\nothers during her\nbreaks.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Oh? Your expression suggests you don't\nagree\nwith my observations."
+        },
+        {
+            "name": "???",
+            "text": "Then can you tell me how much she's\nsleeping on the daily, and what the\nquality of her sleep is?\nAre you checking\nin with her every day?"
+        },
+        {
+            "name": "???",
+            "text": "Lack of decent sleep not only worsens a\nrunner's performance but also invites\naccidents. It is\nimperative to be aware of\nher sleeping habits.",
+            "choice_data_list": [
+                "N-No..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "I understand this academy values its\nstudents'\nindependence.",
+            "choice_data_list": [
+                "I'm sorry..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "However, this way of thinking is\nirresponsible."
+        },
+        {
+            "name": "Monologue",
+            "text": "She directs her gaze over toward a\nmountain in\nthe distance."
+        },
+        {
+            "name": "???",
+            "text": "Do you see that cedar-covered\nmountain? It's\npopular with hikers during\nthe climbing season."
+        },
+        {
+            "name": "???",
+            "text": "You'll find magnificent trees that rustle\nin the wind, birds that sing\nwhole-heartedly, and mulch\nthat softly\nwelcomes your feet."
+        },
+        {
+            "name": "???",
+            "text": "But like most mountains in this country,\nit is only\nthat way due to external care\nand management."
+        },
+        {
+            "name": "???",
+            "text": "Without any sort of outside interference,\nthe forests descend into decay. The sun\ndoesn't reach the floor, the grass dies,\nand the ground becomes a graveyard of\ndead trees and rotting leaves."
+        },
+        {
+            "name": "???",
+            "text": "Such unkempt mountains are more prone\nto\nlandslides and floods... This is why\nmanagement is\nso important."
+        },
+        {
+            "name": "???",
+            "text": "You may feel like a kind and generous\nmentor, watching passively over your\nstudents, but all\nyou're doing is leaving\ntheir potential to rot."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she speaks, the woman's gaze grows\nfierce. The heavy atmosphere is\nbeginning to feel\noverwhelming, but just\nthen..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "There you are! I was looking for you, Ms.\n\nKashimoto!"
+        },
+        {
+            "name": "???",
+            "text": "My apologies. I merely wished to\nobserve a\ntypical training session."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Trainer! I see you've already met\nDirector\nAkikawa's temporary\nreplacement."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "My name is Riko Kashimoto. I have been\ntasked\nwith managing the academy\nduring my tenure."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I... look forward to working with you."
+        }
+    ]
 }

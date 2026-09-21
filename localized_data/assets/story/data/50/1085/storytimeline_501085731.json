@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Daiichi Ruby",
-      "text": "...What is this?",
-      "choice_data_list": [
-        "Please accept this, if you'd like."
-      ]
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "No, thank you.",
-      "choice_data_list": [
-        "I'd really like you to accept this, if you would."
-      ]
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "This is entirely useless to me. I believe \nit belongs in the Trainer's office.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "After all, this achievement belongs to \nnone other than yourself.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "—It was a respectable result!",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiichi Ruby",
+            "text": "...What is this?",
+            "choice_data_list": [
+                "Please accept this, if you'd like."
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "No, thank you.",
+            "choice_data_list": [
+                "I'd really like you to accept this..."
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "This is entirely useless to me. I believe \nit belongs in the Trainer's office.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "After all, this achievement belongs to \nnone other than yourself.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "—It was a respectable result!",
+            "choice_data_list": []
+        }
+    ]
 }

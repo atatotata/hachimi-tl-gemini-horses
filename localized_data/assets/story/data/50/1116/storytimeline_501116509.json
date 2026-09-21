@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "I was working late refining the race \nschedule, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Gentildonna",
-      "text": "We've both been overworking ourselves \nlately. You, and me too.",
-      "choice_data_list": [
-        "Ah...! Gentil..."
-      ]
-    },
-    {
-      "name": "Gentildonna",
-      "text": "If you cannot discern when to wield your \npower, you are no mighty warrior—merely an \nunruly beast—",
-      "choice_data_list": [
-        "Gh! Gentile..."
-      ]
-    },
-    {
-      "name": "Gentildonna",
-      "text": "\"How about we both give ourselves some \nleeway? If you have any thoughts, would \nyou care to share?\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Gentildonna scolded me. Considering my \naccumulated fatigue, I should probably \nrevise my upcoming schedule...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "I was working late refining the race \nschedule, but...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Gentildonna",
+            "text": "We've both been overworking ourselves \nlately. You, and me too.",
+            "choice_data_list": [
+                "Ah...! Gentil..."
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "If you cannot discern when to wield your \npower,\nyou are no mighty warrior—merely an \nunruly beast—",
+            "choice_data_list": [
+                "Gh! Gentile..."
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "\"How about we both give ourselves some \nleeway? If you have any thoughts, would \nyou care to share?\"",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Gentildonna scolded me. Considering my \naccumulated fatigue, I should probably \nrevise my upcoming schedule...",
+            "choice_data_list": []
+        }
+    ]
 }
