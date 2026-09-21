@@ -1,51 +1,51 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "I came to the library to look for Zenno \nRob Roy, but...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "Ow... ngh...!",
-      "choice_data_list": [
-        "Got a headache?",
-        "Do you have a headache?"
-      ]
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "Y-Yes... Just a little since this \nmorning... It happens occasionally when my \ncirculation gets poor.",
-      "choice_data_list": [
-        "Do you have a headache?",
-        "Do you have a headache?"
-      ]
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "You stay in the same posture while \nreading, after all. I tried to be careful \nby rolling my neck occasionally, but even \nso...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "Still, I cannot neglect inventorying the \nbooks. As a library committee member—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "—Ouch, that's hot...!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "Ugh... I can't get any work done like \nthis...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Zenno Rob Roy ended up suffering from a \nheadache for a while...",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "I came to the library to look for Zenno \nRob Roy, but...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ow... ngh...!",
+            "choice_data_list": [
+                "Got a headache?",
+                "Do you have a headache?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Y-Yes... Just a little since this \nmorning...\nIt happens occasionally when my \ncirculation gets poor.",
+            "choice_data_list": [
+                "Do you have a headache?",
+                "Do you have a headache?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You stay in the same posture while \nreading, after all. I tried to be careful \nby rolling my neck occasionally, but even \nso...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Still, I cannot neglect inventorying the \nbooks. As a library committee member—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "—Ouch, that's hot...!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ugh... I can't get any work done like \nthis...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Zenno Rob Roy ended up suffering from a \nheadache for a while...",
+            "choice_data_list": []
+        }
+    ]
 }

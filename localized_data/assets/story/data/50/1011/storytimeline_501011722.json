@@ -1,37 +1,37 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "As I'm walking down the hall, I hear\nGrass\nWonder's voice coming from the\ninfirmary."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Thank you for the medicine. I will take\nmy leave\nnow."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Oh... Trainer."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "No, I'm fine. Just a little headache, it's\nno big—",
-      "choice_data_list": [
-        "Are you feeling unwell?",
-        "Are you feeling unwell?"
-      ]
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "...!"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Hehe. Dear me. It seems this medicine\nmight take\na while to kick in."
-    },
-    {
-      "name": "Monologue",
-      "text": "Grass Wonder seems to be having\ntrouble with\nheadaches. It may be a\ngood idea to take it easy\non her for a\nlittle while."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm walking down the hall, I hear\nGrass\nWonder's voice coming from the\ninfirmary."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for the medicine. I will take\nmy leave\nnow."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh... Trainer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "No, I'm fine. Just a little headache, it's\nno big—",
+            "choice_data_list": [
+                "Are you feeling unwell?",
+                "Are you feeling unwell?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Dear me. It seems this medicine\nmight take\na while to kick in."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder seems to be having\ntrouble with headaches. It may be a\ngood idea to take it easy\non her for a\nlittle while."
+        }
+    ]
 }

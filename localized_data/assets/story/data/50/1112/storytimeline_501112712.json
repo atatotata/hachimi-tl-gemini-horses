@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "While searching around for Daring Heart, \nwho hadn't shown up despite it being time \nfor training—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Yeah! That's the spirit! Aiming to be cool \nis great and all, but first you gotta set \nyour heart on fire!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Children",
-      "text": "Yes! Sensei Heart!",
-      "choice_data_list": [
-        "It's quite a full house, Dr. Heart."
-      ]
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Fufu, isn't it? Even though it's an \nimpromptu dance class, everyone is so \nmotivated... Huh!?",
-      "choice_data_list": [
-        "Quite a lively turnout, Dr. Heart."
-      ]
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Sorry, Trainer! I completely lost track of \ntime. I'll be much more careful next \ntime...!",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "While searching around for Daring Heart, \nwho hadn't shown up despite it being time \nfor training—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Yeah! That's the spirit!\nAiming to be cool \nis great and all, but first you gotta set \nyour heart on fire!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Children",
+            "text": "Yes! Sensei Heart!",
+            "choice_data_list": [
+                "It's quite a full house, Dr. Heart."
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Fufu, isn't it? Even though it's an \nimpromptu dance class, everyone is so \nmotivated... Huh!?",
+            "choice_data_list": [
+                "Quite a lively turnout, Dr. Heart."
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Sorry,\nTrainer! I completely lost track of \ntime. I'll be much more careful next \ntime...!",
+            "choice_data_list": []
+        }
+    ]
 }
