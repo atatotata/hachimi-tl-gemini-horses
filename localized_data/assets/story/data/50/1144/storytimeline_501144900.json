@@ -1,45 +1,45 @@
 {
-  "title": "Self-Introduction",
-  "text_block_list": [
-    {},
-    {
-      "name": "Narrator",
-      "text": "Now begins the journey of racing through the Twinkle Series alongside my trainee Umamusume.\nThe name of the girl who will walk this path with me is—",
-      "color_text_info_list": [
+    "title": "Self-Introduction",
+    "text_block_list": [
+        {},
         {
-          "Text": "トゥインクル・シリーズ",
-          "FontColor": 30
-        }
-      ]
-    },
-    {
-      "name": "Rose Kingdom",
-      "text": "I am Rose Kingdom.\nFufu, pay it no mind... I merely wished to reintroduce myself.",
-      "color_text_info_list": [
+            "name": "Narrator",
+            "text": "Now begins the journey of racing through\nthe Twinkle Series alongside my trainee\nUmamusume.\nThe name of the girl who will walk this path\nwith me is—",
+            "color_text_info_list": [
+                {
+                    "Text": "トゥインクル・シリーズ",
+                    "FontColor": 30
+                }
+            ]
+        },
         {
-          "Text": "ローズキングダム",
-          "FontColor": 29
-        }
-      ]
-    },
-    {
-      "name": "Rose Kingdom",
-      "text": "The Rose Clan's deepest yearning—\nto establish the 'Rose Kingdom' is my sole mission.",
-      "color_text_info_list": [
+            "name": "Rose Kingdom",
+            "text": "I am Rose Kingdom.\nFufu,\npay it no mind...\nI merely wished to reintroduce myself.",
+            "color_text_info_list": [
+                {
+                    "Text": "ローズキングダム",
+                    "FontColor": 29
+                }
+            ]
+        },
         {
-          "Text": "薔薇一族",
-          "FontColor": 13
+            "name": "Rose Kingdom",
+            "text": "The Rose Clan's deepest yearning—\nto establish the 'Rose Kingdom' is my sole\nmission.",
+            "color_text_info_list": [
+                {
+                    "Text": "薔薇一族",
+                    "FontColor": 13
+                }
+            ]
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "Without fail,\nwe shall prove the Rose Clan's presence to\nthe racing world.\nI am counting on you, Trainer."
+        },
+        {
+            "name": "Narrator",
+            "text": "And so began our challenge in the Twinkle\nSeries alongside <chrname>!"
         }
-      ]
-    },
-    {
-      "name": "Rose Kingdom",
-      "text": "Without fail, we shall prove the Rose Clan's presence to the racing world.\nI am counting on you, Trainer."
-    },
-    {
-      "name": "Narrator",
-      "text": "And so began our challenge in the Twinkle Series alongside <chrname>!"
-    }
-  ],
-  "no_wrap": true
+    ],
+    "no_wrap": true
 }

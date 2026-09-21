@@ -1,41 +1,41 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Today is the Queen Elizabeth II Cup."
-    },
-    {
-      "name": "Monologue",
-      "text": "At 2,200 meters long, it's a similar\ndistance to\nthe Japanese Oaks, which\nwas rough on Nishino\nFlower."
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Phew..."
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "...Yes, I'll be fine.",
-      "choice_data_list": [
-        "Flower, you up for it?",
-        "Flower, are you up for it?"
-      ]
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "You believe I can do this too, right?"
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "I <i>am</i> scared, but if you believe in me...\nthen I'll be\nokay.",
-      "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
-      ]
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Here I go!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Queen Elizabeth II Cup."
+        },
+        {
+            "name": "Monologue",
+            "text": "At 2,200 meters long, it's a similar\ndistance to\nthe Japanese Oaks, which\nwas rough on Nishino\nFlower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Yes, I'll be fine.",
+            "choice_data_list": [
+                "Flower, you up for it?",
+                "Flower, are you up for it?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You believe I can do this too, right?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I <i>am</i> scared,\nbut if you believe in me...\nthen I'll be\nokay.",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Here I go!"
+        }
+    ]
 }

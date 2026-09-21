@@ -1,34 +1,34 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Fenomeno",
-      "text": "...*inhale*............ *gasp*! \n............*mm*............*inhale*...",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Fenomeno was studying with her textbook, \nbut she kept nodding off and jerking back \nawake.",
-      "choice_data_list": [
-        "Hey, are you okay?"
-      ]
-    },
-    {
-      "name": "Fenomeno",
-      "text": "\"...Gasp! I-I'm terribly sorry, Boss! To \nfall asleep when I should be a model \nstudent...\"",
-      "choice_data_list": [
-        "Hey, are you okay?"
-      ]
-    },
-    {
-      "name": "Fenomeno",
-      "text": "I'll go wash my face and psych myself up \nall over again!",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Fenomeno seems to be accumulating fatigue. \nIt might be necessary to review her \nschedule.",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fenomeno",
+            "text": "...*inhale*............ *gasp*! \n............*mm*............*inhale*...",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Fenomeno was studying with her textbook, \nbut she kept nodding off and jerking back \nawake.",
+            "choice_data_list": [
+                "Hey, are you okay?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "\"...Gasp! I-I'm terribly sorry, Boss! To \nfall asleep when I should be a model \nstudent...\"",
+            "choice_data_list": [
+                "Hey, are you okay?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "I'll go wash my face and psych myself up \nall over again!",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Fenomeno seems to be accumulating\nfatigue. \nIt might be necessary to review her \nschedule.",
+            "choice_data_list": []
+        }
+    ]
 }

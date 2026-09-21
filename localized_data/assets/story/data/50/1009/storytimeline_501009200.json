@@ -1,29 +1,29 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "It's time for Daiwa Scarlet's debut race."
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "At last, I'm going to enter the Twinkle\nSeries..."
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "I can't wait! Let's go! My legs are itching\nto run!"
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "Hehe! You don't need to remind me!",
-      "choice_data_list": [
-        "It's all to become number one, after all.",
-        "It's all to become number one, right?"
-      ]
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "I'll have the most spectacular debut\nthere ever\nwas. Everyone will wish they\ncould copy me!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time for Daiwa Scarlet's debut race."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "At last, I'm going to enter the Twinkle\nSeries..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't wait! Let's go!\nMy legs are itching\nto run!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! You don't need to remind me!",
+            "choice_data_list": [
+                "It's all to become number one, aft...",
+                "It's all to become number one, right?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'll have the most spectacular debut\nthere ever\nwas. Everyone will wish they\ncould copy me!"
+        }
+    ]
 }

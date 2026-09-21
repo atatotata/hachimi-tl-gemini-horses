@@ -1,53 +1,53 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narrator",
-      "text": "One day, while out with Sakura Laurel—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "Ah, Trainer! Isn't that cute?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Narrator",
-      "text": "Looking where Sakura Laurel is pointing, I \nsee a crane game filled with plushies \nmodeled after Umamusume.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "It really captures everyone's features \nwell, doesn't it! I'd love to display it \nin my room~.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "...Ah, but I might not have much cash on \nme today.",
-      "choice_data_list": [
-        "I'll get it.",
-        "I'll take it."
-      ]
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "You will, Trainer? Are you sure?",
-      "choice_data_list": [
-        "I'll get it.",
-        "I'll get it."
-      ]
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "Fufu. In that case, maybe I'll look \nforward to seeing what you can do, \nTrainer?",
-      "choice_data_list": [
-        "Leave it to me!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "—I can't afford to lose this game!!",
-      "choice_data_list": []
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narrator",
+            "text": "One day, while out with Sakura Laurel—",
+            "choice_data_list": []
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Ah, Trainer! Isn't that cute?",
+            "choice_data_list": []
+        },
+        {
+            "name": "Narrator",
+            "text": "Looking where Sakura Laurel is\npointing, I \nsee a crane game filled with plushies \nmodeled after Umamusume.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "It really captures everyone's features \nwell, doesn't it! I'd love to display it \nin my room~.",
+            "choice_data_list": []
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "...Ah, but I might not have much cash on \nme today.",
+            "choice_data_list": [
+                "I'll get it.",
+                "I'll take it."
+            ]
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "You will, Trainer? Are you sure?",
+            "choice_data_list": [
+                "I'll get it.",
+                "I'll get it."
+            ]
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Fufu. In that case, maybe I'll look \nforward to seeing what you can do, \nTrainer?",
+            "choice_data_list": [
+                "Leave it to me!"
+            ]
+        },
+        {
+            "name": "Narrator",
+            "text": "—I can't afford to lose this game!!",
+            "choice_data_list": []
+        }
+    ]
 }
