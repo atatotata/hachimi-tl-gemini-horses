@@ -1,43 +1,43 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "It's time for training, but I don't see a\ntrace of Fuji\nKiseki—that is, until she\nnearly runs into me."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ack! Sorry, didn't mean to scare you! I'm\nkind of\nin a hurry!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "One of my residents has a fever, and I've\nbeen\nlooking after her!",
-            "choice_data_list": [
-                "Are you in a hurry?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I need to get this medicine to her ASAP!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Huh? Wait...",
-            "choice_data_list": [
-                "If that's the situation, it can't ..."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "We have training today! I completely\nforgot!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I'm sorry. I've been so preoccupied with\ntaking\ncare of my resident that it slipped\nmy mind..."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I have to be better than this.\nI'll be more\ncareful\nnext time, promise!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "It's time for training, but I don't see a\ntrace of Fuji\nKiseki—that is, until she\nnearly runs into me."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ack! Sorry, didn't mean to scare you! I'm\nkind of\nin a hurry!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "One of my residents has a fever, and I've\nbeen\nlooking after her!",
+      "choice_data_list": [
+        "Are you in a hurry?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I need to get this medicine to her ASAP!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huh? Wait...",
+      "choice_data_list": [
+        "If that's the situation, it can't be helped, but..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "We have training today! I completely\nforgot!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I'm sorry. I've been so preoccupied with\ntaking\ncare of my resident that it slipped\nmy mind..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I have to be better than this. I'll be more\ncareful\nnext time, promise!"
+    }
+  ]
 }

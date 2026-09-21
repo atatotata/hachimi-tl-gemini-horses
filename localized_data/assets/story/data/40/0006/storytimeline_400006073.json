@@ -1,72 +1,72 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "(Uwooooooah!)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Spectator B",
-            "text": "\"Man,\nthis year's Derby was intense too... \n—Hey, what're you messing with your phone \nfor?\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Spectator A",
-            "text": "I'm looking into it. That \"Prix de l'Arc \nde Triomphe\" thing you mentioned earlier. \n...Because <chrname> was great.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Spectator A",
-            "text": "They say there's a 'Representative \nExchange Match' next month. And they're \ntaking supporter sign-ups too... \n............I'm definitely joining.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Spectator B",
-            "text": "Talk about fast on your feet!? ...Still, \nmaybe that ain't bad, huh? I do wanna see \nwhat becomes of <chrname>, after all.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mei Satake",
-            "text": "(...<chrname> and the others are steadily \ngenerating excitement.)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mei Satake",
-            "text": "(Draw in this heat and let it blaze. That \nblazing wind will become a tailwind to \ncarry me to the world.)",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mei Satake",
-            "text": "—Then I will too. Pour everything you can \nas the leader into everyone in 'Project \nL'Arc.'",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mei Satake",
-            "text": "First, in the upcoming Representative \nExchange Match.\nWe'll scale it up compared \nto last time and draw people in. More \nrunners, more PR... spreading to the \ngeneral public, too—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mei Satake",
-            "text": "I'll make sure to arrange a race worthy\nof \nTeam Japan at the \"Representative\nExchange \nRace\"...!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "After the race.\nChecking the reception for \n<chrname> mixed in with the cheers,\nI go to greet \nher in the underground tunnel.",
-            "choice_data_list": [
-                "...You really delivered results.",
-                "...We got the results we wanted."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Let's move forward. To earn our ticket as \nJapan's representative in next month's \nExchange Match. To make our dream of \nbecoming the best in the world come true—",
-            "choice_data_list": [
-                "...We got results, alright.",
-                "...We got results, didn't we?",
-                "...We managed to get results, didn..."
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "(Uwooooooah!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "\"Man, this year's Derby was intense too... \n—Hey, what're you messing with your phone \nfor?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "I'm looking into it. That \"Prix de l'Arc \nde Triomphe\" thing you mentioned earlier. \n...Because <chrname> was great.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "They say there's a 'Representative \nExchange Match' next month. And they're \ntaking supporter sign-ups too... \n............I'm definitely joining.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Talk about fast on your feet!? ...Still, \nmaybe that ain't bad, huh? I do wanna see \nwhat becomes of <chrname>, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "(...<chrname> and the others are steadily \ngenerating excitement.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "(Draw in this heat and let it blaze. That \nblazing wind will become a tailwind to \ncarry me to the world.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "—Then I will too. Pour everything you can \nas the leader into everyone in 'Project \nL'Arc.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "First, in the upcoming Representative \nExchange Match. We'll scale it up compared \nto last time and draw people in. More \nrunners, more PR... spreading to the \ngeneral public, too—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "I'll make sure to arrange a race worthy of \nTeam Japan at the \"Representative Exchange \nRace\"...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After the race. Checking the reception for \n<chrname> mixed in with the cheers, I go to greet \nher in the underground tunnel.",
+      "choice_data_list": [
+        "...You really delivered results.",
+        "...We got the results we wanted."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Let's move forward. To earn our ticket as \nJapan's representative in next month's \nExchange Match. To make our dream of \nbecoming the best in the world come true—",
+      "choice_data_list": [
+        "...We got results, alright.",
+        "...We got results, didn't we?",
+        "...We managed to get results, didn't we?"
+      ]
+    }
+  ]
 }

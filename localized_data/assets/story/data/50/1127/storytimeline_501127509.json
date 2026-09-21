@@ -1,36 +1,36 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Fenomeno",
-            "text": "Mmh...",
-            "choice_data_list": [
-                "W-What, did something bad happen?"
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "? Ahh... I've done it again, sir...",
-            "choice_data_list": [
-                "D-Did something bad happen?"
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "Lately, it seems I've been unconsciously \ntensing up my face... And everyone has \nbeen even more frightened of me than \nusual...",
-            "choice_data_list": [
-                "Again?"
-            ]
-        },
-        {
-            "name": "Fenomeno",
-            "text": "Perhaps due to consecutive races,\nit seems \nshe's having trouble switching between on \nand off mode, sir...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "She seems to have accumulated far more \nfatigue than expected. I need to urgently \nreconsider her schedule...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fenomeno",
+      "text": "Mmh...",
+      "choice_data_list": [
+        "W-What, did something bad happen?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "? Ahh... I've done it again, sir...",
+      "choice_data_list": [
+        "D-Did something bad happen?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Lately, it seems I've been unconsciously \ntensing up my face... And everyone has \nbeen even more frightened of me than \nusual...",
+      "choice_data_list": [
+        "Again?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Perhaps due to consecutive races, it seems \nshe's having trouble switching between on \nand off mode, sir...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She seems to have accumulated far more \nfatigue than expected. I need to urgently \nreconsider her schedule...",
+      "choice_data_list": []
+    }
+  ]
 }

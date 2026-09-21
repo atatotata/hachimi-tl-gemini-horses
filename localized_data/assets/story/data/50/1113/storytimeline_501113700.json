@@ -1,41 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "While I was in a meeting with Fusaichi \nPandora...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fusaichi Pandora",
-            "text": "*Yaaaaawn*... *gasp*...",
-            "choice_data_list": [
-                "You look sleepy, what's the matter?",
-                "You look sleepy, what's the matter?"
-            ]
-        },
-        {
-            "name": "Fusaichi Pandora",
-            "text": "Like, I was texting my friends on LANE, \nand before I knew it,\nit was the middle of \nthe night~~...",
-            "choice_data_list": [
-                "You look sleepy. What's the matter?",
-                "You look sleepy. What's wrong?"
-            ]
-        },
-        {
-            "name": "Fusaichi Pandora",
-            "text": "*Yaaawn*... Did you say we have training \nafter this? No waaaay, I can't do iiiit...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fusaichi Pandora",
-            "text": "Why don't we just take a nap for today? \nThere's no point doing it all \nsleepy-weepy... right?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems Fusaichi Pandora wasn't able to \nrest well...",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While I was in a meeting with Fusaichi \nPandora...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "*Yaaaaawn*... *gasp*...",
+      "choice_data_list": [
+        "You look sleepy, what's the matter?",
+        "You look sleepy, what's the matter?"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Like, I was texting my friends on LANE, \nand before I knew it, it was the middle of \nthe night~~...",
+      "choice_data_list": [
+        "You look sleepy. What's the matter?",
+        "You look sleepy. What's wrong?"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "*Yaaawn*... Did you say we have training \nafter this? No waaaay, I can't do iiiit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Why don't we just take a nap for today? \nThere's no point doing it all \nsleepy-weepy... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Fusaichi Pandora wasn't able to \nrest well...",
+      "choice_data_list": []
+    }
+  ]
 }

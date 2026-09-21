@@ -1,130 +1,130 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "At lunchtime, a brand-new ramen shop \ncaught my eye, so I decided to check it \nout—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "There was Mejiro Ramonu. In a ramen shop, \nof all places.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "――...Is something the matter?",
-            "choice_data_list": [
-                "Didn't expect to see you at a rame...",
-                "It's rare to see you at a ramen sh..."
-            ]
-        },
-        {
-            "name": "Fine Motion",
-            "text": "The owner invited me, you see. He used to \nbe a chef at a three-star restaurant that \nwe frequented.",
-            "choice_data_list": [
-                "It's rare to see you at a ramen shop.",
-                "It's unusual to see you at a ramen..."
-            ]
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "I fell head over heels, you see, for \nJapanese ramen. The very moment I took a \nbite, I was utterly captivated.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "\"Lady Ramonu is someone who always offers \nher candid opinions... That is why, fully \naware it might be an imposition, I \nextended this invitation.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Ramonu-senpai actually came all the way \nout here because of her deep love for \nramen. Man, I'm looking forward to this!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Sorry, we couldn't help overhearing... We \nsaw the reviews on UmaSta and came to eat \nramen too.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "\"A crystallization of love, beauty, and \nbliss: our signature 'Rose Ramen.' Please \nenjoy.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Ooh! Straightforward noodles and broth! \nNow this is the ramen of ramens!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "It definitely lives up to the name \"Rose \nRamen\"! In the language of flowers, roses \nmean love, happiness,\nand beauty. It feels \nlike all of that is in this bowl!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fine Motion",
-            "text": "...Huh? But the most popular item here is—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "—Is this the extent of your love for \nramen? I see. How disappointing.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Wh-What could have displeased them...?\nThe \naromatic vegetable garnish is so elegant, \nalmost like a French hors d'oeuvre...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fine Motion",
-            "text": "\"...Maybe that's why. The ingredients are \ndifferent, right? Compared to the most \npopular menu item.\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "...Yes. I am ashamed of myself. I \nconcealed my true love. Please, give me \none more chance...!!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Fine Motion",
-            "text": "âRamonu-san. The shopkeeper said, \"Next \ntime, I will serve true love.\" It seems \nthey'd like to invite you once more.",
-            "choice_data_list": [
-                "Wanna go check it out?"
-            ]
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "—Very well.",
-            "choice_data_list": [
-                "Want to go take a look?"
-            ]
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "\"The other day, I hid my true devotion. \nHesitant over whether it was proper to \nserve 'this' to Lady Ramonu...\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Refined Shopkeeper",
-            "text": "Here you are, our shop's most popular \ndish: 'Mega Garlic Rose Ramen.'",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Without any hesitation or reserve, the \nbowl was placed right in front of her—\nand \nMejiro Ramonu silently began to eat.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "Yes... So this is naked love. The flavor \nof love, beauty, and bliss—stripping away \nall modesty.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Perhaps inspired by the love in the \"Rose \nRamen,\" Mejiro Ramonu's running gained an \neven finer polish afterward.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "At lunchtime, a brand-new ramen shop \ncaught my eye, so I decided to check it \nout—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There was Mejiro Ramonu. In a ramen shop, \nof all places.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "――...Is something the matter?",
+      "choice_data_list": [
+        "Didn't expect to see you at a ramen shop.",
+        "It's rare to see you at a ramen shop, huh?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "The owner invited me, you see. He used to \nbe a chef at a three-star restaurant that \nwe frequented.",
+      "choice_data_list": [
+        "It's rare to see you at a ramen shop.",
+        "It's unusual to see you at a ramen shop."
+      ]
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "I fell head over heels, you see, for \nJapanese ramen. The very moment I took a \nbite, I was utterly captivated.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "\"Lady Ramonu is someone who always offers \nher candid opinions... That is why, fully \naware it might be an imposition, I \nextended this invitation.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ramonu-senpai actually came all the way \nout here because of her deep love for \nramen. Man, I'm looking forward to this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sorry, we couldn't help overhearing... We \nsaw the reviews on UmaSta and came to eat \nramen too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "\"A crystallization of love, beauty, and \nbliss: our signature 'Rose Ramen.' Please \nenjoy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ooh! Straightforward noodles and broth! \nNow this is the ramen of ramens!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "It definitely lives up to the name \"Rose \nRamen\"! In the language of flowers, roses \nmean love, happiness, and beauty. It feels \nlike all of that is in this bowl!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Huh? But the most popular item here is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "—Is this the extent of your love for \nramen? I see. How disappointing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Wh-What could have displeased them...? The \naromatic vegetable garnish is so elegant, \nalmost like a French hors d'oeuvre...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"...Maybe that's why. The ingredients are \ndifferent, right? Compared to the most \npopular menu item.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "...Yes. I am ashamed of myself. I \nconcealed my true love. Please, give me \none more chance...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "âRamonu-san. The shopkeeper said, \"Next \ntime, I will serve true love.\" It seems \nthey'd like to invite you once more.",
+      "choice_data_list": [
+        "Wanna go check it out?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "—Very well.",
+      "choice_data_list": [
+        "Want to go take a look?"
+      ]
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "\"The other day, I hid my true devotion. \nHesitant over whether it was proper to \nserve 'this' to Lady Ramonu...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Refined Shopkeeper",
+      "text": "Here you are, our shop's most popular \ndish: 'Mega Garlic Rose Ramen.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Without any hesitation or reserve, the \nbowl was placed right in front of her— and \nMejiro Ramonu silently began to eat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Yes... So this is naked love. The flavor \nof love, beauty, and bliss—stripping away \nall modesty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps inspired by the love in the \"Rose \nRamen,\" Mejiro Ramonu's running gained an \neven finer polish afterward.",
+      "choice_data_list": []
+    }
+  ]
 }

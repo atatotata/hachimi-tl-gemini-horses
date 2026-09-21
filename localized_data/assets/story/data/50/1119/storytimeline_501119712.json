@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Dream Journey hasn't shown up for\ntraining \ndespite the scheduled time. When I went \nlooking for her, she was in the committee \nroom.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Dream Journey",
-            "text": "Please place anything that requires\nreview \ntoday on my desk. I have emailed everyone \nthe list of new intermediary agencies, so \nplease check it.",
-            "choice_data_list": [
-                "Journey, you're past training time"
-            ]
-        },
-        {
-            "name": "Dream Journey",
-            "text": "\"...Trainer. Oh my, is it this late \nalready...?\"",
-            "choice_data_list": [
-                "Journey, training time is already ..."
-            ]
-        },
-        {
-            "name": "Dream Journey",
-            "text": "I was so absorbed in my work that I\ndidn't \nnotice. I am terribly sorry. I'll be more \ncareful from now on.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Dream Journey offered a heartfelt\napology. To prevent anything similar from\nhappening \nagain, I made sure to issue a firm \nwarning.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Dream Journey hasn't shown up for training \ndespite the scheduled time. When I went \nlooking for her, she was in the committee \nroom.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please place anything that requires review \ntoday on my desk. I have emailed everyone \nthe list of new intermediary agencies, so \nplease check it.",
+      "choice_data_list": [
+        "Journey, you're past training time"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Trainer. Oh my, is it this late \nalready...?\"",
+      "choice_data_list": [
+        "Journey, training time is already over."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I was so absorbed in my work that I didn't \nnotice. I am terribly sorry. I'll be more \ncareful from now on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey offered a heartfelt apology. \nTo prevent anything similar from happening \nagain, I made sure to issue a firm \nwarning.",
+      "choice_data_list": []
+    }
+  ]
 }

@@ -1,31 +1,31 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Durandal",
-            "text": "Splendidly done, Trainer-dono!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Durandal",
-            "text": "I'm sure the whole family will welcome\nour \nnew friend! ...Fufu.",
-            "choice_data_list": [
-                "If your family is happy, that's wh...",
-                "If it makes your family happy, not..."
-            ]
-        },
-        {
-            "name": "Durandal",
-            "text": "I appreciate your thoughtfulness. I will \nbe sure to convey your kindness to my \nfamily, Trainer.",
-            "choice_data_list": [
-                "If your family is happy, that's wh...",
-                "If your family is happy, that's wh..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "—It was a respectable result!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Splendidly done, Trainer-dono!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I'm sure the whole family will welcome our \nnew friend! ...Fufu.",
+      "choice_data_list": [
+        "If your family is happy, that's what \nmatters most.",
+        "If it makes your family happy, nothing \ncould make me happier."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I appreciate your thoughtfulness. I will \nbe sure to convey your kindness to my \nfamily, Trainer.",
+      "choice_data_list": [
+        "If your family is happy, that's what matters most.",
+        "If your family is happy, that's what matters most."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
 }

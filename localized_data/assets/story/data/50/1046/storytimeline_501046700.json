@@ -1,25 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Smart Falcon",
-            "text": "<i>...Groan.</i> Trainer,\ncan we take a break?"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Well, I maybe didn't get enough sleep. I\nwas up\nlate writing messages on all my\nflyers.",
-            "choice_data_list": [
-                "Are you still feeling tired?",
-                "Haven't you shaken off that fatigue?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "But aren't I just the cutest when I'm\nworking so\nhard? <i>Yaaawn...</i> Anyway,\ngood night..."
-        },
-        {
-            "name": "Monologue",
-            "text": "I appreciate her passion, but it seems\nlike Smart\nFalcon isn't resting properly."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "<i>...Groan.</i> Trainer, can we take a break?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Well, I maybe didn't get enough sleep. I\nwas up\nlate writing messages on all my\nflyers.",
+      "choice_data_list": [
+        "Are you still feeling tired?",
+        "Haven't you shaken off that fatigue?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "But aren't I just the cutest when I'm\nworking so\nhard? <i>Yaaawn...</i> Anyway,\ngood night..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I appreciate her passion, but it seems\nlike Smart\nFalcon isn't resting properly."
+    }
+  ]
 }

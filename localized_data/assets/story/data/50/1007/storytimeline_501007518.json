@@ -1,32 +1,32 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "I hear Gold Ship's voice coming from the\nroof one\nday and decide to investigate."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "HI-YAAAAAH!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "<i>Huff,\nhuff...</i> Not to worry... You're safe\nnow.",
-            "choice_data_list": [
-                "Are you okay?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Once again, I've managed to protect the\n\nacademy from the threat beyond the\nstars..."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "It sure took a lot out of me, though...\nRecovering\nis gonna take a while..."
-        },
-        {
-            "name": "Monologue",
-            "text": "I don't know about the threat beyond\nthe stars, but Gold Ship's exhaustion\nseems real. It takes\nher a while to get\nback in form."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "I hear Gold Ship's voice coming from the\nroof one\nday and decide to investigate."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "HI-YAAAAAH!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Huff, huff...</i> Not to worry... You're safe\nnow.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Once again, I've managed to protect the\n\nacademy from the threat beyond the\nstars..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "It sure took a lot out of me, though...\nRecovering\nis gonna take a while..."
+    },
+    {
+      "name": "Monologue",
+      "text": "I don't know about the threat beyond\nthe stars,\nbut Gold Ship's exhaustion\nseems real. It takes\nher a while to get\nback in form."
+    }
+  ]
 }

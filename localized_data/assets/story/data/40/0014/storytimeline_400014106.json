@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Training was over. When I visited the \nchairwoman's office on an errand, \nTazuna-san was still working.",
-            "choice_data_list": [
-                "Please don't push yourself too har..."
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Fufu. Thank you for your concern! However—",
-            "choice_data_list": [
-                "Please don't push yourself too har..."
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Seeing how hard <chrname> was working\njust \nnaturally inspired me.",
-            "choice_data_list": []
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Please leave the operations of the \"Ramen \nJamboree\" to me. I'll make sure it's \ncarried out to perfection, without a \nsingle flaw!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "It seems her sincere attitude earned\nquite \na bit of praise!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Training was over. When I visited the \nchairwoman's office on an errand, \nTazuna-san was still working.",
+      "choice_data_list": [
+        "Please don't push yourself too hard, okay?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu. Thank you for your concern! However—",
+      "choice_data_list": [
+        "Please don't push yourself too hard, okay?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Seeing how hard <chrname> was working just \nnaturally inspired me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please leave the operations of the \"Ramen \nJamboree\" to me. I'll make sure it's \ncarried out to perfection, without a \nsingle flaw!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems her sincere attitude earned quite \na bit of praise!",
+      "choice_data_list": []
+    }
+  ]
 }

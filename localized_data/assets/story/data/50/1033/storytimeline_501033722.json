@@ -1,47 +1,47 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "After I've finished suggesting a training\nschedule\nto Admire Vega..."
-        },
-        {
-            "name": "Admire Vega",
-            "text": "..."
-        },
-        {
-            "name": "Admire Vega",
-            "text": "I'm fine. Just taking in the fresh air...",
-            "choice_data_list": [
-                "Is something wrong?"
-            ]
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Ugh!"
-        },
-        {
-            "name": "Admire Vega",
-            "text": "It's nothing to worry about. I've taken\nsome\nmedicine, so it'll go away soon\nenough.",
-            "choice_data_list": [
-                "Do you have a headache?",
-                "Do you have a headache?"
-            ]
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Agh!"
-        },
-        {
-            "name": "Admire Vega",
-            "text": "You're right... Apologies for not telling\nyou\nsooner.",
-            "choice_data_list": [
-                "If it's too tough, don't push your..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "It seems Admire Vega is struggling with\na\nmigraine..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "After I've finished suggesting a training\nschedule\nto Admire Vega..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "I'm fine. Just taking in the fresh air...",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ugh!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "It's nothing to worry about. I've taken\nsome\nmedicine, so it'll go away soon\nenough.",
+      "choice_data_list": [
+        "Do you have a headache?",
+        "Do you have a headache?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Agh!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "You're right... Apologies for not telling\nyou\nsooner.",
+      "choice_data_list": [
+        "If it's too tough, don't push yourself."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems Admire Vega is struggling with\na\nmigraine..."
+    }
+  ]
 }

@@ -1,43 +1,43 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "—Midway through June.\nCome to think of it, \nthe Takarazuka Kinen is just around the \ncorner.",
-            "choice_data_list": [
-                "Chrono, where are you planning to ..."
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Huh...? ......",
-            "choice_data_list": [
-                "Chrono, where are you planning to ..."
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "I-I haven't... decided on anything in \nparticular yet...",
-            "choice_data_list": [
-                "I'll make sure not to schedule any..."
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Ah... yes...",
-            "choice_data_list": [
-                "I won't schedule any races for tha..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "It was a noncommittal reply. Though her \nbehavior was concerning—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Let's skip entering any races in late\nJune \nso we can focus on spectating the \nTakarazuka Kinen.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—Midway through June. Come to think of it, \nthe Takarazuka Kinen is just around the \ncorner.",
+      "choice_data_list": [
+        "Chrono, where are you planning to watch \nthe Takarazuka Kinen?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Huh...? ......",
+      "choice_data_list": [
+        "Chrono, where are you planning to watch the Takarazuka Kinen?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I-I haven't... decided on anything in \nparticular yet...",
+      "choice_data_list": [
+        "I'll make sure not to schedule any races \nthere."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ah... yes...",
+      "choice_data_list": [
+        "I won't schedule any races for that period."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a noncommittal reply. Though her \nbehavior was concerning—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Let's skip entering any races in late June \nso we can focus on spectating the \nTakarazuka Kinen.",
+      "choice_data_list": []
+    }
+  ]
 }

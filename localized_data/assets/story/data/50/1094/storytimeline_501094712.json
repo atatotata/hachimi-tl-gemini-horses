@@ -1,34 +1,34 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Underling",
-            "text": "\"Pokke-san, please help us! The team we \nbeat earlier is picking a fight with \nus...!\"",
-            "choice_data_list": []
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "—Tell me the location, I'm heading over \nnow. Don't let them do anything stupid \nbefore I get there, got it?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "*pant, pant*... My bad!!",
-            "choice_data_list": [
-                "For now, I'm just glad you're safe..."
-            ]
-        },
-        {
-            "name": "Jungle Pocket",
-            "text": "I'm truly sorry... I promise I'll make \nthis up to you.",
-            "choice_data_list": [
-                "I'm just glad you're safe. You had..."
-            ]
-        },
-        {
-            "name": "Narrator",
-            "text": "Jungle Pocket apologized for skipping \ntraining without notice. Seeing her \ngenuine remorse, I warned her to be more \ncareful from now on.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Underling",
+      "text": "\"Pokke-san, please help us! The team we \nbeat earlier is picking a fight with \nus...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "—Tell me the location, I'm heading over \nnow. Don't let them do anything stupid \nbefore I get there, got it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "*pant, pant*... My bad!!",
+      "choice_data_list": [
+        "For now, I'm just glad you're safe. You \nreally had me worried."
+      ]
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "I'm truly sorry... I promise I'll make \nthis up to you.",
+      "choice_data_list": [
+        "I'm just glad you're safe. You had me worried."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Jungle Pocket apologized for skipping \ntraining without notice. Seeing her \ngenuine remorse, I warned her to be more \ncareful from now on.",
+      "choice_data_list": []
+    }
+  ]
 }

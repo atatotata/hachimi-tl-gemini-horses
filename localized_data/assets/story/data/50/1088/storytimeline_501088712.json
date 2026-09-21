@@ -1,46 +1,46 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "Satono Crown didn't show up for training, \nso while searching around worriedly for \nher...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Satono Crown",
-            "text": "*Zzz*... *zzz*... ...Yes... I won... \ndidn't I...?",
-            "choice_data_list": [
-                "Thank goodness, so you were sleepi...",
-                "Thank goodness, you were sleeping ..."
-            ]
-        },
-        {
-            "name": "Satono Crown",
-            "text": "Ha!",
-            "choice_data_list": [
-                "Thank goodness, so you were sleepi...",
-                "What a relief, so you were sleepin..."
-            ]
-        },
-        {
-            "name": "Satono Crown",
-            "text": "...Wait, ...oh? Trainer, what are you \ndoing in my room...?",
-            "choice_data_list": []
-        },
-        {
-            "name": "Satono Crown",
-            "text": "I-I'm so sorry...! To think I slacked off \non training by dozing off!",
-            "choice_data_list": []
-        },
-        {
-            "name": "Satono Crown",
-            "text": "I've been playing card games with a\nfriend \noverseas recently. Because of the time \nzone difference, our start times always \nend up...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Satono Crown",
-            "text": "I am so very sorry!!",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Satono Crown didn't show up for training, \nso while searching around worriedly for \nher...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "*Zzz*... *zzz*... ...Yes... I won... \ndidn't I...?",
+      "choice_data_list": [
+        "Thank goodness, so you were sleeping \nhere...",
+        "Thank goodness, you were sleeping here..."
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Ha!",
+      "choice_data_list": [
+        "Thank goodness, so you were sleeping here...",
+        "What a relief, so you were sleeping here..."
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Wait, ...oh? Trainer, what are you \ndoing in my room...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I-I'm so sorry...! To think I slacked off \non training by dozing off!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I've been playing card games with a friend \noverseas recently. Because of the time \nzone difference, our start times always \nend up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I am so very sorry!!",
+      "choice_data_list": []
+    }
+  ]
 }

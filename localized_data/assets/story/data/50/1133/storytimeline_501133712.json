@@ -1,39 +1,39 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Chrono Genesis",
-            "text": "I-I am terribly sorry...!\nTo skip training \nwithout notice, I...",
-            "choice_data_list": [
-                "Did something urgent come up?",
-                "I wonder if something urgent came up?"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "No... the historical documents were about \nto overflow from the shelves, so I was \norganizing them... but I just can't seem \nto sort through them...",
-            "choice_data_list": [
-                "Did something urgent come up?",
-                "Did something urgent come up, I wo..."
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Yes... Fearing that getting rid of them \nwould break tradition, we haven't been \nable to come up with a clear \ncountermeasure...",
-            "choice_data_list": [
-                "For Chrono... yeah, that might ind...",
-                "For Chrono... yeah, that might be ..."
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Before I realized it, so much time had \npassed... I will be far more careful from \nnow on...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Narrator",
-            "text": "Seeing how downcast she looks, it seems \nshe's properly reflecting on what \nhappened. Let's have her give it her all \nagain starting tomorrow.",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Chrono Genesis",
+      "text": "I-I am terribly sorry...! To skip training \nwithout notice, I...",
+      "choice_data_list": [
+        "Did something urgent come up?",
+        "I wonder if something urgent came up?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "No... the historical documents were about \nto overflow from the shelves, so I was \norganizing them... but I just can't seem \nto sort through them...",
+      "choice_data_list": [
+        "Did something urgent come up?",
+        "Did something urgent come up, I wonder?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Yes... Fearing that getting rid of them \nwould break tradition, we haven't been \nable to come up with a clear \ncountermeasure...",
+      "choice_data_list": [
+        "For Chrono... yeah, that might indeed be tough.",
+        "For Chrono... yeah, that might be tough, huh."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Before I realized it, so much time had \npassed... I will be far more careful from \nnow on...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing how downcast she looks, it seems \nshe's properly reflecting on what \nhappened. Let's have her give it her all \nagain starting tomorrow.",
+      "choice_data_list": []
+    }
+  ]
 }

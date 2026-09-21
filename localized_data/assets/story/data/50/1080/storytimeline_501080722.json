@@ -1,39 +1,39 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "It happened while I was chatting with \nTranscend, as usual...",
-            "choice_data_list": []
-        },
-        {
-            "name": "Transcend",
-            "text": "I know, right? That album is an absolute \nmasterpiece. Especially those middle \ntracks, the rhythm goes like—",
-            "choice_data_list": []
-        },
-        {
-            "name": "Transcend",
-            "text": "……。",
-            "choice_data_list": []
-        },
-        {
-            "name": "Transcend",
-            "text": "...Ah. Crap. What kind of rhythm was it \nagain?",
-            "choice_data_list": [
-                "Since we're here, 'll bring the album!"
-            ]
-        },
-        {
-            "name": "Transcend",
-            "text": "Oh, nice. Have a good one~.",
-            "choice_data_list": [
-                "Since you're here, I'll go fetch t..."
-            ]
-        },
-        {
-            "name": "Transcend",
-            "text": "Haaah... Mr. Headache Medicine... Please \ndon't lose to the barometric pressure~",
-            "choice_data_list": []
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened while I was chatting with \nTranscend, as usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I know, right? That album is an absolute \nmasterpiece. Especially those middle \ntracks, the rhythm goes like—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "...Ah. Crap. What kind of rhythm was it \nagain?",
+      "choice_data_list": [
+        "Since we're here, I'll bring the album!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, nice. Have a good one~.",
+      "choice_data_list": [
+        "Since you're here, I'll go fetch the photo album."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Haaah... Mr. Headache Medicine... Please \ndon't lose to the barometric pressure~",
+      "choice_data_list": []
+    }
+  ]
 }
