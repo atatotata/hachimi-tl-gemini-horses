@@ -76,6 +76,12 @@
       "choice_data_list": [
         "...We're in Hokkaido, you know.",
         "...We're in Hokkaido, remember."
+      ],
+      "color_text_info_list": [
+        {
+          "text": "Elm Stakes",
+          "font_color": 30
+        }
       ]
     },
     {
@@ -147,7 +153,13 @@
     },
     {
       "name": "Umamusume A",
-      "text": "I wanted to win! But I didn't even make\nit to the\ncenter stage! I'm a <i>loser!</i>"
+      "text": "I wanted to win! But I didn't even make\nit to the\ncenter stage! I'm a <i>loser!</i>",
+      "color_text_info_list": [
+        {
+          "text": "GI",
+          "font_color": 30
+        }
+      ]
     },
     {
       "name": "Umamusume A",
