@@ -57,6 +57,10 @@
       "name": "Narrator",
       "text": "I escorted her as she was completely \nexhausted, and together we headed toward \nthe podium.",
       "choice_data_list": [
+        "おめでとう、<chrname>……！",
+        "お祝い申し上げます<chrname>様！"
+      ],
+      "choice_data_list_en": [
         "Congratulations, <chrname>...!",
         "Heartiest congratulations, Lady <chrname>!"
       ]
@@ -117,6 +121,9 @@
       "name": "Narrator",
       "text": "—The romance hasn't ended yet.",
       "choice_data_list": [
+        "（彼女が望むなら、連覇の栄誉を）"
+      ],
+      "choice_data_list_en": [
         "(If that's what she wishes, then back-to-back glory will be hers.)"
       ]
     },

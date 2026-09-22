@@ -105,6 +105,12 @@
       "name": "Monologue",
       "text": "She looks a little worn down. I decide to\ncheck in\non her.",
       "choice_data_list": [
+        "ちゃんと息抜きはしてるのか？",
+        "ちゃんと息抜きはしてる？",
+        "無理してないか？",
+        "無理してない？"
+      ],
+      "choice_data_list_en": [
         "Are you taking time to unwind?",
         "Are you making sure to unwind?",
         "You aren't pushing yourself too hard, are you?",
@@ -115,6 +121,12 @@
       "name": "Grass Wonder",
       "text": "Oh, hello there. I suppose you heard me\nthinking\naloud.",
       "choice_data_list": [
+        "ちゃんと息抜きはしてるのか？",
+        "ちゃんと息抜きはしてる？",
+        "無理してないか？",
+        "無理してない？"
+      ],
+      "choice_data_list_en": [
         "Are you taking time to unwind?",
         "Are you making sure to unwind?",
         "You aren't pushing yourself too hard, are you?",
@@ -133,6 +145,9 @@
       "name": "Grass Wonder",
       "text": "Ah, sorry about that. I was merely\ntalking to\nmyself.",
       "choice_data_list": [
+        "伸び悩み？"
+      ],
+      "choice_data_list_en": [
         "Hitting a plateau?"
       ]
     },
