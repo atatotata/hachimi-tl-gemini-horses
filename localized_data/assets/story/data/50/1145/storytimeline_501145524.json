@@ -93,6 +93,10 @@
       "name": "Rulership",
       "text": "Yeah. Today we're playing Reversi— except \nwith special rules: a 2-on-2 team battle.",
       "choice_data_list": [
+        "今回はこの4人で遊ぶんだな",
+        "今回はこの4人で遊ぶんだね"
+      ],
+      "choice_data_list_en": [
         "So the four of us are hanging out this time, huh.",
         "So the four of us are hanging out this time, then."
       ]
@@ -109,6 +113,10 @@
       "name": "Rulership",
       "text": "Me and Trainer, Alv and Duramente. Good to \nhave you with me, partner.",
       "choice_data_list": [
+        "なるほどな。それで、チーム分けは？",
+        "なるほどね。それで、チーム分けは？"
+      ],
+      "choice_data_list_en": [
         "I see. So, how are the teams divided?",
         "I see. So, how are the teams split up?"
       ]
@@ -130,6 +138,10 @@
       "name": "Rulership",
       "text": "Hmm... In that case, I will place mine \nhere.",
       "choice_data_list": [
+        "（早めに隅を取りたいのか？それとも）",
+        "（早めに隅を取りたいのかな？それとも）"
+      ],
+      "choice_data_list_en": [
         "(Does she want to take a corner early? Or...)",
         "(Does she want to take a corner early? Or maybe...)"
       ]
@@ -150,6 +162,9 @@
       "name": "Narrator",
       "text": "\"Then it seems fine to leave that alone \nfor now. What we must do now is—keep \nAdmire Groove in check. I have to feed my \npartner as much intel on the enemy as \npossible.\"",
       "choice_data_list": [
+        "（基本に忠実、手堅く攻めるタイプか）"
+      ],
+      "choice_data_list_en": [
         "(Faithful to the basics, the type to make solid, calculated moves, huh.)"
       ]
     },
@@ -157,6 +172,9 @@
       "name": "Rulership",
       "text": "...Heh.",
       "choice_data_list": [
+        "（まずは動線を塞いで、どう出るかを見る）"
+      ],
+      "choice_data_list_en": [
         "(First, I'll block her path and see what she does.)"
       ]
     },
@@ -196,6 +214,9 @@
       "name": "Duramente",
       "text": "Guh...!!",
       "choice_data_list": [
+        "（噛み合わなさは、陣営の綻びになる）"
+      ],
+      "choice_data_list_en": [
         "(A lack of coordination can cause cracks in the team.)"
       ]
     },
@@ -256,6 +277,10 @@
       "name": "Admire Groove",
       "text": "Duramente-san, go ahead.",
       "choice_data_list": [
+        "（これはいい勝負になりそうだ）",
+        "（これはいい勝負になりそう）"
+      ],
+      "choice_data_list_en": [
         "(This looks like it'll be a great match.)",
         "(This looks like it'll be a great match.)"
       ]
@@ -278,6 +303,11 @@
       "name": "Rulership",
       "text": "\"It's finally endgame! —Let us awaken the \nsleeping lion!\"",
       "choice_data_list": [
+        "（寝かせていた策を……！）",
+        "（勝負をかけよう！）",
+        "（これ、詰んでる……？）"
+      ],
+      "choice_data_list_en": [
         "(Unleashing the strategy she'd kept in reserve...!)",
         "(Time to make our move!)",
         "(Is this... checkmate...?)"
@@ -294,6 +324,9 @@
       "name": "Rulership",
       "text": "Heheh, a total victory. It really feels \ngreat when a strategy goes off without a \nhitch.",
       "choice_data_list": [
+        "打てる場所を減らし、一気に畳みかける！"
+      ],
+      "choice_data_list_en": [
         "Cut down their striking angles and overwhelm them all at once!"
       ]
     },
@@ -383,6 +416,9 @@
       "name": "Rulership",
       "text": "\"To think you'd show such strong \ncoordination there. Ha, bring it on! I'll \ntake you on—\"",
       "choice_data_list": [
+        "え、そっちも……！？"
+      ],
+      "choice_data_list_en": [
         "Wait, that too...?!"
       ]
     },
@@ -507,6 +543,9 @@
       "name": "Rulership",
       "text": "Checkmate.",
       "choice_data_list": [
+        "（ああ、三手先が読めるが故に――）"
+      ],
+      "choice_data_list_en": [
         "(Ah, precisely because she can read three moves ahead—)"
       ]
     },

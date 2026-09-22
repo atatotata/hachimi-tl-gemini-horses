@@ -16,6 +16,9 @@
       "name": "Narrator",
       "text": "Since I'm replying anyway, I'll include an \nupdate on how well <chrname> is doing. I'm sure \nthey'll be happy to hear it.",
       "choice_data_list": [
+        "（……ありがたいな）"
+      ],
+      "choice_data_list_en": [
         "(...That's much appreciated.)"
       ]
     },
@@ -32,6 +35,11 @@
       "name": "Narrator",
       "text": "I reached out to <chrname> and brought up the idea \nabout the photos.",
       "choice_data_list": [
+        "<chrname>の写真を送る",
+        "トレーニングの様子を動画に撮る",
+        "ここは文字の力！文章で表現しよう"
+      ],
+      "choice_data_list_en": [
         "Send photos of <chrname>.",
         "Film the training session.",
         "Now for the power of the written word! Let's express it in writing."
