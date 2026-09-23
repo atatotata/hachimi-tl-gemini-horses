@@ -4,6 +4,13 @@
 
 # Only run if localize_dict.json is being committed
 if git diff --cached --name-only | grep -q "localized_data/localize_dict.json"; then
+        echo "Running literal-newline guard..."
+    python tools/master_translate/guard_literal_newlines.py
+    if [ $? -ne 0 ]; then
+        echo "ERROR: literal backslash-n in localize/story/home!"
+        echo "Run: python tools/master_translate/guard_literal_newlines.py --fix"
+        exit 1
+    fi
     echo "Running Error 102 key guard..."
     python tools/master_translate/guard_excluded_keys.py
     if [ $? -ne 0 ]; then
