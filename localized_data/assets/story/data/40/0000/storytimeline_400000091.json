@@ -7,14 +7,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Excuse me?\n\nTrainer\n<username>?\n\nAre you there?"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Oh, good. I was hoping to give this to\nyou in\nperson.",
+      "text": "Excuse me?\n\nTrainer\n<username>?\n\nAre you there?",
       "choice_data_list": [
         "Yes!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, good. I was hoping to give this to\nyou in\nperson."
     },
     {
       "name": "Reporter Otonashi",
@@ -22,7 +22,13 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "The <i>Twinkle Monthly Special Issue.</i>"
+      "text": "The <i>Twinkle Monthly Special Issue.</i>",
+      "color_text_info_list": [
+        {
+          "text": "Monthly Twinkle Extra Issue",
+          "font_color": 13
+        }
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -34,14 +40,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "So many things have happened."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "As a reporter, I feel very fortunate to\nhave been\nable to cover these three\nyears.",
+      "text": "So many things have happened.",
       "choice_data_list": [
         "I see..."
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "As a reporter, I feel very fortunate to\nhave been\nable to cover these three\nyears."
     },
     {
       "name": "Reporter Otonashi",
@@ -53,14 +59,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Have you seen the cover?"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes, take a look.",
+      "text": "Have you seen the cover?",
       "choice_data_list": [
         "Is that for the cover?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, take a look."
     },
     {
       "name": "Monologue",
@@ -80,14 +86,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "And that was the opinion of the editorial\n\ndepartment as well."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "We at Twinkle Monthly will continue\ncovering\n<chrname>'s\nexploits. And of course...",
+      "text": "And that was the opinion of the editorial\n\ndepartment as well.",
       "choice_data_list": [
         "Ms. Otonashi...!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "We at Twinkle Monthly will continue\ncovering\n<chrname>'s\nexploits. And of course..."
     },
     {
       "name": "Reporter Otonashi",
@@ -95,11 +101,7 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "After all the interviews I've done to\ndate, I'm\nconvinced you two are the light\nthat will guide\nthe racing world forward."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "…!",
+      "text": "After all the interviews I've done to\ndate, I'm\nconvinced you two are the light\nthat will guide\nthe racing world forward.",
       "choice_data_list": [
         "Yes! I'll make her shine too!",
         "Yes! I'll make her shine too!"
@@ -107,14 +109,18 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "That... Th-that's s-s-s..."
+      "text": "…!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Simply amazing!",
+      "text": "That... Th-that's s-s-s...",
       "choice_data_list": [
         "...Otonashi-san?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Simply amazing!"
     },
     {
       "name": "Reporter Otonashi",
@@ -138,14 +144,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "For this special edition, we tried\nsomething a\nlittle different."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Hehe, please flip towards the back.",
+      "text": "For this special edition, we tried\nsomething a\nlittle different.",
       "choice_data_list": [
         "What kind of project is it?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe, please flip towards the back."
     },
     {
       "name": "Monologue",
@@ -169,14 +175,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "This is pretty much the first time we've\ndevoted\nmultiple pages solely to letters\nfrom our readers."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Hehe! Please be sure to convey that\ngratitude to\nall the fans you see at races\nand concerts.",
+      "text": "This is pretty much the first time we've\ndevoted\nmultiple pages solely to letters\nfrom our readers.",
       "choice_data_list": [
         "Thank you very much...!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe! Please be sure to convey that\ngratitude to\nall the fans you see at races\nand concerts."
     },
     {
       "name": "Reporter Otonashi",
@@ -188,14 +194,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Could you please skip a few pages\nahead?"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes, take a look.",
+      "text": "Could you please skip a few pages\nahead?",
       "choice_data_list": [
         "The next page?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, take a look."
     },
     {
       "name": "Monologue",
@@ -215,14 +221,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I knew all our readers would be excited\nto see a\nspecial feature on you two."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Hehe. Of course, I'm no exception. I’m\nmore\nexcited than anyone to see your\nfuture exploits.",
+      "text": "I knew all our readers would be excited\nto see a\nspecial feature on you two.",
       "choice_data_list": [
         "Ms. Otonashi...!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe. Of course, I'm no exception. I’m\nmore\nexcited than anyone to see your\nfuture exploits."
     },
     {
       "name": "Monologue",
@@ -230,14 +236,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Have you looked at the right side of that\npage\nyet?"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes, take a look.",
+      "text": "Have you looked at the right side of that\npage\nyet?",
       "choice_data_list": [
         "The one on the far right?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, take a look."
     },
     {
       "name": "Monologue",
@@ -249,14 +255,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "\"I can't wait to see how far these two can\ngo!\"\n...And I meant every word."
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Hehe, I intend to continue covering the\npath you\nboth take from here on.",
+      "text": "\"I can't wait to see how far these two can\ngo!\"\n...And I meant every word.",
       "choice_data_list": [
         "Ms. Otonashi...!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe, I intend to continue covering the\npath you\nboth take from here on."
     },
     {
       "name": "Monologue",
