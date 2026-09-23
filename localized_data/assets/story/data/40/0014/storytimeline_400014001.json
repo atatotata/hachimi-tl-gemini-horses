@@ -98,7 +98,17 @@
     {
       "name": "Customer A",
       "text": "Thank you very much! ...Hm? \"123rd \nPerformance Starring T.M. Opera O. A Waltz \nof the Moonlight and the Overlord: With a \nTouch of Doto\"?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "T.M. Opera O",
+          "font_color": 29
+        },
+        {
+          "text": "Doto",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -125,6 +135,12 @@
       "choice_data_list": [
         "I-Is that supposed to be a selling point...?",
         "I-Is that really supposed to be a selling point...?"
+      ],
+      "color_text_info_list": [
+        {
+          "text": "Narita Top Road",
+          "font_color": 29
+        }
       ]
     },
     {
@@ -366,7 +382,17 @@
     {
       "name": "Narrator",
       "text": "And the one who appeared was Light Hello. \nA capable event producer who happened to \nbe a former student of Tracen Academy.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Light Hello",
+          "font_color": 29
+        },
+        {
+          "text": "Tracen Academy Student",
+          "font_color": 13
+        }
+      ]
     },
     {
       "name": "Light Hello",
@@ -386,7 +412,13 @@
     {
       "name": "Light Hello",
       "text": "\"Because there was so much passion behind \nit, it made me feel that way! ...Right, \nMs. Tazuna?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Tazuna",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -411,7 +443,13 @@
     {
       "name": "Light Hello",
       "text": "I call it the 'Ramen Jamboree'! At \nracecourses all across the country, we'll \nhave local, specialty ramen prepared and \nserved on the spot.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Ramen Jamboree",
+          "font_color": 13
+        }
+      ]
     },
     {
       "name": "Light Hello",

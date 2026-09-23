@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-23 -- Fix off-by-one choice/color alignment (JP choices regression)
+- Root cause: choice restoration wrote EN choices at raw bundle indices, but Hachimi/game look them up at repo indices (repo dropped the empty first bundle block) => 'choice data not found in dict' => game fell back to JP.
+- Moved 129 choice/color entries down by 1 index across 45 files (incl. Taiki Shuttle 'Must-Win Match' 501010514).
+- Filled 58 missing color_text_info_list spans from decrypted JP bundles across 32 files and translated 54 unique span strings (race/character names) via OmniRoute.
+- Verified: 0 JP choices / 0 JP color spans across all 70 touched files.
+
 ## 2026-09-23 -- Fix literal backslash-n rendering as text
 - Converted 10 localize_dict keys (incl. Character701042 factor-spec dialog) from literal \n to real newlines - these rendered as visible "\n\n" in game.
 - Converted 78 story/home timeline files (253 fields) with the same literal-\n defect.
