@@ -15,14 +15,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "And my time to shine is comin' up soon!\nI'm gonna\nput big smiles on everybody's\nfaces!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Heh-heh... I'll be runnin' in a pretty\nexciting race!",
+      "text": "And my time to shine is comin' up soon!\nI'm gonna\nput big smiles on everybody's\nfaces!",
       "choice_data_list": [
         "What are you going to do?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Heh-heh... I'll be runnin' in a pretty\nexciting race!"
     },
     {
       "name": "Taiki Shuttle",
@@ -42,14 +42,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Taiki Shuttle has had great results on\nboth turf\nand dirt. I'm looking forward to\nseeing how she\ndoes today."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hehe, I'm starting to understand how\nshe's made\nit this far.",
+      "text": "Taiki Shuttle has had great results on\nboth turf\nand dirt. I'm looking forward to\nseeing how she\ndoes today.",
       "choice_data_list": [
         "I won't lose in any race."
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hehe, I'm starting to understand how\nshe's made\nit this far."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -89,14 +89,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Don't tell me... Were those carrots\nbrought in\nfrom Aichi?!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "They're carrots of fable, laden with\n\nsugar—supposedly sweeter than\nwatermelons...",
+      "text": "Don't tell me... Were those carrots\nbrought in\nfrom Aichi?!",
       "choice_data_list": [
         "What is that?!"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "They're carrots of fable, laden with\n\nsugar—supposedly sweeter than\nwatermelons..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -108,7 +108,13 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm not a hundred percent sure what's\ngoing on,\nbut judging by Tazuna's\nreaction, finishing the\ncarrots is likely no\neasy feat."
+      "text": "I'm not a hundred percent sure what's\ngoing on,\nbut judging by Tazuna's\nreaction, finishing the\ncarrots is likely no\neasy feat.",
+      "color_text_info_list": [
+        {
+          "text": "Tazuna",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Monologue",
@@ -136,7 +142,13 @@
     },
     {
       "name": "Boy B",
-      "text": "Go, Taiki! Keep running!"
+      "text": "Go, Taiki! Keep running!",
+      "color_text_info_list": [
+        {
+          "text": "Taiki",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Taiki Shuttle",

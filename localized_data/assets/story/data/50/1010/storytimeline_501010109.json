@@ -3,18 +3,24 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Tis the season, and the students of\nTracen\nAcademy are in high spirits..."
+      "text": "Tis the season, and the students of\nTracen\nAcademy are in high spirits...",
+      "color_text_info_list": [
+        {
+          "text": "Tracen Academy",
+          "font_color": 13
+        }
+      ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Trainer, ya gotta help me!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "I'll explain later! For now, we gotta get\nmovin'!",
+      "text": "Trainer, ya gotta help me!",
       "choice_data_list": [
         "What is it?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I'll explain later! For now, we gotta get\nmovin'!"
     },
     {
       "name": "",
@@ -38,14 +44,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Well... there's no helpin' it now. I'll allow\nit just\nthis once, so please give us a\nhand!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Since it's the holidays and all, we're\ngonna throw\na surprise party for\neverybody in the dorm!",
+      "text": "Well... there's no helpin' it now. I'll allow\nit just\nthis once, so please give us a\nhand!",
       "choice_data_list": [
         "What does this mean...?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Since it's the holidays and all, we're\ngonna throw\na surprise party for\neverybody in the dorm!"
     },
     {
       "name": "Hishi Amazon",
@@ -65,14 +71,14 @@
     },
     {
       "name": "",
-      "text": "Considering Taiki's desire to make\neveryone\nhappy, this is just the sort of\nthing I'd expect her\nto get mixed up in."
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Yahoo! Thanks a million, Trainer!",
+      "text": "Considering Taiki's desire to make\neveryone\nhappy, this is just the sort of\nthing I'd expect her\nto get mixed up in.",
       "choice_data_list": [
         "I'll help."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yahoo! Thanks a million, Trainer!"
     },
     {
       "name": "Taiki Shuttle",
@@ -84,7 +90,13 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Thank you for putting together such a\nwonderful\nparty, Taiki."
+      "text": "Thank you for putting together such a\nwonderful\nparty, Taiki.",
+      "color_text_info_list": [
+        {
+          "text": "Taiki",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -108,14 +120,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "I'd say that was a rip-roarin' success!\nAin't no\ngreater joy than seein'\neverybody happy!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Me too! And it's all thanks to you,\nTrainer!",
+      "text": "I'd say that was a rip-roarin' success!\nAin't no\ngreater joy than seein'\neverybody happy!",
       "choice_data_list": [
         "I'm glad everyone was so pleased."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Me too! And it's all thanks to you,\nTrainer!"
     },
     {
       "name": "Taiki Shuttle",
@@ -155,14 +167,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "This'll make ya happy for sure! So dig in!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "My pleasure! If you're happy, I'm happy!",
+      "text": "This'll make ya happy for sure! So dig in!",
       "choice_data_list": [
         "Thanks!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "My pleasure! If you're happy, I'm happy!"
     },
     {
       "name": "Taiki Shuttle",

@@ -14,7 +14,17 @@
     {
       "name": "Monologue",
       "text": "Taiki Shuttle decides to enter the NHK \nMile Cup, the race to crown the \nClassic-class mile champion.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Junior Class",
+          "font_color": 30
+        },
+        {
+          "text": "NHK Mile Cup",
+          "font_color": 30
+        }
+      ]
     }
   ]
 }

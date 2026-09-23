@@ -128,7 +128,13 @@
     {
       "name": "Narita Top Road",
       "text": "You're amazing, Fine-chan! To achieve all \nthis with five hours of training every \nday...!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Fine",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Fine Motion",
