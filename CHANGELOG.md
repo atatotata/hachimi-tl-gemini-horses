@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-23 -- Fix literal backslash-n rendering as text
+- Converted 10 localize_dict keys (incl. Character701042 factor-spec dialog) from literal \n to real newlines - these rendered as visible "\n\n" in game.
+- Converted 78 story/home timeline files (253 fields) with the same literal-\n defect.
+- Left text_data_dict/cst/race_jikkyo/lyrics untouched: game-master files intentionally use literal \n (JP/Global master format, game converts at render).
+- Added tools/master_translate/guard_literal_newlines.py (check + --fix) and wired into pre-commit hook.
+
 ## 2026-09-23 -- Global sweep + last JP gaps closed
 - Wider Global bundle sweep: paddock/announce/gacha/banner/tutorial buckets checked (Texture2D-only or no-dat; no adoptable text).
 - Translated the last fully-JP home timeline (Matikanetanhoisa birthday, 22 strings) via OmniRoute.
