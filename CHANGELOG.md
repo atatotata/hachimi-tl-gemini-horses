@@ -7,13 +7,6 @@
 - Guarded sync_global.py against empty Global text rows (prevents blanking good EN).
 - Repo-wide real-JP rescan: 0 remaining (2 intentional glosses: kaomoji EN, nukabed term).
 
-## 2026-09-23 -- Global sweep + last JP gaps closed
-- Wider Global bundle sweep: paddock/announce/gacha/banner/tutorial buckets checked (Texture2D-only or no-dat; no adoptable text).
-- Translated the last fully-JP home timeline (Matikanetanhoisa birthday, 22 strings) via OmniRoute.
-- Added 14 color_text_info_list spans to story 50/1087 raffle (Hot Spring Voucher, Tracen Academy, itemname highlights) from decrypted JP bundle.
-- Guarded sync_global.py against empty Global text rows (prevents blanking good EN).
-- Repo-wide real-JP rescan: 0 remaining (2 intentional glosses: kaomoji EN, nukabed term).
-
 ## 2026-09-19 -- Deep story & choices sweep (100% complete)
 - Restored 72,668 missing event choice options directly from decrypted JP asset bundles across 8,176 story timelines.
 - Translated 78,967 unique Japanese strings (dialogue lines, choice buttons, speaker names) via OmniRoute.
