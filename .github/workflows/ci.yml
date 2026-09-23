@@ -18,6 +18,9 @@ jobs:
       
       - name: Install dependencies
         run: pip install blake3
+
+      - name: Guard literal backslash-n (localize/story/home)
+        run: python tools/master_translate/guard_literal_newlines.py
       
       - name: Validate index.json
         run: |
