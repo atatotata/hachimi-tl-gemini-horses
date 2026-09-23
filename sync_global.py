@@ -27,15 +27,16 @@ def load_global_tables(global_master: Path):
     cur = db.cursor()
     # text_data: (category, index) -> text
     cur.execute('SELECT category, "index", text FROM text_data')
-    g_text = {(r[0], r[1]): r[2] for r in cur.fetchall()}
+    # Skip empty/NULL: Global uses "" for not-yet-localized rows; never blank good local EN
+    g_text = {(r[0], r[1]): r[2] for r in cur.fetchall() if r[2]}
     # character_system_text: (character_id, voice_id) -> text
     cur.execute("SELECT character_id, voice_id, text FROM character_system_text")
-    g_cst = {(r[0], r[1]): r[2] for r in cur.fetchall()}
+    g_cst = {(r[0], r[1]): r[2] for r in cur.fetchall() if r[2]}
     # race jikkyo
     cur.execute("SELECT id, message FROM race_jikkyo_message")
-    g_rjm = {r[0]: r[1] for r in cur.fetchall()}
+    g_rjm = {r[0]: r[1] for r in cur.fetchall() if r[1]}
     cur.execute("SELECT id, message FROM race_jikkyo_comment")
-    g_rjc = {r[0]: r[1] for r in cur.fetchall()}
+    g_rjc = {r[0]: r[1] for r in cur.fetchall() if r[1]}
     db.close()
     return g_text, g_cst, g_rjm, g_rjc
 
@@ -77,6 +78,8 @@ def main():
                 if cat == 48:
                     skipped_sd += 1
                     continue
+                if not en:
+                    continue  # Global empty = not localized; never blank local text
                 if ck in d and ik in d[ck]:
                     if d[ck][ik] != en:
                         if not args.dry_run:
@@ -105,6 +108,8 @@ def main():
             repl = 0
             for (cid, vid), en in g_cst.items():
                 ck, vk = str(cid), str(vid)
+                if not en:
+                    continue
                 if ck in d and vk in d[ck] and d[ck][vk] != en:
                     if not args.dry_run:
                         d[ck][vk] = en
@@ -124,6 +129,8 @@ def main():
             d = json.loads(p.read_text(encoding="utf-8"))
             repl = 0
             for gid, en in gmap.items():
+                if not en:
+                    continue
                 k = str(gid)
                 if k in d and d[k] != en:
                     if not args.dry_run:
