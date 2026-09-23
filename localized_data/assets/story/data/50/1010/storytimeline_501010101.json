@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
-      "text": "Happy New Year!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Thanks! New Year's in Japan is awful fun!",
+      "text": "Happy New Year!",
       "choice_data_list": [
         "Happy New Year!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Thanks! New Year's in Japan is awful fun!"
     },
     {
       "name": "Taiki Shuttle",
@@ -22,13 +22,19 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Say, Trainer! Know any other fun things I\ncould\ndo?"
+      "text": "Say, Trainer! Know any other fun things I\ncould\ndo?",
+      "choice_data_list": [
+        "How about setting a New Year's resolution?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
       "text": "Oh, good idea! Grass was just sayin' that\ntoo!",
-      "choice_data_list": [
-        "How about setting a New Year's resolution?"
+      "color_text_info_list": [
+        {
+          "text": "Grass Wonder",
+          "font_color": 29
+        }
       ]
     },
     {
@@ -37,15 +43,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "What do you wanna do, Trainer?\nBecome a\nmillionaire?"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Whoa! You're tellin' me we can make\nboth our\ndreams come true at the same\ntime?!",
+      "text": "What do you wanna do, Trainer?\nBecome a\nmillionaire?",
       "choice_data_list": [
         "I'll make sure you seize your dream.",
         "I'll make sure you seize your dream."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Whoa! You're tellin' me we can make\nboth our\ndreams come true at the same\ntime?!"
     },
     {
       "name": "Taiki Shuttle",
@@ -65,16 +71,16 @@
     },
     {
       "name": "Monologue",
-      "text": "I wasn't expecting to be thrown in the\ndeep end.\nIf we're going to make Taiki\nShuttle the next\nUmamusume of the\nYear..."
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Increasin' my speed? Oh, I know a thing\nor two\nabout that! Call it my specialty!",
+      "text": "I wasn't expecting to be thrown in the\ndeep end.\nIf we're going to make Taiki\nShuttle the next\nUmamusume of the\nYear...",
       "choice_data_list": [
         "Let's work on increasing your speed.",
         "When it's time to rest, make sure to rest properly.",
         "Let's keep honing that weapon of yours."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Increasin' my speed? Oh, I know a thing\nor two\nabout that! Call it my specialty!"
     },
     {
       "name": "Taiki Shuttle",

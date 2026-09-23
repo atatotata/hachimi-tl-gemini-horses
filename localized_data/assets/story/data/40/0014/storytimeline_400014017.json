@@ -39,7 +39,13 @@
     {
       "name": "Light Hello",
       "text": "I call it— 'Super Ramen Jamboree: \nZenith'!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Super Ramen Jamboree: Extreme",
+          "font_color": 13
+        }
+      ]
     },
     {
       "name": "Everyone",
@@ -154,7 +160,13 @@
     {
       "name": "Kokura Butcher",
       "text": "Nei-chan! That ramen was super tasty! It \nused Kokura specialties too... It was just \noverflowing with local love! It was the \nbest!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        {
+          "text": "Nice Nature",
+          "font_color": 29
+        }
+      ]
     },
     {
       "name": "Nice Nature",
