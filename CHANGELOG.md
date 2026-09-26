@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-26 -- Drop Error 102 keys from localize_dict
+- Removed the 13 `SingleMode418025`-`SingleMode418037` keys that the CI guard rejects (they trigger in-game "Error 102"). These were re-introduced by the localize backfill; `localized_data/localize_dict.json` is now 9,762 keys.
+- Repo and Hachimi mirror kept byte-identical. index.json regenerated.
+
 ## 2026-09-26 -- Backfill 1,795 missing localize keys
 - Added the 1,795 game localize keys present in the game's localize dump (9,748 keys) but absent from `localized_data/localize_dict.json` (was 7,980 keys, now 9,775), so in-game UI strings that were falling back to Japanese now resolve.
 - Translated ~1,290 Japanese values via the master.mdb JP->EN map + OmniRoute (batched, checkpointed), preserving `\n`, `<color=#RRGGBB>...</color>`, `<atlas=.../>` and `{0}` placeholders; 505 format-only/placeholder values kept verbatim; 15 reused from upstream UmaTL EN.
