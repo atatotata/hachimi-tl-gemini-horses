@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-26 -- Backfill 1,795 missing localize keys
+- Added the 1,795 game localize keys present in the game's localize dump (9,748 keys) but absent from `localized_data/localize_dict.json` (was 7,980 keys, now 9,775), so in-game UI strings that were falling back to Japanese now resolve.
+- Translated ~1,290 Japanese values via the master.mdb JP->EN map + OmniRoute (batched, checkpointed), preserving `\n`, `<color=#RRGGBB>...</color>`, `<atlas=.../>` and `{0}` placeholders; 505 format-only/placeholder values kept verbatim; 15 reused from upstream UmaTL EN.
+- Verified: 0 untranslated Japanese values remain; repo and Hachimi mirror byte-identical. index.json regenerated.
+
 ## 2026-09-26 -- Fix Hachimi story parse errors & rebuild choice/color placement
 - Fixed 90 story files whose `color_text_info_list` used object entries (`{text,font_color}` / `{Text,FontColor}`) instead of Hachimi's required plain string array; Hachimi rejected the whole file (`invalid type: map, expected a string`) and fell back to Japanese.
 - Rebuilt `choice_data_list` / `color_text_info_list` placement from the game bundles for 54 story files (each array placed at repo block index = bundle block - 1; the prior fix had duplicated/misaligned entries), translating all values to English (357 JP choices, 25 JP color spans) via the master.mdb JP->EN map plus OmniRoute for the 22 stragglers.
