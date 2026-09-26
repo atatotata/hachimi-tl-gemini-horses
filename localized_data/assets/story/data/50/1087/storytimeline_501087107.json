@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Aston Machan's performance in the\nSprinters\nStakes has left a lasting\nimpression in the minds\nof many viewers."
-    },
-    {
-      "name": "Monologue",
-      "text": "With that hope in mind, I get to work\ndrafting\nanother email requesting that\nAston Machan be\nmade an official\nmascot.",
+      "text": "Aston Machan's performance in the\nSprinters\nStakes has left a lasting\nimpression in the minds\nof many viewers.",
       "choice_data_list": [
         "(If this helps boost their chances of becoming an official mascot...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "With that hope in mind, I get to work\ndrafting\nanother email requesting that\nAston Machan be\nmade an official\nmascot."
     },
     {
       "name": "Director Akikawa",
@@ -22,25 +22,28 @@
     },
     {
       "name": "Monologue",
-      "text": "With no idea as to what's going on, I'm\nhanded\nsome beautifully wrapped\nchocolates."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "It's simple! This year, Tazuna and I are\nhanding\nout chocolate to all members of\nstaff as a sign of\nour appreciation!",
+      "text": "With no idea as to what's going on, I'm\nhanded\nsome beautifully wrapped\nchocolates.",
       "choice_data_list": [
         "Wh-What's gotten into you so suddenly?"
       ]
     },
     {
       "name": "Director Akikawa",
-      "text": "Especially for you! I know you've been\nworking\nwith Aston Machan, so I'm sure\nyour hands are\nvery full!"
+      "text": "It's simple! This year, Tazuna and I are\nhanding\nout chocolate to all members of\nstaff as a sign of\nour appreciation!",
+      "color_text_info_list": [
+        "Tazuna"
+      ]
     },
     {
       "name": "Director Akikawa",
-      "text": "Not only have you been working hard on\nthe daily\nin preparation for races, but\nyou've also worked\nhard to put Aston\nMachan in the spotlight!",
+      "text": "Especially for you! I know you've been\nworking\nwith Aston Machan, so I'm sure\nyour hands are\nvery full!",
       "choice_data_list": [
-        "！"
+        "!"
       ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Not only have you been working hard on\nthe daily\nin preparation for races, but\nyou've also worked\nhard to put Aston\nMachan in the spotlight!"
     },
     {
       "name": "Director Akikawa",
@@ -56,14 +59,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Director Akikawa whirls off like a\nhurricane. While\nI'm pleased to have\nreceived such praise and\nappreciation..."
+      "text": "Director Akikawa whirls off like a\nhurricane. While\nI'm pleased to have\nreceived such praise and\nappreciation...",
+      "choice_data_list": [
+        "So today was Valentine's Day..."
+      ],
+      "color_text_info_list": [
+        "Director Akikawa"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "It might be a nice idea to find some\nchocolates of\nmy own for Aston Machan.\nBut just as this\nthought occurs to me...",
-      "choice_data_list": [
-        "So today was Valentine's Day..."
-      ]
+      "text": "It might be a nice idea to find some\nchocolates of\nmy own for Aston Machan.\nBut just as this\nthought occurs to me..."
     },
     {
       "name": "Aston Machan",
@@ -75,14 +81,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "I got less chocolate from my friends than\nlast\nValentine's Day..."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "Everyone forgets about me until they\nsee me\nstanding there.",
+      "text": "I got less chocolate from my friends than\nlast\nValentine's Day...",
       "choice_data_list": [
         "I-I see..."
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Everyone forgets about me until they\nsee me\nstanding there."
     },
     {
       "name": "Aston Machan",
@@ -98,14 +104,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Trainer."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "I'm going to make my presence stronger.\nAnd to\ndo that, I need people to see\nme—to see Aston\nMachan.",
+      "text": "Trainer.",
       "choice_data_list": [
         "Yes!"
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I'm going to make my presence stronger.\nAnd to\ndo that, I need people to see\nme—to see Aston\nMachan."
     },
     {
       "name": "Aston Machan",
@@ -133,14 +139,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Hello there. My name's Aston Machan.\nHave a\ngreat day!"
-    },
-    {
-      "name": "Umamusume A",
-      "text": "Hey, what's all this about?",
+      "text": "Hello there. My name's Aston Machan.\nHave a\ngreat day!",
       "choice_data_list": [
         "Looking forward to working with ya~"
       ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, what's all this about?"
     },
     {
       "name": "Umamusume B",
@@ -184,14 +190,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "...Hehe. I wonder if you'll be able to\nbring yourself\nto eat it."
-    },
-    {
-      "name": "Monologue",
-      "text": "I take the Aston Machan chocolate\nhome, being\ncareful not to damage it on\nthe way.",
+      "text": "...Hehe. I wonder if you'll be able to\nbring yourself\nto eat it.",
       "choice_data_list": [
         "That... might be true."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I take the Aston Machan chocolate\nhome, being\ncareful not to damage it on\nthe way."
     },
     {
       "name": "Aston Machan",
@@ -199,21 +205,21 @@
     },
     {
       "name": "Monologue",
-      "text": "The chocolates are carefully wrapped. It\nlooks\nlike a lot of effort went into\npreparing them."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "...So, I've actually hidden a surprise in\nthere.",
+      "text": "The chocolates are carefully wrapped. It\nlooks\nlike a lot of effort went into\npreparing them.",
       "choice_data_list": [
         "Oh, thank you!"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "Yes. You'll find out what it is when you\neat them.\nEnjoy them in your office,\nokay?",
+      "text": "...So, I've actually hidden a surprise in\nthere.",
       "choice_data_list": [
         "A secret?"
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Yes. You'll find out what it is when you\neat them.\nEnjoy them in your office,\nokay?"
     },
     {
       "name": "Aston Machan",
