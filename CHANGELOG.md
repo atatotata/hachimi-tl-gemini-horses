@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-25 -- Rose Kingdom (1144) color spans translated
+- Translated 67 unique Japanese color_text_info_list strings (78 spans across 34 files) in the Rose Kingdom arc (assets/story/data/50/1144) - race names, character names and racing terms (Japanese Derby, Satsuki Sho, Tracen Academy, Rose Clan, Umasta/Umatok/etc.).
+- Reused authoritative master.mdb JP->EN for 48 strings, translated the remaining 19 via OmniRoute, and matched every span to the exact highlighted substring in the already-English block text.
+- Verified: 0 genuine Japanese color spans remain in 1144. index.json regenerated (34 entries).
+
 ## 2026-09-23 -- Fix off-by-one choice/color alignment (JP choices regression)
 - Root cause: choice restoration wrote EN choices at raw bundle indices, but Hachimi/game look them up at repo indices (repo dropped the empty first bundle block) => 'choice data not found in dict' => game fell back to JP.
 - Moved 129 choice/color entries down by 1 index across 45 files (incl. Taiki Shuttle 'Must-Win Match' 501010514).
