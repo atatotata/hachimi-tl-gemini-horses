@@ -7,14 +7,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It looks like traffic peaked during the\nOka Sho.\nThe numbers have been\ngradually falling since,\nbut they're still\nhigher than when we first\nlaunched."
-    },
-    {
-      "name": "Monologue",
-      "text": "My motivation reinvigorated, I head off\nto our\ntraining session in high spirits. On\nmy way,\nthough...",
+      "text": "It looks like traffic peaked during the\nOka Sho.\nThe numbers have been\ngradually falling since,\nbut they're still\nhigher than when we first\nlaunched.",
       "choice_data_list": [
         "(Alright, let's keep this momentum going!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "My motivation reinvigorated, I head off\nto our\ntraining session in high spirits. On\nmy way,\nthough..."
     },
     {
       "name": "Hishi Amazon",
@@ -22,7 +22,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I find Aston Machan being treated to a\nmeal by\nHishi Amazon, the kind and\ncaring Miho dorm\nleader."
+      "text": "I find Aston Machan being treated to a\nmeal by\nHishi Amazon, the kind and\ncaring Miho dorm\nleader.",
+      "color_text_info_list": [
+        "Hishi Amazon"
+      ]
     },
     {
       "name": "Aston Machan",
@@ -30,7 +33,10 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Thank you, Hishiama."
+      "text": "Thank you, Hishiama.",
+      "color_text_info_list": [
+        "Hishiama"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -42,14 +48,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "But I ran just fine yesterday, even on an\nempty\nstomach."
+      "text": "But I ran just fine yesterday, even on an\nempty\nstomach.",
+      "choice_data_list": [
+        "(!?)"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "She hadn't eaten anything?! ...I feel\nweak all of a\nsudden.",
-      "choice_data_list": [
-        "（！？）"
-      ]
+      "text": "She hadn't eaten anything?! ...I feel\nweak all of a\nsudden."
     },
     {
       "name": "Aston Machan",
@@ -61,21 +67,24 @@
     },
     {
       "name": "Monologue",
-      "text": "I didn't even notice that Aston Machan\nhad lost\nher appetite. If Hishi Amazon\nhadn't said\nanything, who knows what\ncould've happened."
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "...Wait, hold on. So Machan didn't tell\nyou she\nwas feeling fatigued from the\nheat?",
+      "text": "I didn't even notice that Aston Machan\nhad lost\nher appetite. If Hishi Amazon\nhadn't said\nanything, who knows what\ncould've happened.",
       "choice_data_list": [
         "I'm sorry for falling short and causing you trouble..."
       ]
     },
     {
-      "name": "Aston Machan",
-      "text": "You should've realized? ...I wonder.",
+      "name": "Hishi Amazon",
+      "text": "...Wait, hold on. So Machan didn't tell\nyou she\nwas feeling fatigued from the\nheat?",
       "choice_data_list": [
         "That may be so, but I still should have noticed."
+      ],
+      "color_text_info_list": [
+        "Machan"
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "You should've realized? ...I wonder."
     },
     {
       "name": "Hishi Amazon",
@@ -115,7 +124,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "The whole reason your trainer's there is\nto help\nyou deal with any problems you\nmight face during\nthe Twinkle Series."
+      "text": "The whole reason your trainer's there is\nto help\nyou deal with any problems you\nmight face during\nthe Twinkle Series.",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -243,14 +255,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Would you like to go somewhere today?\nWe\ncould go to the beach or the\nmountains."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "There's something I need to know. So,\nfirst of all,\nwhich would you prefer?",
+      "text": "Would you like to go somewhere today?\nWe\ncould go to the beach or the\nmountains.",
       "choice_data_list": [
         "What brought this on all of a sudden?"
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "There's something I need to know. So,\nfirst of all,\nwhich would you prefer?"
     },
     {
       "name": "Aston Machan",
@@ -262,15 +274,15 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm not sure where this is coming from...\nbut I <i>am</i>\nstuck for ideas for our next\nfour-panel comic right\nnow. So I\nsuppose..."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "So you'd like to go the mountains, then.\nOkay,\nlet's get going.",
+      "text": "I'm not sure where this is coming from...\nbut I <i>am</i>\nstuck for ideas for our next\nfour-panel comic right\nnow. So I\nsuppose...",
       "choice_data_list": [
         "Head to the mountains to find a powerful stag beetle.",
         "To the sea, to find a sea cucumber with guts."
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "So you'd like to go the mountains, then.\nOkay,\nlet's get going."
     },
     {
       "name": "Aston Machan",
@@ -318,14 +330,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "...What are you doing? Is that a diary?"
-    },
-    {
-      "name": "Aston Machan",
-      "text": "I see... So even on days off like today,\nyou have\nthe blog on your mind.",
+      "text": "...What are you doing? Is that a diary?",
       "choice_data_list": [
         "I was thinking of using it as material for a four-panel comic."
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I see... So even on days off like today,\nyou have\nthe blog on your mind."
     },
     {
       "name": "Aston Machan",

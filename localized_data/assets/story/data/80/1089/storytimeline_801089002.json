@@ -5,19 +5,12 @@
       "name": "Narrator",
       "text": "One day, I visited a \"quiet, secluded \nfishing spot\" featured in a magazine, \nbut――",
       "choice_data_list": [
-        "It's pretty crowded……"
-      ]
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "Uu... why...? There wasn't anyone here \njust a moment ago...",
-      "choice_data_list": [
         "It's really crowded..."
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "Eep……!? A-Are you…… an academy Trainer……?",
+      "text": "Uu... why...? There wasn't anyone here \njust a moment ago...",
       "choice_data_list": [
         "Did you come to fish too?",
         "Did you come to fish too?"
@@ -25,41 +18,39 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Um, well... It's not so much that I came \nhere to fish, more like I ended up \nfishing...",
-      "choice_data_list": []
+      "text": "Eep……!? A-Are you…… an academy Trainer……?"
     },
     {
       "name": "Cheval Grand",
-      "text": "I've been fishing here since this \nmorning…… There wasn't anyone else around \nbefore, but――",
-      "choice_data_list": []
+      "text": "Um, well... It's not so much that I came \nhere to fish, more like I ended up \nfishing..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I've been fishing here since this \nmorning…… There wasn't anyone else around \nbefore, but――"
     },
     {
       "name": "Anglers",
-      "text": "............",
-      "choice_data_list": []
+      "text": "............"
     },
     {
       "name": "Cheval Grand",
-      "text": "Ugh, what should I do... about this \nluggage?",
-      "choice_data_list": []
+      "text": "Ugh, what should I do... about this \nluggage?"
     },
     {
       "name": "Narrator",
-      "text": "At the end of their gaze sat some \nunattended luggage surrounded by anglers. \n...It most likely belonged to her.",
-      "choice_data_list": []
+      "text": "At the end of their gaze sat some \nunattended luggage surrounded by anglers. \n...It most likely belonged to her."
     },
     {
       "name": "Cheval Grand",
-      "text": "Diving into a giant crowd of total \nstrangers...? No way, absolutely not...",
-      "choice_data_list": []
+      "text": "Diving into a giant crowd of total \nstrangers...? No way, absolutely not..."
     },
     {
       "name": "Narrator",
       "text": "Cheval Grand stands completely at a loss. \nAt this rate, it looks like she'll keep \nstanding frozen until everyone leaves—",
       "choice_data_list": [
-        "I'll go grab it then.",
-        "I'll go grab it then.",
-        "Dig deep and go grab it! I'll come along!"
+        "Then I'll go get it.",
+        "Then I'll go get it.",
+        "Dig deep and go get it! I'm with you!"
       ]
     },
     {
@@ -73,48 +64,30 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Huh? A-Are you sure it's okay...?",
-      "choice_data_list": [
-        "Then I'll go get it.",
-        "Then I'll go get it.",
-        "Dig deep and go get it! I'm with you!"
-      ]
+      "text": "Huh? A-Are you sure it's okay...?"
     },
     {
       "name": "Cheval Grand",
-      "text": "Excuse me... um, I-I promise I'll repay \nyou properly...!",
-      "choice_data_list": []
+      "text": "Excuse me... um, I-I promise I'll repay \nyou properly...!"
     },
     {
       "name": "Cheval Grand",
-      "text": "Um, how do you like... this fishing \nspot...? It's my favorite... because \nnobody else is around...",
-      "choice_data_list": []
+      "text": "Um, how do you like... this fishing \nspot...? It's my favorite... because \nnobody else is around..."
     },
     {
       "name": "Cheval Grand",
       "text": "A thank-you for carrying the luggage... \nThis is about all I can manage, though...",
-      "choice_data_list": [
-        "I'm so glad, thank you!"
-      ]
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "Thank goodness... Ehehe.",
       "choice_data_list": [
         "I'm so happy, thank you!"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "Eeeh...?! B-But, well, isn't the bar set \nway too high...?",
-      "choice_data_list": [
-        "Just use my back as a shield and move \nforward.",
-        "You can push forward using my back as a \nshield."
-      ]
+      "text": "Thank goodness... Ehehe."
     },
     {
       "name": "Cheval Grand",
-      "text": "Uu... i-if that's the case...? Um, \nsorry... I'll take you up on that, then...",
+      "text": "Eeeh...?! B-But, well, isn't the bar set \nway too high...?",
       "choice_data_list": [
         "Just use my back as a shield and keep moving forward.",
         "Use my back as a shield and keep moving forward."
@@ -122,14 +95,14 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...*yawn*. Fishing really is best when \nthere are few people... and it's nice and \nquiet...",
+      "text": "Uu... i-if that's the case...? Um, \nsorry... I'll take you up on that, then...",
       "choice_data_list": [
         "Then let's go!"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "...Ehehe.",
+      "text": "...*yawn*. Fishing really is best when \nthere are few people... and it's nice and \nquiet...",
       "choice_data_list": [
         "I think so too.",
         "I think so too."
@@ -137,8 +110,11 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Nobody really comes here... So I can enjoy \nit... as much as I want...",
-      "choice_data_list": []
+      "text": "...Ehehe."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Nobody really comes here... So I can enjoy \nit... as much as I want..."
     }
   ]
 }

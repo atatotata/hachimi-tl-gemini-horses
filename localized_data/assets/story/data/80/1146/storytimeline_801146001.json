@@ -3,91 +3,70 @@
   "text_block_list": [
     {
       "name": "Classmate A",
-      "text": "――Efforia-san, are you done for the day? \nHey, hey, wanna go grab some ice cream \ntogether right now?",
-      "choice_data_list": []
+      "text": "――Efforia-san, are you done for the day? \nHey, hey, wanna go grab some ice cream \ntogether right now?"
     },
     {
       "name": "Efforia",
-      "text": "An invitation.",
-      "choice_data_list": []
+      "text": "An invitation."
     },
     {
       "name": "Efforia",
-      "text": "However, my instructor taught me that \n'consistency is power.'",
-      "choice_data_list": []
+      "text": "However, my instructor taught me that \n'consistency is power.'"
     },
     {
       "name": "Classmate B",
-      "text": "Eh~ But our drill instructor also said, \n\"Taking a break is part of training!\"",
-      "choice_data_list": []
+      "text": "Eh~ But our drill instructor also said, \n\"Taking a break is part of training!\""
     },
     {
       "name": "Efforia",
-      "text": "\"Resting is part of training, too\"...",
-      "choice_data_list": []
+      "text": "\"Resting is part of training, too\"..."
     },
     {
       "name": "Efforia",
-      "text": "—Understood. In that case, I shall \naccompany you.",
-      "choice_data_list": []
+      "text": "—Understood. In that case, I shall \naccompany you."
     },
     {
       "name": "Efforia",
-      "text": "... Which flavor should I choose for this \none?",
-      "choice_data_list": []
+      "text": "... Which flavor should I choose for this \none?"
     },
     {
       "name": "Classmate B",
-      "text": "Huh? Whatever flavor you like is fine, \nEfforia-san!",
-      "choice_data_list": []
+      "text": "Huh? Whatever flavor you like is fine, \nEfforia-san!"
     },
     {
       "name": "Efforia",
-      "text": "My favorite flavor……",
-      "choice_data_list": []
+      "text": "My favorite flavor……"
     },
     {
       "name": "Classmate A",
-      "text": "Since you just finished training, how \nabout blackcurrant? I think I saw in a \nvideo that the nutrients help with \nfatigue~.",
-      "choice_data_list": []
+      "text": "Since you just finished training, how \nabout blackcurrant? I think I saw in a \nvideo that the nutrients help with \nfatigue~."
     },
     {
       "name": "Efforia",
-      "text": "Well then, I shall go with that.",
-      "choice_data_list": []
+      "text": "Well then, I shall go with that."
     },
     {
       "name": "Classmate B",
-      "text": "Whoa, that was fast! There's a bunch of \nother delicious stuff too, you know?",
-      "choice_data_list": []
+      "text": "Whoa, that was fast! There's a bunch of \nother delicious stuff too, you know?"
     },
     {
       "name": "Efforia",
-      "text": "No, I'll go with this one. Since you said \nit would be the more beneficial choice.",
-      "choice_data_list": []
+      "text": "No, I'll go with this one. Since you said \nit would be the more beneficial choice."
     },
     {
       "name": "Efforia",
-      "text": "—Pardon me. Would you happen to know of \nany stores where I might purchase cassis \nice cream?",
-      "choice_data_list": []
+      "text": "—Pardon me. Would you happen to know of \nany stores where I might purchase cassis \nice cream?"
     },
     {
       "name": "",
       "text": "One day, Efforia, seemingly on a break \nfrom training, called out to me.",
-      "choice_data_list": [
-        "Ice cream? Cassis-flavored?"
-      ]
-    },
-    {
-      "name": "Efforia",
-      "text": "Yes. I wish to consume that in order to \nrecover from fatigue.",
       "choice_data_list": [
         "Ice cream? Blackcurrant?"
       ]
     },
     {
       "name": "Efforia",
-      "text": "Does consuming things you \"like\" actually \naid in recovering from fatigue?",
+      "text": "Yes. I wish to consume that in order to \nrecover from fatigue.",
       "choice_data_list": [
         "Eating what you like really helps relieve fatigue, doesn't it?",
         "I know about regular berry ice cream, but..."
@@ -95,7 +74,7 @@
     },
     {
       "name": "Efforia",
-      "text": "No. I was told the ingredients were \neffective, so...",
+      "text": "Does consuming things you \"like\" actually \naid in recovering from fatigue?",
       "choice_data_list": [
         "Wait, isn't that why you're eating it?",
         "Wait, isn't that why you're eating it?"
@@ -103,41 +82,37 @@
     },
     {
       "name": "Efforia",
-      "text": "If it's not something I \"like,\" can I not \nexpect any recovery from fatigue?",
-      "choice_data_list": [
-        "No, I don't really think that's true, \nbut……"
-      ]
+      "text": "No. I was told the ingredients were \neffective, so..."
     },
     {
       "name": "Efforia",
-      "text": "Understood. In that case, as I thought, I \nwould like to consume cassis ice cream.",
+      "text": "If it's not something I \"like,\" can I not \nexpect any recovery from fatigue?",
       "choice_data_list": [
         "No, I don't really think that's true, but..."
       ]
     },
     {
       "name": "Efforia",
-      "text": "To ask once more――do you happen to know of \nany shops that sell cassis ice cream?",
-      "choice_data_list": []
+      "text": "Understood. In that case, as I thought, I \nwould like to consume cassis ice cream."
+    },
+    {
+      "name": "Efforia",
+      "text": "To ask once more――do you happen to know of \nany shops that sell cassis ice cream?"
     },
     {
       "name": "",
-      "text": "Seeing her ask so earnestly, I looked up \nsome information about the ice cream shop \nand shared it with her.",
-      "choice_data_list": []
+      "text": "Seeing her ask so earnestly, I looked up \nsome information about the ice cream shop \nand shared it with her."
     },
     {
       "name": "Efforia",
       "text": "Is that so? Understood.",
       "choice_data_list": [
-        "If you're looking to recover from fatigue, \nhow about some lemon sorbet?"
+        "If it's to recover from fatigue, how about lemon sorbet?"
       ]
     },
     {
       "name": "",
-      "text": "I mention that lemons are rich in vitamins \nand citric acid, making them very \neffective for recovery from fatigue.",
-      "choice_data_list": [
-        "If it's to recover from fatigue, how about lemon sorbet?"
-      ]
+      "text": "I mention that lemons are rich in vitamins \nand citric acid, making them very \neffective for recovery from fatigue."
     },
     {
       "name": "Efforia",
@@ -148,15 +123,11 @@
     },
     {
       "name": "Efforia",
-      "text": "Yes, that is fine.",
-      "choice_data_list": [
-        "Oh, are you sure?"
-      ]
+      "text": "Yes, that is fine."
     },
     {
       "name": "Efforia",
-      "text": "I believe this will be beneficial, so I \nshall follow your advice.",
-      "choice_data_list": []
+      "text": "I believe this will be beneficial, so I \nshall follow your advice."
     }
   ]
 }
