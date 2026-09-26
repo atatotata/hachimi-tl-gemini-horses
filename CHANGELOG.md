@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-26 -- Fix Hachimi story parse errors & rebuild choice/color placement
+- Fixed 90 story files whose `color_text_info_list` used object entries (`{text,font_color}` / `{Text,FontColor}`) instead of Hachimi's required plain string array; Hachimi rejected the whole file (`invalid type: map, expected a string`) and fell back to Japanese.
+- Rebuilt `choice_data_list` / `color_text_info_list` placement from the game bundles for 54 story files (each array placed at repo block index = bundle block - 1; the prior fix had duplicated/misaligned entries), translating all values to English (357 JP choices, 25 JP color spans) via the master.mdb JP->EN map plus OmniRoute for the 22 stragglers.
+- Verified: 0 object-form color entries and 0 Japanese choice/color strings remain across all 22,084 story files; repo and Hachimi mirror are byte-identical for all 144 touched files. index.json regenerated.
+
 ## 2026-09-25 -- Rose Kingdom (1144) color spans translated
 - Translated 67 unique Japanese color_text_info_list strings (78 spans across 34 files) in the Rose Kingdom arc (assets/story/data/50/1144) - race names, character names and racing terms (Japanese Derby, Satsuki Sho, Tracen Academy, Rose Clan, Umasta/Umatok/etc.).
 - Reused authoritative master.mdb JP->EN for 48 strings, translated the remaining 19 via OmniRoute, and matched every span to the exact highlighted substring in the already-English block text.

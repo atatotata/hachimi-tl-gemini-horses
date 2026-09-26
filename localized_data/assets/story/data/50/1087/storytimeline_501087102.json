@@ -23,15 +23,15 @@
     },
     {
       "name": "Monologue",
-      "text": "I've noticed that Aston Machan has\ntaken to\nmaking voice recordings for\nfun."
-    },
-    {
-      "name": "Monologue",
-      "text": "Our blog has gained quite a bit more\ntraffic this\nlast year thanks to her success\nin the Sprinters\nStakes.",
+      "text": "I've noticed that Aston Machan has\ntaken to\nmaking voice recordings for\nfun.",
       "choice_data_list": [
         "(...This could be good material for a 4-panel comic.)",
         "(...This looks like 4-panel comic material.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Our blog has gained quite a bit more\ntraffic this\nlast year thanks to her success\nin the Sprinters\nStakes."
     },
     {
       "name": "Monologue",
@@ -71,7 +71,10 @@
     },
     {
       "name": "Vodka Fan A",
-      "text": "I went to see you run in the Shuka Sho\nand the\nArima Kinen! The tension\nbetween you two was so\nintense I could\nliterally feel it!"
+      "text": "I went to see you run in the Shuka Sho\nand the\nArima Kinen! The tension\nbetween you two was so\nintense I could\nliterally feel it!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Daiwa Scarlet Fan A",
@@ -107,7 +110,10 @@
     },
     {
       "name": "Daiwa Scarlet Fan B",
-      "text": "Is there one title in particular each of\nyou <i>really</i>\nwant to take for yourself\nduring senior year?!"
+      "text": "Is there one title in particular each of\nyou <i>really</i>\nwant to take for yourself\nduring senior year?!",
+      "color_text_info_list": [
+        "senior year"
+      ]
     },
     {
       "name": "Scarlet and Vodka",
@@ -115,7 +121,10 @@
     },
     {
       "name": "Scarlet and Vodka",
-      "text": "...The autumn Tenno Sho."
+      "text": "...The autumn Tenno Sho.",
+      "color_text_info_list": [
+        "autumn Tenno Sho"
+      ]
     },
     {
       "name": "Scarlet and Vodka",
@@ -143,7 +152,10 @@
     },
     {
       "name": "Stall Vendor A",
-      "text": "But you held your own too. You did\ngreat in the\nSprinters Stakes, and in your\nclassic year in\ngeneral."
+      "text": "But you held your own too. You did\ngreat in the\nSprinters Stakes, and in your\nclassic year in\ngeneral.",
+      "color_text_info_list": [
+        "classic year"
+      ]
     },
     {
       "name": "Stall Vendor A",
@@ -175,14 +187,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Here. Let's eat them together, Trainer."
+      "text": "Here. Let's eat them together, Trainer.",
+      "choice_data_list": [
+        "!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I gladly accept the taiyaki, feeling the\ndistance\nbetween us shrink just a little.",
-      "choice_data_list": [
-        "！"
-      ]
+      "text": "I gladly accept the taiyaki, feeling the\ndistance\nbetween us shrink just a little."
     },
     {
       "name": "Aston Machan",
@@ -190,14 +202,14 @@
     },
     {
       "name": "Aston Machan",
-      "text": "I felt a bit deflated, but the taiyaki is a\nsmall\ncomfort."
-    },
-    {
-      "name": "Aston Machan",
-      "text": "I just have to be myself. I have to be\nMachan. So,\nfirst, I'm going to cherish\nmy friends and—",
+      "text": "I felt a bit deflated, but the taiyaki is a\nsmall\ncomfort.",
       "choice_data_list": [
         "Thank goodness."
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I just have to be myself. I have to be\nMachan. So,\nfirst, I'm going to cherish\nmy friends and—"
     },
     {
       "name": "Aston Machan",
@@ -205,27 +217,27 @@
     },
     {
       "name": "Aston Machan",
-      "text": "I haven't wished my friends a Happy New\nYear\nyet!"
-    },
-    {
-      "name": "Aston Machan",
-      "text": "There's Chloe Harvard, whose very aura\nis\nuplifting, the astute stray cat Hattori\n\nShinobimaru, and then Antley, of course,\nwho has\ninfinite potential lying dormant\nwithin!",
+      "text": "I haven't wished my friends a Happy New\nYear\nyet!",
       "choice_data_list": [
         "Good friends?"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "Okay... The first friend we should go see\niiis..."
+      "text": "There's Chloe Harvard, whose very aura\nis\nuplifting, the astute stray cat Hattori\n\nShinobimaru, and then Antley, of course,\nwho has\ninfinite potential lying dormant\nwithin!"
     },
     {
       "name": "Aston Machan",
-      "text": "Right. It has to be Chloe first!",
+      "text": "Okay... The first friend we should go see\niiis...",
       "choice_data_list": [
         "To Chloe Harvard, who brings me so much cheer.",
         "To Hattori Shinobimaru, the genius stray cat.",
         "To Arimura-san, who harbors boundless potential."
       ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Right. It has to be Chloe first!"
     },
     {
       "name": "Aston Machan",
@@ -253,15 +265,15 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Right, then... Shall we head home?"
-    },
-    {
-      "name": "Monologue",
-      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year.",
+      "text": "Right, then... Shall we head home?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year."
     },
     {
       "name": "Aston Machan",
@@ -293,15 +305,15 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Right, then... Shall we head home?"
-    },
-    {
-      "name": "Monologue",
-      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year.",
+      "text": "Right, then... Shall we head home?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year."
     },
     {
       "name": "Aston Machan",
@@ -329,15 +341,15 @@
     },
     {
       "name": "Aston Machan",
-      "text": "Right, then... Shall we head home?"
-    },
-    {
-      "name": "Monologue",
-      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year.",
+      "text": "Right, then... Shall we head home?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of us walk home along the\ncrimson-lit\nroad and into a new year."
     }
   ]
 }
