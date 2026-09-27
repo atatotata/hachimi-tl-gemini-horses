@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-26 -- CI: full hash verification + orphan check
+- Replaced the `Sample hash verification` step (100 random files) with a `Full hash verification + orphan check` step that verifies **every** file in `index.json` (presence, size, blake3) and flags any file under `localized_data/` not referenced by `index.json` (ignoring `*.bak_global` backups).
+
 ## 2026-09-26 -- Fix leftover JP in home timeline + vendor missing atlas diffs
 - `hometimeline_00000_03_0000126.json`: replaced a leftover Japanese string that was embedded in the English line ("...tending to the nukazuke (bran bed)?").
 - Vendored 3 translated atlas images present in UmaTL but missing here (and absent from UmaTL's own index, so never loaded before): `assets/atlas/common/common.diff.png`, `assets/atlas/factorresearch/factorresearch.diff.png`, `assets/atlas/racecommon/racecommon.diff.png`. Byte-identical to UmaTL `hachimi-tl-en-sd@release`. Shipped on the `full` branch.
