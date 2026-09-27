@@ -111,10 +111,10 @@ jobs:
               print(f'Validation passed: {len(files)} files, branch={branch}')
           "
       
-      - name: Sample hash verification
+      - name: Full hash verification + orphan check
         run: |
           python -c "
-          import json, pathlib, hashlib, random, sys
+          import json, pathlib, hashlib, sys
           
           def blake3_hash(data):
               try:
@@ -127,25 +127,45 @@ jobs:
           files = idx['files']
           ld = pathlib.Path('localized_data')
           
-          # Sample 100 random files
-          sample = random.sample(files, min(100, len(files)))
-          mismatches = 0
-          
-          for f in sample:
+          # 1) Verify every indexed file: present, size matches, hash matches
+          missing, sizebad, hashbad = [], [], []
+          for f in files:
               p = ld / f['path']
-              if not p.exists():
-                  mismatches += 1
+              if not p.is_file():
+                  missing.append(f['path'])
                   continue
               if p.stat().st_size != f['size']:
-                  mismatches += 1
+                  sizebad.append(f['path'])
                   continue
-              h = blake3_hash(p.read_bytes())
-              if h != f['hash']:
-                  mismatches += 1
+              if blake3_hash(p.read_bytes()) != f['hash']:
+                  hashbad.append(f['path'])
           
-          if mismatches > 0:
-              print(f'HASH VERIFICATION FAILED: {mismatches}/{len(sample)} mismatches')
+          # 2) Orphan check: files on disk not referenced by index.json
+          #    (sentinel manifests like .full_media / includes_* are not assets)
+          indexed = {f['path'] for f in files}
+          orphans = []
+          if ld.is_dir():
+              for p in ld.rglob('*'):
+                  if p.is_file() and not p.name.endswith('.bak_global'):
+                      rel = p.relative_to(ld).as_posix()
+                      if rel not in indexed:
+                          orphans.append(rel)
+          
+          errors = []
+          if missing:
+              errors.append(f'{len(missing)} indexed files missing from disk: {missing[:5]}')
+          if sizebad:
+              errors.append(f'{len(sizebad)} size mismatches: {sizebad[:5]}')
+          if hashbad:
+              errors.append(f'{len(hashbad)} hash mismatches: {hashbad[:5]}')
+          if orphans:
+              errors.append(f'{len(orphans)} orphan files not in index.json: {orphans[:5]}')
+          
+          if errors:
+              print('HASH/ORPHAN VERIFICATION FAILED:')
+              for e in errors:
+                  print(f'  - {e}')
               sys.exit(1)
           else:
-              print(f'Hash verification passed: {len(sample)} samples, 0 mismatches')
+              print(f'Full verification passed: {len(files)} files, 0 mismatches, 0 orphans')
           "
