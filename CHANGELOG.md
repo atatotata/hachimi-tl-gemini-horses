@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-26 -- Vendor 3 missing translated atlas diffs
+- Added `assets/atlas/common/common.diff.png`, `assets/atlas/factorresearch/factorresearch.diff.png`, `assets/atlas/racecommon/racecommon.diff.png` — present in UmaTL `hachimi-tl-en-sd@release` but missing here (and absent from UmaTL's own index, so never loaded before). Byte-identical to upstream. Shipped on the `full` branch.
+
 ## 2026-09-26 -- Drop Error 102 keys from localize_dict
 - Removed the 13 `SingleMode418025`-`SingleMode418037` keys that the CI guard rejects (they trigger in-game "Error 102"). These were re-introduced by the localize backfill; `localized_data/localize_dict.json` is now 9,762 keys.
 - Repo and Hachimi mirror kept byte-identical. index.json regenerated.
