@@ -146,7 +146,7 @@ jobs:
           orphans = []
           if ld.is_dir():
               for p in ld.rglob('*'):
-                  if p.is_file() and not p.name.endswith('.bak_global'):
+                  if p.is_file() and '.bak' not in p.name:
                       rel = p.relative_to(ld).as_posix()
                       if rel not in indexed:
                           orphans.append(rel)
