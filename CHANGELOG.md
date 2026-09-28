@@ -1,7 +1,10 @@
 # Changelog
 
+## 2026-09-27 -- Translate 49 new strings from JP game update
+- Dumped the updated `master.mdb` (2026-09-27) and translated the 49 new `text_data` strings (0 character voice rows): the anime *Umayuru: Full Gate!* login-bonus series, the *Round and Round: Tracen Days* song/effect text, "Turf www" fan comments, 3 story titles, and a seasonal lore entry. Merged into `localized_data/text_data_dict.json` (5.59 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
+
 ## 2026-09-26 -- CI: full hash verification + orphan check
-- Replaced the `Sample hash verification` step (100 random files) with a `Full hash verification + orphan check` step that verifies **every** file in `index.json` (presence, size, blake3) and flags any file under `localized_data/` not referenced by `index.json` (ignoring `*.bak_global` backups).
+- Replaced the `Sample hash verification` step (100 random files) with a `Full hash verification + orphan check` step that verifies **every** file in `index.json` (presence, size, blake3) and flags any file under `localized_data/` not referenced by `index.json` (ignoring `*.bak*` backups).
 
 ## 2026-09-26 -- Fix leftover JP in home timeline + vendor missing atlas diffs
 - `hometimeline_00000_03_0000126.json`: replaced a leftover Japanese string that was embedded in the English line ("...tending to the nukazuke (bran bed)?").
