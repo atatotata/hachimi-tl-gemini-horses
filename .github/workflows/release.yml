@@ -24,7 +24,9 @@ jobs:
       
       - name: Extract tag
         id: tag
-        run: echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        run: |
+          echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          echo "ver=${GITHUB_REF#refs/tags/text-}" >> $GITHUB_OUTPUT
       
       - name: Build release ZIPs
         run: |
@@ -32,6 +34,7 @@ jobs:
           import io, json, zipfile, subprocess, pathlib, os
           
           TAG = '${{ steps.tag.outputs.version }}'
+          VER = '${{ steps.tag.outputs.ver }}'
           RELEASES = pathlib.Path('releases')
           RELEASES.mkdir(exist_ok=True)
           
@@ -54,7 +57,7 @@ jobs:
               
               # Build ZIP from git archive
               base = io.BytesIO(subprocess.check_output(['git', 'archive', '--format=zip', b, '--', 'localized_data']))
-              out = RELEASES / f'hachimi-tl-gemini-horses_{b}_{TAG}.zip'
+              out = RELEASES / f'gemini-horses_{b}_{VER}.zip'
               
               with zipfile.ZipFile(io.BytesIO(base.getvalue())) as zin:
                   names = zin.namelist()
@@ -86,7 +89,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.tag.outputs.version }}
-          name: "${{ steps.tag.outputs.version }}"
+          name: "Gemini Horses Text ${{ steps.tag.outputs.ver }}"
           body: |
             Automated release ${{ steps.tag.outputs.version }}
             
