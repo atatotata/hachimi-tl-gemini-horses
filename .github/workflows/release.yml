@@ -56,7 +56,7 @@ jobs:
               cache = {'base_url': idx['base_url'], 'files': files}
               
               # Build ZIP from git archive
-              base = io.BytesIO(subprocess.check_output(['git', 'archive', '--format=zip', b, '--', 'localized_data']))
+              base = io.BytesIO(subprocess.check_output(['git', 'archive', '--format=zip', f'origin/{b}', '--', 'localized_data']))
               out = RELEASES / f'gemini-horses_{b}_{VER}.zip'
               
               with zipfile.ZipFile(io.BytesIO(base.getvalue())) as zin:
