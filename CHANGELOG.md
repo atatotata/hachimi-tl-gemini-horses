@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-09-30 -- Translate 376 new strings from JP game update
+- Dumped the updated `master.mdb` (2026-09-30) and translated **376** new entries: **118** character-voice lines (Gold City 1018 ×49, Taiki Shuttle 1017 ×48, Mejiro Dober 1108, Agnes Tachyon 1016, Gentildonna 1118, and others) and **258** `text_data` strings (missions, story titles, character lore, skill names/descriptions, race names, UI text).
+- Merged into `localized_data/text_data_dict.json` (5.61 MB) and `character_system_text_dict.json` (2.62 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
+
+## 2026-09-29 -- Release list overhaul + Text v16
+- Normalized every GitHub release title to `Gemini Horses Text vN` and standardized asset names to `gemini-horses_<branch>_<version>.zip`.
+- Removed the empty `text-v13` release and the stray `text-v14` tag; renamed the `text-v15` assets (previously mislabeled `text-v14`) to `v15`.
+- Published `text-v16` (main, community, lore, full-slim, full), built by the updated Auto Release workflow.
+- Updated `package_release.py` and `release.yml` to emit the new asset naming; README now links to the latest release.
+
 ## 2026-09-27 -- Translate 49 new strings from JP game update
 - Dumped the updated `master.mdb` (2026-09-27) and translated the 49 new `text_data` strings (0 character voice rows): the anime *Umayuru: Full Gate!* login-bonus series, the *Round and Round: Tracen Days* song/effect text, "Turf www" fan comments, 3 story titles, and a seasonal lore entry. Merged into `localized_data/text_data_dict.json` (5.59 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
 
