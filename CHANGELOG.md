@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-30 -- Translate 18 new story timelines from JP game update
+- Extracted and translated **18** new `storytimeline_*.json` files (1,060 strings) added by the 2026-09-30 JP update: Gold City (501017803-5) and Taiki Shuttle (501018803-5) single-mode stories, plus 4 event groups (830318/830319/830320/830321 ×3).
+- Pipeline: decrypted the new story bundles from the game's `Persistent\dat` (chacha20 meta + XOR asset key), parsed the Unity timelines, converted to the repo schema, translated via `translate_newstories.py`, and merged with `merge_newstories.py` (42-col wrap).
+- Event **1057** (`090057001`-`090057008`) is announced (starts 2026-09-30 12:00 JST) but its story bundles had not yet been downloaded to `dat`; will translate once present.
+
 ## 2026-09-30 -- Translate 376 new strings from JP game update
 - Dumped the updated `master.mdb` (2026-09-30) and translated **376** new entries: **118** character-voice lines (Gold City 1018 ×49, Taiki Shuttle 1017 ×48, Mejiro Dober 1108, Agnes Tachyon 1016, Gentildonna 1118, and others) and **258** `text_data` strings (missions, story titles, character lore, skill names/descriptions, race names, UI text).
 - Merged into `localized_data/text_data_dict.json` (5.61 MB) and `character_system_text_dict.json` (2.62 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
