@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-30 -- Translate 2 new race jikkyo messages
+- Full sweep of `master.mdb` (627 tables) + decrypted game meta confirmed all standard text is translated; the only gap was 2 new `race_jikkyo_message` rows. Added:
+  - `4196`: "Autumn's Kyoto is ablaze with orchids too! / Narita Brian, watch this! / Phalaenopsis has magnificently claimed the Shuka Sho!"
+  - `4197`: "A family's wish finally fulfilled! Rose Kingdom! / The dreams of this entire house at last / have led to a G1 conquest!"
+
 ## 2026-09-30 -- Translate event 1057 story (8 new timelines)
 - Extracted and translated the **8** `storytimeline_090057001`-`090057008` files (796 strings, 409 text blocks) for the new JP event 1057 ("Demon Empress & Black Knight King" fantasy event). Merged into `localized_data/assets/story/data/09/0057/`; repo and Hachimi mirror kept byte-identical. index.json regenerated.
 
