@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-30 -- Translate event 1057 story (8 new timelines)
+- Extracted and translated the **8** `storytimeline_090057001`-`090057008` files (796 strings, 409 text blocks) for the new JP event 1057 ("Demon Empress & Black Knight King" fantasy event). Merged into `localized_data/assets/story/data/09/0057/`; repo and Hachimi mirror kept byte-identical. index.json regenerated.
+
 ## 2026-09-30 -- Translate 18 new story timelines from JP game update
 - Extracted and translated **18** new `storytimeline_*.json` files (1,060 strings) added by the 2026-09-30 JP update: Gold City (501017803-5) and Taiki Shuttle (501018803-5) single-mode stories, plus 4 event groups (830318/830319/830320/830321 ×3).
 - Pipeline: decrypted the new story bundles from the game's `Persistent\dat` (chacha20 meta + XOR asset key), parsed the Unity timelines, converted to the repo schema, translated via `translate_newstories.py`, and merged with `merge_newstories.py` (42-col wrap).
