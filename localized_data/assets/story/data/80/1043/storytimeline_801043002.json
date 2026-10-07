@@ -7,18 +7,14 @@
     },
     {
       "name": "???",
-      "text": "GRAWR!"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "Wha?! You dodged my bite attack?!",
+      "text": "GRAWR!",
       "choice_data_list": [
         "Whoa!?"
       ]
     },
     {
       "name": "Shinko Windy",
-      "text": "Bleh! You're not the boss of me! I'm not\ngonna\nlisten to anything anyone says,\nand I won't lose to\nanyone either!",
+      "text": "Wha?! You dodged my bite attack?!",
       "choice_data_list": [
         "Windy, isn't that dangerous?!",
         "Windy, that's dangerous, isn't it?!"
@@ -26,10 +22,14 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "Aha! I hear the approaching footsteps of\nmy next\nprey! Hehe! This one will be my\nbest catch yet!",
+      "text": "Bleh! You're not the boss of me! I'm not\ngonna\nlisten to anything anyone says,\nand I won't lose to\nanyone either!",
       "choice_data_list": [
         "Still, depending on the opponent, things could get uglyâ"
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Aha! I hear the approaching footsteps of\nmy next\nprey! Hehe! This one will be my\nbest catch yet!"
     },
     {
       "name": "Shinko Windy",
@@ -49,7 +49,12 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "...What? Why is she happy? Is she\nimmune to my\nbites or something?"
+      "text": "...What? Why is she happy? Is she\nimmune to my\nbites or something?",
+      "choice_data_list": [
+        "Turned out just like you said, huh.",
+        "Turned out just like you said, didn't it?",
+        "Admit defeat?"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -62,23 +67,18 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "Grrr... So this is what you mean by\nsomething bad\nmight happen.",
-      "choice_data_list": [
-        "Turned out just like you said, huh.",
-        "Turned out just like you said, didn't it?",
-        "Admit defeat?"
-      ]
+      "text": "Grrr... So this is what you mean by\nsomething bad\nmight happen."
     },
     {
       "name": "Shinko Windy",
-      "text": "Then I'll just choose who I bite next!"
-    },
-    {
-      "name": "Agnes Digital",
-      "text": "Ooooh... The bad girl Umas are on\nanother level...",
+      "text": "Then I'll just choose who I bite next!",
       "choice_data_list": [
         "That's not what I meant...!"
       ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ooooh... The bad girl Umas are on\nanother level..."
     },
     {
       "name": "Monologue",

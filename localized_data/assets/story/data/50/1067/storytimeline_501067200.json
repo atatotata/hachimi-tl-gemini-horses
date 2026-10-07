@@ -7,14 +7,14 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Excuse me."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "I don't mean to overstep, but there is\nsomething I\nfelt you should know.",
+      "text": "Excuse me.",
       "choice_data_list": [
         "McQueen?"
       ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I don't mean to overstep, but there is\nsomething I\nfelt you should know."
     },
     {
       "name": "Mejiro McQueen",
@@ -46,23 +46,23 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Other high-scoring Umamusume will be\n\ncompeting too. Collectively, the total\npoints from\nall racers exceed 500\nmillion."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "I suspect public attention will continue\nto\nescalate, but Satono should be fine.\n\nNevertheless, I wished to let you know.",
+      "text": "Other high-scoring Umamusume will be\n\ncompeting too. Collectively, the total\npoints from\nall racers exceed 500\nmillion.",
       "choice_data_list": [
         "So that's why there's a 500-million-point showdown, huh.",
         "So, a 500-million-point showdown..."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "No matter how self-assured and\ncomposed\nSatono Diamond usually is,\nthis is her debut race,\nso it's prudent to\nbe overly cautious.",
+      "name": "Mejiro McQueen",
+      "text": "I suspect public attention will continue\nto\nescalate, but Satono should be fine.\n\nNevertheless, I wished to let you know.",
       "choice_data_list": [
         "Thanks, I'll keep that in mind.",
         "Thanks, I'll be careful."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "No matter how self-assured and\ncomposed\nSatono Diamond usually is,\nthis is her debut race,\nso it's prudent to\nbe overly cautious."
     },
     {
       "name": "Mejiro McQueen",
@@ -82,14 +82,14 @@
     },
     {
       "name": "Reporter B",
-      "text": "Satono Diamond, could we have a few\nminutes of\nyour time, please?"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "It's fine, Trainer. I don't mind a short\ninterview.",
+      "text": "Satono Diamond, could we have a few\nminutes of\nyour time, please?",
       "choice_data_list": [
         "I have training now, so..."
       ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "It's fine, Trainer. I don't mind a short\ninterview."
     },
     {
       "name": "Reporter B",
@@ -117,21 +117,21 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Whew...\nSorry for the wait. I'm done now."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Well, my throat is a little dry.",
+      "text": "Whew...\nSorry for the wait. I'm done now.",
       "choice_data_list": [
         "Are you okay?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "This period leading up to her debut is a\ncritical\none. If we ask, I'm sure Tazuna\ncan limit how many\ninterviews we\nreceive.",
+      "name": "Satono Diamond",
+      "text": "Well, my throat is a little dry.",
       "choice_data_list": [
         "Should we ask them to limit the press coverage?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "This period leading up to her debut is a\ncritical\none. If we ask, I'm sure Tazuna\ncan limit how many\ninterviews we\nreceive."
     },
     {
       "name": "Satono Diamond",
@@ -143,14 +143,14 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "I'm sure my family is thankful for the\nattention as\nwell!"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Hehe. I'm very used to it. I've been the\ncenter of\nattention in the Satono family\nsince I was young.",
+      "text": "I'm sure my family is thankful for the\nattention as\nwell!",
       "choice_data_list": [
         "Isn't all the attention becoming a burden?"
       ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hehe. I'm very used to it. I've been the\ncenter of\nattention in the Satono family\nsince I was young."
     },
     {
       "name": "Satono Diamond",
@@ -170,11 +170,7 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "I'm happy to refuse them if they're\ninterfering\nwith my training."
-    },
-    {
-      "name": "Monologue",
-      "text": "She's the one worrying about me instead\nof the\nother way around. If she isn't\nbothered, it's\nprobably best not to dwell\non it.",
+      "text": "I'm happy to refuse them if they're\ninterfering\nwith my training.",
       "choice_data_list": [
         "If you're fine with it, then there's no problem...!",
         "If you're okay with it, then I have no problem at all...!"
@@ -182,15 +178,15 @@
     },
     {
       "name": "Monologue",
+      "text": "She's the one worrying about me instead\nof the\nother way around. If she isn't\nbothered, it's\nprobably best not to dwell\non it."
+    },
+    {
+      "name": "Monologue",
       "text": "And so, the day of her debut race\narrives..."
     },
     {
       "name": "Satono Diamond",
-      "text": "It's finally time!"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "I am. When I think about how my\nadventures in\nthe Twinkle Series are\nfinally beginning...",
+      "text": "It's finally time!",
       "choice_data_list": [
         "Looks like fun.",
         "Looks like fun, doesn't it?"
@@ -198,18 +194,22 @@
     },
     {
       "name": "Satono Diamond",
+      "text": "I am. When I think about how my\nadventures in\nthe Twinkle Series are\nfinally beginning..."
+    },
+    {
+      "name": "Satono Diamond",
       "text": "I can't help but get chills and\ngoosebumps all\nover!"
     },
     {
       "name": "Monologue",
-      "text": "Satono Diamond doesn't show the\nslightest sign\nof nerves. Instead, she's\noverflowing with\nenthusiasm."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Absolutely! Satono Diamond, moving\nout!",
+      "text": "Satono Diamond doesn't show the\nslightest sign\nof nerves. Instead, she's\noverflowing with\nenthusiasm.",
       "choice_data_list": [
         "Off you go!"
       ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Absolutely! Satono Diamond, moving\nout!"
     }
   ]
 }

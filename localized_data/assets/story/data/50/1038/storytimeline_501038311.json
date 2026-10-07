@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Curren Chan",
-      "text": "I got first place!"
+      "text": "I got first place!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -14,10 +17,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Thanks! Ehe, it really does feel good. ♪",
-      "choice_data_list": [
-        "Congratulations!"
-      ]
+      "text": "Thanks! Ehe, it really does feel good. ♪"
     },
     {
       "name": "Curren Chan",
@@ -29,33 +29,33 @@
     },
     {
       "name": "Monologue",
-      "text": "The next day, around noon, I finish\ncounting the\nlikes and meet up with\nCurren Chan and Biko\nPegasus. Of\ncourse, they're streaming the results\n\nannouncement."
-    },
-    {
-      "name": "Curren Chan and Biko Pegasus",
-      "text": "<i>Gulp!</i>",
+      "text": "The next day, around noon, I finish\ncounting the\nlikes and meet up with\nCurren Chan and Biko\nPegasus. Of\ncourse, they're streaming the results\n\nannouncement.",
       "choice_data_list": [
         "And the result is—"
       ]
     },
     {
-      "name": "Curren Chan",
-      "text": "Yaaay! ♪",
+      "name": "Curren Chan and Biko Pegasus",
+      "text": "<i>Gulp!</i>",
       "choice_data_list": [
         "Curren Chan wins!"
       ]
     },
     {
-      "name": "Biko Pegasus",
-      "text": "Oof! I lost!"
+      "name": "Curren Chan",
+      "text": "Yaaay! ♪"
     },
     {
-      "name": "Curren Chan",
-      "text": "...!",
+      "name": "Biko Pegasus",
+      "text": "Oof! I lost!",
       "choice_data_list": [
         "Still, it was a close one.",
         "Still, it was really close."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...!"
     },
     {
       "name": "Monologue",
@@ -171,14 +171,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Bad guy? Awww, at least make me the\nDark Lady\nof Cuteness or something."
-    },
-    {
-      "name": "Monologue",
-      "text": "And so, Curren Chan wins the first battle\nof the\nCutie ♪ Derby.",
+      "text": "Bad guy? Awww, at least make me the\nDark Lady\nof Cuteness or something.",
       "choice_data_list": [
         "(So the ringleader gets a pass...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, Curren Chan wins the first battle\nof the\nCutie ♪ Derby."
     },
     {
       "name": "Monologue",
@@ -202,14 +202,14 @@
     },
     {
       "name": "Monologue",
-      "text": "There aren't that many G1 sprints so I\nwas going\nto suggest running the\nSprinters Stakes again\nmyself, but..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "I think I mentioned before that I spoke\nwith all\nthe Cutie ♪ Derby participants\nbefore I\nannounced it, right? Well...",
+      "text": "There aren't that many G1 sprints so I\nwas going\nto suggest running the\nSprinters Stakes again\nmyself, but...",
       "choice_data_list": [
         "What's the reason?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I think I mentioned before that I spoke\nwith all\nthe Cutie ♪ Derby participants\nbefore I\nannounced it, right? Well..."
     },
     {
       "name": "Curren Chan",
@@ -217,25 +217,25 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Don't you think that makes for a super\nsimple,\nperfect next step?"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Well, I'm on a high after beating Biko.",
+      "text": "Don't you think that makes for a super\nsimple,\nperfect next step?",
       "choice_data_list": [
         "Is it just right?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "I wanna take this momentum and use it\nto go up\nagainst everyone all at once! ♪"
+      "text": "Well, I'm on a high after beating Biko."
     },
     {
-      "name": "Monologue",
-      "text": "Taiki Shuttle, Hishi Akebono, and\nSakura\nBakushin O. They're all the\nabsolute cream of the\ncrop.",
+      "name": "Curren Chan",
+      "text": "I wanna take this momentum and use it\nto go up\nagainst everyone all at once! ♪",
       "choice_data_list": [
         "All at once, you mean...?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Taiki Shuttle, Hishi Akebono, and\nSakura\nBakushin O. They're all the\nabsolute cream of the\ncrop."
     },
     {
       "name": "Curren Chan",
@@ -251,27 +251,27 @@
     },
     {
       "name": "Monologue",
-      "text": "She's not wrong, but the race isn't the\nonly thing\nwe need to consider\nstrategy-wise."
-    },
-    {
-      "name": "Monologue",
-      "text": "Likes are counted separately on each\nplatform.\nThis time, we only had to\nworry about UmaTok,\nbut next time we'll\nhave to keep track of <i>every</i>\nplatform.",
+      "text": "She's not wrong, but the race isn't the\nonly thing\nwe need to consider\nstrategy-wise.",
       "choice_data_list": [
         "There's also the 'Kawaii Derby♪'.",
         "There's also the 'Kawaii Derby♪', you know."
       ]
     },
     {
-      "name": "Curren Chan",
-      "text": "No worries there, either. Do you think\nI'm gonna\ncut corners?"
+      "name": "Monologue",
+      "text": "Likes are counted separately on each\nplatform.\nThis time, we only had to\nworry about UmaTok,\nbut next time we'll\nhave to keep track of <i>every</i>\nplatform."
     },
     {
       "name": "Curren Chan",
-      "text": "...!",
+      "text": "No worries there, either. Do you think\nI'm gonna\ncut corners?",
       "choice_data_list": [
         "I don't think so, which is why I'm worried.",
         "I don't think so, and that's exactly why I'm worried."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...!"
     },
     {
       "name": "Curren Chan",

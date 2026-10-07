@@ -15,11 +15,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Goodness, Rickey! That's wonderful to\nhear."
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Yeah!",
+      "text": "Goodness, Rickey! That's wonderful to\nhear.",
       "choice_data_list": [
         "Looks like all that steady work spreading feng shui really paid off, huh.",
         "All that steady work spreading feng shui really paid off, didn't it?"
@@ -27,19 +23,23 @@
     },
     {
       "name": "Copano Rickey",
+      "text": "Yeah!"
+    },
+    {
+      "name": "Copano Rickey",
       "text": "The world is making way for feng shui! If\nthis goes\nwell, I'll be able to spread its\nwondrous teachings\nto even more\npeople!"
     },
     {
       "name": "Copano Rickey",
-      "text": "All right! Since I'm going to be talking\non TV, I\nneed to compile some\ndiscussion topics! I have to\nmake it easy\nfor beginners to understand too!"
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Really?! Then, when I finish putting\ntogether my\ntalking points, will you\nlisten to what I've come up\nwith? I want\nyou to tell me if there's anything you\n\ndon't understand!",
+      "text": "All right! Since I'm going to be talking\non TV, I\nneed to compile some\ndiscussion topics! I have to\nmake it easy\nfor beginners to understand too!",
       "choice_data_list": [
         "I'll help out as much as I can too!",
         "I'll help as much as I can, too!"
       ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Really?! Then, when I finish putting\ntogether my\ntalking points, will you\nlisten to what I've come up\nwith? I want\nyou to tell me if there's anything you\n\ndon't understand!"
     },
     {
       "name": "Wonder Acute",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh dear... It looks a bit like Rickey is\nstruggling\nto get her voice heard. Just\nlook at her little ears\ndrooping."
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "You're quite right.\nYou can do it, Rickey.\nWe're rooting for you,\ndearie.",
+      "text": "Oh dear... It looks a bit like Rickey is\nstruggling\nto get her voice heard. Just\nlook at her little ears\ndrooping.",
       "choice_data_list": [
         "Let's cheer them on, even if it's just the two of us!",
         "Even if it's just us, let's cheer them on!"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "You're quite right.\nYou can do it, Rickey.\nWe're rooting for you,\ndearie."
     },
     {
       "name": "Copano Rickey",
@@ -139,7 +139,12 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "That's great to hear! I saw you two\ncheering for\nme too!"
+      "text": "That's great to hear! I saw you two\ncheering for\nme too!",
+      "choice_data_list": [
+        "You did splendidly!",
+        "Everyone really seemed to enjoy themselves.",
+        "Everyone really seemed to enjoy themselves, didn't they?"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -152,12 +157,7 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "That's thanks to the courage you two\ngave me! I'm\nstill a little sad that I didn't\nget to talk in much\ndepth...",
-      "choice_data_list": [
-        "You did splendidly!",
-        "Everyone really seemed to enjoy themselves.",
-        "Everyone really seemed to enjoy themselves, didn't they?"
-      ]
+      "text": "That's thanks to the courage you two\ngave me! I'm\nstill a little sad that I didn't\nget to talk in much\ndepth..."
     },
     {
       "name": "Copano Rickey",

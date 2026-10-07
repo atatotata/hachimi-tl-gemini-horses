@@ -63,15 +63,15 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Trainer, I've won more times than I can\ncount by\nhand!"
-    },
-    {
-      "name": "Monologue",
-      "text": "To think there would ever be an\nUmamusume to\nwin eleven G1 dirt\nraces... it's the stuff legends\nare made of.",
+      "text": "Trainer, I've won more times than I can\ncount by\nhand!",
       "choice_data_list": [
         "Yeah, you've topped 10 G1 victories.",
         "Yeah, that's over 10 G1 victories now."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "To think there would ever be an\nUmamusume to\nwin eleven G1 dirt\nraces... it's the stuff legends\nare made of."
     },
     {
       "name": "Copano Rickey",
@@ -127,15 +127,15 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Will you come with me? I wouldn't be\nable to go\nif I hadn't gotten this\nopportunity."
-    },
-    {
-      "name": "Monologue",
-      "text": "And so, the place Copano Rickey heads\ntoward\nis...",
+      "text": "Will you come with me? I wouldn't be\nable to go\nif I hadn't gotten this\nopportunity.",
       "choice_data_list": [
         "Yeah, of course.",
         "Yeah, of course."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, the place Copano Rickey heads\ntoward\nis..."
     },
     {
       "name": "Copano Rickey",
@@ -203,11 +203,7 @@
     },
     {
       "name": "Old Caretaker",
-      "text": "Please take care of little Rickey for me!\nShe's\nalways been like a daughter to me."
-    },
-    {
-      "name": "Old Caretaker",
-      "text": "Again, you say?",
+      "text": "Please take care of little Rickey for me!\nShe's\nalways been like a daughter to me.",
       "choice_data_list": [
         "Yes, I'll bring her along again.",
         "Yes, I'll bring them again."
@@ -215,10 +211,14 @@
     },
     {
       "name": "Old Caretaker",
-      "text": "An old home... You don't say.",
+      "text": "Again, you say?",
       "choice_data_list": [
         "After all, this park is like a home to the two of them."
       ]
+    },
+    {
+      "name": "Old Caretaker",
+      "text": "An old home... You don't say."
     },
     {
       "name": "Copano Rickey",

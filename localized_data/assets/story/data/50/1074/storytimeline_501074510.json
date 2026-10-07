@@ -35,11 +35,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "<i>Munch... Munch, munch...</i>"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "Good day to you, Trainer. This requires\nmore\neffort than you may think, you\nknow.",
+      "text": "<i>Munch... Munch, munch...</i>",
       "choice_data_list": [
         "...I can't believe you can keep eating in a situation like this.",
         "...I can't believe you can keep eating in a situation like this."
@@ -47,11 +43,20 @@
     },
     {
       "name": "Mejiro Bright",
+      "text": "Good day to you, Trainer. This requires\nmore\neffort than you may think, you\nknow."
+    },
+    {
+      "name": "Mejiro Bright",
       "text": "Blowing on the hot food to cool it has\nleft me\nrather parched."
     },
     {
       "name": "Monologue",
-      "text": "...It seems Mejiro Bright is so focused on\nher\ngrilled carrot that she hasn't noticed\nthe circus\nunfolding around her."
+      "text": "...It seems Mejiro Bright is so focused on\nher\ngrilled carrot that she hasn't noticed\nthe circus\nunfolding around her.",
+      "choice_data_list": [
+        "You're an Umamusume who really knows how to hold her ground.",
+        "You're an Umamusume who can always stand firm, aren't you?",
+        "Shall I bring you something to drink?"
+      ]
     },
     {
       "name": "Monologue",
@@ -64,12 +69,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Hehe! Did you mean to say \"calm\"?",
-      "choice_data_list": [
-        "You're an Umamusume who really knows how to hold her ground.",
-        "You're an Umamusume who can always stand firm, aren't you?",
-        "Shall I bring you something to drink?"
-      ]
+      "text": "Hehe! Did you mean to say \"calm\"?"
     },
     {
       "name": "Taiki Shuttle",
@@ -121,21 +121,21 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "<i>Cough, cough!</i>"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "Why, yes. My throat's a little dry, that's\nall.",
+      "text": "<i>Cough, cough!</i>",
       "choice_data_list": [
         "Are you okay?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I head to the cafeteria's drink bar and\npour her a\ncup of tea.",
+      "name": "Mejiro Bright",
+      "text": "Why, yes. My throat's a little dry, that's\nall.",
       "choice_data_list": [
         "I'll bring something to drink right away."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I head to the cafeteria's drink bar and\npour her a\ncup of tea."
     },
     {
       "name": "Monologue",
@@ -143,14 +143,14 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Great stars! That cup you hold! Could it\nbe?!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Oopsie! You already had your trainer\ngrabbin' a\ndrink, huh, Bright?!",
+      "text": "Great stars! That cup you hold! Could it\nbe?!",
       "choice_data_list": [
         "This one's for you, Bright."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oopsie! You already had your trainer\ngrabbin' a\ndrink, huh, Bright?!"
     },
     {
       "name": "Mejiro Dober",
@@ -162,15 +162,15 @@
     },
     {
       "name": "Monologue",
-      "text": "...Mejiro Bright's table is now lined with\ndrinks her\nfriends brought over."
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "Hehe! I'd say it's more that everyone is\nvery\nkind-hearted than that I'm a figure\nof adoration.",
+      "text": "...Mejiro Bright's table is now lined with\ndrinks her\nfriends brought over.",
       "choice_data_list": [
         "Looks like you're loved by everyone.",
         "Looks like you're loved by everyone."
       ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Hehe! I'd say it's more that everyone is\nvery\nkind-hearted than that I'm a figure\nof adoration."
     },
     {
       "name": "Mejiro Bright",

@@ -7,14 +7,14 @@
     },
     {
       "name": "Senior Trainer",
-      "text": "Ah, Mejiro Ardan's trainer! I just had a\nlook at the\ntrack, but it's still all mucky\nfrom the rain."
-    },
-    {
-      "name": "Senior Trainer",
-      "text": "There's a chill in the air too. I'm going to\nwithdraw\nmy Umamusume from this one.\nPassing up this\nopportunity hurts, but\nstill...",
+      "text": "Ah, Mejiro Ardan's trainer! I just had a\nlook at the\ntrack, but it's still all mucky\nfrom the rain.",
       "choice_data_list": [
         "That's true..."
       ]
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "There's a chill in the air too. I'm going to\nwithdraw\nmy Umamusume from this one.\nPassing up this\nopportunity hurts, but\nstill..."
     },
     {
       "name": "Senior Trainer",
@@ -22,11 +22,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Greetings, Trainer. Did I hear the word\n\"withdraw\"\njust now?"
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "I see... It's kind of them to look out for\nmy\nwell-being.",
+      "text": "Greetings, Trainer. Did I hear the word\n\"withdraw\"\njust now?",
       "choice_data_list": [
         "Yeah, looks like they were worried about you.",
         "Yeah, looks like they were worried about you."
@@ -34,15 +30,19 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "To race or not to race... Have you come\nto a\ndecision, Trainer?"
+      "text": "I see... It's kind of them to look out for\nmy\nwell-being."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Yes, by all means.",
+      "text": "To race or not to race... Have you come\nto a\ndecision, Trainer?",
       "choice_data_list": [
         "Are you sure I can decide?",
         "Is it okay if I decide?"
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes, by all means."
     },
     {
       "name": "Monologue",
@@ -62,33 +62,33 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...I've no doubt that I'll be able to run\nmy very\nbest. I assure you I will."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "...And you're sure about this?",
+      "text": "...I've no doubt that I'll be able to run\nmy very\nbest. I assure you I will.",
       "choice_data_list": [
         "Understood. ...In that case, let's run."
       ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...!",
+      "text": "...And you're sure about this?",
       "choice_data_list": [
         "Because I believe in 'this moment,' just like you said, Ardan."
       ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Hehe. Thank you very much. In that\ncase, I'll hold\nnothing back—for I shall\nentertain no regrets."
+      "text": "...!"
     },
     {
-      "name": "Energetic Umamusume",
-      "text": "Let's do our best out there!",
+      "name": "Mejiro Ardan",
+      "text": "Hehe. Thank you very much. In that\ncase, I'll hold\nnothing back—for I shall\nentertain no regrets.",
       "choice_data_list": [
         "Yeah, do your best!",
         "Yeah, do your best!"
       ]
+    },
+    {
+      "name": "Energetic Umamusume",
+      "text": "Let's do our best out there!"
     },
     {
       "name": "Mejiro Ardan",
@@ -148,11 +148,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "<i>Huff, huff... Pant...</i> I've, I've lost!"
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Yes. Hehe. It really was. My clothes are\nfilthy\nbut...",
+      "text": "<i>Huff, huff... Pant...</i> I've, I've lost!",
       "choice_data_list": [
         "Good work! ...You ended up completely covered in mud, huh?",
         "Good work! ...You ended up completely covered in mud, didn't you?"
@@ -169,12 +165,16 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...! ...Hehehe. I was thinking exactly the\nsame\nthing.",
+      "text": "Yes. Hehe. It really was. My clothes are\nfilthy\nbut...",
       "choice_data_list": [
         "This is the first step toward victory.",
         "This is the first step toward victory.",
         "However...?"
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...! ...Hehehe. I was thinking exactly the\nsame\nthing."
     },
     {
       "name": "Mejiro Ardan",
@@ -190,14 +190,14 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I entrust you... with my future endeavors."
-    },
-    {
-      "name": "Monologue",
-      "text": "I want to continue living up to her\nexpectations,\nand be a trainer worthy of\nher trust... Today has\nrenewed my\nresolve!",
+      "text": "I entrust you... with my future endeavors.",
       "choice_data_list": [
         "Same here, let's do this!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I want to continue living up to her\nexpectations,\nand be a trainer worthy of\nher trust... Today has\nrenewed my\nresolve!"
     },
     {
       "name": "Mejiro Ardan",
@@ -209,15 +209,15 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "So, Trainer? Moving forward... I think it\nmight be\ndifficult for anyone to stop me."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "With pleasure!",
+      "text": "So, Trainer? Moving forward... I think it\nmight be\ndifficult for anyone to stop me.",
       "choice_data_list": [
         "Yeah, let's do our best next time too!",
         "Yeah, let's do our best next time too!"
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "With pleasure!"
     }
   ]
 }

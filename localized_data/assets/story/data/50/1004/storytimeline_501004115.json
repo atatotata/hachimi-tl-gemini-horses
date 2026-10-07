@@ -7,15 +7,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ahh! This brisk air is the best! It makes\nrunning a\n<i>breeze!</i>"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "The race is coming soon, so I'm all\namped up!",
+      "text": "Ahh! This brisk air is the best! It makes\nrunning a\n<i>breeze!</i>",
       "choice_data_list": [
         "Looks like you're in good shape.",
         "Looks like you're in good shape."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "The race is coming soon, so I'm all\namped up!"
     },
     {
       "name": "Maruzensky",
@@ -43,14 +43,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "To keep them motivated, I really need\nto meet\ntheir expectations!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Absitively posolutely!",
+      "text": "To keep them motivated, I really need\nto meet\ntheir expectations!",
       "choice_data_list": [
         "Show them the back of the idol they look up to in the race!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Absitively posolutely!"
     },
     {
       "name": "Maruzensky",
@@ -170,7 +170,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "R-really? Trainer, did you know about\nthis?!"
+      "text": "R-really? Trainer, did you know about\nthis?!",
+      "choice_data_list": [
+        "That's news to me...!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -181,10 +184,7 @@
     },
     {
       "name": "Reporter B",
-      "text": "The media is already abuzz with the\nnews! How do\nyou feel about it?",
-      "choice_data_list": [
-        "That's news to me...!"
-      ]
+      "text": "The media is already abuzz with the\nnews! How do\nyou feel about it?"
     },
     {
       "name": "Maruzensky",
@@ -196,7 +196,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hey, Trainer! Sorry for changing plans so\n\nabruptly, but instead of getting Italian..."
+      "text": "Hey, Trainer! Sorry for changing plans so\n\nabruptly, but instead of getting Italian...",
+      "choice_data_list": [
+        "Time to train for the showdown!",
+        "Time to train for the showdown!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -208,11 +212,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "That's right! I want to make this the best\nrace\never!",
-      "choice_data_list": [
-        "Time to train for the showdown!",
-        "Time to train for the showdown!"
-      ]
+      "text": "That's right! I want to make this the best\nrace\never!"
     },
     {
       "name": "Monologue",

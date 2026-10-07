@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Curren Chan",
-      "text": "Hmm... What should I do?"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Oh, I was trying to come up with\nsomething that'll\nhelp me win the Cutie\nDerby. Something that will\nblow up my\nsocials! Do you have any ideas?",
+      "text": "Hmm... What should I do?",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
@@ -18,16 +14,20 @@
       "text": "Oh, I was trying to come up with\nsomething that'll\nhelp me win the Cutie\nDerby. Something that will\nblow up my\nsocials! Do you have any ideas?"
     },
     {
-      "name": "Monologue",
-      "text": "From what I understand, the Cutie Derby\nis an\nengagement contest between\nshort-distance\nracing influencers. A\nproject of some sort could\ndefinitely\nhelp bring eyes to Curren."
+      "name": "Curren Chan",
+      "text": "Oh, I was trying to come up with\nsomething that'll\nhelp me win the Cutie\nDerby. Something that will\nblow up my\nsocials! Do you have any ideas?"
     },
     {
       "name": "Monologue",
-      "text": "A riddle would be interactive and get\npeople\nthinking about Curren. And if\nhints are scattered\nacross her accounts,\nthat'd get people from one\nplatform\nviewing the others.",
+      "text": "From what I understand, the Cutie Derby\nis an\nengagement contest between\nshort-distance\nracing influencers. A\nproject of some sort could\ndefinitely\nhelp bring eyes to Curren.",
       "choice_data_list": [
         "How about a puzzle using multiple social media accounts?",
         "How about a puzzle using multiple social media accounts?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "A riddle would be interactive and get\npeople\nthinking about Curren. And if\nhints are scattered\nacross her accounts,\nthat'd get people from one\nplatform\nviewing the others."
     },
     {
       "name": "Curren Chan",
@@ -47,14 +47,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Okay, that's the intro covered. Let's take\na little\nbreak!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "I need to grab a drink to keep my voice\nfresh,\nthough! Be right back!",
+      "text": "Okay, that's the intro covered. Let's take\na little\nbreak!",
       "choice_data_list": [
         "It hasn't even been ten minutes since we started, though..."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I need to grab a drink to keep my voice\nfresh,\nthough! Be right back!"
     },
     {
       "name": "Monologue",
@@ -62,14 +62,14 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Beep. ♪</i>"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "\"Sorry for not sticking around. I got\ndistracted\nfollowing something all\nsparkly starry and glittery\n*winkwink* I\nguess that tracks for me though lol.\n\nCome follow too if you want.\"",
+      "text": "<i>Beep. ♪</i>",
       "choice_data_list": [
         "A message... from Curren?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Sorry for not sticking around. I got\ndistracted\nfollowing something all\nsparkly starry and glittery\n*winkwink* I\nguess that tracks for me though lol.\n\nCome follow too if you want.\""
     },
     {
       "name": "Curren Chan",
@@ -101,25 +101,25 @@
     },
     {
       "name": "Monologue",
-      "text": "There's gotta be a hint here. Her\nmessage said she\nwas \"following\nsomething all sparkly starry and\nglittery\n*winkwink*\"..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Maybe I could sneak keywords into the\ncaptions?\nY'know, to lead people to the\nnext clue with\nwordplay. ♪",
+      "text": "There's gotta be a hint here. Her\nmessage said she\nwas \"following\nsomething all sparkly starry and\nglittery\n*winkwink*\"...",
       "choice_data_list": [
         "What does it mean to 'follow the sparkle'...?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "There's got to be a reason she wrote all\nthose\nsynonyms out... What's sparkly and\nstarry? Wink\nwink? Her \"fav series\"?"
+      "name": "Curren Chan",
+      "text": "Maybe I could sneak keywords into the\ncaptions?\nY'know, to lead people to the\nnext clue with\nwordplay. ♪"
     },
     {
       "name": "Monologue",
-      "text": "I start scrolling through her Twinkle\nSeries posts,\nand I find one where she's\nstriking the same pose\nfrom the same\nangle.",
+      "text": "There's got to be a reason she wrote all\nthose\nsynonyms out... What's sparkly and\nstarry? Wink\nwink? Her \"fav series\"?",
       "choice_data_list": [
         "'Sparkle' means the Twinkle Series...!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I start scrolling through her Twinkle\nSeries posts,\nand I find one where she's\nstriking the same pose\nfrom the same\nangle."
     },
     {
       "name": "Monologue",
@@ -139,7 +139,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Gotta get changed... back on \"track.\"\n#Beauty\n#DreamBig... You know what\nthe hints mean,\nright, big bro?"
+      "text": "Gotta get changed... back on \"track.\"\n#Beauty\n#DreamBig... You know what\nthe hints mean,\nright, big bro?",
+      "choice_data_list": [
+        "So that's it... The mystery is fully solved!",
+        "So that's it... The mystery is fully solved!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -151,22 +155,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Curren led me to posts with \"Beauty\"\nand \"Dream\"\nin the tags, and mentioned\ngetting changed...\ninto her Beauty\nDream Cup racewear.",
-      "choice_data_list": [
-        "So that's it... The mystery is fully solved!",
-        "So that's it... The mystery is fully solved!"
-      ]
+      "text": "Curren led me to posts with \"Beauty\"\nand \"Dream\"\nin the tags, and mentioned\ngetting changed...\ninto her Beauty\nDream Cup racewear."
     },
     {
       "name": "Monologue",
-      "text": "And then \"the chapstick El uses\" that's a\ngel \"not\nstick\"... Her initial dm about\n\"not sticking\naround\"... If I take \"stick\"\nout of \"chapstick El,\"\nthat leaves—"
-    },
-    {
-      "name": "Monologue",
-      "text": "I hurry over, my feet moving faster with\neach\nstep. Next thing I know—I'm\nrunning.",
+      "text": "And then \"the chapstick El uses\" that's a\ngel \"not\nstick\"... Her initial dm about\n\"not sticking\naround\"... If I take \"stick\"\nout of \"chapstick El,\"\nthat leaves—",
       "choice_data_list": [
         "'Kyou' and 'kai' make 'church'—that's the answer!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I hurry over, my feet moving faster with\neach\nstep. Next thing I know—I'm\nrunning."
     },
     {
       "name": "Curren Chan",
@@ -190,15 +190,15 @@
     },
     {
       "name": "Monologue",
-      "text": "When Curren came to this chapel\nbefore, she had\nto declare her feelings\ntoward the racewear. I\nguess she wants\nme to do the same."
-    },
-    {
-      "name": "Monologue",
-      "text": "Looking through her old photos, I saw\njust how\nmuch she's grown—brighter and\nbrighter. Cuter\nand cuter.",
+      "text": "When Curren came to this chapel\nbefore, she had\nto declare her feelings\ntoward the racewear. I\nguess she wants\nme to do the same.",
       "choice_data_list": [
         "I realized it while solving the mystery.",
         "I realized it while solving the mystery."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Looking through her old photos, I saw\njust how\nmuch she's grown—brighter and\nbrighter. Cuter\nand cuter."
     },
     {
       "name": "Monologue",
@@ -210,7 +210,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ehehe... and what do you think of <i>me</i> ?\n...What\nam I to you?"
+      "text": "Ehehe... and what do you think of <i>me</i> ?\n...What\nam I to you?",
+      "choice_data_list": [
+        "You're the cutest in the whole universe!!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -221,10 +224,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ooh, perfect answer! ♪",
-      "choice_data_list": [
-        "You're the cutest in the whole universe!!"
-      ]
+      "text": "Ooh, perfect answer! ♪"
     },
     {
       "name": "Curren Chan",
@@ -244,7 +244,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "After all, we've got a long series ahead\nof us!"
+      "text": "After all, we've got a long series ahead\nof us!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -256,40 +260,36 @@
     },
     {
       "name": "Monologue",
-      "text": "Later, Curren posts similar riddles for her\nsocial\nmedia project, generating a ton of\nengagement\nsurrounding her old races!",
-      "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
-      ]
+      "text": "Later, Curren posts similar riddles for her\nsocial\nmedia project, generating a ton of\nengagement\nsurrounding her old races!"
     },
     {
       "name": "Monologue",
-      "text": "When Curren came to this chapel\nbefore, she had\nto declare her feelings\ntoward the racewear. I\nguess she wants\nme to do the same."
-    },
-    {
-      "name": "Monologue",
-      "text": "I tell her that scrolling through the\nTwinkle Series\nphotos reminded me how\nhard she's been\nworking.",
+      "text": "When Curren came to this chapel\nbefore, she had\nto declare her feelings\ntoward the racewear. I\nguess she wants\nme to do the same.",
       "choice_data_list": [
         "Solving the mystery allowed me to reflect on things."
       ]
     },
     {
       "name": "Monologue",
-      "text": "She's put a lot of effort into racing and\nsocial\nmedia—all to become cuter."
+      "text": "I tell her that scrolling through the\nTwinkle Series\nphotos reminded me how\nhard she's been\nworking."
     },
     {
-      "name": "Curren Chan",
-      "text": "My... work ethic? That's it?",
+      "name": "Monologue",
+      "text": "She's put a lot of effort into racing and\nsocial\nmedia—all to become cuter.",
       "choice_data_list": [
         "Curren, your hard work is wonderful!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "<i>Sigh...</i> Guess I've still got a ways to go...",
+      "text": "My... work ethic? That's it?",
       "choice_data_list": [
         "Huh? T-that's all...?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Sigh...</i> Guess I've still got a ways to go..."
     },
     {
       "name": "Curren Chan",

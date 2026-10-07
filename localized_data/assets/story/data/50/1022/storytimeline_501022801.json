@@ -35,11 +35,7 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Sorry for bumping into you. I was having\nso much\nfun that I must've forgotten to\nlook where I was\ngoing."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Hehe, I thought you'd never ask. ♪\nActually, I've\njust challenged Air Shakur\nto a game of\nhide-and-seek.",
+      "text": "Sorry for bumping into you. I was having\nso much\nfun that I must've forgotten to\nlook where I was\ngoing.",
       "choice_data_list": [
         "What were you doing?",
         "What were you doing?"
@@ -47,14 +43,18 @@
     },
     {
       "name": "Fine Motion",
-      "text": "But this is no ordinary game. This\nhide-and-seek\nhas riddles!"
+      "text": "Hehe, I thought you'd never ask. ♪\nActually, I've\njust challenged Air Shakur\nto a game of\nhide-and-seek."
     },
     {
       "name": "Fine Motion",
-      "text": "That's right. Air Shakur would never\nagree to a\nsimple game of\nhide-and-seek, would she?",
+      "text": "But this is no ordinary game. This\nhide-and-seek\nhas riddles!",
       "choice_data_list": [
         "'Riddle Hide-and-Seek'?"
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "That's right. Air Shakur would never\nagree to a\nsimple game of\nhide-and-seek, would she?"
     },
     {
       "name": "Fine Motion",
@@ -82,15 +82,15 @@
     },
     {
       "name": "Fine Motion",
-      "text": "And once we've taken a photo of a\nclubroom sign\nand sent it, that'll be all\nof the clues! Think you\ncan solve the\nriddle?"
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Hehe, sure thing. You can mull it over\nwhile we're\non the move. ♪",
+      "text": "And once we've taken a photo of a\nclubroom sign\nand sent it, that'll be all\nof the clues! Think you\ncan solve the\nriddle?",
       "choice_data_list": [
         "I'd like a little more time to think.",
         "I think I'd like a little more time to think."
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hehe, sure thing. You can mull it over\nwhile we're\non the move. ♪"
     },
     {
       "name": "Monologue",
@@ -150,7 +150,12 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Hragh?!"
+      "text": "Hragh?!",
+      "choice_data_list": [
+        "You two really are close, aren't you?",
+        "You two really are close, aren't you?",
+        "Next time, let's beat Shakur!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -163,12 +168,7 @@
     },
     {
       "name": "Fine & Shakur",
-      "text": "What gives you that idea?!\nWe certainly\ndo. ♪",
-      "choice_data_list": [
-        "You two really are close, aren't you?",
-        "You two really are close, aren't you?",
-        "Next time, let's beat Shakur!"
-      ]
+      "text": "What gives you that idea?!\nWe certainly\ndo. ♪"
     },
     {
       "name": "Fine Motion",

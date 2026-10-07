@@ -7,15 +7,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Ugh! The dirt is full of rocks, and it's\nchoked with\nweeds! This'll take forever!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "These fields are what's wrong! Prez\nseemed pretty\nupset about them, so I\nthought I'd help her by\nclearing them\nout.",
+      "text": "Ugh! The dirt is full of rocks, and it's\nchoked with\nweeds! This'll take forever!",
       "choice_data_list": [
         "What's wrong?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "These fields are what's wrong! Prez\nseemed pretty\nupset about them, so I\nthought I'd help her by\nclearing them\nout."
     },
     {
       "name": "Mejiro Palmer",
@@ -39,15 +39,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "What the?! How'd you get so much\nfurther along\nthan me?!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Well, I did earn the nickname the\n\"Mejiro\nHole-Digging Champ\" when I\nused to play in the\ndirt as a kid.",
+      "text": "What the?! How'd you get so much\nfurther along\nthan me?!",
       "choice_data_list": [
         "Impressive shovel work...!",
         "Impressive shovel work...!"
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Well, I did earn the nickname the\n\"Mejiro\nHole-Digging Champ\" when I\nused to play in the\ndirt as a kid."
     },
     {
       "name": "Mejiro Palmer",
@@ -59,14 +59,14 @@
     },
     {
       "name": "Palmer Admirers",
-      "text": "Good morning, Palmer! We're here to\nhelp!"
-    },
-    {
-      "name": "Palmer Admirer A",
-      "text": "With this fieldwork! We heard you\nneeded\nbackup, so here we are!",
+      "text": "Good morning, Palmer! We're here to\nhelp!",
       "choice_data_list": [
         "Wait, a helper?"
       ]
+    },
+    {
+      "name": "Palmer Admirer A",
+      "text": "With this fieldwork! We heard you\nneeded\nbackup, so here we are!"
     },
     {
       "name": "Mejiro Palmer",
@@ -106,14 +106,14 @@
     },
     {
       "name": "Cleaning Staff",
-      "text": "Heeey! Palmer! Need a hand?"
-    },
-    {
-      "name": "Monologue",
-      "text": "And so, we set to work with a small army\nto help\nus!",
+      "text": "Heeey! Palmer! Need a hand?",
       "choice_data_list": [
         "Even the cleaning staff...!?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, we set to work with a small army\nto help\nus!"
     },
     {
       "name": "Mejiro Palmer",
@@ -133,14 +133,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hnnngh! Man, I just can't win against\nyou..."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "What?! <i>Another</i> submission about\nPalmer?",
+      "text": "Hnnngh! Man, I just can't win against\nyou...",
       "choice_data_list": [
         "Are you frustrated...?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "What?! <i>Another</i> submission about\nPalmer?"
     },
     {
       "name": "Symboli Rudolf",
@@ -176,7 +176,13 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I'm really grateful for your help, but I'm\nnot gonna\nlose to you, Palmer!"
+      "text": "I'm really grateful for your help, but I'm\nnot gonna\nlose to you, Palmer!",
+      "choice_data_list": [
+        "Give my Palmer more praise!",
+        "Please give my Palmer more praise!",
+        "You're on the fast track to becoming the next student council president!",
+        "You're on the fast track to becoming the next student council president, aren't you?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -190,13 +196,7 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Not you too, Trainer! Enough with the\n\ncompliments!",
-      "choice_data_list": [
-        "Give my Palmer more praise!",
-        "Please give my Palmer more praise!",
-        "You're on the fast track to becoming the next student council president!",
-        "You're on the fast track to becoming the next student council president, aren't you?"
-      ]
+      "text": "Not you too, Trainer! Enough with the\n\ncompliments!"
     },
     {
       "name": "Cleaning Staff",
@@ -224,15 +224,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Hey! I can't let that one slide! <i>I'm</i> gonna\nbe the\none taking over Prez's seat, got\nit?!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "No, they aren't! I'm not trying to fight\nfor that\nseat in the first place!",
+      "text": "Hey! I can't let that one slide! <i>I'm</i> gonna\nbe the\none taking over Prez's seat, got\nit?!",
       "choice_data_list": [
         "Looks like the sparks are really flying now!",
         "Looks like the sparks are really flying now, huh!"
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "No, they aren't! I'm not trying to fight\nfor that\nseat in the first place!"
     }
   ]
 }

@@ -19,14 +19,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I just love hot springs! Soak'n in the\nwater feels so\ngood, like your whole\nbody's melt'n into a\npuddle..."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yep! There's actually a trick to it...",
+      "text": "I just love hot springs! Soak'n in the\nwater feels so\ngood, like your whole\nbody's melt'n into a\npuddle...",
       "choice_data_list": [
         "Does it melt?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yep! There's actually a trick to it..."
     },
     {
       "name": "Yukino Bijin",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "But you gotta be careful! If you zone out\ntoo\nmuch, your mind'll float right off\nalong with your\nbody!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "...Yes.",
+      "text": "But you gotta be careful! If you zone out\ntoo\nmuch, your mind'll float right off\nalong with your\nbody!",
       "choice_data_list": [
         "...Have you done this before?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Yes."
     },
     {
       "name": "Tourist A",
@@ -57,42 +57,42 @@
     },
     {
       "name": "Monologue",
-      "text": "Yukino Bijin's popularity hasn't shown\nsigns of\nflagging after she put herself on\neveryone's radar\nagain. At her request, I\nusually let her deal with\nfans herself\nnow."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Oh, hold on, Trainer. I'll just—",
+      "text": "Yukino Bijin's popularity hasn't shown\nsigns of\nflagging after she put herself on\neveryone's radar\nagain. At her request, I\nusually let her deal with\nfans herself\nnow.",
       "choice_data_list": [
         "(Still, today is...)"
       ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "Huh?",
+      "text": "Oh, hold on, Trainer. I'll just—",
       "choice_data_list": [
         "Leave it to me."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?",
+      "choice_data_list": [
+        "Excuse me."
       ]
     },
     {
       "name": "Tourist B",
       "text": "Oh, uh... Yes?",
       "choice_data_list": [
-        "Excuse me."
+        "I want to let Yukino rest today."
       ]
     },
     {
       "name": "Monologue",
       "text": "Interacting with her fans brings her a lot\nof joy.\nBut just for today, I'd like her to\nforget her\nresponsibilities and relax.",
       "choice_data_list": [
-        "I want to let Yukino rest today."
+        "Could you please pretend you didn't notice?"
       ]
     },
     {
       "name": "Tourist A",
-      "text": "Oh, sorry, we didn't realize... I guess we\njust got a\nlittle excited.",
-      "choice_data_list": [
-        "Could you please pretend you didn't notice?"
-      ]
+      "text": "Oh, sorry, we didn't realize... I guess we\njust got a\nlittle excited."
     },
     {
       "name": "Tourist B",
@@ -100,11 +100,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Thanks for look'n out for me, Trainer."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Huh?!",
+      "text": "Thanks for look'n out for me, Trainer.",
       "choice_data_list": [
         "I was the one who didn't want to.",
         "I just didn't want to."
@@ -112,10 +108,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "...!",
+      "text": "Huh?!",
       "choice_data_list": [
         "Because I want to take my time talking with Yukino."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
     },
     {
       "name": "Yukino Bijin",
@@ -131,14 +131,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Ahhh! That water was to die for!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "I sure did! My body's all loosey-goosey\nnow!",
+      "text": "Ahhh! That water was to die for!",
       "choice_data_list": [
         "Did it melt?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I sure did! My body's all loosey-goosey\nnow!"
     },
     {
       "name": "Yukino Bijin",
@@ -150,11 +150,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I'm gonna need t'put in some real work if\nI wanna\nrent this whole place out,\nthough!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Hehe! Seems like I have!",
+      "text": "I'm gonna need t'put in some real work if\nI wanna\nrent this whole place out,\nthough!",
       "choice_data_list": [
         "You've got a new dream now.",
         "You've got a new dream now, huh."
@@ -162,21 +158,25 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "...A dream, huh?"
+      "text": "Hehe! Seems like I have!"
     },
     {
       "name": "Yukino Bijin",
-      "text": "Actually... I already found m'self another\ndream.",
+      "text": "...A dream, huh?",
       "choice_data_list": [
         "Is something wrong?"
       ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "Well...",
+      "text": "Actually... I already found m'self another\ndream.",
       "choice_data_list": [
         "Can I ask?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Well..."
     },
     {
       "name": "Yukino Bijin",
@@ -192,14 +192,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Be back in a jiff!"
-    },
-    {
-      "name": "Monologue",
-      "text": "It's getting a little late, and it could be\ndangerous\nfor her to wander around on\nher own, so I decide\nto go after her.",
+      "text": "Be back in a jiff!",
       "choice_data_list": [
         "Yukino?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It's getting a little late, and it could be\ndangerous\nfor her to wander around on\nher own, so I decide\nto go after her."
     },
     {
       "name": "Yukino Bijin",
@@ -231,14 +231,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "T-T-Trainer!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "R-righty-roo!",
+      "text": "T-T-Trainer!",
       "choice_data_list": [
         "...Here's to the future together."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "R-righty-roo!"
     },
     {
       "name": "Monologue",

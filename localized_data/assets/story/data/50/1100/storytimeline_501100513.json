@@ -19,14 +19,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I notice Wonder Acute's clothes look\noddly loose\nwhen she heads to the track."
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "Oh? Now that you mention it, it does\nfeel slightly\nbaggy.",
+      "text": "I notice Wonder Acute's clothes look\noddly loose\nwhen she heads to the track.",
       "choice_data_list": [
         "Does that racing outfit fit properly?"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh? Now that you mention it, it does\nfeel slightly\nbaggy."
     },
     {
       "name": "Monologue",
@@ -102,14 +102,14 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Only by maintaining that focus and\nhoning your\nbody to its limit can you\nreach that goal."
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "<i>Especially</i> for an exhibition race, dearie.",
+      "text": "Only by maintaining that focus and\nhoning your\nbody to its limit can you\nreach that goal.",
       "choice_data_list": [
         "Even if it's an exhibition race?"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "<i>Especially</i> for an exhibition race, dearie."
     },
     {
       "name": "Wonder Acute",
@@ -129,7 +129,12 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "That's why I have to show them the\nabsolute best\nthat I can do."
+      "text": "That's why I have to show them the\nabsolute best\nthat I can do.",
+      "choice_data_list": [
+        "Both you and your outfit are totally stoic when it comes to racing.",
+        "Both you and your outfit are so stoic when it comes to racing.",
+        "You're in flawless condition today, too!"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -142,12 +147,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Well now... I don't know about all that.\nI'm only\ndoing what anyone would.",
-      "choice_data_list": [
-        "Both you and your outfit are totally stoic when it comes to racing.",
-        "Both you and your outfit are so stoic when it comes to racing.",
-        "You're in flawless condition today, too!"
-      ]
+      "text": "Well now... I don't know about all that.\nI'm only\ndoing what anyone would."
     },
     {
       "name": "Monologue",

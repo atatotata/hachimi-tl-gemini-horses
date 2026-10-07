@@ -11,14 +11,14 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Are you facing your worries alone? Then\nit's time\nto let out all those pent-up\nemotions! ♪"
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "Oh, hey, Trainer! Ehehe, that's right.",
+      "text": "Are you facing your worries alone? Then\nit's time\nto let out all those pent-up\nemotions! ♪",
       "choice_data_list": [
         "Relationship advice...?"
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, hey, Trainer! Ehehe, that's right."
     },
     {
       "name": "Matikanetannhauser",
@@ -118,7 +118,13 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Heh, heh. Leave the relationship advice\nto me!"
+      "text": "Heh, heh. Leave the relationship advice\nto me!",
+      "choice_data_list": [
+        "That sounded pretty tasty.",
+        "That sounded pretty tasty, didn't it?",
+        "Well, that was resolved in a snap!",
+        "That was resolved in a snap, wasn't it!"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -132,13 +138,7 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Gah... All this talk of food is making me\nhungry.",
-      "choice_data_list": [
-        "That sounded pretty tasty.",
-        "That sounded pretty tasty, didn't it?",
-        "Well, that was resolved in a snap!",
-        "That was resolved in a snap, wasn't it!"
-      ]
+      "text": "Gah... All this talk of food is making me\nhungry."
     },
     {
       "name": "Matikanetannhauser",

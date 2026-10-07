@@ -23,15 +23,15 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "There's still time! Please... put your faith\nin me!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, um... You see...",
+      "text": "There's still time! Please... put your faith\nin me!",
       "choice_data_list": [
         "...What on earth happened?",
         "...What on earth happened?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, um... You see..."
     },
     {
       "name": "Meisho Doto",
@@ -79,7 +79,12 @@
     },
     {
       "name": "Monologue",
-      "text": "I watch her howling at the sky while she\ngets\nbattered by the elements."
+      "text": "I watch her howling at the sky while she\ngets\nbattered by the elements.",
+      "choice_data_list": [
+        "You'll catch a cold!",
+        "You're gonna catch a cold!",
+        "Rain, cease at once!"
+      ]
     },
     {
       "name": "Monologue",
@@ -92,12 +97,7 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Trainer!",
-      "choice_data_list": [
-        "You'll catch a cold!",
-        "You're gonna catch a cold!",
-        "Rain, cease at once!"
-      ]
+      "text": "Trainer!"
     },
     {
       "name": "Monologue",

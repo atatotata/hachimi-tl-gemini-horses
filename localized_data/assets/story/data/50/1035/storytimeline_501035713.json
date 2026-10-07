@@ -15,7 +15,12 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I'll focus <i>super</i> hard on healing, so it'll\nbe gone in\nno time! Let's get back to\npractice, Trainer!"
+      "text": "I'll focus <i>super</i> hard on healing, so it'll\nbe gone in\nno time! Let's get back to\npractice, Trainer!",
+      "choice_data_list": [
+        "Let's play it safe and take the day off today.",
+        "Alright, let's give it our all!",
+        "Alright, let's do our best!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -30,18 +35,13 @@
       "name": "Winning Ticket",
       "text": "No, I swear, I'm totally fine! I get little\ninjuries all\nthe time from working out!",
       "choice_data_list": [
-        "Let's play it safe and take the day off today.",
-        "Alright, let's give it our all!",
-        "Alright, let's do our best!"
+        "Still, I can't help but worry...",
+        "Still, I'm worried about you..."
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Wow! Y-you're really that worried about\nme?",
-      "choice_data_list": [
-        "Still, I can't help but worry...",
-        "Still, I'm worried about you..."
-      ]
+      "text": "Wow! Y-you're really that worried about\nme?"
     },
     {
       "name": "Winning Ticket",
@@ -73,15 +73,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Aaagh!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Y-yeah, of course! I'm totally... totally...",
+      "text": "Aaagh!",
       "choice_data_list": [
         "Are you okay!?",
         "Are you okay!?"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Y-yeah, of course! I'm totally... totally..."
     },
     {
       "name": "Winning Ticket",
@@ -93,15 +93,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "All right! I'll dash at full speed back to\nthe\ntraining track right now!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Gotcha! Thanks for worrying about me! If\nit hurts\nagain, I'll tell you right away!",
+      "text": "All right! I'll dash at full speed back to\nthe\ntraining track right now!",
       "choice_data_list": [
         "Still, pushing yourself too hard is strictly forbidden!",
         "Still, pushing yourself too hard is strictly forbidden, okay?!"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Gotcha! Thanks for worrying about me! If\nit hurts\nagain, I'll tell you right away!"
     },
     {
       "name": "Winning Ticket",

@@ -15,14 +15,14 @@
     },
     {
       "name": "Classmate",
-      "text": "Uh, hello... I'm not really good at singing\nin front\nof people... so, ummm... If you\ndon't mind..."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Yay! Thank you so much!",
+      "text": "Uh, hello... I'm not really good at singing\nin front\nof people... so, ummm... If you\ndon't mind...",
       "choice_data_list": [
         "If it's just a little, sure."
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yay! Thank you so much!"
     },
     {
       "name": "Kitasan Black",
@@ -78,7 +78,13 @@
     },
     {
       "name": "Classmate",
-      "text": "Amazing! I don't feel embarrassed at all\nanymore!"
+      "text": "Amazing! I don't feel embarrassed at all\nanymore!",
+      "choice_data_list": [
+        "That was so powerful!",
+        "That was really powerful!",
+        "Now all that's left is to prepare for the big day!",
+        "Now all that's left is to prepare for the big day!"
+      ]
     },
     {
       "name": "Classmate",
@@ -92,13 +98,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Doesn't she?! I tired myself out just\ntrying to sing\nnext to her!",
-      "choice_data_list": [
-        "That was so powerful!",
-        "That was really powerful!",
-        "Now all that's left is to prepare for the big day!",
-        "Now all that's left is to prepare for the big day!"
-      ]
+      "text": "Doesn't she?! I tired myself out just\ntrying to sing\nnext to her!"
     },
     {
       "name": "Classmate",

@@ -7,11 +7,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Lately, I've been reading picture books\nto\nchildren as an extracurricular activity,\nbut... it's\njust not clicking with me."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Well... You know how fairy tales and\nlegends\naren't exactly true to life?",
+      "text": "Lately, I've been reading picture books\nto\nchildren as an extracurricular activity,\nbut... it's\njust not clicking with me.",
       "choice_data_list": [
         "What does that mean?",
         "What do you mean?"
@@ -19,18 +15,22 @@
     },
     {
       "name": "Biwa Hayahide",
+      "text": "Well... You know how fairy tales and\nlegends\naren't exactly true to life?"
+    },
+    {
+      "name": "Biwa Hayahide",
       "text": "Whenever I read such stories, I can't\nhelp but get\ndistracted by all the errors\nin logic and\ninconsistencies in them."
     },
     {
       "name": "Monologue",
-      "text": "I think I can see where she's coming\nfrom, but I\ndon't fully understand what\nshe means."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Sure, that seems like the best approach.\nAllow me\nto read <i>Momotaro</i> for you.",
+      "text": "I think I can see where she's coming\nfrom, but I\ndon't fully understand what\nshe means.",
       "choice_data_list": [
         "Could you show me how it's done?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sure, that seems like the best approach.\nAllow me\nto read <i>Momotaro</i> for you."
     },
     {
       "name": "Biwa Hayahide",
@@ -62,14 +62,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "If that's the case, how did he not die of\n\nasphyxiation?"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Then there's the part where the old man\nand\nwoman cut the peach in half.",
+      "text": "If that's the case, how did he not die of\n\nasphyxiation?",
       "choice_data_list": [
         "W-Well, that's..."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Then there's the part where the old man\nand\nwoman cut the peach in half."
     },
     {
       "name": "Biwa Hayahide",
@@ -77,11 +77,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "But that wouldn't make any sense since\nthey\ndidn't even know he was in there."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Even if I am, what benefit is there to\nlearn about\nthings that are logically\nimpossible?",
+      "text": "But that wouldn't make any sense since\nthey\ndidn't even know he was in there.",
       "choice_data_list": [
         "Aren't you overthinking it a bit?",
         "Maybe you're overthinking it a bit."
@@ -89,11 +85,20 @@
     },
     {
       "name": "Biwa Hayahide",
+      "text": "Even if I am, what benefit is there to\nlearn about\nthings that are logically\nimpossible?"
+    },
+    {
+      "name": "Biwa Hayahide",
       "text": "I'd rather not take part in teaching\nfalsities to\nchildren."
     },
     {
       "name": "Monologue",
-      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen..."
+      "text": "From the look on her face, I can tell\nshe's truly\ndedicated to this. If she's\ngoing to take things this\nseriously,\nthen...",
+      "choice_data_list": [
+        "Maybe you could try doing it your own way.",
+        "Maybe you could try doing it your own way.",
+        "Why not turn it into a study session?"
+      ]
     },
     {
       "name": "Monologue",
@@ -108,17 +113,12 @@
       "name": "Biwa Hayahide",
       "text": "My own twist?",
       "choice_data_list": [
-        "Maybe you could try doing it your own way.",
-        "Maybe you could try doing it your own way.",
-        "Why not turn it into a study session?"
+        "Maybe try pursuing the logic all the way through?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You mean reconstruct them in a way that\nmakes\nsense? That does sound\nintriguing...",
-      "choice_data_list": [
-        "Maybe try pursuing the logic all the way through?"
-      ]
+      "text": "You mean reconstruct them in a way that\nmakes\nsense? That does sound\nintriguing..."
     },
     {
       "name": "Monologue",

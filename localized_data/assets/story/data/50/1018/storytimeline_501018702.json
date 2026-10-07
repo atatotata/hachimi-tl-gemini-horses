@@ -11,11 +11,7 @@
     },
     {
       "name": "Monologue",
-      "text": "As we walk back to the academy, I hear\na feeble\nand vaguely cute-sounding\nnoise."
-    },
-    {
-      "name": "Air Groove",
-      "text": "You fool! I'm appalled that you'd even\nsuggest as\nmuch. You need to get your\nears checked!",
+      "text": "As we walk back to the academy, I hear\na feeble\nand vaguely cute-sounding\nnoise.",
       "choice_data_list": [
         "Are you hungry?",
         "Hungry?"
@@ -23,14 +19,18 @@
     },
     {
       "name": "Air Groove",
-      "text": "That was clearly an animal!"
+      "text": "You fool! I'm appalled that you'd even\nsuggest as\nmuch. You need to get your\nears checked!"
     },
     {
-      "name": "Monologue",
-      "text": "I look around and find...",
+      "name": "Air Groove",
+      "text": "That was clearly an animal!",
       "choice_data_list": [
         "A chirp..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I look around and find..."
     },
     {
       "name": "Puppy",
@@ -46,14 +46,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "No collar. Hmm..."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Hold on. Your heart is in the right place,\nbut\npoorly administered medical care\ncan do more\nharm than good.",
+      "text": "No collar. Hmm...",
       "choice_data_list": [
         "First aid, now...!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hold on. Your heart is in the right place,\nbut\npoorly administered medical care\ncan do more\nharm than good."
     },
     {
       "name": "Air Groove",
@@ -97,22 +97,22 @@
     },
     {
       "name": "Air Groove",
-      "text": "Heh... Hahaha! You're quite\nrambunctious, aren't\nyou?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Hm? If you have something to say, just\nsay it.",
+      "text": "Heh... Hahaha! You're quite\nrambunctious, aren't\nyou?",
       "choice_data_list": [
         "(Oh, she smiled!)"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "You're a terrible liar, you know. Go\non—spit it\nout!",
+      "text": "Hm? If you have something to say, just\nsay it.",
       "choice_data_list": [
         "No, it's nothiiing...",
         "No, it's nothing~..."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "You're a terrible liar, you know. Go\non—spit it\nout!"
     },
     {
       "name": "Veterinary Staff",
@@ -152,7 +152,13 @@
     },
     {
       "name": "Monologue",
-      "text": "Air Groove's objections make sense, but\nafter\nseeing how she smiled moments\nago, I have a\nhard time believing she\nmeans them. I decide to\nchime in."
+      "text": "Air Groove's objections make sense, but\nafter\nseeing how she smiled moments\nago, I have a\nhard time believing she\nmeans them. I decide to\nchime in.",
+      "choice_data_list": [
+        "Then maybe I should hold onto it in my room~",
+        "Then maybe I'll look after it in my room~",
+        "I'm sure you'll be fine.",
+        "I'm sure you'll do fine."
+      ]
     },
     {
       "name": "Monologue",
@@ -166,13 +172,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "What?! Have you given proper\nconsideration to\nthe meaning of what\nyou're saying?!",
-      "choice_data_list": [
-        "Then maybe I should hold onto it in my room~",
-        "Then maybe I'll look after it in my room~",
-        "I'm sure you'll be fine.",
-        "I'm sure you'll do fine."
-      ]
+      "text": "What?! Have you given proper\nconsideration to\nthe meaning of what\nyou're saying?!"
     },
     {
       "name": "Air Groove",
@@ -188,15 +188,15 @@
     },
     {
       "name": "Air Groove",
-      "text": "...Ack."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Graaahhhh, enough!",
+      "text": "...Ack.",
       "choice_data_list": [
         "Dogs really are cute, aren't they?",
         "Dogs are just so cute, aren't they?"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Graaahhhh, enough!"
     },
     {
       "name": "Air Groove",
@@ -212,22 +212,22 @@
     },
     {
       "name": "Air Groove",
-      "text": "Ngh... This is a life-or-death matter! We\nhave to\ntake it seriously."
-    },
-    {
-      "name": "Air Groove",
-      "text": "And what makes you so confident?",
+      "text": "Ngh... This is a life-or-death matter! We\nhave to\ntake it seriously.",
       "choice_data_list": [
         "I wasn't being careless."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I tell Air Groove that after all the time\nI've spent\nwith her, I know she can do\nanything she sets her\nmind to.",
+      "name": "Air Groove",
+      "text": "And what makes you so confident?",
       "choice_data_list": [
         "The fact that I'm your Trainer!",
         "The fact that I'm your Trainer!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell Air Groove that after all the time\nI've spent\nwith her, I know she can do\nanything she sets her\nmind to."
     },
     {
       "name": "Air Groove",

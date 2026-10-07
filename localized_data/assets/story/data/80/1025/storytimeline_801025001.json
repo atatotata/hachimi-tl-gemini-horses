@@ -11,11 +11,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I see an Umamusume running silently\nalone. I can't\nseem to recall how long\nshe's been out here,\ndespite patrolling\nthe area for so long."
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "...",
+      "text": "I see an Umamusume running silently\nalone. I can't\nseem to recall how long\nshe's been out here,\ndespite patrolling\nthe area for so long.",
       "choice_data_list": [
         "...Still planning to run more?",
         "...Still planning to run more?"
@@ -23,14 +19,24 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Yes... Goodbye.",
+      "text": "...",
       "choice_data_list": [
         "Heeeeey!"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "..."
+      "text": "Yes... Goodbye."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "...Do you always run this much?",
+        "...Do you always run this much?",
+        "...What incredible focus.",
+        "...You've got amazing focus, don't you?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -46,19 +52,13 @@
       "name": "Manhattan Cafe",
       "text": "There's someone I want to catch up to...\nso I have\nto keep running too.",
       "choice_data_list": [
-        "...Do you always run this much?",
-        "...Do you always run this much?",
-        "...What incredible focus.",
-        "...You've got amazing focus, don't you?"
+        "Does that mean you've got a goal?",
+        "Does that mean you have a goal?"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Night always falls while I'm running.\nThat's why... I\nalways run... this much.",
-      "choice_data_list": [
-        "Does that mean you've got a goal?",
-        "Does that mean you have a goal?"
-      ]
+      "text": "Night always falls while I'm running.\nThat's why... I\nalways run... this much."
     },
     {
       "name": "Manhattan Cafe",

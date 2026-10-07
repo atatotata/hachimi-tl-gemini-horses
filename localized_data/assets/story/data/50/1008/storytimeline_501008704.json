@@ -43,14 +43,14 @@
     },
     {
       "name": "Vodka",
-      "text": "But it's true, isn't it? What you're doin' is\nsuper\nlame."
-    },
-    {
-      "name": "Vodka",
-      "text": "What? It's not like I'm sayin' anything\nwrong.",
+      "text": "But it's true, isn't it? What you're doin' is\nsuper\nlame.",
       "choice_data_list": [
         "Vodka!"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "What? It's not like I'm sayin' anything\nwrong."
     },
     {
       "name": "Man A",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Man A",
-      "text": "Hey, you! If you're in charge of this brat,\nyou\noughta teach her some manners!"
-    },
-    {
-      "name": "Vodka",
-      "text": "Huh?! What're you apologizin' for?!",
+      "text": "Hey, you! If you're in charge of this brat,\nyou\noughta teach her some manners!",
       "choice_data_list": [
         "...I'm very sorry."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Huh?! What're you apologizin' for?!"
     },
     {
       "name": "Vodka",
@@ -77,7 +77,15 @@
     },
     {
       "name": "Monologue",
-      "text": "This could really turn ugly. What should\nI do?"
+      "text": "This could really turn ugly. What should\nI do?",
+      "choice_data_list": [
+        "Leave this to me!",
+        "Leave this to me!",
+        "Time to run!",
+        "Let's run!",
+        "Vodka, I'll leave it to you.",
+        "Vodka, I leave it in your hands."
+      ]
     },
     {
       "name": "Monologue",
@@ -93,37 +101,29 @@
     },
     {
       "name": "Vodka",
-      "text": "Huh?",
-      "choice_data_list": [
-        "Leave this to me!",
-        "Leave this to me!",
-        "Time to run!",
-        "Let's run!",
-        "Vodka, I'll leave it to you.",
-        "Vodka, I leave it in your hands."
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Man A",
-      "text": "What? Now you're gonna do something\ntoo?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I can't let Vodka get hurt. I want to take\ncare of\nthis calmly, but just as I take a\nstep forward...",
+      "text": "What? Now you're gonna do something\ntoo?",
       "choice_data_list": [
         "I am her guardian, after all."
       ]
     },
     {
       "name": "Monologue",
-      "text": "<i>Slip...</i>"
+      "text": "I can't let Vodka get hurt. I want to take\ncare of\nthis calmly, but just as I take a\nstep forward..."
     },
     {
-      "name": "Vodka and Man A",
-      "text": "Huh?!",
+      "name": "Monologue",
+      "text": "<i>Slip...</i>",
       "choice_data_list": [
         "Ah."
       ]
+    },
+    {
+      "name": "Vodka and Man A",
+      "text": "Huh?!"
     },
     {
       "name": "Vodka",
@@ -139,21 +139,21 @@
     },
     {
       "name": "Vodka",
-      "text": "Geez... Why'd you do something so out\nof\ncharacter?"
-    },
-    {
-      "name": "Vodka",
-      "text": "Can't you tell? The academy infirmary.",
+      "text": "Geez... Why'd you do something so out\nof\ncharacter?",
       "choice_data_list": [
         "Where are we...?"
       ]
     },
     {
       "name": "Vodka",
-      "text": "It's no big deal. Just, well, y'know...",
+      "text": "Can't you tell? The academy infirmary.",
       "choice_data_list": [
         "Why are you here...?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "It's no big deal. Just, well, y'know..."
     },
     {
       "name": "Vodka",
@@ -221,14 +221,14 @@
     },
     {
       "name": "Vodka",
-      "text": "W-we didn't do anything wrong, though.\nWhy'd\nwe run away?"
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "Vodka, you really don't understand\nother\npeople's feelings, do you?",
+      "text": "W-we didn't do anything wrong, though.\nWhy'd\nwe run away?",
       "choice_data_list": [
         "Sorry for making you look uncool."
       ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vodka, you really don't understand\nother\npeople's feelings, do you?"
     },
     {
       "name": "Vodka",
@@ -256,15 +256,15 @@
     },
     {
       "name": "Vodka",
-      "text": "To... protect me? Is that true?"
-    },
-    {
-      "name": "Vodka",
-      "text": "I... had no idea.",
+      "text": "To... protect me? Is that true?",
       "choice_data_list": [
         "...Yeah.",
         "...Yeah."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "I... had no idea."
     },
     {
       "name": "Vodka",
@@ -280,15 +280,15 @@
     },
     {
       "name": "Vodka",
-      "text": "But when that happens, will you stop me\nagain\nlike you did today?"
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "<i>Sigh...</i> Don't make your trainer baby you,\nVodka.\nYou should grow up at least a\nlittle too.",
+      "text": "But when that happens, will you stop me\nagain\nlike you did today?",
       "choice_data_list": [
         "Of course, that's the plan.",
         "Of course, that's the plan."
       ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Sigh...</i> Don't make your trainer baby you,\nVodka.\nYou should grow up at least a\nlittle too."
     },
     {
       "name": "Vodka",
@@ -304,15 +304,15 @@
     },
     {
       "name": "Vodka",
-      "text": "Huh? What's that supposed to mean?"
-    },
-    {
-      "name": "Vodka",
-      "text": "...!",
+      "text": "Huh? What's that supposed to mean?",
       "choice_data_list": [
         "You already know what's right, don't you?",
         "You already know what the right thing to do is, don't you?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...!"
     },
     {
       "name": "Man A",
@@ -340,14 +340,14 @@
     },
     {
       "name": "Vodka",
-      "text": "What would you have done if I went on a\n\nrampage and beat him up?"
-    },
-    {
-      "name": "Vodka",
-      "text": "...Really? You did?",
+      "text": "What would you have done if I went on a\n\nrampage and beat him up?",
       "choice_data_list": [
         "Because I believed in you."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...Really? You did?"
     },
     {
       "name": "Monologue",
@@ -367,25 +367,25 @@
     },
     {
       "name": "Vodka",
-      "text": "That made me not wanna fight for some\nreason...\nGeez, I've totally changed."
-    },
-    {
-      "name": "Vodka",
-      "text": "Huh? That was... cool? What do you\nmean?",
+      "text": "That made me not wanna fight for some\nreason...\nGeez, I've totally changed.",
       "choice_data_list": [
         "I think that's really cool."
       ]
     },
     {
       "name": "Vodka",
-      "text": "What's gotten into you all of a sudden?"
+      "text": "Huh? That was... cool? What do you\nmean?"
     },
     {
       "name": "Vodka",
-      "text": "...I see. It's not just about jumping\nstraight in.",
+      "text": "What's gotten into you all of a sudden?",
       "choice_data_list": [
         "Being able to keep your cool when it counts is really cool."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...I see. It's not just about jumping\nstraight in."
     },
     {
       "name": "Vodka",
@@ -393,14 +393,14 @@
     },
     {
       "name": "Vodka",
-      "text": "Thanks, Trainer..."
-    },
-    {
-      "name": "Vodka",
-      "text": "Thanks to you, I finally understand what\nit means\nto be cool.",
+      "text": "Thanks, Trainer...",
       "choice_data_list": [
         "Huh...?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Thanks to you, I finally understand what\nit means\nto be cool."
     },
     {
       "name": "Vodka",

@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "Big Brother... I... I..."
+      "text": "Big Brother... I... I...",
+      "choice_data_list": [
+        "That was so close.",
+        "You were so close."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Yeah... So close!",
-      "choice_data_list": [
-        "That was so close.",
-        "You were so close."
-      ]
+      "text": "Yeah... So close!"
     },
     {
       "name": "Rice Shower",
@@ -27,14 +27,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I wanted to catch her so badly this time!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Right!",
+      "text": "I wanted to catch her so badly this time!",
       "choice_data_list": [
         "...Let's win next time."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Right!"
     },
     {
       "name": "Mihono Bourbon",

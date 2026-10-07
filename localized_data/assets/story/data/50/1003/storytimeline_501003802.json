@@ -7,15 +7,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Oof, I'm tuckered out. I got so into my\ntraining\ntoday, I think I might've pushed\nmyself too hard."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "I will! I'll take a shower and... huh?",
+      "text": "Oof, I'm tuckered out. I got so into my\ntraining\ntoday, I think I might've pushed\nmyself too hard.",
       "choice_data_list": [
         "Let's make sure to rest well once we get back.",
         "Let's get plenty of rest once we get back, okay?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "I will! I'll take a shower and... huh?"
     },
     {
       "name": "Tokai Teio",
@@ -39,15 +39,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I'm all good, no probs here! Right,\nTrainer?"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Don't wooorry! I'll be fine! All right, let's\nknock\nthis out!",
+      "text": "I'm all good, no probs here! Right,\nTrainer?",
       "choice_data_list": [
         "Don't overdo it, alright?",
         "Don't overdo it, okay?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Don't wooorry! I'll be fine! All right, let's\nknock\nthis out!"
     },
     {
       "name": "",
@@ -167,18 +167,23 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "..."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "No, that's not it! Aaagh... What have I\ndone?!",
+      "text": "...",
       "choice_data_list": [
         "Exhausted after all that?"
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Just as Prez finally invited me to a\nscrimmage!"
+      "text": "No, that's not it! Aaagh... What have I\ndone?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Just as Prez finally invited me to a\nscrimmage!",
+      "choice_data_list": [
+        "You're competing on a proper stage, aren't you?",
+        "You're competing on a proper stage, aren't you?",
+        "If we're going to compete, we need preparation!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -193,18 +198,13 @@
       "name": "Tokai Teio",
       "text": "Yeah, but...",
       "choice_data_list": [
-        "You're competing on a proper stage, aren't you?",
-        "You're competing on a proper stage, aren't you?",
-        "If we're going to compete, we need preparation!"
+        "First, we've got to make it to that stage.",
+        "First, we have to make it to that stage."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Oh... that's right! First off is getting to\nwhere Prez\nis at!",
-      "choice_data_list": [
-        "First, we've got to make it to that stage.",
-        "First, we have to make it to that stage."
-      ]
+      "text": "Oh... that's right! First off is getting to\nwhere Prez\nis at!"
     },
     {
       "name": "Tokai Teio",
@@ -216,15 +216,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Ah... I can't wait to run against Prez!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Yeah! We're gonna surpass Prez\ntogether, Trainer!",
+      "text": "Ah... I can't wait to run against Prez!",
       "choice_data_list": [
         "Let's win this.",
         "Let's win."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yeah! We're gonna surpass Prez\ntogether, Trainer!"
     }
   ]
 }

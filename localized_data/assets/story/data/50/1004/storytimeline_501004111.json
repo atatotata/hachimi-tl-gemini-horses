@@ -27,14 +27,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Today, I'm going to take you to a fly\nspot that\nonly the hippest homeslices\nknow about!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Oh my, aren't we suspicious! You know\nI'm always\non the lookout for the latest\ntrends! If I say it's\nfly, then you can be\nsure it's <i>legit!</i>",
+      "text": "Today, I'm going to take you to a fly\nspot that\nonly the hippest homeslices\nknow about!",
       "choice_data_list": [
         "Is this really a trendy spot?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh my, aren't we suspicious! You know\nI'm always\non the lookout for the latest\ntrends! If I say it's\nfly, then you can be\nsure it's <i>legit!</i>"
     },
     {
       "name": "Maruzensky",
@@ -42,14 +42,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "We're here!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Are you surprised?",
+      "text": "We're here!",
       "choice_data_list": [
         "The racecourse is a happening spot?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Are you surprised?"
     },
     {
       "name": "Maruzensky",
@@ -69,15 +69,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "You can even meet famous\nUmamusume... like\nme! Heehee,\nkidding! ♪"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "I know, right? Everyone here looks like\nthey're\nhaving a great time!",
+      "text": "You can even meet famous\nUmamusume... like\nme! Heehee,\nkidding! ♪",
       "choice_data_list": [
         "It sure is a lively hot spot.",
         "It sure is a lively hot spot, isn't it?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I know, right? Everyone here looks like\nthey're\nhaving a great time!"
     },
     {
       "name": "Maruzensky",
@@ -149,7 +149,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "It's all thanks to your support, Trainer!"
+      "text": "It's all thanks to your support, Trainer!",
+      "choice_data_list": [
+        "I just wanted to see you run.",
+        "I just wanted to see you run."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -161,11 +165,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Heehee! Your compliments are what\nmake me the\nhappiest!",
-      "choice_data_list": [
-        "I just wanted to see you run.",
-        "I just wanted to see you run."
-      ]
+      "text": "Heehee! Your compliments are what\nmake me the\nhappiest!"
     },
     {
       "name": "Maruzensky",
@@ -173,15 +173,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "You'll be watching me, right? From your\nspecial\nplace in my passenger seat!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "I will! And I'll keep it going at full\nthrottle!",
+      "text": "You'll be watching me, right? From your\nspecial\nplace in my passenger seat!",
       "choice_data_list": [
         "Looking forward to working with you from now on, too.",
         "Looking forward to keeping at it together from here on out, too."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I will! And I'll keep it going at full\nthrottle!"
     }
   ]
 }

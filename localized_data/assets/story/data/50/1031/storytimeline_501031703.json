@@ -11,22 +11,22 @@
     },
     {
       "name": "Daitaku Helios",
-      "text": "...So, basically, Ines's managers want to\nshow her\nhow grateful they are for\neverything she does!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Yeah! It's going to be totes emosh!\nAren't you,\nlike, dying to lend a hand?",
+      "text": "...So, basically, Ines's managers want to\nshow her\nhow grateful they are for\neverything she does!",
       "choice_data_list": [
         "So... you're planning an appreciation party, then?"
       ]
     },
     {
-      "name": "Daitaku Helios",
-      "text": "What happened again? Oh yeah, we\ncame by to\neat some ramen and the\nmanager was like, \"Are\nyou guys friends\nwith Fu?\"",
+      "name": "Mejiro Palmer",
+      "text": "Yeah! It's going to be totes emosh!\nAren't you,\nlike, dying to lend a hand?",
       "choice_data_list": [
         "Why are you two helping out?",
         "Why are you two helping out?"
       ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "What happened again? Oh yeah, we\ncame by to\neat some ramen and the\nmanager was like, \"Are\nyou guys friends\nwith Fu?\""
     },
     {
       "name": "Mejiro Palmer",
@@ -38,15 +38,15 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "So, yeah, that's how the whole party\nidea came\nabout."
-    },
-    {
-      "name": "Daitaku Helios",
-      "text": "Whoa, are you hype too, Trainer? Yus!\nLet's make\nthis the most lit party ever!",
+      "text": "So, yeah, that's how the whole party\nidea came\nabout.",
       "choice_data_list": [
         "Got it. What should I do?",
         "Got it. What should I do?"
       ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Whoa, are you hype too, Trainer? Yus!\nLet's make\nthis the most lit party ever!"
     },
     {
       "name": "Monologue",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh? Trainer?! What are you doing\nhere?"
-    },
-    {
-      "name": "Team Leader",
-      "text": "Oh, you know this person, Ines? I found\nthem\nwandering around the part-time\nreception area.\nWould you mind showing\nthis newbie the ropes?",
+      "text": "Huh? Trainer?! What are you doing\nhere?",
       "choice_data_list": [
         "Um, th-this is..."
       ]
+    },
+    {
+      "name": "Team Leader",
+      "text": "Oh, you know this person, Ines? I found\nthem\nwandering around the part-time\nreception area.\nWould you mind showing\nthis newbie the ropes?"
     },
     {
       "name": "Ines Fujin",
@@ -121,11 +121,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I can definitely see why her managers\nare so\ngrateful to have her on staff."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Hehe, thanks. You weren't half bad\nyourself,\nTrainer. ♪",
+      "text": "I can definitely see why her managers\nare so\ngrateful to have her on staff.",
       "choice_data_list": [
         "You really pay close attention to everyone, don't you?",
         "You really pay close attention to everyone, don't you?"
@@ -133,10 +129,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Hmm, my secret... I've never really\nthought about\nit that way. I mean, I\nthink personality comes into\nit.",
+      "text": "Hehe, thanks. You weren't half bad\nyourself,\nTrainer. ♪",
       "choice_data_list": [
         "Got any tips for doing the job well?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hmm, my secret... I've never really\nthought about\nit that way. I mean, I\nthink personality comes into\nit."
     },
     {
       "name": "Ines Fujin",
@@ -160,7 +160,13 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Even now, remembering that feeling\nhelps me do\nmy best!"
+      "text": "Even now, remembering that feeling\nhelps me do\nmy best!",
+      "choice_data_list": [
+        "That's so like you.",
+        "That's very you.",
+        "That's a wonderful mindset.",
+        "That's a wonderful mindset."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -174,13 +180,7 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Well, I'd say it practically sums up my\nwhole way\nof life!",
-      "choice_data_list": [
-        "That's so like you.",
-        "That's very you.",
-        "That's a wonderful mindset.",
-        "That's a wonderful mindset."
-      ]
+      "text": "Well, I'd say it practically sums up my\nwhole way\nof life!"
     },
     {
       "name": "Ines Fujin",

@@ -19,22 +19,22 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Do you think she's okay?"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "I guess...",
+      "text": "Do you think she's okay?",
       "choice_data_list": [
         "They might just be busy with work, too."
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "...Okay.",
+      "text": "I guess...",
       "choice_data_list": [
         "Don't worry, none of you need to worry.",
         "It's okay, you guys don't need to worry."
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Okay."
     },
     {
       "name": "Mihono Bourbon",
@@ -46,14 +46,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Even though I played it down just now, I\nam\nhonestly worried about Light Hello."
-    },
-    {
-      "name": "Monologue",
-      "text": "Later that day, I visit Light Hello's office.",
+      "text": "Even though I played it down just now, I\nam\nhonestly worried about Light Hello.",
       "choice_data_list": [
         "ï¼â¦â¦I'll pay her a visit tonight.ï¼"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Later that day, I visit Light Hello's office."
     },
     {
       "name": "Light Hello",
@@ -73,11 +73,7 @@
     },
     {
       "name": "Light Hello",
-      "text": "So really, I'm fine. You don't have to\nworry about\nme..."
-    },
-    {
-      "name": "Light Hello",
-      "text": "...",
+      "text": "So really, I'm fine. You don't have to\nworry about\nme...",
       "choice_data_list": [
         "It doesn't look that way."
       ]
@@ -88,6 +84,10 @@
       "choice_data_list": [
         "Could we chat for a bit?"
       ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "..."
     },
     {
       "name": "Light Hello",
@@ -255,14 +255,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Is that a miscalculation on my part?"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "No, you're exactly right.",
+      "text": "...Is that a miscalculation on my part?",
       "choice_data_list": [
         "...It's not a mistake!"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No, you're exactly right."
     },
     {
       "name": "Smart Falcon",
@@ -294,21 +294,21 @@
     },
     {
       "name": "Monologue",
-      "text": "As Falcon and Bourbon have just shown,\nthe girls\nhave found another meaning in\nit—something\ndeeply compelling."
-    },
-    {
-      "name": "Light Hello",
-      "text": "Reconsidering... what, exactly?",
+      "text": "As Falcon and Bourbon have just shown,\nthe girls\nhave found another meaning in\nit—something\ndeeply compelling.",
       "choice_data_list": [
         "Won't you reconsider one more time?"
       ]
     },
     {
       "name": "Light Hello",
-      "text": "...!",
+      "text": "Reconsidering... what, exactly?",
       "choice_data_list": [
         "'The Possibilities of the Grand Live,' that is."
       ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "...!"
     },
     {
       "name": "Mihono Bourbon",

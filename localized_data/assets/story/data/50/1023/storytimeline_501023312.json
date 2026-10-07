@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
-      "text": "That's it for the Kikuka Sho..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "And... I lost.",
+      "text": "That's it for the Kikuka Sho...",
       "choice_data_list": [
         "Yeah, you're right.",
         "Yeah."
@@ -15,7 +11,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yeah... Trainer? I...",
+      "text": "And... I lost.",
       "choice_data_list": [
         "...Yeah, you're right.",
         "Right..."
@@ -23,15 +19,19 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I <i>will</i> win the next one."
+      "text": "Yeah... Trainer? I..."
     },
     {
-      "name": "",
-      "text": "Biwa Hayahide put everything on the\nline for the\nKikuka Sho. But now that it's\nover, things feel a\nlittle different than\nusual.",
+      "name": "Biwa Hayahide",
+      "text": "I <i>will</i> win the next one.",
       "choice_data_list": [
         "...Ah!",
         "...Yeah!"
       ]
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide put everything on the\nline for the\nKikuka Sho. But now that it's\nover, things feel a\nlittle different than\nusual."
     },
     {
       "name": "",
@@ -79,14 +79,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Good question. Well, since we finished\nall the\nClassic Triple Crown races, the\nnext one available\nafter winter is..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Exactly. It's a prestigious race in Kyoto,\nand I\nreally want to compete with elite\nracers there.",
+      "text": "Good question. Well, since we finished\nall the\nClassic Triple Crown races, the\nnext one available\nafter winter is...",
       "choice_data_list": [
         "Maybe the Tenno Sho (Spring)..."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Exactly. It's a prestigious race in Kyoto,\nand I\nreally want to compete with elite\nracers there."
     },
     {
       "name": "Biwa Hayahide",
@@ -114,15 +114,15 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You heard them, Trainer! We'd better go\nat this\nnext one with the same energy!"
-    },
-    {
-      "name": "",
-      "text": "It's an utter relief seeing how much\nbrighter her\nsmile is than before.",
+      "text": "You heard them, Trainer! We'd better go\nat this\nnext one with the same energy!",
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
       ]
+    },
+    {
+      "name": "",
+      "text": "It's an utter relief seeing how much\nbrighter her\nsmile is than before."
     }
   ]
 }

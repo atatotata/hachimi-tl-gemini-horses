@@ -3,39 +3,39 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "After the day's training is done, I decide\nto go\nover our upcoming schedule. As I\ntake out my\nnotebook..."
-    },
-    {
-      "name": "Monologue",
-      "text": "It slips out of my hands... and drops\nsmack into a\npuddle.",
+      "text": "After the day's training is done, I decide\nto go\nover our upcoming schedule. As I\ntake out my\nnotebook...",
       "choice_data_list": [
         "Ah?!"
       ]
     },
     {
-      "name": "Nishino Flower",
-      "text": "Um, I can make a cover for it if you like?",
+      "name": "Monologue",
+      "text": "It slips out of my hands... and drops\nsmack into a\npuddle.",
       "choice_data_list": [
         "*sigh* I need to buy a new one..."
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Yes! It won't be able to fix the damage,\nbut it\nshould help protect your\nnotebook a bit longer.",
+      "text": "Um, I can make a cover for it if you like?",
       "choice_data_list": [
         "Wait, a planner cover?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I appreciate the thought, but I don't\nwant it to\ntake up Nishino Flower's free\ntime."
+      "name": "Nishino Flower",
+      "text": "Yes! It won't be able to fix the damage,\nbut it\nshould help protect your\nnotebook a bit longer."
     },
     {
-      "name": "???",
-      "text": "Aw shucks, what a waste!",
+      "name": "Monologue",
+      "text": "I appreciate the thought, but I don't\nwant it to\ntake up Nishino Flower's free\ntime.",
       "choice_data_list": [
         "I'd feel bad asking you to go that far."
       ]
+    },
+    {
+      "name": "???",
+      "text": "Aw shucks, what a waste!"
     },
     {
       "name": "Seiun Sky",
@@ -43,15 +43,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "The cover she made for my tackle box\nhas been\ntough enough to withstand\nevery kind of adverse\nelement I've\nsubjected it to."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Yep, and it works like a dream. I'd like\nto ask her\nto make me another one,\nhonestly.",
+      "text": "The cover she made for my tackle box\nhas been\ntough enough to withstand\nevery kind of adverse\nelement I've\nsubjected it to.",
       "choice_data_list": [
         "Is it really that sturdy?",
         "It's really that sturdy, huh."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Yep, and it works like a dream. I'd like\nto ask her\nto make me another one,\nhonestly."
     },
     {
       "name": "Nishino Flower",
@@ -71,15 +71,15 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "They've shielded my arm against\ncountless\nmishaps, from explosions to\nchemical spills!"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Precisely! What's more, the covers'\ntexture is\noutstanding, making them\nextremely comfortable\nto wear!",
+      "text": "They've shielded my arm against\ncountless\nmishaps, from explosions to\nchemical spills!",
       "choice_data_list": [
         "Th-That's surprisingly sturdy.",
         "Th-That's surprisingly sturdy, huh."
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Precisely! What's more, the covers'\ntexture is\noutstanding, making them\nextremely comfortable\nto wear!"
     },
     {
       "name": "Agnes Tachyon",
@@ -103,15 +103,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "No kiddin'! Flower's covers are all the\nrip-roarin'\nrage!"
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Taiki! R-rip... roaring?",
+      "text": "No kiddin'! Flower's covers are all the\nrip-roarin'\nrage!",
       "choice_data_list": [
         "W-What now!?",
         "W-What is it now!?"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Taiki! R-rip... roaring?"
     },
     {
       "name": "Taiki Shuttle",
@@ -131,15 +131,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Before we know it, we're surrounded by\n\npassionate devotees of Nishino Flower's\n\nhandmade covers. They shower her work\nwith\neffusive praise."
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "I had no idea everyone was so pleased\nwith\nthem... I only made those covers for\nfun. If\nanything, I thought I was just\nbeing a bother...",
+      "text": "Before we know it, we're surrounded by\n\npassionate devotees of Nishino Flower's\n\nhandmade covers. They shower her work\nwith\neffusive praise.",
       "choice_data_list": [
         "That's some incredible popularity.",
         "That's some incredible popularity."
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I had no idea everyone was so pleased\nwith\nthem... I only made those covers for\nfun. If\nanything, I thought I was just\nbeing a bother..."
     },
     {
       "name": "Everyone",
@@ -151,7 +151,12 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Ohh... My cheeks are burning up!"
+      "text": "Ohh... My cheeks are burning up!",
+      "choice_data_list": [
+        "I'm looking forward to the planner cover too.",
+        "I'm looking forward to the planner cover too.",
+        "I think you're allowed to be way happier about this!"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -166,17 +171,12 @@
       "name": "Nishino Flower",
       "text": "O-oh, right! One notebook cover coming\nright up!",
       "choice_data_list": [
-        "I'm looking forward to the planner cover too.",
-        "I'm looking forward to the planner cover too.",
-        "I think you're allowed to be way happier about this!"
+        "Please"
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "I'll put all my heart into it, so I hope it\nputs a\nsmile on your face! And I'll make\ncovers for\neveryone else, of course!",
-      "choice_data_list": [
-        "Please"
-      ]
+      "text": "I'll put all my heart into it, so I hope it\nputs a\nsmile on your face! And I'll make\ncovers for\neveryone else, of course!"
     },
     {
       "name": "Seiun Sky",

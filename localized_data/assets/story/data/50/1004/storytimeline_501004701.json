@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Yoo-hoo! Trainer!"
+      "text": "Yoo-hoo! Trainer!",
+      "choice_data_list": [
+        "Looks like you're in high spirits.",
+        "You seem to be in high spirits."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Absitively posolutely! I slept really well\nlast night.",
-      "choice_data_list": [
-        "Looks like you're in high spirits.",
-        "You seem to be in high spirits."
-      ]
+      "text": "Absitively posolutely! I slept really well\nlast night."
     },
     {
       "name": "Maruzensky",

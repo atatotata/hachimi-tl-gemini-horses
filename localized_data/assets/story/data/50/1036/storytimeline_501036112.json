@@ -15,14 +15,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I'll get Parcae to simulate a training\nprogram\nthat'll eliminate inefficiency."
-    },
-    {
-      "name": "Monologue",
-      "text": "I decide to look at my past notes to help\norganize\nmy thoughts. I go to open my\ndesk drawer, and\nwhen I do...",
+      "text": "I'll get Parcae to simulate a training\nprogram\nthat'll eliminate inefficiency.",
       "choice_data_list": [
         "Got it."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I decide to look at my past notes to help\norganize\nmy thoughts. I go to open my\ndesk drawer, and\nwhen I do..."
     },
     {
       "name": "Monologue",
@@ -42,29 +42,29 @@
     },
     {
       "name": "Air Shakur",
-      "text": "You still haven't used that?"
-    },
-    {
-      "name": "Monologue",
-      "text": "The real reason is because I completely\nforgot\nabout it. I'd originally entered the\nraffle, hoping\nto give the coupon to Air\nShakur, but she didn't\nwant it, so it's\nbeen collecting dust all this time.",
+      "text": "You still haven't used that?",
       "choice_data_list": [
         "The timing just wasn't right..."
       ]
     },
     {
-      "name": "Air Shakur",
-      "text": "You don't want it?",
+      "name": "Monologue",
+      "text": "The real reason is because I completely\nforgot\nabout it. I'd originally entered the\nraffle, hoping\nto give the coupon to Air\nShakur, but she didn't\nwant it, so it's\nbeen collecting dust all this time.",
       "choice_data_list": [
         "Shakur, you're not going, are you?",
         "Shakur, you're not going, right?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Considering how tense Air Shakur has\nbeen, I\ndon't think it'd be in good taste\nto go off and\nrelax on my own.",
+      "name": "Air Shakur",
+      "text": "You don't want it?",
       "choice_data_list": [
         "Since you'll be busy for a while."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Considering how tense Air Shakur has\nbeen, I\ndon't think it'd be in good taste\nto go off and\nrelax on my own."
     },
     {
       "name": "Air Shakur",
@@ -72,14 +72,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Well, why don't we just go now before\nthings start\nto ramp up?"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "We go now, get it over with, and come\nback.\nForget the whole overnight stay\npart, though. I'm\nnot havin' any of that.",
+      "text": "Well, why don't we just go now before\nthings start\nto ramp up?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "We go now, get it over with, and come\nback.\nForget the whole overnight stay\npart, though. I'm\nnot havin' any of that."
     },
     {
       "name": "Air Shakur",
@@ -87,11 +87,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh. This place isn't too shabby."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Huh? Yeah, sure...",
+      "text": "Huh. This place isn't too shabby.",
       "choice_data_list": [
         "Make sure you use the private bath at the hot springs.",
         "Make sure you use the private bath at the hot springs, okay?"
@@ -99,10 +95,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Meh.",
+      "text": "Huh? Yeah, sure...",
       "choice_data_list": [
         "...Wait, were you not planning to come in?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Meh."
     },
     {
       "name": "Air Shakur",
@@ -118,76 +118,76 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Phew..."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Whoa!",
+      "text": "Phew...",
       "choice_data_list": [
         "Feeling refreshed?"
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "What, you're done already?"
+      "text": "Whoa!"
     },
     {
-      "name": "Monologue",
-      "text": "That's only half the truth. The main\nreason was\nbecause I didn't want Air\nShakur to wait on me,\nbut I don't bring\nthat part up.",
+      "name": "Air Shakur",
+      "text": "What, you're done already?",
       "choice_data_list": [
         "Stay in too long and you'll get lightheaded from the hot water."
       ]
     },
     {
-      "name": "Air Shakur",
-      "text": "...Oh, okay."
+      "name": "Monologue",
+      "text": "That's only half the truth. The main\nreason was\nbecause I didn't want Air\nShakur to wait on me,\nbut I don't bring\nthat part up."
     },
     {
       "name": "Air Shakur",
-      "text": "Sure.",
+      "text": "...Oh, okay.",
       "choice_data_list": [
         "Shall we head back?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "We head back to the station. The breeze\nis lovely\nas it blows past us and cools our\nwarm bodies\ndown."
+      "name": "Air Shakur",
+      "text": "Sure."
     },
     {
-      "name": "Air Shakur",
-      "text": "...Yup.",
+      "name": "Monologue",
+      "text": "We head back to the station. The breeze\nis lovely\nas it blows past us and cools our\nwarm bodies\ndown.",
       "choice_data_list": [
         "Thank you for coming with me."
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "Well... I did agree to come.",
+      "text": "...Yup.",
       "choice_data_list": [
         "So you'll accept this token of gratitude."
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "For your sake."
+      "text": "Well... I did agree to come."
     },
     {
       "name": "Air Shakur",
-      "text": "I don't believe in exceptions or outliers. I\nkeep\nour relationship at the bare\nminimum.",
+      "text": "For your sake.",
       "choice_data_list": [
         "……！"
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "But this was also necessary in order to\nhit the\nreset button on us."
+      "text": "I don't believe in exceptions or outliers. I\nkeep\nour relationship at the bare\nminimum."
     },
     {
       "name": "Air Shakur",
-      "text": "These past three years've been crazy\nlong.",
+      "text": "But this was also necessary in order to\nhit the\nreset button on us.",
       "choice_data_list": [
         "Reset?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "These past three years've been crazy\nlong."
     },
     {
       "name": "Air Shakur",
@@ -195,22 +195,18 @@
     },
     {
       "name": "Air Shakur",
-      "text": "To be honest, I even feel like I <i>get</i> you\n\nsometimes."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Not like that's actually possible, though.\nI'm not\nhere to understand anyone or to\nbe understood.",
+      "text": "To be honest, I even feel like I <i>get</i> you\n\nsometimes.",
       "choice_data_list": [
         "！"
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "But if we're gonna keep workin'\ntogether, we\ngotta ditch all the\npreconceived notions we've\ngot about\neach other."
+      "text": "Not like that's actually possible, though.\nI'm not\nhere to understand anyone or to\nbe understood."
     },
     {
       "name": "Air Shakur",
-      "text": "I'm what?",
+      "text": "But if we're gonna keep workin'\ntogether, we\ngotta ditch all the\npreconceived notions we've\ngot about\neach other.",
       "choice_data_list": [
         "You're...",
         "You're..."
@@ -218,7 +214,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh?",
+      "text": "I'm what?",
       "choice_data_list": [
         "She really is such a dedicated girl.",
         "She really is such a dedicated girl, isn't she."
@@ -226,22 +222,26 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I thought I told you to quit it with that\nkinda\nstuff."
+      "text": "Huh?"
     },
     {
       "name": "Air Shakur",
-      "text": "But what?",
+      "text": "I thought I told you to quit it with that\nkinda\nstuff.",
       "choice_data_list": [
         "Got it, but..."
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "...",
+      "text": "But what?",
       "choice_data_list": [
         "There's nothing wrong with putting in the effort again, is there?",
         "There's nothing wrong with putting in the effort again, right?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Air Shakur",

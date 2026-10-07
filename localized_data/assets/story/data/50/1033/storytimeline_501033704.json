@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "Admire Vega",
-      "text": "Do you have a little time later today?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "I got an invitation. Something about a\nthank-you\ngift. Evidently I'm supposed\nto bring you along\ntoo.",
+      "text": "Do you have a little time later today?",
       "choice_data_list": [
         "Sure, but what's wrong?",
         "Sure, but what's up?"
       ]
     },
     {
-      "name": "Meisho Doto",
-      "text": "Ayabeee! Over here!",
+      "name": "Admire Vega",
+      "text": "I got an invitation. Something about a\nthank-you\ngift. Evidently I'm supposed\nto bring you along\ntoo.",
       "choice_data_list": [
         "A thank-you...?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ayabeee! Over here!"
     },
     {
       "name": "Meisho Doto",
@@ -26,14 +26,14 @@
     },
     {
       "name": "Children",
-      "text": "Thanks for coming, Ayabe!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Yes! Thanks to your help with my\nresearch the\nother day, we were able to\ncomplete our opera!",
+      "text": "Thanks for coming, Ayabe!",
       "choice_data_list": [
         "Could it be...?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yes! Thanks to your help with my\nresearch the\nother day, we were able to\ncomplete our opera!"
     },
     {
       "name": "Meisho Doto",
@@ -81,21 +81,21 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "The hanging bridge of the ferocious\ngiant! ♪"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "I was led across the bubbling poison\nswamp by\nthose spirits of the shining\nstars. ♪",
+      "text": "The hanging bridge of the ferocious\ngiant! ♪",
       "choice_data_list": [
         "ï¼â¦â¦Hm?ï¼"
       ]
     },
     {
-      "name": "Admire Vega",
-      "text": "It wasn't anything like that...",
+      "name": "Meisho Doto",
+      "text": "I was led across the bubbling poison\nswamp by\nthose spirits of the shining\nstars. ♪",
       "choice_data_list": [
         "(Isn't this from that interview...?)"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "It wasn't anything like that..."
     },
     {
       "name": "T.M. Opera O",
@@ -147,11 +147,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Should we get out of here?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "I'm surprised you can get something so\ndramatic\nwith just two actors.",
+      "text": "Should we get out of here?",
       "choice_data_list": [
         "That was pretty amazing on so many levels.",
         "That was pretty amazing on so many levels, huh."
@@ -159,11 +155,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...It wasn't bad, I guess."
+      "text": "I'm surprised you can get something so\ndramatic\nwith just two actors."
     },
     {
       "name": "Admire Vega",
-      "text": "You know... Before, I always felt that\nreceiving\nstuff like this was a burden.",
+      "text": "...It wasn't bad, I guess.",
       "choice_data_list": [
         "A bouquet would've been nice too, huh.",
         "A bouquet would've been nice too, right?"
@@ -171,15 +167,15 @@
     },
     {
       "name": "Admire Vega",
+      "text": "You know... Before, I always felt that\nreceiving\nstuff like this was a burden."
+    },
+    {
+      "name": "Admire Vega",
       "text": "But sometimes words aren't enough, I\nguess."
     },
     {
       "name": "Admire Vega",
-      "text": "I didn't feel like I was taking on a burden\n\naccepting their thanks, even if that\n\"thanks\" was a\nsuper flashy, super noisy\nplay."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "You're right.",
+      "text": "I didn't feel like I was taking on a burden\n\naccepting their thanks, even if that\n\"thanks\" was a\nsuper flashy, super noisy\nplay.",
       "choice_data_list": [
         "Physical 'things' carry important feelings too.",
         "Physical 'things' carry important feelings too, don't they?"
@@ -198,7 +194,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "You're kidding, right?",
+      "text": "You're right.",
       "choice_data_list": [
         "I'm looking forward to the next \"opera\" too!",
         "I'm looking forward to the next \"opera\" too!",
@@ -206,6 +202,10 @@
         "Where should we put those flowers?",
         "It brings a tear to my eye..."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "You're kidding, right?"
     },
     {
       "name": "Admire Vega",

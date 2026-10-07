@@ -23,14 +23,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Hey, stop that! I told you not to grab\nonto Ayabe!"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "You're asking me? Well, it looks like\nthey won't\nlet go...",
+      "text": "Hey, stop that! I told you not to grab\nonto Ayabe!",
       "choice_data_list": [
         "What should we do?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "You're asking me? Well, it looks like\nthey won't\nlet go..."
     },
     {
       "name": "Admire Vega",
@@ -38,15 +38,15 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, we all arrive at the aquarium."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Haha, they are! Actually, the last time\nthey were\ntogether...",
+      "text": "And so, we all arrive at the aquarium.",
       "choice_data_list": [
         "Your little sisters are really attached to you.",
         "Your little sisters are really attached to you, aren't they."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Haha, they are! Actually, the last time\nthey were\ntogether..."
     },
     {
       "name": "Ines Fujin",
@@ -82,14 +82,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Isn't that interesting?!"
-    },
-    {
-      "name": "Ines's Little Sister A",
-      "text": "Hey, hey, Ayabe! How do you read this\nword? Are\nthere bugs here?",
+      "text": "Isn't that interesting?!",
       "choice_data_list": [
         "And that's how it grew attached to you..."
       ]
+    },
+    {
+      "name": "Ines's Little Sister A",
+      "text": "Hey, hey, Ayabe! How do you read this\nword? Are\nthere bugs here?"
     },
     {
       "name": "Admire Vega",
@@ -157,7 +157,13 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'm... exhausted."
+      "text": "I'm... exhausted.",
+      "choice_data_list": [
+        "Still, that was a lot of fun.",
+        "Still, that was fun, wasn't it?",
+        "You two are wonderful sisters.",
+        "You two are wonderful sisters."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -171,13 +177,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Sure, but even still...",
-      "choice_data_list": [
-        "Still, that was a lot of fun.",
-        "Still, that was fun, wasn't it?",
-        "You two are wonderful sisters.",
-        "You two are wonderful sisters."
-      ]
+      "text": "Sure, but even still..."
     },
     {
       "name": "Admire Vega",

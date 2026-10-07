@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Good morning, Trainer. <i>Yawn...</i>"
+      "text": "Good morning, Trainer. <i>Yawn...</i>",
+      "choice_data_list": [
+        "Are you sleep-deprived?",
+        "Are you lacking sleep?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "What makes you think that?",
-      "choice_data_list": [
-        "Are you sleep-deprived?",
-        "Are you lacking sleep?"
-      ]
+      "text": "What makes you think that?"
     },
     {
       "name": "Maruzensky",

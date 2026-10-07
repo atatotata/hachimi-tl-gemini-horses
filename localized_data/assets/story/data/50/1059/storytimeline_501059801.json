@@ -11,7 +11,11 @@
     },
     {
       "name": "Monologue",
-      "text": "After a day out, we're about to return to\nthe\nacademy as per usual when Mejiro\nDober makes a\nsudden request.\nNaturally, I give an approving\nnod."
+      "text": "After a day out, we're about to return to\nthe\nacademy as per usual when Mejiro\nDober makes a\nsudden request.\nNaturally, I give an approving\nnod.",
+      "choice_data_list": [
+        "(Is there something she wants to do?)",
+        "(Is there something she wants to do?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -23,11 +27,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Wow! I can't believe such amazing\nscenery is so\nshort a walk off the beaten\ntrack...",
-      "choice_data_list": [
-        "(Is there something she wants to do?)",
-        "(Is there something she wants to do?)"
-      ]
+      "text": "Wow! I can't believe such amazing\nscenery is so\nshort a walk off the beaten\ntrack..."
     },
     {
       "name": "Mejiro Dober",
@@ -35,14 +35,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Although this outfit isn't exactly ideal\nfor walking\non rocky terrain."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...",
+      "text": "Although this outfit isn't exactly ideal\nfor walking\non rocky terrain.",
       "choice_data_list": [
         "Then shall we turn back here?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
     },
     {
       "name": "Mejiro Dober",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hehe, I know it's only natural that the\nriver would\nconnect to the ocean\nsomewhere, but actually\nseeing it... It's\nso stunning."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Of course! We decided to go as far as\nthe path\ncould take us, right?",
+      "text": "Hehe, I know it's only natural that the\nriver would\nconnect to the ocean\nsomewhere, but actually\nseeing it... It's\nso stunning.",
       "choice_data_list": [
         "Since we're here, want to go right down to the water's edge?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Of course! We decided to go as far as\nthe path\ncould take us, right?"
     },
     {
       "name": "Mejiro Dober",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Phew... I'm exhausted... I guess I overdid\nit a little\nbit."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...And you stuck around the whole time.\nYou\ncould have just gone home on your\nown, you\nknow?",
+      "text": "Phew... I'm exhausted... I guess I overdid\nit a little\nbit.",
       "choice_data_list": [
         "We played more than twice as much as usual today, huh.",
         "We played more than twice as much as usual today, didn't we?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...And you stuck around the whole time.\nYou\ncould have just gone home on your\nown, you\nknow?"
     },
     {
       "name": "Mejiro Dober",
@@ -145,11 +145,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Somehow... Wearing this dress makes me\nfeel like\nI could go anywhere."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...Maybe so.",
+      "text": "Somehow... Wearing this dress makes me\nfeel like\nI could go anywhere.",
       "choice_data_list": [
         "Sounds like Ryan's wish came true.",
         "Sounds like Ryan's wish came true."
@@ -157,11 +153,19 @@
     },
     {
       "name": "Mejiro Dober",
+      "text": "...Maybe so."
+    },
+    {
+      "name": "Mejiro Dober",
       "text": "I wonder. ...I do hope so."
     },
     {
       "name": "Mejiro Dober",
-      "text": "Either way, I'm glad I've got something\ngood to\nreport."
+      "text": "Either way, I'm glad I've got something\ngood to\nreport.",
+      "choice_data_list": [
+        "What report?",
+        "What report?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -173,11 +177,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I'm going to tell Ryan about everything\nthat's\nhappened today.",
-      "choice_data_list": [
-        "What report?",
-        "What report?"
-      ]
+      "text": "I'm going to tell Ryan about everything\nthat's\nhappened today."
     },
     {
       "name": "Mejiro Dober",
@@ -185,7 +185,13 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I want her to know how much fun I've\nbeen\nhaving, exploring all kinds of\nplaces in this dress.\nI think that's the\nbest way to thank her... Don't\nyou\nagree?"
+      "text": "I want her to know how much fun I've\nbeen\nhaving, exploring all kinds of\nplaces in this dress.\nI think that's the\nbest way to thank her... Don't\nyou\nagree?",
+      "choice_data_list": [
+        "Then, we've gotta enjoy it properly.",
+        "Then, we have to make sure to enjoy it.",
+        "Is just a report enough?",
+        "Are you sure just a report is enough?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -201,10 +207,8 @@
       "name": "Mejiro Dober",
       "text": "I don't need you to tell me that.",
       "choice_data_list": [
-        "Then, we've gotta enjoy it properly.",
-        "Then, we have to make sure to enjoy it.",
-        "Is just a report enough?",
-        "Are you sure just a report is enough?"
+        "Be careful not to get too carried away!",
+        "Be careful not to get too carried away!"
       ]
     },
     {
@@ -217,11 +221,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? I'll do nothing of the sort! I know\nvery well\nhow to control myself.",
-      "choice_data_list": [
-        "Be careful not to get too carried away!",
-        "Be careful not to get too carried away!"
-      ]
+      "text": "Huh? I'll do nothing of the sort! I know\nvery well\nhow to control myself."
     },
     {
       "name": "Mejiro Dober",
@@ -245,14 +245,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hm? What do you mean by that?"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "No, I'm sure Ryan's far too busy for\nthat...",
+      "text": "Hm? What do you mean by that?",
       "choice_data_list": [
         "Like going out somewhere with Ryan, for instance."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No, I'm sure Ryan's far too busy for\nthat..."
     },
     {
       "name": "Mejiro Dober",

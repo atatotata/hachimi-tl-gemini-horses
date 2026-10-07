@@ -19,14 +19,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I grab some drinks and come back to\nfind Air\nShakur reviewing race footage."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Yep.",
+      "text": "I grab some drinks and come back to\nfind Air\nShakur reviewing race footage.",
       "choice_data_list": [
         "Is that the recent British race?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yep."
     },
     {
       "name": "Monologue",
@@ -34,14 +34,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Curious?"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "It's all right, I'll show you. I just finished\ngathering\nall the data I need.",
+      "text": "Curious?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "It's all right, I'll show you. I just finished\ngathering\nall the data I need."
     },
     {
       "name": "Air Shakur",
@@ -77,15 +77,15 @@
     },
     {
       "name": "Air Shakur",
-      "text": "The other runners are just too far above\nmy\nlevel—both in terms of abilities and\nexperience."
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Exactamente!",
+      "text": "The other runners are just too far above\nmy\nlevel—both in terms of abilities and\nexperience.",
       "choice_data_list": [
         "The world really is vast.",
         "The world really is vast, isn't it?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Exactamente!"
     },
     {
       "name": "Seeking the Pearl",
@@ -117,25 +117,25 @@
     },
     {
       "name": "Air Shakur",
-      "text": "..."
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Shy as always, are we? You're what they\ncall \"le\nshy beauty à la mode.\"",
+      "text": "...",
       "choice_data_list": [
         "Shakur..."
       ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "By the by, it seems the two of you wish\nto become\nmore worldly, no?"
+      "text": "Shy as always, are we? You're what they\ncall \"le\nshy beauty à la mode.\""
     },
     {
       "name": "Seeking the Pearl",
-      "text": "I can answer any questions you might\nhave.",
+      "text": "By the by, it seems the two of you wish\nto become\nmore worldly, no?",
       "choice_data_list": [
         "No, we weren't talking about anything like that—"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I can answer any questions you might\nhave."
     },
     {
       "name": "Seeking the Pearl",
@@ -143,29 +143,29 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "What would you like to know? Fire\naway! No need\nto hold back!"
+      "text": "What would you like to know? Fire\naway! No need\nto hold back!",
+      "choice_data_list": [
+        "Sh-Shakur...!"
+      ]
     },
     {
       "name": "Air Shakur",
       "text": "...",
       "choice_data_list": [
-        "Sh-Shakur...!"
+        "(She's in total shut-out mode!)"
       ]
     },
     {
       "name": "Monologue",
       "text": "I think Seeking the Pearl may actually\nhave some\nfascinating stories to share,\nand I'd like to show\nsome appreciation\nfor taking the trouble to offer.",
       "choice_data_list": [
-        "(She's in total shut-out mode!)"
+        "I want to know about food from around the world.",
+        "I want to know the secrets of traveling the world."
       ]
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Oho! <i>You</i> get it!",
-      "choice_data_list": [
-        "I want to know about food from around the world.",
-        "I want to know the secrets of traveling the world."
-      ]
+      "text": "Oho! <i>You</i> get it!"
     },
     {
       "name": "Seeking the Pearl",
@@ -181,14 +181,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "When in Rome, do as the Romans do! So\non that\nnote, let me show you how to\neat ice cream!"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "How is this international cuisine?",
+      "text": "When in Rome, do as the Romans do! So\non that\nnote, let me show you how to\neat ice cream!",
       "choice_data_list": [
         "Ice cream!?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "How is this international cuisine?"
     },
     {
       "name": "Seeking the Pearl",
@@ -212,14 +212,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "When in Rome, eat what the Romans do!\nIt's a\nmenu of worldly delights!"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Yeah, that's way too much of a stretch.\nI'm not\nbuying it.",
+      "text": "When in Rome, eat what the Romans do!\nIt's a\nmenu of worldly delights!",
       "choice_data_list": [
         "Ooooh...!"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yeah, that's way too much of a stretch.\nI'm not\nbuying it."
     },
     {
       "name": "Seeking the Pearl",
@@ -243,14 +243,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "But of course! Well then, shall we take a\nstroll\naround the globe?"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "That's right! We have the means to do so\nright\nbefore our very eyes!",
+      "text": "But of course! Well then, shall we take a\nstroll\naround the globe?",
       "choice_data_list": [
         "Starting now?!"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "That's right! We have the means to do so\nright\nbefore our very eyes!"
     },
     {
       "name": "Seeking the Pearl",
@@ -274,7 +274,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "It takes guts!"
+      "text": "It takes guts!",
+      "choice_data_list": [
+        "Guts...!"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -285,10 +288,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Ohhh yeah! Guuuts!",
-      "choice_data_list": [
-        "Guts...!"
-      ]
+      "text": "Ohhh yeah! Guuuts!"
     },
     {
       "name": "Air Shakur",
@@ -320,14 +320,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "You need the guts to ask yourself\nwhether you\nshould really considering\ntraveling the world...\nand where the\nworld you desire truly lies."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...",
+      "text": "You need the guts to ask yourself\nwhether you\nshould really considering\ntraveling the world...\nand where the\nworld you desire truly lies.",
       "choice_data_list": [
         "I see..."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Seeking the Pearl",

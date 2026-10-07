@@ -16,11 +16,7 @@
     },
     {
       "name": "Narrator",
-      "text": "After walking alone in the department \nstore for a while, I spotted a familiar \nUmamusume near the restaurant floor.",
-      "choice_data_list": [
-        "Yeah!",
-        "Yeah!"
-      ]
+      "text": "After walking alone in the department \nstore for a while, I spotted a familiar \nUmamusume near the restaurant floor."
     },
     {
       "name": "Yukino Bijin",
@@ -33,16 +29,13 @@
       "name": "Narrator",
       "text": "Worried by the anxious look on her face, I \ndecided to call out to her.",
       "choice_data_list": [
-        "(Yukino Bijin...?)"
+        "Did something happen?",
+        "Is something wrong?"
       ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "! Flight-san's Trainer...!",
-      "choice_data_list": [
-        "Did something happen?",
-        "Is something wrong?"
-      ]
+      "text": "! Flight-san's Trainer...!"
     },
     {
       "name": "Yukino Bijin",
@@ -86,17 +79,13 @@
       "name": "Yukino Bijin",
       "text": "—Eh?",
       "choice_data_list": [
-        "What's bothering you the most?",
-        "What's on your mind the most?"
+        "Tell me why you're feeling anxious. I want to hear it.",
+        "The reason you're anxious. I want to hear it"
       ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "—...Huh? Umm, let's see—",
-      "choice_data_list": [
-        "Tell me why you're feeling anxious. I want to hear it.",
-        "The reason you're anxious. I want to hear it"
-      ]
+      "text": "—...Huh? Umm, let's see—"
     },
     {
       "name": "Yukino Bijin",
@@ -112,10 +101,7 @@
     },
     {
       "name": "North Flight",
-      "text": "Sorry to keep you waiting—oh? Yukino-chan, \nyou're here too!",
-      "choice_data_list": [
-        "—That's it!"
-      ]
+      "text": "Sorry to keep you waiting—oh? Yukino-chan, \nyou're here too!"
     },
     {
       "name": "Yukino Bijin",
@@ -147,11 +133,7 @@
     },
     {
       "name": "North Flight",
-      "text": "――? What's with the victory poses, you \ntwo? Did something happen?",
-      "choice_data_list": [
-        "...You did it!!",
-        "...We did it!!"
-      ]
+      "text": "――? What's with the victory poses, you \ntwo? Did something happen?"
     },
     {
       "name": "Yukino Bijin",
@@ -178,11 +160,7 @@
     },
     {
       "name": "North Flight",
-      "text": "Huh?",
-      "choice_data_list": [
-        "I was only able to give advice thanks to you.",
-        "I was only able to give advice thanks to you."
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Narrator",
@@ -216,8 +194,11 @@
       "name": "Narrator",
       "text": "And so, the three of us went into a dining \nbar and decided to grab a meal.",
       "choice_data_list": [
-        "Yeah, if you two are okay with it!",
-        "Yeah, if the two of you are okay with it!"
+        "With the three of them, I'm not worried.",
+        "With the three of them, we've got nothing to worry about, huh.",
+        "What should I order?",
+        "I'm sure you guys will be able to visit all sorts of places from now on.",
+        "You two will definitely get to travel to all sorts of places together."
       ]
     },
     {
@@ -233,14 +214,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Yes! I'm so glad I mustered the courage to \ninvite you...!",
-      "choice_data_list": [
-        "With the three of them, I'm not worried.",
-        "With the three of them, we've got nothing to worry about, huh.",
-        "What should I order?",
-        "I'm sure you guys will be able to visit all sorts of places from now on.",
-        "You two will definitely get to travel to all sorts of places together."
-      ]
+      "text": "Yes! I'm so glad I mustered the courage to \ninvite you...!"
     },
     {
       "name": "North Flight",
@@ -267,11 +241,7 @@
     },
     {
       "name": "North Flight",
-      "text": "Understood. It's my first time at this \nshop, but I've got the hang of the vibe, \nso leave it to me!",
-      "choice_data_list": [
-        "Oh, I want to hear it too!",
-        "Oh, I want to hear it too!"
-      ]
+      "text": "Understood. It's my first time at this \nshop, but I've got the hang of the vibe, \nso leave it to me!"
     },
     {
       "name": "Narrator",
@@ -313,11 +283,7 @@
     },
     {
       "name": "North Flight",
-      "text": "Yes! I want us to shine together and \nexpand our possibilities. As far as we can \ngo, endlessly forward—",
-      "choice_data_list": [
-        "I hope we can keep learning from each other.",
-        "It'd be great if we can keep learning from each other."
-      ]
+      "text": "Yes! I want us to shine together and \nexpand our possibilities. As far as we can \ngo, endlessly forward—"
     }
   ]
 }

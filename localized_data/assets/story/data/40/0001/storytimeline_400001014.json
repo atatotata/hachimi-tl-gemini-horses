@@ -7,26 +7,26 @@
     },
     {
       "name": "Monologue",
-      "text": "\"Aquarium Grand Opening!\" \"Right next\nto the\nstation! A tranquil space perfect\nfor relaxation!\""
-    },
-    {
-      "name": "Monologue",
-      "text": "I don't want to let this opportunity pass\nus by. I\ngrab the flyer and go looking for\nher.",
+      "text": "\"Aquarium Grand Opening!\" \"Right next\nto the\nstation! A tranquil space perfect\nfor relaxation!\"",
       "choice_data_list": [
         "I hope it gives <chrname> a nice breather."
       ]
     },
     {
       "name": "Monologue",
-      "text": "The first place I check is the training\ntrack, but..."
+      "text": "I don't want to let this opportunity pass\nus by. I\ngrab the flyer and go looking for\nher."
     },
     {
       "name": "Monologue",
-      "text": "Unfortunately, my trainee isn't around. I\ndecide\nto invite her next time I see her\nand turn to leave.",
+      "text": "The first place I check is the training\ntrack, but...",
       "choice_data_list": [
         "Not here, huh...",
         "Doesn't look like she's here..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Unfortunately, my trainee isn't around. I\ndecide\nto invite her next time I see her\nand turn to leave."
     },
     {
       "name": "Veteran Trainer A",
@@ -82,15 +82,15 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I knew it! You're\nTrainer\n<username>!"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "That's right! I'm sorry, this must be quite\nsudden,\nbut... I've always admired you!",
+      "text": "I knew it! You're\nTrainer\n<username>!",
       "choice_data_list": [
         "Wait, me?",
         "Wait, me?"
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "That's right! I'm sorry, this must be quite\nsudden,\nbut... I've always admired you!"
     },
     {
       "name": "Happy Meek",
@@ -138,14 +138,14 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Would you mind meeting up again in the\nfuture?\nI'm sure we can learn a lot from\neach other."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Thank you so much! It's an honor.",
+      "text": "Would you mind meeting up again in the\nfuture?\nI'm sure we can learn a lot from\neach other.",
       "choice_data_list": [
         "Of course."
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thank you so much! It's an honor."
     },
     {
       "name": "Happy Meek",
@@ -161,22 +161,22 @@
     },
     {
       "name": "Monologue",
-      "text": "Despite Trainer Kiryuin's words, Happy\nMeek\nkeeps staring at me... or, more\nspecifically, at\nsomething in my hand."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Huh... Is that an aquarium flyer? Meek,\nhave you\nbeen looking at this the whole\ntime?",
+      "text": "Despite Trainer Kiryuin's words, Happy\nMeek\nkeeps staring at me... or, more\nspecifically, at\nsomething in my hand.",
       "choice_data_list": [
         "Could it be this flyer?"
       ]
     },
     {
-      "name": "Happy Meek",
-      "text": "...Huh?",
+      "name": "Trainer Kiryuin",
+      "text": "Huh... Is that an aquarium flyer? Meek,\nhave you\nbeen looking at this the whole\ntime?",
       "choice_data_list": [
         "...Do you want to go?",
         "...Do you want to go?"
       ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Huh?"
     },
     {
       "name": "Happy Meek",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "But... are you sure <i>I</i> should be here?"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "I just... Well, the Trainer's\nHandbook—that is, the\nteachings of the\nKiryuin family—states that\n\"Umamusume\nmust be given appropriate rest.\"",
+      "text": "But... are you sure <i>I</i> should be here?",
       "choice_data_list": [
         "What do you mean by that?"
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I just... Well, the Trainer's\nHandbook—that is, the\nteachings of the\nKiryuin family—states that\n\"Umamusume\nmust be given appropriate rest.\""
     },
     {
       "name": "Trainer Kiryuin",
@@ -219,21 +219,21 @@
     },
     {
       "name": "Monologue",
-      "text": "When I look at Happy Meek..."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Really? Do you think so?",
+      "text": "When I look at Happy Meek...",
       "choice_data_list": [
         "She's so happy she could come along with you."
       ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Get to know her, huh...",
+      "text": "Really? Do you think so?",
       "choice_data_list": [
         "I think closing the distance with your trainee is important, too."
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Get to know her, huh..."
     },
     {
       "name": "Trainer Kiryuin",
@@ -253,14 +253,14 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Not only did you invite me on a\nwonderful day\nout, you also taught me\nan important lesson."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Yes. Learning all you can about your\ntrainee is\npractically point one of the\nTrainer's Handbook.",
+      "text": "Not only did you invite me on a\nwonderful day\nout, you also taught me\nan important lesson.",
       "choice_data_list": [
         "Teachings...?"
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes. Learning all you can about your\ntrainee is\npractically point one of the\nTrainer's Handbook."
     },
     {
       "name": "Trainer Kiryuin",
@@ -268,14 +268,14 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "But thanks to our conversation, I feel\nlike now I\nunderstand what it really\nmeans."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Hehe. No need to be so humble.",
+      "text": "But thanks to our conversation, I feel\nlike now I\nunderstand what it really\nmeans.",
       "choice_data_list": [
         "It really wasn't that big a deal..."
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Hehe. No need to be so humble."
     },
     {
       "name": "Trainer Kiryuin",

@@ -19,15 +19,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Seeking the Pearl looks devastated\nwhile saying\nfarewell to someone...\nexcept I don't see anyone\nelse nearby."
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "...?! Trainer... Isn't it obvious?",
+      "text": "Seeking the Pearl looks devastated\nwhile saying\nfarewell to someone...\nexcept I don't see anyone\nelse nearby.",
       "choice_data_list": [
         "W-Who are you talking to...?",
         "W-Who are you talking to...?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "...?! Trainer... Isn't it obvious?"
     },
     {
       "name": "Seeking the Pearl",
@@ -43,7 +43,12 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "I want to fill my heart and stomach with\nenough\nfood for the months we can't\nmeet!"
+      "text": "I want to fill my heart and stomach with\nenough\nfood for the months we can't\nmeet!",
+      "choice_data_list": [
+        "You should face that one bento head-on.",
+        "You should face that one bento head-on.",
+        "Let's eat as much as we want!"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -56,12 +61,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "...!",
-      "choice_data_list": [
-        "You should face that one bento head-on.",
-        "You should face that one bento head-on.",
-        "Let's eat as much as we want!"
-      ]
+      "text": "...!"
     },
     {
       "name": "Seeking the Pearl",

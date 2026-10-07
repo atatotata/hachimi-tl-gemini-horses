@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Mejiro Dober",
-      "text": "<i>Sigh...</i> This test covers too much. I was\nhoping to\nfocus on training for my races\ntoo, but at this\nrate..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Hmph. As if you'd know. Your workload\ndecreases\nwhenever I have to study for\ntests.",
+      "text": "<i>Sigh...</i> This test covers too much. I was\nhoping to\nfocus on training for my races\ntoo, but at this\nrate...",
       "choice_data_list": [
         "Balancing academics and racing is tough, isn't it?",
         "Balancing academics and racing is tough, right?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hmph. As if you'd know. Your workload\ndecreases\nwhenever I have to study for\ntests."
     },
     {
       "name": "Mejiro Dober",
@@ -59,14 +59,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Hehe. Well, that's an easy fix. ♪ If you\ncan't make\nmore time, then just train\nmore in the time you do\nhave!"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Don't confine yourself to rigid, formulaic\ntraining!\nPractice more efficiently and\nboldly!",
+      "text": "Hehe. Well, that's an easy fix. ♪ If you\ncan't make\nmore time, then just train\nmore in the time you do\nhave!",
       "choice_data_list": [
         "...Meaning?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Don't confine yourself to rigid, formulaic\ntraining!\nPractice more efficiently and\nboldly!"
     },
     {
       "name": "Seeking the Pearl",
@@ -78,7 +78,11 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Your trainer here will lay it all out for\nyou! ♪\nWell? What is it Dober needs to\ncatch up with the\nworld?"
+      "text": "Your trainer here will lay it all out for\nyou! ♪\nWell? What is it Dober needs to\ncatch up with the\nworld?",
+      "choice_data_list": [
+        "Ah, such strong determination to chase your dreams...!",
+        "Maybe the power to conquer our fears!?"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -90,11 +94,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Determination...",
-      "choice_data_list": [
-        "Ah, such strong determination to chase your dreams...!",
-        "Maybe the power to conquer our fears!?"
-      ]
+      "text": "Determination..."
     },
     {
       "name": "Shinko Windy",
@@ -106,14 +106,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Hiking is the answer!"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "A corner of the world we live in... In\nother words,\nthe outside world!",
+      "text": "Hiking is the answer!",
       "choice_data_list": [
         "W-Where are we?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "A corner of the world we live in... In\nother words,\nthe outside world!"
     },
     {
       "name": "Mejiro Dober",
@@ -145,14 +145,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "The extra weight isn't bothering me, but\nit's so\ndifficult to keep my balance while\nwalking..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "I don't need your encouragement!",
+      "text": "The extra weight isn't bothering me, but\nit's so\ndifficult to keep my balance while\nwalking...",
       "choice_data_list": [
         "G-Good luck, Dober...!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I don't need your encouragement!"
     },
     {
       "name": "Mejiro Dober",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "A-all I could think about was putting\none foot in\nfront of the other..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Q-quit making fun of me!",
+      "text": "A-all I could think about was putting\none foot in\nfront of the other...",
       "choice_data_list": [
         "You look tougher than before you went up the mountain."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Q-quit making fun of me!"
     },
     {
       "name": "Mejiro Dober",
@@ -227,14 +227,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Let's scale a cliff!"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Because there's no training more suited\nto\nconquering the hurdle known as\nanxiety!",
+      "text": "Let's scale a cliff!",
       "choice_data_list": [
         "Why a cliff!?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Because there's no training more suited\nto\nconquering the hurdle known as\nanxiety!"
     },
     {
       "name": "Mejiro Dober",
@@ -246,14 +246,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I-I don't know about that..."
+      "text": "I-I don't know about that...",
+      "choice_data_list": [
+        "Then I'll climb too! I want to overcome it together with you!",
+        "Then I'll climb it too! I want to overcome it together!"
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "Are you kidding me?! There's no reason\nfor you to\nclimb it!",
       "choice_data_list": [
-        "Then I'll climb too! I want to overcome it together with you!",
-        "Then I'll climb it too! I want to overcome it together!"
+        "Still...!"
       ]
     },
     {
@@ -265,10 +268,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Waiting is part of your job! Use that\npath over\nthere to get to the top\ninstead.",
-      "choice_data_list": [
-        "Still...!"
-      ]
+      "text": "Waiting is part of your job! Use that\npath over\nthere to get to the top\ninstead."
     },
     {
       "name": "Mejiro Dober",
@@ -300,14 +300,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I... did it!"
+      "text": "I... did it!",
+      "choice_data_list": [
+        "Dober! You did great!!",
+        "Dober! You did great!!"
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "Well... Yeah, I did.",
       "choice_data_list": [
-        "Dober! You did great!!",
-        "Dober! You did great!!"
+        "You look like you're having fun."
       ]
     },
     {
@@ -319,10 +322,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "As if...",
-      "choice_data_list": [
-        "You look like you're having fun."
-      ]
+      "text": "As if..."
     },
     {
       "name": "Mejiro Dober",

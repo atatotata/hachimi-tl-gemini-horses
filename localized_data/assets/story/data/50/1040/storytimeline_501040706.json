@@ -55,14 +55,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Whew! Yoga really makes you work up a\nsweat.\nCare to join, City?"
-    },
-    {
-      "name": "Gold City",
-      "text": "Shush! Trainer, look down by her feet.",
+      "text": "Whew! Yoga really makes you work up a\nsweat.\nCare to join, City?",
       "choice_data_list": [
         "No, that's less like yoga and more like..."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Shush! Trainer, look down by her feet."
     },
     {
       "name": "Monologue",
@@ -71,10 +71,6 @@
     {
       "name": "Gold City",
       "text": "That's a lot of freaking notes. She\nmust've put a ton of\n\"research\" into\ncoming up with that pose."
-    },
-    {
-      "name": "Gold City",
-      "text": "Telling her it's not yoga might crush her\nmotivation."
     },
     {
       "name": "Gold City",
@@ -87,12 +83,16 @@
     },
     {
       "name": "Gold City",
-      "text": "Thanks.",
+      "text": "Telling her it's not yoga might crush her\nmotivation.",
       "choice_data_list": [
         "Yeah, you're right.",
         "Yeah.",
         "I don't think that's quite the same thing."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Thanks."
     },
     {
       "name": "Kawakami Princess",

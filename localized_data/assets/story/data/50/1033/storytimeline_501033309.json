@@ -123,25 +123,25 @@
     },
     {
       "name": "Monologue",
-      "text": "I meet Admire Vega in the prep room\nafter the\nrace."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Thanks...",
+      "text": "I meet Admire Vega in the prep room\nafter the\nrace.",
       "choice_data_list": [
         "Congratulations on first place!"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "You don't seem very surprised."
+      "text": "Thanks..."
     },
     {
       "name": "Admire Vega",
-      "text": "What do you mean \"by what\"?",
+      "text": "You don't seem very surprised.",
       "choice_data_list": [
         "Surprised? By what?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "What do you mean \"by what\"?"
     },
     {
       "name": "Admire Vega",
@@ -149,11 +149,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "And this was the Derby."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...!",
+      "text": "And this was the Derby.",
       "choice_data_list": [
         "Still, I always believed you would win.",
         "Still, it's because I believed you'd win."
@@ -161,11 +157,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...",
+      "text": "...!",
       "choice_data_list": [
         "Because I believed in your late kick—in your strength!",
         "Because I believed in your late kickâand your strength!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
       "name": "Admire Vega",

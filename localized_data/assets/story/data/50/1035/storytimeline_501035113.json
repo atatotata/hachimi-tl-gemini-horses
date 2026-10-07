@@ -15,11 +15,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Winning Ticket is peering at reference\nbooks and\npast data. She's trying her\nhardest, but it seems\nto be a struggle."
-    },
-    {
-      "name": "Monologue",
-      "text": "My motivation renewed, I sit down to\ndraft a solid\nrace agenda.",
+      "text": "Winning Ticket is peering at reference\nbooks and\npast data. She's trying her\nhardest, but it seems\nto be a struggle.",
       "choice_data_list": [
         "(As her Trainer, I've got to step up!)",
         "(As her Trainer, I've got to give it my all!)"
@@ -27,15 +23,15 @@
     },
     {
       "name": "Monologue",
+      "text": "My motivation renewed, I sit down to\ndraft a solid\nrace agenda."
+    },
+    {
+      "name": "Monologue",
       "text": "If we're aiming for the Japanese Derby, I\nneed to\nmake sure Ticket gets the hang\nof running longer\ndistances."
     },
     {
       "name": "Monologue",
-      "text": "With that in mind, my attention is drawn\nto the\nHopeful Stakes—the longest of all\nthe junior G1\nraces."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Ohhh! That's a G1 race! Sounds fun!",
+      "text": "With that in mind, my attention is drawn\nto the\nHopeful Stakes—the longest of all\nthe junior G1\nraces.",
       "choice_data_list": [
         "How about the 'Hopeful Stakes'?",
         "How about the 'Hopeful Stakes'?"
@@ -43,10 +39,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah!",
+      "text": "Ohhh! That's a G1 race! Sounds fun!",
       "choice_data_list": [
         "Do your best and get great results!"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah!"
     },
     {
       "name": "Winning Ticket",
@@ -110,14 +110,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Our results aren't quite there yet."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Huuuh?! Even though I'm trying so hard?",
+      "text": "Our results aren't quite there yet.",
       "choice_data_list": [
         "Not really..."
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huuuh?! Even though I'm trying so hard?"
     },
     {
       "name": "Winning Ticket",
@@ -129,14 +129,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Hayahideeee! I'm really troubled!\nSuper-duper\ntroubled!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Biwa Hayahide is a good friend to\nTicket. Maybe\nshe can help us figure\nsomething out.",
+      "text": "Hayahideeee! I'm really troubled!\nSuper-duper\ntroubled!",
       "choice_data_list": [
         "(That's right...!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Biwa Hayahide is a good friend to\nTicket. Maybe\nshe can help us figure\nsomething out."
     },
     {
       "name": "Biwa Hayahide",
@@ -216,21 +216,21 @@
     },
     {
       "name": "Monologue",
-      "text": "After the race, Winning Ticket calms\ndown to her\nusual self, but I can't shake\nthe memory of the\nsheer intensity she\nshowed just moments earlier."
-    },
-    {
-      "name": "Monologue",
-      "text": "To confirm, I look at my stopwatch and\nsee...\nshe's beaten her personal record!",
+      "text": "After the race, Winning Ticket calms\ndown to her\nusual self, but I can't shake\nthe memory of the\nsheer intensity she\nshowed just moments earlier.",
       "choice_data_list": [
         "(Wasn't that actually a pretty good time...?)"
       ]
     },
     {
-      "name": "Winning Ticket",
-      "text": "Huh? What is it?",
+      "name": "Monologue",
+      "text": "To confirm, I look at my stopwatch and\nsee...\nshe's beaten her personal record!",
       "choice_data_list": [
         "Ticket! Look!"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huh? What is it?"
     },
     {
       "name": "Winning Ticket",
@@ -242,14 +242,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Isn't that plain as day? Your desire to\ndefeat us\npushed your muscles into a\nhigher gear."
-    },
-    {
-      "name": "Monologue",
-      "text": "\"UWAAAGH! I won't lose, I won't lose, I\nWON'T\nLOSE!\"",
+      "text": "Isn't that plain as day? Your desire to\ndefeat us\npushed your muscles into a\nhigher gear.",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "\"UWAAAGH! I won't lose, I won't lose, I\nWON'T\nLOSE!\""
     },
     {
       "name": "Monologue",
@@ -281,14 +281,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Seeing that satisfied smile on Biwa\nHayahide's\nface, I realize something."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "No... I wasn't certain. However, I've had\na similar\nexperience myself, you see.",
+      "text": "Seeing that satisfied smile on Biwa\nHayahide's\nface, I realize something.",
       "choice_data_list": [
         "Did you enter the race... knowing full well?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No... I wasn't certain. However, I've had\na similar\nexperience myself, you see."
     },
     {
       "name": "Biwa Hayahide",

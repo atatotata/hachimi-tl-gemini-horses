@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "After arriving at the cafeteria for lunch, I\nnotice\nYukino Bijin staring\nabsentmindedly at the menu."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Huh?! That's not what I'm try'n to do!",
+      "text": "After arriving at the cafeteria for lunch, I\nnotice\nYukino Bijin staring\nabsentmindedly at the menu.",
       "choice_data_list": [
         "You're watching pretty intently.",
         "You're watching pretty intently, aren't you."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?! That's not what I'm try'n to do!"
     },
     {
       "name": "Yukino Bijin",
@@ -23,14 +23,14 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "If I remember correctly, you're from\nMorioka,\nright? The birthplace of wanko\nsoba... <i>Gulp...</i>"
-    },
-    {
-      "name": "Tamamo Cross",
-      "text": "Cool it, Oguri! You're scarin' 'em!",
+      "text": "If I remember correctly, you're from\nMorioka,\nright? The birthplace of wanko\nsoba... <i>Gulp...</i>",
       "choice_data_list": [
         "(Her eyes are burning with wild intensity...)"
       ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cool it, Oguri! You're scarin' 'em!"
     },
     {
       "name": "Oguri Cap",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Gee whillikers, sure... But I'm no\nafici'nado, mind\nyou. I've only ever been\non refill duty."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Righty-roo! It's quite fun. You pour in a\nbite-sized\nserving of soba and say\n\"heeere ya go\" or \"heeere\nit comes.\"",
+      "text": "Gee whillikers, sure... But I'm no\nafici'nado, mind\nyou. I've only ever been\non refill duty.",
       "choice_data_list": [
         "By \"serving,\" do you mean the person who refills the wanko soba bowls?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Righty-roo! It's quite fun. You pour in a\nbite-sized\nserving of soba and say\n\"heeere ya go\" or \"heeere\nit comes.\""
     },
     {
       "name": "Yukino Bijin",
@@ -65,7 +65,12 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "We've got lotsa other foods 'n fun things\ntoo, so\nyou should definitely visit!"
+      "text": "We've got lotsa other foods 'n fun things\ntoo, so\nyou should definitely visit!",
+      "choice_data_list": [
+        "What kind of things, for example?",
+        "Now I'm really craving wanko soba.",
+        "I'm starting to crave wanko soba."
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -78,24 +83,19 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Well, let's see... There's a famous festival\ncalled\nthe Morioka Sansa Odori.",
-      "choice_data_list": [
-        "What kind of things, for example?",
-        "Now I'm really craving wanko soba.",
-        "I'm starting to crave wanko soba."
-      ]
+      "text": "Well, let's see... There's a famous festival\ncalled\nthe Morioka Sansa Odori."
     },
     {
       "name": "Yukino Bijin",
-      "text": "It's got taiko drums, flutes, and people\ndanc'n\ndown the street in a p'rade!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yeah, but all that prep made for a darn\ngood\nworkout, so I actually  enjoyed it!",
+      "text": "It's got taiko drums, flutes, and people\ndanc'n\ndown the street in a p'rade!",
       "choice_data_list": [
         "Wouldn't that take a lot of preparation?",
         "Isn't that going to take a lot of preparation?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yeah, but all that prep made for a darn\ngood\nworkout, so I actually  enjoyed it!"
     },
     {
       "name": "Yukino Bijin",

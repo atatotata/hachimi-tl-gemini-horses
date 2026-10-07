@@ -27,14 +27,14 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "What about you? Are you on a walk?\nWanna\nhang out with us?!"
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Hehe. You're like a teacup typhoon, my\nenergetic\nand spiky little friend.",
+      "text": "What about you? Are you on a walk?\nWanna\nhang out with us?!",
       "choice_data_list": [
         "I don't think we have enough time to play around..."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hehe. You're like a teacup typhoon, my\nenergetic\nand spiky little friend."
     },
     {
       "name": "Twin Turbo",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Aww! I'm done studying! I wanna play!\nC'mon, let's\nplay with Zephyr and her\ntrainer!"
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "I could almost mistake you for Chubby\nCheeks\nthe way you hop and plead,\nSpiky-Spike.",
+      "text": "Aww! I'm done studying! I wanna play!\nC'mon, let's\nplay with Zephyr and her\ntrainer!",
       "choice_data_list": [
         "I don't mind, but..."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I could almost mistake you for Chubby\nCheeks\nthe way you hop and plead,\nSpiky-Spike."
     },
     {
       "name": "Nice Nature",
@@ -89,14 +89,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Well this is sweet. She's treating Twin\nTurbo like a\nlittle forest critter..."
-    },
-    {
-      "name": "Monologue",
-      "text": "She speaks to Twin Turbo in the same\ntone of\nvoice she uses for small animals,\nbut Twin Turbo\ndoesn't seem to mind—in\nfact, she seems to be\nenjoying it.",
+      "text": "Well this is sweet. She's treating Twin\nTurbo like a\nlittle forest critter...",
       "choice_data_list": [
         "True..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She speaks to Twin Turbo in the same\ntone of\nvoice she uses for small animals,\nbut Twin Turbo\ndoesn't seem to mind—in\nfact, she seems to be\nenjoying it."
     },
     {
       "name": "Twin Turbo",
@@ -112,7 +112,12 @@
     },
     {
       "name": "Monologue",
-      "text": "I can't let her down with my answer. If\nthey don't\nhave a kite, then..."
+      "text": "I can't let her down with my answer. If\nthey don't\nhave a kite, then...",
+      "choice_data_list": [
+        "I'll become the kite...!",
+        "I will become the kite...!",
+        "Like paper airplanes?"
+      ]
     },
     {
       "name": "Monologue",
@@ -125,12 +130,7 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "You'll... be our kite?",
-      "choice_data_list": [
-        "I'll become the kite...!",
-        "I will become the kite...!",
-        "Like paper airplanes?"
-      ]
+      "text": "You'll... be our kite?"
     },
     {
       "name": "Twin Turbo",
@@ -154,14 +154,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Yamanin Zephyr chuckles to herself.\nOnly\nsomeone striving to be the wind\nwould say\nsomething like that. The thing\nis, though..."
-    },
-    {
-      "name": "Monologue",
-      "text": "Even if Yamanin Zephyr becomes the\nwind, I\ndecide I'd rather keep my feet\nsafe on the\nground.",
+      "text": "Yamanin Zephyr chuckles to herself.\nOnly\nsomeone striving to be the wind\nwould say\nsomething like that. The thing\nis, though...",
       "choice_data_list": [
         "Let's rule out floating it in the sky..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Even if Yamanin Zephyr becomes the\nwind, I\ndecide I'd rather keep my feet\nsafe on the\nground."
     },
     {
       "name": "Nice Nature",
@@ -185,14 +185,14 @@
     },
     {
       "name": "Monologue",
-      "text": "As the paper airplane flies across the\ndusk sky, I\nnotice it has lines of text\nacross it."
-    },
-    {
-      "name": "Twin Turbo",
-      "text": "Huh? Oh yeah! You're right!",
+      "text": "As the paper airplane flies across the\ndusk sky, I\nnotice it has lines of text\nacross it.",
       "choice_data_list": [
         "...Isn't that a test paper?"
       ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Huh? Oh yeah! You're right!"
     },
     {
       "name": "Nice Nature",
@@ -204,14 +204,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "This isn't a game anymore! Go and get it!"
-    },
-    {
-      "name": "Twin Turbo",
-      "text": "Ack! It's so high up! I can't reach it!",
+      "text": "This isn't a game anymore! Go and get it!",
       "choice_data_list": [
         "H-Hold on—!"
       ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ack! It's so high up! I can't reach it!"
     },
     {
       "name": "Monologue",

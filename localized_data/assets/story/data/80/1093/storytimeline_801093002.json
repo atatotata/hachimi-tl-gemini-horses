@@ -7,25 +7,25 @@
     },
     {
       "name": "Large Crow",
-      "text": "<i>Caaaw! Caaaw!</i>"
-    },
-    {
-      "name": "Monologue",
-      "text": "While dodging a crow's surprise attack, I\n\naccidentally drop my phone!",
+      "text": "<i>Caaaw! Caaaw!</i>",
       "choice_data_list": [
         "Waaah!?"
       ]
     },
     {
       "name": "Monologue",
-      "text": "It skips across the gravel, tumbling down\nthe\nincline. I watch in frozen horror as it\nhurtles\ntoward its demise."
+      "text": "While dodging a crow's surprise attack, I\n\naccidentally drop my phone!"
     },
     {
-      "name": "???",
-      "text": "I've got it!",
+      "name": "Monologue",
+      "text": "It skips across the gravel, tumbling down\nthe\nincline. I watch in frozen horror as it\nhurtles\ntoward its demise.",
       "choice_data_list": [
         "(At this rate, we'll end up in the river...!)"
       ]
+    },
+    {
+      "name": "???",
+      "text": "I've got it!"
     },
     {
       "name": "Monologue",
@@ -41,11 +41,7 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Oh... what a relief! It still turns on. Looks\nlike I\nmade it just in time."
-    },
-    {
-      "name": "K.S.Miracle",
-      "text": "Huh?\nOh... I am.",
+      "text": "Oh... what a relief! It still turns on. Looks\nlike I\nmade it just in time.",
       "choice_data_list": [
         "You're soaking wet?!",
         "You're soaked!?"
@@ -53,22 +49,26 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Sorry, I probably shouldn't keep holding\non to\nyour phone while sopping wet.\nHere, you'd best\ntake it before it's too\nlate."
+      "text": "Huh?\nOh... I am."
     },
     {
-      "name": "Monologue",
-      "text": "K.S.Miracle looks at me, bewildered. I\ncan't\npossibly leave her in this state! I'd\nbetter...",
+      "name": "K.S.Miracle",
+      "text": "Sorry, I probably shouldn't keep holding\non to\nyour phone while sopping wet.\nHere, you'd best\ntake it before it's too\nlate.",
       "choice_data_list": [
         "No, not that...!"
       ]
     },
     {
       "name": "Monologue",
-      "text": "Remembering there's a cafe nearby, I\nquickly run\nthere and buy her a warm\ndrink.",
+      "text": "K.S.Miracle looks at me, bewildered. I\ncan't\npossibly leave her in this state! I'd\nbetter...",
       "choice_data_list": [
         "I'll think of a way to warm us up right away!",
         "First, let's check your gait for any injuries!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Remembering there's a cafe nearby, I\nquickly run\nthere and buy her a warm\ndrink."
     },
     {
       "name": "K.S.Miracle",
@@ -76,14 +76,14 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "Um... I don't have any money on me.\nCould you\nwait here for me while I run\nback to the dorm to\nget my wallet?"
-    },
-    {
-      "name": "K.S.Miracle",
-      "text": "A-are you sure?",
+      "text": "Um... I don't have any money on me.\nCould you\nwait here for me while I run\nback to the dorm to\nget my wallet?",
       "choice_data_list": [
         "You don't have to give it back!"
       ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A-are you sure?"
     },
     {
       "name": "K.S.Miracle",
@@ -99,15 +99,15 @@
     },
     {
       "name": "K.S.Miracle",
-      "text": "No, I'm not injured. I don't feel any pain,\nand\nnothing seems off."
-    },
-    {
-      "name": "K.S.Miracle",
-      "text": "Haha! Yes, I'm sure! I'll be fine, there's\nno need to\nworry.",
+      "text": "No, I'm not injured. I don't feel any pain,\nand\nnothing seems off.",
       "choice_data_list": [
         "Are you really going to be okay...?",
         "Are you really okay...?"
       ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Haha! Yes, I'm sure! I'll be fine, there's\nno need to\nworry."
     },
     {
       "name": "K.S.Miracle",

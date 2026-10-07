@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "An eating contest is being held at the\nacademy. I\nspot Oguri Cap among the\ncontestants."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Don't get in my way! Now's not the time!\nI <i>have</i> to\nwin this contest.",
+      "text": "An eating contest is being held at the\nacademy. I\nspot Oguri Cap among the\ncontestants.",
       "choice_data_list": [
         "Wait, Oguri! You'll gain weight again!",
         "Wait, Oguri! You'll gain weight again!"
@@ -15,11 +11,21 @@
     },
     {
       "name": "Oguri Cap",
+      "text": "Don't get in my way! Now's not the time!\nI <i>have</i> to\nwin this contest."
+    },
+    {
+      "name": "Oguri Cap",
       "text": "The winner gets a coupon for a supersize\nbowl of\nramen!"
     },
     {
       "name": "Monologue",
-      "text": "She has her mind set on this. There's\nonly thing I\ncan say..."
+      "text": "She has her mind set on this. There's\nonly thing I\ncan say...",
+      "choice_data_list": [
+        "Go fight with everything you've got!",
+        "Go fight with everything you've got!",
+        "I'd like you to pace yourself a bit.",
+        "Eat and eat... devour everything in sight!"
+      ]
     },
     {
       "name": "Monologue",
@@ -33,13 +39,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Thanks. You just sit right back and\nwatch.",
-      "choice_data_list": [
-        "Go fight with everything you've got!",
-        "Go fight with everything you've got!",
-        "I'd like you to pace yourself a bit.",
-        "Eat and eat... devour everything in sight!"
-      ]
+      "text": "...Thanks. You just sit right back and\nwatch."
     },
     {
       "name": "Oguri Cap",
@@ -75,15 +75,15 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "But this is an eating contest. You <i>have</i> to\noverdo\nit if you want a chance at\nwinning."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Fine... I'll do what I can.",
+      "text": "But this is an eating contest. You <i>have</i> to\noverdo\nit if you want a chance at\nwinning.",
       "choice_data_list": [
         "If it's ramen, it's on me.",
         "If it's ramen, my treat."
       ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Fine... I'll do what I can."
     },
     {
       "name": "Host",

@@ -31,14 +31,14 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Do you see now?"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Yes, we're roommates. And she's quite\nthe\nintriguing person, to say the least.",
+      "text": "Do you see now?",
       "choice_data_list": [
         "Is that... Agnes Digital?"
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Yes, we're roommates. And she's quite\nthe\nintriguing person, to say the least."
     },
     {
       "name": "Agnes Tachyon",
@@ -54,15 +54,15 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Can you believe her observational\nskills?! She's\nremarkable!"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Trainer! You must convince her to work\ntogether\nwith me!",
+      "text": "Can you believe her observational\nskills?! She's\nremarkable!",
       "choice_data_list": [
         "You really love Umamusume, don't you?",
         "You really love Umamusume, don't you?"
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Trainer! You must convince her to work\ntogether\nwith me!"
     },
     {
       "name": "Agnes Tachyon",
@@ -86,14 +86,14 @@
     },
     {
       "name": "Agnes Digital",
-      "text": "Wowie! Super maximum excitement\noverload! I\ncan't even!"
-    },
-    {
-      "name": "Agnes Digital",
-      "text": "Hyawahhh?! Tachyon's trainer?!",
+      "text": "Wowie! Super maximum excitement\noverload! I\ncan't even!",
       "choice_data_list": [
         "Um..."
       ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Hyawahhh?! Tachyon's trainer?!"
     },
     {
       "name": "Agnes Digital",
@@ -113,7 +113,12 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Wait, hold on! I haven't said what I..."
+      "text": "Wait, hold on! I haven't said what I...",
+      "choice_data_list": [
+        "We're going to chase after them!",
+        "I'll chase after them!",
+        "Look, someone dropped a secret Umamusume photobook!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -126,12 +131,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Heh-heh, intriguing! So you like a\nchallenge, do\nyou, Digital?",
-      "choice_data_list": [
-        "We're going to chase after them!",
-        "I'll chase after them!",
-        "Look, someone dropped a secret Umamusume photobook!"
-      ]
+      "text": "Heh-heh, intriguing! So you like a\nchallenge, do\nyou, Digital?"
     },
     {
       "name": "Agnes Tachyon",

@@ -27,7 +27,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Sorry to keep you waiting, Trainer! ♪"
+      "text": "Sorry to keep you waiting, Trainer! ♪",
+      "choice_data_list": [
+        "All done with shopping?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -38,10 +41,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Yep, I'm all set!",
-      "choice_data_list": [
-        "All done with shopping?"
-      ]
+      "text": "Yep, I'm all set!"
     },
     {
       "name": "Maruzensky",
@@ -61,11 +61,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ta-da! Shall we try it together?"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That's right! I got a ticket from the lady\nat the\ngrocery store! We can't <i>not</i> use it,\nright?",
+      "text": "Ta-da! Shall we try it together?",
       "choice_data_list": [
         "A raffle, huh!",
         "It's the raffle!"
@@ -73,7 +69,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "And if I win, I thought I could reward\nyou for\ncoming out with me today by\ngiving you the prize!"
+      "text": "That's right! I got a ticket from the lady\nat the\ngrocery store! We can't <i>not</i> use it,\nright?"
     },
     {
       "name": "Maruzensky",
@@ -84,10 +80,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "You dare doubt me? Haha! Well, I can't\nwait to\nsee your reaction when I win the\ngrand-prize! ♪",
+      "text": "And if I win, I thought I could reward\nyou for\ncoming out with me today by\ngiving you the prize!",
       "choice_data_list": [
         "I wonder if we'll win a grand prize?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "You dare doubt me? Haha! Well, I can't\nwait to\nsee your reaction when I win the\ngrand-prize! ♪"
     },
     {
       "name": "Maruzensky",
@@ -119,7 +119,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Trainer, did you hear that?! I won the\ngrand-prize!"
+      "text": "Trainer, did you hear that?! I won the\ngrand-prize!",
+      "choice_data_list": [
+        "Amazing!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -130,14 +133,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I know, right?!",
-      "choice_data_list": [
-        "Amazing!"
-      ]
-    },
-    {
-      "name": "Maruzensky",
-      "text": "So, here you go! This bodacious prize is\nall yours,\nTrainer!"
+      "text": "I know, right?!"
     },
     {
       "name": "Maruzensky",
@@ -149,19 +145,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Of course!",
+      "text": "So, here you go! This bodacious prize is\nall yours,\nTrainer!",
       "choice_data_list": [
         "Are you really sure?",
         "Are you really okay with that?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I feel guilty receiving something like this\njust for\ngoing shopping with Maruzensky.\nAnd besides,\nshe's the one who won it."
+      "name": "Maruzensky",
+      "text": "Of course!"
     },
     {
-      "name": "Maruzensky",
-      "text": "Oh, come on. You don't have to be so\nserious all\nthe time!",
+      "name": "Monologue",
+      "text": "I feel guilty receiving something like this\njust for\ngoing shopping with Maruzensky.\nAnd besides,\nshe's the one who won it.",
       "choice_data_list": [
         "I can't take this after all.",
         "I really can't take this."
@@ -169,14 +165,18 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hmm... Okay! How about we make it a\ndate\ninstead, then?"
+      "text": "Oh, come on. You don't have to be so\nserious all\nthe time!"
     },
     {
       "name": "Maruzensky",
-      "text": "Yeah, just like today's shopping trip!\nYou'll come\nwith me on the hot spring\ntrip!",
+      "text": "Hmm... Okay! How about we make it a\ndate\ninstead, then?",
       "choice_data_list": [
         "Want some company?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah, just like today's shopping trip!\nYou'll come\nwith me on the hot spring\ntrip!"
     },
     {
       "name": "Maruzensky",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "So how about next spring? I'm sure we'll\nhave\nsome free time then."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Done deal! I'll invite you when I get\neverything\nsorted out!",
+      "text": "So how about next spring? I'm sure we'll\nhave\nsome free time then.",
       "choice_data_list": [
         "In that case...!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Done deal! I'll invite you when I get\neverything\nsorted out!"
     },
     {
       "name": "Maruzensky",
@@ -215,25 +215,25 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Booyah! As if there were any doubt! ♪"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Ehehe!",
+      "text": "Booyah! As if there were any doubt! ♪",
       "choice_data_list": [
         "That's Maruzensky for you!"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Heh... Sorry, I got a bit carried away,\ndidn't I?"
+      "text": "Ehehe!"
     },
     {
       "name": "Maruzensky",
-      "text": "Just remember you said that when I go\neven <i>more</i>\nover the top! ♪",
+      "text": "Heh... Sorry, I got a bit carried away,\ndidn't I?",
       "choice_data_list": [
         "It's the first prize, so isn't it fine to ride it?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Just remember you said that when I go\neven <i>more</i>\nover the top! ♪"
     },
     {
       "name": "Maruzensky",
@@ -245,7 +245,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Why don't we eat this hamburger steak\ntogether\nfor lunch?"
+      "text": "Why don't we eat this hamburger steak\ntogether\nfor lunch?",
+      "choice_data_list": [
+        "With pleasure!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -256,10 +259,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Heehee! I'm glad to see you can cut\nloose a little\nyourself! ♪",
-      "choice_data_list": [
-        "With pleasure!"
-      ]
+      "text": "Heehee! I'm glad to see you can cut\nloose a little\nyourself! ♪"
     },
     {
       "name": "Maruzensky",
@@ -283,7 +283,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "But having this many carrots is kind of\ntoo much,\neven between the both of us...\nCarrots go bad\nfast, after all."
+      "text": "But having this many carrots is kind of\ntoo much,\neven between the both of us...\nCarrots go bad\nfast, after all.",
+      "choice_data_list": [
+        "Shall we share some with everyone?",
+        "Shall we share some with everyone?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -295,11 +299,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ooh, nice idea, flour tortilla! ♪",
-      "choice_data_list": [
-        "Shall we share some with everyone?",
-        "Shall we share some with everyone?"
-      ]
+      "text": "Ooh, nice idea, flour tortilla! ♪"
     },
     {
       "name": "Maruzensky",
@@ -311,14 +311,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Teehee! Everyone's looking stoked after\ngobbling\nup those carrots!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Why thank you! ♪ But don't forget\nyours, Trainer!",
+      "text": "Teehee! Everyone's looking stoked after\ngobbling\nup those carrots!",
       "choice_data_list": [
         "Here, Maruzensky, have some too."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Why thank you! ♪ But don't forget\nyours, Trainer!"
     },
     {
       "name": "Maruzensky",
@@ -342,14 +342,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Aww, dang!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Yeah, I guess a little bit of good luck is\nbetter\nthan none at all.",
+      "text": "Aww, dang!",
       "choice_data_list": [
         "Let's just call it decent luck."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah, I guess a little bit of good luck is\nbetter\nthan none at all."
     },
     {
       "name": "Maruzensky",
@@ -381,7 +381,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ugh... Sorry, Trainer. My Maruzen luck\nlet me\ndown today..."
+      "text": "Ugh... Sorry, Trainer. My Maruzen luck\nlet me\ndown today...",
+      "choice_data_list": [
+        "Now, now."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -392,10 +395,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Aww, I wanted to win you something\nnice... Mega\nlame...",
-      "choice_data_list": [
-        "Now, now."
-      ]
+      "text": "Aww, I wanted to win you something\nnice... Mega\nlame..."
     },
     {
       "name": "Monologue",

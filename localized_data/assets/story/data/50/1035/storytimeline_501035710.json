@@ -15,7 +15,12 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Aaaarghhhh! This is the wooooorst!"
+      "text": "Aaaarghhhh! This is the wooooorst!",
+      "choice_data_list": [
+        "Next time, we'll win!",
+        "I'm frustrated too!",
+        "I'm frustrated too!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -28,24 +33,19 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "<i>Sniffle...</i> Next time...",
-      "choice_data_list": [
-        "Next time, we'll win!",
-        "I'm frustrated too!",
-        "I'm frustrated too!"
-      ]
+      "text": "<i>Sniffle...</i> Next time..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah, you're right. This isn't the end!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "<i>Sniffle!</i>",
+      "text": "Yeah, you're right. This isn't the end!",
       "choice_data_list": [
         "That's right!",
         "Exactly!"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Sniffle!</i>"
     },
     {
       "name": "Winning Ticket",
@@ -65,15 +65,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "You're upset too... I see—it isn't just me."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "You mean use this frustration... to leap\nforward?!",
+      "text": "You're upset too... I see—it isn't just me.",
       "choice_data_list": [
         "We'll turn this frustration into fuel!",
         "Let's use this frustration as fuel!"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "You mean use this frustration... to leap\nforward?!"
     },
     {
       "name": "Winning Ticket",

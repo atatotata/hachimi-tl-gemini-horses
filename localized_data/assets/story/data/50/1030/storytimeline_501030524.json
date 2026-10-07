@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One day, I spot Rice Shower by the\nThree\nGoddesses statue, staring into the\nfountain."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Big Brother...",
+      "text": "One day, I spot Rice Shower by the\nThree\nGoddesses statue, staring into the\nfountain.",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Big Brother..."
     },
     {
       "name": "Rice Shower",
@@ -27,16 +27,16 @@
     },
     {
       "name": "Rice Shower",
-      "text": "That's such a big thing to ask for,\nthough... so I\nwasn't sure how many coins\nto toss."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Okay! I'll try to squeeze all my thoughts\ninto it.",
+      "text": "That's such a big thing to ask for,\nthough... so I\nwasn't sure how many coins\nto toss.",
       "choice_data_list": [
         "Let's put our feelings into one coin.",
         "Maybe moderation is best?",
         "Let's put in a whole bunch!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Okay! I'll try to squeeze all my thoughts\ninto it."
     },
     {
       "name": "Rice Shower",
@@ -52,14 +52,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Nothing went wrong, and everyone had\na nice,\nhappy day."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "I hope so... It feels like they did, at least.",
+      "text": "Nothing went wrong, and everyone had\na nice,\nhappy day.",
       "choice_data_list": [
         "Your prayers were answered, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I hope so... It feels like they did, at least."
     },
     {
       "name": "Rice Shower",
@@ -75,13 +75,17 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Wait, is this—we got a winning popsicle\nstick!"
+      "text": "Wait, is this—we got a winning popsicle\nstick!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
     },
     {
       "name": "Rice Shower",
       "text": "Um, Big Brother? Would you eat the\nwinning one?",
       "choice_data_list": [
-        "Congratulations!"
+        "Are you sure?",
+        "Are you sure?"
       ]
     },
     {
@@ -94,11 +98,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Yes. I want to give this good luck to\nyou... and\nmake you happy.",
-      "choice_data_list": [
-        "Are you sure?",
-        "Are you sure?"
-      ]
+      "text": "Yes. I want to give this good luck to\nyou... and\nmake you happy."
     },
     {
       "name": "Rice Shower",
@@ -134,15 +134,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Huh? I... I did something good?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Hehe!",
+      "text": "Huh? I... I did something good?",
       "choice_data_list": [
         "Good for you, Rice!",
         "Good for you, Rice!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hehe!"
     },
     {
       "name": "Rice Shower",
@@ -158,22 +158,18 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh no... This is all my fault."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "No! It's always my fault when something\ngoes\nwrong! Always...",
+      "text": "Oh no... This is all my fault.",
       "choice_data_list": [
         "Nothing's been decided for sure yet."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Um, Mr. Janitor! I'll help clean the\nfountain!"
+      "text": "No! It's always my fault when something\ngoes\nwrong! Always..."
     },
     {
       "name": "Rice Shower",
-      "text": "Big Brother... Thank you!",
+      "text": "Um, Mr. Janitor! I'll help clean the\nfountain!",
       "choice_data_list": [
         "I'll help out too!",
         "I'll help too!"
@@ -181,18 +177,22 @@
     },
     {
       "name": "Rice Shower",
+      "text": "Big Brother... Thank you!"
+    },
+    {
+      "name": "Rice Shower",
       "text": "Big Sister... Thank you!"
     },
     {
       "name": "Janitor",
-      "text": "Whew! Thanks, you two. We got that\ndone\nlightning fast!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "M-me? But it's my fault it was clogged in\nthe first\nplace...",
+      "text": "Whew! Thanks, you two. We got that\ndone\nlightning fast!",
       "choice_data_list": [
         "Great work, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "M-me? But it's my fault it was clogged in\nthe first\nplace..."
     },
     {
       "name": "Rice Shower",

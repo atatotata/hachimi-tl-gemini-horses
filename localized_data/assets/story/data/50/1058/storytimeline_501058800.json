@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Meisho Doto",
-      "text": "Okay, first I have to go to the\ngymnasium... Wait,\nno, that's not right...\nOh, why am I so forgetful?"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, Trainer. I'm rehearsing for tomorrow.\nI'm not\ndoing a good job though...",
+      "text": "Okay, first I have to go to the\ngymnasium... Wait,\nno, that's not right...\nOh, why am I so forgetful?",
       "choice_data_list": [
         "What are you doing all the way over there?",
         "What are you doing over there?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, Trainer. I'm rehearsing for tomorrow.\nI'm not\ndoing a good job though..."
     },
     {
       "name": "Monologue",
@@ -139,15 +139,15 @@
     },
     {
       "name": "Monologue",
-      "text": "The parade concludes with no hiccups.\nJudging\nfrom her expression, Meisho\nDoto is more than\npleased!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "I had nothing to fear with the pumpkin\non. I didn't\nlose my way, not even once...\nHehe.",
+      "text": "The parade concludes with no hiccups.\nJudging\nfrom her expression, Meisho\nDoto is more than\npleased!",
       "choice_data_list": [
         "You did great out there!",
         "You did great!"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I had nothing to fear with the pumpkin\non. I didn't\nlose my way, not even once...\nHehe."
     },
     {
       "name": "Meisho Doto",
@@ -163,7 +163,12 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Huuuh?! Opera O... you would d-do that\nfor me?!"
+      "text": "Huuuh?! Opera O... you would d-do that\nfor me?!",
+      "choice_data_list": [
+        "Hurry along now!",
+        "You've got some great friends.",
+        "You've got some great friends."
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -176,12 +181,7 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "O-okay! Please wait for—",
-      "choice_data_list": [
-        "Hurry along now!",
-        "You've got some great friends.",
-        "You've got some great friends."
-      ]
+      "text": "O-okay! Please wait for—"
     },
     {
       "name": "Meisho Doto",

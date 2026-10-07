@@ -35,14 +35,14 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Anyway... Training, huh?"
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Would that be okay? ...I'll go get\nchanged then.\nJust give me one moment.",
+      "text": "Anyway... Training, huh?",
       "choice_data_list": [
         "Why don't you go for a run together?"
       ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Would that be okay? ...I'll go get\nchanged then.\nJust give me one moment."
     },
     {
       "name": "Monologue",
@@ -58,7 +58,13 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah... I agree."
+      "text": "Yeah... I agree.",
+      "choice_data_list": [
+        "Their running styles are similar.",
+        "Their running styles are similar.",
+        "It's a dead heat.",
+        "It's a dead heat, huh."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -72,13 +78,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah... Maybe so. But the way you run is\n\noutstanding, Rudolf.",
-      "choice_data_list": [
-        "Their running styles are similar.",
-        "Their running styles are similar.",
-        "It's a dead heat.",
-        "It's a dead heat, huh."
-      ]
+      "text": "Ah... Maybe so. But the way you run is\n\noutstanding, Rudolf."
     },
     {
       "name": "Oguri Cap",

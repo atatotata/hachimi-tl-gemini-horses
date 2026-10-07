@@ -7,7 +7,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, Big Bro! Come here, I want you to\nhear this\ntoo!"
+      "text": "Oh, Big Bro! Come here, I want you to\nhear this\ntoo!",
+      "choice_data_list": [
+        "A talk?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -18,10 +21,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ehehe... So, I actually wanna go abroad...",
-      "choice_data_list": [
-        "A talk?"
-      ]
+      "text": "Ehehe... So, I actually wanna go abroad..."
     },
     {
       "name": "King Halo",
@@ -61,15 +61,15 @@
     },
     {
       "name": "King Halo",
-      "text": "Of course. I'm a first-rate student, after\nall! It's\nnatural for me to treat the\nyounger generation to\na tasty meal now\nand then. ♪"
-    },
-    {
-      "name": "King Halo",
-      "text": "Come now. Don't you worry either. This\nis my gift\nto an adorable junior. ♪",
+      "text": "Of course. I'm a first-rate student, after\nall! It's\nnatural for me to treat the\nyounger generation to\na tasty meal now\nand then. ♪",
       "choice_data_list": [
         "No, let me handle this...",
         "No, I will handle this..."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Come now. Don't you worry either. This\nis my gift\nto an adorable junior. ♪"
     },
     {
       "name": "King Halo",
@@ -133,7 +133,12 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Hm... But I think I'd like to go on an\nofficial tour\nthis time..."
+      "text": "Hm... But I think I'd like to go on an\nofficial tour\nthis time...",
+      "choice_data_list": [
+        "Curren, you're so full of energy!",
+        "Curren, you're so full of energy!",
+        "Your initiative is incredible..."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -146,12 +151,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ah... I wouldn't call it power so much as\nbeing\nvery active in my community!",
-      "choice_data_list": [
-        "Curren, you're so full of energy!",
-        "Curren, you're so full of energy!",
-        "Your initiative is incredible..."
-      ]
+      "text": "Ah... I wouldn't call it power so much as\nbeing\nvery active in my community!"
     },
     {
       "name": "Curren Chan",

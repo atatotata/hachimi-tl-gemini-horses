@@ -7,14 +7,14 @@
     },
     {
       "name": "Monologue",
-      "text": "One day, Air Shakur shows up at my\noffice with a\nlarge cardboard box."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "It's yours.\nKeep what ya want and chuck\nwhatever you don't.",
+      "text": "One day, Air Shakur shows up at my\noffice with a\nlarge cardboard box.",
       "choice_data_list": [
         "Sh-Shakur-san? What on earth is this...?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "It's yours.\nKeep what ya want and chuck\nwhatever you don't."
     },
     {
       "name": "Monologue",
@@ -26,14 +26,14 @@
     },
     {
       "name": "Monologue",
-      "text": "There are \"health drinks\" with no\nscientific\nbacking mixed in with the\nlatest scientific magazines.\nI also find\nwhat appears to be a child's towel as\nwell\n as a stylish handkerchief. Amid this\nassortment of\nseemingly random items,\nsomething catches my eye."
-    },
-    {
-      "name": "Monologue",
-      "text": "It shows a youthful yet frail Umamusume\ncradling\na child in what looks to be a\nbar. There's a\nmessage on the back of\nthe photo.",
+      "text": "There are \"health drinks\" with no\nscientific\nbacking mixed in with the\nlatest scientific magazines.\nI also find\nwhat appears to be a child's towel as\nwell\n as a stylish handkerchief. Amid this\nassortment of\nseemingly random items,\nsomething catches my eye.",
       "choice_data_list": [
         "A photo...?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It shows a youthful yet frail Umamusume\ncradling\na child in what looks to be a\nbar. There's a\nmessage on the back of\nthe photo."
     },
     {
       "name": "Air Shakur",
@@ -45,14 +45,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "It's all about what I expected. Man, she's\nso\npathetic."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "She just wants to give the appearance of\nbeing a\nparent. That's why there's no\nrhyme or reason to\nwhat she sent.",
+      "text": "It's all about what I expected. Man, she's\nso\npathetic.",
       "choice_data_list": [
         "Silly?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "She just wants to give the appearance of\nbeing a\nparent. That's why there's no\nrhyme or reason to\nwhat she sent."
     },
     {
       "name": "Air Shakur",
@@ -64,14 +64,14 @@
     },
     {
       "name": "Monologue",
-      "text": "This is not her typical tone. I can gather\nfrom her\nopen aggression that there's a\ndeep rift between\nher and her mother."
-    },
-    {
-      "name": "Monologue",
-      "text": "The message on the back of the\nphotograph of\nthe two reads: \"At the\nvery least, tell me what you\nwant me to\ndo. Try to understand my feelings.\"",
+      "text": "This is not her typical tone. I can gather\nfrom her\nopen aggression that there's a\ndeep rift between\nher and her mother.",
       "choice_data_list": [
         "(Passing along that message might just add fuel to the fire...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The message on the back of the\nphotograph of\nthe two reads: \"At the\nvery least, tell me what you\nwant me to\ndo. Try to understand my feelings.\""
     },
     {
       "name": "Air Shakur",
@@ -87,21 +87,21 @@
     },
     {
       "name": "Monologue",
-      "text": "\"Try to understand my feelings.\" I\nimagine this\nmight be a plea for not only\nunderstanding, but\nfor a chance to\nspeak."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "But what?",
+      "text": "\"Try to understand my feelings.\" I\nimagine this\nmight be a plea for not only\nunderstanding, but\nfor a chance to\nspeak.",
       "choice_data_list": [
         "True, maybe we can't understand it, but..."
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "...",
+      "text": "But what?",
       "choice_data_list": [
         "Still, maybe that's their way of showing they want to do something."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Air Shakur",
@@ -109,7 +109,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Not wanting to intrude any further, I\ndecide to\nchange the subject."
+      "text": "Not wanting to intrude any further, I\ndecide to\nchange the subject.",
+      "choice_data_list": [
+        "Where did you take that photo?",
+        "Where did you take that photo?",
+        "Still, that mountain of cardboard boxes..."
+      ]
     },
     {
       "name": "Monologue",
@@ -124,17 +129,12 @@
       "name": "Air Shakur",
       "text": "Just some bar she used to work at.",
       "choice_data_list": [
-        "Where did you take that photo?",
-        "Where did you take that photo?",
-        "Still, that mountain of cardboard boxes..."
+        "So your mom was a bartender."
       ]
     },
     {
       "name": "Air Shakur",
-      "text": "As if she could do that without making a\nmess of\neverything.\nNo, she was a singer.",
-      "choice_data_list": [
-        "So your mom was a bartender."
-      ]
+      "text": "As if she could do that without making a\nmess of\neverything.\nNo, she was a singer."
     },
     {
       "name": "Air Shakur",
@@ -146,15 +146,15 @@
     },
     {
       "name": "Monologue",
-      "text": "I take another look at the photo. Her\nmother has\na gentle look about her,\nwhile Air Shakur looks\nlike she was as\nuncompromising as a kid as she is\nnow."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "All kids look more or less the same at\nthat age.",
+      "text": "I take another look at the photo. Her\nmother has\na gentle look about her,\nwhile Air Shakur looks\nlike she was as\nuncompromising as a kid as she is\nnow.",
       "choice_data_list": [
         "Kid Shakur is so cute.",
         "Kid Shakur is really cute."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "All kids look more or less the same at\nthat age."
     },
     {
       "name": "Air Shakur",
@@ -174,14 +174,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems like too much to have come\nfrom just a\npackage or two. I suspect\nthat..."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Of course not.",
+      "text": "It seems like too much to have come\nfrom just a\npackage or two. I suspect\nthat...",
       "choice_data_list": [
         "You haven't opened it once since the care packages started coming?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Of course not."
     },
     {
       "name": "Air Shakur",
@@ -189,14 +189,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Well, Doto did. Not me."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Yeah. Y'know, same room? Apparently,\nshe\nthought it was for her.",
+      "text": "Well, Doto did. Not me.",
       "choice_data_list": [
         "Meisho Doto did?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yeah. Y'know, same room? Apparently,\nshe\nthought it was for her."
     },
     {
       "name": "Air Shakur",

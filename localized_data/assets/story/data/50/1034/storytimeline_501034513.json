@@ -19,15 +19,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I-I'd just be in the way. So, I-I'm going to\ngo back\nnow. Waaaaaugh!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Heeey! Hold it right theeere!",
+      "text": "I-I'd just be in the way. So, I-I'm going to\ngo back\nnow. Waaaaaugh!",
       "choice_data_list": [
         "It looks like trouble! We have to go stop—",
         "Looks like trouble! Quick, we have to stop—"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Heeey! Hold it right theeere!"
     },
     {
       "name": "Inari One",
@@ -43,21 +43,21 @@
     },
     {
       "name": "Blonde-Haired Younger Student",
-      "text": "Tickezo! Inari's right! We couldn't let\nyou give up\nyour track time!"
-    },
-    {
-      "name": "Inari One",
-      "text": "In other words, you were talkin' about\ndoin' your\nbest to get ready for your\ndebut, and Tickezo\noverheard?",
+      "text": "Tickezo! Inari's right! We couldn't let\nyou give up\nyour track time!",
       "choice_data_list": [
         "...Wait, give it up?"
       ]
     },
     {
-      "name": "Winning Ticket",
-      "text": "That's right! While I was warming up, I\noverheard\ntheir conversation!",
+      "name": "Inari One",
+      "text": "In other words, you were talkin' about\ndoin' your\nbest to get ready for your\ndebut, and Tickezo\noverheard?",
       "choice_data_list": [
         "So she offered to give up the practice area because she was moved, then."
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That's right! While I was warming up, I\noverheard\ntheir conversation!"
     },
     {
       "name": "Winning Ticket",
@@ -97,14 +97,14 @@
     },
     {
       "name": "Inari One",
-      "text": "It wouldn't sit right if I didn't lend a\nhand!"
-    },
-    {
-      "name": "Blonde-Haired Younger Student",
-      "text": "W-we couldn't possibly impose on you!\nWhat\nabout the track time you booked\nfor your\ntraining?",
+      "text": "It wouldn't sit right if I didn't lend a\nhand!",
       "choice_data_list": [
         "Alright, how about we run the perimeter today?!"
       ]
+    },
+    {
+      "name": "Blonde-Haired Younger Student",
+      "text": "W-we couldn't possibly impose on you!\nWhat\nabout the track time you booked\nfor your\ntraining?"
     },
     {
       "name": "Inari One",
@@ -148,7 +148,13 @@
     },
     {
       "name": "Inari One",
-      "text": "Haha! Runnin' with a classy partner\nmakes it all\nthe better!"
+      "text": "Haha! Runnin' with a classy partner\nmakes it all\nthe better!",
+      "choice_data_list": [
+        "Something like this is nice once in a while.",
+        "It's nice to do something like this once in a while.",
+        "Makes me want to go for a run too...",
+        "Makes me want to go for a run too..."
+      ]
     },
     {
       "name": "Inari One",
@@ -162,13 +168,7 @@
     },
     {
       "name": "Inari One",
-      "text": "You bet! Plus, me and Tickezo are on\nthe same\nwavelength, ya know!",
-      "choice_data_list": [
-        "Something like this is nice once in a while.",
-        "It's nice to do something like this once in a while.",
-        "Makes me want to go for a run too...",
-        "Makes me want to go for a run too..."
-      ]
+      "text": "You bet! Plus, me and Tickezo are on\nthe same\nwavelength, ya know!"
     },
     {
       "name": "Winning Ticket",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I sure did! Okay, Trainer! On your mark,\nget set..."
-    },
-    {
-      "name": "Inari One",
-      "text": "Run with everythin' ya got, and make\nsure ya\nfinish with <i>style!</i>",
+      "text": "I sure did! Okay, Trainer! On your mark,\nget set...",
       "choice_data_list": [
         "Huh?!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Run with everythin' ya got, and make\nsure ya\nfinish with <i>style!</i>"
     },
     {
       "name": "Monologue",

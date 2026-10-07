@@ -67,7 +67,12 @@
     },
     {
       "name": "Gold Ship",
-      "text": "...Sorry, Trainer. I've got to settle this.\nGo ahead\nand eat lunch without me."
+      "text": "...Sorry, Trainer. I've got to settle this.\nGo ahead\nand eat lunch without me.",
+      "choice_data_list": [
+        "No, let me do it instead.",
+        "No, let me do it instead.",
+        "Hang in there...!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -80,12 +85,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "You'll what?",
-      "choice_data_list": [
-        "No, let me do it instead.",
-        "No, let me do it instead.",
-        "Hang in there...!"
-      ]
+      "text": "You'll what?"
     },
     {
       "name": "Nakayama Festa",

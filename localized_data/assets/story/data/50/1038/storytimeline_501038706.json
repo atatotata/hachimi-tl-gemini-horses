@@ -47,7 +47,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "And they're not even all selfies. Look! I\ngot this\ncandid shot of you!"
+      "text": "And they're not even all selfies. Look! I\ngot this\ncandid shot of you!",
+      "choice_data_list": [
+        "Since when?!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -58,10 +61,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Hmm, I wonder! Maybe I should upload\nthis to\nUmastagram... Just kidding!",
-      "choice_data_list": [
-        "Since when?!"
-      ]
+      "text": "Hmm, I wonder! Maybe I should upload\nthis to\nUmastagram... Just kidding!"
     },
     {
       "name": "Monologue",
@@ -81,7 +81,12 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ehehe... Big Bro... <i>Zzz... Zzz...</i>"
+      "text": "Ehehe... Big Bro... <i>Zzz... Zzz...</i>",
+      "choice_data_list": [
+        "Let's let her sleep.",
+        "...Guess I'll wake them up.",
+        "...Maybe I should wake them up."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -94,12 +99,7 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Rattle, rattle, clunk...</i>",
-      "choice_data_list": [
-        "Let's let her sleep.",
-        "...Guess I'll wake them up.",
-        "...Maybe I should wake them up."
-      ]
+      "text": "<i>Rattle, rattle, clunk...</i>"
     },
     {
       "name": "Curren Chan",
@@ -115,11 +115,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "<i>Yawn...</i> That felt great!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Haha! And your shoulder made the best\npillow.",
+      "text": "<i>Yawn...</i> That felt great!",
       "choice_data_list": [
         "That's good to hear."
       ]
@@ -130,14 +126,18 @@
     },
     {
       "name": "Curren Chan",
-      "text": "I'll be sure to make a reservation the\nnext time I\nride the train too! ♪"
+      "text": "Haha! And your shoulder made the best\npillow."
     },
     {
       "name": "Curren Chan",
-      "text": "For the seat next to you! I can't let\nsomeone else\nhave you, now can I?",
+      "text": "I'll be sure to make a reservation the\nnext time I\nride the train too! ♪",
       "choice_data_list": [
         "...A reservation?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "For the seat next to you! I can't let\nsomeone else\nhave you, now can I?"
     },
     {
       "name": "Curren Chan",

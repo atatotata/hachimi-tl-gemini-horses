@@ -35,18 +35,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It's a mediocre time—a far cry from her\npersonal\nbest. Attempting to suppress\nher natural instincts\nhas caused her form\nto become rigid..."
-    },
-    {
-      "name": "Monologue",
-      "text": "If she doesn't break out of this rut soon,\nit might\nhave serious implications for her\nfuture\nperformances.",
+      "text": "It's a mediocre time—a far cry from her\npersonal\nbest. Attempting to suppress\nher natural instincts\nhas caused her form\nto become rigid...",
       "choice_data_list": [
         "(...She's in a bit of a slump.)"
       ]
     },
     {
-      "name": "Ines Fujin",
-      "text": "What's up, Trainer?",
+      "name": "Monologue",
+      "text": "If she doesn't break out of this rut soon,\nit might\nhave serious implications for her\nfuture\nperformances.",
       "choice_data_list": [
         "Hey, Ines.",
         "Hey, Ines."
@@ -54,10 +50,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Huh?",
+      "text": "What's up, Trainer?",
       "choice_data_list": [
         "You don't have to hold it back."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh?"
     },
     {
       "name": "Monologue",
@@ -65,15 +65,15 @@
     },
     {
       "name": "Monologue",
-      "text": "But if taking on that challenge is just\ncausing\nmore issues for her, we might be\nbetter off going\nback to her original\nrunning style."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "I'm fine, I'm fine! Rather than worrying, I\nwant you\nto sit back and expect big\nthings!",
+      "text": "But if taking on that challenge is just\ncausing\nmore issues for her, we might be\nbetter off going\nback to her original\nrunning style.",
       "choice_data_list": [
         "Don't worry, I'll back you up to make up for it.",
         "I'll be sure to back you up to make up for it."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I'm fine, I'm fine! Rather than worrying, I\nwant you\nto sit back and expect big\nthings!"
     },
     {
       "name": "Ines Fujin",
@@ -117,14 +117,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "I-I'm so sorry! I'm sorry! I'm sorry! I'm—"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "...!",
+      "text": "I-I'm so sorry! I'm sorry! I'm sorry! I'm—",
       "choice_data_list": [
         "Put me on the phone!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...!"
     },
     {
       "name": "Monologue",
@@ -132,47 +132,47 @@
     },
     {
       "name": "Monologue",
-      "text": "In short, she accidentally scheduled a\nshift at her\nnew part-time job that\noverlaps with the race."
-    },
-    {
-      "name": "Monologue",
-      "text": "After apologizing profusely, we're able\nto settle\nthe matter without it turning\ninto too big of an\nincident.",
+      "text": "In short, she accidentally scheduled a\nshift at her\nnew part-time job that\noverlaps with the race.",
       "choice_data_list": [
         "(That's unusual for Ines...)"
       ]
     },
     {
+      "name": "Monologue",
+      "text": "After apologizing profusely, we're able\nto settle\nthe matter without it turning\ninto too big of an\nincident."
+    },
+    {
       "name": "Ines Fujin",
-      "text": "I'm sorry, Trainer. I messed up..."
+      "text": "I'm sorry, Trainer. I messed up...",
+      "choice_data_list": [
+        "Ines, it's going to be okay."
+      ]
     },
     {
       "name": "Ines Fujin",
       "text": "Nothing like this has ever happened\nbefore...",
       "choice_data_list": [
-        "Ines, it's going to be okay."
+        "Everything's fine, you can relax."
       ]
     },
     {
       "name": "Monologue",
       "text": "I tell Ines Fujin that I'll explain the\nsituation to her\nemployer so that she\ndoesn't have to shoulder the\nblame\nalone.",
       "choice_data_list": [
-        "Everything's fine, you can relax."
+        "Take a deep breath and focus on the race."
       ]
     },
     {
       "name": "Ines Fujin",
       "text": "...",
       "choice_data_list": [
-        "Take a deep breath and focus on the race."
+        "Show everyone how fun your running is.",
+        "Show everyone how fun your running is."
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "O-okay... You're right!",
-      "choice_data_list": [
-        "Show everyone how fun your running is.",
-        "Show everyone how fun your running is."
-      ]
+      "text": "O-okay... You're right!"
     },
     {
       "name": "Ines Fujin",
