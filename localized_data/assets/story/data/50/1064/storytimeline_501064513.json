@@ -31,15 +31,15 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "...Ah. Sorry, Trainer! Can you give me a\nminute?"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Hey, hey! You two are from Tracen too,\nright? Is\nthis the first time you've been\nout here?",
+      "text": "...Ah. Sorry, Trainer! Can you give me a\nminute?",
       "choice_data_list": [
         "Yeah, of course.",
         "Yeah, of course."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hey, hey! You two are from Tracen too,\nright? Is\nthis the first time you've been\nout here?"
     },
     {
       "name": "Tracen Student A",
@@ -119,7 +119,13 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Sorry, Trainer! I didn't mean to get\ndragged into\nthat."
+      "text": "Sorry, Trainer! I didn't mean to get\ndragged into\nthat.",
+      "choice_data_list": [
+        "There are all kinds of Front Runners, huh.",
+        "There are all kinds of Front Runners, aren't there?",
+        "You're a good friend.",
+        "You're such a good friend."
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -133,13 +139,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I tell her how cool she looked on the\ntrack,\nrunning at top speed for the sake\nof standing up\nfor her friend.",
-      "choice_data_list": [
-        "There are all kinds of Front Runners, huh.",
-        "There are all kinds of Front Runners, aren't there?",
-        "You're a good friend.",
-        "You're such a good friend."
-      ]
+      "text": "I tell her how cool she looked on the\ntrack,\nrunning at top speed for the sake\nof standing up\nfor her friend."
     },
     {
       "name": "Mejiro Palmer",

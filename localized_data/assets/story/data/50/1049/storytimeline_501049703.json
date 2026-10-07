@@ -27,22 +27,22 @@
     },
     {
       "name": "Monologue",
-      "text": "Nakayama Festa puts down the plate\nand takes a\nstep back. The cat begins to\ntimidly drink the\nmilk."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Not really. I'm kinda used to taking care\nof small\nanimals, though.",
+      "text": "Nakayama Festa puts down the plate\nand takes a\nstep back. The cat begins to\ntimidly drink the\nmilk.",
       "choice_data_list": [
         "You really know a lot about cats.",
         "You really know a lot about cats."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "As she takes a step closer to look at its\nwound,\nthe cat immediately runs off.",
+      "name": "Nakayama Festa",
+      "text": "Not really. I'm kinda used to taking care\nof small\nanimals, though.",
       "choice_data_list": [
         "Wait... is this little one hurt?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "As she takes a step closer to look at its\nwound,\nthe cat immediately runs off."
     },
     {
       "name": "Nakayama Festa",
@@ -58,15 +58,15 @@
     },
     {
       "name": "Monologue",
-      "text": "But its life could be in danger if its injury\ngets\nworse. I tell Nakayama Festa that\nwe have to do\nsomething to help, even if\nwe're meddling."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "...Hmm, I dunno.",
+      "text": "But its life could be in danger if its injury\ngets\nworse. I tell Nakayama Festa that\nwe have to do\nsomething to help, even if\nwe're meddling.",
       "choice_data_list": [
         "Now is the time you need help!",
         "Now is when you need help!"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Hmm, I dunno."
     },
     {
       "name": "Nakayama Festa",
@@ -78,14 +78,14 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Let's surround it. You approach it from\nthis side.\nI'll go around."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "The cat will probably come here where it\nthinks\nno one's around.",
+      "text": "Let's surround it. You approach it from\nthis side.\nI'll go around.",
       "choice_data_list": [
         "Got it!"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "The cat will probably come here where it\nthinks\nno one's around."
     },
     {
       "name": "Nakayama Festa",
@@ -129,23 +129,19 @@
     },
     {
       "name": "Monologue",
-      "text": "Animal protection services should be\nhere soon.\nWe got the cat calm just in\ntime."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "You really hate minding your own\nbusiness.",
+      "text": "Animal protection services should be\nhere soon.\nWe got the cat calm just in\ntime.",
       "choice_data_list": [
         "Now we can breathe a sigh of relief.",
         "Now we can breathe a sigh of relief, can't we."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I couldn't help myself. I didn't feel just\nsorry for\nthe cat, it somehow made me\nthink of Nakayama\nFesta."
+      "name": "Nakayama Festa",
+      "text": "You really hate minding your own\nbusiness."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Heh... What're you talking about?",
+      "name": "Monologue",
+      "text": "I couldn't help myself. I didn't feel just\nsorry for\nthe cat, it somehow made me\nthink of Nakayama\nFesta.",
       "choice_data_list": [
         "Because its noble air reminded me of you.",
         "Because its noble air reminded me of you."
@@ -162,7 +158,7 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Sure, if I feel like it. It's gonna forget\nwho we are\nthough.",
+      "text": "Heh... What're you talking about?",
       "choice_data_list": [
         "Let's go check on the cat from time to time!",
         "I hope this cat finds happiness...",
@@ -171,14 +167,18 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Hey. Don't lick my hand. Lick the milk."
+      "text": "Sure, if I feel like it. It's gonna forget\nwho we are\nthough."
     },
     {
       "name": "Nakayama Festa",
-      "text": "You think so? What a cunning little\nkitty.",
+      "text": "...Hey. Don't lick my hand. Lick the milk.",
       "choice_data_list": [
         "She says she wants to see you again."
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "You think so? What a cunning little\nkitty."
     },
     {
       "name": "Monologue",

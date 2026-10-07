@@ -87,22 +87,22 @@
     },
     {
       "name": "Monologue",
-      "text": "She's been going all-out from the day\ncamp\nstarted, but if there's one way to\nget her to\nrelax..."
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Huh? Sure. About what?",
+      "text": "She's been going all-out from the day\ncamp\nstarted, but if there's one way to\nget her to\nrelax...",
       "choice_data_list": [
         "I'd like you to help Smart Falcon."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "It takes a lot of power to run on dirt\ntracks, which\nis where Smart Falcon\nthrives. I ask her to give us\nsome\npointers.",
+      "name": "Smart Falcon",
+      "text": "Huh? Sure. About what?",
       "choice_data_list": [
         "Teach me the secret to unleashing power.",
         "Tell me your secret to holding on till the end."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It takes a lot of power to run on dirt\ntracks, which\nis where Smart Falcon\nthrives. I ask her to give us\nsome\npointers."
     },
     {
       "name": "Eishin Flash",
@@ -138,11 +138,7 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Chowing down on sweet stuff is the best\nway to\nrecharge yourself! ☆ It's my\ntried-and-true secret\nto gaining\npower! ♪"
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Does it?",
+      "text": "Chowing down on sweet stuff is the best\nway to\nrecharge yourself! ☆ It's my\ntried-and-true secret\nto gaining\npower! ♪",
       "choice_data_list": [
         "You've got a point!",
         "That's a fair point!"
@@ -150,10 +146,14 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "How am I supposed to \"give it a try and\nhave fun\"\nwhen there's no way to\nvalidate Falcon's claims?\nFor starters—",
+      "text": "Does it?",
       "choice_data_list": [
         "Trust me on this and let's just have fun!"
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "How am I supposed to \"give it a try and\nhave fun\"\nwhen there's no way to\nvalidate Falcon's claims?\nFor starters—"
     },
     {
       "name": "Smart Falcon",

@@ -39,7 +39,12 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Which is all to say... I'm going back\nunder! Osu!"
+      "text": "Which is all to say... I'm going back\nunder! Osu!",
+      "choice_data_list": [
+        "……Then at least put on a safety harness.",
+        "……Then please, at least wear a safety line.",
+        "Maybe next time..."
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -52,12 +57,7 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Understood! I'll get a rope right away!",
-      "choice_data_list": [
-        "……Then at least put on a safety harness.",
-        "……Then please, at least wear a safety line.",
-        "Maybe next time..."
-      ]
+      "text": "Understood! I'll get a rope right away!"
     },
     {
       "name": "Monologue",
@@ -93,14 +93,14 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Again! I'm going to try one more time!\nThis time\nI've got it!"
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "...Fine. But I'll definitely get it next time\nwe come\nto the beach!",
+      "text": "Again! I'm going to try one more time!\nThis time\nI've got it!",
       "choice_data_list": [
         "T-That's it for this year, for now!"
       ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Fine. But I'll definitely get it next time\nwe come\nto the beach!"
     },
     {
       "name": "Yaeno Muteki",
@@ -108,15 +108,15 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "In that case, is there something else I\ncould be\ndoing right now? Should I go\nback to the\ncampsite?"
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "Hm... Yes, if that's all right. Now that I\ntake a\ncloser look, this area is quite\nbeautiful in its\ntranquility.",
+      "text": "In that case, is there something else I\ncould be\ndoing right now? Should I go\nback to the\ncampsite?",
       "choice_data_list": [
         "If you'd like, want to go for a short walk together?",
         "If you'd like, do you want to go for a short walk together?"
       ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hm... Yes, if that's all right. Now that I\ntake a\ncloser look, this area is quite\nbeautiful in its\ntranquility."
     },
     {
       "name": "Yaeno Muteki",

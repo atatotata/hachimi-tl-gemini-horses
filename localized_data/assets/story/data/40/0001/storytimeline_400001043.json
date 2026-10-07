@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Happy Meek",
-      "text": "I propose... a challenge."
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Yes! We talked it over, and I'm all for\nthe idea as\nwell.",
+      "text": "I propose... a challenge.",
       "choice_data_list": [
         "A showdown?"
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes! We talked it over, and I'm all for\nthe idea as\nwell."
     },
     {
       "name": "Trainer Kiryuin",
@@ -22,18 +22,14 @@
     },
     {
       "name": "Happy Meek",
-      "text": "Yeah. So please... If you would."
-    },
-    {
-      "name": "Monologue",
-      "text": "They didn't have any particular criteria\nin mind\nfor our little showdown, so I get\nto pick.",
+      "text": "Yeah. So please... If you would.",
       "choice_data_list": [
         "Of course, by all means."
       ]
     },
     {
-      "name": "Happy Meek",
-      "text": "Speed... Time to become the wind.\nWhoosh!",
+      "name": "Monologue",
+      "text": "They didn't have any particular criteria\nin mind\nfor our little showdown, so I get\nto pick.",
       "choice_data_list": [
         "Win with speed!",
         "We'll win with stamina!",
@@ -42,6 +38,10 @@
         "Let's win with Wit!",
         "A battle of endurance!"
       ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Speed... Time to become the wind.\nWhoosh!"
     },
     {
       "name": "Happy Meek",

@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "I did it... I did it, Big Brother. I won."
+      "text": "I did it... I did it, Big Brother. I won.",
+      "choice_data_list": [
+        "Stand proud and hold your head high."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -14,14 +17,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Hold my head up? Um, uh...",
-      "choice_data_list": [
-        "Stand proud and hold your head high."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "A-ahem! H-how's this? Am I doing it\nright?"
+      "text": "Hold my head up? Um, uh..."
     },
     {
       "name": "Rice Shower",
@@ -34,12 +30,16 @@
     },
     {
       "name": "Rice Shower",
-      "text": "You're proud... of me? That's kinda\n\nembarrassing...",
+      "text": "A-ahem! H-how's this? Am I doing it\nright?",
       "choice_data_list": [
         "I'm proud of you.",
         "Let's win next time too!",
         "Let's win next time too!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "You're proud... of me? That's kinda\n\nembarrassing..."
     },
     {
       "name": "Rice Shower",

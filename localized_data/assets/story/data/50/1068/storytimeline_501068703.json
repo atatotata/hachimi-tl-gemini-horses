@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Kitasan Black",
-      "text": "Wh-whoa! No wonder everyone's been\ntalking\nabout this haunted house. I-it's\nterrifying!"
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "All right, Kita, tell me how you're\nfeeling! Which\nparts really scared you?\nWhen were you the most\nrattled?!",
+      "text": "Wh-whoa! No wonder everyone's been\ntalking\nabout this haunted house. I-it's\nterrifying!",
       "choice_data_list": [
         "Y-Yeah.",
         "Y-Yeah."
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "All right, Kita, tell me how you're\nfeeling! Which\nparts really scared you?\nWhen were you the most\nrattled?!"
     },
     {
       "name": "Monologue",
@@ -35,11 +35,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "L-let's do some research on what makes\nthem so\nscary! Don't worry, you can\ncount on me...\nb-because I'm terrified of\nmonsters and ghoulies!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "But it's precisely because I'm terrified of\nthat\nkinda stuff that I'll be a good\nreference! I'm sure I\ncan be of help with\nthis!",
+      "text": "L-let's do some research on what makes\nthem so\nscary! Don't worry, you can\ncount on me...\nb-because I'm terrified of\nmonsters and ghoulies!",
       "choice_data_list": [
         "Are you sure that's okay!?",
         "Are you sure that's okay!?"
@@ -47,14 +43,18 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "I really want to see this festival work\nout, so I'll\ndo everything I can to make it\nhappen!"
+      "text": "But it's precisely because I'm terrified of\nthat\nkinda stuff that I'll be a good\nreference! I'm sure I\ncan be of help with\nthis!"
     },
     {
-      "name": "Matikanetannhauser",
-      "text": "Urgh... I'm so sorry for putting you\nthrough this,\nbut thank you, thank you!\nTell me if it's too much,\nthough, okay?",
+      "name": "Kitasan Black",
+      "text": "I really want to see this festival work\nout, so I'll\ndo everything I can to make it\nhappen!",
       "choice_data_list": [
         "Kitasan..."
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Urgh... I'm so sorry for putting you\nthrough this,\nbut thank you, thank you!\nTell me if it's too much,\nthough, okay?"
     },
     {
       "name": "Monologue",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Yeah, their smile and hair looked extra\n\nspine-chilling mirrored in the glass! Just\nthinking\nof that part is making my hand\nshake as I write!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "N-no way! I'm still good! Come on, let's\nhurry to\nthe next thing while I'm still\nconscious!",
+      "text": "Yeah, their smile and hair looked extra\n\nspine-chilling mirrored in the glass! Just\nthinking\nof that part is making my hand\nshake as I write!",
       "choice_data_list": [
         "Maybe you should stop now...?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "N-no way! I'm still good! Come on, let's\nhurry to\nthe next thing while I'm still\nconscious!"
     },
     {
       "name": "Monologue",
@@ -121,14 +121,14 @@
     },
     {
       "name": "Shopkeeper A",
-      "text": "Okay, all the final touches are complete!\nLet me\nknow your honest opinions!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Got it! This is my final duty... I'll bear\nwitness to\nthe culmination of everyone's\nblood, sweat, and\ntears!",
+      "text": "Okay, all the final touches are complete!\nLet me\nknow your honest opinions!",
       "choice_data_list": [
         "Let's go, Kitasan!"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Got it! This is my final duty... I'll bear\nwitness to\nthe culmination of everyone's\nblood, sweat, and\ntears!"
     },
     {
       "name": "Kitasan Black",
@@ -164,7 +164,13 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "You'll be fine! This haunted house is\nguaranteed\nto be a huge hit! In fact, I'm\ngiving it my seal of\napproval!"
+      "text": "You'll be fine! This haunted house is\nguaranteed\nto be a huge hit! In fact, I'm\ngiving it my seal of\napproval!",
+      "choice_data_list": [
+        "I'm looking forward to the main event!",
+        "Can't wait for the main event!",
+        "You pushed through your fear, and that's what made it pay off!",
+        "You pushed through your fear, and that's what made it pay off, huh!"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -178,13 +184,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Yeah! I'm sure visitors will appreciate\nhow much\nhard work went into this!",
-      "choice_data_list": [
-        "I'm looking forward to the main event!",
-        "Can't wait for the main event!",
-        "You pushed through your fear, and that's what made it pay off!",
-        "You pushed through your fear, and that's what made it pay off, huh!"
-      ]
+      "text": "Yeah! I'm sure visitors will appreciate\nhow much\nhard work went into this!"
     },
     {
       "name": "Kitasan Black",

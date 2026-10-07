@@ -7,14 +7,14 @@
     },
     {
       "name": "Doctor",
-      "text": "I did a full examination, but there don't\nappear to\nbe any serious issues. Let's just\nkeep an eye on\nyour progress for now."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "...",
+      "text": "I did a full examination, but there don't\nappear to\nbe any serious issues. Let's just\nkeep an eye on\nyour progress for now.",
       "choice_data_list": [
         "...Thank goodness."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "..."
     },
     {
       "name": "Ines Fujin",
@@ -30,14 +30,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "My Mom and Dad sent me way too many\n\nmessages..."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Ahaha, I guess I should have expected it.\nI was\nsuddenly hospitalized after\ncompeting in the\nDerby, after all.",
+      "text": "My Mom and Dad sent me way too many\n\nmessages...",
       "choice_data_list": [
         "That's just how worried I was."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha, I guess I should have expected it.\nI was\nsuddenly hospitalized after\ncompeting in the\nDerby, after all."
     },
     {
       "name": "Monologue",
@@ -45,11 +45,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I told them it wasn't anything serious,\nand that I'd\nstay by Ines's side while she\nrecovers. But they\nstill must have been\nreally worried."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Hmm, that's probably a good idea.\nSeeing me in\nperson might put their\nminds at ease.",
+      "text": "I told them it wasn't anything serious,\nand that I'd\nstay by Ines's side while she\nrecovers. But they\nstill must have been\nreally worried.",
       "choice_data_list": [
         "Next time you take a break, why not visit home?",
         "Next time you take time off, how about visiting home?"
@@ -57,11 +53,15 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "You're right! I'm sure I'd be bored out of\nmy mind\nwhile I rest my legs anyway.",
+      "text": "Hmm, that's probably a good idea.\nSeeing me in\nperson might put their\nminds at ease.",
       "choice_data_list": [
         "Go be a 'big sister' at home for a change.",
         "Why don't you go be a 'big sister' at home for once?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "You're right! I'm sure I'd be bored out of\nmy mind\nwhile I rest my legs anyway."
     },
     {
       "name": "Ines Fujin",
@@ -73,14 +73,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Don't go eating anything weird while I'm\ngone,\nokay, Trainer?"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Hmm, I guess I'll just have to trust you...\n\nOkay, I'm off!",
+      "text": "Don't go eating anything weird while I'm\ngone,\nokay, Trainer?",
       "choice_data_list": [
         "I'm not eating that!!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hmm, I guess I'll just have to trust you...\n\nOkay, I'm off!"
     },
     {
       "name": "Monologue",
@@ -88,14 +88,14 @@
     },
     {
       "name": "Monologue",
-      "text": "When I return to my office, I notice the\nDerby\nmaterials that I left strewn across\nmy desk are\nneatly organized."
-    },
-    {
-      "name": "Monologue",
-      "text": "I sit at my uncluttered desk and begin\nthinking.",
+      "text": "When I return to my office, I notice the\nDerby\nmaterials that I left strewn across\nmy desk are\nneatly organized.",
       "choice_data_list": [
         "...I wonder if Ines cleaned up for us."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I sit at my uncluttered desk and begin\nthinking."
     },
     {
       "name": "Monologue",
@@ -103,25 +103,25 @@
     },
     {
       "name": "Infirmary Doctor",
-      "text": "...So you have concerns that her body\nwon't be\nable to hold up?"
-    },
-    {
-      "name": "Infirmary Doctor",
-      "text": "I understand where you're coming from.\nWe at the\nacademy were also quite\nworried about her\ncondition following\nthe Derby.",
+      "text": "...So you have concerns that her body\nwon't be\nable to hold up?",
       "choice_data_list": [
         "...Yes."
       ]
     },
     {
       "name": "Infirmary Doctor",
-      "text": "She'll need additional support. And not\njust\nphysical—we also need to make sure\nthat she\nremains mentally balanced."
+      "text": "I understand where you're coming from.\nWe at the\nacademy were also quite\nworried about her\ncondition following\nthe Derby."
     },
     {
       "name": "Infirmary Doctor",
-      "text": "Yes. Pushing her body to its limits\ninevitably puts\nstrain on her mental\nhealth, too.",
+      "text": "She'll need additional support. And not\njust\nphysical—we also need to make sure\nthat she\nremains mentally balanced.",
       "choice_data_list": [
         "The heart?"
       ]
+    },
+    {
+      "name": "Infirmary Doctor",
+      "text": "Yes. Pushing her body to its limits\ninevitably puts\nstrain on her mental\nhealth, too."
     },
     {
       "name": "Infirmary Doctor",
@@ -145,14 +145,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "So the thing is... I'm hoping to develop a\nmore\nefficient running style for my\nfuture races."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Yeah. I mean... I collapsed after the\nDerby, right?",
+      "text": "So the thing is... I'm hoping to develop a\nmore\nefficient running style for my\nfuture races.",
       "choice_data_list": [
         "An efficient running style?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yeah. I mean... I collapsed after the\nDerby, right?"
     },
     {
       "name": "Ines Fujin",
@@ -160,14 +160,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "So I thought I'd need to create a new\nrunning\nstyle! What do you think?!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Her request is just what I had hoped for.",
+      "text": "So I thought I'd need to create a new\nrunning\nstyle! What do you think?!",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Her request is just what I had hoped for."
     },
     {
       "name": "Monologue",
@@ -175,14 +175,14 @@
     },
     {
       "name": "Monologue",
-      "text": "However, if it helps alleviate the burden\nshe puts\non her body, then it's definitely\nworth a shot."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "All right! I'll leave the regimen changes\nup to you!",
+      "text": "However, if it helps alleviate the burden\nshe puts\non her body, then it's definitely\nworth a shot.",
       "choice_data_list": [
         "Sounds great! Let's try it at the training camp too!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "All right! I'll leave the regimen changes\nup to you!"
     },
     {
       "name": "Ines Fujin",

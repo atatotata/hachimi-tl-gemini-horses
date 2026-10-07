@@ -7,14 +7,14 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Oh, if it isn't\nTrainer\n<username>!\nAre\nyou buying shoes as well?"
-    },
-    {
-      "name": "Trainer Kiryuin",
-      "text": "Of course! After all, a first-rate\nUmamusume\nneeds first-rate gear!",
+      "text": "Oh, if it isn't\nTrainer\n<username>!\nAre\nyou buying shoes as well?",
       "choice_data_list": [
         "That too?"
       ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Of course! After all, a first-rate\nUmamusume\nneeds first-rate gear!"
     },
     {
       "name": "Monologue",
@@ -66,11 +66,7 @@
     },
     {
       "name": "Happy Meek",
-      "text": "All right..."
-    },
-    {
-      "name": "Happy Meek",
-      "text": "No... It's all right. I'm happy with the\nshoes my\ntrainer picked out for me.",
+      "text": "All right...",
       "choice_data_list": [
         "Are you sure you don't want to tell them you like those shoes?",
         "Are you sure you don't want to tell them you like those shoes?"
@@ -78,15 +74,15 @@
     },
     {
       "name": "Happy Meek",
+      "text": "No... It's all right. I'm happy with the\nshoes my\ntrainer picked out for me."
+    },
+    {
+      "name": "Happy Meek",
       "text": "I know she's just thinking about what's\nbest for\nme... She works really hard, you\nknow."
     },
     {
       "name": "Happy Meek",
-      "text": "So it's fine... I just thought those shoes\nlooked\nlike baguettes, that's all."
-    },
-    {
-      "name": "Happy Meek",
-      "text": "You... really think so?",
+      "text": "So it's fine... I just thought those shoes\nlooked\nlike baguettes, that's all.",
       "choice_data_list": [
         "They'll appreciate it more if you tell them how you really feel.",
         "She'll appreciate it more if you tell her how you really feel."
@@ -94,11 +90,15 @@
     },
     {
       "name": "Happy Meek",
-      "text": "Thank you... I'll go and tell her...",
+      "text": "You... really think so?",
       "choice_data_list": [
         "I'm a Trainer too, so I understand.",
         "I understand, because I'm a Trainer too."
       ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Thank you... I'll go and tell her..."
     },
     {
       "name": "Trainer Kiryuin",

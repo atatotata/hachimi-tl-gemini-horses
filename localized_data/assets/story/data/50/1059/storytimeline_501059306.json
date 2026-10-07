@@ -119,15 +119,15 @@
     },
     {
       "name": "Monologue",
-      "text": "When I head out to meet Mejiro Dober\nafter her\namazing performance, I notice\nsomething's off.\nShe looks pale and she's\ntrembling."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...I'm fine.",
+      "text": "When I head out to meet Mejiro Dober\nafter her\namazing performance, I notice\nsomething's off.\nShe looks pale and she's\ntrembling.",
       "choice_data_list": [
         "...Are you okay?",
         "...Are you okay?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...I'm fine."
     },
     {
       "name": "Mejiro Dober",
@@ -179,21 +179,21 @@
     },
     {
       "name": "Air Groove",
-      "text": "I was hoping I could speak to you for a\nfew\nminutes about Dober."
-    },
-    {
-      "name": "Air Groove",
-      "text": "She's been acting strange ever since the\nOka Sho,\nhasn't she?",
+      "text": "I was hoping I could speak to you for a\nfew\nminutes about Dober.",
       "choice_data_list": [
         "Air Groove..."
       ]
     },
     {
       "name": "Air Groove",
-      "text": "I might know what Dober is struggling\nwith at the\nmoment.",
+      "text": "She's been acting strange ever since the\nOka Sho,\nhasn't she?",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "I might know what Dober is struggling\nwith at the\nmoment."
     },
     {
       "name": "Air Groove",
@@ -201,22 +201,18 @@
     },
     {
       "name": "Air Groove",
-      "text": "Would you mind if I spoke with her in\nprivate?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "About what she's fighting against. I wish\nto reveal\nits true nature to her, as I don't\nthink she realizes\nwhat it is.",
+      "text": "Would you mind if I spoke with her in\nprivate?",
       "choice_data_list": [
         "A talk...?"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "However, this is ultimately a problem\nbetween\nyou and her. If you don't\napprove of my\nmeddling, you are free to\ndecline."
+      "text": "About what she's fighting against. I wish\nto reveal\nits true nature to her, as I don't\nthink she realizes\nwhat it is."
     },
     {
-      "name": "Monologue",
-      "text": "I know that something happened at the\nOka Sho,\nbut I have no idea what I\nshould say to make her\nfeel better.",
+      "name": "Air Groove",
+      "text": "However, this is ultimately a problem\nbetween\nyou and her. If you don't\napprove of my\nmeddling, you are free to\ndecline.",
       "choice_data_list": [
         "...I'd like to ask the same of you.",
         "...I would like to ask that as well."
@@ -224,14 +220,18 @@
     },
     {
       "name": "Monologue",
-      "text": "I want to do whatever I can to support\nher, and\nright now, the best thing to do\nis ask for help."
+      "text": "I know that something happened at the\nOka Sho,\nbut I have no idea what I\nshould say to make her\nfeel better."
     },
     {
-      "name": "Air Groove",
-      "text": "Understood. Thank you for allowing me\nto speak\nwith her.",
+      "name": "Monologue",
+      "text": "I want to do whatever I can to support\nher, and\nright now, the best thing to do\nis ask for help.",
       "choice_data_list": [
         "I'd like you to go talk to Dober"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Understood. Thank you for allowing me\nto speak\nwith her."
     },
     {
       "name": "Air Groove",

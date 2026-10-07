@@ -55,15 +55,15 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Urgh... Why do I have to owe <i>you?!</i>"
-    },
-    {
-      "name": "Vodka",
-      "text": "Huh? Man... You're way too nice,\nTrainer.",
+      "text": "Urgh... Why do I have to owe <i>you?!</i>",
       "choice_data_list": [
         "Why not help them out?",
         "Why don't you help them out?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Huh? Man... You're way too nice,\nTrainer."
     },
     {
       "name": "Vodka",
@@ -107,7 +107,13 @@
     },
     {
       "name": "Vodka",
-      "text": "Hey Trainer! Got any kid-friendly\ntraining ideas?"
+      "text": "Hey Trainer! Got any kid-friendly\ntraining ideas?",
+      "choice_data_list": [
+        "Tag is the obvious choice here!",
+        "Tag is the obvious choice here!",
+        "How about the jungle gym?",
+        "How about the jungle gym?"
+      ]
     },
     {
       "name": "Vodka",
@@ -121,13 +127,7 @@
     },
     {
       "name": "Vodka",
-      "text": "Tag! Good idea! It's basically all runnin'!",
-      "choice_data_list": [
-        "Tag is the obvious choice here!",
-        "Tag is the obvious choice here!",
-        "How about the jungle gym?",
-        "How about the jungle gym?"
-      ]
+      "text": "Tag! Good idea! It's basically all runnin'!"
     },
     {
       "name": "Vodka",

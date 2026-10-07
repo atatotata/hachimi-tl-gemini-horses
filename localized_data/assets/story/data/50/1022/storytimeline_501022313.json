@@ -95,21 +95,21 @@
     },
     {
       "name": "Security Captain",
-      "text": "...Um, actually, she said she'd like to\nspeak to\nyour trainer instead if that were\nto be the case."
-    },
-    {
-      "name": "Fine's Older Sister",
-      "text": "Yes, hello there? Are you the trainer\nresponsible\nfor my dear little princess?",
+      "text": "...Um, actually, she said she'd like to\nspeak to\nyour trainer instead if that were\nto be the case.",
       "choice_data_list": [
         "！？"
       ]
     },
     {
       "name": "Fine's Older Sister",
-      "text": "Are you frightened? That's a shame—I\nprefer\nstrong-willed types. One must\nhold back when\ndealing with the meek.",
+      "text": "Yes, hello there? Are you the trainer\nresponsible\nfor my dear little princess?",
       "choice_data_list": [
         "Y-Yes."
       ]
+    },
+    {
+      "name": "Fine's Older Sister",
+      "text": "Are you frightened? That's a shame—I\nprefer\nstrong-willed types. One must\nhold back when\ndealing with the meek."
     },
     {
       "name": "Monologue",
@@ -141,14 +141,14 @@
     },
     {
       "name": "Fine's Older Sister",
-      "text": "I trust you'll continue to take good care\nof her in\nthe future as well."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Hey, what is she saying? Can I hear?",
+      "text": "I trust you'll continue to take good care\nof her in\nthe future as well.",
       "choice_data_list": [
         "Yes!"
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hey, what is she saying? Can I hear?"
     },
     {
       "name": "Fine's Older Sister",
@@ -236,29 +236,25 @@
     },
     {
       "name": "Monologue",
-      "text": "After returning to the summer\ncampgrounds, I\ndecide that now is the\ntime to speak to Fine\nMotion about her\nnext race."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "...I know.",
+      "text": "After returning to the summer\ncampgrounds, I\ndecide that now is the\ntime to speak to Fine\nMotion about her\nnext race.",
       "choice_data_list": [
         "This might be the final race."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I've taken the time and rank of the races\ninto\nconsideration and, more\nimportantly, I've\nweighed them by\nwhether the opponents might\nmake her\nlast race a truly enjoyable one.",
+      "name": "Fine Motion",
+      "text": "...I know.",
       "choice_data_list": [
         "I narrowed down the candidate races to four."
       ]
     },
     {
       "name": "Monologue",
-      "text": "I've landed on the autumn Tenno Sho,\nthe Queen\nElizabeth II Cup, the Mile\nChampionship, and the\nArima Kinen."
+      "text": "I've taken the time and rank of the races\ninto\nconsideration and, more\nimportantly, I've\nweighed them by\nwhether the opponents might\nmake her\nlast race a truly enjoyable one."
     },
     {
-      "name": "Fine Motion",
-      "text": "...\nJust checking, but... theoretically, I\n<i>could</i> enter\nall of them, couldn't I?",
+      "name": "Monologue",
+      "text": "I've landed on the autumn Tenno Sho,\nthe Queen\nElizabeth II Cup, the Mile\nChampionship, and the\nArima Kinen.",
       "choice_data_list": [
         "I'd like to hear your opinion.",
         "I want to hear your opinion."
@@ -266,11 +262,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "It's just that you'd like me to choose one\nfinal\nrace to take on in peak condition?"
+      "text": "...\nJust checking, but... theoretically, I\n<i>could</i> enter\nall of them, couldn't I?"
     },
     {
       "name": "Fine Motion",
-      "text": "...Could I have a little time to think\nabout it?",
+      "text": "It's just that you'd like me to choose one\nfinal\nrace to take on in peak condition?",
       "choice_data_list": [
         "That's right.",
         "That's right."
@@ -278,18 +274,22 @@
     },
     {
       "name": "Fine Motion",
+      "text": "...Could I have a little time to think\nabout it?"
+    },
+    {
+      "name": "Fine Motion",
       "text": "One day should be enough. I just need\nto... sort\nout my feelings."
     },
     {
       "name": "Monologue",
-      "text": "I wonder if she plans to shoulder this\ndecision\nalone again."
-    },
-    {
-      "name": "Monologue",
-      "text": "I decide to have faith and leave things in\nher\nhands.",
+      "text": "I wonder if she plans to shoulder this\ndecision\nalone again.",
       "choice_data_list": [
         "(No, I'm sure that won't happen.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I decide to have faith and leave things in\nher\nhands."
     }
   ]
 }

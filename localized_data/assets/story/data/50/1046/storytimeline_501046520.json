@@ -11,14 +11,14 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "It was raining not that long ago, so the\ntrack's\ncondition is just the worst!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Yeah, maybe we should. I really wanna\nkeep\ngoing, but...",
+      "text": "It was raining not that long ago, so the\ntrack's\ncondition is just the worst!",
       "choice_data_list": [
         "Shall we call it a day around here?"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Yeah, maybe we should. I really wanna\nkeep\ngoing, but..."
     },
     {
       "name": "Smart Falcon",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "As a fellow Umadol, I can't not say\nhello! ☆"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Of course! After all...",
+      "text": "As a fellow Umadol, I can't not say\nhello! ☆",
       "choice_data_list": [
         "Is Oguri Cap an Umadol too?"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Of course! After all..."
     },
     {
       "name": "Smart Falcon",
@@ -53,14 +53,14 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "In my eyes, that makes her a super\nfamous\nUmadol!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Good work out there, Oguri! ☆ We're\nboth totally\ncovered in mud, huh?",
+      "text": "In my eyes, that makes her a super\nfamous\nUmadol!",
       "choice_data_list": [
         "What a unique perspective..."
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Good work out there, Oguri! ☆ We're\nboth totally\ncovered in mud, huh?"
     },
     {
       "name": "Oguri Cap",
@@ -104,7 +104,12 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!"
+      "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!",
+      "choice_data_list": [
+        "Give it everything you've got!",
+        "Give it everything you've got!",
+        "Let's ask them for a tandem run."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -117,12 +122,7 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Thanks, Trainer! ☆ I'm off, then!",
-      "choice_data_list": [
-        "Give it everything you've got!",
-        "Give it everything you've got!",
-        "Let's ask them for a tandem run."
-      ]
+      "text": "Thanks, Trainer! ☆ I'm off, then!"
     },
     {
       "name": "Smart Falcon",
@@ -166,14 +166,14 @@
     },
     {
       "name": "",
-      "text": "<i>Craaash!</i>"
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Falco?! It's too early to collapse!",
+      "text": "<i>Craaash!</i>",
       "choice_data_list": [
         "Falco?!"
       ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Falco?! It's too early to collapse!"
     },
     {
       "name": "",
@@ -217,14 +217,14 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "As an Umadol, my face is a no-go!\nTrainer, get me\na towel!"
-    },
-    {
-      "name": "",
-      "text": "...In any case, Smart Falcon's awareness\nas a front\nrunner improves significantly\nthanks to pair\nrunning with Oguri Cap!",
+      "text": "As an Umadol, my face is a no-go!\nTrainer, get me\na towel!",
       "choice_data_list": [
         "T-The pride of an Umadol...!"
       ]
+    },
+    {
+      "name": "",
+      "text": "...In any case, Smart Falcon's awareness\nas a front\nrunner improves significantly\nthanks to pair\nrunning with Oguri Cap!"
     }
   ]
 }

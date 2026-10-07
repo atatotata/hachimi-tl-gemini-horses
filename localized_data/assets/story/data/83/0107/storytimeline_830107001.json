@@ -127,14 +127,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "\"A seaside resort, I'm in the mood for\nromance.\"\nHm... it's not as\ntrendy-sounding as I hoped."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Maruzen has become the ambassador for\na hotel\nresort! She's currently working on\nthe lyrics for\ntheir theme song...",
+      "text": "\"A seaside resort, I'm in the mood for\nromance.\"\nHm... it's not as\ntrendy-sounding as I hoped.",
       "choice_data_list": [
         "Lost in thought?"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Maruzen has become the ambassador for\na hotel\nresort! She's currently working on\nthe lyrics for\ntheir theme song..."
     },
     {
       "name": "Maruzensky",
@@ -146,7 +146,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Now to take it easy with a nice and\nrelaxing\ndrive! ♪ Tazuna is busy with\nwork, so... care to fill\nher spot?"
+      "text": "Now to take it easy with a nice and\nrelaxing\ndrive! ♪ Tazuna is busy with\nwork, so... care to fill\nher spot?",
+      "choice_data_list": [
+        "Wait, right now!?"
+      ]
     },
     {
       "name": "Maruzensky",

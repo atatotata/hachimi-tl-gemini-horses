@@ -95,7 +95,13 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Um, Trainer! What did you think about\nmy\nlivestream with Mayano? I hope I\ndidn't seem\nweird..."
+      "text": "Um, Trainer! What did you think about\nmy\nlivestream with Mayano? I hope I\ndidn't seem\nweird...",
+      "choice_data_list": [
+        "Everyone was really happy.",
+        "Everyone was really happy, weren't they?",
+        "I wanted Flower to cheer me on too.",
+        "I found myself wanting Flower to cheer me on, too."
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -109,13 +115,7 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Y-you really think so? I'm so glad!",
-      "choice_data_list": [
-        "Everyone was really happy.",
-        "Everyone was really happy, weren't they?",
-        "I wanted Flower to cheer me on too.",
-        "I found myself wanting Flower to cheer me on, too."
-      ]
+      "text": "Y-you really think so? I'm so glad!"
     },
     {
       "name": "Nishino Flower",
@@ -127,14 +127,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Considering the beyond enthusiastic\nreception\nNishino Flower received\ntoday, letting her do\nsolo livestreams\nmight crash UmaTube's servers!"
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "...!",
+      "text": "Considering the beyond enthusiastic\nreception\nNishino Flower received\ntoday, letting her do\nsolo livestreams\nmight crash UmaTube's servers!",
       "choice_data_list": [
         "Showing your running will be the best encouragement."
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...!"
     },
     {
       "name": "Nishino Flower",
@@ -146,21 +146,21 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Wh-whaaat?! You want me to encourage\nyou too,\nTrainer?"
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Sure thing! I'll pull out all the stops to\nmotivate\nyou!",
+      "text": "Wh-whaaat?! You want me to encourage\nyou too,\nTrainer?",
       "choice_data_list": [
         "Just kidding—"
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "You always work so hard around the\nclock,\nTrainer! You're the type of\ngrown-up I truly\nrespect!",
+      "text": "Sure thing! I'll pull out all the stops to\nmotivate\nyou!",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "You always work so hard around the\nclock,\nTrainer! You're the type of\ngrown-up I truly\nrespect!"
     },
     {
       "name": "Nishino Flower",
@@ -168,15 +168,15 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "You get a gold star!"
-    },
-    {
-      "name": "Monologue",
-      "text": "The immense warmth contained within\nNishino\nFlower's heart threatens to\nswallow my entire\nbeing whole...",
+      "text": "You get a gold star!",
       "choice_data_list": [
         "(Th-This is dangerous...!)",
         "(Th-This is bad...!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The immense warmth contained within\nNishino\nFlower's heart threatens to\nswallow my entire\nbeing whole..."
     }
   ]
 }

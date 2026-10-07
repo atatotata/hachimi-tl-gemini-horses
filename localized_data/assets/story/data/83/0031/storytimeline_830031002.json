@@ -11,11 +11,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "P-pard'n me! I was just spac'n out a bit..."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Huh? Y-you could tell just by look'n?",
+      "text": "P-pard'n me! I was just spac'n out a bit...",
       "choice_data_list": [
         "You look down. What's wrong?",
         "You seem down. What's the matter?"
@@ -23,19 +19,23 @@
     },
     {
       "name": "Yukino Bijin",
+      "text": "Huh? Y-you could tell just by look'n?"
+    },
+    {
+      "name": "Yukino Bijin",
       "text": "Well, actually, some folks from my\nhometown are\npay'n me a visit soon."
     },
     {
       "name": "Yukino Bijin",
-      "text": "We're hav'n a scrimmage, so they said\nthey'd\ncome t'cheer me on..."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yes, I'm pleased as punch about them\ncom'n,\nbut...",
+      "text": "We're hav'n a scrimmage, so they said\nthey'd\ncome t'cheer me on...",
       "choice_data_list": [
         "Well, isn't that great?",
         "Well, isn't that nice?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes, I'm pleased as punch about them\ncom'n,\nbut..."
     },
     {
       "name": "Yukino Bijin",
@@ -75,7 +75,13 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "To win a race, all you've gotta do is\ntrain! You\nthere! Trainer! You're with me,\nright?!"
+      "text": "To win a race, all you've gotta do is\ntrain! You\nthere! Trainer! You're with me,\nright?!",
+      "choice_data_list": [
+        "Yeah! Let's learn from that class-rep-like courage!",
+        "Yeah! Let's learn from that class rep courage!",
+        "Yeah! Let's learn from that class-rep-like running!",
+        "Yeah! Let's learn from that class rep running style!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -89,13 +95,7 @@
     },
     {
       "name": "",
-      "text": "Sakura Bakushin O's perpetual boldness\nis\ndefinitely a strength of hers in races as\nwell.",
-      "choice_data_list": [
-        "Yeah! Let's learn from that class-rep-like courage!",
-        "Yeah! Let's learn from that class rep courage!",
-        "Yeah! Let's learn from that class-rep-like running!",
-        "Yeah! Let's learn from that class rep running style!"
-      ]
+      "text": "Sakura Bakushin O's perpetual boldness\nis\ndefinitely a strength of hers in races as\nwell."
     },
     {
       "name": "",
@@ -183,14 +183,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Hehe, now <i>that</i> was an interview! You\nfully\nexpressed how you feel about your\nhometown\nand racing!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "I remembered someth'n important back\nthere...\nand I guess it gave me the\ncourage I needed!",
+      "text": "Hehe, now <i>that</i> was an interview! You\nfully\nexpressed how you feel about your\nhometown\nand racing!",
       "choice_data_list": [
         "You were so confident, it was great!"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I remembered someth'n important back\nthere...\nand I guess it gave me the\ncourage I needed!"
     },
     {
       "name": "",
@@ -222,14 +222,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Now then, let's start with some\n\nclass-representative-style SHUTTLE\nRUNS!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "While running back and forth, we shout\nenergetic\nphrases at the top of our\nlungs! This lets us muster\nmore energy\nand speed than normal!",
+      "text": "Now then, let's start with some\n\nclass-representative-style SHUTTLE\nRUNS!",
       "choice_data_list": [
         "What's that?"
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "While running back and forth, we shout\nenergetic\nphrases at the top of our\nlungs! This lets us muster\nmore energy\nand speed than normal!"
     },
     {
       "name": "Yukino Bijin",
@@ -253,15 +253,15 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "<i>Huff... wheeze...</i> All that's left is the final\nexercise\nto wrap things up."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "<i>Wheeze... gasp...</i> Y-you're right. Let's\ntake a\nbreak.",
+      "text": "<i>Huff... wheeze...</i> All that's left is the final\nexercise\nto wrap things up.",
       "choice_data_list": [
         "You'd better take a break for now.",
         "You should take a break for now."
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Wheeze... gasp...</i> Y-you're right. Let's\ntake a\nbreak."
     },
     {
       "name": "Sakura Bakushin O",
@@ -273,14 +273,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Now then, time for the final training\nexercise! Run\nhowever you please\ntoward the setting sun!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Sweating and gritting your teeth while\nshowing\nreal guts... A class\nrepresentative must embody\nthe spirit of\nyouth!",
+      "text": "Now then, time for the final training\nexercise! Run\nhowever you please\ntoward the setting sun!",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sweating and gritting your teeth while\nshowing\nreal guts... A class\nrepresentative must embody\nthe spirit of\nyouth!"
     },
     {
       "name": "Sakura Bakushin O",

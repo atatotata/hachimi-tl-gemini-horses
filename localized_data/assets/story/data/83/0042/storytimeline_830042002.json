@@ -59,25 +59,25 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Whoops! Almost forgot! You there!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "It'd be unethical to have students\nclimbing up the\nmountain\nunaccompanied! So...",
+      "text": "Whoops! Almost forgot! You there!",
       "choice_data_list": [
         "Wh-What?"
       ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "We need you to come with us as our\nguardian!\nPlease and thank you!"
+      "text": "It'd be unethical to have students\nclimbing up the\nmountain\nunaccompanied! So..."
     },
     {
-      "name": "Monologue",
-      "text": "...And so I find myself getting dragged\nalong to\nthe mysterious mountain.",
+      "name": "Bamboo Memory",
+      "text": "We need you to come with us as our\nguardian!\nPlease and thank you!",
       "choice_data_list": [
         "Waaahhh?!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "...And so I find myself getting dragged\nalong to\nthe mysterious mountain."
     },
     {
       "name": "Inari One",
@@ -133,18 +133,14 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Huh? Who said I did?"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "But don't worry! When it comes to\nfighting, it's all\nabout spirit! If you scare\noff your opponent, that\nmakes you the\nwinner!",
+      "text": "Huh? Who said I did?",
       "choice_data_list": [
         "...Huh?"
       ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "...At least that's what they said in this\nshow I\nwatched ages ago! Glad I\nmanaged to teach ol'\nghosty a lesson!"
+      "text": "But don't worry! When it comes to\nfighting, it's all\nabout spirit! If you scare\noff your opponent, that\nmakes you the\nwinner!"
     },
     {
       "name": "Bamboo Memory",
@@ -159,7 +155,7 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Then I would've teamed up with Inari\nand blown it\naway with a wave of guts!",
+      "text": "...At least that's what they said in this\nshow I\nwatched ages ago! Glad I\nmanaged to teach ol'\nghosty a lesson!",
       "choice_data_list": [
         "Anyway, that's a relief.",
         "Anyway, that's a relief, isn't it?",
@@ -167,6 +163,10 @@
         "You two made a great duo, didn't you?",
         "...What if the ghost doesn't get scared?"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Then I would've teamed up with Inari\nand blown it\naway with a wave of guts!"
     },
     {
       "name": "Bamboo Memory",
@@ -250,14 +250,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Hey, what's up with you? You look like\nyou're\ncarrying a huge load or\nsomethin'..."
-    },
-    {
-      "name": "Monologue",
-      "text": "So anyone with enough determination\ncan scare\nghosts away... But what if\nyou're too terrified to\nshow that\ndetermination?",
+      "text": "Hey, what's up with you? You look like\nyou're\ncarrying a huge load or\nsomethin'...",
       "choice_data_list": [
         "M-My right shoulder feels... kind of..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "So anyone with enough determination\ncan scare\nghosts away... But what if\nyou're too terrified to\nshow that\ndetermination?"
     }
   ]
 }

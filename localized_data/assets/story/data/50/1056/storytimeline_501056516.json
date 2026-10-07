@@ -11,14 +11,14 @@
     },
     {
       "name": "Special Week",
-      "text": "For the Eat-Till-You-Drop Tour, right?!"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Oh, Trainer! Would you like to\naccompany us?\nWe're on our way to the\nEat-Till-You-Drop Seven\nGods of\nFortune Fine Food Tour! ♪",
+      "text": "For the Eat-Till-You-Drop Tour, right?!",
       "choice_data_list": [
         "Um...?"
       ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, Trainer! Would you like to\naccompany us?\nWe're on our way to the\nEat-Till-You-Drop Seven\nGods of\nFortune Fine Food Tour! ♪"
     },
     {
       "name": "Matikanefukukitaru",
@@ -34,7 +34,12 @@
     },
     {
       "name": "Special Week",
-      "text": "Yippee! Looks like I'll be going for\nseconds on\nluck as well!"
+      "text": "Yippee! Looks like I'll be going for\nseconds on\nluck as well!",
+      "choice_data_list": [
+        "Your weight's gonna pile on extra, too, you know.",
+        "Your weight's gonna pile on extra, too.",
+        "Let's eat till we drop!"
+      ]
     },
     {
       "name": "Special Week",
@@ -47,12 +52,7 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Say what?!",
-      "choice_data_list": [
-        "Your weight's gonna pile on extra, too, you know.",
-        "Your weight's gonna pile on extra, too.",
-        "Let's eat till we drop!"
-      ]
+      "text": "Say what?!"
     },
     {
       "name": "Special Week",
@@ -72,14 +72,14 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "All right! First up is Ebisu's Eb-citing\nShrimp\nTempura Bowl—ten bowls to be\nexact!"
-    },
-    {
-      "name": "Special Week",
-      "text": "Oh! And I'll have the Daikokuten's\nDai-licious\nDaikon Hot Pot for ten!",
+      "text": "All right! First up is Ebisu's Eb-citing\nShrimp\nTempura Bowl—ten bowls to be\nexact!",
       "choice_data_list": [
         "Ten servings!?"
       ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh! And I'll have the Daikokuten's\nDai-licious\nDaikon Hot Pot for ten!"
     },
     {
       "name": "Special Week",
@@ -91,14 +91,14 @@
     },
     {
       "name": "Special Week",
-      "text": "I'll have the Benzaiten's\nUn-bean-lievable Red\nBean Soup next!\nI've got a whole nother stomach\nfor\nsweets, so twenty servings should be a\npiece\nof cake! ♪"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "The great Shiraoki is waiting for me...\nWaiting to\nferry me to the other side...",
+      "text": "I'll have the Benzaiten's\nUn-bean-lievable Red\nBean Soup next!\nI've got a whole nother stomach\nfor\nsweets, so twenty servings should be a\npiece\nof cake! ♪",
       "choice_data_list": [
         "Twenty servings..."
       ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "The great Shiraoki is waiting for me...\nWaiting to\nferry me to the other side..."
     },
     {
       "name": "Monologue",

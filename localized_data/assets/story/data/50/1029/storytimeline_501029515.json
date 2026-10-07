@@ -19,32 +19,32 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Crack, crack, crack! Craaash!</i>"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Oh dear. There goes our way home.",
+      "text": "<i>Crack, crack, crack! Craaash!</i>",
       "choice_data_list": [
         "T-The suspension bridge is... gah?!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Apparently, the two came here to do\nsome\nforaging. Agnes Tachyon asked\nYukino Bijin to\nhelp her collect\ningredients containing some\nspecial\ncomponents.",
+      "name": "Agnes Tachyon",
+      "text": "Oh dear. There goes our way home.",
       "choice_data_list": [
         "What?!"
       ]
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "I don't have any signal. Of course, now\nthat I\nknow we won't be getting home\nany time soon,\nI'm starting to feel\npeckish. I don't suppose either\nof you\nhave any snacks on you?"
+      "name": "Monologue",
+      "text": "Apparently, the two came here to do\nsome\nforaging. Agnes Tachyon asked\nYukino Bijin to\nhelp her collect\ningredients containing some\nspecial\ncomponents."
     },
     {
-      "name": "Yukino Bijin",
-      "text": "Stay calm, both of you! Panic'n's just\ngonna waste\nenergy!",
+      "name": "Agnes Tachyon",
+      "text": "I don't have any signal. Of course, now\nthat I\nknow we won't be getting home\nany time soon,\nI'm starting to feel\npeckish. I don't suppose either\nof you\nhave any snacks on you?",
       "choice_data_list": [
         "What should we do? Don't tell me we're stranded...?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Stay calm, both of you! Panic'n's just\ngonna waste\nenergy!"
     },
     {
       "name": "Yukino Bijin",
@@ -52,14 +52,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I caught a cherry trout! Golly, I'm glad\nwe found a\nriver all the way out here!\nNow I just gotta throw't\nin some bamboo\nand cook it up!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "You sure can! How 'bout you gather\nsome\nfirewood?",
+      "text": "I caught a cherry trout! Golly, I'm glad\nwe found a\nriver all the way out here!\nNow I just gotta throw't\nin some bamboo\nand cook it up!",
       "choice_data_list": [
         "I-Is there anything I can do to help...?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "You sure can! How 'bout you gather\nsome\nfirewood?"
     },
     {
       "name": "Yukino Bijin",
@@ -71,15 +71,15 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Don't worry! The bitterness will all be\ncooked out.\nNow come on, start wash'n!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Heheh, I just grew up in the mount'ns.\nI'm used to\nthis sorta thing!",
+      "text": "Don't worry! The bitterness will all be\ncooked out.\nNow come on, start wash'n!",
       "choice_data_list": [
         "You're so dependable.",
         "You're so dependable."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Heheh, I just grew up in the mount'ns.\nI'm used to\nthis sorta thing!"
     },
     {
       "name": "Yukino Bijin",
@@ -107,14 +107,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "A deer? A boar? Or... maybe a bear?"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Heh... Us Umamusume should be able to\nrun away\nif it comes to it, but...",
+      "text": "A deer? A boar? Or... maybe a bear?",
       "choice_data_list": [
         "Wait...?!"
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Heh... Us Umamusume should be able to\nrun away\nif it comes to it, but..."
     },
     {
       "name": "Yukino Bijin",
@@ -122,22 +122,18 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "If it comes down to it, I'll kick it in the\nnose. Then,\nTachyon, I want you t'put\nTrainer on your back\nand run like the\nwind."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "<i>Gasp!</i> Here it comes!",
+      "text": "If it comes down to it, I'll kick it in the\nnose. Then,\nTachyon, I want you t'put\nTrainer on your back\nand run like the\nwind.",
       "choice_data_list": [
         "Yukino...!"
       ]
     },
     {
-      "name": "Hiker A",
-      "text": "Ooh! I knew I smelled something good!\nHey, this\nis a pretty advanced trail, so\nthat must mean\nyou're all seasoned\nhikers!"
+      "name": "Yukino Bijin",
+      "text": "<i>Gasp!</i> Here it comes!"
     },
     {
-      "name": "Yukino Bijin",
-      "text": "Cheese and crackers, mister! I thought\nyou were a\nbear!"
+      "name": "Hiker A",
+      "text": "Ooh! I knew I smelled something good!\nHey, this\nis a pretty advanced trail, so\nthat must mean\nyou're all seasoned\nhikers!"
     },
     {
       "name": "Yukino Bijin",
@@ -150,12 +146,16 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Phew... Nnngh!",
+      "text": "Cheese and crackers, mister! I thought\nyou were a\nbear!",
       "choice_data_list": [
         "That was a real lifesaver...!",
         "That really saved us, didn't it...?!",
         "No, thank you for protecting me."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Phew... Nnngh!"
     },
     {
       "name": "Agnes Tachyon",
@@ -183,14 +183,14 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Nonsense. It's an undeniable fact that\nyour\npresence put us at ease and\nallowed us to act\ncalmly."
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "R-really? Well, I'm pleased as punch\nthat I could\nhelp.",
+      "text": "Nonsense. It's an undeniable fact that\nyour\npresence put us at ease and\nallowed us to act\ncalmly.",
       "choice_data_list": [
         "Thanks to that, I was able to stay calm and act."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "R-really? Well, I'm pleased as punch\nthat I could\nhelp."
     },
     {
       "name": "Yukino Bijin",

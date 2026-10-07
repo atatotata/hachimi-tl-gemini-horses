@@ -51,7 +51,13 @@
     },
     {
       "name": "Monologue",
-      "text": "I understand she's worried about Rice\nShower, but\nshe's already run a lot\ntoday..."
+      "text": "I understand she's worried about Rice\nShower, but\nshe's already run a lot\ntoday...",
+      "choice_data_list": [
+        "Make sure to come right back.",
+        "Come right back, okay?",
+        "I'll come with you, so let's walk.",
+        "I'll come with you, so let's walk."
+      ]
     },
     {
       "name": "Monologue",
@@ -65,13 +71,7 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Okay! Don't you worry, we'll be back in\na flash!",
-      "choice_data_list": [
-        "Make sure to come right back.",
-        "Come right back, okay?",
-        "I'll come with you, so let's walk.",
-        "I'll come with you, so let's walk."
-      ]
+      "text": "Okay! Don't you worry, we'll be back in\na flash!"
     },
     {
       "name": "Rice Shower",
@@ -87,14 +87,14 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Huh? You're coming too?"
-    },
-    {
-      "name": "Sakura Chiyono O",
-      "text": "That's a wonderful idea! It won't be scary\nat all\nwith three of us, and going on a\nwalk together\nsounds fun!",
+      "text": "Huh? You're coming too?",
       "choice_data_list": [
         "Let's all do a post-workout cooldown together."
       ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "That's a wonderful idea! It won't be scary\nat all\nwith three of us, and going on a\nwalk together\nsounds fun!"
     },
     {
       "name": "Rice Shower",

@@ -15,26 +15,26 @@
     },
     {
       "name": "Monologue",
-      "text": "Both are under the tutelage of my\ncolleague\nTrainer Kashimoto. I never\nconsidered either of\nthem to be the\nsociable type, though..."
-    },
-    {
-      "name": "Little Cocon",
-      "text": "...Ah.",
+      "text": "Both are under the tutelage of my\ncolleague\nTrainer Kashimoto. I never\nconsidered either of\nthem to be the\nsociable type, though...",
       "choice_data_list": [
         "Hello."
       ]
     },
     {
-      "name": "Bitter Glasse",
-      "text": "Well, if it isn't Trainer\n\n<username>! What\na\ncoincidence!"
+      "name": "Little Cocon",
+      "text": "...Ah."
     },
     {
-      "name": "Little Cocon",
-      "text": "...That's none of your business. And\nwe're not\nplaying buddy-buddy anyhow.",
+      "name": "Bitter Glasse",
+      "text": "Well, if it isn't Trainer\n\n<username>! What\na\ncoincidence!",
       "choice_data_list": [
         "It's rare to see you two together on your day off.",
         "It's rare to see you two together on your day off."
       ]
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...That's none of your business. And\nwe're not\nplaying buddy-buddy anyhow."
     },
     {
       "name": "Bitter Glasse",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Bitter Glasse",
-      "text": "So we figured it'd be nice if we could\nmake things\na little easier for her. Our\nthird year is getting\ncloser, after all!"
-    },
-    {
-      "name": "Bitter Glasse",
-      "text": "Yep. Our third year in the Twinkle\nSeries, though\nI'm sure you're well aware\nof that.",
+      "text": "So we figured it'd be nice if we could\nmake things\na little easier for her. Our\nthird year is getting\ncloser, after all!",
       "choice_data_list": [
         "'Third Year'..."
       ]
+    },
+    {
+      "name": "Bitter Glasse",
+      "text": "Yep. Our third year in the Twinkle\nSeries, though\nI'm sure you're well aware\nof that."
     },
     {
       "name": "Little Cocon",
@@ -77,11 +77,7 @@
     },
     {
       "name": "Little Cocon",
-      "text": "What about you? Do you really have\ntime to be\nidling around here?"
-    },
-    {
-      "name": "Little Cocon",
-      "text": "<i>Sigh...</i> If you slack off too much, you're\ngoing to\nslip up. That goes for you and\nyour partner.",
+      "text": "What about you? Do you really have\ntime to be\nidling around here?",
       "choice_data_list": [
         "Me?",
         "Me?"
@@ -89,18 +85,22 @@
     },
     {
       "name": "Little Cocon",
+      "text": "<i>Sigh...</i> If you slack off too much, you're\ngoing to\nslip up. That goes for you and\nyour partner."
+    },
+    {
+      "name": "Little Cocon",
       "text": "We'll be leaving now."
     },
     {
       "name": "Bitter Glasse",
-      "text": "Haha, well, that's that! Say hi to\n\n<chrname> for us!"
-    },
-    {
-      "name": "Monologue",
-      "text": "While mulling over what they both said,\nI decide\nto head back to the academy.",
+      "text": "Haha, well, that's that! Say hi to\n\n<chrname> for us!",
       "choice_data_list": [
         "'Third Year,' huh..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While mulling over what they both said,\nI decide\nto head back to the academy."
     },
     {
       "name": "Happy Meek",
@@ -116,18 +116,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Happy Meek never says much, and her\nblank\nexpression makes it look like she's\nalways zoning\nout, but her bond with\nTrainer Kiryuin runs deep."
-    },
-    {
-      "name": "Happy Meek",
-      "text": "Oh... Trainer\n<username>.\n\nEvening.",
+      "text": "Happy Meek never says much, and her\nblank\nexpression makes it look like she's\nalways zoning\nout, but her bond with\nTrainer Kiryuin runs deep.",
       "choice_data_list": [
         "Good evening."
       ]
     },
     {
       "name": "Happy Meek",
-      "text": "She's... holed up? In her office. Very\nbusy.",
+      "text": "Oh... Trainer\n<username>.\n\nEvening.",
       "choice_data_list": [
         "Isn't Trainer Kiryuin with you?",
         "Isn't Trainer Kiryuin with you?"
@@ -135,14 +131,18 @@
     },
     {
       "name": "Happy Meek",
-      "text": "I'm on break in the meantime... But I\ncouldn't just\nstand around doing\nnothing."
+      "text": "She's... holed up? In her office. Very\nbusy."
     },
     {
       "name": "Happy Meek",
-      "text": "Well... my trainer's \"holed up\" in her\noffice...",
+      "text": "I'm on break in the meantime... But I\ncouldn't just\nstand around doing\nnothing.",
       "choice_data_list": [
         "So that's why you stayed out this late?"
       ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Well... my trainer's \"holed up\" in her\noffice..."
     },
     {
       "name": "Happy Meek",
@@ -150,39 +150,39 @@
     },
     {
       "name": "Happy Meek",
-      "text": "So..."
-    },
-    {
-      "name": "Happy Meek",
-      "text": "I have to do my best, too... We're\npartners, after\nall...",
+      "text": "So...",
       "choice_data_list": [
         "And so?"
       ]
     },
     {
       "name": "Happy Meek",
-      "text": "Also... your partner was working hard\ntoo...",
+      "text": "I have to do my best, too... We're\npartners, after\nall...",
       "choice_data_list": [
         "I see."
       ]
     },
     {
       "name": "Happy Meek",
-      "text": "I'm off for another lap... Woo.",
+      "text": "Also... your partner was working hard\ntoo...",
       "choice_data_list": [
         "Huh?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Something about what Happy Meek said\nweighs\non my mind, so I head to my\noffice."
+      "name": "Happy Meek",
+      "text": "I'm off for another lap... Woo."
     },
     {
-      "name": "Happy Meek",
-      "text": "Also... your partner was working hard\ntoo...",
+      "name": "Monologue",
+      "text": "Something about what Happy Meek said\nweighs\non my mind, so I head to my\noffice.",
       "choice_data_list": [
         "The lights in the room are on..."
       ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Also... your partner was working hard\ntoo..."
     },
     {
       "name": "Monologue",
@@ -190,15 +190,15 @@
     },
     {
       "name": "Monologue",
-      "text": "In my office, I find..."
-    },
-    {
-      "name": "Monologue",
-      "text": "We spend some time together discussing\na variety\nof topics.",
+      "text": "In my office, I find...",
       "choice_data_list": [
         "<chrname>！",
         "Lady <chrname>!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "We spend some time together discussing\na variety\nof topics."
     },
     {
       "name": "Monologue",

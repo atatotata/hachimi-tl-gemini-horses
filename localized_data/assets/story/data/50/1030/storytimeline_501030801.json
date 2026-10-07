@@ -63,7 +63,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Still, sleep deprivation won't do any\ngood for her\ntraining. We can't let this\ncontinue..."
+      "text": "Still, sleep deprivation won't do any\ngood for her\ntraining. We can't let this\ncontinue...",
+      "choice_data_list": [
+        "Like casting a good-luck charm?",
+        "Let's take down the vampire!",
+        "Let's take down the vampire!"
+      ]
     },
     {
       "name": "Monologue",
@@ -76,12 +81,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "A protective charm?",
-      "choice_data_list": [
-        "Like casting a good-luck charm?",
-        "Let's take down the vampire!",
-        "Let's take down the vampire!"
-      ]
+      "text": "A protective charm?"
     },
     {
       "name": "Monologue",
@@ -97,15 +97,15 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "I've read that the fairies who bring\nnightmares\nhate iron... We should hang\nthose up in our dorm\nroom immediately!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "More?! Where would we even put them?",
+      "text": "I've read that the fairies who bring\nnightmares\nhate iron... We should hang\nthose up in our dorm\nroom immediately!",
       "choice_data_list": [
         "I can get more horseshoes ready if you need them.",
         "I can get more horseshoes ready if you need them."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "More?! Where would we even put them?"
     },
     {
       "name": "Zenno Rob Roy",
@@ -141,7 +141,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "R-really? If you say so, I guess it must be\ntrue..."
+      "text": "R-really? If you say so, I guess it must be\ntrue...",
+      "choice_data_list": [
+        "Alright, I'll play the vampire.",
+        "Alright, I'll play the vampire."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -155,16 +159,12 @@
       "name": "Rice Shower",
       "text": "Huh?",
       "choice_data_list": [
-        "Alright, I'll play the vampire.",
-        "Alright, I'll play the vampire."
+        "Uuu... Hissss!"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Eeeek!",
-      "choice_data_list": [
-        "Uuu... Hissss!"
-      ]
+      "text": "Eeeek!"
     },
     {
       "name": "Monologue",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Huff... Puff...</i> I don't think I'm as scared\nanymore!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Y-yeah... but I've realized something.",
+      "text": "<i>Huff... Puff...</i> I don't think I'm as scared\nanymore!",
       "choice_data_list": [
         "That's great to hear!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-yeah... but I've realized something."
     },
     {
       "name": "Rice Shower",

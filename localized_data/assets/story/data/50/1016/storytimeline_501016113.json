@@ -15,15 +15,15 @@
     },
     {
       "name": "Monologue",
-      "text": "In one scrimmage she'll take first, then\ntake sixth\nin the next. And then first\nagain. Her results\nrefuse to stabilize."
-    },
-    {
-      "name": "Monologue",
-      "text": "But through these scrimmages, I've come\nto\nidentify her problem...",
+      "text": "In one scrimmage she'll take first, then\ntake sixth\nin the next. And then first\nagain. Her results\nrefuse to stabilize.",
       "choice_data_list": [
         "(In this state, stress is bound to build up...)",
         "(In this state, stress is bound to build up, isn't it...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "But through these scrimmages, I've come\nto\nidentify her problem..."
     },
     {
       "name": "Umamusume A",
@@ -59,11 +59,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Tch!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Hey, you!",
+      "text": "Tch!",
       "choice_data_list": [
         "(I want to help her out, but...)",
         "(I want to do something for her, but...)"
@@ -71,10 +67,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "You're Brian's trainer, right? Is she sick\nor\nsomething lately?",
+      "text": "Hey, you!",
       "choice_data_list": [
         "Wait, what?!"
       ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "You're Brian's trainer, right? Is she sick\nor\nsomething lately?"
     },
     {
       "name": "Hishi Amazon",
@@ -82,15 +82,15 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Where's that insane strength I saw\nduring our\none-on-one?"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "<i>Gulp!</i> W-Well yeah, I can't argue with\nthat\nconsidering I absolutely got\nwrecked...",
+      "text": "Where's that insane strength I saw\nduring our\none-on-one?",
       "choice_data_list": [
         "In a one-on-one, Brian is unbeatable, after all.",
         "In a one-on-one, Brian is the strongest, after all."
       ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Gulp!</i> W-Well yeah, I can't argue with\nthat\nconsidering I absolutely got\nwrecked..."
     },
     {
       "name": "Hishi Amazon",
@@ -102,18 +102,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "The longer I have to hold back now, the\nmore I'm\ngonna let loose when we race!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "What is it, Trainer?",
+      "text": "The longer I have to hold back now, the\nmore I'm\ngonna let loose when we race!",
       "choice_data_list": [
         "(Unleash everything that was held back...)"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... Duh. You think there's a racer out\nthere\nthat wants to lose?",
+      "text": "What is it, Trainer?",
       "choice_data_list": [
         "Do you want to win?",
         "Do you want to win?"
@@ -121,7 +117,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "What do you mean?",
+      "text": "Tch... Duh. You think there's a racer out\nthere\nthat wants to lose?",
       "choice_data_list": [
         "Then why not try changing how you compete?",
         "Then why not try changing how you compete?"
@@ -129,26 +125,30 @@
     },
     {
       "name": "Narita Brian",
+      "text": "What do you mean?"
+    },
+    {
+      "name": "Narita Brian",
       "text": "...In short, if someone passes me in the\nmiddle of\nthe race, I should just let\nthem?"
     },
     {
       "name": "Narita Brian",
-      "text": "You're telling me to just run away with\nmy tail\nbetween my legs when there's a\nchallenge right in\nfront of me?"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Okay, then what <i>do</i> you mean?",
+      "text": "You're telling me to just run away with\nmy tail\nbetween my legs when there's a\nchallenge right in\nfront of me?",
       "choice_data_list": [
         "That's not what I'm talking about!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...Saving energy?",
+      "text": "...Okay, then what <i>do</i> you mean?",
       "choice_data_list": [
         "Not holding back, not running away—you store it up.",
         "Not holding back, not running away—you bottle it up."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Saving energy?"
     },
     {
       "name": "Monologue",
@@ -156,11 +156,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Given that, if she can build that spirit\nup, convert\nit into energy, and release it\none huge burst..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Special... to me?",
+      "text": "Given that, if she can build that spirit\nup, convert\nit into energy, and release it\none huge burst...",
       "choice_data_list": [
         "You should be able to run in a way that's 'uniquely yours.'",
         "You should be able to run in 'a style that's uniquely yours.'"
@@ -168,11 +164,15 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...",
+      "text": "Special... to me?",
       "choice_data_list": [
         "In a race, whoever crosses the finish line first is the winner.",
         "In a race, the first one across the finish line is the winner, you know."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
     },
     {
       "name": "Narita Brian",
@@ -196,23 +196,23 @@
     },
     {
       "name": "Narita Brian",
-      "text": "\"Store up and then explode,\" right?"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "What about the timing?",
+      "text": "\"Store up and then explode,\" right?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Just like when racing one-on-one, her\n\ncompetitive instincts are excellent when\nshe's in\nfull control of herself.",
+      "name": "Narita Brian",
+      "text": "What about the timing?",
       "choice_data_list": [
         "I'll leave it to you.",
         "I'll leave it to you."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Just like when racing one-on-one, her\n\ncompetitive instincts are excellent when\nshe's in\nfull control of herself."
     },
     {
       "name": "Narita Brian",
@@ -240,14 +240,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, pardon me. Do you mind if I sit next\nto you\nand watch?"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "What's this? She looks much more\nrelaxed than\nbefore. Found a new\nsolution, did we?",
+      "text": "Oh, pardon me. Do you mind if I sit next\nto you\nand watch?",
       "choice_data_list": [
         "Go ahead."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "What's this? She looks much more\nrelaxed than\nbefore. Found a new\nsolution, did we?"
     },
     {
       "name": "Skilled Trainer",
@@ -291,14 +291,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "That can't be right... This doesn't align\nwith my\ncalculations. Has she lost her\npassion? Or, don't\ntell me..."
-    },
-    {
-      "name": "Monologue",
-      "text": "Narita Brian has been biding time,\nwaiting for her\nperfect moment to\nattack!",
+      "text": "That can't be right... This doesn't align\nwith my\ncalculations. Has she lost her\npassion? Or, don't\ntell me...",
       "choice_data_list": [
         "(Right, this isn't the end)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian has been biding time,\nwaiting for her\nperfect moment to\nattack!"
     },
     {
       "name": "Monologue",
@@ -350,15 +350,15 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Huff... Huff... Puff...</i>"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Pfff, hahaha!",
+      "text": "<i>Huff... Huff... Puff...</i>",
       "choice_data_list": [
         "So this is how you really run.",
         "So this is how you really run, isn't it."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Pfff, hahaha!"
     },
     {
       "name": "Narita Brian",

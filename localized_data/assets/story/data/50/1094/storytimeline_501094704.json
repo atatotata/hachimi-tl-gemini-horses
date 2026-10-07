@@ -32,16 +32,13 @@
       "name": "Jungle Pocket",
       "text": "\"...No clue. For now, let's go ask them \nwhat's up.\"",
       "choice_data_list": [
-        "L/Roars is collapsing from within...? What do you mean?"
+        "I'll go too!",
+        "I'll go too!"
       ]
     },
     {
       "name": "L/Roars Leader",
-      "text": "Aren't you ashamed of yourself, spreading \nfalse rumors like that?!",
-      "choice_data_list": [
-        "I'll go too!",
-        "I'll go too!"
-      ]
+      "text": "Aren't you ashamed of yourself, spreading \nfalse rumors like that?!"
     },
     {
       "name": "Leader of the Giant Ks",
@@ -87,10 +84,7 @@
     },
     {
       "name": "Undercut Umamusume",
-      "text": "I'm suggesting to the others that we \n'leave L/Roars and take them down.' If \nmore members defect, L/Roars will start to \nwaver, right?",
-      "choice_data_list": [
-        "Why spread a rumor like that...?"
-      ]
+      "text": "I'm suggesting to the others that we \n'leave L/Roars and take them down.' If \nmore members defect, L/Roars will start to \nwaver, right?"
     },
     {
       "name": "Jungle Pocket",
@@ -121,10 +115,7 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "No way in hell!!",
-      "choice_data_list": [
-        "...Pokke?"
-      ]
+      "text": "No way in hell!!"
     },
     {
       "name": "Jungle Pocket",
@@ -142,21 +133,14 @@
       "name": "",
       "text": "A terrifying pressure blankets the area, \nswallowing everything whole. It is the \nwrath radiating from Jungle Pocket. Her \neyes gleam brightly as she locks onto her \nprey.",
       "choice_data_list": [
-        "(Wait, is Pokke pissed off...?!)"
-      ]
-    },
-    {
-      "name": "",
-      "text": "—Steeling my resolve, I dashed out in \nfront of her. Standing right before her, I \nwas even more overwhelmed by her sheer \npresence. My knees began to tremble \nuncontrollably.",
-      "choice_data_list": [
         "Stop Pokke!",
         "Let's ask the L/Roars boss for cooperation.",
         "Our only option is to let the other team go..."
       ]
     },
     {
-      "name": "Jungle Pocket",
-      "text": "Aaaargh?!",
+      "name": "",
+      "text": "—Steeling my resolve, I dashed out in \nfront of her. Standing right before her, I \nwas even more overwhelmed by her sheer \npresence. My knees began to tremble \nuncontrollably.",
       "choice_data_list": [
         "Calm down! There's no need for you to deal with them!",
         "Calm down! There's no need for you to deal with them!"
@@ -164,11 +148,15 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Nnnrrrgghhh, AAAAAAAHHHHHHHHHHHHHH!!",
+      "text": "Aaaargh?!",
       "choice_data_list": [
         "If it's L/Roars, they'll be fine, right!",
         "If it's L/Roars, they'll be fine, won't they!"
       ]
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Nnnrrrgghhh, AAAAAAAHHHHHHHHHHHHHH!!"
     },
     {
       "name": "Jungle Pocket",
@@ -235,11 +223,7 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Aaaargh?!",
-      "choice_data_list": [
-        "Run!!",
-        "Run!!"
-      ]
+      "text": "Aaaargh?!"
     },
     {
       "name": "",
@@ -273,17 +257,13 @@
       "name": "Jungle Pocket",
       "text": "\"Whoa, stop right there! You actually \nstepped in front of the Roaring Demon?! \nYou've got some serious guts! Ahahaha!\"",
       "choice_data_list": [
-        "I'm sorry for stopping you back then. But...",
-        "I know it was wrong of me to stop you back then. But..."
+        "You're not angry?",
+        "You're not angry?"
       ]
     },
     {
       "name": "Jungle Pocket",
-      "text": "Not at all. Though I was surprised.",
-      "choice_data_list": [
-        "You're not angry?",
-        "You're not angry?"
-      ]
+      "text": "Not at all. Though I was surprised."
     },
     {
       "name": "Jungle Pocket",
@@ -305,11 +285,7 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Hahaha! Well then, keep watch right by my \nside at all times. Deal?!",
-      "choice_data_list": [
-        "Huh!? Don't do that!",
-        "Huh!? Don't do that!?"
-      ]
+      "text": "Hahaha! Well then, keep watch right by my \nside at all times. Deal?!"
     }
   ]
 }

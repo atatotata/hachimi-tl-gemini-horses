@@ -11,14 +11,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I wish to continue gradually\nstrengthening my\nbody in order to\nachieve this goal."
-    },
-    {
-      "name": "",
-      "text": "We're here to win the Triple Crown and\nprove\nthat one <i>can</i> supplement stamina\nthrough hard\nwork.",
+      "text": "I wish to continue gradually\nstrengthening my\nbody in order to\nachieve this goal.",
       "choice_data_list": [
         "Of course! Let's do our best together!"
       ]
+    },
+    {
+      "name": "",
+      "text": "We're here to win the Triple Crown and\nprove\nthat one <i>can</i> supplement stamina\nthrough hard\nwork."
     },
     {
       "name": "",
@@ -46,11 +46,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>Pant, pant, pant!</i>"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes, Trainer!",
+      "text": "<i>Pant, pant, pant!</i>",
       "choice_data_list": [
         "You're a second behind!",
         "You're a second behind!"
@@ -58,15 +54,19 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>Pant, pant...</i>"
+      "text": "Yes, Trainer!"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...!",
+      "text": "<i>Pant, pant...</i>",
       "choice_data_list": [
         "Keep at it, just one more round trip!",
         "Hang in there, just one more round trip!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
     },
     {
       "name": "Mihono Bourbon",
@@ -78,11 +78,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Thank you for your hard work today,\nTrainer..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I am merely following the training\nregimen you\nprovided.",
+      "text": "Thank you for your hard work today,\nTrainer...",
       "choice_data_list": [
         "You worked really hard today, too.",
         "You worked really hard today as well."
@@ -90,15 +86,19 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Your efforts deserve more praise than\nmine."
+      "text": "I am merely following the training\nregimen you\nprovided."
     },
     {
-      "name": "",
-      "text": "Mihono Bourbon's training regimen is\nvery strict\ncompared to that of other\nrunners.",
+      "name": "Mihono Bourbon",
+      "text": "Your efforts deserve more praise than\nmine.",
       "choice_data_list": [
         "No, that's all your hard work.",
         "No, it's all thanks to your hard work."
       ]
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon's training regimen is\nvery strict\ncompared to that of other\nrunners."
     },
     {
       "name": "",
@@ -110,26 +110,26 @@
     },
     {
       "name": "",
-      "text": "Her usually unemotional expression\nsoftens a bit."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Right!",
+      "text": "Her usually unemotional expression\nsoftens a bit.",
       "choice_data_list": [
         "Let's give it our all in the Twinkle Series!",
         "Let's do our best in the Twinkle Series!"
       ]
     },
     {
-      "name": "",
-      "text": "The arduous training is certainly helping\nher\nprogress."
+      "name": "Mihono Bourbon",
+      "text": "Right!"
     },
     {
       "name": "",
-      "text": "Just as I'm heading to my office to\nfurther refine\nBourbon's training\nregimen...",
+      "text": "The arduous training is certainly helping\nher\nprogress.",
       "choice_data_list": [
         "(Let's do our best tomorrow too...!)"
       ]
+    },
+    {
+      "name": "",
+      "text": "Just as I'm heading to my office to\nfurther refine\nBourbon's training\nregimen..."
     },
     {
       "name": "Fellow Trainer",
@@ -141,14 +141,14 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "Are you sure it's okay to put Mihono\nBourbon\nthrough such brutal stamina\ntraining?"
-    },
-    {
-      "name": "Fellow Trainer",
-      "text": "So you say, but...",
+      "text": "Are you sure it's okay to put Mihono\nBourbon\nthrough such brutal stamina\ntraining?",
       "choice_data_list": [
         "She can pull it off."
       ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "So you say, but..."
     },
     {
       "name": "",
@@ -160,14 +160,14 @@
     },
     {
       "name": "Fellow Trainer",
-      "text": "Plus, she's a sprinter no matter how you\nlook at\nher. Don't let her potential go to\nwaste."
-    },
-    {
-      "name": "Fellow Trainer",
-      "text": "...Really?",
+      "text": "Plus, she's a sprinter no matter how you\nlook at\nher. Don't let her potential go to\nwaste.",
       "choice_data_list": [
         "I didn't mean it that way."
       ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "...Really?"
     },
     {
       "name": "Mihono Bourbon",
@@ -175,14 +175,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Winning the Triple Crown is a dream I\noriginally\nshared with my father. Now,\nmy trainer is chasing\nthat dream with me."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Trainer's meticulous training has allowed\nme to\nreliably improve my\ncardiopulmonary functions.",
+      "text": "Winning the Triple Crown is a dream I\noriginally\nshared with my father. Now,\nmy trainer is chasing\nthat dream with me.",
       "choice_data_list": [
         "Bourbon...!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Trainer's meticulous training has allowed\nme to\nreliably improve my\ncardiopulmonary functions."
     },
     {
       "name": "Mihono Bourbon",
@@ -234,33 +234,33 @@
     },
     {
       "name": "",
-      "text": "After saying his piece, the trainer leaves."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I do not understand the intention behind\nyour\nexpression of gratitude. I merely\ncorrected a\nmisunderstanding.",
+      "text": "After saying his piece, the trainer leaves.",
       "choice_data_list": [
         "...Thank you."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...I am not well-versed in such things.",
+      "text": "I do not understand the intention behind\nyour\nexpression of gratitude. I merely\ncorrected a\nmisunderstanding.",
       "choice_data_list": [
         "It made me happy to know they had faith in me."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "However, I have determined that your\n\ninstructions are essential for running in\n\nlong-distance races."
+      "text": "...I am not well-versed in such things."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I see... So that's what it is.",
+      "text": "However, I have determined that your\n\ninstructions are essential for running in\n\nlong-distance races.",
       "choice_data_list": [
         "That means they believe in you.",
         "That means they believe in you."
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I see... So that's what it is."
     },
     {
       "name": "",

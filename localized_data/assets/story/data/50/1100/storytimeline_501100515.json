@@ -107,15 +107,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Wonder Acute took care of three\nseparate\npeople's emergencies like they\nwere no big deal."
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "Hehe, you think so? Truth be told, I\nwasn't always\nlike this.",
+      "text": "Wonder Acute took care of three\nseparate\npeople's emergencies like they\nwere no big deal.",
       "choice_data_list": [
         "You're so calm, that's amazing!",
         "You're so calm, that's amazing, huh!"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Hehe, you think so? Truth be told, I\nwasn't always\nlike this."
     },
     {
       "name": "Wonder Acute",
@@ -135,7 +135,12 @@
     },
     {
       "name": "Monologue",
-      "text": "It may sound obvious, but I suspect the\nreason\nshe's able to learn from those\nexperiences is\nspecifically because she's\nso determined to grow."
+      "text": "It may sound obvious, but I suspect the\nreason\nshe's able to learn from those\nexperiences is\nspecifically because she's\nso determined to grow.",
+      "choice_data_list": [
+        "Nice backup back there!",
+        "That was a nice backup!",
+        "Was today's interview a good learning experience too?"
+      ]
     },
     {
       "name": "Monologue",
@@ -148,12 +153,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "You think so? I was worried I might've\nbeen\nsticking my nose where it didn't\nbelong, so that's\ngood to hear.",
-      "choice_data_list": [
-        "Nice backup back there!",
-        "That was a nice backup!",
-        "Was today's interview a good learning experience too?"
-      ]
+      "text": "You think so? I was worried I might've\nbeen\nsticking my nose where it didn't\nbelong, so that's\ngood to hear."
     },
     {
       "name": "Reporter A",

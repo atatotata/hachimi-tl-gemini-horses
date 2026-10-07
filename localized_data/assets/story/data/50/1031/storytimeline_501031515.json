@@ -15,14 +15,14 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hmm. They all look rather inviting, but\nit's a little\ndifficult to envision what the\nrole entails from the\ndescription alone..."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Oh, Trainer! Howdy, howdy! These two\nwere\nasking me for advice on part-time\njobs.",
+      "text": "Hmm. They all look rather inviting, but\nit's a little\ndifficult to envision what the\nrole entails from the\ndescription alone...",
       "choice_data_list": [
         "What's this about?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oh, Trainer! Howdy, howdy! These two\nwere\nasking me for advice on part-time\njobs."
     },
     {
       "name": "Mejiro Ryan",
@@ -130,7 +130,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Ines Fujin laughs off her incredible feat,\nbut it\nlooks like her long work history is\npaying off in\nvarious ways."
+      "text": "Ines Fujin laughs off her incredible feat,\nbut it\nlooks like her long work history is\npaying off in\nvarious ways.",
+      "choice_data_list": [
+        "Feels like we could do anything.",
+        "Feels like we could do anything.",
+        "This is way too incredible...!"
+      ]
     },
     {
       "name": "Monologue",
@@ -143,12 +148,7 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "I guess. ♪ But I'm just getting started. I\nmean,\nthere are still so many professions\nout there for\nme to try!",
-      "choice_data_list": [
-        "Feels like we could do anything.",
-        "Feels like we could do anything.",
-        "This is way too incredible...!"
-      ]
+      "text": "I guess. ♪ But I'm just getting started. I\nmean,\nthere are still so many professions\nout there for\nme to try!"
     },
     {
       "name": "Ines Fujin",
@@ -176,14 +176,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "But now I really want to focus on striking\na good\nbalance between my training and\nmy work!"
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "...Hmm. I wonder if all that part-time\nwork is the\nsecret to Ines's strength.",
+      "text": "But now I really want to focus on striking\na good\nbalance between my training and\nmy work!",
       "choice_data_list": [
         "Ines...!"
       ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Hmm. I wonder if all that part-time\nwork is the\nsecret to Ines's strength."
     },
     {
       "name": "Mejiro McQueen",

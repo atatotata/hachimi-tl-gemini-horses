@@ -15,15 +15,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Although it looks a little cold out, I can't\nrefuse\nan invitation from Yamanin\nZephyr."
-    },
-    {
-      "name": "Monologue",
-      "text": "Outside, my breath is visible as white\nmist. I can't\nhelp feeling invigorated by\nthe cold!",
+      "text": "Although it looks a little cold out, I can't\nrefuse\nan invitation from Yamanin\nZephyr.",
       "choice_data_list": [
         "Got it. Shall we go?",
         "Got it. Let's go."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Outside, my breath is visible as white\nmist. I can't\nhelp feeling invigorated by\nthe cold!"
     },
     {
       "name": "Yamanin Zephyr",
@@ -47,14 +47,14 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "I'm sure they can brave this cold... But\nlet's hope\nthey're blessed by the still of\nspring all the same."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Yes, you're right. They have thick fur\ncoats and\nare very tough animals.",
+      "text": "I'm sure they can brave this cold... But\nlet's hope\nthey're blessed by the still of\nspring all the same.",
       "choice_data_list": [
         "Reindeer are used to the cold, so you'll be fine."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes, you're right. They have thick fur\ncoats and\nare very tough animals."
     },
     {
       "name": "Yamanin Zephyr",
@@ -66,21 +66,21 @@
     },
     {
       "name": "Monologue",
-      "text": "The strength to best the headwind... As\nher\ntrainer, I intend to lend her my full\nsupport so she\ncan acquire—"
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Oh my! Did you catch a cold?",
+      "text": "The strength to best the headwind... As\nher\ntrainer, I intend to lend her my full\nsupport so she\ncan acquire—",
       "choice_data_list": [
         "Aaaachooo!"
       ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Hehe... Even a storm would be a tender\nbreeze to\nyou, wouldn't it?",
+      "text": "Oh my! Did you catch a cold?",
       "choice_data_list": [
         "I just got a little chilled, so I'm fine!"
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hehe... Even a storm would be a tender\nbreeze to\nyou, wouldn't it?"
     },
     {
       "name": "Yamanin Zephyr",
@@ -116,14 +116,14 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Please use that scarf when the winds\nahead grow\nfierce. If you don't mind\nwearing it, that is..."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "It looks like a radiant breeze has\ntouched you...\nI'm glad.",
+      "text": "Please use that scarf when the winds\nahead grow\nfierce. If you don't mind\nwearing it, that is...",
       "choice_data_list": [
         "Yeah. It's so warm, I can't bring myself to take it off."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "It looks like a radiant breeze has\ntouched you...\nI'm glad."
     },
     {
       "name": "Yamanin Zephyr",
@@ -131,25 +131,25 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "..."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Oh, no... It's just... the early evening\nbreeze is\ndying down.",
+      "text": "...",
       "choice_data_list": [
         "Is something wrong?"
       ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...Shall we still ourselves before we turn\ninto a\npair of icicles?"
+      "text": "Oh, no... It's just... the early evening\nbreeze is\ndying down."
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...Yes. Let's enjoy tomorrow's winds\ntomorrow.",
+      "text": "...Shall we still ourselves before we turn\ninto a\npair of icicles?",
       "choice_data_list": [
         "Let's go feel the breeze somewhere again."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Yes. Let's enjoy tomorrow's winds\ntomorrow."
     },
     {
       "name": "Yamanin Zephyr",
@@ -165,11 +165,7 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Oh... Excuse me. It seems the devil's\nbreath is\nmaking mischief."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Oh, are you sure? That's such an\nauspicious\nupdraft...",
+      "text": "Oh... Excuse me. It seems the devil's\nbreath is\nmaking mischief.",
       "choice_data_list": [
         "Shall we buy a scarf for you too?",
         "Let's buy a scarf for you, too."
@@ -177,18 +173,22 @@
     },
     {
       "name": "Yamanin Zephyr",
+      "text": "Oh, are you sure? That's such an\nauspicious\nupdraft..."
+    },
+    {
+      "name": "Yamanin Zephyr",
       "text": "...All right, I'll take you up on that offer."
     },
     {
       "name": "Monologue",
-      "text": "The shops and city streets are bustling\nwith\npeople. Come to think of it, I'm\npretty sure\nYamanin Zephyr struggles\nwith crowds."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "How like you—always a comforting\nbreeze.",
+      "text": "The shops and city streets are bustling\nwith\npeople. Come to think of it, I'm\npretty sure\nYamanin Zephyr struggles\nwith crowds.",
       "choice_data_list": [
         "I can go buy some for you, if you'd like."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "How like you—always a comforting\nbreeze."
     },
     {
       "name": "Yamanin Zephyr",

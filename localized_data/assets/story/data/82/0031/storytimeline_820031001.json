@@ -3,21 +3,21 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One day, while walking around the\ncampus, I\nnotice an unnatural pile of\nleaves in my path."
-    },
-    {
-      "name": "???",
-      "text": "Whaaat?! Why'd ya dodge my pitfall?!",
+      "text": "One day, while walking around the\ncampus, I\nnotice an unnatural pile of\nleaves in my path.",
       "choice_data_list": [
         "(...That looks suspicious, better steer clear.)"
       ]
     },
     {
-      "name": "Shinko Windy",
-      "text": "Uh-huh! My prized pitfall! It got clowned\non\nbefore... but still!",
+      "name": "???",
+      "text": "Whaaat?! Why'd ya dodge my pitfall?!",
       "choice_data_list": [
         "A pitfall trap?!"
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Uh-huh! My prized pitfall! It got clowned\non\nbefore... but still!"
     },
     {
       "name": "Shinko Windy",
@@ -45,15 +45,15 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "Dang it! How can people tell?! I hid it\nperfectly\nthis time! With leaves!"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "O-oh! I mean, of course I knew that!",
+      "text": "Dang it! How can people tell?! I hid it\nperfectly\nthis time! With leaves!",
       "choice_data_list": [
         "Actually, that felt pretty unnatural.",
         "Actually, that felt kind of unnatural, you know."
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "O-oh! I mean, of course I knew that!"
     },
     {
       "name": "Shinko Windy",
@@ -73,15 +73,15 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "I used rocks to weigh everythin' down\nthis time,\nso it's not gonna blow away\nagain! Now I just\ngotta pour some water\nin there to cushion the—"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "Huh?! Why?! Won't it stay in there like a\npool?!",
+      "text": "I used rocks to weigh everythin' down\nthis time,\nso it's not gonna blow away\nagain! Now I just\ngotta pour some water\nin there to cushion the—",
       "choice_data_list": [
         "The water's going to soak into the ground, you know?",
         "The water will soak into the ground, you know?"
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Huh?! Why?! Won't it stay in there like a\npool?!"
     },
     {
       "name": "Shinko Windy",
@@ -93,14 +93,14 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "WAHHHHH! I have to remake it <i>again?!</i>\nI'm\npooped! Exhausted! TIRED!"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "NUH-UH! No matter how tough my prey,\nthese\nfangs o'mine ain't gonna crack!",
+      "text": "WAHHHHH! I have to remake it <i>again?!</i>\nI'm\npooped! Exhausted! TIRED!",
       "choice_data_list": [
         "Let's rest for now and tackle it tomorrow."
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "NUH-UH! No matter how tough my prey,\nthese\nfangs o'mine ain't gonna crack!"
     },
     {
       "name": "Shinko Windy",
@@ -108,11 +108,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Her unwavering drive is magnificent, but\nI'm\nworried about her level of fatigue.\nWhat should I\nsay to her?"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "No! Nuh-uh! Shut it! You're my minion,\nso you\ngotta listen to what <i>I</i> say!",
+      "text": "Her unwavering drive is magnificent, but\nI'm\nworried about her level of fatigue.\nWhat should I\nsay to her?",
       "choice_data_list": [
         "Just leave the rest to your lackey.",
         "Let's give it everything we've got!"
@@ -120,11 +116,15 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "Hm?! ...Actually, a hero show I watched\nthe other\nday had the leader sitting in\ntheir chair the whole\ntime...",
+      "text": "No! Nuh-uh! Shut it! You're my minion,\nso you\ngotta listen to what <i>I</i> say!",
       "choice_data_list": [
         "Leaving things to your underlings is part of a boss's job.",
         "Leaving things to your underlings is part of a boss's job, too."
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hm?! ...Actually, a hero show I watched\nthe other\nday had the leader sitting in\ntheir chair the whole\ntime..."
     },
     {
       "name": "Shinko Windy",
@@ -148,14 +148,14 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "Yes! Nice! We caught someone! You\ndeserve\nsome praise, minion!"
-    },
-    {
-      "name": "Shinko Windy",
-      "text": "Oh, yeah! Time to confirm the catch and\nrevel in\nour success!",
+      "text": "Yes! Nice! We caught someone! You\ndeserve\nsome praise, minion!",
       "choice_data_list": [
         "More importantly, we need to check on the one who fell...!"
       ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Oh, yeah! Time to confirm the catch and\nrevel in\nour success!"
     },
     {
       "name": "Hishi Amazon",
@@ -211,14 +211,14 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "What the heck're ya talkin' 'bout?\nPranks don't\nhave nothin' to do with\nhelpin' people!"
-    },
-    {
-      "name": "Monologue",
-      "text": "And so Shinko Windy remains a\nprankster,\nthrough and through.",
+      "text": "What the heck're ya talkin' 'bout?\nPranks don't\nhave nothin' to do with\nhelpin' people!",
       "choice_data_list": [
         "I-I see..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so Shinko Windy remains a\nprankster,\nthrough and through."
     }
   ]
 }

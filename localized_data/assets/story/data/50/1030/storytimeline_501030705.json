@@ -67,11 +67,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "B-but... I'll just make a mess..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "You do?",
+      "text": "B-but... I'll just make a mess...",
       "choice_data_list": [
         "I'd love to try a croquette.",
         "Just think of it as helping someone out."
@@ -79,10 +75,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "R-really?! Hehe, well, in that case...",
+      "text": "You do?",
       "choice_data_list": [
         "I want to eat it!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "R-really?! Hehe, well, in that case..."
     },
     {
       "name": "Rice Shower",
@@ -94,7 +94,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "In that case... You should join us, Big\nBrother!\nThat way you can eat them\nfresh!"
+      "text": "In that case... You should join us, Big\nBrother!\nThat way you can eat them\nfresh!",
+      "choice_data_list": [
+        "I'll help out!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -105,10 +108,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Yay!",
-      "choice_data_list": [
-        "I'll help out!"
-      ]
+      "text": "Yay!"
     },
     {
       "name": "Hishi Amazon",
@@ -124,14 +124,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I don't know if I can be of any help..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "O-okay... Hishiama, I might just get in\nthe way,\nbut—",
+      "text": "I don't know if I can be of any help...",
       "choice_data_list": [
         "But people rely on you."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-okay... Hishiama, I might just get in\nthe way,\nbut—"
     },
     {
       "name": "Hishi Amazon",
@@ -151,7 +151,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I did! Big Brother is really kind and\nreliable..."
+      "text": "I did! Big Brother is really kind and\nreliable...",
+      "choice_data_list": [
+        "You're making me blush..."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -162,10 +165,7 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ha, you're totally blushin'! Keep up the\n\ncompliments, Rice!",
-      "choice_data_list": [
-        "You're making me blush..."
-      ]
+      "text": "Ha, you're totally blushin'! Keep up the\n\ncompliments, Rice!"
     },
     {
       "name": "Rice Shower",

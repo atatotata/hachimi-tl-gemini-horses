@@ -23,14 +23,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Would you mind if I joined you? I'm also\nin the\nmood for a light sprint."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Don't be ridiculous. On the contrary, I\nfeel quite\nrefreshed. That's why I wish to\nrun.",
+      "text": "Would you mind if I joined you? I'm also\nin the\nmood for a light sprint.",
       "choice_data_list": [
         "Was our outing boring?"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Don't be ridiculous. On the contrary, I\nfeel quite\nrefreshed. That's why I wish to\nrun."
     },
     {
       "name": "Air Groove",
@@ -82,7 +82,13 @@
     },
     {
       "name": "Air Groove",
-      "text": "As will I. No holds barred!"
+      "text": "As will I. No holds barred!",
+      "choice_data_list": [
+        "Everything in moderation, you two...",
+        "Don't push yourselves too hard, you two...",
+        "Air Groove, I'm rooting for you!",
+        "Air Groove, I'm rooting for you!"
+      ]
     },
     {
       "name": "Air Groove",
@@ -96,13 +102,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Of course. I wouldn't dream of it.",
-      "choice_data_list": [
-        "Everything in moderation, you two...",
-        "Don't push yourselves too hard, you two...",
-        "Air Groove, I'm rooting for you!",
-        "Air Groove, I'm rooting for you!"
-      ]
+      "text": "Of course. I wouldn't dream of it."
     },
     {
       "name": "Silence Suzuka",

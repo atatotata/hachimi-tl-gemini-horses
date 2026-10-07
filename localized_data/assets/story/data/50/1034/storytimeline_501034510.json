@@ -19,14 +19,14 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Her fights are famous around the\nacademy after\nall! Look, she's already\ngathered an audience!"
-    },
-    {
-      "name": "Gold City",
-      "text": "Ah, don't worry. It isn't a literal fight or\nanything.",
+      "text": "Her fights are famous around the\nacademy after\nall! Look, she's already\ngathered an audience!",
       "choice_data_list": [
         "A fight?!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah, don't worry. It isn't a literal fight or\nanything."
     },
     {
       "name": "Sakura Chiyono O",
@@ -70,14 +70,14 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "...She kind of goes around challenging\neveryone\nlike that."
-    },
-    {
-      "name": "Gold City",
-      "text": "Not at all. Well, you can just see for\nyourself.",
+      "text": "...She kind of goes around challenging\neveryone\nlike that.",
       "choice_data_list": [
         "Am I being a bother...?"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Not at all. Well, you can just see for\nyourself."
     },
     {
       "name": "Inari One",
@@ -137,7 +137,12 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems Inari's straightforward energy\nserves as a\nsource of support for those\naround her. Gold City\nand Chiyono O\nbreak out into smiles at being\n\"called\nout\" by their peer."
+      "text": "It seems Inari's straightforward energy\nserves as a\nsource of support for those\naround her. Gold City\nand Chiyono O\nbreak out into smiles at being\n\"called\nout\" by their peer.",
+      "choice_data_list": [
+        "Go out there and \"brawl\" with all your might!",
+        "Go \"brawl\" with all your might!",
+        "Just watching makes me want to go for a run too."
+      ]
     },
     {
       "name": "Monologue",
@@ -150,12 +155,7 @@
     },
     {
       "name": "Inari One",
-      "text": "All righty then! Let's do this, City,\nChiyono O! The\nrest of ya, keep your\neyes peeled!",
-      "choice_data_list": [
-        "Go out there and \"brawl\" with all your might!",
-        "Go \"brawl\" with all your might!",
-        "Just watching makes me want to go for a run too."
-      ]
+      "text": "All righty then! Let's do this, City,\nChiyono O! The\nrest of ya, keep your\neyes peeled!"
     },
     {
       "name": "Inari One",

@@ -247,14 +247,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Familiar! Take me to Grandma's house."
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Hurry! Hurry up and take me there!",
+      "text": "Familiar! Take me to Grandma's house.",
       "choice_data_list": [
         "Wait!?"
       ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hurry! Hurry up and take me there!"
     },
     {
       "name": "Monologue",
@@ -270,14 +270,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Can I try it out at the river?! I wanna\nshow you my\nmagic!"
-    },
-    {
-      "name": "Monologue",
-      "text": "We've got two more months until the\nHanshin\nJ.F., which she herself\nsuggested.",
+      "text": "Can I try it out at the river?! I wanna\nshow you my\nmagic!",
       "choice_data_list": [
         "The river...!?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "We've got two more months until the\nHanshin\nJ.F., which she herself\nsuggested."
     },
     {
       "name": "Monologue",
@@ -285,11 +285,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I doubt the river is especially safe or\nlooked after\neither. And her shoes aren't\nsuited for walking\nnear rivers. If she\nslipped in somewhere where the\ncurrent\nwas strong..."
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "What is it, Familiar?",
+      "text": "I doubt the river is especially safe or\nlooked after\neither. And her shoes aren't\nsuited for walking\nnear rivers. If she\nslipped in somewhere where the\ncurrent\nwas strong...",
       "choice_data_list": [
         "W-Wait up!",
         "W-Wait!"
@@ -297,21 +293,25 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "...",
+      "text": "What is it, Familiar?",
       "choice_data_list": [
         "The river is dangerous, and with the temperature this time of year..."
       ]
     },
     {
       "name": "Sweep Tosho",
-      "text": "So now you're gonna start talking about\nwhat's\ngood for me too?"
+      "text": "..."
     },
     {
-      "name": "Sweep's Grandma",
-      "text": "Don't worry, Sweepy. I'm sure that's not\nwhat your\ntrainer means to say.",
+      "name": "Sweep Tosho",
+      "text": "So now you're gonna start talking about\nwhat's\ngood for me too?",
       "choice_data_list": [
         "...Huh?"
       ]
+    },
+    {
+      "name": "Sweep's Grandma",
+      "text": "Don't worry, Sweepy. I'm sure that's not\nwhat your\ntrainer means to say."
     },
     {
       "name": "Sweep's Grandma",
@@ -343,26 +343,26 @@
     },
     {
       "name": "Sweep's Grandma",
-      "text": "I'm terribly sorry for butting in earlier."
-    },
-    {
-      "name": "Sweep's Grandma",
-      "text": "I expect you've already realized this,\nbut...",
+      "text": "I'm terribly sorry for butting in earlier.",
       "choice_data_list": [
         "I should be the one apologizing, after all the help you gave me."
       ]
     },
     {
       "name": "Sweep's Grandma",
-      "text": "Sweepy is a very special child. She's\npositively\noverflowing with potential."
+      "text": "I expect you've already realized this,\nbut..."
     },
     {
       "name": "Sweep's Grandma",
-      "text": "That's why so many people have high\nhopes for\nher future, and why they've\nworried over her since\nshe was little.",
+      "text": "Sweepy is a very special child. She's\npositively\noverflowing with potential.",
       "choice_data_list": [
         "...Yes, I think so too.",
         "...Yes, I think so too."
       ]
+    },
+    {
+      "name": "Sweep's Grandma",
+      "text": "That's why so many people have high\nhopes for\nher future, and why they've\nworried over her since\nshe was little."
     },
     {
       "name": "Sweep Tosho",
@@ -382,14 +382,14 @@
     },
     {
       "name": "Sweep's Grandma",
-      "text": "But have you ever felt that people are\nworrying\nabout you so much because\nthey don't have faith\nin you?"
-    },
-    {
-      "name": "Sweep's Grandma",
-      "text": "Adults have more wisdom and\nexperience than\nchildren, so they often\nknow the right path.",
+      "text": "But have you ever felt that people are\nworrying\nabout you so much because\nthey don't have faith\nin you?",
       "choice_data_list": [
         "...! That's..."
       ]
+    },
+    {
+      "name": "Sweep's Grandma",
+      "text": "Adults have more wisdom and\nexperience than\nchildren, so they often\nknow the right path."
     },
     {
       "name": "Sweep's Grandma",
@@ -413,14 +413,14 @@
     },
     {
       "name": "Sweep's Grandma",
-      "text": "Would you mind if we talked about this\na little\nmore, Trainer? I'll brew you some\nof my special\nherbal tea."
-    },
-    {
-      "name": "Monologue",
-      "text": "The three of us head back to Sweep\nTosho's\ngrandmother's house and enjoy\nsome tea.",
+      "text": "Would you mind if we talked about this\na little\nmore, Trainer? I'll brew you some\nof my special\nherbal tea.",
       "choice_data_list": [
         "...Yes, by all means."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The three of us head back to Sweep\nTosho's\ngrandmother's house and enjoy\nsome tea."
     }
   ]
 }

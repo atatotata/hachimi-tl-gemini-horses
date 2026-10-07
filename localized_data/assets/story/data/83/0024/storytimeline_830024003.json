@@ -23,15 +23,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Oguri Cap smiles and waves at me.\nThat's true—I\ndid save her from a\npersistent reporter in the\npast."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Thank you, I am. I'm happy to see you\nhere. My—",
+      "text": "Oguri Cap smiles and waves at me.\nThat's true—I\ndid save her from a\npersistent reporter in the\npast.",
       "choice_data_list": [
         "You seem to be doing well.",
         "You seem to be doing well."
       ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Thank you, I am. I'm happy to see you\nhere. My—"
     },
     {
       "name": "Reporter",
@@ -107,11 +107,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Like I said, it's not fair to my fans if I\ndon't care\nabout myself... or my image."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Y-you're right!",
+      "text": "Like I said, it's not fair to my fans if I\ndon't care\nabout myself... or my image.",
       "choice_data_list": [
         "They really were connected.",
         "They were connected, weren't they?"
@@ -119,11 +115,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "It's finally time for the event. Since\nyou're here..."
+      "text": "Y-you're right!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?"
+      "text": "It's finally time for the event. Since\nyou're here..."
     },
     {
       "name": "Oguri Cap",
@@ -137,13 +133,17 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...I see. Hehe, got it. Catch you later.",
+      "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?",
       "choice_data_list": [
         "With who you are now, you'll be just fine.",
         "You'll be fine, just as you are right now.",
         "What do you want to do?",
         "What do you want to do?"
       ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...I see. Hehe, got it. Catch you later."
     },
     {
       "name": "MC",

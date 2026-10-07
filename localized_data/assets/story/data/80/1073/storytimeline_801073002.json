@@ -11,15 +11,15 @@
     },
     {
       "name": "Tsurumaru Tsuyoshi",
-      "text": "Okay! Time to help out like I've never\nhelped out\nbefore!"
-    },
-    {
-      "name": "Special Week",
-      "text": "The owner of this ramen shop hurt his\nback, so\nTsuru and I have decided to\nhelp him!",
+      "text": "Okay! Time to help out like I've never\nhelped out\nbefore!",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Special Week",
+      "text": "The owner of this ramen shop hurt his\nback, so\nTsuru and I have decided to\nhelp him!"
     },
     {
       "name": "Ramen Shop Owner",
@@ -59,7 +59,12 @@
     },
     {
       "name": "Special Week",
-      "text": "What?! But what if you faint again?!"
+      "text": "What?! But what if you faint again?!",
+      "choice_data_list": [
+        "I'll teach you the trick to doing dishes.",
+        "How about switching over to customer service?",
+        "Why not try switching to customer service?"
+      ]
     },
     {
       "name": "Special Week",
@@ -72,12 +77,7 @@
     },
     {
       "name": "Tsurumaru Tsuyoshi",
-      "text": "Dishwashing tricks?",
-      "choice_data_list": [
-        "I'll teach you the trick to doing dishes.",
-        "How about switching over to customer service?",
-        "Why not try switching to customer service?"
-      ]
+      "text": "Dishwashing tricks?"
     },
     {
       "name": "Special Week",

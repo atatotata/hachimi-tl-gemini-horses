@@ -7,14 +7,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "<i>Zzz...</i>"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "<i>Yawn...</i> Mm... Morning...",
+      "text": "<i>Zzz...</i>",
       "choice_data_list": [
         "Wake up!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Yawn...</i> Mm... Morning..."
     },
     {
       "name": "Train Announcement",
@@ -30,14 +30,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Walking around an unfamiliar place like\nthis feels\na little like we're on vacation,\ndoesn't it?"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Don't go sweating the details. ♪ Let's\njust take it\neasy till the train comes.",
+      "text": "Walking around an unfamiliar place like\nthis feels\na little like we're on vacation,\ndoesn't it?",
       "choice_data_list": [
         "Were we on a trip...?"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Don't go sweating the details. ♪ Let's\njust take it\neasy till the train comes."
     },
     {
       "name": "Seiun Sky",
@@ -65,14 +65,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Okay, you get two stars! I think you're\nworth\nadding to my \"secret nap spots of\nthe country\"\nmap."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Hehe. Nothing gets past you.",
+      "text": "Okay, you get two stars! I think you're\nworth\nadding to my \"secret nap spots of\nthe country\"\nmap.",
       "choice_data_list": [
         "'Nationwide Secret Napping Map'?"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hehe. Nothing gets past you."
     },
     {
       "name": "Seiun Sky",
@@ -80,14 +80,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Yep, as long as you've got this map, you\ncan find\na great place to zonk right out,\nwherever you are."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "What a scandalous thing to say... Still,\ncan't say\nyou're wrong there.",
+      "text": "Yep, as long as you've got this map, you\ncan find\na great place to zonk right out,\nwherever you are.",
       "choice_data_list": [
         "So basically, a guide to slacking spots..."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "What a scandalous thing to say... Still,\ncan't say\nyou're wrong there."
     },
     {
       "name": "Seiun Sky",
@@ -99,7 +99,13 @@
     },
     {
       "name": "",
-      "text": "We're going to miss the train if she\ndozes off\nhere!"
+      "text": "We're going to miss the train if she\ndozes off\nhere!",
+      "choice_data_list": [
+        "You can't sleep any longer!",
+        "You can't sleep any longer!",
+        "I'll test it out instead!",
+        "I'll test it out instead!"
+      ]
     },
     {
       "name": "",
@@ -113,24 +119,18 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Wow, telling <i>me</i> not to sleep is a lot like\ntelling a\ngourmand not to eat.",
-      "choice_data_list": [
-        "You can't sleep any longer!",
-        "You can't sleep any longer!",
-        "I'll test it out instead!",
-        "I'll test it out instead!"
-      ]
+      "text": "Wow, telling <i>me</i> not to sleep is a lot like\ntelling a\ngourmand not to eat."
     },
     {
       "name": "Seiun Sky",
-      "text": "All I'm asking for's about two—no, three\nhours."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Ohhh, that bit slipped my mind. We\ngotta get\nback to the station soonish,\nhuh?",
+      "text": "All I'm asking for's about two—no, three\nhours.",
       "choice_data_list": [
         "We're going to miss the train."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ohhh, that bit slipped my mind. We\ngotta get\nback to the station soonish,\nhuh?"
     },
     {
       "name": "Seiun Sky",
@@ -150,14 +150,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Well, it's only natural you'd be curious\nabout how\nit feels to sleep atop a\nseaside boulder."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Go ahead then, Trainer. You handle this\nreview.",
+      "text": "Well, it's only natural you'd be curious\nabout how\nit feels to sleep atop a\nseaside boulder.",
       "choice_data_list": [
         "...Something like that."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Go ahead then, Trainer. You handle this\nreview."
     },
     {
       "name": "",
@@ -165,21 +165,21 @@
     },
     {
       "name": "",
-      "text": "The sound of the waves is lulling me off\nto sleep. I\ncan't afford to nod off here,\nbut it's hard to\nresist..."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Hey, good morning. I mean, it's already\ndark out,\nso I guess it's good evening.",
+      "text": "The sound of the waves is lulling me off\nto sleep. I\ncan't afford to nod off here,\nbut it's hard to\nresist...",
       "choice_data_list": [
         "T-This is bad... At this rate..."
       ]
     },
     {
       "name": "Seiun Sky",
-      "text": "You looked reeeal comfy. ♪ Yep, my\nnap spot\nradar's as reliable as ever.",
+      "text": "Hey, good morning. I mean, it's already\ndark out,\nso I guess it's good evening.",
       "choice_data_list": [
         "I did it!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "You looked reeeal comfy. ♪ Yep, my\nnap spot\nradar's as reliable as ever."
     },
     {
       "name": "Seiun Sky",

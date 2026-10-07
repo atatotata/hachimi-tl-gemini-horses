@@ -11,28 +11,28 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "There's a place I'd like to stop by on our\nway\nback. Do you mind?"
-    },
-    {
-      "name": "Monologue",
-      "text": "Wonder Acute leads the way for a while,\nand\nthen... she just stops walking.",
+      "text": "There's a place I'd like to stop by on our\nway\nback. Do you mind?",
       "choice_data_list": [
         "Of course!"
       ]
     },
     {
-      "name": "Wonder Acute",
-      "text": "...Now, where was it again?",
+      "name": "Monologue",
+      "text": "Wonder Acute leads the way for a while,\nand\nthen... she just stops walking.",
       "choice_data_list": [
         "Uhm... where was it you wanted to drop by?"
       ]
     },
     {
       "name": "Wonder Acute",
-      "text": "I thought it was around here somewhere,\nbut I\ncan't quite seem to remember.",
+      "text": "...Now, where was it again?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "I thought it was around here somewhere,\nbut I\ncan't quite seem to remember."
     },
     {
       "name": "Wonder Acute",
@@ -120,7 +120,12 @@
     },
     {
       "name": "Monologue",
-      "text": "The smartphone crash course continues\nfor a\nwhile, with both student and\nteacher seemingly\nenjoying themselves."
+      "text": "The smartphone crash course continues\nfor a\nwhile, with both student and\nteacher seemingly\nenjoying themselves.",
+      "choice_data_list": [
+        "Why not take this chance to switch to a smartphone?",
+        "Looks like you had a good time.",
+        "Looks like you had a good time."
+      ]
     },
     {
       "name": "Monologue",
@@ -133,12 +138,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Me? With a smartphone?",
-      "choice_data_list": [
-        "Why not take this chance to switch to a smartphone?",
-        "Looks like you had a good time.",
-        "Looks like you had a good time."
-      ]
+      "text": "Me? With a smartphone?"
     },
     {
       "name": "Wonder Acute",

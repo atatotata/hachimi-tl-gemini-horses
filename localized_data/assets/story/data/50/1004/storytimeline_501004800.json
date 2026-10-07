@@ -115,14 +115,14 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "<i>Sigh...</i>"
-    },
-    {
-      "name": "Sakura Chiyono O",
-      "text": "I know, but... it's definitely a reminder\nthat\nMaruzen and I live in completely\ndifferent worlds.",
+      "text": "<i>Sigh...</i>",
       "choice_data_list": [
         "There's no need to worry."
       ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "I know, but... it's definitely a reminder\nthat\nMaruzen and I live in completely\ndifferent worlds."
     },
     {
       "name": "Sakura Chiyono O",
@@ -138,11 +138,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Chiyo seems down. Did something\nhappen?"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Trainer, do you know anything?",
+      "text": "Chiyo seems down. Did something\nhappen?",
       "choice_data_list": [
         "(S-Sharp!)"
       ]
@@ -157,11 +153,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh, really? Hm, maybe I'm just\noverthinking it.",
+      "text": "Trainer, do you know anything?",
       "choice_data_list": [
         "I'm sure it's just your imagination!",
         "Actually, it seems she's troubled about something..."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, really? Hm, maybe I'm just\noverthinking it."
     },
     {
       "name": "Sakura Chiyono O",

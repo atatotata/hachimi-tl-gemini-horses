@@ -59,32 +59,32 @@
     },
     {
       "name": "Monologue",
-      "text": "New Year's is over and school has been\nback in\nsession for a few days now. But\nstill no word from\nTosen Jordan."
-    },
-    {
-      "name": "Monologue",
-      "text": "I've reached out on LANE, and even\nvisited her\nclassroom, but she seems to\nbe avoiding me.",
+      "text": "New Year's is over and school has been\nback in\nsession for a few days now. But\nstill no word from\nTosen Jordan.",
       "choice_data_list": [
         "(She reads them, but...)"
       ]
     },
     {
       "name": "Monologue",
-      "text": "(Buzz, buzz...)"
+      "text": "I've reached out on LANE, and even\nvisited her\nclassroom, but she seems to\nbe avoiding me."
     },
     {
-      "name": "Teacher",
-      "text": "Hello. Is this Tosen Jordan's trainer? Do\nyou have\ntime to talk?",
+      "name": "Monologue",
+      "text": "(Buzz, buzz...)",
       "choice_data_list": [
         "Could it be...!"
       ]
     },
     {
       "name": "Teacher",
-      "text": "Well, one of my students just reached\nout to me...",
+      "text": "Hello. Is this Tosen Jordan's trainer? Do\nyou have\ntime to talk?",
       "choice_data_list": [
         "...You wanted to talk?"
       ]
+    },
+    {
+      "name": "Teacher",
+      "text": "Well, one of my students just reached\nout to me..."
     },
     {
       "name": "Gyaru A",
@@ -124,15 +124,15 @@
     },
     {
       "name": "Gyaru D",
-      "text": "...Jordan?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Trainer?! What are you doing here?",
+      "text": "...Jordan?",
       "choice_data_list": [
         "Wait!!",
         "Wait!!"
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Trainer?! What are you doing here?"
     },
     {
       "name": "Gyaru D",
@@ -148,11 +148,7 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "But... why? Why did you have to get a\nteacher\ninvolved?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Y-yeah, right! We just hang out together\nbecause\nwe have the same dumb people\nvibes...",
+      "text": "But... why? Why did you have to get a\nteacher\ninvolved?",
       "choice_data_list": [
         "That's just how worried they were about you.",
         "That's just how worried I was about you."
@@ -160,11 +156,15 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...",
+      "text": "Y-yeah, right! We just hang out together\nbecause\nwe have the same dumb people\nvibes...",
       "choice_data_list": [
         "Do you really think that's all your relationship is?",
         "Do you really think that's all your relationship is?"
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
     },
     {
       "name": "Gyaru A",
@@ -228,22 +228,22 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...!"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Excuse me?",
+      "text": "...!",
       "choice_data_list": [
         "...That's right, you're an idiot!",
         "...That's right, you're an idiot!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "She plunged head first into the Triple\nCrown tour\nwith only the vague goal of\n\"making it big\" to\nguide her.",
+      "name": "Tosen Jordan",
+      "text": "Excuse me?",
       "choice_data_list": [
         "What a massive idiot!!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She plunged head first into the Triple\nCrown tour\nwith only the vague goal of\n\"making it big\" to\nguide her."
     },
     {
       "name": "Monologue",
@@ -263,21 +263,21 @@
     },
     {
       "name": "Monologue",
-      "text": "She works stupid hard, throwing herself\ninto one\nfoolish challenge after another."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "What are you... I...",
+      "text": "She works stupid hard, throwing herself\ninto one\nfoolish challenge after another.",
       "choice_data_list": [
         "That's why you were able to get stronger."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "No matter what she's up against, she\nkeeps\nfighting.",
+      "name": "Tosen Jordan",
+      "text": "What are you... I...",
       "choice_data_list": [
         "That's why I've fought through it every single time."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "No matter what she's up against, she\nkeeps\nfighting."
     },
     {
       "name": "Monologue",
@@ -289,11 +289,7 @@
     },
     {
       "name": "Monologue",
-      "text": "She would have understood what\ncommon sense\ndeemed impossible for\nher, understood that\ngiving up is always\nan option when faced with a\nwall."
-    },
-    {
-      "name": "Monologue",
-      "text": "No matter what others said, she faced\neven the\nmost imposing walls with the\nunbridled optimism\nthat they <i>can</i> be\nscaled.",
+      "text": "She would have understood what\ncommon sense\ndeemed impossible for\nher, understood that\ngiving up is always\nan option when faced with a\nwall.",
       "choice_data_list": [
         "Still, you were a fool, always determined to challenge yourself.",
         "Still, you were a fool, always determined to challenge yourself."
@@ -301,33 +297,37 @@
     },
     {
       "name": "Monologue",
+      "text": "No matter what others said, she faced\neven the\nmost imposing walls with the\nunbridled optimism\nthat they <i>can</i> be\nscaled."
+    },
+    {
+      "name": "Monologue",
       "text": "And, to be perfectly honest..."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Well, we've made it this far somehow.\nAll we can\ndo is try our best, right?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "...Quit joking around.",
+      "text": "Well, we've made it this far somehow.\nAll we can\ndo is try our best, right?",
       "choice_data_list": [
         "You looked so cool taking on that challenge.",
         "You looked truly magnificent taking on that challenge."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Her friends nod in agreement.",
+      "name": "Tosen Jordan",
+      "text": "...Quit joking around.",
       "choice_data_list": [
         "No, you were truly so cool."
       ]
     },
     {
       "name": "Monologue",
-      "text": "The next time common sense tries to get\nin our\nway, we just have to dumb down\nand take it on.",
+      "text": "Her friends nod in agreement.",
       "choice_data_list": [
         "So, let's try being a little silly."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The next time common sense tries to get\nin our\nway, we just have to dumb down\nand take it on."
     },
     {
       "name": "Monologue",
@@ -335,14 +335,14 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "<i>Sniffle...</i> You..."
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "...",
+      "text": "<i>Sniffle...</i> You...",
       "choice_data_list": [
         "Still, isn't being 'the ultimate idiot' pretty cool?"
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
     },
     {
       "name": "Tosen Jordan",
@@ -358,14 +358,14 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "That's something only a dummy like me\ncould pull\noff!"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Shut up... dummy!",
+      "text": "That's something only a dummy like me\ncould pull\noff!",
       "choice_data_list": [
         "That's right!!"
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Shut up... dummy!"
     },
     {
       "name": "Monologue",
@@ -381,14 +381,14 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "So <i>that's</i> what you want me to aim for?\nYou're\nkidding, right?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Uhh... yeah, no, I think that's pushing it...",
+      "text": "So <i>that's</i> what you want me to aim for?\nYou're\nkidding, right?",
       "choice_data_list": [
         "If she's the strongest, I figured that's just another hurdle to clear..."
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uhh... yeah, no, I think that's pushing it..."
     },
     {
       "name": "Monologue",
@@ -396,15 +396,15 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Just thinking about this is making me\neven\ndumber... So we really have to do\nthis, huh? The...\nOsaka Hai, was it?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "<i>Sigh...</i>",
+      "text": "Just thinking about this is making me\neven\ndumber... So we really have to do\nthis, huh? The...\nOsaka Hai, was it?",
       "choice_data_list": [
         "Yeah, first with the Osaka Hai.",
         "Yeah, first up is the Osaka Hai."
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Sigh...</i>"
     },
     {
       "name": "Tosen Jordan",

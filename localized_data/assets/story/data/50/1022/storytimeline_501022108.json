@@ -27,14 +27,14 @@
     },
     {
       "name": "Monologue",
-      "text": "A short time back, I spoke to her\nsecurity captain\ndirectly in the hopes of\ngetting permission for\nFine Motion to\nparticipate. For her sake, I\nthought it\nwas absolutely necessary."
-    },
-    {
-      "name": "Security Captain",
-      "text": "I respect Her Highness from the bottom\nof my\nheart. That's why I follow her\nwishes. Which is\nwhy...",
+      "text": "A short time back, I spoke to her\nsecurity captain\ndirectly in the hopes of\ngetting permission for\nFine Motion to\nparticipate. For her sake, I\nthought it\nwas absolutely necessary.",
       "choice_data_list": [
         "I don't want you getting used to being lonely."
       ]
+    },
+    {
+      "name": "Security Captain",
+      "text": "I respect Her Highness from the bottom\nof my\nheart. That's why I follow her\nwishes. Which is\nwhy..."
     },
     {
       "name": "Security Captain",
@@ -162,15 +162,15 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Whew! I'm so hot! It was just a light jog!"
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Yes, they certainly are...",
+      "text": "Whew! I'm so hot! It was just a light jog!",
       "choice_data_list": [
         "The fans' enthusiasm was incredible, after all.",
         "The fans' energy was incredible, after all."
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yes, they certainly are..."
     },
     {
       "name": "Fans",
@@ -186,15 +186,15 @@
     },
     {
       "name": "Fine Motion",
-      "text": "...But why do they cheer for me so\neagerly?"
-    },
-    {
-      "name": "Fine Motion",
-      "text": "You mean...",
+      "text": "...But why do they cheer for me so\neagerly?",
       "choice_data_list": [
         "Because I'm completely in love with your running.",
         "Because I've fallen completely in love with your running."
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "You mean..."
     },
     {
       "name": "Younger Student",
@@ -262,21 +262,21 @@
     },
     {
       "name": "Fine Motion",
-      "text": "I won't find myself here again..."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "I know that. That's why—",
+      "text": "I won't find myself here again...",
       "choice_data_list": [
         "An end comes to everyone eventually."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "As the young Umamusume demonstrated\njust now\nin the way she looks up to Fine\nMotion, feelings\nlinger and memories\nlive on in people's hearts.",
+      "name": "Fine Motion",
+      "text": "I know that. That's why—",
       "choice_data_list": [
         "Still, that doesn't mean everything is lost."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "As the young Umamusume demonstrated\njust now\nin the way she looks up to Fine\nMotion, feelings\nlinger and memories\nlive on in people's hearts."
     },
     {
       "name": "Fine Motion",
@@ -284,14 +284,14 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Just as the scent of perfume fades away.\nAm I the\nonly one who will carry these\nmemories?"
-    },
-    {
-      "name": "Fine Motion",
-      "text": "That duty... is to become a pillar of\nIreland's\nprosperity.",
+      "text": "Just as the scent of perfume fades away.\nAm I the\nonly one who will carry these\nmemories?",
       "choice_data_list": [
         "If it can become a \"cornerstone\" in everyone's hearts, that's enough."
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "That duty... is to become a pillar of\nIreland's\nprosperity."
     },
     {
       "name": "Fine Motion",
@@ -299,36 +299,32 @@
     },
     {
       "name": "Monologue",
-      "text": "I have no doubt that's important to her.\nHowever,\nthese concessions are also\nthere to protect her\nfrom having to\nsacrifice her feelings."
-    },
-    {
-      "name": "Monologue",
-      "text": "She can be a role model that runners in\nthe\nTwinkle Series will always look up\nto... someone\nwho inspires such fervent\nmemories the fans pass\ndown the stories\nfor generations!",
+      "text": "I have no doubt that's important to her.\nHowever,\nthese concessions are also\nthere to protect her\nfrom having to\nsacrifice her feelings.",
       "choice_data_list": [
         "As the foundation of the Twinkle Series—"
       ]
     },
     {
-      "name": "Fine Motion",
-      "text": "...",
+      "name": "Monologue",
+      "text": "She can be a role model that runners in\nthe\nTwinkle Series will always look up\nto... someone\nwho inspires such fervent\nmemories the fans pass\ndown the stories\nfor generations!",
       "choice_data_list": [
         "Let's leave an impact worthy of the name Fine Motion!"
       ]
     },
     {
       "name": "Fine Motion",
-      "text": "You're a surprisingly rash individual. We\nhave no\nassured method with which to\nmake such an\nimpact."
+      "text": "..."
     },
     {
       "name": "Fine Motion",
-      "text": "If I could truly accomplish that... If I\ncould remain\nin everyone's hearts... I\nwould be exceedingly\nhappy.",
+      "text": "You're a surprisingly rash individual. We\nhave no\nassured method with which to\nmake such an\nimpact.",
       "choice_data_list": [
         "Still, that way, you won't be lonely."
       ]
     },
     {
       "name": "Fine Motion",
-      "text": "Would I happen to find myself in\nresidence there?",
+      "text": "If I could truly accomplish that... If I\ncould remain\nin everyone's hearts... I\nwould be exceedingly\nhappy.",
       "choice_data_list": [
         "It's a shame I can't show you what's in my heart.",
         "It's a shame I can't show you what's in my heart."
@@ -336,10 +332,14 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hehe, is that right?",
+      "text": "Would I happen to find myself in\nresidence there?",
       "choice_data_list": [
         "Of course!"
       ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hehe, is that right?"
     },
     {
       "name": "Fine Motion",

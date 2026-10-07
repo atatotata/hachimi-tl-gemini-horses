@@ -3,23 +3,23 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Nice Nature's mother is coming to visit in\na few\ndays, so I make a suggestion after\none of our\noutings."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "The next one? The one Mayano said\nshe's running\nin?",
+      "text": "Nice Nature's mother is coming to visit in\na few\ndays, so I make a suggestion after\none of our\noutings.",
       "choice_data_list": [
         "Why don't you try entering the next mock race?",
         "Why don't you try entering the next mock race?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Since she's coming all this way, we might\nas well\nshow her a race. Besides, with\nNature's current\nskills, she has what it\ntakes to win.",
+      "name": "Nice Nature",
+      "text": "The next one? The one Mayano said\nshe's running\nin?",
       "choice_data_list": [
         "Yeah. After all, it's the day Nature's mom is visiting.",
         "Yeah. Nature's mom is visiting today, after all."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Since she's coming all this way, we might\nas well\nshow her a race. Besides, with\nNature's current\nskills, she has what it\ntakes to win."
     },
     {
       "name": "Nice Nature",
@@ -51,14 +51,14 @@
     },
     {
       "name": "Monologue",
-      "text": "As we planned in the pre-race briefing,\nNice\nNature is staying on Mayano Top\nGun."
-    },
-    {
-      "name": "Monologue",
-      "text": "No way...",
+      "text": "As we planned in the pre-race briefing,\nNice\nNature is staying on Mayano Top\nGun.",
       "choice_data_list": [
         "Still, doesn't the pace feel a little fast?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "No way..."
     },
     {
       "name": "Mayano Top Gun",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It's been a while since the scrimmage\nended, but\nNature is nowhere to be\nseen."
-    },
-    {
-      "name": "Monologue",
-      "text": "I don't see her anywhere in the academy.\nMaybe\nshe went outside? According to\nher mother, she\nwould often go to the\nriverbank to sulk when she\nfelt sad.",
+      "text": "It's been a while since the scrimmage\nended, but\nNature is nowhere to be\nseen.",
       "choice_data_list": [
         "We can have your mom wait at a cafe, but..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I don't see her anywhere in the academy.\nMaybe\nshe went outside? According to\nher mother, she\nwould often go to the\nriverbank to sulk when she\nfelt sad."
     },
     {
       "name": "Nice Nature",
@@ -109,7 +109,13 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!"
+      "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!",
+      "choice_data_list": [
+        "Yeah.",
+        "You don't have to force a smile.",
+        "You don't have to force a smile.",
+        "All right! Let's go blow off some steam!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -125,18 +131,12 @@
       "name": "Nice Nature",
       "text": "...!",
       "choice_data_list": [
-        "Yeah.",
-        "You don't have to force a smile.",
-        "You don't have to force a smile.",
-        "All right! Let's go blow off some steam!"
+        "You were your usual hardworking, wonderful self, Nature."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "...So what?",
-      "choice_data_list": [
-        "You were your usual hardworking, wonderful self, Nature."
-      ]
+      "text": "...So what?"
     },
     {
       "name": "Nice Nature",
@@ -144,14 +144,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I really wanted to win this race... I <i>had</i> to\nwin this\nrace!"
-    },
-    {
-      "name": "Monologue",
-      "text": "I tell her that her mother felt her\ndetermination.",
+      "text": "I really wanted to win this race... I <i>had</i> to\nwin this\nrace!",
       "choice_data_list": [
         "Still, your mom looked really happy."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell her that her mother felt her\ndetermination."
     },
     {
       "name": "Nice Nature",
@@ -159,14 +159,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ugh, I cried way too much. Someone my\nage\nshould <i>not</i> be crying like this."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Trust me, it's all out! Come on, let's go\nback to\nmy mom.",
+      "text": "Ugh, I cried way too much. Someone my\nage\nshould <i>not</i> be crying like this.",
       "choice_data_list": [
         "You could stand to lean on me more, you know."
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Trust me, it's all out! Come on, let's go\nback to\nmy mom."
     },
     {
       "name": "Monologue",
@@ -178,15 +178,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I'm not forcing anyth—"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Trainer...",
+      "text": "I'm not forcing anyth—",
       "choice_data_list": [
         "I'm frustrated too, and I wanted you to win.",
         "I'm frustrated too. I really wanted you to win."
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Trainer..."
     },
     {
       "name": "Nice Nature",
@@ -202,37 +202,37 @@
     },
     {
       "name": "Nice Nature",
-      "text": "But I bet she doesn't know what this\nfeels like."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Ah, don't get me wrong! I like Mayano,\nof course.\nIt's me that I don't like.",
+      "text": "But I bet she doesn't know what this\nfeels like.",
       "choice_data_list": [
         "Nature..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "I'm just narrow-minded, ignorant, and...\nplain."
+      "text": "Ah, don't get me wrong! I like Mayano,\nof course.\nIt's me that I don't like."
     },
     {
-      "name": "Monologue",
-      "text": "I reassure her that I'm here to help her\nget past\nanything that's troubling her.\nWe're a team, after\nall.",
+      "name": "Nice Nature",
+      "text": "I'm just narrow-minded, ignorant, and...\nplain.",
       "choice_data_list": [
         "I think that's fine too.",
         "I think that's fine too."
       ]
     },
     {
-      "name": "Nice Nature",
-      "text": "And what if that doesn't work?"
+      "name": "Monologue",
+      "text": "I reassure her that I'm here to help her\nget past\nanything that's troubling her.\nWe're a team, after\nall."
     },
     {
       "name": "Nice Nature",
-      "text": "...Pfft. Hahaha! You're funny.",
+      "text": "And what if that doesn't work?",
       "choice_data_list": [
         "Shall we mope here together, just the two of us?"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Pfft. Hahaha! You're funny."
     },
     {
       "name": "Monologue",
@@ -252,36 +252,36 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Okay, now that you've brought me here,\nwhat are\nwe doing exactly?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I go buy some taiyaki.",
+      "text": "Okay, now that you've brought me here,\nwhat are\nwe doing exactly?",
       "choice_data_list": [
         "When you're feeling down, nothing beats good food!"
       ]
     },
     {
-      "name": "Nice Nature",
-      "text": "Taiyaki, huh?"
+      "name": "Monologue",
+      "text": "I go buy some taiyaki."
     },
     {
       "name": "Nice Nature",
-      "text": "I do. I was just remembering how my\nmom always\nbought me one when I was\nfeeling down.",
+      "text": "Taiyaki, huh?",
       "choice_data_list": [
         "Wait, was that not your thing?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Geez, both of you really know how to\nlay it on\nthick."
+      "text": "I do. I was just remembering how my\nmom always\nbought me one when I was\nfeeling down."
     },
     {
       "name": "Nice Nature",
-      "text": "Worried, huh? I guess I worried Mom\nagain back\nthere.",
+      "text": "Geez, both of you really know how to\nlay it on\nthick.",
       "choice_data_list": [
         "That's just how worried I am about you, Nature."
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Worried, huh? I guess I worried Mom\nagain back\nthere."
     },
     {
       "name": "Nice Nature",

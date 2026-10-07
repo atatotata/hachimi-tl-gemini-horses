@@ -67,7 +67,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "But I've never done anything like that\nbefore. I\nwouldn't know what to say..."
+      "text": "But I've never done anything like that\nbefore. I\nwouldn't know what to say...",
+      "choice_data_list": [
+        "How about telling them you just wanted to hear their voice?",
+        "Is there anything you want sent from home?",
+        "Is there anything you'd like them to send you?"
+      ]
     },
     {
       "name": "Air Groove",
@@ -80,12 +85,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "I... guess I could do that...",
-      "choice_data_list": [
-        "How about telling them you just wanted to hear their voice?",
-        "Is there anything you want sent from home?",
-        "Is there anything you'd like them to send you?"
-      ]
+      "text": "I... guess I could do that..."
     },
     {
       "name": "Taiki Shuttle",
@@ -97,14 +97,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "What're we doin' just standin' around\nfor? We're\ngettin' after her, ain't we?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Well, I... I was wondering how you were.",
+      "text": "What're we doin' just standin' around\nfor? We're\ngettin' after her, ain't we?",
       "choice_data_list": [
         "Naturally!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Well, I... I was wondering how you were."
     },
     {
       "name": "Air Groove's Mother",
@@ -156,14 +156,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "I swear, if you ain't just the sweetest\nlittle bundle\nof cute when you're talkin'\nwith your mom!"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Aha! I see what's going on!",
+      "text": "I swear, if you ain't just the sweetest\nlittle bundle\nof cute when you're talkin'\nwith your mom!",
       "choice_data_list": [
         "Hey, you shouldn't say that..."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Aha! I see what's going on!"
     },
     {
       "name": "Air Groove",
@@ -175,14 +175,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Come on, I'm not a child."
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Yeah! Like snacks!",
+      "text": "Come on, I'm not a child.",
       "choice_data_list": [
         "If it's just something small, wouldn't that be fine?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yeah! Like snacks!"
     },
     {
       "name": "Air Groove",
@@ -214,14 +214,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "This ain't going so hot! Wait here a tick!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "No, no, no, darling! If you want some of\nmom's\ncookies, you can't beat around\nthe bush!",
+      "text": "This ain't going so hot! Wait here a tick!",
       "choice_data_list": [
         "Wait! Hold on a sec...!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No, no, no, darling! If you want some of\nmom's\ncookies, you can't beat around\nthe bush!"
     },
     {
       "name": "Air Groove",
@@ -253,14 +253,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "<i>...So.</i> Do you two have anything to say\nfor\nyourselves?"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Yup! Everyone's happy!",
+      "text": "<i>...So.</i> Do you two have anything to say\nfor\nyourselves?",
       "choice_data_list": [
         "I'm so glad your feelings got through!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yup! Everyone's happy!"
     },
     {
       "name": "Air Groove",

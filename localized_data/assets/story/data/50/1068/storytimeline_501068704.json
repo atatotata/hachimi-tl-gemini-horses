@@ -19,14 +19,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Want to try your luck? You get a free\n\nchocolate-covered banana if you can\nbeat me in\na round of rock, paper,\nscissors, and you get an\nextra if the stick\nhas \"WINNER!\" written on it!"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "A certain someone told me people tend\nto gather\nin places with fun\natmospheres, and business has\nbeen\nbooming thanks to that advice!",
+      "text": "Want to try your luck? You get a free\n\nchocolate-covered banana if you can\nbeat me in\na round of rock, paper,\nscissors, and you get an\nextra if the stick\nhas \"WINNER!\" written on it!",
       "choice_data_list": [
         "So generous!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "A certain someone told me people tend\nto gather\nin places with fun\natmospheres, and business has\nbeen\nbooming thanks to that advice!"
     },
     {
       "name": "Kitasan Black",
@@ -58,32 +58,32 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "EEEEEK!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Trainer, we gotta get out here! FAST!\nNOW! GO!",
+      "text": "EEEEEK!",
       "choice_data_list": [
         "Waaah?!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I turn to run, but as I do, I feel my body\nlift off\nthe floor..."
+      "name": "Kitasan Black",
+      "text": "Trainer, we gotta get out here! FAST!\nNOW! GO!"
     },
     {
-      "name": "Kitasan Black",
-      "text": "<i>Wheeze... huff... pant...</i> W-we made it\nout alive!",
+      "name": "Monologue",
+      "text": "I turn to run, but as I do, I feel my body\nlift off\nthe floor...",
       "choice_data_list": [
         "Huh?!"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "S-sorry... I just threw you over my\nshoulder\nwithout realizing it! I didn't\nthink we would make\nit out in time if I\njust pulled you by the hand...",
+      "text": "<i>Wheeze... huff... pant...</i> W-we made it\nout alive!",
       "choice_data_list": [
         "Even though I ended up getting carried around...!"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "S-sorry... I just threw you over my\nshoulder\nwithout realizing it! I didn't\nthink we would make\nit out in time if I\njust pulled you by the hand..."
     },
     {
       "name": "Kitasan Black",
@@ -111,14 +111,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Wait! Oh nooo!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Oh no, oh no, oh noooo! We got so\nabsorbed in\nhaving fun that I forgot we\nwere supposed to be\ndoing final checks\naround the place!",
+      "text": "Wait! Oh nooo!",
       "choice_data_list": [
         "！？"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Oh no, oh no, oh noooo! We got so\nabsorbed in\nhaving fun that I forgot we\nwere supposed to be\ndoing final checks\naround the place!"
     },
     {
       "name": "Shopkeeper A",
@@ -146,14 +146,14 @@
     },
     {
       "name": "Shopkeeper B",
-      "text": "So instead, we thought it'd be better to\njust\ncreate a temporary role for you and\ntrick you into\ncoming!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Hehe, you got us. I don't know what to\nsay...\nAhem.",
+      "text": "So instead, we thought it'd be better to\njust\ncreate a temporary role for you and\ntrick you into\ncoming!",
       "choice_data_list": [
         "They were being very considerate of you, weren't they?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hehe, you got us. I don't know what to\nsay...\nAhem."
     },
     {
       "name": "Kitasan Black",
@@ -161,7 +161,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "You all put so much of yourselves into\nthis\nfestival, and it was so fun! Seriously,\nI had a blast!"
+      "text": "You all put so much of yourselves into\nthis\nfestival, and it was so fun! Seriously,\nI had a blast!",
+      "choice_data_list": [
+        "Yeah, that was so much fun!",
+        "Yeah, that was so much fun!",
+        "It's all thanks to Kitasan.",
+        "It's all thanks to Kitasan.",
+        "I feel like there were some rough times, too...?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -176,14 +183,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Hehe. Goodness, you two are so in sync.",
-      "choice_data_list": [
-        "Yeah, that was so much fun!",
-        "Yeah, that was so much fun!",
-        "It's all thanks to Kitasan.",
-        "It's all thanks to Kitasan.",
-        "I feel like there were some rough times, too...?"
-      ]
+      "text": "Hehe. Goodness, you two are so in sync."
     },
     {
       "name": "Shopkeeper B",
@@ -199,15 +199,15 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Hehe! Well, it's the truth! Trainer, you're\nalways\nby my side because you feel the\nsame, right?"
-    },
-    {
-      "name": "Shopkeeper B",
-      "text": "All right, keep showing us that awesome\n\nteamwork!",
+      "text": "Hehe! Well, it's the truth! Trainer, you're\nalways\nby my side because you feel the\nsame, right?",
       "choice_data_list": [
         "Of course, I feel the same way!",
         "Of course, I feel the same way!"
       ]
+    },
+    {
+      "name": "Shopkeeper B",
+      "text": "All right, keep showing us that awesome\n\nteamwork!"
     },
     {
       "name": "Kitasan Black",
@@ -251,14 +251,14 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hehe! Are you talking about the\nhaunted house?\nThe way you reacted\nwhile going through it was\nreally\nsomething!"
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "No kidding. You set a record for time\ntaken to\nget through the haunted house.",
+      "text": "Hehe! Are you talking about the\nhaunted house?\nThe way you reacted\nwhile going through it was\nreally\nsomething!",
       "choice_data_list": [
         "It was over in an instant from entrance to exit."
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No kidding. You set a record for time\ntaken to\nget through the haunted house."
     },
     {
       "name": "Kitasan Black",

@@ -203,21 +203,13 @@
       "name": "Narrator",
       "text": "What she showed me then was an elaborately \ncrafted \"Hero's Belt,\" its center adorned \nwith constellation motifs.",
       "choice_data_list": [
-        "Hm? What's the matter?",
-        "Hm? What's wrong?"
-      ]
-    },
-    {
-      "name": "Biko Pegasus",
-      "text": "Ehehe, pretty cool, right? It's finally \ndone! A Transformation Belt! I made it \ntogether with Believe-senpai!",
-      "choice_data_list": [
         "Whoa, that's so cool!",
         "Whoa, that's so cool!"
       ]
     },
     {
-      "name": "Believe",
-      "text": "Yes. I'll take care of the decorations.",
+      "name": "Biko Pegasus",
+      "text": "Ehehe, pretty cool, right? It's finally \ndone! A Transformation Belt! I made it \ntogether with Believe-senpai!",
       "choice_data_list": [
         "Wait, is that true?",
         "Wait, really?"
@@ -235,13 +227,17 @@
     },
     {
       "name": "Believe",
-      "text": "......Thank you very much.",
+      "text": "Yes. I'll take care of the decorations.",
       "choice_data_list": [
         "Oh... I can really feel the craftsmanship here!",
         "Oh... I can really feel the craftsmanship here!",
         "What are you going to do with this?",
         "What are you going to do with this?"
       ]
+    },
+    {
+      "name": "Believe",
+      "text": "......Thank you very much."
     },
     {
       "name": "Biko Pegasus",
@@ -268,11 +264,7 @@
     },
     {
       "name": "Believe",
-      "text": "No, I...",
-      "choice_data_list": [
-        "Wait, Believe is running too?",
-        "Wait, Believe is running too?"
-      ]
+      "text": "No, I..."
     },
     {
       "name": "Biko Pegasus",

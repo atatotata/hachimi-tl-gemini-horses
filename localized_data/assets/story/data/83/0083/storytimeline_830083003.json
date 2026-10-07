@@ -3,33 +3,33 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One night, as I'm heading home after\nwork, I\ncome across Sakura Chiyono O\npeering curiously\nat something."
-    },
-    {
-      "name": "Sakura Chiyono O",
-      "text": "Oh, uh... I thought I heard a familiar\nvoice coming\nfrom the kitchen, so...",
+      "text": "One night, as I'm heading home after\nwork, I\ncome across Sakura Chiyono O\npeering curiously\nat something.",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
     },
     {
-      "name": "???",
-      "text": "BAKUSHIIIN!",
+      "name": "Sakura Chiyono O",
+      "text": "Oh, uh... I thought I heard a familiar\nvoice coming\nfrom the kitchen, so...",
       "choice_data_list": [
         "The kitchen?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "<i>BANG!</i>"
+      "name": "???",
+      "text": "BAKUSHIIIN!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oh? HA HA HA HA! Looks like you've\ncaught me\nred-handed in the midst of\nmy secret training!",
+      "name": "Monologue",
+      "text": "<i>BANG!</i>",
       "choice_data_list": [
         "Wh-what...?!"
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oh? HA HA HA HA! Looks like you've\ncaught me\nred-handed in the midst of\nmy secret training!"
     },
     {
       "name": "Sakura Chiyono O",
@@ -37,25 +37,25 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I want to give some to my sister, so I'm\nputting in\nextra Bakushin effort!"
-    },
-    {
-      "name": "Monologue",
-      "text": "The other day, Sakura Bakushin O\nwalked off\nsaying she'd realized what\nher sister needed—and\nthat she had to\nprepare it alone.",
+      "text": "I want to give some to my sister, so I'm\nputting in\nextra Bakushin effort!",
       "choice_data_list": [
         "For your sister...?"
       ]
     },
     {
-      "name": "Sakura Chiyono O",
-      "text": "So you're saying what she needs..."
+      "name": "Monologue",
+      "text": "The other day, Sakura Bakushin O\nwalked off\nsaying she'd realized what\nher sister needed—and\nthat she had to\nprepare it alone."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Exactly! Talking about it the other day\nbrought\nback memories of the first time I\ntried to bake\nsweets like her.",
+      "name": "Sakura Chiyono O",
+      "text": "So you're saying what she needs...",
       "choice_data_list": [
         "Homemade sweets... made by Bakushin O?"
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Exactly! Talking about it the other day\nbrought\nback memories of the first time I\ntried to bake\nsweets like her."
     },
     {
       "name": "Sakura Bakushin O",
@@ -87,15 +87,15 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "It seems you were right to believe in her,\nTrainer.\nHehe. Shall we be on our way?"
-    },
-    {
-      "name": "Bakushin O's Little Sister",
-      "text": "Huh? A pick-me-up? Oh! These\nsweets—you\nmade them yourself, didn't\nyou?",
+      "text": "It seems you were right to believe in her,\nTrainer.\nHehe. Shall we be on our way?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Huh? A pick-me-up? Oh! These\nsweets—you\nmade them yourself, didn't\nyou?"
     },
     {
       "name": "Bakushin O's Little Sister",

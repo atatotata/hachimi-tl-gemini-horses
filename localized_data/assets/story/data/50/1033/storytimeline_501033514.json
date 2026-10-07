@@ -7,11 +7,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "<i>Pant... Pant...</i>"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "What do you mean?",
+      "text": "<i>Pant... Pant...</i>",
       "choice_data_list": [
         "It's rare to see you training with someone.",
         "It's rare to see you training with someone, isn't it?"
@@ -19,19 +15,23 @@
     },
     {
       "name": "Admire Vega",
+      "text": "What do you mean?"
+    },
+    {
+      "name": "Admire Vega",
       "text": "...Oh."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Actually, I'm not training with her..."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Our schedules just happened to overlap.",
+      "text": "Actually, I'm not training with her...",
       "choice_data_list": [
         "Wait, is that true?",
         "Wait, really?"
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Our schedules just happened to overlap."
     },
     {
       "name": "Silence Suzuka",
@@ -59,14 +59,14 @@
     },
     {
       "name": "Monologue",
-      "text": "The two of them seem to have a similar\nmindset\nwhen it comes to training..."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Yes, well... I wouldn't mind that. But how\nabout\nyou, Ayabe?",
+      "text": "The two of them seem to have a similar\nmindset\nwhen it comes to training...",
       "choice_data_list": [
         "Why don't the two of you train together?"
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yes, well... I wouldn't mind that. But how\nabout\nyou, Ayabe?"
     },
     {
       "name": "Admire Vega",
@@ -98,14 +98,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It appears they're having trouble\nsynchronizing."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...Yeah.",
+      "text": "It appears they're having trouble\nsynchronizing.",
       "choice_data_list": [
         "Shall we call it about enough for today?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Yeah."
     },
     {
       "name": "Silence Suzuka",
@@ -125,15 +125,15 @@
     },
     {
       "name": "Monologue",
-      "text": "I suppose that's what works better for\nthem."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Really? I'm not so sure about that...",
+      "text": "I suppose that's what works better for\nthem.",
       "choice_data_list": [
         "You girls are incredible...",
         "You two are incredible..."
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Really? I'm not so sure about that..."
     },
     {
       "name": "Silence Suzuka",
@@ -149,7 +149,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Yeah. I get that too."
+      "text": "Yeah. I get that too.",
+      "choice_data_list": [
+        "Maybe there's something fateful about it.",
+        "They're a good friend.",
+        "They're a good friend."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -162,12 +167,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Don't be so dramatic.",
-      "choice_data_list": [
-        "Maybe there's something fateful about it.",
-        "They're a good friend.",
-        "They're a good friend."
-      ]
+      "text": "Don't be so dramatic."
     },
     {
       "name": "Admire Vega",

@@ -39,25 +39,25 @@
     },
     {
       "name": "Staff",
-      "text": "Oh, Trainer! I'd like to talk to you alone\nfor a\nminute!"
-    },
-    {
-      "name": "Staff",
-      "text": "We've heard about what happened the\nother\nday...",
+      "text": "Oh, Trainer! I'd like to talk to you alone\nfor a\nminute!",
       "choice_data_list": [
         "Yes...?"
       ]
     },
     {
       "name": "Staff",
-      "text": "Would you like me to come to the\nwaiting room\ntwenty minutes\nbeforehand? I can call for extra\nhelp if\nnecessary."
+      "text": "We've heard about what happened the\nother\nday..."
     },
     {
-      "name": "Monologue",
-      "text": "I remember the conversation I had with\nSweep\nTosho's grandmother.",
+      "name": "Staff",
+      "text": "Would you like me to come to the\nwaiting room\ntwenty minutes\nbeforehand? I can call for extra\nhelp if\nnecessary.",
       "choice_data_list": [
         "...Is that because you're worried?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I remember the conversation I had with\nSweep\nTosho's grandmother."
     },
     {
       "name": "Sweep's Grandma",
@@ -69,21 +69,21 @@
     },
     {
       "name": "Staff",
-      "text": "They said she's very spoiled, and they're\nworried\nshe might suddenly back out of\nthe concert..."
-    },
-    {
-      "name": "Staff",
-      "text": "Are you sure? Wouldn't it be best to set\nup some\nkind of contingency plan just in\ncase?",
+      "text": "They said she's very spoiled, and they're\nworried\nshe might suddenly back out of\nthe concert...",
       "choice_data_list": [
         "I'm all right."
       ]
     },
     {
       "name": "Staff",
-      "text": "...All right, then. You're her trainer, so if\nyou say\nso.",
+      "text": "Are you sure? Wouldn't it be best to set\nup some\nkind of contingency plan just in\ncase?",
       "choice_data_list": [
         "She'll be fine."
       ]
+    },
+    {
+      "name": "Staff",
+      "text": "...All right, then. You're her trainer, so if\nyou say\nso."
     },
     {
       "name": "Sweep Tosho",

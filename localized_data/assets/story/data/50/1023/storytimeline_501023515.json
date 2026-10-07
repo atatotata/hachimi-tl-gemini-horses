@@ -11,14 +11,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sorry, Trainer. I need to get my bottle.\nI'll head\nstraight home afterward."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Really? Thank you.",
+      "text": "Sorry, Trainer. I need to get my bottle.\nI'll head\nstraight home afterward.",
       "choice_data_list": [
         "It's already dark, so I'll go with you."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Really? Thank you."
     },
     {
       "name": "Biwa Hayahide",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Oh, now you're asking for it!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Looks like it... I'm going to see what's\nwrong.",
+      "text": "Oh, now you're asking for it!",
       "choice_data_list": [
         "Is that... Narita Taishin?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Looks like it... I'm going to see what's\nwrong."
     },
     {
       "name": "Biwa Hayahide",
@@ -137,7 +137,12 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sorry to keep you waiting, Trainer."
+      "text": "Sorry to keep you waiting, Trainer.",
+      "choice_data_list": [
+        "That was so cool...!",
+        "The theory really paid off!",
+        "The theory really came in handy!"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -150,12 +155,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "R-really? I was just being my usual self,\nhonestly...",
-      "choice_data_list": [
-        "That was so cool...!",
-        "The theory really paid off!",
-        "The theory really came in handy!"
-      ]
+      "text": "R-really? I was just being my usual self,\nhonestly..."
     },
     {
       "name": "Biwa Hayahide",

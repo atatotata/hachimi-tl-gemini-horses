@@ -23,20 +23,23 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Whoooa! It's <i>gotta</i> be fate! ☆ That's\ncrazy!"
+      "text": "Whoooa! It's <i>gotta</i> be fate! ☆ That's\ncrazy!",
+      "choice_data_list": [
+        "What are you two—"
+      ]
     },
     {
       "name": "Mayano Top Gun",
       "text": "Hey, Curren! Let's have your trainer hang\nout with\nus too!",
       "choice_data_list": [
-        "What are you two—"
+        "Huh?"
       ]
     },
     {
       "name": "Curren Chan",
       "text": "Are you sure? Okay, thanks! Come on,\nBig Bro,\nlet's go!",
       "choice_data_list": [
-        "Huh?"
+        "Huh? Wait, what?"
       ]
     },
     {
@@ -48,10 +51,7 @@
     },
     {
       "name": "Monologue",
-      "text": "And before I even know what's\nhappening...",
-      "choice_data_list": [
-        "Huh? Wait, what?"
-      ]
+      "text": "And before I even know what's\nhappening..."
     },
     {
       "name": "Curren Chan",
@@ -99,14 +99,14 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "You have your own fashion rules, right?\nIt's cute,\nbut I wanna see you in\nsomething completely\ndifferent too!"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "Yeah! ☆ Like something fashion-wise\nyou always\ndo or never ever do.",
+      "text": "You have your own fashion rules, right?\nIt's cute,\nbut I wanna see you in\nsomething completely\ndifferent too!",
       "choice_data_list": [
         "Rules?"
       ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Yeah! ☆ Like something fashion-wise\nyou always\ndo or never ever do."
     },
     {
       "name": "Curren Chan",
@@ -118,7 +118,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Hm... But well, if Big Bro begs me to, I\n<i>guess</i> I\ncould give it a try."
+      "text": "Hm... But well, if Big Bro begs me to, I\n<i>guess</i> I\ncould give it a try.",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -129,29 +132,22 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Hooray! ☆ C'mon, tell her to try! ☆",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "text": "Hooray! ☆ C'mon, tell her to try! ☆"
     },
     {
       "name": "Together",
-      "text": "Come oooon."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Ehehe. Guess I've got no choice. ♪\nSooo...",
+      "text": "Come oooon.",
       "choice_data_list": [
         "...Y-Yes, please!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Would you rather see me in something\nbold or\nsomething super stylish?"
+      "text": "Ehehe. Guess I've got no choice. ♪\nSooo..."
     },
     {
       "name": "Curren Chan",
-      "text": "Oh? You wanna see me be more bold?\n\nInteresting...",
+      "text": "Would you rather see me in something\nbold or\nsomething super stylish?",
       "choice_data_list": [
         "Hyper-aggressive Curren.",
         "High-Fashion Curren"
@@ -166,10 +162,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Mhm, sure you didn't. ♪",
+      "text": "Oh? You wanna see me be more bold?\n\nInteresting...",
       "choice_data_list": [
         "It's not that..."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Mhm, sure you didn't. ♪"
     },
     {
       "name": "Mayano Top Gun",
@@ -177,7 +177,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Maybe. But something tells me my\ntrainer has a\ndifferent kind of boldness\nin mind. ♪"
+      "text": "Maybe. But something tells me my\ntrainer has a\ndifferent kind of boldness\nin mind. ♪",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -188,10 +191,7 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Really? You mean, like... something\nsee-through?!\nWh-whoa... Now <i>that's</i>\nbold.",
-      "choice_data_list": [
-        "！？"
-      ]
+      "text": "Really? You mean, like... something\nsee-through?!\nWh-whoa... Now <i>that's</i>\nbold."
     },
     {
       "name": "Curren Chan",
@@ -223,7 +223,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, so you like a more mature look?"
+      "text": "Oh, so you like a more mature look?",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -234,29 +237,22 @@
     },
     {
       "name": "Curren Chan",
-      "text": "So by \"stylish,\" you mean something\nmore\nmonotone and reserved, right?",
-      "choice_data_list": [
-        "Huh?"
-      ]
+      "text": "So by \"stylish,\" you mean something\nmore\nmonotone and reserved, right?"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Which means... adults prefer mature\nwomen. I\nknew it!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "...All right then, Big Bro. I know what\nyou're\nthinking. In that case...",
+      "text": "Which means... adults prefer mature\nwomen. I\nknew it!",
       "choice_data_list": [
         "Huh?!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "...All right then, Big Sis. I know what\nyou're\nthinking. In that case..."
+      "text": "...All right then, Big Bro. I know what\nyou're\nthinking. In that case..."
     },
     {
       "name": "Curren Chan",
-      "text": "I guess I've gotta teach you the true\nappeal of\ncuteness."
+      "text": "...All right then, Big Sis. I know what\nyou're\nthinking. In that case..."
     },
     {
       "name": "Curren Chan",
@@ -267,10 +263,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Cuteness is all around us. It is\nall-encompassing.\nCuteness... is life. It\nseems you don't quite get\nthat yet.",
+      "text": "I guess I've gotta teach you the true\nappeal of\ncuteness.",
       "choice_data_list": [
         "Huh?!?!"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Cuteness is all around us. It is\nall-encompassing.\nCuteness... is life. It\nseems you don't quite get\nthat yet."
     },
     {
       "name": "Curren Chan",

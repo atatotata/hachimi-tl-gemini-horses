@@ -27,15 +27,15 @@
     },
     {
       "name": "Monologue",
-      "text": "This is far from an uncommon sight here\nat Tracen\nAcademy, but you'd be\nhard-pressed to find Ines\nFujin among\ntheir number."
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Yes, that's the way, Bright! Excellent\nform! You've\ngot a good center of\nbalance.",
+      "text": "This is far from an uncommon sight here\nat Tracen\nAcademy, but you'd be\nhard-pressed to find Ines\nFujin among\ntheir number.",
       "choice_data_list": [
         "The difference in practice really shows, huh...",
         "The difference in practice really shows, doesn't it..."
       ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Yes, that's the way, Bright! Excellent\nform! You've\ngot a good center of\nbalance."
     },
     {
       "name": "Mejiro Bright",
@@ -51,21 +51,21 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Training isn't just about\nquantity—quality plays a\nmajor part! You\nhave to train with a goal in mind!\n\n...Though I'm just repeating what\nGrandmother\ntold me."
-    },
-    {
-      "name": "Monologue",
-      "text": "She's spot on. Rather than lamenting the\nlack of\ntime Ines Fujin spends training, I\nneed to focus on\nraising the quality of\nher training sessions.",
+      "text": "Training isn't just about\nquantity—quality plays a\nmajor part! You\nhave to train with a goal in mind!\n\n...Though I'm just repeating what\nGrandmother\ntold me.",
       "choice_data_list": [
         "(Not just quantity, but quality...!)"
       ]
     },
     {
       "name": "Monologue",
-      "text": "Recently, one of the senior trainers\nrecommended\nme some bookstores and\nsporting shops, so I\ndecide to spend the\nweek scouring them for\nuseful reference\nmaterials.",
+      "text": "She's spot on. Rather than lamenting the\nlack of\ntime Ines Fujin spends training, I\nneed to focus on\nraising the quality of\nher training sessions.",
       "choice_data_list": [
         "I need to study harder, too!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Recently, one of the senior trainers\nrecommended\nme some bookstores and\nsporting shops, so I\ndecide to spend the\nweek scouring them for\nuseful reference\nmaterials."
     },
     {
       "name": "Monologue",
@@ -81,39 +81,35 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Please follow me!"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "If there's anything in particular you're\nlooking for,\nfeel free to ask a member of\nour staff!",
+      "text": "Please follow me!",
       "choice_data_list": [
         "Ines!?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Thanks for waiting! Here's your ramen!",
+      "text": "If there's anything in particular you're\nlooking for,\nfeel free to ask a member of\nour staff!",
       "choice_data_list": [
         "Ines!?!?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Hey, Trainer, about our training regimen\nfor\ntomorrow...",
+      "text": "Thanks for waiting! Here's your ramen!",
       "choice_data_list": [
         "Ines!?!?!?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Whoa! What's wrong?! I'm right here!",
+      "text": "Hey, Trainer, about our training regimen\nfor\ntomorrow...",
       "choice_data_list": [
         "Ines!?!?!?!?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Now that you mention it, we have been\nbumping\ninto each other a lot. Even at\nmy one-off\npart-time gigs.",
+      "text": "Whoa! What's wrong?! I'm right here!",
       "choice_data_list": [
         "Everywhere I looked this week, you were there...",
         "Everywhere I looked this week, you were there..."
@@ -121,10 +117,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Honestly, I'd prefer them all to be\nlong-term,\nsince it's hard to know when\nthey'll post openings\nfor one-off jobs.",
+      "text": "Now that you mention it, we have been\nbumping\ninto each other a lot. Even at\nmy one-off\npart-time gigs.",
       "choice_data_list": [
         "A one-off?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Honestly, I'd prefer them all to be\nlong-term,\nsince it's hard to know when\nthey'll post openings\nfor one-off jobs."
     },
     {
       "name": "Ines Fujin",
@@ -140,15 +140,15 @@
     },
     {
       "name": "Monologue",
-      "text": "So she juggles those three jobs in\naddition to\nvarious short-term ones...\nSurprised by how hectic\nher life must be,\nworry creeps into my mind."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Ah, that face! I bet you think I've been\nfailing my\nclasses, right?",
+      "text": "So she juggles those three jobs in\naddition to\nvarious short-term ones...\nSurprised by how hectic\nher life must be,\nworry creeps into my mind.",
       "choice_data_list": [
         "By the way, are you doing all right with your studies?",
         "By the way, are your studies going all right?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, that face! I bet you think I've been\nfailing my\nclasses, right?"
     },
     {
       "name": "Ines Fujin",
@@ -160,14 +160,14 @@
     },
     {
       "name": "Daitaku Helios",
-      "text": "These notes are straight up god-like,\nInes! No\ncap! You high-key deserve an\naward or\nsomething!"
-    },
-    {
-      "name": "Monologue",
-      "text": "The Umamusume I see before me are\nDaitaku\nHelios and Mejiro Palmer, two\nof Ines Fujin's\nclassmates.",
+      "text": "These notes are straight up god-like,\nInes! No\ncap! You high-key deserve an\naward or\nsomething!",
       "choice_data_list": [
         "That's..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The Umamusume I see before me are\nDaitaku\nHelios and Mejiro Palmer, two\nof Ines Fujin's\nclassmates."
     },
     {
       "name": "Ines Fujin",
@@ -199,21 +199,21 @@
     },
     {
       "name": "Monologue",
-      "text": "After watching Ines Fujin go about her\nday,\nthere's something I've realized."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Ohhh? Trainer, I didn't realize you still\nwanted to\nshadow me.",
+      "text": "After watching Ines Fujin go about her\nday,\nthere's something I've realized.",
       "choice_data_list": [
         "(...She puts everything she has into whatever she does.)"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Heh heh, I'm just teasing.\nBoss, one\norder of deluxe ramen!",
+      "text": "Ohhh? Trainer, I didn't realize you still\nwanted to\nshadow me.",
       "choice_data_list": [
         "Huh!? Ah!? That's not what I meant!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Heh heh, I'm just teasing.\nBoss, one\norder of deluxe ramen!"
     },
     {
       "name": "Ramen Store Owner",
@@ -221,14 +221,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "...Ah—that's not on the house, by the\nway. You\nhave to pay for it yourself."
-    },
-    {
-      "name": "Ramen Store Owner",
-      "text": "Haha, so you're Fu's trainer! I see she's\nreally got\nyou under her thumb!",
+      "text": "...Ah—that's not on the house, by the\nway. You\nhave to pay for it yourself.",
       "choice_data_list": [
         "Yes..."
       ]
+    },
+    {
+      "name": "Ramen Store Owner",
+      "text": "Haha, so you're Fu's trainer! I see she's\nreally got\nyou under her thumb!"
     },
     {
       "name": "Ines Fujin",
@@ -252,14 +252,14 @@
     },
     {
       "name": "Ramen Store Owner",
-      "text": "Even now, she works part-time jobs so\nthat she\ncan send money back home to\nhelp with the\nfamily finances and pay for\nher sisters'\nafter-school lessons."
-    },
-    {
-      "name": "Ramen Store Owner",
-      "text": "Haha, she's something else, isn't she? I\nwonder\nhow she's able to push herself\nlike that.",
+      "text": "Even now, she works part-time jobs so\nthat she\ncan send money back home to\nhelp with the\nfamily finances and pay for\nher sisters'\nafter-school lessons.",
       "choice_data_list": [
         "That seems to be the case."
       ]
+    },
+    {
+      "name": "Ramen Store Owner",
+      "text": "Haha, she's something else, isn't she? I\nwonder\nhow she's able to push herself\nlike that."
     },
     {
       "name": "Ramen Store Owner",
@@ -291,11 +291,7 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Great stuff today, Boss! See you next\ntime!"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Oh, Trainer! I just wrapped things up at\nthe ramen\nshop.",
+      "text": "Great stuff today, Boss! See you next\ntime!",
       "choice_data_list": [
         "Did your shift finish?",
         "Is your shift over?"
@@ -303,11 +299,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "But I'm not done for the day yet. Next,\nI've got a\nshift at the convenience store!"
+      "text": "Oh, Trainer! I just wrapped things up at\nthe ramen\nshop."
     },
     {
       "name": "Ines Fujin",
-      "text": "Yep. I took as many shifts as I could\npack in\ntoday.",
+      "text": "But I'm not done for the day yet. Next,\nI've got a\nshift at the convenience store!",
       "choice_data_list": [
         "There's still more!?",
         "There's still more!?"
@@ -315,11 +311,11 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Starting tomorrow, I want to put all my\nfocus into\ntraining for my debut race!"
+      "text": "Yep. I took as many shifts as I could\npack in\ntoday."
     },
     {
-      "name": "Monologue",
-      "text": "Seeing that smile on her face, my desire\nto work\nhard and help her reach her\npotential increases\ntenfold.",
+      "name": "Ines Fujin",
+      "text": "Starting tomorrow, I want to put all my\nfocus into\ntraining for my debut race!",
       "choice_data_list": [
         "You're amazing...",
         "You're amazing..."
@@ -327,18 +323,22 @@
     },
     {
       "name": "Monologue",
+      "text": "Seeing that smile on her face, my desire\nto work\nhard and help her reach her\npotential increases\ntenfold."
+    },
+    {
+      "name": "Monologue",
       "text": "I decide that the least I can do is carry\nher school\nbag as I accompany her to the\nconvenience store."
     },
     {
       "name": "Ines Fujin",
-      "text": "Hey, are you sure you're okay with that?\nIt's\npretty heavy, right?"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Well, if you insist...",
+      "text": "Hey, are you sure you're okay with that?\nIt's\npretty heavy, right?",
       "choice_data_list": [
         "No, at least let me carry this."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Well, if you insist..."
     },
     {
       "name": "Flashy Part-Timer",
@@ -346,14 +346,14 @@
     },
     {
       "name": "Monologue",
-      "text": "The girl looking me up and down is\nlikely one of\nInes Fujin's coworkers. As\nher trainer, I decide it's\nbest to greet the\ngirl with a polite nod."
-    },
-    {
-      "name": "Flashy Part-Timer",
-      "text": "Ooh, so you're into the gracious older\ntype, huh,\nInes? Don't let me get in your\nway, then!",
+      "text": "The girl looking me up and down is\nlikely one of\nInes Fujin's coworkers. As\nher trainer, I decide it's\nbest to greet the\ngirl with a polite nod.",
       "choice_data_list": [
         "Thank you for always taking such good care of her."
       ]
+    },
+    {
+      "name": "Flashy Part-Timer",
+      "text": "Ooh, so you're into the gracious older\ntype, huh,\nInes? Don't let me get in your\nway, then!"
     },
     {
       "name": "Ines Fujin",

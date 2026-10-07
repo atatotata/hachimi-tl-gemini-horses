@@ -47,14 +47,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Ooh, there's honey pumpkin popcorn!\nStay right\nhere, I'll go buy some!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "N-no! It's okay. You don't have to do\nanything\ntoday, Big Brother.",
+      "text": "Ooh, there's honey pumpkin popcorn!\nStay right\nhere, I'll go buy some!",
       "choice_data_list": [
         "I'll buy it for you."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no! It's okay. You don't have to do\nanything\ntoday, Big Brother."
     },
     {
       "name": "Rice Shower",
@@ -82,7 +82,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "It sure is d-d-dark, huh? A-are you all\nright, B-Big\nBrother?"
+      "text": "It sure is d-d-dark, huh? A-are you all\nright, B-Big\nBrother?",
+      "choice_data_list": [
+        "I'm fine, but Rice..."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -93,10 +96,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I'm fine too! After all, today is—",
-      "choice_data_list": [
-        "I'm fine, but Rice..."
-      ]
+      "text": "I'm fine too! After all, today is—"
     },
     {
       "name": "Monologue",
@@ -148,7 +148,12 @@
     },
     {
       "name": "Monologue",
-      "text": "With that in mind, how do I respond to\nher?"
+      "text": "With that in mind, how do I respond to\nher?",
+      "choice_data_list": [
+        "Leave this to your familiar.",
+        "Hang in there, Rice!",
+        "Hang in there, Rice!"
+      ]
     },
     {
       "name": "Monologue",
@@ -161,12 +166,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Familiar? Oh, right, since I bit you\nearlier...",
-      "choice_data_list": [
-        "Leave this to your familiar.",
-        "Hang in there, Rice!",
-        "Hang in there, Rice!"
-      ]
+      "text": "Familiar? Oh, right, since I bit you\nearlier..."
     },
     {
       "name": "Monologue",
@@ -174,14 +174,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I'm sorry... I was supposed to be the one\ntaking\ncare of you today..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Really? Thank goodness...",
+      "text": "I'm sorry... I was supposed to be the one\ntaking\ncare of you today...",
       "choice_data_list": [
         "Because you've entertained me plenty."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Really? Thank goodness..."
     },
     {
       "name": "Rice Shower",
@@ -245,7 +245,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "U-um, were you scared, Big Brother? I\nreally hope\nyou had fun..."
+      "text": "U-um, were you scared, Big Brother? I\nreally hope\nyou had fun...",
+      "choice_data_list": [
+        "All thanks to a certain strong vampire.",
+        "All thanks to a certain strong vampire."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -257,11 +261,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Hehe, yay!",
-      "choice_data_list": [
-        "All thanks to a certain strong vampire.",
-        "All thanks to a certain strong vampire."
-      ]
+      "text": "Hehe, yay!"
     },
     {
       "name": "Monologue",

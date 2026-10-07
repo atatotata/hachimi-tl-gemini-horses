@@ -19,22 +19,22 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hm? Oh, greetings! You're one of the\nschool\ntrainers, right?"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Nope! Recently, there've been reports of\na\nsuspicious woman in a white coat and\nmask\nrunning around campus, so I'm on\nthe lookout!",
+      "text": "Hm? Oh, greetings! You're one of the\nschool\ntrainers, right?",
       "choice_data_list": [
         "Cracking down on discipline?"
       ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "No prob! Just doing my duty as a\nmember of the\ndisciplinary committee!",
+      "text": "Nope! Recently, there've been reports of\na\nsuspicious woman in a white coat and\nmask\nrunning around campus, so I'm on\nthe lookout!",
       "choice_data_list": [
         "W-Well, good on you.",
         "W-Well, that's admirable."
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "No prob! Just doing my duty as a\nmember of the\ndisciplinary committee!"
     },
     {
       "name": "Disciplinary Committee Member",
@@ -58,7 +58,12 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "I shall stop her at once!"
+      "text": "I shall stop her at once!",
+      "choice_data_list": [
+        "Maintaining discipline must be tough.",
+        "Maintaining discipline must be hard work, huh.",
+        "Rush to the scene!"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -71,12 +76,7 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "No worries! This is nothing, really!",
-      "choice_data_list": [
-        "Maintaining discipline must be tough.",
-        "Maintaining discipline must be hard work, huh.",
-        "Rush to the scene!"
-      ]
+      "text": "No worries! This is nothing, really!"
     },
     {
       "name": "Bamboo Memory",
@@ -100,14 +100,14 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "If it's not too much trouble, could you\nwatch over\nthis area for me?"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Whoa, thanks! I owe you big time!",
+      "text": "If it's not too much trouble, could you\nwatch over\nthis area for me?",
       "choice_data_list": [
         "Piece of cake!"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Whoa, thanks! I owe you big time!"
     },
     {
       "name": "Bamboo Memory",

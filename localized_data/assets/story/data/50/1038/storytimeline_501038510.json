@@ -43,11 +43,7 @@
     },
     {
       "name": "Monologue",
-      "text": "More of Curren Chan's fans seem to be\ngathered\nat the track today than usual."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Hm? Of course, silly.",
+      "text": "More of Curren Chan's fans seem to be\ngathered\nat the track today than usual.",
       "choice_data_list": [
         "Are you okay?",
         "Are you okay?"
@@ -55,11 +51,15 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ohhh, so that's what you mean.",
+      "text": "Hm? Of course, silly.",
       "choice_data_list": [
         "...Think you'll be able to focus, too?",
         "...Think you can focus, too?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ohhh, so that's what you mean."
     },
     {
       "name": "Curren Chan",
@@ -91,7 +91,12 @@
     },
     {
       "name": "Monologue",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Show me your sharpest run!",
+        "Show me that razor-sharp run, okay?",
+        "Are you really okay...?"
+      ]
     },
     {
       "name": "Monologue",
@@ -104,12 +109,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Hehe. I'm super happy you have such\nhigh\nexpectations of me. ♪",
-      "choice_data_list": [
-        "Show me your sharpest run!",
-        "Show me that razor-sharp run, okay?",
-        "Are you really okay...?"
-      ]
+      "text": "Hehe. I'm super happy you have such\nhigh\nexpectations of me. ♪"
     },
     {
       "name": "Curren Chan",
@@ -133,14 +133,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ehe... How was that?"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Yaaay! ♪ Praise me some more, Big Bro!",
+      "text": "Ehe... How was that?",
       "choice_data_list": [
         "That was an incredible run!"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yaaay! ♪ Praise me some more, Big Bro!"
     },
     {
       "name": "Curren Chan",
@@ -192,14 +192,14 @@
     },
     {
       "name": "Monologue",
-      "text": "..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "I'll have them cheer with the volume on\nmute\ntoday. ♪",
+      "text": "...",
       "choice_data_list": [
         "(It went quiet...?!)"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I'll have them cheer with the volume on\nmute\ntoday. ♪"
     },
     {
       "name": "Curren Chan",

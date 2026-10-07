@@ -3,25 +3,25 @@
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
-      "text": "Hey, Trainer!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "That was so much fun! I had a great time!",
+      "text": "Hey, Trainer!",
       "choice_data_list": [
         "Good work!"
       ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "How was my runnin'? Was it fun to\nwatch?"
+      "text": "That was so much fun! I had a great time!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Wow, ya sure sound happy! Just hearin'\nthat\nmakes me happy too!",
+      "text": "How was my runnin'? Was it fun to\nwatch?",
       "choice_data_list": [
         "That was wonderful!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wow, ya sure sound happy! Just hearin'\nthat\nmakes me happy too!"
     },
     {
       "name": "Taiki Shuttle",
@@ -45,14 +45,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Have you decided on your next steps?"
-    },
-    {
-      "name": "",
-      "text": "Every Umamusume has races that align\nmore with\ntheir skills.",
+      "text": "Have you decided on your next steps?",
       "choice_data_list": [
         "(Our policy...)"
       ]
+    },
+    {
+      "name": "",
+      "text": "Every Umamusume has races that align\nmore with\ntheir skills."
     },
     {
       "name": "",
@@ -60,21 +60,21 @@
     },
     {
       "name": "",
-      "text": "After watching her debut race, I'm\nconvinced\nshe'd do well in sprint and\nmile races."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Oh, is there something bothering you,\nTrainer?",
+      "text": "After watching her debut race, I'm\nconvinced\nshe'd do well in sprint and\nmile races.",
       "choice_data_list": [
         "(Still...)"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "...I see.",
+      "text": "Oh, is there something bothering you,\nTrainer?",
       "choice_data_list": [
         "...Taiki's goal is 'Umamusume of the Year.'"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...I see."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -82,14 +82,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "To be more specific, you could aim for\nthe\nClassics or the Tenno Sho."
-    },
-    {
-      "name": "",
-      "text": "I can't expect her to place well in races\nthat don't\nsuit her aptitude...",
+      "text": "To be more specific, you could aim for\nthe\nClassics or the Tenno Sho.",
       "choice_data_list": [
         "(They're all too long for Taiki...)"
       ]
+    },
+    {
+      "name": "",
+      "text": "I can't expect her to place well in races\nthat don't\nsuit her aptitude..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -165,14 +165,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Howdy, Trainer! What'd ya wanna talk\nabout?"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Oh, good thinkin'! A debut is just the\nbeginning,\nafter all!",
+      "text": "Howdy, Trainer! What'd ya wanna talk\nabout?",
       "choice_data_list": [
         "About your target race..."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, good thinkin'! A debut is just the\nbeginning,\nafter all!"
     },
     {
       "name": "Taiki Shuttle",
@@ -184,14 +184,14 @@
     },
     {
       "name": "",
-      "text": "Taiki's determination is unyielding. I\nknow what\nneeds to be said..."
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Sprints and miles? Those're the ones\naround\n1,600 meters, right?",
+      "text": "Taiki's determination is unyielding. I\nknow what\nneeds to be said...",
       "choice_data_list": [
         "Let's master Sprints and Miles!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sprints and miles? Those're the ones\naround\n1,600 meters, right?"
     },
     {
       "name": "",
@@ -199,11 +199,7 @@
     },
     {
       "name": "",
-      "text": "But even if the odds aren't stacked in\nher favor...\nwith legs like hers, she may\njust come out on top!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Power and speed?",
+      "text": "But even if the odds aren't stacked in\nher favor...\nwith legs like hers, she may\njust come out on top!",
       "choice_data_list": [
         "Let's show off your power and speed!",
         "Let's show off your power and speed!"
@@ -211,11 +207,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "My top traits...",
+      "text": "Power and speed?",
       "choice_data_list": [
         "That's your greatest charm!",
         "That's your greatest charm!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "My top traits..."
     },
     {
       "name": "Taiki Shuttle",
@@ -231,14 +231,14 @@
     },
     {
       "name": "",
-      "text": "We now have a path to follow. Our next\nstop is a\nmile race held in Kyoto during\nwinter..."
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Gotcha! We're gonna train for the\nShinzan Kinen\ntill the cows come home!",
+      "text": "We now have a path to follow. Our next\nstop is a\nmile race held in Kyoto during\nwinter...",
       "choice_data_list": [
         "Let's go with the 'Shinzan Kinen'!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Gotcha! We're gonna train for the\nShinzan Kinen\ntill the cows come home!"
     }
   ]
 }

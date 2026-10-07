@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One morning, when I get to my office,\nMejiro\nDober is already there waiting for\nme."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "N-no I'm not. This is a perfectly normal\ntime to be\nhere.",
+      "text": "One morning, when I get to my office,\nMejiro\nDober is already there waiting for\nme.",
       "choice_data_list": [
         "You're pretty early, aren't you."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-no I'm not. This is a perfectly normal\ntime to be\nhere."
     },
     {
       "name": "Mejiro Dober",
@@ -18,7 +18,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Actually, aren't <i>you</i> just late? Are you\ngetting\nenough sleep?"
+      "text": "Actually, aren't <i>you</i> just late? Are you\ngetting\nenough sleep?",
+      "choice_data_list": [
+        "More or less.",
+        "More or less."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -32,8 +36,8 @@
       "name": "Mejiro Dober",
       "text": "You should at least try to sleep more on\nyour\ndays off. Use essential oils to help\nyou or\nsomething.",
       "choice_data_list": [
-        "More or less.",
-        "More or less."
+        "Thanks for looking out for me.",
+        "Thanks for looking out for me."
       ]
     },
     {
@@ -46,11 +50,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I-I'm just warning you. I'd be negatively\nimpacted\ntoo if something happened to\nyou, so you'd\nbetter watch yourself!",
-      "choice_data_list": [
-        "Thanks for looking out for me.",
-        "Thanks for looking out for me."
-      ]
+      "text": "I-I'm just warning you. I'd be negatively\nimpacted\ntoo if something happened to\nyou, so you'd\nbetter watch yourself!"
     },
     {
       "name": "Mejiro Dober",

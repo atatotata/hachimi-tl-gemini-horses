@@ -7,11 +7,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Beep-beep-beep...</i> Damage detected.\nGolshiroid,\ncommencing scan."
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>",
+      "text": "<i>Beep-beep-beep...</i> Damage detected.\nGolshiroid,\ncommencing scan.",
       "choice_data_list": [
         "Wh-What's wrong!?",
         "Wh-What's wrong!?"
@@ -19,7 +15,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders.",
+      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>",
       "choice_data_list": [
         "Repairing the damaged spots comes first.",
         "Let's upgrade your program right away!"
@@ -27,17 +23,21 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Oh, c'mon! I'm fine, I tell you!",
+      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders.",
       "choice_data_list": [
         "Denied. Repairs take priority."
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to...",
+      "text": "Oh, c'mon! I'm fine, I tell you!",
       "choice_data_list": [
         "Commander's orders!"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to..."
     },
     {
       "name": "Gold Ship",
@@ -73,25 +73,25 @@
     },
     {
       "name": "Gold Ship",
-      "text": "<i>B-b-beep.</i> Suggestion confirmed.\nInitiating\nupgrade sequence!"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Hmm... Confirmation pending.",
+      "text": "<i>B-b-beep.</i> Suggestion confirmed.\nInitiating\nupgrade sequence!",
       "choice_data_list": [
         "Let's get even stronger!"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Approved. The current operating\nprogram can\nonly be upgraded under\none condition."
+      "text": "Hmm... Confirmation pending."
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely.",
+      "text": "Approved. The current operating\nprogram can\nonly be upgraded under\none condition.",
       "choice_data_list": [
         "Conditions?"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely."
     },
     {
       "name": "Monologue",

@@ -7,14 +7,14 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Oh! Trainer! What a coinkydink! ♪"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "I'm ghost-hunting!",
+      "text": "Oh! Trainer! What a coinkydink! ♪",
       "choice_data_list": [
         "Why at this hour?"
       ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "I'm ghost-hunting!"
     },
     {
       "name": "Mayano Top Gun",
@@ -22,14 +22,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "O-obviously not, right? But she won't\nlisten..."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "R-r-r-r-right?! We've already looked\neverywhere,\nso let's just go home!",
+      "text": "O-obviously not, right? But she won't\nlisten...",
       "choice_data_list": [
         "It's already past curfew, we've gotta head back."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "R-r-r-r-right?! We've already looked\neverywhere,\nso let's just go home!"
     },
     {
       "name": "Mayano Top Gun",
@@ -69,7 +69,12 @@
     },
     {
       "name": "Monologue",
-      "text": "A wandering ghost who wants to try on\nher\nsignature racewear just once..."
+      "text": "A wandering ghost who wants to try on\nher\nsignature racewear just once...",
+      "choice_data_list": [
+        "That ghost must've had lingering regrets, huh.",
+        "That ghost must've had lingering regrets, didn't it?",
+        "Behind Mayano and the others..."
+      ]
     },
     {
       "name": "Monologue",
@@ -82,12 +87,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I mention that there's no doubt she\ndreamed of\nracing on the turf in her\nsignature racewear.",
-      "choice_data_list": [
-        "That ghost must've had lingering regrets, huh.",
-        "That ghost must've had lingering regrets, didn't it?",
-        "Behind Mayano and the others..."
-      ]
+      "text": "I mention that there's no doubt she\ndreamed of\nracing on the turf in her\nsignature racewear."
     },
     {
       "name": "Mayano Top Gun",
@@ -95,15 +95,15 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "She must be in so much pain—lonely too!\nThat's\nwhy she comes here! I know I\nwould!"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "Yeah...",
+      "text": "She must be in so much pain—lonely too!\nThat's\nwhy she comes here! I know I\nwould!",
       "choice_data_list": [
         "I'd really like to clear away that regret.",
         "It'd be nice to help clear away that regret."
       ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Yeah..."
     },
     {
       "name": "Mayano Top Gun",
@@ -119,14 +119,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Huh?! Something just knocked on the\nwindow!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Aaah! Let's go home already! I don't\nwanna get\npossessed!",
+      "text": "Huh?! Something just knocked on the\nwindow!",
       "choice_data_list": [
         "Maybe they were saying 'thank you'."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Aaah! Let's go home already! I don't\nwanna get\npossessed!"
     },
     {
       "name": "Mayano Top Gun",
@@ -150,14 +150,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Waaah! Heeelp meee!"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "R-right!",
+      "text": "Waaah! Heeelp meee!",
       "choice_data_list": [
         "Let's chase after them!"
       ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "R-right!"
     },
     {
       "name": "Monologue",
@@ -165,14 +165,14 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "She must be really scared of ghosts..."
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "Hm... Well, she probably didn't take any\ndark and\nscary paths.",
+      "text": "She must be really scared of ghosts...",
       "choice_data_list": [
         "I wonder where she went."
       ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hm... Well, she probably didn't take any\ndark and\nscary paths."
     },
     {
       "name": "Mayano Top Gun",
@@ -188,15 +188,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "..."
-    },
-    {
-      "name": "Monologue",
-      "text": "She comes back to the dorms with us,\nbut doesn't\nsay a word the whole way\nthere.",
+      "text": "...",
       "choice_data_list": [
         "Sorry for scaring you earlier.",
         "Sorry for startling you earlier."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She comes back to the dorms with us,\nbut doesn't\nsay a word the whole way\nthere."
     },
     {
       "name": "Mayano Top Gun",

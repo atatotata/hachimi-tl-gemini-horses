@@ -31,14 +31,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "I brought ya an umbrella! This oughta\nkeep ya\ndry!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Whoops! Gosh, I'm such a scatterbrain!",
+      "text": "I brought ya an umbrella! This oughta\nkeep ya\ndry!",
       "choice_data_list": [
         "...Looks like you're not using an umbrella, though."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Whoops! Gosh, I'm such a scatterbrain!"
     },
     {
       "name": "Taiki Shuttle",
@@ -50,14 +50,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Yay, we made it back safe and sound!\nWhat a\nrelief!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Hehe! You're welcome!",
+      "text": "Yay, we made it back safe and sound!\nWhat a\nrelief!",
       "choice_data_list": [
         "That was a big help."
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hehe! You're welcome!"
     },
     {
       "name": "Taiki Shuttle",
@@ -73,7 +73,13 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Haha, I'm glad I got some use out of it!"
+      "text": "Haha, I'm glad I got some use out of it!",
+      "choice_data_list": [
+        "Thanks for coming to pick me up.",
+        "I only bought it reluctantly back then, though.",
+        "Guess you owe me one now.",
+        "Guess you owe me one now, huh?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -87,13 +93,7 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Oh, you betcha! Don't worry 'bout a\nthing!",
-      "choice_data_list": [
-        "Thanks for coming to pick me up.",
-        "I only bought it reluctantly back then, though.",
-        "Guess you owe me one now.",
-        "Guess you owe me one now, huh?"
-      ]
+      "text": "Oh, you betcha! Don't worry 'bout a\nthing!"
     },
     {
       "name": "Taiki Shuttle",

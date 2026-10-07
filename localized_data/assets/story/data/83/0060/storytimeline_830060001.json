@@ -87,7 +87,12 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ah! Hey, Trainer, you there!\nCan't you do something about Turbo!?"
+      "text": "Ah! Hey, Trainer, you there!\nCan't you do something about Turbo!?",
+      "choice_data_list": [
+        "...Why don't you try doing some promotion?",
+        "Forcing things isn't good, you know.",
+        "Forcing things isn't good, okay?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -100,12 +105,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Wait, what!?\nIf you say that—",
-      "choice_data_list": [
-        "...Why don't you try doing some promotion?",
-        "Forcing things isn't good, you know.",
-        "Forcing things isn't good, okay?"
-      ]
+      "text": "Wait, what!?\nIf you say that—"
     },
     {
       "name": "Twin Turbo",

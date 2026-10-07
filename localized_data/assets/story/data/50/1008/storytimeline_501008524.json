@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Vodka",
-      "text": "Woohoo, time for food! I've been\nlooking forward\nto this since this\nmorning! ♪"
-    },
-    {
-      "name": "Vodka",
-      "text": "Hehe! I got a special food ticket for\nhelping out\nat the cafeteria the other\nday.",
+      "text": "Woohoo, time for food! I've been\nlooking forward\nto this since this\nmorning! ♪",
       "choice_data_list": [
         "You seem to be in quite a good mood today.",
         "You seem to be in pretty good spirits today."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hehe! I got a special food ticket for\nhelping out\nat the cafeteria the other\nday."
     },
     {
       "name": "Vodka",
@@ -51,7 +51,12 @@
     },
     {
       "name": "Vodka",
-      "text": "Arrrgh! Which one do I choose?!"
+      "text": "Arrrgh! Which one do I choose?!",
+      "choice_data_list": [
+        "Let's push past this hellish spiciness!",
+        "In life, sometimes a little sweetness is important.",
+        "In life, sometimes a little sweetness is important."
+      ]
     },
     {
       "name": "Vodka",
@@ -64,12 +69,7 @@
     },
     {
       "name": "Vodka",
-      "text": "Huh?! Sh-should I really?!",
-      "choice_data_list": [
-        "Let's push past this hellish spiciness!",
-        "In life, sometimes a little sweetness is important.",
-        "In life, sometimes a little sweetness is important."
-      ]
+      "text": "Huh?! Sh-should I really?!"
     },
     {
       "name": "Vodka",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Vodka",
-      "text": "D-dammit! My vision's all blurry from the\ntears...\nI-I don't know if I can actually do\nthis!"
-    },
-    {
-      "name": "Vodka",
-      "text": "H-huh? What are you giving me? Oh,\nmilk! That's\nright, they say milk's better\nthan water for spicy\nfood!",
+      "text": "D-dammit! My vision's all blurry from the\ntears...\nI-I don't know if I can actually do\nthis!",
       "choice_data_list": [
         "Use this!",
         "Please, use this!"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "H-huh? What are you giving me? Oh,\nmilk! That's\nright, they say milk's better\nthan water for spicy\nfood!"
     },
     {
       "name": "Vodka",
@@ -133,14 +133,14 @@
     },
     {
       "name": "Vodka",
-      "text": "Man... I couldn't even manage to eat half\nof it...\nThat's so not cool..."
-    },
-    {
-      "name": "Vodka",
-      "text": "Thanks... Still, it's pretty pathetic that\nthe spice\nlevel kept me from even\nfinishing it.",
+      "text": "Man... I couldn't even manage to eat half\nof it...\nThat's so not cool...",
       "choice_data_list": [
         "Still, you worked really hard."
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Thanks... Still, it's pretty pathetic that\nthe spice\nlevel kept me from even\nfinishing it."
     },
     {
       "name": "Vodka",
@@ -168,14 +168,14 @@
     },
     {
       "name": "Vodka",
-      "text": "Th-the, uh... You know... Ngh..."
-    },
-    {
-      "name": "Vodka",
-      "text": "Nnngh!",
+      "text": "Th-the, uh... You know... Ngh...",
       "choice_data_list": [
         "You can do it!"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Nnngh!"
     },
     {
       "name": "Vodka",
@@ -187,15 +187,15 @@
     },
     {
       "name": "Vodka",
-      "text": "Man, I was so excited to use that ticket...\nI had no\nidea it was a ticket to shame..."
-    },
-    {
-      "name": "Vodka",
-      "text": "Huh? Well... Yeah, I guess. It was about\nas tasty\nas its name was ridiculous.",
+      "text": "Man, I was so excited to use that ticket...\nI had no\nidea it was a ticket to shame...",
       "choice_data_list": [
         "Still, wasn't it delicious?",
         "Still, didn't it taste good?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Huh? Well... Yeah, I guess. It was about\nas tasty\nas its name was ridiculous."
     },
     {
       "name": "Vodka",
