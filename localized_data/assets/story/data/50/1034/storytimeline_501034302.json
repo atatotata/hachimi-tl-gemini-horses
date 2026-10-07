@@ -7,14 +7,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Good. Looks like we crossed off\neverything on\nour list at that last shop!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Don't sweat it! Most of it's for me, so it'd\nbe rude\nif I didn't come.",
+      "text": "Good. Looks like we crossed off\neverything on\nour list at that last shop!",
       "choice_data_list": [
         "Thanks for keeping me company."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Don't sweat it! Most of it's for me, so it'd\nbe rude\nif I didn't come."
     },
     {
       "name": "Raffle Clerk",
@@ -38,11 +38,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Just then, I remember receiving a raffle\nticket\nfrom our last purchase."
-    },
-    {
-      "name": "Inari One",
-      "text": "Wait just a sec! That came from <i>your</i>\nshoppin'. It's\nonly right that you use it.",
+      "text": "Just then, I remember receiving a raffle\nticket\nfrom our last purchase.",
       "choice_data_list": [
         "Since I've got it, I'll give this lottery ticket to you, Inari."
       ]
@@ -55,11 +51,15 @@
       ]
     },
     {
-      "name": "Monologue",
-      "text": "The items I bought are for Inari One to\nuse. In\nother words, this ticket belongs\nto the both of us.",
+      "name": "Inari One",
+      "text": "Wait just a sec! That came from <i>your</i>\nshoppin'. It's\nonly right that you use it.",
       "choice_data_list": [
         "Then let's spin it together."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The items I bought are for Inari One to\nuse. In\nother words, this ticket belongs\nto the both of us."
     },
     {
       "name": "Inari One",
@@ -99,15 +99,15 @@
     },
     {
       "name": "Inari One",
-      "text": "Yes, yes, yeeees! Our little ol' raffle\nticket turned\ninto a grand prize! I didn't\nactually think we'd nail\nit!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Yeah! I guess pullin' it together\ncombined both\nour lucks!",
+      "text": "Yes, yes, yeeees! Our little ol' raffle\nticket turned\ninto a grand prize! I didn't\nactually think we'd nail\nit!",
       "choice_data_list": [
         "We did it, Inari!",
         "We did it, Inari!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah! I guess pullin' it together\ncombined both\nour lucks!"
     },
     {
       "name": "Inari One",
@@ -123,11 +123,7 @@
     },
     {
       "name": "Inari One",
-      "text": "So could ya hold onto it for the time\nbeing?"
-    },
-    {
-      "name": "Inari One",
-      "text": "Sure as ever! I needa focus on holdin' my\nground\nin those central races. 'Sides, if\nour trip is a\nvictory celebration, then I\ncan <i>really</i> relax!",
+      "text": "So could ya hold onto it for the time\nbeing?",
       "choice_data_list": [
         "I don't mind, but... are you sure?",
         "I don't mind, but... are you sure?"
@@ -135,14 +131,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Not a bad idea to save the goods for\nlater, yeah?"
+      "text": "Sure as ever! I needa focus on holdin' my\nground\nin those central races. 'Sides, if\nour trip is a\nvictory celebration, then I\ncan <i>really</i> relax!"
     },
     {
       "name": "Inari One",
-      "text": "Right? Now that we've got somethin' fun\nto look\nforward to, let's keep at it!",
+      "text": "Not a bad idea to save the goods for\nlater, yeah?",
       "choice_data_list": [
         "Good point!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Right? Now that we've got somethin' fun\nto look\nforward to, let's keep at it!"
     },
     {
       "name": "Raffle Clerk",
@@ -238,7 +238,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Sorry, Boss! That was our chance to\nstrike gold,\nand I blew it!"
+      "text": "Sorry, Boss! That was our chance to\nstrike gold,\nand I blew it!",
+      "choice_data_list": [
+        "There are times like that."
+      ]
     },
     {
       "name": "Inari One",
@@ -249,10 +252,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Yeah, I guess... But I wanted to win with\nstyle, not\ncramp it! Ugh, it's actually\nfriggin' frustrating!",
-      "choice_data_list": [
-        "There are times like that."
-      ]
+      "text": "Yeah, I guess... But I wanted to win with\nstyle, not\ncramp it! Ugh, it's actually\nfriggin' frustrating!"
     },
     {
       "name": "Monologue",

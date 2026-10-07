@@ -11,14 +11,14 @@
     },
     {
       "name": "Photo Shoot Staff",
-      "text": "Uh... yeah! That's fine! Try to relax your\nshoulders\na little bit more!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Just watch me, Yukino! I'm top of the\nclass when\nit comes to keeping it cool!\nFix your posture, put\non a bright smile,\nand relax! Easy breeeezy!",
+      "text": "Uh... yeah! That's fine! Try to relax your\nshoulders\na little bit more!",
       "choice_data_list": [
         "There's no need to be that nervous."
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Just watch me, Yukino! I'm top of the\nclass when\nit comes to keeping it cool!\nFix your posture, put\non a bright smile,\nand relax! Easy breeeezy!"
     },
     {
       "name": "Yukino Bijin",
@@ -26,25 +26,25 @@
     },
     {
       "name": "Photo Shoot Staff",
-      "text": "Um, how about we take a little break?"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Nngh... I'm hopeless... And Bakushin O's\ns'posed\nto go after me too. Ohhh, what\nshould I do?",
+      "text": "Um, how about we take a little break?",
       "choice_data_list": [
         "Much obliged...!"
       ]
     },
     {
       "name": "Yukino Bijin",
-      "text": "It's like I had this outfit 'specially\ndesigned\naround all my fav'rite things for\nnoth'n."
+      "text": "Nngh... I'm hopeless... And Bakushin O's\ns'posed\nto go after me too. Ohhh, what\nshould I do?"
     },
     {
       "name": "Yukino Bijin",
-      "text": "Oh... My racewear's chocked full o'\nthings y'can\nsee back in in my\nhometown.",
+      "text": "It's like I had this outfit 'specially\ndesigned\naround all my fav'rite things for\nnoth'n.",
       "choice_data_list": [
         "Your favorite motif... meaning?"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh... My racewear's chocked full o'\nthings y'can\nsee back in in my\nhometown."
     },
     {
       "name": "Yukino Bijin",
@@ -84,14 +84,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I've been think'n this for a while, but...\nyou and\nmy dad might be kinda sim'lar!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Huh? Wait, I was smil'n just now, wasn't\nI?!",
+      "text": "I've been think'n this for a while, but...\nyou and\nmy dad might be kinda sim'lar!",
       "choice_data_list": [
         "Oh, that look on your face...!"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh? Wait, I was smil'n just now, wasn't\nI?!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -139,7 +139,13 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Hehehe... Sorry for tak'n up so much\ntime, but\nthanks to you two, I managed\nt'get some pictures\neveryone back\nhome'll be proud of!"
+      "text": "Hehehe... Sorry for tak'n up so much\ntime, but\nthanks to you two, I managed\nt'get some pictures\neveryone back\nhome'll be proud of!",
+      "choice_data_list": [
+        "You worked hard!",
+        "You worked hard!",
+        "That was a great photo.",
+        "That was a great photo."
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -153,13 +159,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Thanks! It was kinda hard, but think'n\nabout back\nhome always makes me\nsmile!",
-      "choice_data_list": [
-        "You worked hard!",
-        "You worked hard!",
-        "That was a great photo.",
-        "That was a great photo."
-      ]
+      "text": "Thanks! It was kinda hard, but think'n\nabout back\nhome always makes me\nsmile!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -171,14 +171,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I agree! These photos deserve an A plus!\nThey\nshow just how bright and awesome\nyou are!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Aw, shucks! Heap this much praise on me\nand I'm\nlikely t'die of embarrassment!\n...Hehehe!",
+      "text": "I agree! These photos deserve an A plus!\nThey\nshow just how bright and awesome\nyou are!",
       "choice_data_list": [
         "Yep, yep!"
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Aw, shucks! Heap this much praise on me\nand I'm\nlikely t'die of embarrassment!\n...Hehehe!"
     }
   ]
 }

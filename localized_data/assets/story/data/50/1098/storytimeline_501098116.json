@@ -15,27 +15,27 @@
     },
     {
       "name": "Hokko Tarumae",
-      "text": "...I'm sorry."
-    },
-    {
-      "name": "Monologue",
-      "text": "She only spoke so firmly because she\nknows\nCopano Rickey's true strength.\nAnd besides, it\nsounds like she regrets\ntaking that tone.",
+      "text": "...I'm sorry.",
       "choice_data_list": [
         "Don't worry about it.",
         "No, don't worry about it."
       ]
     },
     {
-      "name": "Hokko Tarumae",
-      "text": "So... how has Rickey been at training?"
+      "name": "Monologue",
+      "text": "She only spoke so firmly because she\nknows\nCopano Rickey's true strength.\nAnd besides, it\nsounds like she regrets\ntaking that tone."
     },
     {
       "name": "Hokko Tarumae",
-      "text": "<i>Super</i> energetic? That must mean...",
+      "text": "So... how has Rickey been at training?",
       "choice_data_list": [
         "Yeah, I'm full of energy!",
         "Yeah, I'm feeling super energetic!"
       ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Super</i> energetic? That must mean..."
     },
     {
       "name": "Hokko Tarumae",
@@ -59,23 +59,23 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Trainer! How was my time?!"
-    },
-    {
-      "name": "Monologue",
-      "text": "She may be able to fake her attitude,\nbut she\ncan't fake a good performance.",
+      "text": "Trainer! How was my time?!",
       "choice_data_list": [
         "...This isn't good. Your form is totally out of sync, too.",
         "...This isn't good. Your form is totally out of sync, too."
       ]
     },
     {
-      "name": "Copano Rickey",
-      "text": "Huh? Don't worry? About what? I'm\ncompletely\nfine...",
+      "name": "Monologue",
+      "text": "She may be able to fake her attitude,\nbut she\ncan't fake a good performance.",
       "choice_data_list": [
         "Rickey, just try not to worry too much about it.",
         "Rickey, just make sure not to worry too much about it."
       ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Huh? Don't worry? About what? I'm\ncompletely\nfine..."
     },
     {
       "name": "Monologue",
@@ -127,14 +127,14 @@
     },
     {
       "name": "Monologue",
-      "text": "...I agree. It's this combination of\npersonality\ntraits that can sometimes\ncause\nmisunderstandings."
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Hmm... I don't really know. But I think\neveryone\ndoes their best when they can\nstay on course and\nstick to whatever\ntheir goals are.",
+      "text": "...I agree. It's this combination of\npersonality\ntraits that can sometimes\ncause\nmisunderstandings.",
       "choice_data_list": [
         "What do you think we should do?"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hmm... I don't really know. But I think\neveryone\ndoes their best when they can\nstay on course and\nstick to whatever\ntheir goals are."
     },
     {
       "name": "Smart Falcon",
@@ -150,11 +150,7 @@
     },
     {
       "name": "Monologue",
-      "text": "If we have any hope of getting through\nthis..."
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "A favor? What is it?",
+      "text": "If we have any hope of getting through\nthis...",
       "choice_data_list": [
         "Smart Falcon, I have a favor to ask.",
         "Smart Falcon, I have a favor to ask."
@@ -162,11 +158,15 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Pump Rickey up?",
+      "text": "A favor? What is it?",
       "choice_data_list": [
         "Could you cheer Rickey up?",
         "Could you maybe cheer Rickey up?"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pump Rickey up?"
     },
     {
       "name": "Monologue",
@@ -194,14 +194,14 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "What are we doing here, Trainer? What\nabout\ntoday's training?"
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "The stage?",
+      "text": "What are we doing here, Trainer? What\nabout\ntoday's training?",
       "choice_data_list": [
         "Just watch the stage."
       ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "The stage?"
     },
     {
       "name": "Copano Rickey",
@@ -345,15 +345,15 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "It was you, wasn't it, Trainer? You asked\nFalco for\nher help, right?"
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "I'm more than a bit better! ♪ I'm so\nenergized I\nfeel like I could fly!",
+      "text": "It was you, wasn't it, Trainer? You asked\nFalco for\nher help, right?",
       "choice_data_list": [
         "Yeah. If that cheered you up even a little, I'm glad.",
         "Yeah. If that cheered you up even a little, I'm glad."
       ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I'm more than a bit better! ♪ I'm so\nenergized I\nfeel like I could fly!"
     },
     {
       "name": "Copano Rickey",

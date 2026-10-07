@@ -7,28 +7,28 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "\"Get the scare of your life at our\nhaunted\nmansion!\" That place looks gas!\nWe've gotta go\ncheck it out!"
+      "text": "\"Get the scare of your life at our\nhaunted\nmansion!\" That place looks gas!\nWe've gotta go\ncheck it out!",
+      "choice_data_list": [
+        "Alright, let's go!"
+      ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "No cap, I'm so curious about what they\nmean with\nthe whole \"now with 300%\nmore monsters\" thing!",
       "choice_data_list": [
-        "Alright, let's go!"
+        "It does sound impressive, but..."
       ]
     },
     {
       "name": "???",
       "text": "<i>Thump, thump, thump!</i>",
       "choice_data_list": [
-        "It does sound impressive, but..."
+        "Hm?"
       ]
     },
     {
       "name": "Horde of Zombies",
-      "text": "Rwaaahhh! Braaains... BRAAAIIINSSS!",
-      "choice_data_list": [
-        "Hm?"
-      ]
+      "text": "Rwaaahhh! Braaains... BRAAAIIINSSS!"
     },
     {
       "name": "Mejiro Palmer",
@@ -36,21 +36,21 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Let's get outta here!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Ahahaha! That was, like, the best! There\nwere so\nmany zombies at the end, it was\nlike being\nsquashed on the morning rush\nhour train!",
+      "text": "Let's get outta here!",
       "choice_data_list": [
         "Waaaahhhh...!"
       ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Oh! Since we've gone through hell, how\nabout we\nsee what paradise is like next?\nEveryone online's\nbeen obsessed about\nthis one ride!",
+      "text": "Ahahaha! That was, like, the best! There\nwere so\nmany zombies at the end, it was\nlike being\nsquashed on the morning rush\nhour train!",
       "choice_data_list": [
         "I-I've seen hell..."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Oh! Since we've gone through hell, how\nabout we\nsee what paradise is like next?\nEveryone online's\nbeen obsessed about\nthis one ride!"
     },
     {
       "name": "Mejiro Palmer",
@@ -62,11 +62,7 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Wh-whoa! We're so high up! The view is\ntotal fire!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Ahaha! True... We're almost at the top\nnow... Here\nwe go... Here we go!",
+      "text": "Wh-whoa! We're so high up! The view is\ntotal fire!",
       "choice_data_list": [
         "Though I'm gonna fall right now...!",
         "Though I'm about to drop right now...!"
@@ -74,26 +70,30 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "WOOOOO! AWESOOOME!"
+      "text": "Ahaha! True... We're almost at the top\nnow... Here\nwe go... Here we go!"
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Let's see, I gotta get souvenirs for my\nsquad, my\nclassmates, and some of the\nyounger students...\nOh, I should get\nsomething for the academy's\nstaff, too...",
+      "text": "WOOOOO! AWESOOOME!",
       "choice_data_list": [
         "HEAVEEEN!!"
       ]
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Man, I have way too many people to get\ngifts for!\nI don't even know if I can carry\nthem all back with\nme!"
+      "text": "Let's see, I gotta get souvenirs for my\nsquad, my\nclassmates, and some of the\nyounger students...\nOh, I should get\nsomething for the academy's\nstaff, too..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Wait, are you being for real?",
+      "text": "Man, I have way too many people to get\ngifts for!\nI don't even know if I can carry\nthem all back with\nme!",
       "choice_data_list": [
         "Let's split them up and carry them together!",
         "Let's split it up and carry it together!"
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Wait, are you being for real?"
     },
     {
       "name": "Mejiro Palmer",
@@ -109,15 +109,15 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "All right, we made it! We're sure to get a\nclear\nview of the fireworks from here!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Isn't it just? I heard about this secret\nspot online!\nGetting here was a real\npain, but we've got this\nwhole area to\nourselves!",
+      "text": "All right, we made it! We're sure to get a\nclear\nview of the fireworks from here!",
       "choice_data_list": [
         "Seems like a nice little hidden gem.",
         "Seems like a nice little hidden gem."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Isn't it just? I heard about this secret\nspot online!\nGetting here was a real\npain, but we've got this\nwhole area to\nourselves!"
     },
     {
       "name": "Monologue",
@@ -137,14 +137,14 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Whaddya think? Are you feeling the\nvibes?"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Hehe! I knew you'd enjoy yourself!",
+      "text": "Whaddya think? Are you feeling the\nvibes?",
       "choice_data_list": [
         "Of course!"
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hehe! I knew you'd enjoy yourself!"
     },
     {
       "name": "Mejiro Palmer",
@@ -176,14 +176,14 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "That's why you always let me have my\nway."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Yeah, okay, but like! I'm usually the one\ngiving\nother people support and stuff, so\nit's weird being\nthe one <i>getting</i> so much\nsupport!",
+      "text": "That's why you always let me have my\nway.",
       "choice_data_list": [
         "Nothing could be more rewarding for a Trainer."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Yeah, okay, but like! I'm usually the one\ngiving\nother people support and stuff, so\nit's weird being\nthe one <i>getting</i> so much\nsupport!"
     },
     {
       "name": "Mejiro Palmer",
@@ -191,11 +191,7 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "But yeah. Thanks. Thanks for being there\nfor me.\nI'm so glad we met!"
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Oop, now you've said it! No take-backs,\nthough!\nYou'd better not regret it when I\nsend you running\nerrands for me left and\nright!",
+      "text": "But yeah. Thanks. Thanks for being there\nfor me.\nI'm so glad we met!",
       "choice_data_list": [
         "You can lean on me even more, you know.",
         "Let's stay close and support one another!",
@@ -204,10 +200,14 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Ooh, you know what?",
+      "text": "Oop, now you've said it! No take-backs,\nthough!\nYou'd better not regret it when I\nsend you running\nerrands for me left and\nright!",
       "choice_data_list": [
         "G-Go easy on me..."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Ooh, you know what?"
     },
     {
       "name": "Mejiro Palmer",
@@ -239,14 +239,14 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh? I don't think I did anything worthy\nof\ngetting thanked for."
-    },
-    {
-      "name": "Mejiro Palmer",
-      "text": "Hehe. Is that what you meant? But\ny'know, it's\nthanks to you that I feel\ncomfortable with being\nso open.",
+      "text": "Huh? I don't think I did anything worthy\nof\ngetting thanked for.",
       "choice_data_list": [
         "Because I'm glad I understand Palmer a little better."
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hehe. Is that what you meant? But\ny'know, it's\nthanks to you that I feel\ncomfortable with being\nso open."
     },
     {
       "name": "Mejiro Palmer",

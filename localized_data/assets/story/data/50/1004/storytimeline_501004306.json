@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Hey, Trainer! Thanks for coming to see\nme!"
+      "text": "Hey, Trainer! Thanks for coming to see\nme!",
+      "choice_data_list": [
+        "How did it feel?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -14,10 +17,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh, it was great! It always feels so good\nto run!",
-      "choice_data_list": [
-        "How did it feel?"
-      ]
+      "text": "Oh, it was great! It always feels so good\nto run!"
     },
     {
       "name": "Maruzensky",
@@ -61,15 +61,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "The race coming up is considered the\nmost\nprestigious of the year, after all..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "It's a huge spectacle, and I'm going to\ngive\neveryone a race that'll have them\nglued to their\nseats!",
+      "text": "The race coming up is considered the\nmost\nprestigious of the year, after all...",
       "choice_data_list": [
         "The Japanese Derby!",
         "It's the Japanese Derby!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "It's a huge spectacle, and I'm going to\ngive\neveryone a race that'll have them\nglued to their\nseats!"
     },
     {
       "name": "Special Week",

@@ -19,14 +19,14 @@
     },
     {
       "name": "Monologue",
-      "text": "A man has suddenly shown up behind\nHishi\nAkebono and is screaming at her,\neven though\nthere's plenty of room for\nhim to walk by."
-    },
-    {
-      "name": "Monologue",
-      "text": "...But I'm not alone here, and there's no\nway I can\nrisk escalating this and\ndragging Hishi Akebono\ninto some kind\nof incident. I restrain myself, and\nthe\nman sneers at us and leaves.",
+      "text": "A man has suddenly shown up behind\nHishi\nAkebono and is screaming at her,\neven though\nthere's plenty of room for\nhim to walk by.",
       "choice_data_list": [
         "(I wish I could talk back...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "...But I'm not alone here, and there's no\nway I can\nrisk escalating this and\ndragging Hishi Akebono\ninto some kind\nof incident. I restrain myself, and\nthe\nman sneers at us and leaves."
     },
     {
       "name": "Hishi Akebono",
@@ -34,15 +34,15 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Thanks for getting all worked up on my\naccount,\nbut I like it better when you're\nsmiling!"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "But what if I <i>was</i> in the way? There's\nnothing\nwrong with being big and tall,\nbut I should still be\ncareful not to get in\nthe way.",
+      "text": "Thanks for getting all worked up on my\naccount,\nbut I like it better when you're\nsmiling!",
       "choice_data_list": [
         "Even though you didn't do anything wrong...",
         "Even though you did nothing wrong."
       ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "But what if I <i>was</i> in the way? There's\nnothing\nwrong with being big and tall,\nbut I should still be\ncareful not to get in\nthe way."
     },
     {
       "name": "Hishi Akebono",
@@ -78,14 +78,14 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Maybe if I try glaring, I can pull off that\nintensity\ntoo... There! Am I doing it\nright? Do I look scary?"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Ahaha! Geez, it sure is hard to look\nintimidating!",
+      "text": "Maybe if I try glaring, I can pull off that\nintensity\ntoo... There! Am I doing it\nright? Do I look scary?",
       "choice_data_list": [
         "You've got a smile on your face."
       ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ahaha! Geez, it sure is hard to look\nintimidating!"
     },
     {
       "name": "Monologue",
@@ -101,7 +101,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Hishi Amazon is chuckling and cracking\nher\nknuckles, ready for a brawl, but\nnothing good will\ncome of that. I have to\ndefuse the situation!"
+      "text": "Hishi Amazon is chuckling and cracking\nher\nknuckles, ready for a brawl, but\nnothing good will\ncome of that. I have to\ndefuse the situation!",
+      "choice_data_list": [
+        "You two, knock it off.",
+        "Cut it out, you two.",
+        "Help me, Officer!!"
+      ]
     },
     {
       "name": "Monologue",
@@ -114,12 +119,7 @@
     },
     {
       "name": "Hunched Man",
-      "text": "What? What do you want? Huh?!",
-      "choice_data_list": [
-        "You two, knock it off.",
-        "Cut it out, you two.",
-        "Help me, Officer!!"
-      ]
+      "text": "What? What do you want? Huh?!"
     },
     {
       "name": "Hishi Akebono",
@@ -195,14 +195,14 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "O-oh, but I barely did anything... Right,\nTrainer?"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Does that mean the officer spotted us\nbecause\nI'm so tall? Wow...",
+      "text": "O-oh, but I barely did anything... Right,\nTrainer?",
       "choice_data_list": [
         "It was hard to find you just from your voice."
       ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Does that mean the officer spotted us\nbecause\nI'm so tall? Wow..."
     },
     {
       "name": "Hishi Akebono",

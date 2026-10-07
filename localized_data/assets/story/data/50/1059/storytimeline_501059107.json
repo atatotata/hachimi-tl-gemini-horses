@@ -7,15 +7,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hey, Trainer, do you have a minute?"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Nothing. It's just... Well, today's\nValentine's Day.",
+      "text": "Hey, Trainer, do you have a minute?",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nothing. It's just... Well, today's\nValentine's Day."
     },
     {
       "name": "Mejiro Dober",
@@ -35,14 +35,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "It's from a famous store, so it should\ntaste good."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...",
+      "text": "It's from a famous store, so it should\ntaste good.",
       "choice_data_list": [
         "Thanks!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
     },
     {
       "name": "Mejiro Bright",
@@ -82,7 +82,11 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "It's more fun to make chocolates\ntogether, isn't\nit?"
+      "text": "It's more fun to make chocolates\ntogether, isn't\nit?",
+      "choice_data_list": [
+        "I want to express my gratitude with chocolate too.",
+        "I want to express my gratitude with chocolates too."
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -96,8 +100,7 @@
       "name": "Mejiro Dober",
       "text": "Huh. So you have someone you want to\nthank\ntoo...",
       "choice_data_list": [
-        "I want to express my gratitude with chocolate too.",
-        "I want to express my gratitude with chocolates too."
+        "Curious?"
       ]
     },
     {
@@ -109,10 +112,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "A-as if! Stop saying weird things and get\nback to\nwork!",
-      "choice_data_list": [
-        "Curious?"
-      ]
+      "text": "A-as if! Stop saying weird things and get\nback to\nwork!"
     },
     {
       "name": "Mejiro Dober",
@@ -152,14 +152,14 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Hehe. I'll just help myself to the pieces\nyou two\nmade!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "What?! Wait, I'm not emotionally\nprepared for\nthis!",
+      "text": "Hehe. I'll just help myself to the pieces\nyou two\nmade!",
       "choice_data_list": [
         "Dober, can I have one?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What?! Wait, I'm not emotionally\nprepared for\nthis!"
     },
     {
       "name": "Mejiro Dober",
@@ -215,11 +215,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Urgh... Briiight!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "D-don't say it like that! It makes me feel\neven\nmore—",
+      "text": "Urgh... Briiight!",
       "choice_data_list": [
         "...Guess it's just the two of us now, huh?",
         "...Guess it's just the two of us now, right?"
@@ -227,11 +223,19 @@
     },
     {
       "name": "Mejiro Dober",
+      "text": "D-don't say it like that! It makes me feel\neven\nmore—"
+    },
+    {
+      "name": "Mejiro Dober",
       "text": "You don't have to mind what Bright said\nearlier."
     },
     {
       "name": "Mejiro Dober",
-      "text": "More what? Ugh, I'm such an idiot!"
+      "text": "More what? Ugh, I'm such an idiot!",
+      "choice_data_list": [
+        "For now, have something sweet and calm down.",
+        "The one I want to give it to is Dober."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -245,8 +249,8 @@
       "name": "Mejiro Dober",
       "text": "Something sweet? Wait, do you mean\nlike\nchocolate?",
       "choice_data_list": [
-        "For now, have something sweet and calm down.",
-        "The one I want to give it to is Dober."
+        "Happy Valentine's Day! ...Even if it's a bit clumsy-looking.",
+        "It might be clumsy, but I put my whole heart into it."
       ]
     },
     {
@@ -259,11 +263,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Wh-wh-wh—",
-      "choice_data_list": [
-        "Happy Valentine's Day! ...Even if it's a bit clumsy-looking.",
-        "It might be clumsy, but I put my whole heart into it."
-      ]
+      "text": "Wh-wh-wh—"
     },
     {
       "name": "Mejiro Dober",

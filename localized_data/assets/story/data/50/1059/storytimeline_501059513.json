@@ -23,14 +23,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She seems bothered by the presence of\nother\ntrainers watching her run."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "All I said is that I wanted to take a\nbreak!",
+      "text": "She seems bothered by the presence of\nother\ntrainers watching her run.",
       "choice_data_list": [
         "Want to skip training today?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "All I said is that I wanted to take a\nbreak!"
     },
     {
       "name": "Mejiro Dober",
@@ -54,25 +54,25 @@
     },
     {
       "name": "Monologue",
-      "text": "At times like this, I wonder if her\nprevious trainer\nwould have been able to\nsympathize with her\nmore..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I chase after Mejiro Dober and search all\nover the\nacademy before finally finding\nher.",
+      "text": "At times like this, I wonder if her\nprevious trainer\nwould have been able to\nsympathize with her\nmore...",
       "choice_data_list": [
         "(No, this is no time to be feeling down!)"
       ]
     },
     {
-      "name": "Mejiro Dober",
-      "text": "...I told you I was fine."
+      "name": "Monologue",
+      "text": "I chase after Mejiro Dober and search all\nover the\nacademy before finally finding\nher."
     },
     {
       "name": "Mejiro Dober",
-      "text": "What are you apologizing for?",
+      "text": "...I told you I was fine.",
       "choice_data_list": [
         "Sorry. I was just so worried..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What are you apologizing for?"
     },
     {
       "name": "Mejiro Dober",
@@ -112,14 +112,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I'm worried that my running will bring\nshame to\nthe Mejiro name..."
+      "text": "I'm worried that my running will bring\nshame to\nthe Mejiro name...",
+      "choice_data_list": [
+        "I understand. I feel the same way.",
+        "I understand. I feel the same."
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "How could you? Don't just say whatever\nto try\nand console me!",
       "choice_data_list": [
-        "I understand. I feel the same way.",
-        "I understand. I feel the same."
+        "Meaning no one can match a great senior, of course."
       ]
     },
     {
@@ -131,10 +134,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Oh...",
-      "choice_data_list": [
-        "Meaning no one can match a great senior, of course."
-      ]
+      "text": "Oh..."
     },
     {
       "name": "Mejiro Dober",
@@ -158,7 +158,12 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Nothing good will come from running\naway.\nBesides, it would be irritating if I\nlost to you."
+      "text": "Nothing good will come from running\naway.\nBesides, it would be irritating if I\nlost to you.",
+      "choice_data_list": [
+        "That's the spirit!",
+        "That's the spirit!",
+        "There's no need to push yourself right away."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -171,12 +176,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Cut it out with that chipper attitude!\nUgh!",
-      "choice_data_list": [
-        "That's the spirit!",
-        "That's the spirit!",
-        "There's no need to push yourself right away."
-      ]
+      "text": "Cut it out with that chipper attitude!\nUgh!"
     },
     {
       "name": "Mejiro Dober",
@@ -228,7 +228,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "But I have to try..."
+      "text": "But I have to try...",
+      "choice_data_list": [
+        "You can find challenges anywhere."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -239,10 +242,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Anywhere?",
-      "choice_data_list": [
-        "You can find challenges anywhere."
-      ]
+      "text": "...Anywhere?"
     },
     {
       "name": "Mejiro Dober",

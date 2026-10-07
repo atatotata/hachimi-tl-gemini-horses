@@ -7,7 +7,10 @@
     },
     {
       "name": "Girl",
-      "text": "Hi, mister! Let's play!"
+      "text": "Hi, mister! Let's play!",
+      "choice_data_list": [
+        "Um...?"
+      ]
     },
     {
       "name": "Girl",
@@ -18,10 +21,7 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Oh, sorry about her!",
-      "choice_data_list": [
-        "Um...?"
-      ]
+      "text": "Oh, sorry about her!"
     },
     {
       "name": "Ines Fujin",
@@ -33,14 +33,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Would you like to join us? Only if you\nwant to, of\ncourse! Whaddya say?"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Yay! Thanks a bunch!",
+      "text": "Would you like to join us? Only if you\nwant to, of\ncourse! Whaddya say?",
       "choice_data_list": [
         "Sure."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yay! Thanks a bunch!"
     },
     {
       "name": "Ines Fujin",
@@ -48,15 +48,15 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Oh, but don't feel obligated to go\nall-out with us\nor anything! I know you're\nprobably tired from\nwork and all."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Phew, great work! Who knew playing tag\nat such\na leisurely pace would be so fun!",
+      "text": "Oh, but don't feel obligated to go\nall-out with us\nor anything! I know you're\nprobably tired from\nwork and all.",
       "choice_data_list": [
         "Keep it casual and just have fun.",
         "Play with all our might!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Phew, great work! Who knew playing tag\nat such\na leisurely pace would be so fun!"
     },
     {
       "name": "Ines Fujin",

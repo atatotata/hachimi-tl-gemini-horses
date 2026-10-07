@@ -7,33 +7,33 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Waaah?!"
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Come on! What's with that reaction? Are\nyou\nmaking fun of my magic powers?!",
+      "text": "Waaah?!",
       "choice_data_list": [
         "Was that Kitasan screaming?!"
       ]
     },
     {
-      "name": "Kitasan Black",
-      "text": "No, I'm not! Not at all!"
+      "name": "Sweep Tosho",
+      "text": "Come on! What's with that reaction? Are\nyou\nmaking fun of my magic powers?!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Oh, hey Trainer. Wanna join us? I'm\nacting as a\ntest subject for a magic\nexperiment!",
+      "text": "No, I'm not! Not at all!",
       "choice_data_list": [
         "What are you doing...?",
         "What are you doing...?"
       ]
     },
     {
-      "name": "Sweep Tosho",
-      "text": "Heh! Grandma taught me a new charm!\nIt's a spell\nthat makes you <i>really</i>\nmotivated!",
+      "name": "Kitasan Black",
+      "text": "Oh, hey Trainer. Wanna join us? I'm\nacting as a\ntest subject for a magic\nexperiment!",
       "choice_data_list": [
         "A test subject?"
       ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Heh! Grandma taught me a new charm!\nIt's a spell\nthat makes you <i>really</i>\nmotivated!"
     },
     {
       "name": "Sweep Tosho",
@@ -45,7 +45,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Despite the high standards Sweep Tosho\nis\nholding her to, Kitasan Black goes\nalong with her\ndemands without\ncomplaint. I wonder..."
+      "text": "Despite the high standards Sweep Tosho\nis\nholding her to, Kitasan Black goes\nalong with her\ndemands without\ncomplaint. I wonder...",
+      "choice_data_list": [
+        "Enduring torment from an evil witch...?!",
+        "You really don't want Sweep Tosho to hate you, huh.",
+        "You really don't want Sweep Tosho to hate you, huh."
+      ]
     },
     {
       "name": "Monologue",
@@ -58,12 +63,7 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "EXCUSE ME?! No one's getting bullied\nhere! And\nI'm not an evil witch, I'll have\nyou know!",
-      "choice_data_list": [
-        "Enduring torment from an evil witch...?!",
-        "You really don't want Sweep Tosho to hate you, huh.",
-        "You really don't want Sweep Tosho to hate you, huh."
-      ]
+      "text": "EXCUSE ME?! No one's getting bullied\nhere! And\nI'm not an evil witch, I'll have\nyou know!"
     },
     {
       "name": "Sweep Tosho",
@@ -95,15 +95,15 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "She's a bit awkward with her feelings,\nwhich\nsometimes leads to people\nmisunderstanding\nher... But she has a\nreally kind heart."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Hehe. Yeah, but I'm glad I could tell you\nall the\ngood things about my awesome\nfriend!",
+      "text": "She's a bit awkward with her feelings,\nwhich\nsometimes leads to people\nmisunderstanding\nher... But she has a\nreally kind heart.",
       "choice_data_list": [
         "I see, so I was worrying over nothing.",
         "I see. So I was worrying over nothing, then."
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hehe. Yeah, but I'm glad I could tell you\nall the\ngood things about my awesome\nfriend!"
     },
     {
       "name": "Sweep Tosho",
@@ -127,14 +127,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Sweep?! Oh no, what should we do now?"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "You're right!",
+      "text": "Sweep?! Oh no, what should we do now?",
       "choice_data_list": [
         "Let's chase after them for now!"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "You're right!"
     },
     {
       "name": "Kitasan Black",
@@ -238,14 +238,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Ah... haha... I ended up being blasted by\nmagic\nover and over again."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Hmm... Well...",
+      "text": "Ah... haha... I ended up being blasted by\nmagic\nover and over again.",
       "choice_data_list": [
         "Actually, maybe you succeeded at least once?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hmm... Well..."
     },
     {
       "name": "Sweep Tosho",

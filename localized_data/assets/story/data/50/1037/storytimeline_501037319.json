@@ -11,27 +11,27 @@
     },
     {
       "name": "Monologue",
-      "text": "So, I take her to the Tokyo Racecourse."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "...!",
+      "text": "So, I take her to the Tokyo Racecourse.",
       "choice_data_list": [
         "You won a whole lot of G1 races right here.",
         "You won a whole lot of G1 races right here."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Not only has she won many high-level\nG1 races,\nshe's really made a name for\nherself here at the\nTokyo Racecourse."
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "Eishin Flash",
-      "text": "...Thank you very much.",
+      "name": "Monologue",
+      "text": "Not only has she won many high-level\nG1 races,\nshe's really made a name for\nherself here at the\nTokyo Racecourse.",
       "choice_data_list": [
         "That's an incredible record.",
         "That's an impressive record."
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Thank you very much."
     },
     {
       "name": "Eishin Flash",
@@ -59,11 +59,7 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "That's how strong an impression it left on\nme."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "...!",
+      "text": "That's how strong an impression it left on\nme.",
       "choice_data_list": [
         "You were truly beautiful that day.",
         "You were truly beautiful that day."
@@ -71,14 +67,18 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "...Thank you ever so much. I'm touched."
+      "text": "...!"
     },
     {
       "name": "Eishin Flash",
-      "text": "I'd love that.",
+      "text": "...Thank you ever so much. I'm touched.",
       "choice_data_list": [
         "Let's share lots of memories today."
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "I'd love that."
     }
   ]
 }

@@ -3,7 +3,12 @@
   "text_block_list": [
     {
       "name": "Narita Taishin",
-      "text": "I lost again?! How? I thought I would win\nfor sure\nthis time!"
+      "text": "I lost again?! How? I thought I would win\nfor sure\nthis time!",
+      "choice_data_list": [
+        "Let's take our time and not rush.",
+        "We've got no time to mope around!",
+        "There's no time to mope around!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -16,24 +21,19 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Come on! Are you serious?!",
-      "choice_data_list": [
-        "Let's take our time and not rush.",
-        "We've got no time to mope around!",
-        "There's no time to mope around!"
-      ]
+      "text": "Come on! Are you serious?!"
     },
     {
       "name": "Narita Taishin",
-      "text": "If I just sit back and smell the roses, I'm\ngonna be\nleft in the dust!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Hnngh!",
+      "text": "If I just sit back and smell the roses, I'm\ngonna be\nleft in the dust!",
       "choice_data_list": [
         "There are things you can see better when you're calm, you know.",
         "There are things you can see when you're calm, you know."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hnngh!"
     },
     {
       "name": "Narita Taishin",
@@ -49,14 +49,14 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "What are you doing here?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "You've been standing here this whole\ntime just for\nthat?",
+      "text": "What are you doing here?",
       "choice_data_list": [
         "I wanted to apologize for what happened in the waiting room."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "You've been standing here this whole\ntime just for\nthat?"
     },
     {
       "name": "Narita Taishin",
@@ -68,14 +68,14 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "You were right. I was able to see what\nwas wrong.\nI still have a long ways to go."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Yeah, sure. What are we still standing\nhere and\ntalking for, then?",
+      "text": "You were right. I was able to see what\nwas wrong.\nI still have a long ways to go.",
       "choice_data_list": [
         "We'll overcome that together!"
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yeah, sure. What are we still standing\nhere and\ntalking for, then?"
     },
     {
       "name": "Narita Taishin",
@@ -91,11 +91,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm just mad at myself for being so\npathetic!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "What are you on about?",
+      "text": "I'm just mad at myself for being so\npathetic!",
       "choice_data_list": [
         "Turn that frustration into fuel!",
         "Channel that frustration into fuel!"
@@ -103,10 +99,14 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Tomorrow?!",
+      "text": "What are you on about?",
       "choice_data_list": [
         "And starting tomorrow, let's train like crazy!"
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tomorrow?!"
     },
     {
       "name": "Narita Taishin",

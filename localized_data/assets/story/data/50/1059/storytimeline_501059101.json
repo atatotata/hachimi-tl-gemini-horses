@@ -39,7 +39,10 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Oh, Dober's trainer! Happy New Year!"
+      "text": "Oh, Dober's trainer! Happy New Year!",
+      "choice_data_list": [
+        "Happy New Year to both of you."
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -50,10 +53,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Here's to another year together.",
-      "choice_data_list": [
-        "Happy New Year to both of you."
-      ]
+      "text": "...Here's to another year together."
     },
     {
       "name": "Mejiro Dober",
@@ -105,25 +105,25 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Uh..."
-    },
-    {
-      "name": "Reporter A",
-      "text": "We'd prefer to hear from Mejiro Dober\nherself!",
+      "text": "Uh...",
       "choice_data_list": [
         "I'll take any questions for now."
       ]
     },
     {
       "name": "Reporter A",
-      "text": "Please, Miss Dober! Your fans would\nlove to hear\nwhat you have to—"
+      "text": "We'd prefer to hear from Mejiro Dober\nherself!"
     },
     {
-      "name": "Mejiro Dober",
-      "text": "Trainer...",
+      "name": "Reporter A",
+      "text": "Please, Miss Dober! Your fans would\nlove to hear\nwhat you have to—",
       "choice_data_list": [
         "That includes thisâplease make sure you always run things through me!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer..."
     },
     {
       "name": "Reporter B",
@@ -187,15 +187,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Nothing like that has ever happened\nbefore..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...On me?",
+      "text": "Nothing like that has ever happened\nbefore...",
       "choice_data_list": [
         "That just shows how much attention you're getting.",
         "That just shows how much attention you're getting."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...On me?"
     },
     {
       "name": "Mejiro Bright",
@@ -219,15 +219,15 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Isn't that right? ♪"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "R-right...",
+      "text": "Isn't that right? ♪",
       "choice_data_list": [
         "Of course, that's the plan.",
         "Of course, that's the plan."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "R-right..."
     },
     {
       "name": "Monologue",
@@ -235,16 +235,16 @@
     },
     {
       "name": "Monologue",
-      "text": "Since it's New Year's, I suggest a\n\nholiday-appropriate activity."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "What?! Where'd that come from?",
+      "text": "Since it's New Year's, I suggest a\n\nholiday-appropriate activity.",
       "choice_data_list": [
         "Let's play karuta!",
         "Let's eat some ozoni!",
         "Let's do some New Year's calligraphy!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What?! Where'd that come from?"
     },
     {
       "name": "Mejiro Dober",

@@ -11,14 +11,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I find myself wondering what kind of\npicture\nbooks Rice Shower normally\nreads."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "You want to come with me? I'd love that!",
+      "text": "I find myself wondering what kind of\npicture\nbooks Rice Shower normally\nreads.",
       "choice_data_list": [
         "If you don't mind, do you think I could tag along?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "You want to come with me? I'd love that!"
     },
     {
       "name": "Rice Shower",
@@ -42,14 +42,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Sigh...</i> I really wanted to read that\nbook..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...Yeah. I always feel so calm when I read\nthem...",
+      "text": "<i>Sigh...</i> I really wanted to read that\nbook...",
       "choice_data_list": [
         "You really do love picture books, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Yeah. I always feel so calm when I read\nthem..."
     },
     {
       "name": "Rice Shower",
@@ -61,11 +61,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I was really excited today..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Huh?",
+      "text": "I was really excited today...",
       "choice_data_list": [
         "Shall we walk around and look for another shop?",
         "I wonder if we could make a reservation?"
@@ -73,7 +69,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "N-no, I couldn't trouble you..."
+      "text": "Huh?"
     },
     {
       "name": "Rice Shower",
@@ -84,10 +80,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Um...",
+      "text": "N-no, I couldn't trouble you...",
       "choice_data_list": [
         "Now I'm curious about the picture book you want to read, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um..."
     },
     {
       "name": "Rice Shower",
@@ -119,18 +119,21 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Huh? R-reserving a copy? I wonder..."
-    },
-    {
-      "name": "Monologue",
-      "text": "We manage to reserve a copy, due to\narrive in\nthe next shipment!",
+      "text": "Huh? R-reserving a copy? I wonder...",
       "choice_data_list": [
         "Let's ask the staff!"
       ]
     },
     {
+      "name": "Monologue",
+      "text": "We manage to reserve a copy, due to\narrive in\nthe next shipment!"
+    },
+    {
       "name": "Rice Shower",
-      "text": "Thank you, Big Brother! I never would\nhave\nthought to reserve a copy..."
+      "text": "Thank you, Big Brother! I never would\nhave\nthought to reserve a copy...",
+      "choice_data_list": [
+        "Because I wanted to read it with you."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -141,10 +144,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Then... let's read it together when it\ncomes.",
-      "choice_data_list": [
-        "Because I wanted to read it with you."
-      ]
+      "text": "Then... let's read it together when it\ncomes."
     },
     {
       "name": "Rice Shower",

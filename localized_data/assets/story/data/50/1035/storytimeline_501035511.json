@@ -19,15 +19,15 @@
     },
     {
       "name": "Monologue",
-      "text": "On their table is something like a huge\nwall... But\non second glance, I realize it's\na giant, half-eaten\nhamburger."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Oh, Trainer... This is... urp!",
+      "text": "On their table is something like a huge\nwall... But\non second glance, I realize it's\na giant, half-eaten\nhamburger.",
       "choice_data_list": [
         "What're you doing...?",
         "What are you doing...?"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, Trainer... This is... urp!"
     },
     {
       "name": "Tosen Jordan",
@@ -75,7 +75,12 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!"
+      "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!",
+      "choice_data_list": [
+        "Power through and clean your plate!",
+        "Power through and clean your plate!",
+        "If that's how it is, I'll use brute force...!"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -88,12 +93,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "YESSS! You're right, Trainer! I gotta get\npumped!",
-      "choice_data_list": [
-        "Power through and clean your plate!",
-        "Power through and clean your plate!",
-        "If that's how it is, I'll use brute force...!"
-      ]
+      "text": "YESSS! You're right, Trainer! I gotta get\npumped!"
     },
     {
       "name": "Tosen Jordan",
@@ -157,15 +157,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Huh? What do you mean?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "Oh, I get it! That's, like, such a pro\nmove!",
+      "text": "Huh? What do you mean?",
       "choice_data_list": [
         "Crush them from above!",
         "You've gotta crush 'em from above!"
       ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, I get it! That's, like, such a pro\nmove!"
     },
     {
       "name": "Winning Ticket",

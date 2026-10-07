@@ -15,14 +15,14 @@
     },
     {
       "name": "Super Creek",
-      "text": "After all this effort, I think you deserve a\ntreat."
-    },
-    {
-      "name": "Super Creek",
-      "text": "Nope, there's no way around it—you're\ngetting\nthat treat.",
+      "text": "After all this effort, I think you deserve a\ntreat.",
       "choice_data_list": [
         "It's not really something I deserve a reward for..."
       ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Nope, there's no way around it—you're\ngetting\nthat treat."
     },
     {
       "name": "Super Creek",
@@ -34,14 +34,14 @@
     },
     {
       "name": "Super Creek",
-      "text": "Let me know if there's anything you\nwant, okay?\nPerhaps a tasty meal? Or a\nshoulder massage?"
-    },
-    {
-      "name": "Super Creek",
-      "text": "Your head...",
+      "text": "Let me know if there's anything you\nwant, okay?\nPerhaps a tasty meal? Or a\nshoulder massage?",
       "choice_data_list": [
         "Something that'll clear your head..."
       ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Your head..."
     },
     {
       "name": "Super Creek",
@@ -61,14 +61,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hehe, thanks for calling! Shall we get to\nit?"
-    },
-    {
-      "name": "Super Creek",
-      "text": "We're going to the most wonderful\nplace. Right,\nMaruzen? ♪",
+      "text": "Hehe, thanks for calling! Shall we get to\nit?",
       "choice_data_list": [
         "Where are we going?"
       ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "We're going to the most wonderful\nplace. Right,\nMaruzen? ♪"
     },
     {
       "name": "Maruzensky",
@@ -112,7 +112,12 @@
     },
     {
       "name": "Super Creek",
-      "text": "What did you think?"
+      "text": "What did you think?",
+      "choice_data_list": [
+        "I'm amazed you held out so well, Creek...",
+        "You really held out well, Creek...",
+        "That was some unbelievable technique..."
+      ]
     },
     {
       "name": "Super Creek",
@@ -125,12 +130,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ehehe, did you feel it in your guts?\nYou're all\npsyched up now, huh?! ♪",
-      "choice_data_list": [
-        "I'm amazed you held out so well, Creek...",
-        "You really held out well, Creek...",
-        "That was some unbelievable technique..."
-      ]
+      "text": "Ehehe, did you feel it in your guts?\nYou're all\npsyched up now, huh?! ♪"
     },
     {
       "name": "Super Creek",

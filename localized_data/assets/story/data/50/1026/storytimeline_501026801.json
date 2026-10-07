@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "It's morning on White Day, and I meet\nwith\nMihono Bourbon to give her some\nmarshmallows\nas a return gift for\nValentine's."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...",
+      "text": "It's morning on White Day, and I meet\nwith\nMihono Bourbon to give her some\nmarshmallows\nas a return gift for\nValentine's.",
       "choice_data_list": [
         "Bourbon! That's your Valentine's return gift!"
       ]
@@ -20,18 +16,22 @@
       ]
     },
     {
-      "name": "Monologue",
-      "text": "<i>Bing-bong, bang-bong!</i>",
+      "name": "Mihono Bourbon",
+      "text": "...",
       "choice_data_list": [
         "...Bourbon?"
       ]
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "Yes...",
+      "name": "Monologue",
+      "text": "<i>Bing-bong, bang-bong!</i>",
       "choice_data_list": [
         "Umm... well then, see you this afternoon!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yes..."
     },
     {
       "name": "Monologue",
@@ -43,15 +43,15 @@
     },
     {
       "name": "Umamusume B",
-      "text": "Yikes, guess they were trying to send a\nhint. They\nsay you're not supposed to\ngift marshmallows to\npeople you're close\nwith."
-    },
-    {
-      "name": "Monologue",
-      "text": "No wonder Mihono Bourbon reacted the\nway she\ndid! She must've been so\ndisappointed. I have to\nright this wrong\nsomehow!",
+      "text": "Yikes, guess they were trying to send a\nhint. They\nsay you're not supposed to\ngift marshmallows to\npeople you're close\nwith.",
       "choice_data_list": [
         "(...Is that so?!)",
         "(...Really...?!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "No wonder Mihono Bourbon reacted the\nway she\ndid! She must've been so\ndisappointed. I have to\nright this wrong\nsomehow!"
     },
     {
       "name": "Mihono Bourbon",
@@ -71,14 +71,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "What should we go on first?"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...!",
+      "text": "What should we go on first?",
       "choice_data_list": [
         "Let's ride the roller coaster!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
     },
     {
       "name": "Mihono Bourbon",
@@ -90,15 +90,15 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Clatter! Clatter!</i>"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I did not anticipate that you would be\nthis\nfrightened.",
+      "text": "<i>Clatter! Clatter!</i>",
       "choice_data_list": [
         "Waaah!",
         "Waaaaah!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I did not anticipate that you would be\nthis\nfrightened."
     },
     {
       "name": "Mihono Bourbon",
@@ -110,26 +110,26 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems like she's having fun. What a\nrelief!"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes. I have identified that I am having\n\"fun.\"",
+      "text": "It seems like she's having fun. What a\nrelief!",
       "choice_data_list": [
         "I'm glad you enjoyed yourself."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I am experiencing..."
+      "text": "Yes. I have identified that I am having\n\"fun.\""
     },
     {
       "name": "Mihono Bourbon",
-      "text": "An error has occurred... Could not\nretrieve\nsuitable term for response.",
+      "text": "I am experiencing...",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "An error has occurred... Could not\nretrieve\nsuitable term for response."
     },
     {
       "name": "Mihono Bourbon",
@@ -145,15 +145,15 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer... How am I supposed to express\nthis\nemotion?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I tell her that even if the words don't\nfeel exactly\nright to her, I'm sure her\nfeelings will still come\nthrough loud and\nclear.",
+      "text": "Trainer... How am I supposed to express\nthis\nemotion?",
       "choice_data_list": [
         "Let the words flow straight from your heart.",
         "Let's express it through gestures!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell her that even if the words don't\nfeel exactly\nright to her, I'm sure her\nfeelings will still come\nthrough loud and\nclear."
     },
     {
       "name": "Mihono Bourbon",
@@ -173,14 +173,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "No words are sufficient. I cannot convey\nhow I\nfeel..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I assure her I can read her pure joy from\nher\nexpression and general mood.",
+      "text": "No words are sufficient. I cannot convey\nhow I\nfeel...",
       "choice_data_list": [
         "Your feelings came through loud and clear!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I assure her I can read her pure joy from\nher\nexpression and general mood."
     },
     {
       "name": "Mihono Bourbon",
@@ -188,21 +188,21 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "In that case, please tell me what it is I\n\ncommunicated. Verbalize in clear terms\nthe\nfeelings which I attempted to\nexpress just now."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Transmission system stable and secure. I\nam ready\nfor your answer.",
+      "text": "In that case, please tell me what it is I\n\ncommunicated. Verbalize in clear terms\nthe\nfeelings which I attempted to\nexpress just now.",
       "choice_data_list": [
         "...Huh?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I try rearranging words and phrases in a\nmillion\nways until Mihono Bourbon is\nsatisfied. It makes\nme realize just how\nhappy she truly is.",
+      "name": "Mihono Bourbon",
+      "text": "Transmission system stable and secure. I\nam ready\nfor your answer.",
       "choice_data_list": [
         "Uhm..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I try rearranging words and phrases in a\nmillion\nways until Mihono Bourbon is\nsatisfied. It makes\nme realize just how\nhappy she truly is."
     },
     {
       "name": "Monologue",
@@ -218,15 +218,15 @@
     },
     {
       "name": "Monologue",
-      "text": "She begins doing a strange dance."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Transmission failed!",
+      "text": "She begins doing a strange dance.",
       "choice_data_list": [
         "A dance of joy... maybe?",
         "A dance of joy... maybe?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Transmission failed!"
     },
     {
       "name": "Mihono Bourbon",
@@ -238,15 +238,15 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer, will you join me in a dance?"
-    },
-    {
-      "name": "Monologue",
-      "text": "It's a little embarrassing, but I agree to\ndo it for\nher sake. We both begin\ndancing in unison.",
+      "text": "Trainer, will you join me in a dance?",
       "choice_data_list": [
         "...Yeah, sounds good.",
         "...Yeah, sure."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It's a little embarrassing, but I agree to\ndo it for\nher sake. We both begin\ndancing in unison."
     },
     {
       "name": "Mihono Bourbon",

@@ -3,23 +3,23 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "I'm out one day to grab some magazines\nwhen I\nhappen to see Fuji Kiseki and\nZenno Rob Roy\ntogether."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Hehe. I'm Rob Roy's sister today.",
+      "text": "I'm out one day to grab some magazines\nwhen I\nhappen to see Fuji Kiseki and\nZenno Rob Roy\ntogether.",
       "choice_data_list": [
         "That's an unusual combination.",
         "That's an unusual combination, isn't it?"
       ]
     },
     {
-      "name": "Zenno Rob Roy",
-      "text": "Um, well... It all started when I first got\nhere...",
+      "name": "Fuji Kiseki",
+      "text": "Hehe. I'm Rob Roy's sister today.",
       "choice_data_list": [
         "Miss... what does that mean???",
         "Miss... what does that mean???"
       ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um, well... It all started when I first got\nhere..."
     },
     {
       "name": "Zenno Rob Roy",
@@ -79,7 +79,13 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "So, I'm going to be Rob Roy's personal\n\nbodyguard until we reach the bookstore."
+      "text": "So, I'm going to be Rob Roy's personal\n\nbodyguard until we reach the bookstore.",
+      "choice_data_list": [
+        "Then I'll protect Fuji!",
+        "Then I'll protect Fuji!",
+        "True, you could almost pass as sisters.",
+        "True, you could almost pass as sisters."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -95,19 +101,13 @@
       "name": "Fuji Kiseki",
       "text": "Can you really protect me?",
       "choice_data_list": [
-        "Then I'll protect Fuji!",
-        "Then I'll protect Fuji!",
-        "True, you could almost pass as sisters.",
-        "True, you could almost pass as sisters."
+        "I am technically older, after all!",
+        "I am technically older, after all!"
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Hehe. Does that make you my\noverprotective\nolder brother, then?",
-      "choice_data_list": [
-        "I am technically older, after all!",
-        "I am technically older, after all!"
-      ]
+      "text": "Hehe. Does that make you my\noverprotective\nolder brother, then?"
     },
     {
       "name": "Fuji Kiseki",
@@ -119,25 +119,25 @@
     },
     {
       "name": "Monologue",
-      "text": "Thankfully, the bookstore does still have\nsigned\ncopies of the book Zenno Rob\nRoy wants."
-    },
-    {
-      "name": "Scammer B (Woman)",
-      "text": "Like I said, if you debut with our\ncompany, you're\nsure to become rich\nand famous! I guarantee it!",
+      "text": "Thankfully, the bookstore does still have\nsigned\ncopies of the book Zenno Rob\nRoy wants.",
       "choice_data_list": [
         "Wait, Fuji isn't here?"
       ]
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "Thanks for your offer, but I have no\nintention of\nchanging careers."
+      "name": "Scammer B (Woman)",
+      "text": "Like I said, if you debut with our\ncompany, you're\nsure to become rich\nand famous! I guarantee it!"
     },
     {
-      "name": "Scammer B (Woman)",
-      "text": "Oh my! Are you her brother? I was just\noffering\nyour sibling a chance to make it\nbig in the world\nof entertainment!",
+      "name": "Fuji Kiseki",
+      "text": "Thanks for your offer, but I have no\nintention of\nchanging careers.",
       "choice_data_list": [
         "Did you need something from my sister?"
       ]
+    },
+    {
+      "name": "Scammer B (Woman)",
+      "text": "Oh my! Are you her brother? I was just\noffering\nyour sibling a chance to make it\nbig in the world\nof entertainment!"
     },
     {
       "name": "Scammer A (Woman)",
@@ -145,7 +145,10 @@
     },
     {
       "name": "Scammer B (Woman)",
-      "text": "She said she'd rather continue racing\nthan\nbecome an entertainer, but don't\nyou think she'd\nbe better off in show\nbusiness?"
+      "text": "She said she'd rather continue racing\nthan\nbecome an entertainer, but don't\nyou think she'd\nbe better off in show\nbusiness?",
+      "choice_data_list": [
+        "No, I want to respect my sister's wishes."
+      ]
     },
     {
       "name": "Scammer B (Woman)",
@@ -158,15 +161,12 @@
       "name": "Scammer B (Woman)",
       "text": "But come on! Just look at her! She's\nclearly better\nsuited to a life filled with\nglitz and glam, not\nsweat and dirt!",
       "choice_data_list": [
-        "No, I want to respect my sister's wishes."
+        "Her dream lies in racing, after all."
       ]
     },
     {
       "name": "Scammer B (Woman)",
-      "text": "Ugh... Fine. Don't say I didn't try to give\nyou a\nchance.",
-      "choice_data_list": [
-        "Her dream lies in racing, after all."
-      ]
+      "text": "Ugh... Fine. Don't say I didn't try to give\nyou a\nchance."
     },
     {
       "name": "Zenno Rob Roy",
@@ -178,7 +178,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Also... Thanks for defending my dream.\nI'm glad I\nhave an older brother who's so\nsupportive of me."
+      "text": "Also... Thanks for defending my dream.\nI'm glad I\nhave an older brother who's so\nsupportive of me.",
+      "choice_data_list": [
+        "You're very welcome!"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -189,10 +192,7 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Hehe. I'm so glad my older siblings are\nsuch\nwonderful people.",
-      "choice_data_list": [
-        "You're very welcome!"
-      ]
+      "text": "Hehe. I'm so glad my older siblings are\nsuch\nwonderful people."
     },
     {
       "name": "Zenno Rob Roy",
@@ -208,7 +208,11 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I'd better go too. It was fun having you\nas my\nolder brother today."
+      "text": "I'd better go too. It was fun having you\nas my\nolder brother today.",
+      "choice_data_list": [
+        "If that's what you want, I'll be your big brother anytime!",
+        "If that's what you want, I'll be your big sister anytime!"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -220,11 +224,7 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Hehe, thanks. But I'll be <i>your</i> bodyguard\nnext\ntime.",
-      "choice_data_list": [
-        "If that's what you want, I'll be your big brother anytime!",
-        "If that's what you want, I'll be your big sister anytime!"
-      ]
+      "text": "Hehe, thanks. But I'll be <i>your</i> bodyguard\nnext\ntime."
     },
     {
       "name": "Fuji Kiseki",
@@ -280,15 +280,15 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "The theaters are showing a live\nbroadcast of the\nplay my mother's in,\nand I was wondering if you'd\nlike to\nwatch it together."
-    },
-    {
-      "name": "Zenno Rob Roy",
-      "text": "I'd love to go as well!",
+      "text": "The theaters are showing a live\nbroadcast of the\nplay my mother's in,\nand I was wondering if you'd\nlike to\nwatch it together.",
       "choice_data_list": [
         "Sounds like fun, let's go!",
         "Sounds like fun, let's go!"
       ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I'd love to go as well!"
     },
     {
       "name": "Monologue",
@@ -316,14 +316,14 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "U-um, what's the matter? Is there\nsomething on\nmy face?"
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "I feel the same. If you don't mind, Rob\nRoy, I'd\nlove to watch another play with\nyou sometime\nand discuss it after.",
+      "text": "U-um, what's the matter? Is there\nsomething on\nmy face?",
       "choice_data_list": [
         "No, I was just hoping you'd keep getting along with Fuji."
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I feel the same. If you don't mind, Rob\nRoy, I'd\nlove to watch another play with\nyou sometime\nand discuss it after."
     },
     {
       "name": "Zenno Rob Roy",

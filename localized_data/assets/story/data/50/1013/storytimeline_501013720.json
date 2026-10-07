@@ -11,21 +11,21 @@
     },
     {
       "name": "???",
-      "text": "Are you hurt? Sick? Stressed? Whatever\nit is, I\ntreat it all!"
-    },
-    {
-      "name": "???",
-      "text": "Well, considering you're at the academy\n\ninfirmary, I'd say that makes me your\ntrusty\nschool nurse! Yup, just your\naverage school\nemployee!",
+      "text": "Are you hurt? Sick? Stressed? Whatever\nit is, I\ntreat it all!",
       "choice_data_list": [
         "...Who's there?!"
       ]
     },
     {
       "name": "???",
-      "text": "Ahaha! Guess there's no fooling you. I\nsuppose I\nshould start by giving you my\nname.",
+      "text": "Well, considering you're at the academy\n\ninfirmary, I'd say that makes me your\ntrusty\nschool nurse! Yup, just your\naverage school\nemployee!",
       "choice_data_list": [
         "That's not right, is it...?"
       ]
+    },
+    {
+      "name": "???",
+      "text": "Ahaha! Guess there's no fooling you. I\nsuppose I\nshould start by giving you my\nname."
     },
     {
       "name": "???",
@@ -37,14 +37,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "The one and only Sasami Anshinzawa!\nSee? No\nworries! ☆"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "You certainly do not inspire any\nconfidence.",
+      "text": "The one and only Sasami Anshinzawa!\nSee? No\nworries! ☆",
       "choice_data_list": [
         "…………"
       ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "You certainly do not inspire any\nconfidence."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -64,25 +64,25 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Then voilà, presto! Something\nindescribable will\nhappen!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "And let me assure you, there's\nabsolutely nothing\nsketchy about this at\nall! It's never gone anything\nless than\nperfectly!",
+      "text": "Then voilà, presto! Something\nindescribable will\nhappen!",
       "choice_data_list": [
         "(Incredibly suspicious...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "...For my master."
+      "text": "And let me assure you, there's\nabsolutely nothing\nsketchy about this at\nall! It's never gone anything\nless than\nperfectly!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Don't fret! This is my first time, so\ntechnically, I've\nnever failed a patient\neither!",
+      "text": "...For my master.",
       "choice_data_list": [
         "Wait, *just* your master!?"
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Don't fret! This is my first time, so\ntechnically, I've\nnever failed a patient\neither!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -90,14 +90,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "See? No worries! ☆"
-    },
-    {
-      "name": "Monologue",
-      "text": "There's no way we're doing this. I take\n\n<chrname> and head for the\ndoor,\nwhen...",
+      "text": "See? No worries! ☆",
       "choice_data_list": [
         "(Downright radiating suspicion...!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no way we're doing this. I take\n\n<chrname> and head for the\ndoor,\nwhen..."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -105,14 +105,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "You're Mejiro McQueen, right?! The\nUmamusume\nstriving to achieve the\ndearest wishes of the\nsublime and noble\nMejiro family!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Have I heard of her? Of course I have!\nI'm a big\nfan!",
+      "text": "You're Mejiro McQueen, right?! The\nUmamusume\nstriving to achieve the\ndearest wishes of the\nsublime and noble\nMejiro family!",
       "choice_data_list": [
         "...You know?"
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Have I heard of her? Of course I have!\nI'm a big\nfan!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -136,14 +136,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Well... pretty sure."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "I mean, it's on the sure side! That's <i>good</i>,\nright?\nAnyway, don't get hung up on the\ndetails!",
+      "text": "Well... pretty sure.",
       "choice_data_list": [
         "Probably?!"
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I mean, it's on the sure side! That's <i>good</i>,\nright?\nAnyway, don't get hung up on the\ndetails!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -155,11 +155,7 @@
     },
     {
       "name": "Monologue",
-      "text": "What should we do?"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "I see, I see. So you want me to activate\nthe\nstrength chakra?",
+      "text": "What should we do?",
       "choice_data_list": [
         "Target the pressure point that turns her into a strong Umamusume.",
         "Target the secret pressure point to win the race.",
@@ -170,15 +166,19 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
+      "text": "I see, I see. So you want me to activate\nthe\nstrength chakra?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
       "choice_data_list": [
         "Yes.",
         "No."
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -250,15 +250,15 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
       "choice_data_list": [
         "Yes.",
         "No."
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -330,15 +330,15 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
       "choice_data_list": [
         "Yes.",
         "No."
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -410,15 +410,15 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+      "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
       "choice_data_list": [
         "Yes.",
         "No."
       ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -486,15 +486,15 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Aww, c'mon! Don't be like that!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!",
+      "text": "Aww, c'mon! Don't be like that!",
       "choice_data_list": [
         "Better not.",
         "Reconsider"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -514,15 +514,15 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Success is only meaningful when it's\nachieved with\nyour own strength. Don't\nyou think so, Trainer?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I'm curious who this Anshinzawa\ncharacter really\nis, but there's no use\nruminating over it. Best to\nforget about\ntoday and move on.",
+      "text": "Success is only meaningful when it's\nachieved with\nyour own strength. Don't\nyou think so, Trainer?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm curious who this Anshinzawa\ncharacter really\nis, but there's no use\nruminating over it. Best to\nforget about\ntoday and move on."
     },
     {
       "name": "Sasami Anshinzawa",

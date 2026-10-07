@@ -16,15 +16,12 @@
       "name": "Narrator",
       "text": "They must be keeping an eye on <chrname>. \nEspecially since this public training was \nsupposed to be live-streamed online.",
       "choice_data_list": [
-        "(I'll give her my contact info then, and...)"
+        "(I should thank her!)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I replied to <support> before I forgot!",
-      "choice_data_list": [
-        "(I should thank her!)"
-      ]
+      "text": "I replied to <support> before I forgot!"
     }
   ]
 }

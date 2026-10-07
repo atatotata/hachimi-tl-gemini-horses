@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "A play is being put on as part of an\nacademy\nevent. On my way there, I spot\ntwo students\nwearing fancy costumes\nbowing in a frantic\nmotion."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "We've been asked to step in for some\nstudents\nwho can't make it! Now it's time\nto give the crowd\na taste of my acting\nskills!",
+      "text": "A play is being put on as part of an\nacademy\nevent. On my way there, I spot\ntwo students\nwearing fancy costumes\nbowing in a frantic\nmotion.",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "We've been asked to step in for some\nstudents\nwho can't make it! Now it's time\nto give the crowd\na taste of my acting\nskills!"
     },
     {
       "name": "Nice Nature",
@@ -115,7 +115,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "The applause may have been directed at\nme, but\nyou were the coolest actor on\nstage. I mean it."
+      "text": "The applause may have been directed at\nme, but\nyou were the coolest actor on\nstage. I mean it.",
+      "choice_data_list": [
+        "Teio's ad-libbing was impressive too.",
+        "An 'unsung hero' is quite a mature role.",
+        "An 'unsung hero' is quite a mature role, isn't it?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -128,12 +133,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Seconded. All I did was follow your lead.\nThere's\nno way I could have stirred up\nexcitement in the\ncrowd like that.",
-      "choice_data_list": [
-        "Teio's ad-libbing was impressive too.",
-        "An 'unsung hero' is quite a mature role.",
-        "An 'unsung hero' is quite a mature role, isn't it?"
-      ]
+      "text": "Seconded. All I did was follow your lead.\nThere's\nno way I could have stirred up\nexcitement in the\ncrowd like that."
     },
     {
       "name": "Umamusume Villain",

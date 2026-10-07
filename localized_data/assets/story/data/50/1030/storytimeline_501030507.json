@@ -7,14 +7,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "A fan letter for me?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Y-yeah...",
+      "text": "A fan letter for me?",
       "choice_data_list": [
         "That's great!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-yeah..."
     },
     {
       "name": "Rice Shower",
@@ -22,14 +22,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Her expression slips from one of\nhappiness to one\nof slight unease."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Sometimes, I get this idea in my head...",
+      "text": "Her expression slips from one of\nhappiness to one\nof slight unease.",
       "choice_data_list": [
         "Is something wrong?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sometimes, I get this idea in my head..."
     },
     {
       "name": "Rice Shower",
@@ -41,7 +41,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "What should I do?"
+      "text": "What should I do?",
+      "choice_data_list": [
+        "Take a look inside the fan letter."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -52,10 +55,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Read it? O-okay.",
-      "choice_data_list": [
-        "Take a look inside the fan letter."
-      ]
+      "text": "Read it? O-okay."
     },
     {
       "name": "Rice Shower",

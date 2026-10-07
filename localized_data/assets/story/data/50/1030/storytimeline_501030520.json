@@ -7,7 +7,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Look, Big Brother! It's raining cats and\ndogs!\nWoohoo!"
+      "text": "Look, Big Brother! It's raining cats and\ndogs!\nWoohoo!",
+      "choice_data_list": [
+        "Y-you look really happy.",
+        "Y-you look really happy, don't you."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -19,11 +23,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "You said you wanted me to train on a\nsoft track,\nright?",
-      "choice_data_list": [
-        "Y-you look really happy.",
-        "Y-you look really happy, don't you."
-      ]
+      "text": "You said you wanted me to train on a\nsoft track,\nright?"
     },
     {
       "name": "Rice Shower",
@@ -63,7 +63,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Her enthusiasm is plummeting like a\nrock! At this\nrate..."
+      "text": "Her enthusiasm is plummeting like a\nrock! At this\nrate...",
+      "choice_data_list": [
+        "We're going to pray for rain right now!",
+        "I'm going to pray for rain right now!",
+        "Let's turn this sunny weather to our advantage instead."
+      ]
     },
     {
       "name": "Monologue",
@@ -78,16 +83,14 @@
       "name": "Rice Shower",
       "text": "Huh?! Now?!",
       "choice_data_list": [
-        "We're going to pray for rain right now!",
-        "I'm going to pray for rain right now!",
-        "Let's turn this sunny weather to our advantage instead."
+        "Rain, raaaain! Pour doooown!"
       ]
     },
     {
       "name": "Rice Shower",
       "text": "What a big voice you have, Big Brother!",
       "choice_data_list": [
-        "Rain, raaaain! Pour doooown!"
+        "Rice too!"
       ]
     },
     {
@@ -99,21 +102,18 @@
     },
     {
       "name": "Rice Shower",
-      "text": "R-right!",
-      "choice_data_list": [
-        "Rice too!"
-      ]
+      "text": "R-right!"
     },
     {
       "name": "Rice Shower",
-      "text": "Um... R-raaain! FAAALL!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Really? I-I never shout like this. It's\nhonestly a\nlittle embarrassing...",
+      "text": "Um... R-raaain! FAAALL!",
       "choice_data_list": [
         "What a voice!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Really? I-I never shout like this. It's\nhonestly a\nlittle embarrassing..."
     },
     {
       "name": "Rice Shower",
@@ -129,11 +129,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Take advantage of the sunshine? What\ndo you\nmean?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "I-is it really okay to change our plans?",
+      "text": "Take advantage of the sunshine? What\ndo you\nmean?",
       "choice_data_list": [
         "I'll study firm tracks inside and out!",
         "Let's study firm tracks inside and out!"
@@ -141,14 +137,18 @@
     },
     {
       "name": "Rice Shower",
-      "text": "You're right, though... The track <i>does</i>\nlook\nperfect."
+      "text": "I-is it really okay to change our plans?"
     },
     {
       "name": "Rice Shower",
-      "text": "Look on... the bright side...",
+      "text": "You're right, though... The track <i>does</i>\nlook\nperfect.",
       "choice_data_list": [
         "Let's try looking on the bright side."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Look on... the bright side..."
     },
     {
       "name": "Rice Shower",

@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "King Halo",
-      "text": "Ugh! <i>Whyyy?!</i>"
-    },
-    {
-      "name": "King Halo",
-      "text": "The signal around here is just <i>abysmal!</i>\nAt this\nrate...",
+      "text": "Ugh! <i>Whyyy?!</i>",
       "choice_data_list": [
         "What happened?!",
         "What happened?!"
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "The signal around here is just <i>abysmal!</i>\nAt this\nrate..."
     },
     {
       "name": "King Halo",
@@ -23,25 +23,25 @@
     },
     {
       "name": "Monologue",
-      "text": "Judging by how desperate she seems,\nshe must be\nwaiting on a really\nimportant message."
-    },
-    {
-      "name": "King Halo",
-      "text": "This area is nice and open, so we should\nbe able\nto get some decent network\ncoverage...",
+      "text": "Judging by how desperate she seems,\nshe must be\nwaiting on a really\nimportant message.",
       "choice_data_list": [
         "Got it!"
       ]
     },
     {
       "name": "King Halo",
-      "text": "Agh! I don't believe it! There's no\ndifference at all!\nAny luck on your\nphone?"
+      "text": "This area is nice and open, so we should\nbe able\nto get some decent network\ncoverage..."
     },
     {
       "name": "King Halo",
-      "text": "Ugh! This <i>dingus</i> of a network! To the\nnext area!",
+      "text": "Agh! I don't believe it! There's no\ndifference at all!\nAny luck on your\nphone?",
       "choice_data_list": [
         "Looks like no luck."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Ugh! This <i>dingus</i> of a network! To the\nnext area!"
     },
     {
       "name": "King Halo",
@@ -53,14 +53,14 @@
     },
     {
       "name": "King Halo",
-      "text": "But why?! Surely we're closer to the\nsatellite now\nthan we were before!"
-    },
-    {
-      "name": "King Halo",
-      "text": "Pardon?! Is the signal not broadcast from\na\nsatellite?!",
+      "text": "But why?! Surely we're closer to the\nsatellite now\nthan we were before!",
       "choice_data_list": [
         "Cell reception doesn't have anything to do with satellites..."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Pardon?! Is the signal not broadcast from\na\nsatellite?!"
     },
     {
       "name": "Monologue",
@@ -76,14 +76,14 @@
     },
     {
       "name": "Monologue",
-      "text": "We try out several more places in hopes\nof\nfinding a better signal, but struggle to\nget a\nsingle bar anywhere."
-    },
-    {
-      "name": "Beachgoer A",
-      "text": "This giant mountain of yakisoba is totally\n\npost-worthy!",
+      "text": "We try out several more places in hopes\nof\nfinding a better signal, but struggle to\nget a\nsingle bar anywhere.",
       "choice_data_list": [
         "(Another spot with better reception would be—)"
       ]
+    },
+    {
+      "name": "Beachgoer A",
+      "text": "This giant mountain of yakisoba is totally\n\npost-worthy!"
     },
     {
       "name": "Beachgoer B",
@@ -91,11 +91,7 @@
     },
     {
       "name": "Monologue",
-      "text": "They have enough reception to send a\nvideo?\nCould this be the salvation we've\nbeen looking\nfor?!"
-    },
-    {
-      "name": "King Halo",
-      "text": "<i>Sigh...</i> This must be what they mean\nwhen they\nsay the darkest place is under\nthe candlestick. I'd\nnever have\nsuspected that snack shack would\nhave\nWi-Fi.",
+      "text": "They have enough reception to send a\nvideo?\nCould this be the salvation we've\nbeen looking\nfor?!",
       "choice_data_list": [
         "Found a signal!",
         "I found a signal!"
@@ -103,18 +99,22 @@
     },
     {
       "name": "King Halo",
+      "text": "<i>Sigh...</i> This must be what they mean\nwhen they\nsay the darkest place is under\nthe candlestick. I'd\nnever have\nsuspected that snack shack would\nhave\nWi-Fi."
+    },
+    {
+      "name": "King Halo",
       "text": "But now I can finally... <i>finally...</i>"
     },
     {
       "name": "King Halo",
-      "text": "Finally watch my show!"
-    },
-    {
-      "name": "King Halo",
-      "text": "Why, yes! Today's the day the latest\nepisode of\n<i>The Noble Court</i> becomes\navailable to watch\nonline!",
+      "text": "Finally watch my show!",
       "choice_data_list": [
         "Wait, a drama...!?"
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Why, yes! Today's the day the latest\nepisode of\n<i>The Noble Court</i> becomes\navailable to watch\nonline!"
     },
     {
       "name": "King Halo",
@@ -130,14 +130,14 @@
     },
     {
       "name": "King Halo",
-      "text": "...Hm, excuse me? What are you grinning\nabout?"
-    },
-    {
-      "name": "King Halo",
-      "text": "Huh?! J-just to let you know, my frantic\nbehavior\nhad nothing to do with my\nfondness for this\nseries!",
+      "text": "...Hm, excuse me? What are you grinning\nabout?",
       "choice_data_list": [
         "No, I was just thinking about how much you love that drama."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Huh?! J-just to let you know, my frantic\nbehavior\nhad nothing to do with my\nfondness for this\nseries!"
     },
     {
       "name": "King Halo",
@@ -165,7 +165,13 @@
     },
     {
       "name": "Monologue",
-      "text": "It looks like King Halo is desperate to\nwatch the\nnext episode of her show. I\nshouldn't keep her."
+      "text": "It looks like King Halo is desperate to\nwatch the\nnext episode of her show. I\nshouldn't keep her.",
+      "choice_data_list": [
+        "You can watch your drama once we get back.",
+        "You can watch your drama once we get back, okay?",
+        "...You shouldn't stay up late, got it?",
+        "...Staying up late isn't good, okay?"
+      ]
     },
     {
       "name": "Monologue",
@@ -179,13 +185,7 @@
     },
     {
       "name": "King Halo",
-      "text": "I have every intention of doing just that!\nIn fact,\n<i>you</i> ought to—",
-      "choice_data_list": [
-        "You can watch your drama once we get back.",
-        "You can watch your drama once we get back, okay?",
-        "...You shouldn't stay up late, got it?",
-        "...Staying up late isn't good, okay?"
-      ]
+      "text": "I have every intention of doing just that!\nIn fact,\n<i>you</i> ought to—"
     },
     {
       "name": "King Halo",

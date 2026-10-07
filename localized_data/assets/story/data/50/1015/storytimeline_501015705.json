@@ -11,11 +11,7 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "To have forgotten something so vital...\nThis is\nmost unbecoming of the\nOverlord!"
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "I've forgotten an essential piece of the\nliving\nmasterpiece that is I!",
+      "text": "To have forgotten something so vital...\nThis is\nmost unbecoming of the\nOverlord!",
       "choice_data_list": [
         "Did something happen?",
         "Is something wrong?"
@@ -23,25 +19,29 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "I didn't purchase rose petals to set afloat\nin the\nbathtub!"
+      "text": "I've forgotten an essential piece of the\nliving\nmasterpiece that is I!"
     },
     {
       "name": "T.M. Opera O",
-      "text": "NO! With every ounce of my being, <i>no!</i>",
+      "text": "I didn't purchase rose petals to set afloat\nin the\nbathtub!",
       "choice_data_list": [
         "...Curfew is close, so how about calling it a day?"
       ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "What unforgivable folly it would be to\n\ndeliberately neglect my radiant shine!"
+      "text": "NO! With every ounce of my being, <i>no!</i>"
     },
     {
       "name": "T.M. Opera O",
-      "text": "Now that you understand the direness of\nmy\npredicament, you can accompany me\nto purchase\nsaid roses.",
+      "text": "What unforgivable folly it would be to\n\ndeliberately neglect my radiant shine!",
       "choice_data_list": [
         "I-I see."
       ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Now that you understand the direness of\nmy\npredicament, you can accompany me\nto purchase\nsaid roses."
     },
     {
       "name": "T.M. Opera O",
@@ -53,7 +53,13 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Make haste!"
+      "text": "Make haste!",
+      "choice_data_list": [
+        "Yeah, let's hurry and go buy it!",
+        "Yeah, let's hurry and go buy it!",
+        "No, let's stick to curfew, for your sake too.",
+        "No, let's keep curfew for your own sake."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -67,13 +73,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I make her promise she'll return to the\nacademy\nby curfew, and we head to her\nusual shop.",
-      "choice_data_list": [
-        "Yeah, let's hurry and go buy it!",
-        "Yeah, let's hurry and go buy it!",
-        "No, let's stick to curfew, for your sake too.",
-        "No, let's keep curfew for your own sake."
-      ]
+      "text": "I make her promise she'll return to the\nacademy\nby curfew, and we head to her\nusual shop."
     },
     {
       "name": "Monologue",
@@ -85,21 +85,21 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Hehe! The Overlord keeps her word!\nHave I\ninspired you once more?"
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "That I am as great and beautiful as I am\nnoble?\nMediocre! Those traits should be\nmore than\nobvious to you by this point!",
+      "text": "Hehe! The Overlord keeps her word!\nHave I\ninspired you once more?",
       "choice_data_list": [
         "As expected of—"
       ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "Oh yes! I should offer my thanks for\n\naccompanying me. Here, a rose for you.",
+      "text": "That I am as great and beautiful as I am\nnoble?\nMediocre! Those traits should be\nmore than\nobvious to you by this point!",
       "choice_data_list": [
         "……"
       ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh yes! I should offer my thanks for\n\naccompanying me. Here, a rose for you."
     },
     {
       "name": "T.M. Opera O",
@@ -111,15 +111,15 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Wouldn't you agree those words\nperfectly\ndescribe us this night?"
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "Oh? You don't seem so sure. I was\ncertain that\nrevelation would have you in\ntears...",
+      "text": "Wouldn't you agree those words\nperfectly\ndescribe us this night?",
       "choice_data_list": [
         "I-I see...",
         "I-I see..."
       ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh? You don't seem so sure. I was\ncertain that\nrevelation would have you in\ntears..."
     },
     {
       "name": "T.M. Opera O",
@@ -139,15 +139,15 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Hm? What do you mean?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I tell her that no amount of roses will\never make\nup for a lack of beauty sleep.",
+      "text": "Hm? What do you mean?",
       "choice_data_list": [
         "Break curfew and you're in for a lecture that lasts all night.",
         "Break curfew and you're in for a lecture that lasts all night, you know."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell her that no amount of roses will\never make\nup for a lack of beauty sleep."
     },
     {
       "name": "T.M. Opera O",
@@ -155,14 +155,14 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "This is terrible!"
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "Alas, I had forgotten something so basic!",
+      "text": "This is terrible!",
       "choice_data_list": [
         "！？"
       ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Alas, I had forgotten something so basic!"
     },
     {
       "name": "T.M. Opera O",
@@ -182,15 +182,15 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Tonight will be a night to turn in early.\nThat goes\nfor you as well."
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "Indeed. Take this advice from me, as an\n\nexpression of my gratitude!",
+      "text": "Tonight will be a night to turn in early.\nThat goes\nfor you as well.",
       "choice_data_list": [
         "Me too?",
         "Me too?"
       ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Indeed. Take this advice from me, as an\n\nexpression of my gratitude!"
     },
     {
       "name": "T.M. Opera O",

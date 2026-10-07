@@ -10,14 +10,14 @@
       "text": "Hey, Trainer! Let's go to that Arima\nKinen race\nthing!",
       "color_text_info_list": [
         "Classic Year"
+      ],
+      "choice_data_list": [
+        "The Arima Kinen?"
       ]
     },
     {
       "name": "Monologue",
       "text": "The Arima Kinen... A very high-profile\nrace where\nparticipants are selected\nthrough a fan vote.",
-      "choice_data_list": [
-        "The Arima Kinen?"
-      ],
       "color_text_info_list": [
         "Arima Kinen"
       ]
@@ -83,11 +83,7 @@
     },
     {
       "name": "Haru Urara",
-      "text": "...Huh?"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Spe's face... It looks way different from\nusual.",
+      "text": "...Huh?",
       "choice_data_list": [
         "What's wrong?",
         "What is it?"
@@ -95,15 +91,19 @@
     },
     {
       "name": "Haru Urara",
-      "text": "She looks kinda scary. But this is her big\nday... I\nwonder what she's upset about?"
+      "text": "Spe's face... It looks way different from\nusual."
     },
     {
       "name": "Haru Urara",
-      "text": "Nervous? Huh? Why?",
+      "text": "She looks kinda scary. But this is her big\nday... I\nwonder what she's upset about?",
       "choice_data_list": [
         "Maybe they're nervous.",
         "Maybe they're nervous, huh."
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Nervous? Huh? Why?"
     },
     {
       "name": "Haru Urara",
@@ -183,14 +183,14 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Oh, I get it! It's because it's the Arima\nKinen!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "I'm sure it's super fun to run in the Arima\nKinen!",
+      "text": "Oh, I get it! It's because it's the Arima\nKinen!",
       "choice_data_list": [
         "...Hm?"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "I'm sure it's super fun to run in the Arima\nKinen!"
     },
     {
       "name": "Haru Urara",
@@ -198,14 +198,14 @@
     },
     {
       "name": "Haru Urara",
-      "text": "I'm gonna enter the Arima Kinen too!"
-    },
-    {
-      "name": "Spectators",
-      "text": "Whaaat?!",
+      "text": "I'm gonna enter the Arima Kinen too!",
       "choice_data_list": [
         "...Whaaat?!"
       ]
+    },
+    {
+      "name": "Spectators",
+      "text": "Whaaat?!"
     },
     {
       "name": "Spectator A",
@@ -225,11 +225,7 @@
     },
     {
       "name": "Monologue",
-      "text": "However, if she's dead set on it, I have\nto support\nher all the way!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Yeah! I'm no quitter!",
+      "text": "However, if she's dead set on it, I have\nto support\nher all the way!",
       "choice_data_list": [
         "It's going to be a tough road ahead. Are you prepared?",
         "It's going to be a tough road ahead, but are you ready for it?"
@@ -237,15 +233,19 @@
     },
     {
       "name": "Haru Urara",
-      "text": "Woo! Hahaha! See? I'm super pumped!"
+      "text": "Yeah! I'm no quitter!"
     },
     {
-      "name": "Monologue",
-      "text": "If Haru Urara wants to enter the Arima\nKinen,\nshe'll first have to prove that\nshe's got what it\ntakes by placing high in\ngraded races.",
+      "name": "Haru Urara",
+      "text": "Woo! Hahaha! See? I'm super pumped!",
       "choice_data_list": [
         "...Make sure you rack up plenty of results in your races, alright?",
         "...Make sure you rack up plenty of results in your races, okay?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "If Haru Urara wants to enter the Arima\nKinen,\nshe'll first have to prove that\nshe's got what it\ntakes by placing high in\ngraded races."
     },
     {
       "name": "Haru Urara",

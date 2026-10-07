@@ -15,13 +15,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh. I didn't know there was a festival\ntoday."
+      "text": "Huh. I didn't know there was a festival\ntoday.",
+      "choice_data_list": [
+        "If you're curious, shall we go check it out?"
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "What?! N-no... I never said I wanted to!",
       "choice_data_list": [
-        "If you're curious, shall we go check it out?"
+        "Then I'd like you to keep me company.",
+        "Then I want you to come along with me."
       ]
     },
     {
@@ -34,11 +38,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "What? B-but...",
-      "choice_data_list": [
-        "Then I'd like you to keep me company.",
-        "Then I want you to come along with me."
-      ]
+      "text": "What? B-but..."
     },
     {
       "name": "Mejiro Dober",
@@ -138,14 +138,14 @@
     },
     {
       "name": "Dober's Father",
-      "text": "That's how I remember it."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "What's with that look on your face?\nWipe it off\nthis second!",
+      "text": "That's how I remember it.",
       "choice_data_list": [
         "Huh..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What's with that look on your face?\nWipe it off\nthis second!"
     },
     {
       "name": "Mejiro Dober",
@@ -173,13 +173,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "But if I'm still making him worry, it must\nmean I\nhave a long way to go."
+      "text": "But if I'm still making him worry, it must\nmean I\nhave a long way to go.",
+      "choice_data_list": [
+        "Don't let it get you down."
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "I-I'm not! This has nothing to do with you\nanyway!",
       "choice_data_list": [
-        "Don't let it get you down."
+        "Let's achieve even more and show them how great you are.",
+        "Your dad acknowledges you, Dober."
       ]
     },
     {
@@ -194,8 +198,7 @@
       "name": "Mejiro Dober",
       "text": "Even harder...",
       "choice_data_list": [
-        "Let's achieve even more and show them how great you are.",
-        "Your dad acknowledges you, Dober."
+        "Enough to chase away all your anxiety—tons!"
       ]
     },
     {
@@ -207,10 +210,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I don't need you giving me a pep talk!\nI'm going\nto win all my races and make a\nname for myself!",
-      "choice_data_list": [
-        "Enough to chase away all your anxiety—tons!"
-      ]
+      "text": "I don't need you giving me a pep talk!\nI'm going\nto win all my races and make a\nname for myself!"
     },
     {
       "name": "Mejiro Dober",
@@ -234,7 +234,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? And how would you know that?"
+      "text": "Huh? And how would you know that?",
+      "choice_data_list": [
+        "Because I could tell how much you cherish your daughter.",
+        "Because I could tell how much you cherish your daughter."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -246,11 +250,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...To him, I'm still his little girl. He's\nalways been\noverprotective, always\nworried sick over every\nlittle—",
-      "choice_data_list": [
-        "Because I could tell how much you cherish your daughter.",
-        "Because I could tell how much you cherish your daughter."
-      ]
+      "text": "...To him, I'm still his little girl. He's\nalways been\noverprotective, always\nworried sick over every\nlittle—"
     },
     {
       "name": "Mejiro Dober",

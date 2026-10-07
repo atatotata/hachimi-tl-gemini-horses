@@ -11,14 +11,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Despite the change of pace, I can't\nafford to just\nlounge around. This year,\nmy trainee's entering\nher all-important\nclassic year."
-    },
-    {
-      "name": "Monologue",
-      "text": "I review last year's race results and\ntraining logs\nbefore carefully writing up\na plan for this year.",
+      "text": "Despite the change of pace, I can't\nafford to just\nlounge around. This year,\nmy trainee's entering\nher all-important\nclassic year.",
       "choice_data_list": [
         "Alright, back to work, back to work!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I review last year's race results and\ntraining logs\nbefore carefully writing up\na plan for this year."
     },
     {
       "name": "Monologue",
@@ -30,51 +30,51 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Gurgle...</i>"
-    },
-    {
-      "name": "Monologue",
-      "text": "Despite making sure to bring everything\nI need\nfor work, I completely forgot to\nprepare any\nfood. I'm also entirely out of\nready-to-eat meals\nand snacks.",
+      "text": "<i>Gurgle...</i>",
       "choice_data_list": [
         "……Shoot, the food!"
       ]
     },
     {
       "name": "Monologue",
-      "text": "With fingers crossed, I visit the nearby\nshopping\ndistrict, only to find that\neverywhere is closed\ndue to the holiday."
+      "text": "Despite making sure to bring everything\nI need\nfor work, I completely forgot to\nprepare any\nfood. I'm also entirely out of\nready-to-eat meals\nand snacks."
     },
     {
-      "name": "Admire Vega",
-      "text": "Ah...",
+      "name": "Monologue",
+      "text": "With fingers crossed, I visit the nearby\nshopping\ndistrict, only to find that\neverywhere is closed\ndue to the holiday.",
       "choice_data_list": [
         "(Hmm, well then...)"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "...Happy New Year.",
+      "text": "Ah...",
       "choice_data_list": [
         "Oh, Ayabe! Happy New Year!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Admire Vega returns my greeting. She's\nwearing a\ntracksuit, and her cheeks are\nslightly flushed—it\nappears she's already\nstarted training diligently."
+      "name": "Admire Vega",
+      "text": "...Happy New Year."
     },
     {
-      "name": "Admire Vega",
-      "text": "Yes, I ran out of sports drink powder...",
+      "name": "Monologue",
+      "text": "Admire Vega returns my greeting. She's\nwearing a\ntracksuit, and her cheeks are\nslightly flushed—it\nappears she's already\nstarted training diligently.",
       "choice_data_list": [
         "Are you out shopping too, Ayabe?"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "Yes, it's a big help... always.",
+      "text": "Yes, I ran out of sports drink powder...",
       "choice_data_list": [
         "It's a lifesaver that convenience stores are open on New Year's Day.",
         "It's a lifesaver that convenience stores are open on New Year's Day, isn't it?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yes, it's a big help... always."
     },
     {
       "name": "Monologue",
@@ -86,15 +86,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'm going to finish my shopping. See\nyou..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Yes?",
+      "text": "I'm going to finish my shopping. See\nyou...",
       "choice_data_list": [
         "Wait, hold on!",
         "Ah, wait!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yes?"
     },
     {
       "name": "Monologue",
@@ -106,11 +106,7 @@
     },
     {
       "name": "Monologue",
-      "text": "In fact, I decide to throw in a little extra\nwhile I'm\nat it. But what to choose?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "What's this?",
+      "text": "In fact, I decide to throw in a little extra\nwhile I'm\nat it. But what to choose?",
       "choice_data_list": [
         "A hot snack that looks energizing",
         "Instant soup that looks relaxing",
@@ -119,10 +115,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Well, thanks.",
+      "text": "What's this?",
       "choice_data_list": [
         "Might as well. It's cold today, after all."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Well, thanks."
     },
     {
       "name": "Admire Vega",
@@ -130,22 +130,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Admire Vega starts to eat the piping hot\nmeat\nbun, so I take a bite out of the one\nI got for\nmyself."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...!",
+      "text": "Admire Vega starts to eat the piping hot\nmeat\nbun, so I take a bite out of the one\nI got for\nmyself.",
       "choice_data_list": [
         "Hot, hot, hot!"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "Are you okay? Is it too hot for you?"
+      "text": "...!"
     },
     {
       "name": "Admire Vega",
-      "text": "I'm fine... I don't have a problem with hot\nfood.",
+      "text": "Are you okay? Is it too hot for you?",
       "choice_data_list": [
         "M-Maybe... Are you all right, Ayabe?",
         "M-Maybe... Are you all right, Ayabe?"
@@ -153,25 +149,29 @@
     },
     {
       "name": "Admire Vega",
-      "text": "They say you should eat without letting\nthe food\ntouch the tip of your tongue. I\ndon't know if it\nworks, though..."
+      "text": "I'm fine... I don't have a problem with hot\nfood."
     },
     {
-      "name": "Monologue",
-      "text": "After a bit, I enjoy my delicious meat\nbun.",
+      "name": "Admire Vega",
+      "text": "They say you should eat without letting\nthe food\ntouch the tip of your tongue. I\ndon't know if it\nworks, though...",
       "choice_data_list": [
         "I see...!"
       ]
     },
     {
-      "name": "Admire Vega",
-      "text": "It isn't one with any extra stuff in it, is it?"
+      "name": "Monologue",
+      "text": "After a bit, I enjoy my delicious meat\nbun."
     },
     {
       "name": "Admire Vega",
-      "text": "A what?",
+      "text": "It isn't one with any extra stuff in it, is it?",
       "choice_data_list": [
         "Like a New Year's celebration...?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "A what?"
     },
     {
       "name": "Admire Vega",
@@ -199,14 +199,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh, a dessert?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "You... really didn't need to.",
+      "text": "Huh, a dessert?",
       "choice_data_list": [
         "It's a 'Fluffy Vanilla Soufflé.'"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "You... really didn't need to."
     },
     {
       "name": "Admire Vega",

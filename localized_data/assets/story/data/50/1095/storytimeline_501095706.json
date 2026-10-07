@@ -17,24 +17,21 @@
       "name": "Believe",
       "text": "Yes, I'm going. What about you, Trainer?",
       "choice_data_list": [
-        "Want to go take a look?"
-      ]
-    },
-    {
-      "name": "Believe",
-      "text": "—Huh? There's a shed built in the garden. \nIs it part of the exhibition, I wonder?",
-      "choice_data_list": [
         "I'll go too!",
         "I'll go too!"
       ]
     },
     {
       "name": "Believe",
-      "text": "Yes. Let's head inside.",
+      "text": "—Huh? There's a shed built in the garden. \nIs it part of the exhibition, I wonder?",
       "choice_data_list": [
         "Looks like they put together a pretty elaborate display!",
         "Looks like they put together a really elaborate display!"
       ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. Let's head inside."
     },
     {
       "name": "Believe",
@@ -65,10 +62,7 @@
     },
     {
       "name": "Believe",
-      "text": "I've only just scratched the surface, \nreally. I started watching once it was \ndecided my grandfather would move to \nAmerica.",
-      "choice_data_list": [
-        "You're quite knowledgeable about Western architecture, too?"
-      ]
+      "text": "I've only just scratched the surface, \nreally. I started watching once it was \ndecided my grandfather would move to \nAmerica."
     },
     {
       "name": "Believe",
@@ -107,16 +101,12 @@
       "name": "Believe",
       "text": "I'm fine, really. Trainer, please go ahead \nand rest.",
       "choice_data_list": [
-        "Believe, why don't we take a short break at a café?",
-        "Believe, want to take a short break at a café?"
+        "Ah... well then, let's meet up at the exit."
       ]
     },
     {
       "name": "Believe",
-      "text": "Even an old Western castle...! I'm \ngrateful to be able to see this \ndomestically.",
-      "choice_data_list": [
-        "Ah... well then, let's meet up at the exit."
-      ]
+      "text": "Even an old Western castle...! I'm \ngrateful to be able to see this \ndomestically."
     },
     {
       "name": "Believe",
@@ -148,11 +138,7 @@
     },
     {
       "name": "Narrator",
-      "text": "She probably won't be back until right \nbefore closing time, so I might as well \ncheck out the museum shop.",
-      "choice_data_list": [
-        "(If I'm around, it'd be harder for her to explore freely.)",
-        "(It'd be hard for her to look around freely if I'm there, after all.)"
-      ]
+      "text": "She probably won't be back until right \nbefore closing time, so I might as well \ncheck out the museum shop."
     },
     {
       "name": "Believe",
@@ -165,16 +151,13 @@
       "name": "Believe",
       "text": "Yes. ...Um—",
       "choice_data_list": [
-        "Welcome back, Believe! Did you get to look around at your own pace?"
+        "Look, I found a souvenir you might like.",
+        "Look, I found a souvenir you might like."
       ]
     },
     {
       "name": "Believe",
-      "text": "Huh? ...Souvenirs?",
-      "choice_data_list": [
-        "Look, I found a souvenir you might like.",
-        "Look, I found a souvenir you might like."
-      ]
+      "text": "Huh? ...Souvenirs?"
     },
     {
       "name": "Narrator",
@@ -213,16 +196,12 @@
       "name": "Believe",
       "text": "...Y-Yes... Tools are meant to be used, \nafter all.",
       "choice_data_list": [
-        "I see, so you value practicality as well.",
-        "I see, you value practicality as well."
+        "True, that's so like Believe!"
       ]
     },
     {
       "name": "Believe",
-      "text": "(...Such earnest eyes. A smile completely \nfree of lies.)",
-      "choice_data_list": [
-        "True, that's so like Believe!"
-      ]
+      "text": "(...Such earnest eyes. A smile completely \nfree of lies.)"
     },
     {
       "name": "Believe",
@@ -244,11 +223,7 @@
     },
     {
       "name": "Narrator",
-      "text": "I told them that I liked the colorful \nmosaic pattern.",
-      "choice_data_list": [
-        "A mosaic-patterned coaster",
-        "Antique-style water pitcher"
-      ]
+      "text": "I told them that I liked the colorful \nmosaic pattern."
     },
     {
       "name": "Believe",

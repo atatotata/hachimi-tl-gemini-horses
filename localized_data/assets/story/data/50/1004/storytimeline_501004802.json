@@ -95,7 +95,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "...Trainer. Can we try winning some other\ntime?"
+      "text": "...Trainer. Can we try winning some other\ntime?",
+      "choice_data_list": [
+        "Of course."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -106,10 +109,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Thanks a bunch! ♪",
-      "choice_data_list": [
-        "Of course."
-      ]
+      "text": "Thanks a bunch! ♪"
     },
     {
       "name": "Maruzensky",
@@ -129,7 +129,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Where could she be? Trainer, what do\nyou think?"
+      "text": "Where could she be? Trainer, what do\nyou think?",
+      "choice_data_list": [
+        "Let's head for the finish line.",
+        "Let's head back to the starting point."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -141,11 +145,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Right, we should first try reaching the\nfinish line!",
-      "choice_data_list": [
-        "Let's head for the finish line.",
-        "Let's head back to the starting point."
-      ]
+      "text": "Right, we should first try reaching the\nfinish line!"
     },
     {
       "name": "Monologue",
@@ -297,14 +297,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh! That's fine, we'll take the six! I don't\nneed to\nhave one."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Hehe, sure thing. Thanks, Trainer. ♪",
+      "text": "Oh! That's fine, we'll take the six! I don't\nneed to\nhave one.",
       "choice_data_list": [
         "...Want to split it?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hehe, sure thing. Thanks, Trainer. ♪"
     },
     {
       "name": "Maruzensky",

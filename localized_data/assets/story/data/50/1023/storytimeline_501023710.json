@@ -11,7 +11,13 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "How can I win? What should I do? My\nthoughts\nfeel so jumbled..."
+      "text": "How can I win? What should I do? My\nthoughts\nfeel so jumbled...",
+      "choice_data_list": [
+        "You can make the adjustments.",
+        "You can fix this.",
+        "You're getting too stuck in your head!",
+        "You're getting too stuck in your head!"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -27,19 +33,13 @@
       "name": "Biwa Hayahide",
       "text": "Thank you, but you don't need to lie to\ncheer me\nup...",
       "choice_data_list": [
-        "You can make the adjustments.",
-        "You can fix this.",
-        "You're getting too stuck in your head!",
-        "You're getting too stuck in your head!"
+        "It's not nonsense!",
+        "I'm not making this up!"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Huh?! You're... not?",
-      "choice_data_list": [
-        "It's not nonsense!",
-        "I'm not making this up!"
-      ]
+      "text": "Huh?! You're... not?"
     },
     {
       "name": "",
@@ -71,14 +71,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'm always stuck in my thoughts during a\nrace,\nwhen I should be focusing on the\nopponents right\nin front of me."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Thank you. My mind feels clearer now.",
+      "text": "I'm always stuck in my thoughts during a\nrace,\nwhen I should be focusing on the\nopponents right\nin front of me.",
       "choice_data_list": [
         "No rush, let's take it one step at a time."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thank you. My mind feels clearer now."
     },
     {
       "name": "Biwa Hayahide",

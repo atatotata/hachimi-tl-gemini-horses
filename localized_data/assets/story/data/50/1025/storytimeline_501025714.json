@@ -11,15 +11,15 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "What was that? I should keep on\ntraining?"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "No... but someone else did. Someone\nwho seems\nvery... passionate...",
+      "text": "What was that? I should keep on\ntraining?",
       "choice_data_list": [
         "I never said anything like that, you know?",
         "I never said anything like that, did I?"
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... but someone else did. Someone\nwho seems\nvery... passionate..."
     },
     {
       "name": "Monologue",
@@ -31,7 +31,12 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "With enough passion... Maybe I could\nmake a\nmiracle happen..."
+      "text": "With enough passion... Maybe I could\nmake a\nmiracle happen...",
+      "choice_data_list": [
+        "I can't let you run while you're injured.",
+        "It's all about guts!",
+        "It's all about guts!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -46,38 +51,33 @@
       "name": "Manhattan Cafe",
       "text": "But... if I power through, I could...",
       "choice_data_list": [
-        "I can't let you run while you're injured.",
-        "It's all about guts!",
-        "It's all about guts!"
+        "If it gets worse, running will be completely out of the question.",
+        "If it gets worse, running will be completely out of the question."
       ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "...!",
       "choice_data_list": [
-        "If it gets worse, running will be completely out of the question.",
-        "If it gets worse, running will be completely out of the question."
-      ]
-    },
-    {
-      "name": "???",
-      "text": "...",
-      "choice_data_list": [
         "Your health comes first!",
         "Your health comes first!"
       ]
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "Yes, you're right... I'll pass on the\nmessage..."
+      "name": "???",
+      "text": "..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "They're... moved... and sorry for being\nmistaken...",
+      "text": "Yes, you're right... I'll pass on the\nmessage...",
       "choice_data_list": [
         "What are they saying...?",
         "What are they saying...?"
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "They're... moved... and sorry for being\nmistaken..."
     },
     {
       "name": "Manhattan Cafe",
@@ -93,14 +93,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Ouch!"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Ugh... It looks like I don't have enough\npassion to\nmake it happen...",
+      "text": "Ouch!",
       "choice_data_list": [
         "Cafe?!"
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ugh... It looks like I don't have enough\npassion to\nmake it happen..."
     },
     {
       "name": "Monologue",
@@ -108,25 +108,25 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...What do you have in mind?"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "I think... I could do some studying, or\nstretching...",
+      "text": "...What do you have in mind?",
       "choice_data_list": [
         "What can you give your all to right now?"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Would... those still count as \"powering\nthrough\"?"
+      "text": "I think... I could do some studying, or\nstretching..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Very efficient. Doing what training I\ncan... while\nstill letting myself recover...",
+      "text": "Would... those still count as \"powering\nthrough\"?",
       "choice_data_list": [
         "Exactly."
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Very efficient. Doing what training I\ncan... while\nstill letting myself recover..."
     },
     {
       "name": "???",

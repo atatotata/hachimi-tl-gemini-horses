@@ -15,15 +15,15 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Rear collision confirmed. Rice's head has\nmade\ncontact with my back."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Oh no! I'm so sorry for bumping into you!",
+      "text": "Rear collision confirmed. Rice's head has\nmade\ncontact with my back.",
       "choice_data_list": [
         "Looks like neither of us is hurt.",
         "Looks like neither of us got hurt."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh no! I'm so sorry for bumping into you!"
     },
     {
       "name": "Rice Shower",
@@ -43,7 +43,12 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer, I propose a change to my\nscheduled\nreturn home. Requesting\npermission to follow\nafter Rice Shower\nand correct this\nmisunderstanding."
+      "text": "Trainer, I propose a change to my\nscheduled\nreturn home. Requesting\npermission to follow\nafter Rice Shower\nand correct this\nmisunderstanding.",
+      "choice_data_list": [
+        "Got it.",
+        "I'll pass along the message, so get some rest.",
+        "I'll pass along the message, so get some rest."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -56,12 +61,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Thank you very much. Commencing bug\nfix.",
-      "choice_data_list": [
-        "Got it.",
-        "I'll pass along the message, so get some rest.",
-        "I'll pass along the message, so get some rest."
-      ]
+      "text": "Thank you very much. Commencing bug\nfix."
     },
     {
       "name": "Mihono Bourbon",

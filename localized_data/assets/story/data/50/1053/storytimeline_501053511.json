@@ -27,15 +27,15 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Whoa! Was that an unarmed technique?!\nThat was\namazing! Absolutely incredible!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Hey, Trainer! Yaeno and I are just doing\nsome\nmartial arts training!",
+      "text": "Whoa! Was that an unarmed technique?!\nThat was\namazing! Absolutely incredible!",
       "choice_data_list": [
         "Wh-What are you doing?",
         "Wh-What were you doing?"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hey, Trainer! Yaeno and I are just doing\nsome\nmartial arts training!"
     },
     {
       "name": "Bamboo Memory",
@@ -63,15 +63,15 @@
     },
     {
       "name": "Monologue",
-      "text": "We follow the sound to a kitten pacing\nin front of\na small waterway. It seems\nunable to commit to a\ncourse of action."
-    },
-    {
-      "name": "Yaeno Muteki",
-      "text": "Huh?! Th-that's not safe! What if it falls\nin?! It\ncould drown! I'll save y—",
+      "text": "We follow the sound to a kitten pacing\nin front of\na small waterway. It seems\nunable to commit to a\ncourse of action.",
       "choice_data_list": [
         "...Is it trying to jump over?",
         "...Is it trying to jump over, I wonder?"
       ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Huh?! Th-that's not safe! What if it falls\nin?! It\ncould drown! I'll save y—"
     },
     {
       "name": "Bamboo Memory",
@@ -147,7 +147,13 @@
     },
     {
       "name": "Monologue",
-      "text": "The saying isn't quite right, but her\njudgment\ndoes seem to have helped the\nkitten get one step\ncloser to\nindependence."
+      "text": "The saying isn't quite right, but her\njudgment\ndoes seem to have helped the\nkitten get one step\ncloser to\nindependence.",
+      "choice_data_list": [
+        "You really helped that kitten mature.",
+        "You really helped that kitten mature, didn't you?",
+        "Since we're here, want to play with the cat for a bit?",
+        "Since we're here, should we play with the cat for a bit?"
+      ]
     },
     {
       "name": "Monologue",
@@ -161,13 +167,7 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes! It did great! That gap is twice its\nsize! I could\nlearn a thing or two!",
-      "choice_data_list": [
-        "You really helped that kitten mature.",
-        "You really helped that kitten mature, didn't you?",
-        "Since we're here, want to play with the cat for a bit?",
-        "Since we're here, should we play with the cat for a bit?"
-      ]
+      "text": "Yes! It did great! That gap is twice its\nsize! I could\nlearn a thing or two!"
     },
     {
       "name": "Bamboo Memory",
@@ -175,14 +175,14 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Yeah! We need to become braver as\nwell!"
-    },
-    {
-      "name": "Monologue",
-      "text": "At any rate, it was nice to observe the\ndifferences\nbetween these two fairly\nsimilar Umamusume.",
+      "text": "Yeah! We need to become braver as\nwell!",
       "choice_data_list": [
         "Whoa, watch out!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "At any rate, it was nice to observe the\ndifferences\nbetween these two fairly\nsimilar Umamusume."
     },
     {
       "name": "Bamboo Memory",

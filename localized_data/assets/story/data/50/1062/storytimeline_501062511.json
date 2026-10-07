@@ -19,15 +19,15 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Say no more. I'll have it fixed up in a\njiffy!"
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "It'll be fine! I fixed the TV back home\nonce when\nthe picture cut out!",
+      "text": "Say no more. I'll have it fixed up in a\njiffy!",
       "choice_data_list": [
         "Can you actually do that?",
         "Can you really do that?"
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It'll be fine! I fixed the TV back home\nonce when\nthe picture cut out!"
     },
     {
       "name": "Rice Shower",
@@ -59,14 +59,14 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Huh... I'm pretty sure I just did this a\nbunch of\ntimes until the TV started\nworking again."
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "What?! You think?! Well, I guess that's\npossible...",
+      "text": "Huh... I'm pretty sure I just did this a\nbunch of\ntimes until the TV started\nworking again.",
       "choice_data_list": [
         "Didn't that just happen to get stuck on you...?"
       ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "What?! You think?! Well, I guess that's\npossible..."
     },
     {
       "name": "Matikanetannhauser",
@@ -110,7 +110,12 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Trainer! Lend us your brains! Give me\nsomething\nwith oomph!"
+      "text": "Trainer! Lend us your brains! Give me\nsomething\nwith oomph!",
+      "choice_data_list": [
+        "Let's stick with your way of doing things.",
+        "Let's keep going with your approach.",
+        "Let's ask them to fix it."
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -123,12 +128,7 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "So I should show the vending machine\neven more\nlove?! Gotcha! Here goes!",
-      "choice_data_list": [
-        "Let's stick with your way of doing things.",
-        "Let's keep going with your approach.",
-        "Let's ask them to fix it."
-      ]
+      "text": "So I should show the vending machine\neven more\nlove?! Gotcha! Here goes!"
     },
     {
       "name": "Matikanetannhauser",

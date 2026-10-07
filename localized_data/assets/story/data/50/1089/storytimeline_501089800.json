@@ -110,10 +110,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Waaaaaah!!!!!",
-      "choice_data_list": [
-        "You can't hand it over? What?"
-      ]
+      "text": "Waaaaaah!!!!!"
     },
     {
       "name": "Cheval Grand",
@@ -131,20 +128,13 @@
       "name": "Narrator",
       "text": "Inferring from their tone, they want to \ngive something, but are too hesitant to do \nso... I wonder if that's it.",
       "choice_data_list": [
-        "Uhm..."
-      ]
-    },
-    {
-      "name": "Cheval Grand",
-      "text": "Huh? Y-Yes... For Trainer... and for me...",
-      "choice_data_list": [
         "You probably prepared this for me, right?",
         "You probably prepared this for me, right?"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "Huh...",
+      "text": "Huh? Y-Yes... For Trainer... and for me...",
       "choice_data_list": [
         "Then I'd be happy with anything!",
         "Then I'll wait until you feel like giving it.",
@@ -152,18 +142,22 @@
       ]
     },
     {
-      "name": "Narrator",
-      "text": "She struggles to express her feelings, yet \nshe prepared this with me in mind. I need \nto look her straight in the eye and tell \nher.",
+      "name": "Cheval Grand",
+      "text": "Huh...",
       "choice_data_list": [
         "It's not a bother, okay?"
       ]
     },
     {
-      "name": "Cheval Grand",
-      "text": "...N-No way...",
+      "name": "Narrator",
+      "text": "She struggles to express her feelings, yet \nshe prepared this with me in mind. I need \nto look her straight in the eye and tell \nher.",
       "choice_data_list": [
         "Thanks, Cheval."
       ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...N-No way..."
     },
     {
       "name": "Cheval Grand",
@@ -192,17 +186,13 @@
       "name": "Cheval Grand",
       "text": "Huh, ah...",
       "choice_data_list": [
-        "If it's for you, I can wait as long as it takes.",
-        "When it comes to you, I can wait as long as it takes."
+        "Only give it when you truly feel ready.",
+        "It's fine whenever you truly want to give it"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "(――...Guh. What am I doing...? You want to \nwin, don't you, together with \nTrainer...?!)",
-      "choice_data_list": [
-        "Only give it when you truly feel ready.",
-        "It's fine whenever you truly want to give it"
-      ]
+      "text": "(――...Guh. What am I doing...? You want to \nwin, don't you, together with \nTrainer...?!)"
     },
     {
       "name": "Cheval Grand",
@@ -229,11 +219,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Whaaat?! N-No way, that's not true at all!",
-      "choice_data_list": [
-        "Would a present from me be a bother?",
-        "Would a present from me be unwanted?"
-      ]
+      "text": "Whaaat?! N-No way, that's not true at all!"
     },
     {
       "name": "Cheval Grand",
@@ -247,16 +233,12 @@
       "name": "Cheval Grand",
       "text": "...It's the same...? N-No matter what kind \nof gift you receive...?",
       "choice_data_list": [
-        "I feel the same way.",
-        "Same here."
+        "Of course!"
       ]
     },
     {
       "name": "Cheval Grand",
-      "text": "I see... So that's... how it is... \nTh-Then—",
-      "choice_data_list": [
-        "Of course!"
-      ]
+      "text": "I see... So that's... how it is... \nTh-Then—"
     },
     {
       "name": "Cheval Grand",
@@ -277,10 +259,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...! Y-Yes... So you already knew...",
-      "choice_data_list": [
-        "Could it be a 'sure-win race charm'?"
-      ]
+      "text": "...! Y-Yes... So you already knew..."
     },
     {
       "name": "Cheval Grand",
@@ -291,10 +270,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...Ah... T-Thank goodness...",
-      "choice_data_list": [
-        "Not at all, I'm really happy!"
-      ]
+      "text": "...Ah... T-Thank goodness..."
     },
     {
       "name": "Cheval Grand",
@@ -305,10 +281,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Fufu..., yes...!",
-      "choice_data_list": [
-        "With the 'Power of Our Bond,' we can definitely win!"
-      ]
+      "text": "Fufu..., yes...!"
     }
   ]
 }

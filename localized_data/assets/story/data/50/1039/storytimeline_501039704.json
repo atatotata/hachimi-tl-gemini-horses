@@ -27,14 +27,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "What?! She's moving?! She didn't say\nanything\nabout that to me!"
-    },
-    {
-      "name": "Former Timid Rascal",
-      "text": "That's what I think too. She told her\nother friends\nnot to go see her off\neither...",
+      "text": "What?! She's moving?! She didn't say\nanything\nabout that to me!",
       "choice_data_list": [
         "……Maybe saying goodbye is tough."
       ]
+    },
+    {
+      "name": "Former Timid Rascal",
+      "text": "That's what I think too. She told her\nother friends\nnot to go see her off\neither..."
     },
     {
       "name": "Kawakami Princess",
@@ -146,7 +146,15 @@
     },
     {
       "name": "Monologue",
-      "text": "In that expression, I see a hint of her\nbeloved\nPrincess Fighter—a heroine who\nproudly fights on\nto protect the peace."
+      "text": "In that expression, I see a hint of her\nbeloved\nPrincess Fighter—a heroine who\nproudly fights on\nto protect the peace.",
+      "choice_data_list": [
+        "...I've got to shine out there, for her sake too.",
+        "...I have to shine out there, for her sake too.",
+        "Who knows, maybe our time to run together will come.",
+        "Who knows, maybe the day will come when we run together.",
+        "We need someone to take over as the neighborhood boss...",
+        "We need someone to take over as the neighborhood boss..."
+      ]
     },
     {
       "name": "Monologue",
@@ -162,15 +170,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Of course! I made a princess promise,\nafter all!",
-      "choice_data_list": [
-        "...I've got to shine out there, for her sake too.",
-        "...I have to shine out there, for her sake too.",
-        "Who knows, maybe our time to run together will come.",
-        "Who knows, maybe the day will come when we run together.",
-        "We need someone to take over as the neighborhood boss...",
-        "We need someone to take over as the neighborhood boss..."
-      ]
+      "text": "Of course! I made a princess promise,\nafter all!"
     },
     {
       "name": "Kawakami Princess",
@@ -202,11 +202,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "They'd have to be great at games,\nphysically\ntough, and... Wait a minute."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "O-out of the question!",
+      "text": "They'd have to be great at games,\nphysically\ntough, and... Wait a minute.",
       "choice_data_list": [
         "...Aren't you the best fit for it?",
         "...Wouldn't you be the ideal choice?"
@@ -214,10 +210,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "B-but I've already put my past as a\nrascal leader\nbehind me!",
+      "text": "O-out of the question!",
       "choice_data_list": [
         "Facing hardships head-on is..."
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "B-but I've already put my past as a\nrascal leader\nbehind me!"
     }
   ]
 }

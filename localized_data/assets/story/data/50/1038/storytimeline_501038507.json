@@ -23,14 +23,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I imagine three boxes full of fan letters\nwould\nindeed take up a bit of space in\nher dorm."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Thanks. ♪ Then I'll take my time and\nread them\none by one. ♪",
+      "text": "I imagine three boxes full of fan letters\nwould\nindeed take up a bit of space in\nher dorm.",
       "choice_data_list": [
         "Of course."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Thanks. ♪ Then I'll take my time and\nread them\none by one. ♪"
     },
     {
       "name": "Monologue",
@@ -46,7 +46,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "All of the fan letters are here in this\nroom, right?"
+      "text": "All of the fan letters are here in this\nroom, right?",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "That's right."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -60,17 +64,13 @@
       "name": "Curren Chan",
       "text": "Okay. I guess that's the last one, then.",
       "choice_data_list": [
-        "Yeah, you're right.",
-        "That's right."
+        "You read the whole thing already!?",
+        "You read the whole thing already!?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Yeah. They're letters from my fans, after\nall.",
-      "choice_data_list": [
-        "You read the whole thing already!?",
-        "You read the whole thing already!?"
-      ]
+      "text": "Yeah. They're letters from my fans, after\nall."
     },
     {
       "name": "Curren Chan",

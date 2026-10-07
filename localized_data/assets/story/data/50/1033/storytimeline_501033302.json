@@ -23,11 +23,7 @@
     },
     {
       "name": "Raffle Clerk",
-      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!"
-    },
-    {
-      "name": "Raffle Clerk",
-      "text": "Hey, you two! You have a ticket! Why\nnot try\nyour luck?",
+      "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
       "choice_data_list": [
         "So they were running a campaign like that.",
         "So they were running a campaign like that, huh."
@@ -35,15 +31,15 @@
     },
     {
       "name": "Raffle Clerk",
+      "text": "Hey, you two! You have a ticket! Why\nnot try\nyour luck?"
+    },
+    {
+      "name": "Raffle Clerk",
       "text": "You could win a trip to a hot spring with\n\nincredible scenery out in the\ncountryside! The\nstarry sky will be sure\nto help you relax!"
     },
     {
       "name": "Admire Vega",
-      "text": "..."
-    },
-    {
-      "name": "Monologue",
-      "text": "In that case...",
+      "text": "...",
       "choice_data_list": [
         "(Looks like she's slightly swayed...)",
         "(Looks like she's slightly swayed...)"
@@ -51,10 +47,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She has a ticket already. It would be a\nshame to\nlet it go to waste.",
+      "text": "In that case...",
       "choice_data_list": [
         "Since you're here, why don't you give it a try?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She has a ticket already. It would be a\nshame to\nlet it go to waste."
     },
     {
       "name": "Admire Vega",
@@ -70,15 +70,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Heart?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Wait. What does he mean by heart?",
+      "text": "Heart?",
       "choice_data_list": [
         "Alright, let's win that grand prize, Ayabe!",
         "Alright, let's win that grand prize together, Ayabe!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Wait. What does he mean by heart?"
     },
     {
       "name": "Monologue",
@@ -102,15 +102,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "What? The grand prize? Seriously?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Th-thanks...",
+      "text": "What? The grand prize? Seriously?",
       "choice_data_list": [
         "We did it, Ayabe!",
         "We did it, Ayabe!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Th-thanks..."
     },
     {
       "name": "Admire Vega",
@@ -150,11 +150,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "So—"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...!",
+      "text": "So—",
       "choice_data_list": [
         "I'll take good care of it for you.",
         "I'll keep it safe for you."
@@ -162,11 +158,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...",
+      "text": "...!",
       "choice_data_list": [
         "I'll be waiting for the day you find your answer.",
         "I'll be waiting for the day you find your answer."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
       "name": "Admire Vega",
@@ -186,14 +186,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "First prize..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...It's still pretty lucky.",
+      "text": "First prize...",
       "choice_data_list": [
         "So close...!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...It's still pretty lucky."
     },
     {
       "name": "Admire Vega",
@@ -201,11 +201,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Should we have it tonight?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Huh?",
+      "text": "Should we have it tonight?",
       "choice_data_list": [
         "Wait... isn't this somehow turning into me getting it?",
         "Wait... isn't this somehow turning into me getting it?"
@@ -213,11 +209,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Why wouldn't I?"
+      "text": "Huh?"
     },
     {
       "name": "Admire Vega",
-      "text": "That's true, but...",
+      "text": "Why wouldn't I?",
       "choice_data_list": [
         "I won it with your ticket, so it's yours.",
         "I won it with your ticket, so it's yours."
@@ -225,25 +221,29 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I don't normally eat expensive things\nlike this."
+      "text": "That's true, but..."
     },
     {
       "name": "Admire Vega",
-      "text": "What?",
+      "text": "I don't normally eat expensive things\nlike this.",
       "choice_data_list": [
         "Since we're here, let's splurge to our heart's content!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Before heading back, we pick out some\nthings in\nthe shopping district."
+      "name": "Admire Vega",
+      "text": "What?"
     },
     {
-      "name": "Admire Vega",
-      "text": "...Are you going to act like this the rest\nof the\nday?",
+      "name": "Monologue",
+      "text": "Before heading back, we pick out some\nthings in\nthe shopping district.",
       "choice_data_list": [
         "To start with, here are the hors d'oeuvres."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Are you going to act like this the rest\nof the\nday?"
     },
     {
       "name": "Monologue",
@@ -263,14 +263,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I don't even think we could finish them\nall\nourselves..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Everyone?",
+      "text": "I don't even think we could finish them\nall\nourselves...",
       "choice_data_list": [
         "How about splitting it evenly among everyone?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Everyone?"
     },
     {
       "name": "Admire Vega",
@@ -350,15 +350,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "A single carrot..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "That's not very easy to get. I suppose\nthis is\nbetter than nothing.",
+      "text": "A single carrot...",
       "choice_data_list": [
         "Sorry it wasn't the grand prize...",
         "Sorry it wasn't the grand prize..."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "That's not very easy to get. I suppose\nthis is\nbetter than nothing."
     },
     {
       "name": "Admire Vega",

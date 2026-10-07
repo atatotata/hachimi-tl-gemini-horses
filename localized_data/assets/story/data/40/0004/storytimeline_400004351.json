@@ -11,37 +11,37 @@
     },
     {
       "name": "Monologue",
-      "text": "I step out onto the academy roof one\nday to find\nNakayama Festa and Tosen\nJordan in a bind."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Huh?! Hey, stay away from here! This\nplace is a\ndanger zone right now!",
+      "text": "I step out onto the academy roof one\nday to find\nNakayama Festa and Tosen\nJordan in a bind.",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
     },
     {
-      "name": "Tosen Jordan",
-      "text": "W-wait!\n...Hey, listen! It's Golshi—she's\nacting all weird!"
+      "name": "Nakayama Festa",
+      "text": "Huh?! Hey, stay away from here! This\nplace is a\ndanger zone right now!"
     },
     {
-      "name": "Gold Ship",
-      "text": "Oh, Trainer. Good morning to you. Such\nfine\nweather we're having.",
+      "name": "Tosen Jordan",
+      "text": "W-wait!\n...Hey, listen! It's Golshi—she's\nacting all weird!",
       "choice_data_list": [
         "(Isn't Gold Ship always weird?)"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Lovely days such as this are so serene.\nThey make\nme feel absolutely refreshed."
+      "text": "Oh, Trainer. Good morning to you. Such\nfine\nweather we're having."
     },
     {
       "name": "Gold Ship",
-      "text": "Hm? Whatever is the matter, Trainer? Is\nthere\nsomething on my face, perhaps?",
+      "text": "Lovely days such as this are so serene.\nThey make\nme feel absolutely refreshed.",
       "choice_data_list": [
         "...!?!?"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hm? Whatever is the matter, Trainer? Is\nthere\nsomething on my face, perhaps?"
     },
     {
       "name": "Tosen Jordan",
@@ -69,21 +69,21 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Oh, I just remembered that I baked some\ncookies.\nWould you care to try one,\nTrainer?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I take a cookie from Gold Ship. The\nsweet,\nmellow flavor caresses my taste\nbuds.",
+      "text": "Oh, I just remembered that I baked some\ncookies.\nWould you care to try one,\nTrainer?",
       "choice_data_list": [
         "Ah, thank you..."
       ]
     },
     {
-      "name": "Gold Ship",
-      "text": "Hehe, I'm pleased it's to your liking.",
+      "name": "Monologue",
+      "text": "I take a cookie from Gold Ship. The\nsweet,\nmellow flavor caresses my taste\nbuds.",
       "choice_data_list": [
         "...It's delicious?!"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hehe, I'm pleased it's to your liking."
     },
     {
       "name": "Gold Ship",
@@ -95,7 +95,13 @@
     },
     {
       "name": "Monologue",
-      "text": "Something abnormal is definitely going\non here.\nAnd I need to figure out what..."
+      "text": "Something abnormal is definitely going\non here.\nAnd I need to figure out what...",
+      "choice_data_list": [
+        "Nakayama, help me out!",
+        "Nakayama, help!",
+        "Jordan, got any good ideas?",
+        "Jordan, got any good ideas?"
+      ]
     },
     {
       "name": "Monologue",
@@ -109,13 +115,7 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Tch, you want <i>me</i> to help with this?",
-      "choice_data_list": [
-        "Nakayama, help me out!",
-        "Nakayama, help!",
-        "Jordan, got any good ideas?",
-        "Jordan, got any good ideas?"
-      ]
+      "text": "Tch, you want <i>me</i> to help with this?"
     },
     {
       "name": "Nakayama Festa",

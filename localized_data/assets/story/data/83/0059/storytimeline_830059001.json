@@ -15,15 +15,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Ah-wawa...! I-I'm s-so sorry!"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Scanning for injuries—pain perception, normal.\nStatus evaluated as 'unharmed'.",
+      "text": "Ah-wawa...! I-I'm s-so sorry!",
       "choice_data_list": [
         "Are you okay? Are you hurt?",
         "Are you okay? Any injuries?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Scanning for injuries—pain perception, normal.\nStatus evaluated as 'unharmed'."
     },
     {
       "name": "Rice Shower",
@@ -43,25 +43,25 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Determined to be caused by excessively stacking \nall 50 volumes of 'The Bestest Friends☆Club'."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "This is an illustrated guide intended to\npromote smooth communication.",
+      "text": "Determined to be caused by excessively stacking \nall 50 volumes of 'The Bestest Friends☆Club'.",
       "choice_data_list": [
         "'The Bestest Friends☆Club'?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Currently verifying the true nature of this mysterious emotion.\nBased on collected data,\nI have determined this book to be optimal."
+      "text": "This is an illustrated guide intended to\npromote smooth communication."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes. It occurs whenever the 'subject of interest'\nenters my field of vision.",
+      "text": "Currently verifying the true nature of this mysterious emotion.\nBased on collected data,\nI have determined this book to be optimal.",
       "choice_data_list": [
         "A mysterious emotion?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yes. It occurs whenever the 'subject of interest'\nenters my field of vision."
     },
     {
       "name": "Mihono Bourbon",
@@ -85,14 +85,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "—And so, I have accepted the\n'Friendship Mission' from my father."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Isn't that amazing?\nTo be thought of so fondly by Bourbon-san.\nShe must be a truly wonderful girl...",
+      "text": "—And so, I have accepted the\n'Friendship Mission' from my father.",
       "choice_data_list": [
         "I see..."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Isn't that amazing?\nTo be thought of so fondly by Bourbon-san.\nShe must be a truly wonderful girl..."
     },
     {
       "name": "Rice Shower",
@@ -120,7 +120,12 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Wh-Whaaat!? Wh-Wh-What!?\nR-R-Rice is... st-stun...ning...!?"
+      "text": "Wh-Whaaat!? Wh-Wh-What!?\nR-R-Rice is... st-stun...ning...!?",
+      "choice_data_list": [
+        "She really is a \"wonderful girl\"!",
+        "She really is a \"wonderful girl\", isn't she!",
+        "C-Calm down."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -133,12 +138,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Affirmation count increased.\nDetermining that the validity of my argument has risen.",
-      "choice_data_list": [
-        "She really is a \"wonderful girl\"!",
-        "She really is a \"wonderful girl\", isn't she!",
-        "C-Calm down."
-      ]
+      "text": "Affirmation count increased.\nDetermining that the validity of my argument has risen."
     },
     {
       "name": "Rice Shower",

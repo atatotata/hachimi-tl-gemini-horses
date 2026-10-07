@@ -63,14 +63,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Whaddya think, Trainer? Who's most\nlikely to\ncome out the winner?"
-    },
-    {
-      "name": "Inari One",
-      "text": "Ya think? Well, guess we just gotta\nwatch and\nsee.",
+      "text": "Whaddya think, Trainer? Who's most\nlikely to\ncome out the winner?",
       "choice_data_list": [
         "Isn't it the one who's training, after all?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ya think? Well, guess we just gotta\nwatch and\nsee."
     },
     {
       "name": "Monologue",
@@ -138,7 +138,13 @@
     },
     {
       "name": "Inari One",
-      "text": "Sheesh. I swear, some folks have got no\nidea how\nto have a proper fight!"
+      "text": "Sheesh. I swear, some folks have got no\nidea how\nto have a proper fight!",
+      "choice_data_list": [
+        "It's the result of clashing with everything you had.",
+        "It's the result of clashing with everything you had, isn't it.",
+        "You wrapped that up in no time flat!",
+        "You wrapped that up in no time flat!"
+      ]
     },
     {
       "name": "Inari One",
@@ -152,13 +158,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Exactly. Well, it <i>woulda</i> been a helluva\nlot easier\nif they opened up from the\nget-go.",
-      "choice_data_list": [
-        "It's the result of clashing with everything you had.",
-        "It's the result of clashing with everything you had, isn't it.",
-        "You wrapped that up in no time flat!",
-        "You wrapped that up in no time flat!"
-      ]
+      "text": "Exactly. Well, it <i>woulda</i> been a helluva\nlot easier\nif they opened up from the\nget-go."
     },
     {
       "name": "Inari One",
@@ -166,14 +166,14 @@
     },
     {
       "name": "Inari One",
-      "text": "And remember, if <i>we</i> ever go toe-to-toe,\nmake\nsure to bring your A game!"
-    },
-    {
-      "name": "Monologue",
-      "text": "A bold approach to solving\nproblems—that's Inari\nOne for you!",
+      "text": "And remember, if <i>we</i> ever go toe-to-toe,\nmake\nsure to bring your A game!",
       "choice_data_list": [
         "Right!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "A bold approach to solving\nproblems—that's Inari\nOne for you!"
     },
     {
       "name": "Inari One",

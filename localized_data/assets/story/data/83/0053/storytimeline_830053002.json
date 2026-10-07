@@ -163,14 +163,20 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Okay! I hear ya loud 'n' clear!"
+      "text": "Okay! I hear ya loud 'n' clear!",
+      "choice_data_list": [
+        "This workplace is bursting with energy!",
+        "This workplace is bursting with energy!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
       "text": "Oh! You're the trainer from the party the\nother\nday! Yessir! Things are goin' just\nswell here!",
       "choice_data_list": [
-        "This workplace is bursting with energy!",
-        "This workplace is bursting with energy!"
+        "You've got a real talent for acting, too!",
+        "Turns out you've got a talent for acting, too!",
+        "Is there anything I can help with?",
+        "Is there anything I can help with?"
       ]
     },
     {
@@ -185,32 +191,26 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Thanks! The director's been giving me\nloads of\npointers, so I reckon I'm getting\nmuch better!\nCheck this out!",
-      "choice_data_list": [
-        "You've got a real talent for acting, too!",
-        "Turns out you've got a talent for acting, too!",
-        "Is there anything I can help with?",
-        "Is there anything I can help with?"
-      ]
+      "text": "Thanks! The director's been giving me\nloads of\npointers, so I reckon I'm getting\nmuch better!\nCheck this out!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "There are two types of Umamusume in\nthis world,\nmy friend—those who dig for\ncarrots, and those\nwho eat 'em!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Hehehe! You've got an eye for talent!\nWanna join\nthe crew? Makin' movies is\nloads of fun!",
+      "text": "There are two types of Umamusume in\nthis world,\nmy friend—those who dig for\ncarrots, and those\nwho eat 'em!",
       "choice_data_list": [
         "Hey there, showstopper!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "And so, I'm brought on board to do odd\njobs\nbehind the scenes.",
+      "name": "Taiki Shuttle",
+      "text": "Hehehe! You've got an eye for talent!\nWanna join\nthe crew? Makin' movies is\nloads of fun!",
       "choice_data_list": [
         "If you're okay with me, I'd love to!",
         "I'd love to, if you'll have me!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, I'm brought on board to do odd\njobs\nbehind the scenes."
     },
     {
       "name": "Taiki Shuttle",
@@ -226,14 +226,14 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "You sure can! I think the director was\nlookin' for\nan extra to play the cactus!"
-    },
-    {
-      "name": "Monologue",
-      "text": "After some negotiation between Taiki\nShuttle and\nthe director, I end up cast in\na role as a human.",
+      "text": "You sure can! I think the director was\nlookin' for\nan extra to play the cactus!",
       "choice_data_list": [
         "Does a cactus even need an actor?!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "After some negotiation between Taiki\nShuttle and\nthe director, I end up cast in\na role as a human."
     }
   ]
 }

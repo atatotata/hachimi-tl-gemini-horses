@@ -7,14 +7,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Don't worry, Big Brother. I'm okay.",
+      "text": "...",
       "choice_data_list": [
         "...Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Don't worry, Big Brother. I'm okay."
     },
     {
       "name": "Rice Shower",
@@ -34,7 +34,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "S-sorry! I have to go!"
+      "text": "S-sorry! I have to go!",
+      "choice_data_list": [
+        "Where to?!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -45,10 +48,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Not far!",
-      "choice_data_list": [
-        "Where to?!"
-      ]
+      "text": "Not far!"
     },
     {
       "name": "Monologue",
@@ -72,14 +72,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Please... ask them to let us use the\ncourse!"
-    },
-    {
-      "name": "Monologue",
-      "text": "I tear across the corridor toward her\nvoice.",
+      "text": "Please... ask them to let us use the\ncourse!",
       "choice_data_list": [
         "Rice's voice—?!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tear across the corridor toward her\nvoice."
     },
     {
       "name": "Director Akikawa",
@@ -91,18 +91,21 @@
     },
     {
       "name": "Rice Shower",
-      "text": "So please... save the Takarazuka Kinen!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Astonishment! Now Trainer\n\n<username> is here\ntoo?!",
+      "text": "So please... save the Takarazuka Kinen!",
       "choice_data_list": [
         "Rice?!"
       ]
     },
     {
+      "name": "Director Akikawa",
+      "text": "Astonishment! Now Trainer\n\n<username> is here\ntoo?!"
+    },
+    {
       "name": "Rice Shower",
-      "text": "Huh?! Big Brother?"
+      "text": "Huh?! Big Brother?",
+      "choice_data_list": [
+        "What on earth is this...?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -113,10 +116,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...I came to ask the director for\nsomething.",
-      "choice_data_list": [
-        "What on earth is this...?"
-      ]
+      "text": "...I came to ask the director for\nsomething."
     },
     {
       "name": "Rice Shower",
@@ -140,15 +140,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Please, please, please! I want to do\neverything I\npossibly can for all the\npeople who have\nsupported me up until\nnow!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Huh?! N-now, now... Let's all calm dow—",
+      "text": "Please, please, please! I want to do\neverything I\npossibly can for all the\npeople who have\nsupported me up until\nnow!",
       "choice_data_list": [
         "...I'll help out too!",
         "...I'll help too!"
       ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Huh?! N-now, now... Let's all calm dow—"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -180,14 +180,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Hic...</i> I'm so glad... that they're holding\nthe race."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Yeah... Yeah! Not just for me, but for\neveryone\nwho's working hard to make\nthis happen.",
+      "text": "<i>Hic...</i> I'm so glad... that they're holding\nthe race.",
       "choice_data_list": [
         "We have to do our best for everyone's sake."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yeah... Yeah! Not just for me, but for\neveryone\nwho's working hard to make\nthis happen."
     },
     {
       "name": "Rice Shower",

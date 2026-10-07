@@ -7,14 +7,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Seeking the Pearl decides to rethink\nwhat exactly\nit is she wants to\naccomplish."
-    },
-    {
-      "name": "Monologue",
-      "text": "I may have taken this goal too lightly.\nThe Prix\nJacques Le Marois is one of the\nhighest ranking\nG1 races.",
+      "text": "Seeking the Pearl decides to rethink\nwhat exactly\nit is she wants to\naccomplish.",
       "choice_data_list": [
         "'Conquering our first European G1,' huh..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I may have taken this goal too lightly.\nThe Prix\nJacques Le Marois is one of the\nhighest ranking\nG1 races."
     },
     {
       "name": "Monologue",
@@ -26,23 +26,19 @@
     },
     {
       "name": "Sirius Symboli",
-      "text": "Huh? You want me to tell you about\nEuropean\nraces?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I've decided to ask Sirius Symboli for\nadvice since\nshe's run in and traveled\ninternationally to France\nand Italy quite\nextensively.",
+      "text": "Huh? You want me to tell you about\nEuropean\nraces?",
       "choice_data_list": [
         "Yeah, I'm counting on you.",
         "Yeah, please."
       ]
     },
     {
-      "name": "Sirius Symboli",
-      "text": "Hmph. Not interested. Go read about\nthem in a\nbook or something."
+      "name": "Monologue",
+      "text": "I've decided to ask Sirius Symboli for\nadvice since\nshe's run in and traveled\ninternationally to France\nand Italy quite\nextensively."
     },
     {
-      "name": "Monologue",
-      "text": "When it comes to running in a race,\nthere are a\nlot of things I can't\nunderstand just by looking at\nobjective\ndata.",
+      "name": "Sirius Symboli",
+      "text": "Hmph. Not interested. Go read about\nthem in a\nbook or something.",
       "choice_data_list": [
         "I can't tell from just that.",
         "I really can't tell from just that, you know."
@@ -50,18 +46,22 @@
     },
     {
       "name": "Monologue",
+      "text": "When it comes to running in a race,\nthere are a\nlot of things I can't\nunderstand just by looking at\nobjective\ndata."
+    },
+    {
+      "name": "Monologue",
       "text": "To find out which race is suitable for us,\nI need\nreal information I can only get\nfrom Umamusume\nwho've run in the\nraces we're considering."
     },
     {
       "name": "Sirius Symboli",
-      "text": "...Tch. Take a hint, would you?"
-    },
-    {
-      "name": "Sirius Symboli",
-      "text": "Spare me that crap. You want to know\nwhat I\ncan't stand about you? Your\neyes—you want to\nwin so badly, even\nthough you know you've got\nno chance.",
+      "text": "...Tch. Take a hint, would you?",
       "choice_data_list": [
         "Guess that's a no...?"
       ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Spare me that crap. You want to know\nwhat I\ncan't stand about you? Your\neyes—you want to\nwin so badly, even\nthough you know you've got\nno chance."
     },
     {
       "name": "Sirius Symboli",
@@ -89,22 +89,22 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "What did you want to tell me, Trainer?"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Found what?",
+      "text": "What did you want to tell me, Trainer?",
       "choice_data_list": [
         "Found it, Pearl..."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I hand her a book with information about\nthe\nrace.",
+      "name": "Seeking the Pearl",
+      "text": "Found what?",
       "choice_data_list": [
         "It's the 'Prix Maurice de Gheest'!",
         "'Prix Maurice de Gheest'...!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I hand her a book with information about\nthe\nrace."
     },
     {
       "name": "Seeking the Pearl",
@@ -116,15 +116,15 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Trainer, this..."
-    },
-    {
-      "name": "Monologue",
-      "text": "When I found it, I jumped for joy. I\ncross-checked\nit with the information I\nreceived from Sirius\nSymboli, and\neverything looks good.",
+      "text": "Trainer, this...",
       "choice_data_list": [
         "This race is meant for you.",
         "This race is for you."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "When I found it, I jumped for joy. I\ncross-checked\nit with the information I\nreceived from Sirius\nSymboli, and\neverything looks good."
     },
     {
       "name": "Monologue",
@@ -136,14 +136,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "You really found something grand for\nme. This is\nwithout a doubt my destiny..."
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Yes. The name of the race evokes both\nnostalgia\nand sympathy within me.",
+      "text": "You really found something grand for\nme. This is\nwithout a doubt my destiny...",
       "choice_data_list": [
         "Destiny?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Yes. The name of the race evokes both\nnostalgia\nand sympathy within me."
     },
     {
       "name": "Seeking the Pearl",
@@ -219,15 +219,15 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "I'm sure it'll reveal to us what we should\ndo."
-    },
-    {
-      "name": "Monologue",
-      "text": "No matter what we decide to do, the\ndecision can\nwait until after the Yasuda\nKinen.",
+      "text": "I'm sure it'll reveal to us what we should\ndo.",
       "choice_data_list": [
         "Yeah... That's right.",
         "Yeah... That's true."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "No matter what we decide to do, the\ndecision can\nwait until after the Yasuda\nKinen."
     },
     {
       "name": "Monologue",
