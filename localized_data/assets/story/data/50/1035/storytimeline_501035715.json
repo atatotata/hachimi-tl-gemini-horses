@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "After training..."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Thank you! You too, Trainer!",
+      "text": "After training...",
       "choice_data_list": [
         "Good work."
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Thank you! You too, Trainer!"
     },
     {
       "name": "Winning Ticket",
@@ -26,7 +26,12 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I'm gonna do some solo practice, okay?"
+      "text": "I'm gonna do some solo practice, okay?",
+      "choice_data_list": [
+        "All right! Let's do it!",
+        "All right! Let's do this!",
+        "Let's save our full strength for later."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -39,12 +44,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Woooo! Here we gooo!",
-      "choice_data_list": [
-        "All right! Let's do it!",
-        "All right! Let's do this!",
-        "Let's save our full strength for later."
-      ]
+      "text": "Woooo! Here we gooo!"
     },
     {
       "name": "Winning Ticket",

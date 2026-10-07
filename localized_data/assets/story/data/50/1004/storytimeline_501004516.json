@@ -19,15 +19,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Think nothing of it! ♪ You can ask me\nfor help\nanytime! ♪"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "So it is. Let's get our grub on!",
+      "text": "Think nothing of it! ♪ You can ask me\nfor help\nanytime! ♪",
       "choice_data_list": [
         "It's almost lunchtime.",
         "It's almost lunchtime, huh."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So it is. Let's get our grub on!"
     },
     {
       "name": "Special Week",
@@ -43,15 +43,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hm? Oh!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That place is selling the same tiramisu I\nused to\neat as a kid!",
+      "text": "Hm? Oh!",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That place is selling the same tiramisu I\nused to\neat as a kid!"
     },
     {
       "name": "Monologue",
@@ -75,7 +75,13 @@
     },
     {
       "name": "Maruzensky",
-      "text": "We can't waste this opportunity! Let's\nhave a\nparty! It'll be off the hook!"
+      "text": "We can't waste this opportunity! Let's\nhave a\nparty! It'll be off the hook!",
+      "choice_data_list": [
+        "Are the calories going to be okay?",
+        "Are the calories okay?",
+        "Go out there and give it your all!",
+        "Go out there and give it your all!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -89,13 +95,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Nngh... I know I should, but this place\nlooks so\ngreat...",
-      "choice_data_list": [
-        "Are the calories going to be okay?",
-        "Are the calories okay?",
-        "Go out there and give it your all!",
-        "Go out there and give it your all!"
-      ]
+      "text": "Nngh... I know I should, but this place\nlooks so\ngreat..."
     },
     {
       "name": "Maruzensky",

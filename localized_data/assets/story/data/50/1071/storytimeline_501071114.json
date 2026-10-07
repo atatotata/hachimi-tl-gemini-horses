@@ -7,14 +7,14 @@
     },
     {
       "name": "Nanny",
-      "text": "Good morning, Trainer."
-    },
-    {
-      "name": "Nanny",
-      "text": "I presume you're here to see Lady\nArdan? Allow\nme to lead the way.",
+      "text": "Good morning, Trainer.",
       "choice_data_list": [
         "Good morning."
       ]
+    },
+    {
+      "name": "Nanny",
+      "text": "I presume you're here to see Lady\nArdan? Allow\nme to lead the way."
     },
     {
       "name": "Monologue",
@@ -22,11 +22,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Hello there, Trainer. How lovely that\nyou've come\nto see me."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "It's absolutely fine. The chief physician\nsaid that\nI've regained my strength and\nam at least as\nhealthy as I was before my\ndebut.",
+      "text": "Hello there, Trainer. How lovely that\nyou've come\nto see me.",
       "choice_data_list": [
         "...How's your body feeling?",
         "...How are you feeling physically?"
@@ -34,10 +30,14 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Trainer, would you care to take a nice,\nrelaxing\nstroll with me?",
+      "text": "It's absolutely fine. The chief physician\nsaid that\nI've regained my strength and\nam at least as\nhealthy as I was before my\ndebut.",
       "choice_data_list": [
         "That's good to hear."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Trainer, would you care to take a nice,\nrelaxing\nstroll with me?"
     },
     {
       "name": "Mejiro Ardan",
@@ -53,14 +53,14 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "This moment, right now, is a critical\njuncture for\nyou."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "...I can hazard a good guess at how your\n\nconversation with my physician went the\nother\nday.",
+      "text": "This moment, right now, is a critical\njuncture for\nyou.",
       "choice_data_list": [
         "Does that meanâ"
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...I can hazard a good guess at how your\n\nconversation with my physician went the\nother\nday."
     },
     {
       "name": "Mejiro Ardan",
@@ -80,14 +80,14 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I shan't ever give up."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "But of course, this decision reflects only\n<i>my</i>\nwishes... and not yours, Trainer.",
+      "text": "I shan't ever give up.",
       "choice_data_list": [
         "Ardan..."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "But of course, this decision reflects only\n<i>my</i>\nwishes... and not yours, Trainer."
     },
     {
       "name": "Mejiro Ardan",
@@ -103,29 +103,29 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Could you still adorn me on the track...\nknowing\nthat you might end up breaking\nme?"
+      "text": "Could you still adorn me on the track...\nknowing\nthat you might end up breaking\nme?",
+      "choice_data_list": [
+        "There is."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "...",
       "choice_data_list": [
-        "There is."
+        "Still, I would never break it."
       ]
     },
     {
       "name": "Monologue",
       "text": "Mejiro Ardan looks at me like she's\npuzzling\nsomething over. I've already\ndecided how I'm\ngoing to answer her\nquestion.",
       "choice_data_list": [
-        "Still, I would never break it."
+        "There's something I want you to see.",
+        "There's something I want you to see."
       ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "You've... something to show me?",
-      "choice_data_list": [
-        "There's something I want you to see.",
-        "There's something I want you to see."
-      ]
+      "text": "You've... something to show me?"
     },
     {
       "name": "Monologue",
@@ -137,15 +137,15 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Th-this can't be—"
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "...!",
+      "text": "Th-this can't be—",
       "choice_data_list": [
         "That's my resolve.",
         "That's my resolve."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
     },
     {
       "name": "Monologue",
@@ -165,15 +165,15 @@
     },
     {
       "name": "Monologue",
-      "text": "The thing is, I don't want kindness. I\nwant\nsomething else..."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "...!",
+      "text": "The thing is, I don't want kindness. I\nwant\nsomething else...",
       "choice_data_list": [
         "I want to stay Ardan's Trainer.",
         "I want to be Ardan's Trainer."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
     },
     {
       "name": "Monologue",
@@ -181,11 +181,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I decide that now's the time to put my\nanswer into\nwords. As Mejiro Ardan's\ntrainer..."
-    },
-    {
-      "name": "Monologue",
-      "text": "As her trainer, I'll make sure to protect\nher fragile\nbody, so she'll be able to\nshine on in all her races,\nnow and\nforever.",
+      "text": "I decide that now's the time to put my\nanswer into\nwords. As Mejiro Ardan's\ntrainer...",
       "choice_data_list": [
         "I won't let your light be extinguished.",
         "I won't let your light fade away."
@@ -193,15 +189,19 @@
     },
     {
       "name": "Monologue",
-      "text": "And to help her—this racer who lives in\nthe\nmoment, and only has eyes for the\nnow..."
+      "text": "As her trainer, I'll make sure to protect\nher fragile\nbody, so she'll be able to\nshine on in all her races,\nnow and\nforever."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "...",
+      "name": "Monologue",
+      "text": "And to help her—this racer who lives in\nthe\nmoment, and only has eyes for the\nnow...",
       "choice_data_list": [
         "I will paint your âfuture.â",
         "I will paint your 'future'."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
     },
     {
       "name": "Mejiro Ardan",
@@ -229,18 +229,14 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...I'm truly, terribly sorry for that."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "...Oh?",
+      "text": "...I'm truly, terribly sorry for that.",
       "choice_data_list": [
         "If anything, I should be thanking you for giving it a shot."
       ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Trainer...",
+      "text": "...Oh?",
       "choice_data_list": [
         "Because I've renewed my resolve, too.",
         "Because I was able to steel my resolve again too."
@@ -248,11 +244,15 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...How could I ever refuse?",
+      "text": "Trainer...",
       "choice_data_list": [
         "Please let me walk alongside you.",
         "Please let me walk alongside you."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...How could I ever refuse?"
     },
     {
       "name": "Mejiro Ardan",
@@ -268,25 +268,25 @@
     },
     {
       "name": "Chief Physician",
-      "text": "As Lady Ardan's chief physician, I hereby\ngive her\nmy formal permission to return\nto the academy."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Thank you so much.",
+      "text": "As Lady Ardan's chief physician, I hereby\ngive her\nmy formal permission to return\nto the academy.",
       "choice_data_list": [
         "Thank you very much...!"
       ]
     },
     {
-      "name": "Chief Physician",
-      "text": "However, note that I may have to\nrescind this\ndecision in the event that\nsomething were to\nhappen to Lady\nArdan again."
+      "name": "Mejiro Ardan",
+      "text": "Thank you so much."
     },
     {
       "name": "Chief Physician",
-      "text": "...This is little more than my personal\nopinion, but\nI fully support the decision\nyou've both made.",
+      "text": "However, note that I may have to\nrescind this\ndecision in the event that\nsomething were to\nhappen to Lady\nArdan again.",
       "choice_data_list": [
         "I am well aware."
       ]
+    },
+    {
+      "name": "Chief Physician",
+      "text": "...This is little more than my personal\nopinion, but\nI fully support the decision\nyou've both made."
     },
     {
       "name": "Chief Physician",
@@ -294,15 +294,15 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...Trainer, it sounds like he believes in\nyou as well."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Hehe. And so will I.",
+      "text": "...Trainer, it sounds like he believes in\nyou as well.",
       "choice_data_list": [
         "I'll give it my all to live up to that trust.",
         "I'll do my very best not to let that trust down."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hehe. And so will I."
     },
     {
       "name": "Monologue",
@@ -338,21 +338,21 @@
     },
     {
       "name": "Nanny",
-      "text": "Trainer."
-    },
-    {
-      "name": "Nanny",
-      "text": "...Please take good care of Lady Ardan.",
+      "text": "Trainer.",
       "choice_data_list": [
         "Yes."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Mejiro Ardan's nanny bows deeply upon\nhearing\nmy response, then leaves\nwithout uttering\nanother word.",
+      "name": "Nanny",
+      "text": "...Please take good care of Lady Ardan.",
       "choice_data_list": [
         "I will protect her, no matter what."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro Ardan's nanny bows deeply upon\nhearing\nmy response, then leaves\nwithout uttering\nanother word."
     },
     {
       "name": "Mejiro Ardan",
@@ -364,11 +364,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I was wondering if perhaps I could\ntrouble you to\ndecide on each of the\nraces I'll be running during\nmy junior\nyear."
-    },
-    {
-      "name": "Mejiro Ardan",
-      "text": "Not at all. Because I've made a decision\nof my\nown today.",
+      "text": "I was wondering if perhaps I could\ntrouble you to\ndecide on each of the\nraces I'll be running during\nmy junior\nyear.",
       "choice_data_list": [
         "Of course. But are you sure I can decide everything?",
         "Of course. But are you sure I can decide everything?"
@@ -376,14 +372,18 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "I've decided to pursue the future that\nyou have\nlaid out for me."
+      "text": "Not at all. Because I've made a decision\nof my\nown today."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "As such, I ask for your guidance on what\nI ought\nto focus on <i>now,</i> Trainer.",
+      "text": "I've decided to pursue the future that\nyou have\nlaid out for me.",
       "choice_data_list": [
         "Ardan...!"
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "As such, I ask for your guidance on what\nI ought\nto focus on <i>now,</i> Trainer."
     },
     {
       "name": "Monologue",
@@ -391,25 +391,25 @@
     },
     {
       "name": "Monologue",
-      "text": "My determination to support her grows\nstronger\nyet—she's putting her life in my\nhands!"
-    },
-    {
-      "name": "Monologue",
-      "text": "What Mejiro Ardan needs right now is\nboth\nhands-on experience and the\nphysical capacity to\nlast an entire race.",
+      "text": "My determination to support her grows\nstronger\nyet—she's putting her life in my\nhands!",
       "choice_data_list": [
         "Let's get stronger, little by little."
       ]
     },
     {
       "name": "Monologue",
-      "text": "During her junior year, I plan to have her\ncontinue\ntraining as she accumulates\nactual racing\nexperience at a pace that\nsuits her."
+      "text": "What Mejiro Ardan needs right now is\nboth\nhands-on experience and the\nphysical capacity to\nlast an entire race."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Very well. In other words, it appears as\nthough it's\ntime for me to undergo quite\nsome rigorous\ntraining.",
+      "name": "Monologue",
+      "text": "During her junior year, I plan to have her\ncontinue\ntraining as she accumulates\nactual racing\nexperience at a pace that\nsuits her.",
       "choice_data_list": [
         "And let's aim for a stage where you can shine even brighter."
       ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Very well. In other words, it appears as\nthough it's\ntime for me to undergo quite\nsome rigorous\ntraining."
     },
     {
       "name": "Mejiro Ardan",

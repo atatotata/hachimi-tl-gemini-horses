@@ -11,11 +11,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I get the feeling her determination to\nsurpass\nSilence Suzuka is pushing her to\nrisky extremes."
-    },
-    {
-      "name": "Monologue",
-      "text": "Just then, it occurs to me that I haven't\nbeen to a\nshrine yet this year.",
+      "text": "I get the feeling her determination to\nsurpass\nSilence Suzuka is pushing her to\nrisky extremes.",
       "choice_data_list": [
         "(If only she could find some way to unwind...)",
         "(If only she could find some way to unwind...)"
@@ -23,18 +19,22 @@
     },
     {
       "name": "Monologue",
+      "text": "Just then, it occurs to me that I haven't\nbeen to a\nshrine yet this year."
+    },
+    {
+      "name": "Monologue",
       "text": "Air Groove chewed me out last year\nabout not\nhaving any holiday spirit.\nShe'll definitely bite if I\nmention this to\nher."
     },
     {
       "name": "Air Groove",
-      "text": "What are you staring at? Do you have\nsomething\nto say about my running?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "...?!",
+      "text": "What are you staring at? Do you have\nsomething\nto say about my running?",
       "choice_data_list": [
         "Actually, I haven't gone for Hatsumode yet this year..."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...?!"
     },
     {
       "name": "Air Groove",
@@ -50,14 +50,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "HOW HAVE I NOT GONE YET?!"
-    },
-    {
-      "name": "Air Groove",
-      "text": "I'll never forgive myself! I was so caught\nup in\ntraining that I almost let this\ncelebration pass me\nby!",
+      "text": "HOW HAVE I NOT GONE YET?!",
       "choice_data_list": [
         "Wait, Air Groove too?"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "I'll never forgive myself! I was so caught\nup in\ntraining that I almost let this\ncelebration pass me\nby!"
     },
     {
       "name": "Air Groove",
@@ -73,14 +73,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "This doesn't happen often, but I must\nthank you.\nIf weren't for your reminder, I\nwould've\ncompletely forgotten about it."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Ugh... This is clear proof of negligence\non my\npart!",
+      "text": "This doesn't happen often, but I must\nthank you.\nIf weren't for your reminder, I\nwould've\ncompletely forgotten about it.",
       "choice_data_list": [
         "You're welcome."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ugh... This is clear proof of negligence\non my\npart!"
     },
     {
       "name": "Air Groove",
@@ -92,7 +92,13 @@
     },
     {
       "name": "Monologue",
-      "text": "I start to panic. I need to nip this in the\nbud\nbefore things get out of hand. But\nhow am I going\nto get her to take the\nwhole day off?"
+      "text": "I start to panic. I need to nip this in the\nbud\nbefore things get out of hand. But\nhow am I going\nto get her to take the\nwhole day off?",
+      "choice_data_list": [
+        "Want to eat some traditional New Year's food?",
+        "Want to eat some traditional New Year's food?",
+        "Let's write 'I want to get stronger' on an ema!",
+        "Let's draw a fortune slip!"
+      ]
     },
     {
       "name": "Monologue",
@@ -108,30 +114,24 @@
       "name": "Air Groove",
       "text": "Did you even listen to what I just said?\nWe\nhaven't a moment to lose!",
       "choice_data_list": [
-        "Want to eat some traditional New Year's food?",
-        "Want to eat some traditional New Year's food?",
-        "Let's write 'I want to get stronger' on an ema!",
-        "Let's draw a fortune slip!"
-      ]
-    },
-    {
-      "name": "Air Groove",
-      "text": "Ngh...",
-      "choice_data_list": [
         "Aren't you doing anything festive for New Year's this year?",
         "Aren't you doing anything New Year's-like this year?"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "I suppose a shrine visit alone isn't\nenough to\nconstitute a proper New\nYear's celebration..."
+      "text": "Ngh..."
     },
     {
       "name": "Air Groove",
-      "text": "I can't believe you're using my own\nwords against\nme...",
+      "text": "I suppose a shrine visit alone isn't\nenough to\nconstitute a proper New\nYear's celebration...",
       "choice_data_list": [
         "Gotta keep the seasonal feel."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "I can't believe you're using my own\nwords against\nme..."
     },
     {
       "name": "Air Groove",
@@ -139,14 +139,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Let's eat something seasonal before we\nhead\nback. Any ideas?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "...Is that the only New Year's food you\nknow?",
+      "text": "Let's eat something seasonal before we\nhead\nback. Any ideas?",
       "choice_data_list": [
         "...Like ozoni soup?"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Is that the only New Year's food you\nknow?"
     },
     {
       "name": "Monologue",
@@ -158,11 +158,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "\"I want to get stronger?\" As always, your\nphrasing\nneeds some work. Besides, I\ndon't have time to\nwaste on—"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Ngh.",
+      "text": "\"I want to get stronger?\" As always, your\nphrasing\nneeds some work. Besides, I\ndon't have time to\nwaste on—",
       "choice_data_list": [
         "Don't you usually write an ema?",
         "Don't you usually write an ema?"
@@ -170,19 +166,23 @@
     },
     {
       "name": "Air Groove",
+      "text": "Ngh."
+    },
+    {
+      "name": "Air Groove",
       "text": "...Actually, I usually do."
     },
     {
       "name": "Air Groove",
-      "text": "Writing out my goals is an effective way\nto\nheighten my awareness of them."
-    },
-    {
-      "name": "Air Groove",
-      "text": "I suppose you're right. But let's make\nthis quick.",
+      "text": "Writing out my goals is an effective way\nto\nheighten my awareness of them.",
       "choice_data_list": [
         "Then let's write it!",
         "Then let's write it down!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "I suppose you're right. But let's make\nthis quick."
     },
     {
       "name": "Air Groove",
@@ -194,14 +194,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "So tell me. What are <i>you</i> going to write?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "You moron... Could you have phrased\nthat any\nmore poorly?",
+      "text": "So tell me. What are <i>you</i> going to write?",
       "choice_data_list": [
         "May Air Groove become the strongest!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "You moron... Could you have phrased\nthat any\nmore poorly?"
     },
     {
       "name": "Monologue",
@@ -213,11 +213,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Did you even listen to a word I said? I\ntold you\ntime is of the essence."
-    },
-    {
-      "name": "Air Groove",
-      "text": "...",
+      "text": "Did you even listen to a word I said? I\ntold you\ntime is of the essence.",
       "choice_data_list": [
         "Doesn't it feel like you haven't really done Hatsumode if you don't draw one?",
         "Doesn't it feel like you haven't really done Hatsumode unless you draw one?"
@@ -225,14 +221,18 @@
     },
     {
       "name": "Air Groove",
-      "text": "I don't... entirely disagree."
+      "text": "..."
     },
     {
       "name": "Air Groove",
-      "text": "Ugh... I hate that you're using my own\nwords\nagainst me.",
+      "text": "I don't... entirely disagree.",
       "choice_data_list": [
         "We won't even be able to finish our New Year's visit."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ugh... I hate that you're using my own\nwords\nagainst me."
     },
     {
       "name": "Air Groove",

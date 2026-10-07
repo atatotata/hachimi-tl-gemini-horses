@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Gold City",
-      "text": "I won..."
-    },
-    {
-      "name": "Gold City",
-      "text": "...Something's off, though. Like, it just\ndoesn't\n<i>feel</i> right.",
+      "text": "I won...",
       "choice_data_list": [
         "Congratulations!"
       ]
@@ -24,13 +20,17 @@
     },
     {
       "name": "Gold City",
-      "text": "...You're right.",
+      "text": "...Something's off, though. Like, it just\ndoesn't\n<i>feel</i> right.",
       "choice_data_list": [
         "Still, you're the one who won.",
         "Still, the victory belongs to you.",
         "There's no need to force it in.",
         "You don't need to force it in."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...You're right."
     },
     {
       "name": "Gold City",

@@ -19,7 +19,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I have something I want to show you."
+      "text": "I have something I want to show you.",
+      "choice_data_list": [
+        "Got it."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -30,10 +33,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Th-thank you! I'll be there really soon,\nso just\nhold on!",
-      "choice_data_list": [
-        "Got it."
-      ]
+      "text": "Th-thank you! I'll be there really soon,\nso just\nhold on!"
     },
     {
       "name": "Monologue",
@@ -61,7 +61,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "This is... a picture book that I made. I'd\nlike you\nto read it."
+      "text": "This is... a picture book that I made. I'd\nlike you\nto read it.",
+      "choice_data_list": [
+        "Is it okay if I read it now?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -72,10 +75,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Sure.",
-      "choice_data_list": [
-        "Is it okay if I read it now?"
-      ]
+      "text": "Sure."
     },
     {
       "name": "Monologue",
@@ -115,7 +115,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...I wanted to show this book to you\nbefore\nanyone else."
+      "text": "...I wanted to show this book to you\nbefore\nanyone else.",
+      "choice_data_list": [
+        "I'm honored to be the very first.",
+        "I'm honored to be the very first.",
+        "It was a picture book that leaves you feeling happy.",
+        "I want to become like this sun.",
+        "I want to become like this sun."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -130,14 +137,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "You've always been the closest to me,\nwatching\nover me with warmth and\nkindness.",
-      "choice_data_list": [
-        "I'm honored to be the very first.",
-        "I'm honored to be the very first.",
-        "It was a picture book that leaves you feeling happy.",
-        "I want to become like this sun.",
-        "I want to become like this sun."
-      ]
+      "text": "You've always been the closest to me,\nwatching\nover me with warmth and\nkindness."
     },
     {
       "name": "Rice Shower",
@@ -177,7 +177,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "And it sounds like my feelings got across\nto you."
+      "text": "And it sounds like my feelings got across\nto you.",
+      "choice_data_list": [
+        "You can share that happiness with so many more people."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -188,10 +191,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Right!",
-      "choice_data_list": [
-        "You can share that happiness with so many more people."
-      ]
+      "text": "Right!"
     },
     {
       "name": "Rice Shower",
@@ -203,15 +203,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Since I made that book, this feeling—this\n\nwish—has become even stronger within\nme."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Yeah. With your help, I'm sure...",
+      "text": "Since I made that book, this feeling—this\n\nwish—has become even stronger within\nme.",
       "choice_data_list": [
         "I want to support Rice's dream.",
         "I want to support Rice's dream."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yeah. With your help, I'm sure..."
     },
     {
       "name": "Rice Shower",
@@ -251,7 +251,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...Thank you for everything."
+      "text": "...Thank you for everything.",
+      "choice_data_list": [
+        "This time, Rice will be everyone's sun."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -262,10 +265,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>I...</i> can be the sun?",
-      "choice_data_list": [
-        "This time, Rice will be everyone's sun."
-      ]
+      "text": "<i>I...</i> can be the sun?"
     },
     {
       "name": "Rice Shower",
@@ -281,14 +281,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I want to be their sun!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Yeah!",
+      "text": "I want to be their sun!",
       "choice_data_list": [
         "Let's make that dream come true together."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yeah!"
     },
     {
       "name": "Monologue",

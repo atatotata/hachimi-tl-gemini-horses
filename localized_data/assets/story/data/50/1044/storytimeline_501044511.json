@@ -7,14 +7,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "There you are, Familiar! Now \"Magical\nGirl ☆\nSweepy 5\" can begin!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "I'm Magical Black!",
+      "text": "There you are, Familiar! Now \"Magical\nGirl ☆\nSweepy 5\" can begin!",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I'm Magical Black!"
     },
     {
       "name": "Kitasan Black",
@@ -42,14 +42,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Oh! Hold on, Magical Dia! That snake is\nafter the\nbird!"
-    },
-    {
-      "name": "Sweep Tosho",
-      "text": "Wait up!",
+      "text": "Oh! Hold on, Magical Dia! That snake is\nafter the\nbird!",
       "choice_data_list": [
         "Rushing in like that is danger—"
       ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Wait up!"
     },
     {
       "name": "Sweep Tosho",
@@ -61,14 +61,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "...Heh, there it goes. I'm glad that snake\nwas such\na good listener!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Look at that cool demeanor! As\nexpected from\nthe genius Magical Girl\nSweepy!",
+      "text": "...Heh, there it goes. I'm glad that snake\nwas such\na good listener!",
       "choice_data_list": [
         "(Though I feel like she was just startled by the loud voice.)"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Look at that cool demeanor! As\nexpected from\nthe genius Magical Girl\nSweepy!"
     },
     {
       "name": "Sweep Tosho",
@@ -76,14 +76,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "We need to gather honey from the\n\nhardest-working bee in its hive and a\nfang from a\nwolf without a pack."
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "That won't do. Don't go getting\nweak-kneed now!\nSacrifices must be\nmade in pursuit of great\nresults! Now\nthen, let's get to looking for that\n\nbeehi—",
+      "text": "We need to gather honey from the\n\nhardest-working bee in its hive and a\nfang from a\nwolf without a pack.",
       "choice_data_list": [
         "Isn't collecting those dangerous?"
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "That won't do. Don't go getting\nweak-kneed now!\nSacrifices must be\nmade in pursuit of great\nresults! Now\nthen, let's get to looking for that\n\nbeehi—"
     },
     {
       "name": "Sweep Tosho",
@@ -119,14 +119,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hey! What are you staring at me for?!"
-    },
-    {
-      "name": "Monologue",
-      "text": "I was nervous at first about joining the\nmagical\ninvestigation, but Sweep Tosho\ntook the initiative\nand watched over her\nfriends. I tell her so, and...",
+      "text": "Hey! What are you staring at me for?!",
       "choice_data_list": [
         "I was just thinking you're doing a great job as leader."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I was nervous at first about joining the\nmagical\ninvestigation, but Sweep Tosho\ntook the initiative\nand watched over her\nfriends. I tell her so, and..."
     },
     {
       "name": "Sweep Tosho",
@@ -150,14 +150,14 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "That's a first-class witch's job. Get it?"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Hehe, she's such a cool leader! Don't\nyou just\nwant to follow her wherever she\ngoes?!",
+      "text": "That's a first-class witch's job. Get it?",
       "choice_data_list": [
         "I think that's an admirable way of thinking!"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hehe, she's such a cool leader! Don't\nyou just\nwant to follow her wherever she\ngoes?!"
     },
     {
       "name": "Satono Diamond",
@@ -173,7 +173,13 @@
     },
     {
       "name": "Monologue",
-      "text": "She may seem childish, but she makes\ncool,\nrational decisions and shows\nconcern for her\nfriends. Seeing that side\nof her, I think..."
+      "text": "She may seem childish, but she makes\ncool,\nrational decisions and shows\nconcern for her\nfriends. Seeing that side\nof her, I think...",
+      "choice_data_list": [
+        "You really feel like a powerful boss!",
+        "You really feel like a powerful boss, don't you!",
+        "You're really thinking things through as a leader, huh.",
+        "You're really thinking things through as a leader, aren't you?"
+      ]
     },
     {
       "name": "Monologue",
@@ -187,13 +193,7 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "A what?!",
-      "choice_data_list": [
-        "You really feel like a powerful boss!",
-        "You really feel like a powerful boss, don't you!",
-        "You're really thinking things through as a leader, huh.",
-        "You're really thinking things through as a leader, aren't you?"
-      ]
+      "text": "A what?!"
     },
     {
       "name": "Kitasan Black",

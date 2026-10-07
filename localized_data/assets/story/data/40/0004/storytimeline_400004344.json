@@ -7,14 +7,14 @@
     },
     {
       "name": "Monologue",
-      "text": "One day while stopping by the arcade, I\ncome\nacross Tamamo Cross with an\napparent\nconundrum on her hands."
-    },
-    {
-      "name": "Tamamo Cross",
-      "text": "Huh?! Oh, sorry, but I'm in some trouble\nhere!\nCouldja help me out for a sec?",
+      "text": "One day while stopping by the arcade, I\ncome\nacross Tamamo Cross with an\napparent\nconundrum on her hands.",
       "choice_data_list": [
         "Are you okay...?"
       ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Huh?! Oh, sorry, but I'm in some trouble\nhere!\nCouldja help me out for a sec?"
     },
     {
       "name": "Monologue",
@@ -54,15 +54,15 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Agh?!"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Ohohoho! Beating a racing game is a\nsimple\nmatter for one fit to be a\nprincess!",
+      "text": "Agh?!",
       "choice_data_list": [
         "What's wrong, Tamamo?!",
         "What's wrong, Tamamo?!"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ohohoho! Beating a racing game is a\nsimple\nmatter for one fit to be a\nprincess!"
     },
     {
       "name": "Haru Urara",
@@ -102,7 +102,13 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Creek? Great timin'!\nTrainer! Us three\ngotta curb this situation!"
+      "text": "Creek? Great timin'!\nTrainer! Us three\ngotta curb this situation!",
+      "choice_data_list": [
+        "Then I'll take Bourbon!",
+        "Then I'll take Bourbon!",
+        "Then I'll take Kawakami and Urara!",
+        "Then I'll take Kawakami and Urara!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -116,13 +122,7 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Roger! I'll come with!\nCreek, take on\nKawakami 'n Urara!",
-      "choice_data_list": [
-        "Then I'll take Bourbon!",
-        "Then I'll take Bourbon!",
-        "Then I'll take Kawakami and Urara!",
-        "Then I'll take Kawakami and Urara!"
-      ]
+      "text": "Roger! I'll come with!\nCreek, take on\nKawakami 'n Urara!"
     },
     {
       "name": "Super Creek",

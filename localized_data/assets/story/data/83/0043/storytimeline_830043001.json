@@ -19,14 +19,14 @@
     },
     {
       "name": "Monologue",
-      "text": "What do I find but a standoff between\nan\nUmamusume in a Tracen Academy\nuniform and a\nlady with an entourage of\nfigures in black!"
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "That badge... Heh. You're from the\nacademy.",
+      "text": "What do I find but a standoff between\nan\nUmamusume in a Tracen Academy\nuniform and a\nlady with an entourage of\nfigures in black!",
       "choice_data_list": [
         "What on earth is going on here!?"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "That badge... Heh. You're from the\nacademy."
     },
     {
       "name": "Nakayama Festa",
@@ -54,14 +54,14 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Turn around and get going, before ya\nfind\nyourself in too deep."
-    },
-    {
-      "name": "Figures in Black",
-      "text": "...",
+      "text": "Turn around and get going, before ya\nfind\nyourself in too deep.",
       "choice_data_list": [
         "Won't be able to go back...? What do you mean..."
       ]
+    },
+    {
+      "name": "Figures in Black",
+      "text": "..."
     },
     {
       "name": "Nakayama Festa",
@@ -77,7 +77,13 @@
     },
     {
       "name": "Monologue",
-      "text": "However, a Tracen Academy student is\nright here\nin front of me. I have no doubt\nshe runs to realize\nher dreams. As a\ntrainer, there's only one thing I\ncan do..."
+      "text": "However, a Tracen Academy student is\nright here\nin front of me. I have no doubt\nshe runs to realize\nher dreams. As a\ntrainer, there's only one thing I\ncan do...",
+      "choice_data_list": [
+        "I can't just overlook this! I'll take your place!",
+        "I can't just overlook this! I'll take your place!",
+        "We're running away with all our might!",
+        "Let's run away with all our might!"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,21 +97,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Um, were ya listening to a single word\nI said?",
-      "choice_data_list": [
-        "I can't just overlook this! I'll take your place!",
-        "I can't just overlook this! I'll take your place!",
-        "We're running away with all our might!",
-        "Let's run away with all our might!"
-      ]
+      "text": "...Um, were ya listening to a single word\nI said?"
     },
     {
       "name": "Nakayama Festa",
-      "text": "Drop the act. Ya don't have what it\ntakes to help\nanyone."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "...!\n...",
+      "text": "Drop the act. Ya don't have what it\ntakes to help\nanyone.",
       "choice_data_list": [
         "But a trainer is supposed to protect Uma Musume!",
         "But it's a trainer's job to protect Uma Musume!"
@@ -113,15 +109,19 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "You're no more than a fool if you'd go to\nsuch\nlengths for someone you just met."
+      "text": "...!\n..."
     },
     {
       "name": "Nakayama Festa",
-      "text": "...You're just intent on putting a damper\non\nthings, huh?",
+      "text": "You're no more than a fool if you'd go to\nsuch\nlengths for someone you just met.",
       "choice_data_list": [
         "Even so, I'll take your place!",
         "Even so, I'll take your place!"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...You're just intent on putting a damper\non\nthings, huh?"
     },
     {
       "name": "Nakayama Festa",
@@ -157,25 +157,21 @@
     },
     {
       "name": "Figures in Black",
-      "text": "Where'd they go?! Leave no stone\nunturned!"
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Tch! The hell'd ya do that for?! Things\nwere just\nabout to get interesting! I was\nright on the edge!",
+      "text": "Where'd they go?! Leave no stone\nunturned!",
       "choice_data_list": [
         "I-It's still chasing us...!"
       ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "...Huh? Whaddya mean?",
+      "text": "Tch! The hell'd ya do that for?! Things\nwere just\nabout to get interesting! I was\nright on the edge!",
       "choice_data_list": [
         "Honestly, it's even closer to the wire now..."
       ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "...",
+      "text": "...Huh? Whaddya mean?",
       "choice_data_list": [
         "Because if we get caught, we'll be in trouble, won't we?",
         "Because if we get caught, wouldn't we be in trouble?"
@@ -183,18 +179,22 @@
     },
     {
       "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
       "text": "Heheh. Hahaha! Looks like we really are\ncut from\nthe same cloth."
     },
     {
       "name": "Monologue",
-      "text": "(Whoa!)"
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Thrilling stuff. We either make a clean\ngetaway or\nwe get caught. A nice and\nsimple gamble with\neverything on the\nline.",
+      "text": "(Whoa!)",
       "choice_data_list": [
         "(Did I just get hoisted up?!)"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Thrilling stuff. We either make a clean\ngetaway or\nwe get caught. A nice and\nsimple gamble with\neverything on the\nline."
     },
     {
       "name": "Nakayama Festa",

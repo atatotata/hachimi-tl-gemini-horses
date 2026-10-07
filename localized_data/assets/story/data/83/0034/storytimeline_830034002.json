@@ -7,15 +7,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I... can't save you all... I'm so sorry. Not\neven\nflowers are safe from my bad luck..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Awww... Wahhh! The flowers!",
+      "text": "I... can't save you all... I'm so sorry. Not\neven\nflowers are safe from my bad luck...",
       "choice_data_list": [
         "What's wrong?",
         "What happened?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Awww... Wahhh! The flowers!"
     },
     {
       "name": "Monologue",
@@ -123,7 +123,12 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Now I can keep my flowers looking\ngorgeous!"
+      "text": "Now I can keep my flowers looking\ngorgeous!",
+      "choice_data_list": [
+        "Show me once it's done!",
+        "I'm looking forward to seeing you make it yourself next time!",
+        "It'll be fun making it yourself next time!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -136,12 +141,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Y-yeah! I'll try my best to preserve them\n\nperfectly!",
-      "choice_data_list": [
-        "Show me once it's done!",
-        "I'm looking forward to seeing you make it yourself next time!",
-        "It'll be fun making it yourself next time!"
-      ]
+      "text": "Y-yeah! I'll try my best to preserve them\n\nperfectly!"
     },
     {
       "name": "Rice Shower",

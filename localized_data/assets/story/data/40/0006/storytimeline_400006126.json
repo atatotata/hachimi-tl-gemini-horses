@@ -39,17 +39,12 @@
       "name": "",
       "text": "Gathering my courage, I tried speaking to \nthem in the French I had learned!",
       "choice_data_list": [
-        "(Maybe I should go talk to her...)",
-        "(Let's listen to their conversation a bit more.)",
-        "(Is this another result of the project...?)"
+        "Bonjour!"
       ]
     },
     {
       "name": "Parisian B",
-      "text": "\"Whoa! So you really were <chrname> after all?! I \nsaw your videos on UmaTube, I'm rootin' \nfor you~\"",
-      "choice_data_list": [
-        "Bonjour!"
-      ]
+      "text": "\"Whoa! So you really were <chrname> after all?! I \nsaw your videos on UmaTube, I'm rootin' \nfor you~\""
     },
     {
       "name": "Parisian A",
@@ -95,10 +90,7 @@
     },
     {
       "name": "Parisian B",
-      "text": "\"Huh, really? Then I will too...! —Hehe, \nmaybe it's because I've only ever watched \nyour streams? It feels kind of surreal...\"",
-      "choice_data_list": [
-        "'Yes, with pleasure!'"
-      ]
+      "text": "\"Huh, really? Then I will too...! —Hehe, \nmaybe it's because I've only ever watched \nyour streams? It feels kind of surreal...\""
     },
     {
       "name": "Monologue",

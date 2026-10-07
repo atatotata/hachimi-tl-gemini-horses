@@ -12,30 +12,27 @@
       "name": "Tazuna Hayakawa",
       "text": "Yes. The staff member tasked with managing \nthe venue suddenly couldn't make it... \nWe're currently looking for a replacement, \nbut...",
       "choice_data_list": [
-        "Wait, what?! They're short-handed?!"
+        "Understood. I'll help look, too!",
+        "Understood. I'll look for it, too!"
       ]
     },
     {
       "name": "Narrator",
       "text": "I contacted several event agencies, but \nsame-day dispatch is impossible. With \ncrowds incoming, our current manpower is \ndefinitely not going to cut it...",
       "choice_data_list": [
-        "Understood. I'll help look, too!",
-        "Understood. I'll look for it, too!"
+        "(In the worst-case scenario, we'll have to consider canceling...)"
       ]
     },
     {
       "name": "Orfevre",
       "text": "You. What are you doing?",
       "choice_data_list": [
-        "(In the worst-case scenario, we'll have to consider canceling...)"
+        "! Orfevre..."
       ]
     },
     {
       "name": "Orfevre",
-      "text": "Do not display such a gloomy face before \nmy eyes.",
-      "choice_data_list": [
-        "! Orfevre..."
-      ]
+      "text": "Do not display such a gloomy face before \nmy eyes."
     },
     {
       "name": "Narrator",
@@ -46,10 +43,7 @@
     },
     {
       "name": "Narrator",
-      "text": "As I explain, Orfevre listens in silence, \nfixing her sharp gaze right through me.",
-      "choice_data_list": [
-        "Um, actually——"
-      ]
+      "text": "As I explain, Orfevre listens in silence, \nfixing her sharp gaze right through me."
     },
     {
       "name": "Orfevre",
@@ -64,10 +58,7 @@
     },
     {
       "name": "Orfevre",
-      "text": "Someone, attend to me.",
-      "choice_data_list": [
-        "...Huh?"
-      ]
+      "text": "Someone, attend to me."
     },
     {
       "name": "Orfevre's Subject A",
@@ -118,10 +109,7 @@
     },
     {
       "name": "Orfevre",
-      "text": "The stage is set.",
-      "choice_data_list": [
-        "(Incredible...!)"
-      ]
+      "text": "The stage is set."
     },
     {
       "name": "Orfevre",
@@ -133,11 +121,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Determined to answer Orfevre's \nexpectations, I dash around coordinating \nwith staff and verifying schedules. As a \nresult—the event was a roaring success.",
-      "choice_data_list": [
-        "...! Yeah, of course!",
-        "...! Yeah, of course!"
-      ]
+      "text": "Determined to answer Orfevre's \nexpectations, I dash around coordinating \nwith staff and verifying schedules. As a \nresult—the event was a roaring success."
     },
     {
       "name": "Announcement",
@@ -150,15 +134,12 @@
       "name": "Orfevre",
       "text": "Ah, you.",
       "choice_data_list": [
-        "Orfevre!"
+        "Thank you so much... for today...!"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "Pay it no mind. It is merely the duty of a \nKing.",
-      "choice_data_list": [
-        "Thank you so much... for today...!"
-      ]
+      "text": "Pay it no mind. It is merely the duty of a \nKing."
     },
     {
       "name": "Narrator",
@@ -180,17 +161,13 @@
       "name": "Orfevre",
       "text": "I permit it.",
       "choice_data_list": [
-        "Um... can I ask just one thing?",
-        "Um... can I ask just one thing?"
+        "Why does me looking pathetic affect your pride...?",
+        "Why would my disgrace affect your reputation...?"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "A foolish question.",
-      "choice_data_list": [
-        "Why does me looking pathetic affect your pride...?",
-        "Why would my disgrace affect your reputation...?"
-      ]
+      "text": "A foolish question."
     },
     {
       "name": "Orfevre",
@@ -211,7 +188,9 @@
       "name": "Orfevre",
       "text": "Judging by that look on your face, if you \nhave something to say, speak.",
       "choice_data_list": [
-        "(What is this... feeling of exhilaration...!??)"
+        "—It is an absolute honor...!",
+        "Um, well... when did I become your subject?",
+        "Um, well... when did I become your subject?"
       ]
     },
     {
@@ -225,12 +204,7 @@
     },
     {
       "name": "Orfevre",
-      "text": "—Good.",
-      "choice_data_list": [
-        "—It is an absolute honor...!",
-        "Um, well... when did I become your subject?",
-        "Um, well... when did I become your subject?"
-      ]
+      "text": "—Good."
     },
     {
       "name": "Orfevre",

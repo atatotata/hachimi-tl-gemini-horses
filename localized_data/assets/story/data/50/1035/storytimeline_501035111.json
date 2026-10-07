@@ -19,21 +19,21 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "I'm playing hide-and-seek with Taishin\nand\nHayahide, but I absolutely,\npositively <i>can't</i> lose\nthis round!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Of course it is! Always give your best\nshot at\neverything, no matter how big or\nsmall! That's\nhow BNW does things!",
+      "text": "I'm playing hide-and-seek with Taishin\nand\nHayahide, but I absolutely,\npositively <i>can't</i> lose\nthis round!",
       "choice_data_list": [
         "Getting that serious over hide-and-seek?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "They may have been competitive when it\ncomes\nto training and races, but I don't\nrecall them\nmaking a big deal out of\nlittle things like this.",
+      "name": "Winning Ticket",
+      "text": "Of course it is! Always give your best\nshot at\neverything, no matter how big or\nsmall! That's\nhow BNW does things!",
       "choice_data_list": [
         "(Was it really like that...?)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "They may have been competitive when it\ncomes\nto training and races, but I don't\nrecall them\nmaking a big deal out of\nlittle things like this."
     },
     {
       "name": "Monologue",
@@ -85,28 +85,28 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Knock, knock.</i>"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Ticket? You in here?",
+      "text": "<i>Knock, knock.</i>",
       "choice_data_list": [
         "！！！"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Meh, whatever. Let me take a break\nhere.",
+      "text": "Ticket? You in here?",
       "choice_data_list": [
         "...N-Nobody's here."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "After a quick glance around the office,\nNarita\nTaishin casually picks up a\nnotebook from the\ndesk.",
+      "name": "Narita Taishin",
+      "text": "Meh, whatever. Let me take a break\nhere.",
       "choice_data_list": [
         "……！！！"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "After a quick glance around the office,\nNarita\nTaishin casually picks up a\nnotebook from the\ndesk."
     },
     {
       "name": "Monologue",
@@ -162,14 +162,14 @@
     },
     {
       "name": "Monologue",
-      "text": "There were times they were distant or\nclashed,\nbut both of them watched over\nWinning Ticket\ntogether."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Ah, forget it. It's not like I ever tried to\ntake\nthings into my own hands the way\nHayahide did.",
+      "text": "There were times they were distant or\nclashed,\nbut both of them watched over\nWinning Ticket\ntogether.",
       "choice_data_list": [
         "Thank you, both of you."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah, forget it. It's not like I ever tried to\ntake\nthings into my own hands the way\nHayahide did."
     },
     {
       "name": "Biwa Hayahide",
@@ -225,11 +225,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Hehe... Heh heh heh heh!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "I dunno, I'm just... so happy about all\nthat stuff\nthey said! Even if I didn't really\nget half of it!",
+      "text": "Hehe... Heh heh heh heh!",
       "choice_data_list": [
         "Wh-What's wrong?",
         "Wh-What's wrong?"
@@ -237,15 +233,19 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "And you know, if it weren't for them, I\ndon't think\nI'd ever have been able to\nrun such amazing races!"
+      "text": "I dunno, I'm just... so happy about all\nthat stuff\nthey said! Even if I didn't really\nget half of it!"
     },
     {
       "name": "Winning Ticket",
-      "text": "I'm really happy I came to Tracen\nAcademy and\nmet those two!",
+      "text": "And you know, if it weren't for them, I\ndon't think\nI'd ever have been able to\nrun such amazing races!",
       "choice_data_list": [
         "Yeah, you're right.",
         "Yeah."
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I'm really happy I came to Tracen\nAcademy and\nmet those two!"
     },
     {
       "name": "Monologue",
@@ -253,11 +253,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm sure they'll continue to stick by\nWinning\nTicket's side, providing a\npositive influence on\nher for years to\ncome."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Oh, and I can't forget to say this! I also\nmet the\nbest trainer I could've asked for!",
+      "text": "I'm sure they'll continue to stick by\nWinning\nTicket's side, providing a\npositive influence on\nher for years to\ncome.",
       "choice_data_list": [
         "(...I can't wait.)",
         "(...I'm looking forward to it.)"
@@ -265,10 +261,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Haha! Let's keep going for it\ntogether—okay,\nTrainer?",
+      "text": "Oh, and I can't forget to say this! I also\nmet the\nbest trainer I could've asked for!",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Haha! Let's keep going for it\ntogether—okay,\nTrainer?"
     },
     {
       "name": "Monologue",

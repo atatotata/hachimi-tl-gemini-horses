@@ -11,14 +11,14 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Ah, Trainer! Come t'take a look-see?\nThe Miho\nMarket's open to ev'ryone!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Yeah! Yukino came up with the idea at\nfirst, and\nnow it's a regular event here!",
+      "text": "Ah, Trainer! Come t'take a look-see?\nThe Miho\nMarket's open to ev'ryone!",
       "choice_data_list": [
         "A Miho Dorm local specialties fair?"
       ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Yeah! Yukino came up with the idea at\nfirst, and\nnow it's a regular event here!"
     },
     {
       "name": "Hishi Amazon",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "It was really a brilliant idea. We can get\nrid of our\nexcess stuff, and with\neveryone from the academy\ngathered, it\nfeels like a festival!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "In that case, go ahead and take a break,\nYukino!\nI'll take care of everythin' while\nthe two of you\nhave a look around!",
+      "text": "It was really a brilliant idea. We can get\nrid of our\nexcess stuff, and with\neveryone from the academy\ngathered, it\nfeels like a festival!",
       "choice_data_list": [
         "It looks fun, maybe I'll check it out before I go."
       ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "In that case, go ahead and take a break,\nYukino!\nI'll take care of everythin' while\nthe two of you\nhave a look around!"
     },
     {
       "name": "Yukino Bijin",
@@ -109,7 +109,12 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "I'm glad I found the courage t'suggest\nthis idea to\nHishiama."
+      "text": "I'm glad I found the courage t'suggest\nthis idea to\nHishiama.",
+      "choice_data_list": [
+        "Let's go all out and have fun visiting the booths too!",
+        "Let's check out all the booths and have a blast too!",
+        "Your deep love for your hometown really shines through."
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -122,12 +127,7 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Great idea! Follow me! The Morioka\nbooth's real\nclose by!",
-      "choice_data_list": [
-        "Let's go all out and have fun visiting the booths too!",
-        "Let's check out all the booths and have a blast too!",
-        "Your deep love for your hometown really shines through."
-      ]
+      "text": "Great idea! Follow me! The Morioka\nbooth's real\nclose by!"
     },
     {
       "name": "Yukino Bijin",
@@ -159,15 +159,15 @@
     },
     {
       "name": "Yukino Bijin",
-      "text": "Consider'n how warm and kind you are,\nit must be\nall kinds of swell!"
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yahoo! I better hit the gym so I can hit\nup all the\nbest spots and carry all the\nsouvenirs I'm gonna\nbuy!",
+      "text": "Consider'n how warm and kind you are,\nit must be\nall kinds of swell!",
       "choice_data_list": [
         "I'll show you around if we get the chance.",
         "I'll show you around if we get the chance."
       ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yahoo! I better hit the gym so I can hit\nup all the\nbest spots and carry all the\nsouvenirs I'm gonna\nbuy!"
     },
     {
       "name": "Monologue",

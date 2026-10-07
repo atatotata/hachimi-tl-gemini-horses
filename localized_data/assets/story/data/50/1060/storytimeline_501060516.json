@@ -11,14 +11,14 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "This... is not right... You cannot... get\naway with\nsuch..."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Oh, heya! Perfect timing. I was just\ntelling\nMcQueen about my go-to cake\nshop.",
+      "text": "This... is not right... You cannot... get\naway with\nsuch...",
       "choice_data_list": [
         "...Um..."
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, heya! Perfect timing. I was just\ntelling\nMcQueen about my go-to cake\nshop."
     },
     {
       "name": "Mejiro McQueen",
@@ -54,7 +54,12 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Listening to you is making <i>me</i> hungry!\nDang... So\n<i>this</i> is sweets seduction!"
+      "text": "Listening to you is making <i>me</i> hungry!\nDang... So\n<i>this</i> is sweets seduction!",
+      "choice_data_list": [
+        "...Weight cutting isn't easy, you know?",
+        "...Losing weight isn't easy, okay?",
+        "Come now, what's the harm~ What's the harm~"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -67,12 +72,7 @@
     },
     {
       "name": "The Two",
-      "text": "<i>Gasp!</i>",
-      "choice_data_list": [
-        "...Weight cutting isn't easy, you know?",
-        "...Losing weight isn't easy, okay?",
-        "Come now, what's the harm~ What's the harm~"
-      ]
+      "text": "<i>Gasp!</i>"
     },
     {
       "name": "Nice Nature",

@@ -19,15 +19,15 @@
     },
     {
       "name": "Monologue",
-      "text": "A warm smile grows across Grass\nWonder's face as\nthe excited children\nflock around her."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Yes, they're the children of this inn's\nproprietors.\nThey're very knowledgeable\nabout traditional\nJapanese games.",
+      "text": "A warm smile grows across Grass\nWonder's face as\nthe excited children\nflock around her.",
       "choice_data_list": [
         "Is that someone you know?",
         "Is that someone you know?"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yes, they're the children of this inn's\nproprietors.\nThey're very knowledgeable\nabout traditional\nJapanese games."
     },
     {
       "name": "Grass Wonder",
@@ -59,14 +59,14 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "But... I didn't really get to play any\nJapanese\ngames when I was young. What\nto do?"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "What types? Well... it's just that I'm not\nsure if\nthese children would really\nenjoy—",
+      "text": "But... I didn't really get to play any\nJapanese\ngames when I was young. What\nto do?",
       "choice_data_list": [
         "What kind of games do they play in America?"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "What types? Well... it's just that I'm not\nsure if\nthese children would really\nenjoy—"
     },
     {
       "name": "Boy",
@@ -94,7 +94,12 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "America and Japan. I wouldn't be who I\nam today\nwithout them both."
+      "text": "America and Japan. I wouldn't be who I\nam today\nwithout them both.",
+      "choice_data_list": [
+        "Let's go play together right away!",
+        "Tell me more stories about America sometime.",
+        "Tell me more stories about America sometime, okay?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -107,12 +112,7 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Sure. So, in this game, one person plays\nthe role\nof \"Simon,\" and everyone else\nhas to do what\nSimon says.",
-      "choice_data_list": [
-        "Let's go play together right away!",
-        "Tell me more stories about America sometime.",
-        "Tell me more stories about America sometime, okay?"
-      ]
+      "text": "Sure. So, in this game, one person plays\nthe role\nof \"Simon,\" and everyone else\nhas to do what\nSimon says."
     },
     {
       "name": "Grass Wonder",
@@ -120,14 +120,14 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Let's see... Oh yes. <i>Simon says, right\nhand up...</i>"
-    },
-    {
-      "name": "Girl",
-      "text": "But I don't know English!",
+      "text": "Let's see... Oh yes. <i>Simon says, right\nhand up...</i>",
       "choice_data_list": [
         "English!?"
       ]
+    },
+    {
+      "name": "Girl",
+      "text": "But I don't know English!"
     },
     {
       "name": "Grass Wonder",
@@ -151,15 +151,15 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Meanwhile my mother is the polar\n\nopposite—unfailingly gentle and polite.\nShe's\nsomething of a role model for me,\nactually."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Hehe. Perhaps I do.",
+      "text": "Meanwhile my mother is the polar\n\nopposite—unfailingly gentle and polite.\nShe's\nsomething of a role model for me,\nactually.",
       "choice_data_list": [
         "You've inherited both, haven't you?",
         "You've inherited both, haven't you?"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Perhaps I do."
     },
     {
       "name": "Girl",

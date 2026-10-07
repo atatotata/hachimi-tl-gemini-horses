@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Fuji Kiseki",
-      "text": "Did you enjoy the race, Trainer?"
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Ahaha! Splendid!",
+      "text": "Did you enjoy the race, Trainer?",
       "choice_data_list": [
         "Of course!"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahaha! Splendid!"
     },
     {
       "name": "Fuji Kiseki",
@@ -26,7 +26,12 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "You know what? I want to do something\nfor them\nas thanks!"
+      "text": "You know what? I want to do something\nfor them\nas thanks!",
+      "choice_data_list": [
+        "I've already claimed your \"victory.\"",
+        "I've already claimed your \"victory.\"",
+        "The fans are looking forward to your next race, too."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -39,12 +44,7 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Haha! You flatter me. ♪ You say that as\nif that's\nthe greatest gift of all.",
-      "choice_data_list": [
-        "I've already claimed your \"victory.\"",
-        "I've already claimed your \"victory.\"",
-        "The fans are looking forward to your next race, too."
-      ]
+      "text": "Haha! You flatter me. ♪ You say that as\nif that's\nthe greatest gift of all."
     },
     {
       "name": "Fuji Kiseki",

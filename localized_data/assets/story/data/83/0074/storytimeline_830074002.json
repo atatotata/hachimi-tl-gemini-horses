@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Children",
-      "text": "Are you sure we'll be able to see\nshooting stars?\nThe sky's so cloudy!"
-    },
-    {
-      "name": "Monologue",
-      "text": "I've come out to help with a meteor\nshower\nviewing event for children.",
+      "text": "Are you sure we'll be able to see\nshooting stars?\nThe sky's so cloudy!",
       "choice_data_list": [
         "Wait just a little longer, okay!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I've come out to help with a meteor\nshower\nviewing event for children."
     },
     {
       "name": "Ikuno Dictus",
@@ -22,11 +22,7 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I hope it'll clear as well, but if we're\ngoing to\ncancel the event, it'd be wise to\ndo so sooner\nthan later. As our\nsupervisor, what do you think\nwe should\ndo?"
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "Well, in that case, let's make our own\nshooting\nstars!",
+      "text": "I hope it'll clear as well, but if we're\ngoing to\ncancel the event, it'd be wise to\ndo so sooner\nthan later. As our\nsupervisor, what do you think\nwe should\ndo?",
       "choice_data_list": [
         "That's a difficult problem...",
         "That's a difficult problem..."
@@ -34,10 +30,14 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "Don't sweat the details! ☆ For now, we\nneed to\ngo to Tracen! ★",
+      "text": "Well, in that case, let's make our own\nshooting\nstars!",
       "choice_data_list": [
         "Make a shooting star...?"
       ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Don't sweat the details! ☆ For now, we\nneed to\ngo to Tracen! ★"
     },
     {
       "name": "Marvelous Sunday",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "What do you make of that phenomenon\nwe saw?"
-    },
-    {
-      "name": "Ikuno Dictus",
-      "text": "That's logical, but it doesn't explain\neverything.\nI'd like to conduct a proper\nstudy...",
+      "text": "What do you make of that phenomenon\nwe saw?",
       "choice_data_list": [
         "Maybe you're just tired...",
         "I want to see it with my own eyes one more time...!"
       ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "That's logical, but it doesn't explain\neverything.\nI'd like to conduct a proper\nstudy..."
     },
     {
       "name": "Monologue",

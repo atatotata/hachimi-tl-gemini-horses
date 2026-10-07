@@ -19,14 +19,14 @@
     },
     {
       "name": "Monologue",
-      "text": "As soon as I hear the word \"chocolate,\" I\n\nremember that today's Valentine's Day."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "R-really?! Hehe, then I'll be right back!",
+      "text": "As soon as I hear the word \"chocolate,\" I\n\nremember that today's Valentine's Day.",
       "choice_data_list": [
         "That might actually make me happy."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "R-really?! Hehe, then I'll be right back!"
     },
     {
       "name": "Monologue",
@@ -50,7 +50,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Pick whichever you want!"
+      "text": "Pick whichever you want!",
+      "choice_data_list": [
+        "Make a choice?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -61,10 +64,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Yeah. You don't want to eat a flavor you\ndon't\nlike, right?",
-      "choice_data_list": [
-        "Make a choice?"
-      ]
+      "text": "Yeah. You don't want to eat a flavor you\ndon't\nlike, right?"
     },
     {
       "name": "Rice Shower",
@@ -76,32 +76,32 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh... what's wrong? Did I not make your\nfavorite?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Huh?! Can you even eat all of them?!",
+      "text": "Oh... what's wrong? Did I not make your\nfavorite?",
       "choice_data_list": [
         "Would it be okay if I took all of them?"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Are you... really sure?",
+      "text": "Huh?! Can you even eat all of them?!",
       "choice_data_list": [
         "It's okay."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "She seems worried about the taste. I\nshould ease\nher concerns..."
+      "name": "Rice Shower",
+      "text": "Are you... really sure?"
     },
     {
-      "name": "Rice Shower",
-      "text": "Sure!",
+      "name": "Monologue",
+      "text": "She seems worried about the taste. I\nshould ease\nher concerns...",
       "choice_data_list": [
         "Help me out if push comes to shove."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sure!"
     },
     {
       "name": "Rice Shower",
@@ -117,14 +117,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She seems worried about the taste. I\nshould ease\nher concerns..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...!",
+      "text": "She seems worried about the taste. I\nshould ease\nher concerns...",
       "choice_data_list": [
         "Because I want to take in all of your feelings, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
     },
     {
       "name": "Rice Shower",

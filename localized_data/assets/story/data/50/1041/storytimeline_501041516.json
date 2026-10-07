@@ -11,15 +11,15 @@
     },
     {
       "name": "Inari One",
-      "text": "No, no. Don'tcha know that ya gotta\nsavor the\nflavors for the true Japanese\nsweet experience?"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Oh, perfect timing! We can ask you\ninstead!",
+      "text": "No, no. Don'tcha know that ya gotta\nsavor the\nflavors for the true Japanese\nsweet experience?",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oh, perfect timing! We can ask you\ninstead!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -39,11 +39,7 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "So that's the dilemma! Class or Bakushin!\n\nNaturally, you prefer to Bakushin! Don't\nyou,\nTrainer?!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "N-NO WAY?! You're telling me to <i>not</i>\nBakushin?!",
+      "text": "So that's the dilemma! Class or Bakushin!\n\nNaturally, you prefer to Bakushin! Don't\nyou,\nTrainer?!",
       "choice_data_list": [
         "The refined sort—savoring one slowly.",
         "The Bakushin way: eat a ton!"
@@ -51,10 +47,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "I SEE!",
+      "text": "N-NO WAY?! You're telling me to <i>not</i>\nBakushin?!",
       "choice_data_list": [
         "Like going full-out \"Bakushin\" on just one thing."
       ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I SEE!"
     },
     {
       "name": "Inari One",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Inari! Trainer! Let's Bakushin together!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Bring it on! Show me how open-minded\nyou can\nbe! That goes for both sweets\nand sophistication!",
+      "text": "Inari! Trainer! Let's Bakushin together!",
       "choice_data_list": [
         "...Wait, together?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Bring it on! Show me how open-minded\nyou can\nbe! That goes for both sweets\nand sophistication!"
     },
     {
       "name": "Sakura Bakushin O",

@@ -3,25 +3,25 @@
   "text_block_list": [
     {
       "name": "Satono Diamond",
-      "text": "I guess we're stopping for now, huh?"
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "N-no, you were fine! The controls are\npretty\ndifficult on this model!",
+      "text": "I guess we're stopping for now, huh?",
       "choice_data_list": [
         "I have no excuse..."
       ]
     },
     {
       "name": "Satono Diamond",
-      "text": "Since the difficulty seems a bit\novertuned, I'll let\nsomeone at the\ncompany know the next time I\nhave a\nchance."
+      "text": "N-no, you were fine! The controls are\npretty\ndifficult on this model!"
     },
     {
-      "name": "Monologue",
-      "text": "Well, that was disappointing.",
+      "name": "Satono Diamond",
+      "text": "Since the difficulty seems a bit\novertuned, I'll let\nsomeone at the\ncompany know the next time I\nhave a\nchance.",
       "choice_data_list": [
         "N-No, I'm fine!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Well, that was disappointing."
     }
   ]
 }

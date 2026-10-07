@@ -15,18 +15,23 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Twenty reps of incline running complete.\nThirty\nreps remaining."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes. Father said running up riverbank\nslopes is\ngood training for the legs. This\nhas been my\ntraining regimen since\nbefore I entered Tracen.",
+      "text": "Twenty reps of incline running complete.\nThirty\nreps remaining.",
       "choice_data_list": [
         "Wait, are you doing extra training?"
       ]
     },
     {
+      "name": "Mihono Bourbon",
+      "text": "Yes. Father said running up riverbank\nslopes is\ngood training for the legs. This\nhas been my\ntraining regimen since\nbefore I entered Tracen."
+    },
+    {
       "name": "",
-      "text": "However, I have a different training\nregimen\nplanned for the afternoon. We\ncan't afford her\noverexerting herself in\nthe morning."
+      "text": "However, I have a different training\nregimen\nplanned for the afternoon. We\ncan't afford her\noverexerting herself in\nthe morning.",
+      "choice_data_list": [
+        "(Still, that just shows how hard she wants to try.)",
+        "(Still, that just shows how hard she wants to try.)",
+        "(...I'd better hold off after all.)"
+      ]
     },
     {
       "name": "",
@@ -41,17 +46,12 @@
       "name": "Mihono Bourbon",
       "text": "Trainer?",
       "choice_data_list": [
-        "(Still, that just shows how hard she wants to try.)",
-        "(Still, that just shows how hard she wants to try.)",
-        "(...I'd better hold off after all.)"
+        "Go for it, Bourbon!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Understood!",
-      "choice_data_list": [
-        "Go for it, Bourbon!"
-      ]
+      "text": "Understood!"
     },
     {
       "name": "",

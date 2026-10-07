@@ -7,11 +7,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Today is the Fleetfoot Festival. I've\ncome to\ncheck on Gold City, who will be\nparticipating in a\nperformance, but..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I'm sure she's just tense from the\nresponsibility\nshe's taking on. There has\nto be something I can\ndo to help her\ncalm down, but what?",
+      "text": "Today is the Fleetfoot Festival. I've\ncome to\ncheck on Gold City, who will be\nparticipating in a\nperformance, but...",
       "choice_data_list": [
         "(She's definitely nervous...)",
         "(She looks nervous...)"
@@ -19,22 +15,22 @@
     },
     {
       "name": "Monologue",
+      "text": "I'm sure she's just tense from the\nresponsibility\nshe's taking on. There has\nto be something I can\ndo to help her\ncalm down, but what?"
+    },
+    {
+      "name": "Monologue",
       "text": "♪♪♪"
     },
     {
       "name": "Gold City",
-      "text": "It's really popping off this year. Too bad\nI won't be able\nto see any of it."
-    },
-    {
-      "name": "Gold City",
-      "text": "What?",
+      "text": "It's really popping off this year. Too bad\nI won't be able\nto see any of it.",
       "choice_data_list": [
         "...I want to check out the festival!"
       ]
     },
     {
       "name": "Gold City",
-      "text": "I'm about to go on stage. You\nunderstand I need\nto concentrate, right?",
+      "text": "What?",
       "choice_data_list": [
         "Could you show me around the venue?",
         "Could you show me around the venue?"
@@ -42,44 +38,48 @@
     },
     {
       "name": "Gold City",
-      "text": "Besides, you can walk around and see\nthe festival\nyourself, you're not a child."
+      "text": "I'm about to go on stage. You\nunderstand I need\nto concentrate, right?"
     },
     {
       "name": "Gold City",
-      "text": "Sure, that's true, but... No. I don't want\nto.",
+      "text": "Besides, you can walk around and see\nthe festival\nyourself, you're not a child.",
       "choice_data_list": [
         "Since it's an Umamusume festival, I figured you might know about it."
       ]
     },
     {
       "name": "Gold City",
-      "text": "Stop it. No. I'm not going.",
+      "text": "Sure, that's true, but... No. I don't want\nto.",
       "choice_data_list": [
         "Please!"
       ]
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "Stop it. No. I'm not going."
     },
     {
       "name": "Gold City",
-      "text": "I underestimated your persistence.",
+      "text": "...",
       "choice_data_list": [
         "What should we check out first!"
       ]
     },
     {
       "name": "Gold City",
-      "text": "We don't have much time, so you\ndecide."
+      "text": "I underestimated your persistence."
     },
     {
       "name": "Gold City",
-      "text": "The palanquin, huh? Sure, let's check it\nout.",
+      "text": "We don't have much time, so you\ndecide.",
       "choice_data_list": [
         "I want to see the mikoshi!",
         "I want to take in the whole festival!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "The palanquin, huh? Sure, let's check it\nout."
     },
     {
       "name": "Gold City",
@@ -147,15 +147,15 @@
     },
     {
       "name": "Attendant Umamusume",
-      "text": "Um, City, I think maybe it's time to call\nit quits."
-    },
-    {
-      "name": "Gold City",
-      "text": "What?! There's no way...",
+      "text": "Um, City, I think maybe it's time to call\nit quits.",
       "choice_data_list": [
         "...Alright, leave it to me!",
         "...Alright, leave it to me!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "What?! There's no way..."
     },
     {
       "name": "Monologue",
@@ -163,21 +163,21 @@
     },
     {
       "name": "Gold City",
-      "text": "Are you okay? You seem dizzy."
-    },
-    {
-      "name": "Gold City",
-      "text": "Pfft, quit staring at me—you look\nridiculous!",
+      "text": "Are you okay? You seem dizzy.",
       "choice_data_list": [
         "*gasp, pant, gasp*..."
       ]
     },
     {
       "name": "Gold City",
-      "text": "I said don't look at me! Honestly, you\nshould see\nyourself, you're a wreck!\nHahaha!",
+      "text": "Pfft, quit staring at me—you look\nridiculous!",
       "choice_data_list": [
         "...*pant*! *Gasp*!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "I said don't look at me! Honestly, you\nshould see\nyourself, you're a wreck!\nHahaha!"
     },
     {
       "name": "Monologue",
@@ -189,14 +189,14 @@
     },
     {
       "name": "Gold City",
-      "text": "But aren't you here for the festival? Or\nare you,\nlike, bored already? That was\nquick."
-    },
-    {
-      "name": "Gold City",
-      "text": "Don't you normally save that for the\nend?",
+      "text": "But aren't you here for the festival? Or\nare you,\nlike, bored already? That was\nquick.",
       "choice_data_list": [
         "First, I want to watch over them from afar!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Don't you normally save that for the\nend?"
     },
     {
       "name": "Gold City",
@@ -216,15 +216,15 @@
     },
     {
       "name": "Gold City",
-      "text": "All right, what do you think? Here's the\nview you\nwanted."
-    },
-    {
-      "name": "Gold City",
-      "text": "Very sophisticated answer.",
+      "text": "All right, what do you think? Here's the\nview you\nwanted.",
       "choice_data_list": [
         "...The light is so bright!",
         "...The light is really bright!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Very sophisticated answer."
     },
     {
       "name": "Gold City",
@@ -236,21 +236,21 @@
     },
     {
       "name": "Monologue",
-      "text": "There's no reason to try and fool her at\nthis point.\nI decide to answer honestly."
-    },
-    {
-      "name": "Gold City",
-      "text": "Why?",
+      "text": "There's no reason to try and fool her at\nthis point.\nI decide to answer honestly.",
       "choice_data_list": [
         "I wanted to take City out."
       ]
     },
     {
       "name": "Gold City",
-      "text": "...!",
+      "text": "Why?",
       "choice_data_list": [
         "I wanted to help ease your nerves."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
     },
     {
       "name": "Gold City",
@@ -266,14 +266,14 @@
     },
     {
       "name": "Gold City",
-      "text": "But I'm glad I could get some fresh air. I\nfeel\nrefreshed somehow."
-    },
-    {
-      "name": "Gold City",
-      "text": "Heh, you don't have to tell me.",
+      "text": "But I'm glad I could get some fresh air. I\nfeel\nrefreshed somehow.",
       "choice_data_list": [
         "Go give it everything you've got and have fun!"
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Heh, you don't have to tell me."
     },
     {
       "name": "Gold City",

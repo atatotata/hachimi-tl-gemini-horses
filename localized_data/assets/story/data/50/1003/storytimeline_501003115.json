@@ -19,14 +19,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "So I'm gonna do some more partner\nrunning\ntoday!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Not at all! Who do you take me for? I'm\nthe\ninvincible Teio!",
+      "text": "So I'm gonna do some more partner\nrunning\ntoday!",
       "choice_data_list": [
         "Aren't you still feeling tired?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Not at all! Who do you take me for? I'm\nthe\ninvincible Teio!"
     },
     {
       "name": "Tokai Teio",
@@ -118,11 +118,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "...Yes."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "...I've been feeling it ever since the\nDerby.",
+      "text": "...Yes.",
       "choice_data_list": [
         "What does this mean...!?",
         "What does this mean...!?"
@@ -130,14 +126,18 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "But I thought that if I stopped training,\nthere was\nno way I could win the Kikuka\nSho."
+      "text": "...I've been feeling it ever since the\nDerby."
     },
     {
       "name": "Tokai Teio",
-      "text": "...",
+      "text": "But I thought that if I stopped training,\nthere was\nno way I could win the Kikuka\nSho.",
       "choice_data_list": [
         "Pushing through the pain to train..."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
     },
     {
       "name": "Infirmary Doctor",
@@ -149,11 +149,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "..."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "N-no! I can't afford to rest!",
+      "text": "...",
       "choice_data_list": [
         "Looks like training is on hold for a while.",
         "Looks like training is on hold for a while."
@@ -161,15 +157,15 @@
     },
     {
       "name": "Tokai Teio",
+      "text": "N-no! I can't afford to rest!"
+    },
+    {
+      "name": "Tokai Teio",
       "text": "Yeah, my legs do hurt, but... it's not <i>that</i>\nbig of a\ndeal!"
     },
     {
       "name": "Tokai Teio",
-      "text": "Let me train! I have to run in the Kikuka\nSho!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "I... I don't care! I said I'm gonna enter!",
+      "text": "Let me train! I have to run in the Kikuka\nSho!",
       "choice_data_list": [
         "They said the 'Kikuka Sho' would be difficult, didn't they?",
         "They said the 'Kikuka Sho' would be difficult, right?"
@@ -177,18 +173,22 @@
     },
     {
       "name": "Tokai Teio",
+      "text": "I... I don't care! I said I'm gonna enter!"
+    },
+    {
+      "name": "Tokai Teio",
       "text": "I need to win! It's the only way I can\nshow I'm\nready to take on Prez!"
     },
     {
       "name": "Tokai Teio",
-      "text": "If you won't support me, then I'll do it\nmyself! You\ndon't need to train me\nanymore!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Ahh... G-get as mad as you like! See if I\ncare! I'm\nnot gonna change my mind!",
+      "text": "If you won't support me, then I'll do it\nmyself! You\ndon't need to train me\nanymore!",
       "choice_data_list": [
         "Teio!!"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ahh... G-get as mad as you like! See if I\ncare! I'm\nnot gonna change my mind!"
     },
     {
       "name": "Tokai Teio",
@@ -216,22 +216,18 @@
     },
     {
       "name": "Monologue",
-      "text": "But what about me? Should I really just\ngive up?"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "...Uh, Trainer? Why are you reading a\nbook all of\na sudden?",
+      "text": "But what about me? Should I really just\ngive up?",
       "choice_data_list": [
         "There's no way... that's okay!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Acupuncture. Massages. Whatever the\nmethod..."
+      "name": "Tokai Teio",
+      "text": "...Uh, Trainer? Why are you reading a\nbook all of\na sudden?"
     },
     {
-      "name": "Tokai Teio",
-      "text": "...?!",
+      "name": "Monologue",
+      "text": "Acupuncture. Massages. Whatever the\nmethod...",
       "choice_data_list": [
         "I'll find a way for you to run at full power!",
         "I'll find a way for you to run at full power!"
@@ -239,11 +235,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "You mean... you'll still let me run? I can\nstill train\nfor the Kikuka Sho?!"
+      "text": "...?!"
     },
     {
       "name": "Tokai Teio",
-      "text": "Yeah... you're right! Heheh... Thanks!",
+      "text": "You mean... you'll still let me run? I can\nstill train\nfor the Kikuka Sho?!",
       "choice_data_list": [
         "Supporting Umamusume is what Trainers are for.",
         "Supporting Umamusume is what Trainers are for."
@@ -251,19 +247,23 @@
     },
     {
       "name": "Tokai Teio",
+      "text": "Yeah... you're right! Heheh... Thanks!"
+    },
+    {
+      "name": "Tokai Teio",
       "text": "And... I'm so sorry!"
     },
     {
       "name": "Tokai Teio",
-      "text": "I shouldn't have kept the pain a secret.\nAnd I said\nsome awful things just now\ntoo... Even though I\nknow I can't do this\nalone..."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Yeah! It's a promise!",
+      "text": "I shouldn't have kept the pain a secret.\nAnd I said\nsome awful things just now\ntoo... Even though I\nknow I can't do this\nalone...",
       "choice_data_list": [
         "Let's give it our all together!",
         "Let's do our best together!"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yeah! It's a promise!"
     },
     {
       "name": "Tokai Teio",

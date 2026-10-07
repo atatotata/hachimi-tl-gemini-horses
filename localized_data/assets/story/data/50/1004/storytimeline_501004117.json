@@ -11,7 +11,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hi, Trainer! What's the haps?"
+      "text": "Hi, Trainer! What's the haps?",
+      "choice_data_list": [
+        "What are you doing up at this hour?",
+        "What are you doing up at this hour?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -23,11 +27,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "You can't tell from my outfit? I'm going\nto do\nsome training!",
-      "choice_data_list": [
-        "What are you doing up at this hour?",
-        "What are you doing up at this hour?"
-      ]
+      "text": "You can't tell from my outfit? I'm going\nto do\nsome training!"
     },
     {
       "name": "Maruzensky",
@@ -35,11 +35,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "So I'm mega-ultra eager to get to\nwork. ♪"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Teehee, you know me so well. I'm itching\nto get\nout there and run with the little\nones!",
+      "text": "So I'm mega-ultra eager to get to\nwork. ♪",
       "choice_data_list": [
         "You look happy.",
         "You look so happy."
@@ -47,19 +43,23 @@
     },
     {
       "name": "Maruzensky",
+      "text": "Teehee, you know me so well. I'm itching\nto get\nout there and run with the little\nones!"
+    },
+    {
+      "name": "Maruzensky",
       "text": "But I really am pushing myself hard. I'm\ndoing\neverything I can to ensure this is a\nfun race!"
     },
     {
       "name": "Maruzensky",
-      "text": "So I was thinking... If it's okay, I was\nhoping you'd\njoin me."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Thanks! Let's work up a sweat and get\nthat\ngleaming glow of youth!",
+      "text": "So I was thinking... If it's okay, I was\nhoping you'd\njoin me.",
       "choice_data_list": [
         "Of course, I'll join you.",
         "Of course, I'll join you."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thanks! Let's work up a sweat and get\nthat\ngleaming glow of youth!"
     },
     {
       "name": "Maruzensky",
@@ -87,15 +87,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Spe is training all alone at this hour..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Yeah, I can feel how eager she is to run.",
+      "text": "Spe is training all alone at this hour...",
       "choice_data_list": [
         "You look like you're really enjoying the run.",
         "You look like you're really enjoying the run."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah, I can feel how eager she is to run."
     },
     {
       "name": "Maruzensky",
@@ -115,14 +115,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Why won't you show me the list?!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Hmph... What a meanie...",
+      "text": "Why won't you show me the list?!",
       "choice_data_list": [
         "Just thought it'd give us something more to look forward to."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hmph... What a meanie..."
     },
     {
       "name": "Maruzensky",
@@ -214,15 +214,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hehe, look at her... I'm so excited, I\ncan't stop\ngrinning."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "It sure will... I accept your challenge,\nSpe!",
+      "text": "Hehe, look at her... I'm so excited, I\ncan't stop\ngrinning.",
       "choice_data_list": [
         "It's definitely going to be a fun race.",
         "It's definitely going to be a fun race, isn't it?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "It sure will... I accept your challenge,\nSpe!"
     },
     {
       "name": "Monologue",

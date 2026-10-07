@@ -11,11 +11,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Awww, I messed up again... I've got to\nkeep\npracticing..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Gyah! Big Brother?! Y-you found me...",
+      "text": "Awww, I messed up again... I've got to\nkeep\npracticing...",
       "choice_data_list": [
         "You're doing great.",
         "You're doing great."
@@ -23,18 +19,22 @@
     },
     {
       "name": "Rice Shower",
+      "text": "Gyah! Big Brother?! Y-you found me..."
+    },
+    {
+      "name": "Rice Shower",
       "text": "Gyah! Big Sister?! Y-you found me..."
     },
     {
       "name": "Rice Shower",
-      "text": "I'm sorry... I just thought I could get\nsome practice\nin since no one was\naround."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Earlier, when we were having a lesson as\na class,\nthe... um, the power in the studio\nwent out.",
+      "text": "I'm sorry... I just thought I could get\nsome practice\nin since no one was\naround.",
       "choice_data_list": [
         "Why all by yourself?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Earlier, when we were having a lesson as\na class,\nthe... um, the power in the studio\nwent out."
     },
     {
       "name": "Rice Shower",
@@ -46,7 +46,12 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...You should leave before something\nbad\nhappens to you too, Big Brother."
+      "text": "...You should leave before something\nbad\nhappens to you too, Big Brother.",
+      "choice_data_list": [
+        "Would having me around trouble you?",
+        "Would having me around just make things difficult?",
+        "Bring on the trouble!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -61,9 +66,7 @@
       "name": "Rice Shower",
       "text": "Th-that's not it! I don't mind you being\nhere!",
       "choice_data_list": [
-        "Would having me around trouble you?",
-        "Would having me around just make things difficult?",
-        "Bring on the trouble!"
+        "Then please let me help."
       ]
     },
     {
@@ -75,10 +78,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Big Brother...",
-      "choice_data_list": [
-        "Then please let me help."
-      ]
+      "text": "Big Brother..."
     },
     {
       "name": "Rice Shower",
@@ -90,7 +90,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Could you point out the parts in the\ndance where\nI mess up?"
+      "text": "Could you point out the parts in the\ndance where\nI mess up?",
+      "choice_data_list": [
+        "Let's do our best together!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -101,18 +104,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Right!",
-      "choice_data_list": [
-        "Let's do our best together!"
-      ]
+      "text": "Right!"
     },
     {
       "name": "Monologue",
       "text": "Rice Shower practices exhaustively to\novercome\nher weaknesses when dancing."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Huh?! N-no, I don't want to trouble you!"
     },
     {
       "name": "Rice Shower",
@@ -123,10 +119,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Big Brother...",
+      "text": "Huh?! N-no, I don't want to trouble you!",
       "choice_data_list": [
         "I'd be more worried if you bottled it all up by yourself, Rice."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Big Brother..."
     },
     {
       "name": "Rice Shower",
@@ -134,14 +134,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Could... could you help me with practice\nthen?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Th-thank you! There's actually this\ndifficult part...",
+      "text": "Could... could you help me with practice\nthen?",
       "choice_data_list": [
         "Of course!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Th-thank you! There's actually this\ndifficult part..."
     },
     {
       "name": "Monologue",

@@ -83,14 +83,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Copano Rickey and Wonder Acute\nappear in\nfront of me. Given the date,\ncould this be..."
-    },
-    {
-      "name": "Wonder Acute",
-      "text": "It certainly is! I helped out myself, and\nthe results\nwere <i>very</i> scrumptious.",
+      "text": "Copano Rickey and Wonder Acute\nappear in\nfront of me. Given the date,\ncould this be...",
       "choice_data_list": [
         "Could it be... that?"
       ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "It certainly is! I helped out myself, and\nthe results\nwere <i>very</i> scrumptious."
     },
     {
       "name": "Wonder Acute",
@@ -110,14 +110,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She abruptly hands me a platter of inari\nsushi."
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Yep! They say that when you eat inari\nsushi after\nSetsubun, you'll feel\novercome with happiness.",
+      "text": "She abruptly hands me a platter of inari\nsushi.",
       "choice_data_list": [
         "Inari sushi!? And a combo set, no less?"
       ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Yep! They say that when you eat inari\nsushi after\nSetsubun, you'll feel\novercome with happiness."
     },
     {
       "name": "Copano Rickey",
@@ -185,11 +185,7 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Like you're getting in the mood to work\nreally\nhard for me? And devote your\nwhole life to me?\nThat kinda mood?"
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Really?! Like your heart's turned a\nRickey-kinda\ncolor?!",
+      "text": "Like you're getting in the mood to work\nreally\nhard for me? And devote your\nwhole life to me?\nThat kinda mood?",
       "choice_data_list": [
         "Yeah... It's starting to...",
         "Yeah... It's starting to..."
@@ -197,7 +193,7 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "Yay! Then it was a huge success!",
+      "text": "Really?! Like your heart's turned a\nRickey-kinda\ncolor?!",
       "choice_data_list": [
         "Yeah... Something like that...",
         "Yeah... Something like that..."
@@ -205,27 +201,31 @@
     },
     {
       "name": "Copano Rickey",
+      "text": "Yay! Then it was a huge success!"
+    },
+    {
+      "name": "Copano Rickey",
       "text": "It's truly a feng shui Valentine's Day! ♪\nNo wall\naround your heart is too tough\nfor me to break\nthrough!"
     },
     {
       "name": "Monologue",
-      "text": "But actually..."
-    },
-    {
-      "name": "Copano Rickey",
-      "text": "Huh? You mean, even before you ate\nthe\nchocolate?",
+      "text": "But actually...",
       "choice_data_list": [
         "That's how I've always felt, though.",
         "I've always felt that way, though."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "It's not like I'm saying anything\nextraordinary.\nBeing a trainer is all about\nputting your racer's\nfuture first.",
+      "name": "Copano Rickey",
+      "text": "Huh? You mean, even before you ate\nthe\nchocolate?",
       "choice_data_list": [
         "Yeah, because I've always put Rickey first.",
         "Yeah, I've been putting Ricky first all along."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It's not like I'm saying anything\nextraordinary.\nBeing a trainer is all about\nputting your racer's\nfuture first."
     },
     {
       "name": "Copano Rickey",
@@ -253,15 +253,15 @@
     },
     {
       "name": "Copano Rickey",
-      "text": "You better brace yourself!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Valentine's Day helps us realize that we\ndon't\neven need to rely on feng\nshui—our feelings are\nalready in sync.",
+      "text": "You better brace yourself!",
       "choice_data_list": [
         "Yeah, got it.",
         "Yeah, got it."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Valentine's Day helps us realize that we\ndon't\neven need to rely on feng\nshui—our feelings are\nalready in sync."
     }
   ]
 }

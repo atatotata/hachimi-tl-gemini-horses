@@ -11,15 +11,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'm going home. Pass me my stuff."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Oh, you're Ayabe's trainer! The two of us\nwere\njust about to go and grab\npancakes.",
+      "text": "I'm going home. Pass me my stuff.",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh, you're Ayabe's trainer! The two of us\nwere\njust about to go and grab\npancakes."
     },
     {
       "name": "Admire Vega",
@@ -27,15 +27,15 @@
     },
     {
       "name": "Curren Chan",
-      "text": "I just can't get my mind off of pancakes.\nLook,\neven your trainer is making an \"I\nwant a pancake\"\nface."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "You are. So, let's go already!\nPancaaakes! ♪",
+      "text": "I just can't get my mind off of pancakes.\nLook,\neven your trainer is making an \"I\nwant a pancake\"\nface.",
       "choice_data_list": [
         "M-Me too?",
         "M-Me too?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "You are. So, let's go already!\nPancaaakes! ♪"
     },
     {
       "name": "Admire Vega",
@@ -67,7 +67,12 @@
     },
     {
       "name": "Monologue",
-      "text": "The pancake on Admire Vega's plate\ndisappears\nin an instant."
+      "text": "The pancake on Admire Vega's plate\ndisappears\nin an instant.",
+      "choice_data_list": [
+        "Make sure you don't overeat.",
+        "Make sure not to overeat, okay?",
+        "(I'll just let her eat to her heart's content.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -80,12 +85,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Well... of course, I was only planning to\neat this\none plate.",
-      "choice_data_list": [
-        "Make sure you don't overeat.",
-        "Make sure not to overeat, okay?",
-        "(I'll just let her eat to her heart's content.)"
-      ]
+      "text": "Well... of course, I was only planning to\neat this\none plate."
     },
     {
       "name": "Admire Vega",

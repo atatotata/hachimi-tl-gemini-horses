@@ -51,7 +51,12 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Hey, don't entertain her nonsense!"
+      "text": "Hey, don't entertain her nonsense!",
+      "choice_data_list": [
+        "Time to practice smiling!",
+        "Let's practice smiling!",
+        "It's fine just the way it is."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -64,12 +69,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Tch! Why, you...",
-      "choice_data_list": [
-        "Time to practice smiling!",
-        "Let's practice smiling!",
-        "It's fine just the way it is."
-      ]
+      "text": "Tch! Why, you..."
     },
     {
       "name": "Mayano Top Gun",
@@ -77,11 +77,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I never said I was going to do it."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Fine. All I have to do is smile, right?",
+      "text": "I never said I was going to do it.",
       "choice_data_list": [
         "It's all for the sake of a better dance!",
         "All for a better dance!"
@@ -89,18 +85,22 @@
     },
     {
       "name": "Narita Brian",
+      "text": "Fine. All I have to do is smile, right?"
+    },
+    {
+      "name": "Narita Brian",
       "text": "See? It's not like it's hard!"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Hmm. How should I put this... Your\ndance moves\nare sharp, but..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "What?! It's not like I'm angry or\nanything. I swear\nI'm smiling!",
+      "text": "Hmm. How should I put this... Your\ndance moves\nare sharp, but...",
       "choice_data_list": [
         "Your expression is razor-sharp too."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "What?! It's not like I'm angry or\nanything. I swear\nI'm smiling!"
     },
     {
       "name": "Mayano Top Gun",
@@ -128,14 +128,14 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Eh?! Why?!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Hey, I'm not trying to sell anything, you\nknow...\nBut, fine, let's just go with that.",
+      "text": "Eh?! Why?!",
       "choice_data_list": [
         "Brian's selling point is her cool smile, after all."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hey, I'm not trying to sell anything, you\nknow...\nBut, fine, let's just go with that."
     },
     {
       "name": "Mayano Top Gun",

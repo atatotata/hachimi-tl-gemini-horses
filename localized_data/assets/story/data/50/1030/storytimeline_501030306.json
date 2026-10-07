@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "<i>Huff... puff... gasp...</i>"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "I-I'm fine. I just... wasn't good enough!",
+      "text": "<i>Huff... puff... gasp...</i>",
       "choice_data_list": [
         "Are you okay!?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I-I'm fine. I just... wasn't good enough!"
     },
     {
       "name": "Rice Shower",
@@ -22,14 +22,14 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Thud!</i>"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Zzz... zzz...</i>",
+      "text": "<i>Thud!</i>",
       "choice_data_list": [
         "Rice?!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Zzz... zzz...</i>"
     },
     {
       "name": "Monologue",
@@ -41,25 +41,25 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Her choice of words does not match the\nscenario\nwe are in."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Considering the outcome of the race,\nshe should\nhave said she \"lost.\"",
+      "text": "Her choice of words does not match the\nscenario\nwe are in.",
       "choice_data_list": [
         "Mihono Bourbon...!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "It is not a matter of whether she \"caught\nup\" to\nme or not. Should you not correct\nher?"
+      "text": "Considering the outcome of the race,\nshe should\nhave said she \"lost.\""
     },
     {
       "name": "Mihono Bourbon",
-      "text": "This... does not compute.",
+      "text": "It is not a matter of whether she \"caught\nup\" to\nme or not. Should you not correct\nher?",
       "choice_data_list": [
         "That's what's important to her."
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "This... does not compute."
     },
     {
       "name": "Rice Shower",
@@ -79,7 +79,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Tell me... what race do you think\nBourbon will run\nin next?"
+      "text": "Tell me... what race do you think\nBourbon will run\nin next?",
+      "choice_data_list": [
+        "Probably the 'Kikuka Sho.'",
+        "Probably the 'Kikuka Sho.'"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -91,11 +95,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I think you're right. Then, that means...\nI'm going\ntoo.",
-      "choice_data_list": [
-        "Probably the 'Kikuka Sho.'",
-        "Probably the 'Kikuka Sho.'"
-      ]
+      "text": "I think you're right. Then, that means...\nI'm going\ntoo."
     },
     {
       "name": "Rice Shower",

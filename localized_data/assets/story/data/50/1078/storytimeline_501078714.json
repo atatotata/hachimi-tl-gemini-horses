@@ -15,7 +15,12 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Let's return to training. The winds that\nblow back\nafter the storm blow with\neven greater strength."
+      "text": "Let's return to training. The winds that\nblow back\nafter the storm blow with\neven greater strength.",
+      "choice_data_list": [
+        "Making your comeback comes after you heal that injury.",
+        "Making your comeback comes after healing your injury.",
+        "If you're that set on it, let's do it together."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -30,17 +35,12 @@
       "name": "Yamanin Zephyr",
       "text": "But this injury will take some time to\nheal...",
       "choice_data_list": [
-        "Making your comeback comes after you heal that injury.",
-        "Making your comeback comes after healing your injury.",
-        "If you're that set on it, let's do it together."
+        "That's why we should hold off on training."
       ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes... Yes, I wouldn't want to become\nany more of\na burden, after all.",
-      "choice_data_list": [
-        "That's why we should hold off on training."
-      ]
+      "text": "Yes... Yes, I wouldn't want to become\nany more of\na burden, after all."
     },
     {
       "name": "Yamanin Zephyr",
@@ -68,14 +68,14 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "U-urgh... But... I have to ride the wind..."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "...I'm sorry. I misjudged my current\ncondition.",
+      "text": "U-urgh... But... I have to ride the wind...",
       "choice_data_list": [
         "Let's take today off to rest after all."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...I'm sorry. I misjudged my current\ncondition."
     },
     {
       "name": "Monologue",
@@ -83,14 +83,14 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "I may not be running like a gale... but I\nfeel good."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "I know, I must be very careful. Please\ndon't worry.",
+      "text": "I may not be running like a gale... but I\nfeel good.",
       "choice_data_list": [
         "Let's keep up that pace."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I know, I must be very careful. Please\ndon't worry."
     },
     {
       "name": "Monologue",

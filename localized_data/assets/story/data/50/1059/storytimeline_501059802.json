@@ -7,15 +7,15 @@
     },
     {
       "name": "Monologue",
-      "text": "I know she loves herbs, so I want to do\nmy best to\nsupport her efforts to create\na great fragrance!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...Come on. This isn't the kind of event\nyou need\nto be getting <i>that</i> enthusiastic\nabout.",
+      "text": "I know she loves herbs, so I want to do\nmy best to\nsupport her efforts to create\na great fragrance!",
       "choice_data_list": [
         "All right, which herbs should we pick?",
         "All right, which herbs should we pick?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Come on. This isn't the kind of event\nyou need\nto be getting <i>that</i> enthusiastic\nabout."
     },
     {
       "name": "Mejiro Dober",
@@ -31,7 +31,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...I brought some chocolate, so you\nshould eat\nsome. Don't want you passing\nout on me."
+      "text": "...I brought some chocolate, so you\nshould eat\nsome. Don't want you passing\nout on me.",
+      "choice_data_list": [
+        "Still, what about the event?",
+        "Still, what about the event?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -43,11 +47,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "The event runs until this evening. Let's\nhead over\nto that shaded area. Hurry up.",
-      "choice_data_list": [
-        "Still, what about the event?",
-        "Still, what about the event?"
-      ]
+      "text": "The event runs until this evening. Let's\nhead over\nto that shaded area. Hurry up."
     },
     {
       "name": "Mejiro Dober",
@@ -63,25 +63,25 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Oh, there's some rosemary over there..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "I wonder, though. Rosemary would be\nrefreshing and\nrevitalizing, but I feel like\nsomething would still be\nlacking.",
+      "text": "Oh, there's some rosemary over there...",
       "choice_data_list": [
         "Then, shall we pick that one?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Then maybe I have my priorities\nbackwards. Yes, it's\nprobably better to\ngo with a different herb..."
+      "text": "I wonder, though. Rosemary would be\nrefreshing and\nrevitalizing, but I feel like\nsomething would still be\nlacking."
     },
     {
       "name": "Mejiro Dober",
-      "text": "It's nothing! Anyway, we're holding off\non the\nrosemary for now. Let's search\nover there.",
+      "text": "Then maybe I have my priorities\nbackwards. Yes, it's\nprobably better to\ngo with a different herb...",
       "choice_data_list": [
         "Hello?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "It's nothing! Anyway, we're holding off\non the\nrosemary for now. Let's search\nover there."
     },
     {
       "name": "Mejiro Dober",
@@ -89,22 +89,18 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "If we climb this cliff, I'm sure we'll find\nother herbs\nup there!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Well, I need some muña! And that herb\ngrows on\nhigh ground.",
+      "text": "If we climb this cliff, I'm sure we'll find\nother herbs\nup there!",
       "choice_data_list": [
         "W-We're climbing this cliff!?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "They're great for health and promote\nrelaxation!"
+      "text": "Well, I need some muña! And that herb\ngrows on\nhigh ground."
     },
     {
-      "name": "Monologue",
-      "text": "Despite telling me not to get excited\nabout this\nevent, she seems strangely\neager... Regardless,\nwe continue\ncollecting herbs.",
+      "name": "Mejiro Dober",
+      "text": "They're great for health and promote\nrelaxation!",
       "choice_data_list": [
         "If you get hurt, so much for staying healthy...!",
         "If you get hurt, so much for staying healthy...!"
@@ -112,11 +108,19 @@
     },
     {
       "name": "Monologue",
+      "text": "Despite telling me not to get excited\nabout this\nevent, she seems strangely\neager... Regardless,\nwe continue\ncollecting herbs."
+    },
+    {
+      "name": "Monologue",
       "text": "Mejiro Dober contacts me a few days\nlater to let\nme know that the wet\npotpourri is ready. I guess\nshe wants to\nshow me, since I helped a little?"
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Here. This is the wet potpourri from\nthe other\nday."
+      "text": "...Here. This is the wet potpourri from\nthe other\nday.",
+      "choice_data_list": [
+        "...Hm?",
+        "...Hm?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -130,8 +134,8 @@
       "name": "Mejiro Dober",
       "text": "What? You don't want it? I'd like to\nthink I did a\npretty good job with it...",
       "choice_data_list": [
-        "...Hm?",
-        "...Hm?"
+        "Huh?! I-Isn't this yours...?",
+        "Huh?! I-Isn't this yours...?"
       ]
     },
     {
@@ -144,11 +148,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "No, I've already got a bunch of these\nanyway.",
-      "choice_data_list": [
-        "Huh?! I-Isn't this yours...?",
-        "Huh?! I-Isn't this yours...?"
-      ]
+      "text": "No, I've already got a bunch of these\nanyway."
     },
     {
       "name": "Mejiro Dober",
@@ -232,7 +232,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Back when we were collecting herbs, she\nwas\npushing herself while telling me to\ntake it easy... I\nguess it was all for my\nsake..."
+      "text": "Back when we were collecting herbs, she\nwas\npushing herself while telling me to\ntake it easy... I\nguess it was all for my\nsake...",
+      "choice_data_list": [
+        "Thank you for doing this for me.",
+        "Thank you for doing this for me."
+      ]
     },
     {
       "name": "Monologue",
@@ -244,11 +248,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh?! I-I never said it was for you! It's\njust...\nthere's someone special to me I\ndidn't want to let\ndown!",
-      "choice_data_list": [
-        "Thank you for doing this for me.",
-        "Thank you for doing this for me."
-      ]
+      "text": "Huh?! I-I never said it was for you! It's\njust...\nthere's someone special to me I\ndidn't want to let\ndown!"
     },
     {
       "name": "Mejiro Dober",
@@ -256,7 +256,13 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Besides... we won't be winning any races\nunless\nwe're both at our best."
+      "text": "Besides... we won't be winning any races\nunless\nwe're both at our best.",
+      "choice_data_list": [
+        "Let's keep giving it our all together, alright?",
+        "Let's keep giving it our all together, okay?",
+        "This time, we'll have to be the ones to look after them.",
+        "This time, we're the ones who need to look after them, okay?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -270,13 +276,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I went to a lot of effort making that\npotpourri, so\nI expect as much effort\nfrom you.",
-      "choice_data_list": [
-        "Let's keep giving it our all together, alright?",
-        "Let's keep giving it our all together, okay?",
-        "This time, we'll have to be the ones to look after them.",
-        "This time, we're the ones who need to look after them, okay?"
-      ]
+      "text": "I went to a lot of effort making that\npotpourri, so\nI expect as much effort\nfrom you."
     },
     {
       "name": "Mejiro Dober",
@@ -292,7 +292,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "It's fine. If you keep doing that, there'll\nbe no end\nto this."
+      "text": "It's fine. If you keep doing that, there'll\nbe no end\nto this.",
+      "choice_data_list": [
+        "Our partnership isn't something with an expiration date, right?",
+        "Our partnership isn't something with an expiration date, is it?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -304,22 +308,18 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh?",
-      "choice_data_list": [
-        "Our partnership isn't something with an expiration date, right?",
-        "Our partnership isn't something with an expiration date, is it?"
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Mejiro Dober",
-      "text": "W-wait... Um, what... What do you\nmean?"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "<i>Sigh...</i> Don't use such ambiguous\nphrasing.",
+      "text": "W-wait... Um, what... What do you\nmean?",
       "choice_data_list": [
         "As your Trainer, I'll stick with you with everything I've got!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Sigh...</i> Don't use such ambiguous\nphrasing."
     },
     {
       "name": "Mejiro Dober",

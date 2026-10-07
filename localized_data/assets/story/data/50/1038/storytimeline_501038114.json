@@ -15,13 +15,17 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Okay, that's it for part A. The next thing\nI need to\nfilm is..."
+      "text": "Okay, that's it for part A. The next thing\nI need to\nfilm is...",
+      "choice_data_list": [
+        "Curren!"
+      ]
     },
     {
       "name": "Curren Chan",
       "text": "Big Bro? Fancy seeing you here!",
       "choice_data_list": [
-        "Curren!"
+        "What were you up to?",
+        "What were you doing?"
       ]
     },
     {
@@ -34,19 +38,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, the video just now? I'm uploading it\nto\nUmaTube!",
-      "choice_data_list": [
-        "What were you up to?",
-        "What were you doing?"
-      ]
+      "text": "Oh, the video just now? I'm uploading it\nto\nUmaTube!"
     },
     {
       "name": "Monologue",
-      "text": "UmaTube is a video-sharing service\nthat's popular\nwith people of all ages. I\nhad no idea Curren\nChan was on\nUmaTube as well."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Ha! Do you hear yourself? I'm doing\nboth, of\ncourse!",
+      "text": "UmaTube is a video-sharing service\nthat's popular\nwith people of all ages. I\nhad no idea Curren\nChan was on\nUmaTube as well.",
       "choice_data_list": [
         "Did you quit Umastagram?",
         "Did you quit Umastagram?"
@@ -54,29 +50,33 @@
     },
     {
       "name": "Curren Chan",
+      "text": "Ha! Do you hear yourself? I'm doing\nboth, of\ncourse!"
+    },
+    {
+      "name": "Curren Chan",
       "text": "I actually made my UmaTube channel a\nlong time\nago. I just hadn't really been\ngiving it much\nattention."
     },
     {
       "name": "Curren Chan",
-      "text": "But now I'm gonna be posting a bunch!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "If I wanna be the most beloved runner, I\nhave to\nget more people to know who I\nam.",
+      "text": "But now I'm gonna be posting a bunch!",
       "choice_data_list": [
         "Why so suddenly?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Since there are so many people watching\n\nUmaTube, I figure posting there is pretty\n\nimportant. ♪"
+      "text": "If I wanna be the most beloved runner, I\nhave to\nget more people to know who I\nam."
     },
     {
       "name": "Curren Chan",
-      "text": "Sooo... don't forget to subscribe to\nCurren\nChannel ♪!",
+      "text": "Since there are so many people watching\n\nUmaTube, I figure posting there is pretty\n\nimportant. ♪",
       "choice_data_list": [
         "I see..."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sooo... don't forget to subscribe to\nCurren\nChannel ♪!"
     },
     {
       "name": "Curren Chan",
@@ -92,15 +92,15 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Make sure to follow me on UmaTok and\nUmatter\ntoo!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Of course! I'm gonna be posting on\nthose next! ♪",
+      "text": "Make sure to follow me on UmaTok and\nUmatter\ntoo!",
       "choice_data_list": [
         "There's still more!?",
         "There's still more!?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Of course! I'm gonna be posting on\nthose next! ♪"
     },
     {
       "name": "Curren Chan",
@@ -140,21 +140,21 @@
     },
     {
       "name": "Curren Chan",
-      "text": "..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "All right! ♪ I think this one's okay for\nUmaTok!",
+      "text": "...",
       "choice_data_list": [
         "(*Gulp...*)"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Oh. Your arms are shaking... I guess you\n<i>were</i>\nholding my phone for a long time.",
+      "text": "All right! ♪ I think this one's okay for\nUmaTok!",
       "choice_data_list": [
         "T-Thank goodness..."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh. Your arms are shaking... I guess you\n<i>were</i>\nholding my phone for a long time."
     },
     {
       "name": "Curren Chan",
@@ -174,14 +174,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "But since the audiences are different,\nthere are\nsome pics I only upload\nthere. ♪"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Hm... Oh, this lighting's perfect!\nQuick—get a pic!",
+      "text": "But since the audiences are different,\nthere are\nsome pics I only upload\nthere. ♪",
       "choice_data_list": [
         "For example?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hm... Oh, this lighting's perfect!\nQuick—get a pic!"
     },
     {
       "name": "Curren Chan",
@@ -201,14 +201,14 @@
     },
     {
       "name": "Monologue",
-      "text": "It's just a regular picture of Curren Chan,\nbut the\nspeed at which it gets attention\nis amazing."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Wow! That might be a new record!\nHaving\nsomeone else take the shot\nreally does\nwonders. ♪",
+      "text": "It's just a regular picture of Curren Chan,\nbut the\nspeed at which it gets attention\nis amazing.",
       "choice_data_list": [
         "Already at 10,000 \"Uma-likes\"...!?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Wow! That might be a new record!\nHaving\nsomeone else take the shot\nreally does\nwonders. ♪"
     },
     {
       "name": "Curren Chan",
@@ -220,14 +220,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't really get it myself, but it looks\nlike she\nuses each platform differently.\nBut..."
-    },
-    {
-      "name": "Monologue",
-      "text": "After spending just one day with her,\nI've realized\nthat posting on social media\nis much more\ndifficult than I'd imagined.\nI'd prefer if she\nconcentrated that\nenergy solely on her races.",
+      "text": "I don't really get it myself, but it looks\nlike she\nuses each platform differently.\nBut...",
       "choice_data_list": [
         "You didn't have to beat the record by that much..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "After spending just one day with her,\nI've realized\nthat posting on social media\nis much more\ndifficult than I'd imagined.\nI'd prefer if she\nconcentrated that\nenergy solely on her races."
     },
     {
       "name": "Curren Chan",

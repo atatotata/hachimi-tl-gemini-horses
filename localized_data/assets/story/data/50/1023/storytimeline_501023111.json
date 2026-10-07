@@ -11,11 +11,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Trainer! Help!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "I-I just... It's my phone, I—",
+      "text": "Trainer! Help!",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
@@ -23,18 +19,18 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No! Brian sent a message!",
+      "text": "I-I just... It's my phone, I—",
       "choice_data_list": [
         "...\"Eggplant\"?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "She asked me to \"hang out\" this\nweekend!"
+      "text": "No! Brian sent a message!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "H-how can you be so nonchalant?! This\nis an\nemergency!",
+      "text": "She asked me to \"hang out\" this\nweekend!",
       "choice_data_list": [
         "I see.",
         "I see."
@@ -42,19 +38,23 @@
     },
     {
       "name": "Biwa Hayahide",
+      "text": "H-how can you be so nonchalant?! This\nis an\nemergency!"
+    },
+    {
+      "name": "Biwa Hayahide",
       "text": "Narita Brian went out of her way to\ninvite me out!\nAnd she specifically said\nthis weekend!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It's almost like we're normal sisters..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "I know! But...",
+      "text": "It's almost like we're normal sisters...",
       "choice_data_list": [
         "You two are sisters as well, right?",
         "Aren't you two like sisters, too?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I know! But..."
     },
     {
       "name": "Biwa Hayahide",
@@ -70,11 +70,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I just hope I won't disappoint her."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Ack!",
+      "text": "I just hope I won't disappoint her.",
       "choice_data_list": [
         "...You're a bit too stuck in your head.",
         "...You're too stuck in your head."
@@ -82,11 +78,15 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hm...",
+      "text": "Ack!",
       "choice_data_list": [
         "You don't have to force yourself to act like a big sisterâyou already are one.",
         "You don't need to force yourself to act like an older sisterâyou're already her sister."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hm..."
     },
     {
       "name": "Monologue",
@@ -214,44 +214,44 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Trainer! As I said in my message earlier, I\nneed to\nuse your kitchen."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "So I can fulfill my sister's request. The\ndorm\nkitchen is currently closed for\nrepairs, so I can't\nuse it right now.",
+      "text": "Trainer! As I said in my message earlier, I\nneed to\nuse your kitchen.",
       "choice_data_list": [
         "Why!?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I just need to whip up some curry and I'll\nbe out of\nyour hair. I promise I'll clean\nup after myself, so\nplease let me use it!"
+      "text": "So I can fulfill my sister's request. The\ndorm\nkitchen is currently closed for\nrepairs, so I can't\nuse it right now."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Thank you! I'll only be four or five hours!",
+      "text": "I just need to whip up some curry and I'll\nbe out of\nyour hair. I promise I'll clean\nup after myself, so\nplease let me use it!",
       "choice_data_list": [
         "...Just the kitchen, though."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Biwa Hayahide bounces over to my\nkitchen with a\nspring in her step.",
+      "name": "Biwa Hayahide",
+      "text": "Thank you! I'll only be four or five hours!",
       "choice_data_list": [
         "Wait!?"
       ]
     },
     {
-      "name": "Narita Brian",
-      "text": "Sorry about my pushy sister."
+      "name": "Monologue",
+      "text": "Biwa Hayahide bounces over to my\nkitchen with a\nspring in her step."
     },
     {
       "name": "Narita Brian",
-      "text": "...No.",
+      "text": "Sorry about my pushy sister.",
       "choice_data_list": [
         "You really wanted curry that badly, huh?",
         "Did you really want curry that badly?"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No."
     },
     {
       "name": "Narita Brian",
@@ -267,15 +267,15 @@
     },
     {
       "name": "Narita Brian",
-      "text": "'Kay."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...",
+      "text": "'Kay.",
       "choice_data_list": [
         "By the way, why did you invite me out on our day off?",
         "By the way, why did you invite me out on our day off?"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
     },
     {
       "name": "Narita Brian",
@@ -319,14 +319,14 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Heh. We might be seeing a lot of each\nother for a\nlong while yet, so let's try to\nget along."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "W-wait a minute! What, exactly, are we\ntalking\nabout here?!",
+      "text": "Heh. We might be seeing a lot of each\nother for a\nlong while yet, so let's try to\nget along.",
       "choice_data_list": [
         "Umm... nice to meet you?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "W-wait a minute! What, exactly, are we\ntalking\nabout here?!"
     },
     {
       "name": "Biwa Hayahide",

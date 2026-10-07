@@ -27,25 +27,25 @@
     },
     {
       "name": "TV",
-      "text": "Fans have been eagerly awaiting the rise\nof a new\nMejiro racer..."
-    },
-    {
-      "name": "Monologue",
-      "text": "Today, my journey with Mejiro Dober to\ntake on\nthe Twinkle Series begins!",
+      "text": "Fans have been eagerly awaiting the rise\nof a new\nMejiro racer...",
       "choice_data_list": [
         "...A new Mejiro Umamusume, huh?"
       ]
     },
     {
       "name": "Monologue",
-      "text": "She's going to need to work harder than\never if\nshe's to become the rising star the\nworld is\nanticipating."
+      "text": "Today, my journey with Mejiro Dober to\ntake on\nthe Twinkle Series begins!"
     },
     {
       "name": "Monologue",
-      "text": "I go to the training course to look for\nMejiro\nDober, and when I get there...",
+      "text": "She's going to need to work harder than\never if\nshe's to become the rising star the\nworld is\nanticipating.",
       "choice_data_list": [
         "First, let's go talk about our next steps!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I go to the training course to look for\nMejiro\nDober, and when I get there..."
     },
     {
       "name": "Mejiro Dober",
@@ -73,13 +73,17 @@
     },
     {
       "name": "Monologue",
-      "text": "Still, having this many eyes on her might\nmake her\nnervous. I have to do\nsomething before she gets\nunnerved."
+      "text": "Still, having this many eyes on her might\nmake her\nnervous. I have to do\nsomething before she gets\nunnerved.",
+      "choice_data_list": [
+        "Sorry to keep you waiting, Dober!"
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "T-Trainer?! Don't just suddenly shout my\nname!\nAnd it's not like I was waiting for\nyou...",
       "choice_data_list": [
-        "Sorry to keep you waiting, Dober!"
+        "There are too many eyes here, so let's move somewhere else first.",
+        "There are too many eyes here, so let's move somewhere else first."
       ]
     },
     {
@@ -92,11 +96,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...O-okay.",
-      "choice_data_list": [
-        "There are too many eyes here, so let's move somewhere else first.",
-        "There are too many eyes here, so let's move somewhere else first."
-      ]
+      "text": "...O-okay."
     },
     {
       "name": "Mejiro Dober",
@@ -112,7 +112,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Wait, before we start... You were trying\nto help\nme back there, weren't you?\n...Thanks."
+      "text": "Wait, before we start... You were trying\nto help\nme back there, weren't you?\n...Thanks.",
+      "choice_data_list": [
+        "You're welcome.",
+        "You're welcome."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -124,11 +128,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Actually, your timing works out. I\nwanted to talk\nto you about my debut as\nwell.",
-      "choice_data_list": [
-        "You're welcome.",
-        "You're welcome."
-      ]
+      "text": "Actually, your timing works out. I\nwanted to talk\nto you about my debut as\nwell."
     },
     {
       "name": "Mejiro Dober",
@@ -140,11 +140,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "And I want to start by putting everything\nI've got\ninto my debut race."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...I'm just stating the obvious. I wasn't\nfishing for\ncompliments.",
+      "text": "And I want to start by putting everything\nI've got\ninto my debut race.",
       "choice_data_list": [
         "That's a great goal.",
         "That's a great goal."
@@ -152,11 +148,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I-is it? All I did was state the obvious.\nYou don't\nhave to flatter me, you know..."
+      "text": "...I'm just stating the obvious. I wasn't\nfishing for\ncompliments."
     },
     {
       "name": "Mejiro Dober",
-      "text": "Anyway, um, I just wanted to make my\nintentions\nclear, so... Let's make it\nhappen."
+      "text": "I-is it? All I did was state the obvious.\nYou don't\nhave to flatter me, you know..."
     },
     {
       "name": "Mejiro Dober",
@@ -168,11 +164,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Sure. Anyway, about my training...",
+      "text": "Anyway, um, I just wanted to make my\nintentions\nclear, so... Let's make it\nhappen.",
       "choice_data_list": [
         "Looking forward to working together again, from me too!",
         "Looking forward to working with you again from me, too!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Sure. Anyway, about my training..."
     },
     {
       "name": "Mejiro Dober",
@@ -264,15 +264,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Motivated by Bright's words, Mejiro\nDober seems\nmore determined. I have to\ntake advantage of\nthis."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "What? Now? I'm sure Bright has her own\n\ntraining—",
+      "text": "Motivated by Bright's words, Mejiro\nDober seems\nmore determined. I have to\ntake advantage of\nthis.",
       "choice_data_list": [
         "Since we're both here, want to run side by side?",
         "Since we're both here, want to run side by side?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What? Now? I'm sure Bright has her own\n\ntraining—"
     },
     {
       "name": "Mejiro Bright",

@@ -91,7 +91,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro Dober is trembling in distress. I\nwonder if\nthere's anything I can say to\nassuage her fears?"
+      "text": "Mejiro Dober is trembling in distress. I\nwonder if\nthere's anything I can say to\nassuage her fears?",
+      "choice_data_list": [
+        "Please give me a flyer!!",
+        "Let's hand them out together!",
+        "I'll help you hand them out!"
+      ]
     },
     {
       "name": "Monologue",
@@ -104,12 +109,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh?! Ah, here yo—wait, you're...",
-      "choice_data_list": [
-        "Please give me a flyer!!",
-        "Let's hand them out together!",
-        "I'll help you hand them out!"
-      ]
+      "text": "Huh?! Ah, here yo—wait, you're..."
     },
     {
       "name": "Passersby",
@@ -125,26 +125,26 @@
     },
     {
       "name": "Monologue",
-      "text": "Perhaps I called out to her a little <i>too</i>\nloudly. So\nmany people are rushing over,\nthere's no way she\ncan possibly handle\nthem alone!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...!",
+      "text": "Perhaps I called out to her a little <i>too</i>\nloudly. So\nmany people are rushing over,\nthere's no way she\ncan possibly handle\nthem alone!",
       "choice_data_list": [
         "L-Let's split up and hand them out!"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "I don't believe it. I handed out all the\nflyers?\nSeriously?"
+      "text": "...!"
     },
     {
       "name": "Mejiro Dober",
-      "text": "Uh... I wasn't asking you.",
+      "text": "I don't believe it. I handed out all the\nflyers?\nSeriously?",
       "choice_data_list": [
         "Yeah. Great work!",
         "Yeah. Great work!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Uh... I wasn't asking you."
     },
     {
       "name": "Mejiro Dober",
@@ -188,14 +188,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "That was directed at you too, Trainer."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Um, I also wanted to say... You helped,\nuh, a bit...\nBye.",
+      "text": "That was directed at you too, Trainer.",
       "choice_data_list": [
         "Not at all."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Um, I also wanted to say... You helped,\nuh, a bit...\nBye."
     },
     {
       "name": "Mejiro Dober",
@@ -215,15 +215,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "<i>Huff... Puff...</i> I think we somehow\nmanaged to get\nall of them, but..."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Sorry, I'm finally ba—oh, what happened\nhere?",
+      "text": "<i>Huff... Puff...</i> I think we somehow\nmanaged to get\nall of them, but...",
       "choice_data_list": [
         "It's already evening, huh...",
         "It's already evening, isn't it..."
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sorry, I'm finally ba—oh, what happened\nhere?"
     },
     {
       "name": "Air Groove",
@@ -255,14 +255,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Thanks for your help too, Trainer."
-    },
-    {
-      "name": "Monologue",
-      "text": "Mejiro Dober returns to the academy\ndeep in\nthought, pondering the meaning\nbehind Air\nGroove's words.",
+      "text": "Thanks for your help too, Trainer.",
       "choice_data_list": [
         "Not at all."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro Dober returns to the academy\ndeep in\nthought, pondering the meaning\nbehind Air\nGroove's words."
     },
     {
       "name": "Mejiro Dober",
@@ -270,7 +270,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...No thanks. And don't give me your\ntrainer spiel,\neither."
+      "text": "...No thanks. And don't give me your\ntrainer spiel,\neither.",
+      "choice_data_list": [
+        "Still...",
+        "Still..."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -282,11 +286,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hmph! You're so nosy! I can do this by\nmyself! I\n<i>have</i> to do this by myself!",
-      "choice_data_list": [
-        "Still...",
-        "Still..."
-      ]
+      "text": "Hmph! You're so nosy! I can do this by\nmyself! I\n<i>have</i> to do this by myself!"
     },
     {
       "name": "Mejiro Dober",
@@ -298,14 +298,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? Oh! Um!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Hey! ...Oh, fine!",
+      "text": "Huh? Oh! Um!",
       "choice_data_list": [
         "Yes! We're holding an event soon!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hey! ...Oh, fine!"
     },
     {
       "name": "Mejiro Dober",
@@ -353,14 +353,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "That was directed at you too, Trainer."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...I didn't ask you to help, but... thanks. I\nguess.",
+      "text": "That was directed at you too, Trainer.",
       "choice_data_list": [
         "Not at all."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...I didn't ask you to help, but... thanks. I\nguess."
     },
     {
       "name": "Mejiro Dober",

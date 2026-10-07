@@ -71,14 +71,14 @@
     },
     {
       "name": "Female Participant",
-      "text": "An entire horde's coming this way! Run\naway!"
-    },
-    {
-      "name": "Zombies",
-      "text": "Raaah!",
+      "text": "An entire horde's coming this way! Run\naway!",
       "choice_data_list": [
         "(Everyone's totally into it...!)"
       ]
+    },
+    {
+      "name": "Zombies",
+      "text": "Raaah!"
     },
     {
       "name": "Fuji Kiseki",
@@ -114,15 +114,15 @@
     },
     {
       "name": "",
-      "text": "I rack my brains for a solution. To ensure\nher safe\nescape and victory, I have to..."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "You want to jump down there?!",
+      "text": "I rack my brains for a solution. To ensure\nher safe\nescape and victory, I have to...",
       "choice_data_list": [
         "Jump down to the first floor carrying Fuji Kiseki",
         "Act as a decoy"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "You want to jump down there?!"
     },
     {
       "name": "Zombies",
@@ -146,14 +146,14 @@
     },
     {
       "name": "Event Staff",
-      "text": "Unfortunately, dangerous acts are\nforbidden, so\nyou're disqualified!"
-    },
-    {
-      "name": "",
-      "text": "Thus, the event ends and we leave\nempty-handed\ndue to my\noverenthusiasm.",
+      "text": "Unfortunately, dangerous acts are\nforbidden, so\nyou're disqualified!",
       "choice_data_list": [
         "(Oh, right!!)"
       ]
+    },
+    {
+      "name": "",
+      "text": "Thus, the event ends and we leave\nempty-handed\ndue to my\noverenthusiasm."
     },
     {
       "name": "Fuji Kiseki",
@@ -169,14 +169,14 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "You carried me and jumped yourself\nbecause you\ndidn't want me to hurt my\nlegs, didn't you?"
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "It all makes sense now... I was wondering\nwhy you\nwere being so pushy.",
+      "text": "You carried me and jumped yourself\nbecause you\ndidn't want me to hurt my\nlegs, didn't you?",
       "choice_data_list": [
         "！"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "It all makes sense now... I was wondering\nwhy you\nwere being so pushy."
     },
     {
       "name": "Fuji Kiseki",
@@ -208,14 +208,14 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "That aside, you're still injured. As\npunishment, I'm\ngiving you a piggyback\nride all the way home!"
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Stop flailing about! This is what you get\nfor being\nso reckless.",
+      "text": "That aside, you're still injured. As\npunishment, I'm\ngiving you a piggyback\nride all the way home!",
       "choice_data_list": [
         "！？"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Stop flailing about! This is what you get\nfor being\nso reckless."
     },
     {
       "name": "",
@@ -227,11 +227,7 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "No! Absolutely not! I can't let you do\nthat! If\nanyone's going to be bait, it'll be\nm—"
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "But...",
+      "text": "No! Absolutely not! I can't let you do\nthat! If\nanyone's going to be bait, it'll be\nm—",
       "choice_data_list": [
         "If it's just you alone, you can definitely run away with the win!",
         "If it's just you, you can definitely hold the lead to the end!"
@@ -239,10 +235,14 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Trainer...",
+      "text": "But...",
       "choice_data_list": [
         "That's why I need you to come back with a win, no matter what."
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Trainer..."
     },
     {
       "name": "Fuji Kiseki",
@@ -270,18 +270,14 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Phew! I did it! Those zombies were so\nfast, I nearly\ngot caught."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Thanks, but I couldn't have done it\nwithout the\nspell you cast on me.",
+      "text": "Phew! I did it! Those zombies were so\nfast, I nearly\ngot caught.",
       "choice_data_list": [
         "That was some impressive running!"
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Don't you remember? You said, \"You\ncan make\nit!\"",
+      "text": "Thanks, but I couldn't have done it\nwithout the\nspell you cast on me.",
       "choice_data_list": [
         "？"
       ]
@@ -292,14 +288,18 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "After hearing those words, I knew I <i>had</i>\nto make\nit. You had so much faith in me,\nI couldn't let you\ndown."
+      "text": "Don't you remember? You said, \"You\ncan make\nit!\""
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Hehe! Your words literally have a\nmagical power\nover me!",
+      "text": "After hearing those words, I knew I <i>had</i>\nto make\nit. You had so much faith in me,\nI couldn't let you\ndown.",
       "choice_data_list": [
         "！"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe! Your words literally have a\nmagical power\nover me!"
     },
     {
       "name": "Fuji Kiseki",

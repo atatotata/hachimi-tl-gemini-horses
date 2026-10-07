@@ -15,7 +15,12 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Maybe this truly is as good as I'll ever\nbe."
+      "text": "Maybe this truly is as good as I'll ever\nbe.",
+      "choice_data_list": [
+        "Don't worry, you can become even stronger.",
+        "Don't worry, you can become even stronger.",
+        "Then, are you giving up?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -28,12 +33,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "...Do you really believe that?",
-      "choice_data_list": [
-        "Don't worry, you can become even stronger.",
-        "Don't worry, you can become even stronger.",
-        "Then, are you giving up?"
-      ]
+      "text": "...Do you really believe that?"
     },
     {
       "name": "Nice Nature",
@@ -41,14 +41,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Even so... do you <i>truly</i> think that this\nloser can\nimprove?"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "...",
+      "text": "Even so... do you <i>truly</i> think that this\nloser can\nimprove?",
       "choice_data_list": [
         "You can do it!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
     },
     {
       "name": "Nice Nature",
@@ -60,26 +60,26 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Can you help me become someone\nworth\nbelieving in?"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Okay... Thank you. I won't forget what\nyou just\nsaid.",
+      "text": "Can you help me become someone\nworth\nbelieving in?",
       "choice_data_list": [
         "Of course!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Urk! I... I..."
+      "text": "Okay... Thank you. I won't forget what\nyou just\nsaid."
     },
     {
       "name": "Nice Nature",
-      "text": "Yeah, you're right...",
+      "text": "Urk! I... I...",
       "choice_data_list": [
         "You can't do that, can you?",
         "You can't do that, can you?"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yeah, you're right..."
     },
     {
       "name": "Nice Nature",
@@ -95,14 +95,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "'Cause I don't think I can just give up\nyet!"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Okay!",
+      "text": "'Cause I don't think I can just give up\nyet!",
       "choice_data_list": [
         "Let's keep moving forward, one step at a time!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Okay!"
     }
   ]
 }

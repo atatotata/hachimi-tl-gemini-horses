@@ -131,14 +131,14 @@
     },
     {
       "name": "Monologue",
-      "text": "The student kicks up dirt and lunges at\nSmart\nFalcon—time to step in!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Wha?!",
+      "text": "The student kicks up dirt and lunges at\nSmart\nFalcon—time to step in!",
       "choice_data_list": [
         "Stooop!"
       ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Wha?!"
     },
     {
       "name": "Monologue",
@@ -146,22 +146,18 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "S-sorry you had to get involved in this..."
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "<i>Sigh...</i> It was totally my fault. I need to\napologize\nto her too.",
+      "text": "S-sorry you had to get involved in this...",
       "choice_data_list": [
         "Don't worry."
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "...Part of me knew that maybe I was\nbeing a little\ntoo pushy."
+      "text": "<i>Sigh...</i> It was totally my fault. I need to\napologize\nto her too."
     },
     {
       "name": "Smart Falcon",
-      "text": "Ahaha, thanks for trying to make me feel\nbetter,\nbut nothing <i>she</i> said was wrong\neither.",
+      "text": "...Part of me knew that maybe I was\nbeing a little\ntoo pushy.",
       "choice_data_list": [
         "Still, what you said was right too.",
         "But what you said was also right."
@@ -169,30 +165,34 @@
     },
     {
       "name": "Smart Falcon",
+      "text": "Ahaha, thanks for trying to make me feel\nbetter,\nbut nothing <i>she</i> said was wrong\neither."
+    },
+    {
+      "name": "Smart Falcon",
       "text": "Maybe it'd be better if we didn't split\npeople up\ninto center stage or backup\ndancers or anything..."
     },
     {
       "name": "Smart Falcon",
-      "text": "No, that wouldn't be right. It's the\nserious\ncompetition before a winning\nconcert that makes\nit so special! That's\nwhy everyone dreams of\nstanding center\nstage!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "<i>Sigh...</i> Yeah, you're right.",
+      "text": "No, that wouldn't be right. It's the\nserious\ncompetition before a winning\nconcert that makes\nit so special! That's\nwhy everyone dreams of\nstanding center\nstage!",
       "choice_data_list": [
         "...That's a tough topic.",
         "...That's a tough topic, isn't it."
       ]
     },
     {
-      "name": "Light Hello",
-      "text": "Here's one! How about we bring back\nthe Grand\nConcert?"
+      "name": "Smart Falcon",
+      "text": "<i>Sigh...</i> Yeah, you're right."
     },
     {
       "name": "Light Hello",
-      "text": "Hello Trainer, and Smart Falcon.",
+      "text": "Here's one! How about we bring back\nthe Grand\nConcert?",
       "choice_data_list": [
         "Huh?!"
       ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Hello Trainer, and Smart Falcon."
     },
     {
       "name": "Light Hello",

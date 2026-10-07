@@ -99,7 +99,11 @@
     },
     {
       "name": "Inari One",
-      "text": "Hey, Boss. Thanks a bunch for stickin' by\nme right\nfrom the start of the year."
+      "text": "Hey, Boss. Thanks a bunch for stickin' by\nme right\nfrom the start of the year.",
+      "choice_data_list": [
+        "Do you come to watch the first sunrise every year?",
+        "Do you come out to watch the first sunrise every year?"
+      ]
     },
     {
       "name": "Inari One",
@@ -111,11 +115,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Well, not every single year. But this\ntime, I just\nfelt like juicin' things up!\nThought it'd be nice to\nget the whole\ngang together to watch it.",
-      "choice_data_list": [
-        "Do you come to watch the first sunrise every year?",
-        "Do you come out to watch the first sunrise every year?"
-      ]
+      "text": "Well, not every single year. But this\ntime, I just\nfelt like juicin' things up!\nThought it'd be nice to\nget the whole\ngang together to watch it."
     },
     {
       "name": "Inari One",
@@ -151,11 +151,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Agreeing with her, I try to think of\nsomething\ngood for New Year's..."
-    },
-    {
-      "name": "Inari One",
-      "text": "Outta the gate right from the get-go, I\nsee! But\nlemme warn ya, I'm as good as\nthey come!",
+      "text": "Agreeing with her, I try to think of\nsomething\ngood for New Year's...",
       "choice_data_list": [
         "Play New Year's games.",
         "Relax under the kotatsu",
@@ -164,14 +160,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Spinnin' tops, kite flyin', hagoita, karuta!\nI've\nplayed the heck out of 'em with the\nfolks back\nhome!"
+      "text": "Outta the gate right from the get-go, I\nsee! But\nlemme warn ya, I'm as good as\nthey come!"
     },
     {
       "name": "Inari One",
-      "text": "Izzat a challenge?! Bring it on!",
+      "text": "Spinnin' tops, kite flyin', hagoita, karuta!\nI've\nplayed the heck out of 'em with the\nfolks back\nhome!",
       "choice_data_list": [
         "Let's see what you've got!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Izzat a challenge?! Bring it on!"
     },
     {
       "name": "Monologue",

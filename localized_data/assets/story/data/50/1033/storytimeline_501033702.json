@@ -35,15 +35,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "What exactly is this \"legendary blade\"\nresearch\nanyway?!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, I'm sorry! I'm sorry! But... there are\nchildren\nlooking forward to the\nperformance!",
+      "text": "What exactly is this \"legendary blade\"\nresearch\nanyway?!",
       "choice_data_list": [
         "Though I did end up following you all the way here.",
         "Though I ended up following you all the way here, huh."
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, I'm sorry! I'm sorry! But... there are\nchildren\nlooking forward to the\nperformance!"
     },
     {
       "name": "Admire Vega",
@@ -87,15 +87,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "That map was pretty useless, wasn't it?\nWhat was\nOpera O thinking? Geez..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "I'm... I'm really sorry about that! It's my\nfault for\nmaking you do so much...",
+      "text": "That map was pretty useless, wasn't it?\nWhat was\nOpera O thinking? Geez...",
       "choice_data_list": [
         "We really took the long way around...",
         "We really took the long way around, didn't we...?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I'm... I'm really sorry about that! It's my\nfault for\nmaking you do so much..."
     },
     {
       "name": "Admire Vega",
@@ -135,14 +135,14 @@
     },
     {
       "name": "Children",
-      "text": "Hey! We knew that was you, Doto! Are\nyou\npreparing for today's opera?"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, they're from the local children's\ncenter.\nOpera O invited them to watch\nour show...",
+      "text": "Hey! We knew that was you, Doto! Are\nyou\npreparing for today's opera?",
       "choice_data_list": [
         "Who are these little ones?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, they're from the local children's\ncenter.\nOpera O invited them to watch\nour show..."
     },
     {
       "name": "Meisho Doto",
@@ -162,7 +162,13 @@
     },
     {
       "name": "Admire Vega",
-      "text": "H-hold on..."
+      "text": "H-hold on...",
+      "choice_data_list": [
+        "I know! It's super 'cool', right?!",
+        "I know! It's super 'cool', isn't it?!",
+        "Leave this to me.",
+        "Leave this to me."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -176,13 +182,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...I only did what anyone should do.",
-      "choice_data_list": [
-        "I know! It's super 'cool', right?!",
-        "I know! It's super 'cool', isn't it?!",
-        "Leave this to me.",
-        "Leave this to me."
-      ]
+      "text": "...I only did what anyone should do."
     },
     {
       "name": "Children",
@@ -198,15 +198,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Deal with what?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Huh?",
+      "text": "Deal with what?",
       "choice_data_list": [
         "All right, Trooper Ayabe! Off to the next scene we go!",
         "All right, Trooper Ayabe! Let's head to the next scene!"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?"
     },
     {
       "name": "Children",
@@ -214,14 +214,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Have you... done this before?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Keep it up and <i>someone</i> might come and\nscout\nyou to be in their play.",
+      "text": "Have you... done this before?",
       "choice_data_list": [
         "Just from the general vibe..."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Keep it up and <i>someone</i> might come and\nscout\nyou to be in their play."
     },
     {
       "name": "Monologue",

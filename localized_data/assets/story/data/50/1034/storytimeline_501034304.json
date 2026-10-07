@@ -7,7 +7,11 @@
     },
     {
       "name": "Inari One",
-      "text": "I think this one went pretty well, Boss!\nHow's my\ntime?!"
+      "text": "I think this one went pretty well, Boss!\nHow's my\ntime?!",
+      "choice_data_list": [
+        "Yeah, you hit your target time again!",
+        "Yeah, you hit your target time again!"
+      ]
     },
     {
       "name": "Inari One",
@@ -19,11 +23,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Yesss! Looks like we hit the sweet spot!",
-      "choice_data_list": [
-        "Yeah, you hit your target time again!",
-        "Yeah, you hit your target time again!"
-      ]
+      "text": "Yesss! Looks like we hit the sweet spot!"
     },
     {
       "name": "Monologue",
@@ -35,7 +35,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Hey, Boss. Can we have a little chat\ndurin' break?"
+      "text": "Hey, Boss. Can we have a little chat\ndurin' break?",
+      "choice_data_list": [
+        "A talk?"
+      ]
     },
     {
       "name": "Inari One",
@@ -46,10 +49,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Yeah. I'm nearin' my classic year, so I\nwanted to\nget your advice on somethin'.",
-      "choice_data_list": [
-        "A talk?"
-      ]
+      "text": "Yeah. I'm nearin' my classic year, so I\nwanted to\nget your advice on somethin'."
     },
     {
       "name": "Inari One",
@@ -69,25 +69,25 @@
     },
     {
       "name": "Inari One",
-      "text": "But just reaching the top isn't enough for\nme.\nWhich is why I gotta do it <i>twice!</i> I'm\naimin' for\nboth the top of the centrals\n<i>and</i> the regionals!"
-    },
-    {
-      "name": "Inari One",
-      "text": "As a transfer who grew up with the\nregionals, I\nthink this monument of a\ngoal is somethin' only I\ncan do.",
+      "text": "But just reaching the top isn't enough for\nme.\nWhich is why I gotta do it <i>twice!</i> I'm\naimin' for\nboth the top of the centrals\n<i>and</i> the regionals!",
       "choice_data_list": [
         "……！"
       ]
     },
     {
       "name": "Inari One",
-      "text": "So, tell me, whaddya think?"
+      "text": "As a transfer who grew up with the\nregionals, I\nthink this monument of a\ngoal is somethin' only I\ncan do."
     },
     {
-      "name": "Monologue",
-      "text": "The top, the best, the strongest...\nEveryone is\ndifferent in how they define\nwhat they see as the\npinnacle of success.",
+      "name": "Inari One",
+      "text": "So, tell me, whaddya think?",
       "choice_data_list": [
         "I think that sounds wildly entertaining...!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The top, the best, the strongest...\nEveryone is\ndifferent in how they define\nwhat they see as the\npinnacle of success."
     },
     {
       "name": "Monologue",
@@ -103,11 +103,7 @@
     },
     {
       "name": "Inari One",
-      "text": "I think it's gonna take more than winnin'\na buncha\nraces. I just can't pin down\nwhat that \"more\" could\nbe."
-    },
-    {
-      "name": "Monologue",
-      "text": "During her classic year, she can\ndominate the\nTokyo Daishoten at Oi\nRacecourse. Then, in her\nsenior year, if\nshe performs well in central G1s...",
+      "text": "I think it's gonna take more than winnin'\na buncha\nraces. I just can't pin down\nwhat that \"more\" could\nbe.",
       "choice_data_list": [
         "How about something like this? For instance—",
         "How about something like this? For example—"
@@ -115,19 +111,23 @@
     },
     {
       "name": "Monologue",
+      "text": "During her classic year, she can\ndominate the\nTokyo Daishoten at Oi\nRacecourse. Then, in her\nsenior year, if\nshe performs well in central G1s..."
+    },
+    {
+      "name": "Monologue",
       "text": "That could earn her the prestigious title\nof\nUmamusume of the Year."
     },
     {
       "name": "Monologue",
-      "text": "It would prove Inari One, the transfer\nfrom the\nregionals, is a top-class runner."
-    },
-    {
-      "name": "Inari One",
-      "text": "...Whoa.",
+      "text": "It would prove Inari One, the transfer\nfrom the\nregionals, is a top-class runner.",
       "choice_data_list": [
         "—...is what I was thinking, but...",
         "—...is what I was thinking, though."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...Whoa."
     },
     {
       "name": "Inari One",
@@ -147,21 +147,21 @@
     },
     {
       "name": "Inari One",
-      "text": "All right, the first hurdle we've got\ncomin' is the\nTokyo Daishoten!"
-    },
-    {
-      "name": "Monologue",
-      "text": "The Tokyo Daishoten won't be\nhappening until\nthe end of next year. In\nthe meantime, we should\nfocus on\ngetting more experience at Oi\n\nRacecourse!",
+      "text": "All right, the first hurdle we've got\ncomin' is the\nTokyo Daishoten!",
       "choice_data_list": [
         "No, before that—"
       ]
     },
     {
       "name": "Monologue",
-      "text": "The Japan Dirt Derby happens to be the\nbiggest\ndirt race in a runner's classic\nyear, making it the\nperfect stepping\nstone.",
+      "text": "The Tokyo Daishoten won't be\nhappening until\nthe end of next year. In\nthe meantime, we should\nfocus on\ngetting more experience at Oi\n\nRacecourse!",
       "choice_data_list": [
         "Let's enter the 'Japan Dirt Derby'."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The Japan Dirt Derby happens to be the\nbiggest\ndirt race in a runner's classic\nyear, making it the\nperfect stepping\nstone."
     },
     {
       "name": "Inari One",

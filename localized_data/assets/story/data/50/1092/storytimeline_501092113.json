@@ -17,16 +17,13 @@
       "name": "Dantsu Flame",
       "text": "……。",
       "choice_data_list": [
-        "All right, let's take a quick break."
+        "What's wrong?",
+        "What is it?"
       ]
     },
     {
       "name": "Dantsu Flame",
-      "text": "Ah, no! I'm off to take a break!",
-      "choice_data_list": [
-        "What's wrong?",
-        "What is it?"
-      ]
+      "text": "Ah, no! I'm off to take a break!"
     },
     {
       "name": "",
@@ -47,10 +44,7 @@
     },
     {
       "name": "Dantsu Flame",
-      "text": "Ah, that's right, isn't it...",
-      "choice_data_list": [
-        "No, lower-body strength training is next on the menu."
-      ]
+      "text": "Ah, that's right, isn't it..."
     },
     {
       "name": "Dantsu Flame",
@@ -72,11 +66,7 @@
     },
     {
       "name": "Dantsu Flame",
-      "text": "...Um... Nothing in particular from my \nend. Thank you very much!",
-      "choice_data_list": [
-        "Got any opinions?",
-        "Do you have any thoughts?"
-      ]
+      "text": "...Um... Nothing in particular from my \nend. Thank you very much!"
     },
     {
       "name": "",
@@ -102,10 +92,7 @@
     },
     {
       "name": "",
-      "text": "It was only a slight concern, but... in my \nconversations with Dants Flame, I somehow \nfelt a lack of personal will from her.",
-      "choice_data_list": [
-        "(Besides—)"
-      ]
+      "text": "It was only a slight concern, but... in my \nconversations with Dants Flame, I somehow \nfelt a lack of personal will from her."
     },
     {
       "name": "Fellow Trainer",
@@ -122,11 +109,7 @@
     },
     {
       "name": "",
-      "text": "—A few days later.",
-      "choice_data_list": [
-        "Hmm... Yeah, you've got a point.",
-        "Hmm... Yeah, I suppose so."
-      ]
+      "text": "—A few days later."
     },
     {
       "name": "Dantsu Flame",
@@ -360,24 +343,20 @@
       "name": "Dantsu Flame",
       "text": "Trainer, let's go grab a bite to eat. Is \nthere anything specific you want to eat?",
       "choice_data_list": [
-        "(Is it really something I should say?)",
-        "(Is it really something I should say?)"
-      ]
-    },
-    {
-      "name": "Dantsu Flame",
-      "text": "Ah, I want to eat ramen too!",
-      "choice_data_list": [
         "...Ramen, I guess. How about you?",
         "...Ramen, I suppose. And you?"
       ]
     },
     {
       "name": "Dantsu Flame",
-      "text": "...? Yes! It's... really true, you know?",
+      "text": "Ah, I want to eat ramen too!",
       "choice_data_list": [
         "...Really?"
       ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...? Yes! It's... really true, you know?"
     },
     {
       "name": "",
@@ -399,11 +378,7 @@
     },
     {
       "name": "",
-      "text": "Before I could point out the gentle \ndemeanor ingrained in her as a flaw, I \nneeded just a little more certainty.",
-      "choice_data_list": [
-        "No, I'm glad if you wanted to eat too.",
-        "No, if you want some too, that's great."
-      ]
+      "text": "Before I could point out the gentle \ndemeanor ingrained in her as a flaw, I \nneeded just a little more certainty."
     }
   ]
 }

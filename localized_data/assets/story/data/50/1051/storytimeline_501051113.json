@@ -15,25 +15,25 @@
     },
     {
       "name": "Monologue",
-      "text": "I need to know how to properly care for\nher so\nshe can keep competing. But as a\nnew trainer, I\nhave neither the\nknowledge nor experience. So to\n\nremedy that..."
-    },
-    {
-      "name": "Senior Trainer",
-      "text": "There you are! I'm ready to go. You\nwanted to\ntalk about maintaining a\nracer's physical\ncondition, right? I've got\nall the info you need\nhere!",
+      "text": "I need to know how to properly care for\nher so\nshe can keep competing. But as a\nnew trainer, I\nhave neither the\nknowledge nor experience. So to\n\nremedy that...",
       "choice_data_list": [
         "Senpai! I'll be in your care today!"
       ]
     },
     {
       "name": "Senior Trainer",
-      "text": "I've also invited some alumni racers to\njoin us. I'm\nsure hearing about their\ntraining regimens will be\na good\nreference for you."
+      "text": "There you are! I'm ready to go. You\nwanted to\ntalk about maintaining a\nracer's physical\ncondition, right? I've got\nall the info you need\nhere!"
     },
     {
-      "name": "Nishino Flower",
-      "text": "Huh? Wait, isn't that...",
+      "name": "Senior Trainer",
+      "text": "I've also invited some alumni racers to\njoin us. I'm\nsure hearing about their\ntraining regimens will be\na good\nreference for you.",
       "choice_data_list": [
         "Thank you very much...!"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Huh? Wait, isn't that..."
     },
     {
       "name": "Agnes Tachyon",
@@ -73,21 +73,21 @@
     },
     {
       "name": "Monologue",
-      "text": "To prepare for the G1 race, I've\nincreased the\nintensity of Nishino\nFlower's training. Now, even\nthe regular\nroutine completely exhausts her."
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Oh, thank you...",
+      "text": "To prepare for the G1 race, I've\nincreased the\nintensity of Nishino\nFlower's training. Now, even\nthe regular\nroutine completely exhausts her.",
       "choice_data_list": [
         "Flower, let's ice that down!"
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "U-Um, thanks...",
+      "text": "Oh, thank you...",
       "choice_data_list": [
         "I made a drink packed with vitamins!"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "U-Um, thanks..."
     },
     {
       "name": "Monologue",
@@ -103,11 +103,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "What I mean to say is, books can only\nteach you\nso much. You should be\nfocusing more on\npractical trial and error\nrather than pure theory."
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Agnes Tachyon. Just a humble\nresearcher.\nApologies for the abrupt\nintrusion, but I happen\nto specialize in\nresearch on the Umamusume\nbody.",
+      "text": "What I mean to say is, books can only\nteach you\nso much. You should be\nfocusing more on\npractical trial and error\nrather than pure theory.",
       "choice_data_list": [
         "You're...",
         "You're..."
@@ -115,10 +111,14 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hm. I knew it.",
+      "text": "Agnes Tachyon. Just a humble\nresearcher.\nApologies for the abrupt\nintrusion, but I happen\nto specialize in\nresearch on the Umamusume\nbody.",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm. I knew it."
     },
     {
       "name": "Agnes Tachyon",
@@ -126,25 +126,25 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "As an upperclassman, I'd love to do\nanything I\ncan to assist my junior. My\nintentions are heartfelt\nand good, I\nassure you!"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Don't you worry. I'll tell you all I know to\nhelp\nease the burden on Flower.",
+      "text": "As an upperclassman, I'd love to do\nanything I\ncan to assist my junior. My\nintentions are heartfelt\nand good, I\nassure you!",
       "choice_data_list": [
         "I'd love to hear all about it!"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "I do have one condition, but it's a minor\nlittle\nthing. No big deal. You simply have\nto imbibe a\ncertain drink, then do\nsome... <i>light</i> exercise for\nme."
+      "text": "Don't you worry. I'll tell you all I know to\nhelp\nease the burden on Flower."
     },
     {
-      "name": "Nishino Flower",
-      "text": "Trainer's really late...",
+      "name": "Agnes Tachyon",
+      "text": "I do have one condition, but it's a minor\nlittle\nthing. No big deal. You simply have\nto imbibe a\ncertain drink, then do\nsome... <i>light</i> exercise for\nme.",
       "choice_data_list": [
         "Got it!"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Trainer's really late..."
     },
     {
       "name": "Nishino Flower",
@@ -168,7 +168,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Sorry to keep you waiting, Flower. Your\ntrainer\noverdid things a bit."
+      "text": "Sorry to keep you waiting, Flower. Your\ntrainer\noverdid things a bit.",
+      "choice_data_list": [
+        "Haa... haa..."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -179,10 +182,7 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "What's wrong, Trainer?! And what are\nyou doing\nhere, Tachyon?",
-      "choice_data_list": [
-        "Haa... haa..."
-      ]
+      "text": "What's wrong, Trainer?! And what are\nyou doing\nhere, Tachyon?"
     },
     {
       "name": "Agnes Tachyon",
@@ -214,27 +214,27 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "...I'm sorry."
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "Because it's my fault you have to go\nthrough so\nmuch...",
+      "text": "...I'm sorry.",
       "choice_data_list": [
         "Why are you apologizing?",
         "Why are you apologizing?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "She seems to think that because of her\nsmaller\nsize, my job is harder. Sure, it\nmakes training her\nmore of a unique\ncase, but in the end..."
+      "name": "Nishino Flower",
+      "text": "Because it's my fault you have to go\nthrough so\nmuch..."
     },
     {
-      "name": "Nishino Flower",
-      "text": "...",
+      "name": "Monologue",
+      "text": "She seems to think that because of her\nsmaller\nsize, my job is harder. Sure, it\nmakes training her\nmore of a unique\ncase, but in the end...",
       "choice_data_list": [
         "Being able to work hard for your sake makes me happy.",
         "I'm happy to work hard for your sake."
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "..."
     },
     {
       "name": "Nishino Flower",
@@ -254,32 +254,32 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "Haaaaah!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Nishino Flower's sprint down the final\nstretch is\nastounding to behold. She's\nimproved a lot since\nour training session\nyesterday!",
+      "text": "Haaaaah!",
       "choice_data_list": [
         "(...! So fast!)"
       ]
     },
     {
-      "name": "Nishino Flower",
-      "text": "<i>Pant... pant!</i>"
+      "name": "Monologue",
+      "text": "Nishino Flower's sprint down the final\nstretch is\nastounding to behold. She's\nimproved a lot since\nour training session\nyesterday!"
     },
     {
       "name": "Nishino Flower",
-      "text": "Phew. Thank you...",
+      "text": "<i>Pant... pant!</i>",
       "choice_data_list": [
         "Flower, here's your drink!"
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "No. But...",
+      "text": "Phew. Thank you...",
       "choice_data_list": [
         "Did you do some secret training?"
       ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No. But..."
     },
     {
       "name": "Nishino Flower",
@@ -295,26 +295,26 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "So thank you, for working so hard for my\nsake. I\nappreciate everything you're\ndoing!"
-    },
-    {
-      "name": "Nishino Flower",
-      "text": "But you're not the only one who wants\nto work\nhard. I do too, so, um...",
+      "text": "So thank you, for working so hard for my\nsake. I\nappreciate everything you're\ndoing!",
       "choice_data_list": [
         "Flower..."
       ]
     },
     {
       "name": "Nishino Flower",
-      "text": "Could you tell me what you learned\ntoday?"
+      "text": "But you're not the only one who wants\nto work\nhard. I do too, so, um..."
     },
     {
-      "name": "Monologue",
-      "text": "I'm beyond nervous for our first G1 race,\nbut so\nlong as I'm with Nishino Flower, I\nknow we can get\nthrough this together!",
+      "name": "Nishino Flower",
+      "text": "Could you tell me what you learned\ntoday?",
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm beyond nervous for our first G1 race,\nbut so\nlong as I'm with Nishino Flower, I\nknow we can get\nthrough this together!"
     }
   ]
 }

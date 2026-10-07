@@ -103,15 +103,15 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Urara, I saw your poster in front of the\nstation!\nYou were absolutely adorable!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Heehee, you're making me blush!",
+      "text": "Urara, I saw your poster in front of the\nstation!\nYou were absolutely adorable!",
       "choice_data_list": [
         "You're quite popular, huh.",
         "You're quite popular, aren't you."
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Heehee, you're making me blush!"
     },
     {
       "name": "Umamusume B",
@@ -131,7 +131,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I also... got to use their hot spring."
+      "text": "I also... got to use their hot spring.",
+      "choice_data_list": [
+        "I should've hit the hot springs too.",
+        "I should've soaked in the hot spring too.",
+        "Actually, maybe you're cut out to be a model?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -144,12 +149,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It's a little late to be saying that...",
-      "choice_data_list": [
-        "I should've hit the hot springs too.",
-        "I should've soaked in the hot spring too.",
-        "Actually, maybe you're cut out to be a model?"
-      ]
+      "text": "It's a little late to be saying that..."
     },
     {
       "name": "Haru Urara",
@@ -161,14 +161,14 @@
     },
     {
       "name": "Haru Urara",
-      "text": "If?! Awww, I wanted you to teach me\nabout the\nconstellations again."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Yeah! We could see the stars from the\nopen-air\nbath, so Ayabe taught me loads\nabout\nconstellations! ♪ She had so much\nto say about\nthem!",
+      "text": "If?! Awww, I wanted you to teach me\nabout the\nconstellations again.",
       "choice_data_list": [
         "A constellation?"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Yeah! We could see the stars from the\nopen-air\nbath, so Ayabe taught me loads\nabout\nconstellations! ♪ She had so much\nto say about\nthem!"
     },
     {
       "name": "Admire Vega",

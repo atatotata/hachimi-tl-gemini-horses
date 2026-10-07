@@ -15,11 +15,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Dressed in her signature racewear,\nSatono\nDiamond moves around and\nstrikes different\nposes while checking\nhow she looks on the\nmonitor."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "Yes, I need to be confident that what I'm\ntrying\nto convey comes across clearly.",
+      "text": "Dressed in her signature racewear,\nSatono\nDiamond moves around and\nstrikes different\nposes while checking\nhow she looks on the\nmonitor.",
       "choice_data_list": [
         "You're checking carefully.",
         "You're checking carefully."
@@ -27,10 +23,14 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "When designing this racewear's motif, I\n\nincorporated the feelings that I hold\nmost dear\neach and every day.",
+      "text": "Yes, I need to be confident that what I'm\ntrying\nto convey comes across clearly.",
       "choice_data_list": [
         "Something you want to show me?"
       ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "When designing this racewear's motif, I\n\nincorporated the feelings that I hold\nmost dear\neach and every day."
     },
     {
       "name": "Satono Diamond",
@@ -38,7 +38,13 @@
     },
     {
       "name": "Monologue",
-      "text": "Come to think of it, various aspects of\nher\nsignature racewear are rather\nstriking."
+      "text": "Come to think of it, various aspects of\nher\nsignature racewear are rather\nstriking.",
+      "choice_data_list": [
+        "Those diamond ornaments are quite striking.",
+        "Those diamond ornaments are really striking, aren't they?",
+        "Those ruffles really leave an impression.",
+        "Those ruffles really leave an impression."
+      ]
     },
     {
       "name": "Monologue",
@@ -52,13 +58,7 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Yes, I agree!",
-      "choice_data_list": [
-        "Those diamond ornaments are quite striking.",
-        "Those diamond ornaments are really striking, aren't they?",
-        "Those ruffles really leave an impression.",
-        "Those ruffles really leave an impression."
-      ]
+      "text": "Yes, I agree!"
     },
     {
       "name": "Satono Diamond",
@@ -122,11 +122,7 @@
     },
     {
       "name": "Monologue",
-      "text": "We talk for a while, but there's still some\ntime\nbefore the photo shoot."
-    },
-    {
-      "name": "Satono Diamond",
-      "text": "That's a splendid idea. Let's have some\ntea!",
+      "text": "We talk for a while, but there's still some\ntime\nbefore the photo shoot.",
       "choice_data_list": [
         "Shall we grab a drink while we wait?",
         "Wanna grab a drink while we wait?"
@@ -134,14 +130,18 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Um... Is there somewhere we can buy tea\naround\nhere?"
+      "text": "That's a splendid idea. Let's have some\ntea!"
     },
     {
       "name": "Satono Diamond",
-      "text": "The vending machine! I thought it\nlooked a little\ndifferent to the usual\nones, so I wanted to check\nit out!",
+      "text": "Um... Is there somewhere we can buy tea\naround\nhere?",
       "choice_data_list": [
         "I think there was a vending machine in the hallwayâ"
       ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "The vending machine! I thought it\nlooked a little\ndifferent to the usual\nones, so I wanted to check\nit out!"
     },
     {
       "name": "Satono Diamond",
@@ -173,14 +173,14 @@
     },
     {
       "name": "Satono Diamond",
-      "text": "Whoa! Ice?! Not tea? Should I stop it?"
-    },
-    {
-      "name": "Monologue",
-      "text": "While she continues to build on her\nstrengths,\nthere are still areas that she\nneeds to work on. I\ndecide to keep a\ncloser eye on her in the future.",
+      "text": "Whoa! Ice?! Not tea? Should I stop it?",
       "choice_data_list": [
         "I'll be right over, wait right there!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While she continues to build on her\nstrengths,\nthere are still areas that she\nneeds to work on. I\ndecide to keep a\ncloser eye on her in the future."
     }
   ]
 }

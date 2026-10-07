@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Mejiro Dober",
-      "text": "Trainer? Why are you working on a\nholiday?"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Uh-huh... So, is there anything I can help\nwith?",
+      "text": "Trainer? Why are you working on a\nholiday?",
       "choice_data_list": [
         "There's a lot going on at the end of the year, after all.",
         "There's a lot going on at the end of the year, you know."
@@ -15,10 +11,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I don't really have any plans, so... I'm\nfree.",
+      "text": "Uh-huh... So, is there anything I can help\nwith?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I don't really have any plans, so... I'm\nfree."
     },
     {
       "name": "Mejiro Dober",
@@ -54,15 +54,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Well... It's a lot."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...You really haven't changed a bit, have\nyou?",
+      "text": "Well... It's a lot.",
       "choice_data_list": [
         "It's way more fun than that, though.",
         "It's way more fun than that, though."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...You really haven't changed a bit, have\nyou?"
     },
     {
       "name": "Mejiro Dober",
@@ -82,21 +82,21 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Whew... Here, I'll take care of those\ndocuments\nnex—"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Huh? But there's still paperwork left...",
+      "text": "Whew... Here, I'll take care of those\ndocuments\nnex—",
       "choice_data_list": [
         "That's all for today!"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Yeah, but...",
+      "text": "Huh? But there's still paperwork left...",
       "choice_data_list": [
         "It's Christmas, after all!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah, but..."
     },
     {
       "name": "Mejiro Dober",
@@ -108,7 +108,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Not because I like helping you or\nanything. I just\nhate leaving things half\nfinished."
+      "text": "Not because I like helping you or\nanything. I just\nhate leaving things half\nfinished.",
+      "choice_data_list": [
+        "I'll treat you to a meal to say thanks!"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -119,10 +122,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "You want to have dinner? With me?\nToday?",
-      "choice_data_list": [
-        "I'll treat you to a meal to say thanks!"
-      ]
+      "text": "You want to have dinner? With me?\nToday?"
     },
     {
       "name": "Mejiro Dober",
@@ -154,7 +154,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Figures everywhere would be full."
+      "text": "Figures everywhere would be full.",
+      "choice_data_list": [
+        "Sorry..."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -165,10 +168,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "You don't have to apologize. We found\na diner\nwith an open table, at least.",
-      "choice_data_list": [
-        "Sorry..."
-      ]
+      "text": "You don't have to apologize. We found\na diner\nwith an open table, at least."
     },
     {
       "name": "Mejiro Dober",
@@ -176,14 +176,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Then other people started noticing me..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Well, it hasn't been that bad.",
+      "text": "Then other people started noticing me...",
       "choice_data_list": [
         "I thought you couldn't settle down..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Well, it hasn't been that bad."
     },
     {
       "name": "Mejiro Dober",
@@ -191,14 +191,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "So don't worry about me."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "It's been a while since I've been to a\ndiner, and I\nhad fun. I didn't know they\nhad such a big menu.",
+      "text": "So don't worry about me.",
       "choice_data_list": [
         "Dober..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "It's been a while since I've been to a\ndiner, and I\nhad fun. I didn't know they\nhad such a big menu."
     },
     {
       "name": "Mejiro Dober",
@@ -246,14 +246,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I'm surprised you even knew about a\nplace like\nthat."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Yeah, it felt all... grown-up, you know?",
+      "text": "I'm surprised you even knew about a\nplace like\nthat.",
       "choice_data_list": [
         "Really?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah, it felt all... grown-up, you know?"
     },
     {
       "name": "Mejiro Dober",
@@ -261,14 +261,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Can we talk a little more? Let's go\nsomewhere\nquieter.",
+      "text": "...",
       "choice_data_list": [
         "Dober?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Can we talk a little more? Let's go\nsomewhere\nquieter."
     },
     {
       "name": "Mejiro Dober",
@@ -296,14 +296,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Being able to lead someone like that\nshows how\nmature you are, and I admire\nthat."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "I'm not. I'm just speaking the truth.",
+      "text": "...Being able to lead someone like that\nshows how\nmature you are, and I admire\nthat.",
       "choice_data_list": [
         "When you praise me that much, I..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I'm not. I'm just speaking the truth."
     },
     {
       "name": "Mejiro Dober",
@@ -343,15 +343,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hey... You're shivering. Are you cold?"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Stupid. That wasn't even a present.",
+      "text": "Hey... You're shivering. Are you cold?",
       "choice_data_list": [
         "This is the best Christmas present ever...",
         "It's the best Christmas present ever..."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Stupid. That wasn't even a present."
     },
     {
       "name": "Mejiro Dober",
@@ -387,7 +387,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "And then I just happened to think about\nyou, so..."
+      "text": "And then I just happened to think about\nyou, so...",
+      "choice_data_list": [
+        "Thanks, I'll treasure it!"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -398,10 +401,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Yeah. I hope you do.",
-      "choice_data_list": [
-        "Thanks, I'll treasure it!"
-      ]
+      "text": "...Yeah. I hope you do."
     },
     {
       "name": "Mejiro Dober",

@@ -15,14 +15,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "No.",
+      "text": "...",
       "choice_data_list": [
         "Practicing dance moves together?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No."
     },
     {
       "name": "Marvelous Sunday",
@@ -50,7 +50,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "No way! If that's what it takes to improve\nmy\ndancing, then spare me the torture."
+      "text": "No way! If that's what it takes to improve\nmy\ndancing, then spare me the torture.",
+      "choice_data_list": [
+        "Then I'll say it for you.",
+        "Then I'll say it in your place.",
+        "It's worth a try."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -63,12 +68,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh?",
-      "choice_data_list": [
-        "Then I'll say it for you.",
-        "Then I'll say it in your place.",
-        "It's worth a try."
-      ]
+      "text": "Huh?"
     },
     {
       "name": "Marvelous Sunday",
@@ -80,25 +80,25 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "Nice steps! Marvelous! ☆"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...",
+      "text": "Nice steps! Marvelous! ☆",
       "choice_data_list": [
         "Ayabe's steps are marvelous too☆"
       ]
     },
     {
-      "name": "Marvelous Sunday",
-      "text": "Next is a tap. Marvelous! ☆★"
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
-      "name": "Admire Vega",
-      "text": "Oh, come on... Give me a break!",
+      "name": "Marvelous Sunday",
+      "text": "Next is a tap. Marvelous! ☆★",
       "choice_data_list": [
         "Maaarvelous☆★"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oh, come on... Give me a break!"
     },
     {
       "name": "Monologue",

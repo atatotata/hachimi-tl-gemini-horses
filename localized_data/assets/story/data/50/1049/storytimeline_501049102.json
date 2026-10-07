@@ -15,21 +15,21 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Yeah, Trainer, I don't see your suitcase\nanywhere."
-    },
-    {
-      "name": "El Condor Pasa",
-      "text": "Come on, it's almost time to check in at\nthe hotel!\nWhat are you gonna do,\nTrainer?",
+      "text": "Yeah, Trainer, I don't see your suitcase\nanywhere.",
       "choice_data_list": [
         "Wait!?"
       ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Oh well, guess we gotta stop!",
+      "text": "Come on, it's almost time to check in at\nthe hotel!\nWhat are you gonna do,\nTrainer?",
       "choice_data_list": [
         "Uhhhhh...!"
       ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Oh well, guess we gotta stop!"
     },
     {
       "name": "El Condor Pasa",
@@ -41,27 +41,27 @@
     },
     {
       "name": "Monologue",
-      "text": "We're using the academy's VR Umalator\nto\nsimulate traveling abroad."
-    },
-    {
-      "name": "El Condor Pasa",
-      "text": "That's exactly why you're here! You\nneed to get\nused to being abroad as\nquickly as possible!",
+      "text": "We're using the academy's VR Umalator\nto\nsimulate traveling abroad.",
       "choice_data_list": [
         "Knowing about it in theory and experiencing it are completely different.",
         "Knowing about it in theory and experiencing it are completely different, aren't they?"
       ]
     },
     {
-      "name": "Grass Wonder",
-      "text": "Okay, I'm going to enter the next set of\ndata into\nthe machine. Can you three\nstep into the\nUmalator once more,\nplease?"
+      "name": "El Condor Pasa",
+      "text": "That's exactly why you're here! You\nneed to get\nused to being abroad as\nquickly as possible!"
     },
     {
       "name": "Grass Wonder",
-      "text": "It's no trouble at all. All right, let's move\nonto our\nnext scenario.",
+      "text": "Okay, I'm going to enter the next set of\ndata into\nthe machine. Can you three\nstep into the\nUmalator once more,\nplease?",
       "choice_data_list": [
         "Thank you for helping out too.",
         "Thank you for helping out, too."
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "It's no trouble at all. All right, let's move\nonto our\nnext scenario."
     },
     {
       "name": "El Condor Pasa",
@@ -77,22 +77,18 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hmm... so this is French turf, huh? It\nfeels\ncompletely different."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Yeah. It's kinda similar to the turf I used\nto run\nfreestyle races on back in the day.",
+      "text": "Hmm... so this is French turf, huh? It\nfeels\ncompletely different.",
       "choice_data_list": [
         "Do you think you can handle it?"
       ]
     },
     {
-      "name": "El Condor Pasa",
-      "text": "France does a great job making use of\nthe natural\nlandscape in its racecourses."
+      "name": "Nakayama Festa",
+      "text": "Yeah. It's kinda similar to the turf I used\nto run\nfreestyle races on back in the day."
     },
     {
-      "name": "Monologue",
-      "text": "I notice my feet sink into the ground as I\nwalk. It\nfeels like the earth is gently\nclinging to my feet.",
+      "name": "El Condor Pasa",
+      "text": "France does a great job making use of\nthe natural\nlandscape in its racecourses.",
       "choice_data_list": [
         "Even the turf really is different...",
         "Even the turf really is different, isn't it..."
@@ -100,21 +96,25 @@
     },
     {
       "name": "Monologue",
-      "text": "I realize how naive I was to believe that\ntraining\nat Tracen Academy with its\nwell-maintained\nfacilities alone would be\nenough to prepare her.",
+      "text": "I notice my feet sink into the ground as I\nwalk. It\nfeels like the earth is gently\nclinging to my feet.",
       "choice_data_list": [
         "(...We can't prepare for this on the academy's turf.)"
       ]
     },
     {
       "name": "Monologue",
-      "text": "If you want to compete overseas, you'll\nhave to\nunderstand the local terrain and\nvigorously adapt\nto its environment."
+      "text": "I realize how naive I was to believe that\ntraining\nat Tracen Academy with its\nwell-maintained\nfacilities alone would be\nenough to prepare her."
     },
     {
       "name": "Monologue",
-      "text": "The experience El Condor Pasa shared\nwith me is\nsomething I could have never\ngained on my own\nas a newcomer.",
+      "text": "If you want to compete overseas, you'll\nhave to\nunderstand the local terrain and\nvigorously adapt\nto its environment.",
       "choice_data_list": [
         "(I need to think of a different training regimen...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The experience El Condor Pasa shared\nwith me is\nsomething I could have never\ngained on my own\nas a newcomer."
     },
     {
       "name": "Monologue",
@@ -122,16 +122,16 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Vamos! What kind of training are we\nstarting\nwith?"
-    },
-    {
-      "name": "El Condor Pasa",
-      "text": "Oooh! I like your perspective! Food\nshould never\nbe neglected!",
+      "text": "Vamos! What kind of training are we\nstarting\nwith?",
       "choice_data_list": [
         "Could you tell me about the local food spots?",
         "Can we do tandem training here?",
         "I'd like to take a light stroll around the area."
       ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Oooh! I like your perspective! Food\nshould never\nbe neglected!"
     },
     {
       "name": "El Condor Pasa",
@@ -219,14 +219,14 @@
     },
     {
       "name": "Monologue",
-      "text": "People can act out of character when\nthey're in\nunfamiliar environments.\nPerhaps that even\napplies to someone as\ncool-headed as her."
-    },
-    {
-      "name": "Monologue",
-      "text": "And so, we continue taking a look\naround the\nracecourse.",
+      "text": "People can act out of character when\nthey're in\nunfamiliar environments.\nPerhaps that even\napplies to someone as\ncool-headed as her.",
       "choice_data_list": [
         "...I'll keep that in mind."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, we continue taking a look\naround the\nracecourse."
     },
     {
       "name": "Monologue",
@@ -234,14 +234,14 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Welcome back. Was it a good\nexperience?"
-    },
-    {
-      "name": "El Condor Pasa",
-      "text": "Yup! And now I'm pooped! Grass, let's\ngo grab\nsome amazake!",
+      "text": "Welcome back. Was it a good\nexperience?",
       "choice_data_list": [
         "Thank you for your hard work."
       ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yup! And now I'm pooped! Grass, let's\ngo grab\nsome amazake!"
     },
     {
       "name": "Nakayama Festa",
@@ -261,15 +261,15 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, El."
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Indeed. She's a very honest and\nstraightforward\nperson. That's where her\ninner strength comes\nfrom.",
+      "text": "Oh, El.",
       "choice_data_list": [
         "She really is full of energy.",
         "She's so full of energy, isn't she?"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Indeed. She's a very honest and\nstraightforward\nperson. That's where her\ninner strength comes\nfrom."
     },
     {
       "name": "Grass Wonder",

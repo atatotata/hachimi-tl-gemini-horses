@@ -7,14 +7,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "It's me, Curren! ♪ And today, I'm on a\nmission to\ngive Bright the true big sis\nexperience!"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "Teehee. I've been blessed with a\nwonderful big\nsister by the name of\nRyan, yes?",
+      "text": "It's me, Curren! ♪ And today, I'm on a\nmission to\ngive Bright the true big sis\nexperience!",
       "choice_data_list": [
         "'Plan: Call Me Big Sister for Today Only!'!?"
       ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Teehee. I've been blessed with a\nwonderful big\nsister by the name of\nRyan, yes?"
     },
     {
       "name": "Mejiro Bright",
@@ -22,14 +22,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "That's where I come in! If anyone likes\nbeing\nspoiled, it's me, Curren! ♪"
-    },
-    {
-      "name": "Monologue",
-      "text": "I doubt she'd interfere with training...\nMejiro\nBright seems completely on\nboard with the idea,\ntoo, so I decide to\nkeep an eye on them from a\ndistance...",
+      "text": "That's where I come in! If anyone likes\nbeing\nspoiled, it's me, Curren! ♪",
       "choice_data_list": [
         "I-I see?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I doubt she'd interfere with training...\nMejiro\nBright seems completely on\nboard with the idea,\ntoo, so I decide to\nkeep an eye on them from a\ndistance..."
     },
     {
       "name": "Mejiro Bright",
@@ -37,15 +37,15 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Yep! I'm munching like there's no\ntomorrow! ♪\nThanks for the tip, Bright!"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "When you find yourself with crumbs on\nyour lips, I\nshall wipe them off for you,\nlike so.",
+      "text": "Yep! I'm munching like there's no\ntomorrow! ♪\nThanks for the tip, Bright!",
       "choice_data_list": [
         "(Looks like this'll go well.)",
         "(Looks like it'll go well.)"
       ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "When you find yourself with crumbs on\nyour lips, I\nshall wipe them off for you,\nlike so."
     },
     {
       "name": "Monologue",
@@ -57,14 +57,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Nope! Actually... Hehe! You're the one\nwho's all\nwet, Big Sis! Here, I'll wipe it\noff for you. ♪"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "Phew... Always be sure to fix your hair\nafter\ntraining!",
+      "text": "Nope! Actually... Hehe! You're the one\nwho's all\nwet, Big Sis! Here, I'll wipe it\noff for you. ♪",
       "choice_data_list": [
         "I'll bring a towel too...!"
       ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Phew... Always be sure to fix your hair\nafter\ntraining!"
     },
     {
       "name": "Mejiro Bright",
@@ -112,14 +112,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "I could use a nap, I think? After all that\ntraining, I\nwanna take a nap with you,\nBig Sis! ♪"
-    },
-    {
-      "name": "Mejiro Bright",
-      "text": "In that case, I shall sing you a lullaby to\nlull you\ninto a deep sleep. ♪",
+      "text": "I could use a nap, I think? After all that\ntraining, I\nwanna take a nap with you,\nBig Sis! ♪",
       "choice_data_list": [
         "Rest is important!"
       ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "In that case, I shall sing you a lullaby to\nlull you\ninto a deep sleep. ♪"
     },
     {
       "name": "Mejiro Bright",
@@ -127,14 +127,14 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Go... Go to, sleeeee... <i>Zzz...</i>"
-    },
-    {
-      "name": "Monologue",
-      "text": "Although Mejiro Bright keeps trying to\nassume\nthe role of big sister, she can't\nhelp falling short...",
+      "text": "Go... Go to, sleeeee... <i>Zzz...</i>",
       "choice_data_list": [
         "Bright, wake up...!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Although Mejiro Bright keeps trying to\nassume\nthe role of big sister, she can't\nhelp falling short..."
     },
     {
       "name": "Mejiro Bright",
@@ -170,7 +170,13 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro Bright remains determined. On\nthe one\nhand, her persistence is\nimpressive, but on the\nother, I'm a little\nconcerned..."
+      "text": "Mejiro Bright remains determined. On\nthe one\nhand, her persistence is\nimpressive, but on the\nother, I'm a little\nconcerned...",
+      "choice_data_list": [
+        "Time for a rematch right now!",
+        "Time for a rematch right away!",
+        "Being looked after might just be one of your skills...",
+        "Being looked after might just be one of your talents..."
+      ]
     },
     {
       "name": "Monologue",
@@ -184,13 +190,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Yes! ♪ I shall become the most caring\nand\ndependable big sister ever!",
-      "choice_data_list": [
-        "Time for a rematch right now!",
-        "Time for a rematch right away!",
-        "Being looked after might just be one of your skills...",
-        "Being looked after might just be one of your talents..."
-      ]
+      "text": "Yes! ♪ I shall become the most caring\nand\ndependable big sister ever!"
     },
     {
       "name": "Curren Chan",

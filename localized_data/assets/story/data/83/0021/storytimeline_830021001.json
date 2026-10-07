@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "After inviting Tazuna to a day out, I'm\nwaiting for\nher reply, when..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Thank you for the invite!",
+      "text": "After inviting Tazuna to a day out, I'm\nwaiting for\nher reply, when...",
       "choice_data_list": [
         "(Oh, a reply from Tazuna-san.)",
         "(Oh, a reply from Tazuna-san.)"
@@ -15,40 +11,44 @@
     },
     {
       "name": "Tazuna Hayakawa",
+      "text": "Thank you for the invite!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
       "text": "Unfortunately, I have to decline! Lately,\nmy work\nhas been piling up, so I don't\nthink I'll be able to\nstep out of the office\ntoday..."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "But we should certainly go out some\nother time!\nI'll let you know when I'm\nfree!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Not wanting to idle around, I decide to\nsee what's\ngoing on around the\nacademy.",
+      "text": "But we should certainly go out some\nother time!\nI'll let you know when I'm\nfree!",
       "choice_data_list": [
         "Too bad..."
       ]
     },
     {
-      "name": "Director Akikawa",
-      "text": "Oho! Target sighted!"
+      "name": "Monologue",
+      "text": "Not wanting to idle around, I decide to\nsee what's\ngoing on around the\nacademy."
     },
     {
       "name": "Director Akikawa",
-      "text": "What luck! You are just the person I was\nlooking\nfor!",
+      "text": "Oho! Target sighted!",
       "choice_data_list": [
         "Huh?"
       ]
     },
     {
       "name": "Director Akikawa",
-      "text": "I say, you and Tazuna seem to be\ngetting along\nquite well as of late!"
+      "text": "What luck! You are just the person I was\nlooking\nfor!"
     },
     {
       "name": "Director Akikawa",
-      "text": "How nice! She always seems to enjoy\ntalking\nabout you!",
+      "text": "I say, you and Tazuna seem to be\ngetting along\nquite well as of late!",
       "choice_data_list": [
         "I've been doing just that."
       ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "How nice! She always seems to enjoy\ntalking\nabout you!"
     },
     {
       "name": "Director Akikawa",
@@ -64,25 +64,25 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Well, it might be better if I show you.\nCome!\nFollow me!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Without knowing where we're going, I'm\nwhisked\noff to...",
+      "text": "Well, it might be better if I show you.\nCome!\nFollow me!",
       "choice_data_list": [
         "Huh? What?!"
       ]
     },
     {
       "name": "Monologue",
-      "text": "The hallway outside the director's office."
+      "text": "Without knowing where we're going, I'm\nwhisked\noff to..."
     },
     {
-      "name": "Director Akikawa",
-      "text": "You'll understand once you go in.",
+      "name": "Monologue",
+      "text": "The hallway outside the director's office.",
       "choice_data_list": [
         "What could be here...?"
       ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "You'll understand once you go in."
     },
     {
       "name": "Director Akikawa",
@@ -98,14 +98,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "<i>Zzz... Zzz...</i>"
-    },
-    {
-      "name": "Monologue",
-      "text": "She looks exhausted. Undoubtedly, she's\nbeen\nworking herself to the bone for the\nsake of the\nacademy.",
+      "text": "<i>Zzz... Zzz...</i>",
       "choice_data_list": [
         "(Miss Tazuna...!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She looks exhausted. Undoubtedly, she's\nbeen\nworking herself to the bone for the\nsake of the\nacademy."
     },
     {
       "name": "Monologue",
@@ -113,14 +113,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She mouths the words, \"Leave her duties\nto me!\""
-    },
-    {
-      "name": "Monologue",
-      "text": "I give my own silent nod in return and\nplace a\ncoat over Tazuna as she sleeps.",
+      "text": "She mouths the words, \"Leave her duties\nto me!\"",
       "choice_data_list": [
         "(Understood.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I give my own silent nod in return and\nplace a\ncoat over Tazuna as she sleeps."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -136,14 +136,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Trainer?! Wh-what are you doing here?!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Ah, good morning...",
+      "text": "Trainer?! Wh-what are you doing here?!",
       "choice_data_list": [
         "Good morning."
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, good morning..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -151,28 +151,28 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "How long have I been asleep?"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "That long?! Ahhh, this is bad! I've still\ngot so much\nleft to do!",
+      "text": "How long have I been asleep?",
       "choice_data_list": [
         "About two hours."
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Director Akikawa said that? But...",
+      "text": "That long?! Ahhh, this is bad! I've still\ngot so much\nleft to do!",
       "choice_data_list": [
         "They said, \"Leave the rest of the work to me.\""
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "A break...",
+      "text": "Director Akikawa said that? But...",
       "choice_data_list": [
         "And that 'Tazuna needs some rest'..."
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "A break..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -184,14 +184,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I even had a pretty nice dream..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hehe, sorry...",
+      "text": "I even had a pretty nice dream...",
       "choice_data_list": [
         "A good dream?"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hehe, sorry..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -227,14 +227,14 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Your mission! Take Tazuna out for a\nnice, relaxing\nbreak!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Wh-what?!",
+      "text": "Your mission! Take Tazuna out for a\nnice, relaxing\nbreak!",
       "choice_data_list": [
         "Understood!"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Wh-what?!"
     },
     {
       "name": "Monologue",

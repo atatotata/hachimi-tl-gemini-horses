@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Yoo-hoo! Trainer!"
+      "text": "Yoo-hoo! Trainer!",
+      "choice_data_list": [
+        "Did you enjoy the run?",
+        "Did you have fun out there?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Yeah, it was great!",
-      "choice_data_list": [
-        "Did you enjoy the run?",
-        "Did you have fun out there?"
-      ]
+      "text": "Yeah, it was great!"
     },
     {
       "name": "Maruzensky",
@@ -47,15 +47,15 @@
     },
     {
       "name": "Monologue",
-      "text": "With her ability, she can definitely run\nthere. I\nreally want to see her take it all\nthe way—making\nour next goal..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That's what I was hoping you'd say!",
+      "text": "With her ability, she can definitely run\nthere. I\nreally want to see her take it all\nthe way—making\nour next goal...",
       "choice_data_list": [
         "The Asahi Hai Futurity Stakes!",
         "The Asahi Hai Futurity Stakes, then!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That's what I was hoping you'd say!"
     },
     {
       "name": "Maruzensky",
@@ -71,14 +71,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "All righty, time for some hardcore\ntraining!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "As if! I've set my sights on a G1, so I\nhave to\nbuckle down!",
+      "text": "All righty, time for some hardcore\ntraining!",
       "choice_data_list": [
         "The race just ended, so it's okay to take a break."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "As if! I've set my sights on a G1, so I\nhave to\nbuckle down!"
     },
     {
       "name": "Reporter A",

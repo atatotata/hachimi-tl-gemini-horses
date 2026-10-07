@@ -3,25 +3,25 @@
   "text_block_list": [
     {
       "name": "Ines Fujin",
-      "text": "Oh, can I drop by my workplace for a\nsecond? It's\njust around the corner."
-    },
-    {
-      "name": "Everyone",
-      "text": "Oh...",
+      "text": "Oh, can I drop by my workplace for a\nsecond? It's\njust around the corner.",
       "choice_data_list": [
         "Of course!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "We arrive to find Daitaku Helios and\nMejiro\nPalmer with Ines Fujin's managers\nfor some\nreason."
+      "name": "Everyone",
+      "text": "Oh..."
     },
     {
-      "name": "Ramen Shop Owner",
-      "text": "Huh?! N-no, not at all! It's just, well...\nYou know...\n<i>Right?</i>",
+      "name": "Monologue",
+      "text": "We arrive to find Daitaku Helios and\nMejiro\nPalmer with Ines Fujin's managers\nfor some\nreason.",
       "choice_data_list": [
         "Um, did something happen?"
       ]
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "Huh?! N-no, not at all! It's just, well...\nYou know...\n<i>Right?</i>"
     },
     {
       "name": "Mejiro Palmer",
@@ -53,15 +53,15 @@
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "The voice Fu uses when she speaks to\ncustomers\nis amazing! Some of our\ncustomers order extra\njust to hear it\nagain!"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "You'll mostly be stacking shelves and\nworking the\nregister. Nothing too hard\nas long as your\ncustomer service skills\nare decent!",
+      "text": "The voice Fu uses when she speaks to\ncustomers\nis amazing! Some of our\ncustomers order extra\njust to hear it\nagain!",
       "choice_data_list": [
         "What are convenience stores like?",
         "What's a convenience store like?"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "You'll mostly be stacking shelves and\nworking the\nregister. Nothing too hard\nas long as your\ncustomer service skills\nare decent!"
     },
     {
       "name": "Ines Fujin",
@@ -113,14 +113,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Hmm, let's start by having you address\nme as\n\"Boss Ines.\""
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Ahaha! I'm kidding, I'm kidding! But\nstill...",
+      "text": "Hmm, let's start by having you address\nme as\n\"Boss Ines.\"",
       "choice_data_list": [
         "Hey, now."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha! I'm kidding, I'm kidding! But\nstill..."
     },
     {
       "name": "Ines Fujin",
@@ -129,10 +129,6 @@
     {
       "name": "Ines Fujin",
       "text": "I want you guys to have a good\nexperience, and\nto make things easier\nfor my bosses."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "With me around, you'll be pro workers in\nno time!"
     },
     {
       "name": "Ines Fujin",
@@ -146,13 +142,17 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ahaha, you know it! None of that stuff\non my\nresume is there for show.",
+      "text": "With me around, you'll be pro workers in\nno time!",
       "choice_data_list": [
         "As expected of a hyper part-timer.",
         "As expected of a hyper part-timer.",
         "Now I'm getting interested too~",
         "Now I'm getting interested too~"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha, you know it! None of that stuff\non my\nresume is there for show."
     },
     {
       "name": "Ines Fujin",
@@ -180,22 +180,22 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "All right, you guys have got this!\nAnd I'll\nsee you around, Trainer!"
-    },
-    {
-      "name": "Everyone",
-      "text": "Stop right there!",
+      "text": "All right, you guys have got this!\nAnd I'll\nsee you around, Trainer!",
       "choice_data_list": [
         "Well then, I'll be on my way too...",
         "Well then, I'll be on my way as well..."
       ]
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "Like, sorry for the secrecy, but the truth\nis we\nreally really wanted to discuss\nsomething with\nyou, Trainer...",
+      "name": "Everyone",
+      "text": "Stop right there!",
       "choice_data_list": [
         "Huh?!"
       ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Like, sorry for the secrecy, but the truth\nis we\nreally really wanted to discuss\nsomething with\nyou, Trainer..."
     }
   ]
 }

@@ -27,14 +27,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "<i>Pant, pant.</i> Hey! What was my time?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today.",
+      "text": "<i>Pant, pant.</i> Hey! What was my time?",
       "choice_data_list": [
         "I sent it to your computer."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I also let Air Shakur know that I've\nattached a\nschedule for tomorrow based\non her training\nperformance today."
     },
     {
       "name": "Air Shakur",
@@ -42,11 +42,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I'm feeling good today. I think I can go\nanother\nfew laps."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...",
+      "text": "I'm feeling good today. I think I can go\nanother\nfew laps.",
       "choice_data_list": [
         "If your times fall below the benchmark, I'll let you know.",
         "If your times fall below the benchmark, I'll let you know."
@@ -54,11 +50,15 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Nah, it's nothing.",
+      "text": "...",
       "choice_data_list": [
         "Is something wrong?",
         "Is something wrong?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nah, it's nothing."
     },
     {
       "name": "Agnes Tachyon",

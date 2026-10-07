@@ -7,15 +7,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Not yet? Ohhh... Come on! Come on!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Fine and dandy! I'm just waitin' for my\nfolks to\nmessage me back!",
+      "text": "Not yet? Ohhh... Come on! Come on!",
       "choice_data_list": [
         "Something wrong?",
         "Is something wrong?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Fine and dandy! I'm just waitin' for my\nfolks to\nmessage me back!"
     },
     {
       "name": "Taiki Shuttle",
@@ -51,15 +51,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Whaaat?! Have I lost touch with my\nKentucky\nroots?!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "My folks said I seem Japanese!",
+      "text": "Whaaat?! Have I lost touch with my\nKentucky\nroots?!",
       "choice_data_list": [
         "Wait, what do you mean!?",
         "Wait, what do you mean!?"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "My folks said I seem Japanese!"
     },
     {
       "name": "Taiki Shuttle",
@@ -75,22 +75,22 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Noooo! That would be tragic! I love both\nJapan\nand America! I don't wanna forget\neither!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "<i>Sniffle...</i> But... apparently I'm like a\ndifferent\nperson than I used to be!",
+      "text": "Noooo! That would be tragic! I love both\nJapan\nand America! I don't wanna forget\neither!",
       "choice_data_list": [
         "Don't worry, it won't disappear."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I explain to her that every new memory\nshe has\ngets added to her collection. It\ndoesn't mean\nshe'll lose her old ones.",
+      "name": "Taiki Shuttle",
+      "text": "<i>Sniffle...</i> But... apparently I'm like a\ndifferent\nperson than I used to be!",
       "choice_data_list": [
         "I'm making more and more precious memories.",
         "I'm making more and more precious memories, you know."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I explain to her that every new memory\nshe has\ngets added to her collection. It\ndoesn't mean\nshe'll lose her old ones."
     },
     {
       "name": "Taiki Shuttle",
@@ -110,7 +110,12 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "It's just like you said! I'm not losing\nmemories! I'm\ngetting new ones! I'm so\nhappy!"
+      "text": "It's just like you said! I'm not losing\nmemories! I'm\ngetting new ones! I'm so\nhappy!",
+      "choice_data_list": [
+        "Let's make lots more memories together!",
+        "Yeah, I'm happy too!",
+        "Yeah, I'm happy too!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -123,12 +128,7 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Yeah! I'm sure my folks'll want to see all\nkinds of\nnew things that I'm up to!",
-      "choice_data_list": [
-        "Let's make lots more memories together!",
-        "Yeah, I'm happy too!",
-        "Yeah, I'm happy too!"
-      ]
+      "text": "Yeah! I'm sure my folks'll want to see all\nkinds of\nnew things that I'm up to!"
     },
     {
       "name": "Taiki Shuttle",
@@ -176,11 +176,7 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Hey, Mama! Hey, Papa! Me'n Trainer\nhere are\ngonna be together forever,\nhappy as can be! ♪"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "How so? You said you were happy,\ndidn't ya?\n...Aaand sent!",
+      "text": "Hey, Mama! Hey, Papa! Me'n Trainer\nhere are\ngonna be together forever,\nhappy as can be! ♪",
       "choice_data_list": [
         "Isn't that phrasing totally misleading?!",
         "Isn't that totally misleading?!"
@@ -188,14 +184,18 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Whoa! That was quick! I already got a\nreply! It's\nfor you! And in Japanese to\nboot!"
+      "text": "How so? You said you were happy,\ndidn't ya?\n...Aaand sent!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "It says... \"Dear Trainer. If you and Taiki\nare\nhappy, we are happy!\"",
+      "text": "Whoa! That was quick! I already got a\nreply! It's\nfor you! And in Japanese to\nboot!",
       "choice_data_list": [
         "(I-Is she going to be okay...?)"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It says... \"Dear Trainer. If you and Taiki\nare\nhappy, we are happy!\""
     },
     {
       "name": "Taiki Shuttle",

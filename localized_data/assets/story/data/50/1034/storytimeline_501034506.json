@@ -7,14 +7,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Hm... I just can't get into it."
-    },
-    {
-      "name": "Inari One",
-      "text": "Don't be silly! When it's festival time, I'm\nall\nabout goin' big—dancin', haulin' stuff,\nand stirrin'\nup the crowd!",
+      "text": "Hm... I just can't get into it.",
       "choice_data_list": [
         "Do you dislike dancing?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Don't be silly! When it's festival time, I'm\nall\nabout goin' big—dancin', haulin' stuff,\nand stirrin'\nup the crowd!"
     },
     {
       "name": "Inari One",
@@ -26,11 +26,7 @@
     },
     {
       "name": "Inari One",
-      "text": "But no point grumblin'. Gotta put in the\neffort\nbehind the scenes, too!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Huh? Do ya even got what it takes?",
+      "text": "But no point grumblin'. Gotta put in the\neffort\nbehind the scenes, too!",
       "choice_data_list": [
         "In that case, want me to try livening things up?",
         "In that case, want me to hype things up?"
@@ -38,17 +34,21 @@
     },
     {
       "name": "Inari One",
-      "text": "Oh! That's me, the one and only great\nInari! ♪",
+      "text": "Huh? Do ya even got what it takes?",
       "choice_data_list": [
         "...A dashing gal of glorious old Edo♪"
       ]
     },
     {
       "name": "Inari One",
-      "text": "Wahoo! Wahoo! ♪",
+      "text": "Oh! That's me, the one and only great\nInari! ♪",
       "choice_data_list": [
         "Wasshoi, wasshoi♪"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Wahoo! Wahoo! ♪"
     },
     {
       "name": "Inari One",
@@ -60,7 +60,12 @@
     },
     {
       "name": "Monologue",
-      "text": "Inari One appears to be fired up and\nready to go.\nNow, it's time to kick things\nup a notch."
+      "text": "Inari One appears to be fired up and\nready to go.\nNow, it's time to kick things\nup a notch.",
+      "choice_data_list": [
+        "Let's bring in a crowd.",
+        "I'll beat the drum!",
+        "I'll play the taiko drum!"
+      ]
     },
     {
       "name": "Monologue",
@@ -73,12 +78,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Sounds good! Who're ya bringin'?",
-      "choice_data_list": [
-        "Let's bring in a crowd.",
-        "I'll beat the drum!",
-        "I'll play the taiko drum!"
-      ]
+      "text": "Sounds good! Who're ya bringin'?"
     },
     {
       "name": "Bamboo Memory",
@@ -114,14 +114,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I borrow a drum from the storage shed."
-    },
-    {
-      "name": "Inari One",
-      "text": "All right! Let's get this show on the road!",
+      "text": "I borrow a drum from the storage shed.",
       "choice_data_list": [
         "Here I go, Big Sis!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "All right! Let's get this show on the road!"
     },
     {
       "name": "Inari One",

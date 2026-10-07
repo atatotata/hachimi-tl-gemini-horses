@@ -15,15 +15,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Huh?! Trainer, he just invited us to join\nin on his\nwalk!"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "It's 'cause we've been spending so much\ntime\ntogether. ♪ Well, I'm not letting\nthis chance go\nto waste. Let's go!",
+      "text": "Huh?! Trainer, he just invited us to join\nin on his\nwalk!",
       "choice_data_list": [
         "You can tell?!",
         "You can tell?!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "It's 'cause we've been spending so much\ntime\ntogether. ♪ Well, I'm not letting\nthis chance go\nto waste. Let's go!"
     },
     {
       "name": "",
@@ -31,15 +31,15 @@
     },
     {
       "name": "",
-      "text": "I find myself caught off guard by how far\ncats\nseem to walk."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "We're patrolling Frosty's territory. That's\nreal\nimportant work for a cat, you know.",
+      "text": "I find myself caught off guard by how far\ncats\nseem to walk.",
       "choice_data_list": [
         "That's quite a long walk...",
         "That's quite a long walk, isn't it...?"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "We're patrolling Frosty's territory. That's\nreal\nimportant work for a cat, you know."
     },
     {
       "name": "Seiun Sky",
@@ -83,15 +83,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh, that's where the name comes from,\nby the\nway. It's not just 'cause he's a\nwhite cat, it's 'cause\nhe taught me the\nimportance of staying frosty. I\ncall him\nthat 'cause I'm grateful."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Well, I made up the stuff about the\nname.",
+      "text": "Oh, that's where the name comes from,\nby the\nway. It's not just 'cause he's a\nwhite cat, it's 'cause\nhe taught me the\nimportance of staying frosty. I\ncall him\nthat 'cause I'm grateful.",
       "choice_data_list": [
         "So that's how it was...",
         "So that's how it was..."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Well, I made up the stuff about the\nname."
     },
     {
       "name": "",
@@ -99,15 +99,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Uh oh, this could be bad."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "It's a turf war. Look, those cats came\nfrom over\nthat way.",
+      "text": "Uh oh, this could be bad.",
       "choice_data_list": [
         "What's wrong?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "It's a turf war. Look, those cats came\nfrom over\nthat way."
     },
     {
       "name": "",
@@ -127,15 +127,15 @@
     },
     {
       "name": "",
-      "text": "Intimidated by Frosty's threat, two of\nthe three\ncats immediately run off with\ntheir tails between\ntheir legs!"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "The thing is, Frosty used to be so tough\nthat\nother cats would run off before a\nsquabble even\nstarted.",
+      "text": "Intimidated by Frosty's threat, two of\nthe three\ncats immediately run off with\ntheir tails between\ntheir legs!",
       "choice_data_list": [
         "What a commanding presence!",
         "You've got quite the commanding presence, don't you!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "The thing is, Frosty used to be so tough\nthat\nother cats would run off before a\nsquabble even\nstarted."
     },
     {
       "name": "Seiun Sky",
@@ -155,7 +155,12 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Looks like Frosty lost..."
+      "text": "Looks like Frosty lost...",
+      "choice_data_list": [
+        "There's always someone better, huh...",
+        "There's always someone better, isn't there...",
+        "I wonder if Shiro is okay?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -168,24 +173,19 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "He's definitely gotten weaker. All cats\nage,\ndoesn't matter how tough they are.",
-      "choice_data_list": [
-        "There's always someone better, huh...",
-        "There's always someone better, isn't there...",
-        "I wonder if Shiro is okay?"
-      ]
+      "text": "He's definitely gotten weaker. All cats\nage,\ndoesn't matter how tough they are."
     },
     {
       "name": "Seiun Sky",
-      "text": "And sooner or later they get upstaged\nby some\nyoung hotshot. That's just the\nway things go."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "I wish there were a way to reward Frosty\nfor\nworking so hard for so long...",
+      "text": "And sooner or later they get upstaged\nby some\nyoung hotshot. That's just the\nway things go.",
       "choice_data_list": [
         "That's kind of sad.",
         "It makes you kind of sad, doesn't it."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "I wish there were a way to reward Frosty\nfor\nworking so hard for so long..."
     },
     {
       "name": "",
@@ -197,15 +197,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "But... I guess it's only a matter of time.\nFrosty's\ngetting to that age now, so I..."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Oh, it's nothing... Welp, it's getting dark.\nLet's\nhead back.",
+      "text": "But... I guess it's only a matter of time.\nFrosty's\ngetting to that age now, so I...",
       "choice_data_list": [
         "...What's wrong?",
         "...What's the matter?"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, it's nothing... Welp, it's getting dark.\nLet's\nhead back."
     },
     {
       "name": "",

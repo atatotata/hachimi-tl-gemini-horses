@@ -7,14 +7,14 @@
     },
     {
       "name": "Inari One",
-      "text": "So where we headin'? The sun's on its\nway down,\nya know."
-    },
-    {
-      "name": "Inari One",
-      "text": "Geez, there's a surprise? Eh, whatever\nyou say.",
+      "text": "So where we headin'? The sun's on its\nway down,\nya know.",
       "choice_data_list": [
         "That's a surprise for when we get there."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Geez, there's a surprise? Eh, whatever\nyou say."
     },
     {
       "name": "Inari One",
@@ -34,15 +34,15 @@
     },
     {
       "name": "Inari One",
-      "text": "This supposed to be your surprise?!"
-    },
-    {
-      "name": "Inari One",
-      "text": "...",
+      "text": "This supposed to be your surprise?!",
       "choice_data_list": [
         "Right now, I need you to trust me as your partner.",
         "Right now, I want you to trust me as your partner."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "..."
     },
     {
       "name": "Inari One",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Inari One",
-      "text": "What's... all this here?"
-    },
-    {
-      "name": "Inari One",
-      "text": "Th-that's obvious! I'm askin' why there's\na festival\nthis time of the year.",
+      "text": "What's... all this here?",
       "choice_data_list": [
         "It's a festival."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Th-that's obvious! I'm askin' why there's\na festival\nthis time of the year."
     },
     {
       "name": "Inari One",
@@ -101,15 +101,15 @@
     },
     {
       "name": "Inari One",
-      "text": "Aww, you guys... But why?"
-    },
-    {
-      "name": "Inari One",
-      "text": "...!",
+      "text": "Aww, you guys... But why?",
       "choice_data_list": [
         "The folks downtown put this together for you.",
         "Everyone in the downtown neighborhood threw this just for you."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...!"
     },
     {
       "name": "Chief",
@@ -121,7 +121,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Boss..."
+      "text": "Boss...",
+      "choice_data_list": [
+        "B-Boss! You promised you wouldn't say that!"
+      ]
     },
     {
       "name": "Inari One",
@@ -132,10 +135,7 @@
     },
     {
       "name": "Inari One",
-      "text": "...",
-      "choice_data_list": [
-        "B-Boss! You promised you wouldn't say that!"
-      ]
+      "text": "..."
     },
     {
       "name": "Inari One",
@@ -143,14 +143,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Everyone, stop this!"
-    },
-    {
-      "name": "Inari One",
-      "text": "I promised you all I'd reach the top and\nbecome\nUmamusume of the Year! I\npractically shouted it\nfrom the rooftops,\nbut...",
+      "text": "Everyone, stop this!",
       "choice_data_list": [
         "Inari—"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "I promised you all I'd reach the top and\nbecome\nUmamusume of the Year! I\npractically shouted it\nfrom the rooftops,\nbut..."
     },
     {
       "name": "Inari One",
@@ -302,14 +302,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Wahoo! Wahoo!"
-    },
-    {
-      "name": "Townspeople",
       "text": "Wahoo! Wahoo!",
       "choice_data_list": [
         "Wasshoi! Wasshoi!"
       ]
+    },
+    {
+      "name": "Townspeople",
+      "text": "Wahoo! Wahoo!"
     },
     {
       "name": "Inari One",
@@ -385,14 +385,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Yeah, this fight—this festival I'm plannin'\nis <i>mine!</i>\nI'm the one who's gonna stand at\nthe top!"
-    },
-    {
-      "name": "Inari One",
-      "text": "The Arima Kinen's comin' up—probably\nthe\nbiggest festival in the whole Twinkle\nSeries. And\nI'm gonna make it mine.",
+      "text": "Yeah, this fight—this festival I'm plannin'\nis <i>mine!</i>\nI'm the one who's gonna stand at\nthe top!",
       "choice_data_list": [
         "Inari...!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "The Arima Kinen's comin' up—probably\nthe\nbiggest festival in the whole Twinkle\nSeries. And\nI'm gonna make it mine."
     },
     {
       "name": "Inari One",
@@ -404,7 +404,10 @@
     },
     {
       "name": "Inari One",
-      "text": "So, Boss..."
+      "text": "So, Boss...",
+      "choice_data_list": [
+        "Starting tomorrow, let's give it our best together again."
+      ]
     },
     {
       "name": "Inari One",
@@ -417,16 +420,13 @@
       "name": "Inari One",
       "text": "...!",
       "choice_data_list": [
-        "Starting tomorrow, let's give it our best together again."
+        "You can't have a festival all by yourself, after all!",
+        "You can't have a festival all by yourself, after all!"
       ]
     },
     {
       "name": "Inari One",
-      "text": "Hahaha, you're not wrong there!",
-      "choice_data_list": [
-        "You can't have a festival all by yourself, after all!",
-        "You can't have a festival all by yourself, after all!"
-      ]
+      "text": "Hahaha, you're not wrong there!"
     },
     {
       "name": "Inari One",

@@ -16,11 +16,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "No, that can't be...",
-      "choice_data_list": [
-        "It wasn't your fault... It's entirely my responsibility.",
-        "It's not your fault... It's entirely my responsibility."
-      ]
+      "text": "No, that can't be..."
     },
     {
       "name": "Narrator",
@@ -31,10 +27,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Trainer...",
-      "choice_data_list": [
-        "I'm really... sorry."
-      ]
+      "text": "Trainer..."
     },
     {
       "name": "Buena Vista",
@@ -67,7 +60,9 @@
       "name": "Buena Vista",
       "text": "\"I want to keep moving forward, even if \nit's bit by bit. So... please!\"",
       "choice_data_list": [
-        "――――！"
+        "...Even so, you need to rest right now.",
+        "...Even so, you really should rest right now.",
+        "Got it... Let's find something we can do!"
       ]
     },
     {
@@ -81,12 +76,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "But...!",
-      "choice_data_list": [
-        "...Even so, you need to rest right now.",
-        "...Even so, you really should rest right now.",
-        "Got it... Let's find something we can do!"
-      ]
+      "text": "But...!"
     },
     {
       "name": "Narrator",
@@ -100,16 +90,12 @@
       "name": "Buena Vista",
       "text": "――――！",
       "choice_data_list": [
-        "I don't want to close the path... to our promise.",
-        "I don't want to close the path... to our promise."
+        "So... let's rest for today, Buena."
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "\"...I'm sorry. You're right. After all, we \ncame all this way aiming for that very \nscenery.\"",
-      "choice_data_list": [
-        "So... let's rest for today, Buena."
-      ]
+      "text": "\"...I'm sorry. You're right. After all, we \ncame all this way aiming for that very \nscenery.\""
     },
     {
       "name": "Buena Vista",
@@ -130,10 +116,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "\"...I'm sorry. I guess that really was \nreckless after all.\"",
-      "choice_data_list": [
-        "...For now, let's prioritize resting."
-      ]
+      "text": "\"...I'm sorry. I guess that really was \nreckless after all.\""
     },
     {
       "name": "Buena Vista",
@@ -154,10 +137,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Yeah. Even if it's step by step... let's \nkeep moving forward together again.",
-      "choice_data_list": [
-        "Let's adjust the menu and keep going."
-      ]
+      "text": "Yeah. Even if it's step by step... let's \nkeep moving forward together again."
     },
     {
       "name": "Narrator",

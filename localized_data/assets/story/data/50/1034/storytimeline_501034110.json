@@ -139,7 +139,11 @@
     },
     {
       "name": "Inari One",
-      "text": "...Hey, Boss. I was thinkin' 'bout what\nCreek said."
+      "text": "...Hey, Boss. I was thinkin' 'bout what\nCreek said.",
+      "choice_data_list": [
+        "You mean where you grew up is the source of your strength, Inari?",
+        "You mean where you grew up is the source of your strength, Inari?"
+      ]
     },
     {
       "name": "Inari One",
@@ -151,11 +155,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Yeah.",
-      "choice_data_list": [
-        "You mean where you grew up is the source of your strength, Inari?",
-        "You mean where you grew up is the source of your strength, Inari?"
-      ]
+      "text": "Yeah."
     },
     {
       "name": "Inari One",

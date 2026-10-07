@@ -15,15 +15,15 @@
     },
     {
       "name": "Gold Ship",
-      "text": "We're gonna sing while we swing, and\nthe first\none to bite their tongue loses!"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Hm?",
+      "text": "We're gonna sing while we swing, and\nthe first\none to bite their tongue loses!",
       "choice_data_list": [
         "What kind of game is that...?",
         "What kind of game is that...?"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hm?"
     },
     {
       "name": "Mysterious Girl",
@@ -67,14 +67,14 @@
     },
     {
       "name": "Mysterious Girl",
-      "text": "I'm a princess from a faraway land, and\nthey're\nassassins sent to kill me!"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "No waaaaay!",
+      "text": "I'm a princess from a faraway land, and\nthey're\nassassins sent to kill me!",
       "choice_data_list": [
         "...Whaaat?!"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No waaaaay!"
     },
     {
       "name": "Gold Ship",
@@ -94,15 +94,15 @@
     },
     {
       "name": "Mysterious Girl",
-      "text": "I, um, well..."
-    },
-    {
-      "name": "Suspicious Man A",
-      "text": "She's not here, either... Goodness, why\nmust she\ndo this every time?",
+      "text": "I, um, well...",
       "choice_data_list": [
         "(It's completely Golshi's pace...!)",
         "(Completely at Golshi's pace...!)"
       ]
+    },
+    {
+      "name": "Suspicious Man A",
+      "text": "She's not here, either... Goodness, why\nmust she\ndo this every time?"
     },
     {
       "name": "Suspicious Man B",
@@ -122,14 +122,14 @@
     },
     {
       "name": "Mysterious Girl",
-      "text": "...Well met, brave knight! As my shield,\nsee that\nno harm comes to me!"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Yes, Your Highness! I live to serve!",
+      "text": "...Well met, brave knight! As my shield,\nsee that\nno harm comes to me!",
       "choice_data_list": [
         "(She rolled with it!?)"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yes, Your Highness! I live to serve!"
     },
     {
       "name": "Gold Ship",
@@ -137,7 +137,12 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!"
+      "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!",
+      "choice_data_list": [
+        "It's better for that kid to be found.",
+        "It's better for that kid to be found.",
+        "'If you want to hide a tree, hide it in the forest'...!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -150,12 +155,7 @@
     },
     {
       "name": "Mysterious Girl",
-      "text": "What? I don't wanna be found! If they\nfind me, I'll\nhave to sit all alone and\nstud―er, I mean...",
-      "choice_data_list": [
-        "It's better for that kid to be found.",
-        "It's better for that kid to be found.",
-        "'If you want to hide a tree, hide it in the forest'...!"
-      ]
+      "text": "What? I don't wanna be found! If they\nfind me, I'll\nhave to sit all alone and\nstud―er, I mean..."
     },
     {
       "name": "Gold Ship",

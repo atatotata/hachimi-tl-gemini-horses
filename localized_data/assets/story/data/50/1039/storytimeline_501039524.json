@@ -15,15 +15,15 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Eh-heh-heh. That's all there is to it!\nWhat special\ntechnique shall I show you\nnext?"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Oh, Trainer! Right now, I'm showing off\nspecial\nmoves and transformation poses\nfrom Princess\nFighter!",
+      "text": "Eh-heh-heh. That's all there is to it!\nWhat special\ntechnique shall I show you\nnext?",
       "choice_data_list": [
         "What're you up to?",
         "What are you up to?"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, Trainer! Right now, I'm showing off\nspecial\nmoves and transformation poses\nfrom Princess\nFighter!"
     },
     {
       "name": "Kawakami Princess",
@@ -55,25 +55,30 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Hrmmm... I-I suppose if we pulled off\nsuch an\nincredible move, it <i>would</i> be\nrather..."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "<i>Glance...</i>",
+      "text": "Hrmmm... I-I suppose if we pulled off\nsuch an\nincredible move, it <i>would</i> be\nrather...",
       "choice_data_list": [
         "No, that's way too dangerous..."
       ]
     },
     {
       "name": "Kawakami Princess",
-      "text": "<i>Glance! Glance!</i>",
+      "text": "<i>Glance...</i>",
       "choice_data_list": [
         "！？"
       ]
     },
     {
+      "name": "Kawakami Princess",
+      "text": "<i>Glance! Glance!</i>"
+    },
+    {
       "name": "Monologue",
-      "text": "Kawakami looks at me eagerly, her eyes\npleading\nme to change my mind. What\nshould I do?"
+      "text": "Kawakami looks at me eagerly, her eyes\npleading\nme to change my mind. What\nshould I do?",
+      "choice_data_list": [
+        "...Let's do this!",
+        "...Shall we do this, then!",
+        "Let's hold off..."
+      ]
     },
     {
       "name": "Monologue",
@@ -86,12 +91,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Yay! That's my trainer for you!",
-      "choice_data_list": [
-        "...Let's do this!",
-        "...Shall we do this, then!",
-        "Let's hold off..."
-      ]
+      "text": "Yay! That's my trainer for you!"
     },
     {
       "name": "Kawakami Princess",
@@ -151,14 +151,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "<i>Glance! Glance!</i>"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Whyyy? Boo...",
+      "text": "<i>Glance! Glance!</i>",
       "choice_data_list": [
         "No means no!"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Whyyy? Boo..."
     },
     {
       "name": "Monologue",

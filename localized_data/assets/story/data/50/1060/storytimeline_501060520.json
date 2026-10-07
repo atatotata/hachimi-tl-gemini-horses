@@ -7,15 +7,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "<i>Sigh...</i> I really thought I'd finally get one\ntoday..."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "It's just terrible, Trainer!",
+      "text": "<i>Sigh...</i> I really thought I'd finally get one\ntoday...",
       "choice_data_list": [
         "What's the matter?",
         "What is it?"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "It's just terrible, Trainer!"
     },
     {
       "name": "Nice Nature",
@@ -43,14 +43,14 @@
     },
     {
       "name": "Pearl & Windy",
-      "text": "We are Worldwide Windy! We're the\nwhirlwind\nthat bites the world!"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Hush, you! Don't think, feel!",
+      "text": "We are Worldwide Windy! We're the\nwhirlwind\nthat bites the world!",
       "choice_data_list": [
         "With that name, the grammar is——"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Hush, you! Don't think, feel!"
     },
     {
       "name": "Seeking the Pearl",
@@ -74,7 +74,12 @@
     },
     {
       "name": "",
-      "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\ncornets... If that's\nthe case..."
+      "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\ncornets... If that's\nthe case...",
+      "choice_data_list": [
+        "First, we need to come up with a strategy.",
+        "Sounds great! Time for some intense training!",
+        "Sounds good! Special training is the only way!"
+      ]
     },
     {
       "name": "",
@@ -87,12 +92,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "That's right! What a ravishingly\nintellectual\nanswer!",
-      "choice_data_list": [
-        "First, we need to come up with a strategy.",
-        "Sounds great! Time for some intense training!",
-        "Sounds good! Special training is the only way!"
-      ]
+      "text": "That's right! What a ravishingly\nintellectual\nanswer!"
     },
     {
       "name": "Seeking the Pearl",
@@ -112,15 +112,15 @@
     },
     {
       "name": "Shinko Windy",
-      "text": "It can be real chaos when I start\nbiting—especially\nwhen Digital is\nsneaking around..."
-    },
-    {
-      "name": "",
-      "text": "That's true in races as well. It can be a\ndisaster if\nrunners lose their rhythm or\ntry to pass and get\nblocked.",
+      "text": "It can be real chaos when I start\nbiting—especially\nwhen Digital is\nsneaking around...",
       "choice_data_list": [
         "True, reading the state of the race is important.",
         "True, reading the state of the race is important."
       ]
+    },
+    {
+      "name": "",
+      "text": "That's true in races as well. It can be a\ndisaster if\nrunners lose their rhythm or\ntry to pass and get\nblocked."
     },
     {
       "name": "Seeking the Pearl",
@@ -148,14 +148,14 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Heh! ♪ Looks like we saved another lost\nsheep at\nthe edge of the world."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+      "text": "Heh! ♪ Looks like we saved another lost\nsheep at\nthe edge of the world.",
       "choice_data_list": [
         "Thanks, Worldwide Windy!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful."
     },
     {
       "name": "",
@@ -195,14 +195,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "I-I didn't say anything about bitin—"
-    },
-    {
-      "name": "Nice Nature",
-      "text": "You too?!",
+      "text": "I-I didn't say anything about bitin—",
       "choice_data_list": [
         "Take a big bite, Nature!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "You too?!"
     },
     {
       "name": "Nice Nature",
@@ -226,15 +226,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Uhhh, I didn't bite anyone."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+      "text": "Uhhh, I didn't bite anyone.",
       "choice_data_list": [
         "Good for you, Nature!",
         "Good for you, Nature!"
       ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful."
     },
     {
       "name": "",
