@@ -7,7 +7,7 @@ UmaTL (hachimi-tl-en-sd) on top of the hachimi-tl-gemini-horses base repository.
 
 Precedence hierarchy:
   1. Upstream UmaTL human translations (curated, highest priority - overwrites MT)
-  2. Local Gemini 3.7 Flash Voice-Aware MT (covers 33K+ master strings & 1,167 support stories)
+  2. Local Gemini 3.8 Flash Tiered (low effort) Voice-Aware MT (covers 33K+ master strings & 1,167 support stories)
   3. Original Japanese text
 
 Workflow:
