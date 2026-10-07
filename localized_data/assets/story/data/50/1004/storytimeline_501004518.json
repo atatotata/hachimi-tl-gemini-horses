@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Trainer! Trainer! Oh, it's terrible, just\nawful!"
+      "text": "Trainer! Trainer! Oh, it's terrible, just\nawful!",
+      "choice_data_list": [
+        "Did something happen?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -14,10 +17,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I was looking something up on my\nphone, and all\nof a sudden, this weird\nthing popped up!",
-      "choice_data_list": [
-        "Did something happen?"
-      ]
+      "text": "I was looking something up on my\nphone, and all\nof a sudden, this weird\nthing popped up!"
     },
     {
       "name": "Maruzensky",
@@ -25,14 +25,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I look at her phone, and it's merely a\npop-up ad."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Really? You're sure?!",
+      "text": "I look at her phone, and it's merely a\npop-up ad.",
       "choice_data_list": [
         "There's no problem at all, so don't worry."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Really? You're sure?!"
     },
     {
       "name": "Maruzensky",

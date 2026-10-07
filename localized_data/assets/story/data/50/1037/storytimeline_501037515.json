@@ -35,11 +35,7 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "But that's also what holds you back. I\nbet you\nfreeze up and panic when faced\nwith an\nall-or-nothin' battle, don'tcha?"
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Oh? You sure sound confident. Not that\nI'd\nbelieve you unless you've got\nsomethin' to back\nup your words with.",
+      "text": "But that's also what holds you back. I\nbet you\nfreeze up and panic when faced\nwith an\nall-or-nothin' battle, don'tcha?",
       "choice_data_list": [
         "—No, that's not right.",
         "—No, that's not true."
@@ -47,14 +43,18 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Then again, you're her trainer. You two\nare birds\nof a feather—of course you'd\nback her up. But,\nwell, I won't force you\nto do anything you don't\nwanna do."
+      "text": "Oh? You sure sound confident. Not that\nI'd\nbelieve you unless you've got\nsomethin' to back\nup your words with."
     },
     {
-      "name": "Eishin Flash",
-      "text": "Trainer?!",
+      "name": "Nakayama Festa",
+      "text": "Then again, you're her trainer. You two\nare birds\nof a feather—of course you'd\nback her up. But,\nwell, I won't force you\nto do anything you don't\nwanna do.",
       "choice_data_list": [
         "...Bring it on!"
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Trainer?!"
     },
     {
       "name": "Nakayama Festa",
@@ -82,7 +82,13 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Heh... Now yer talkin'!"
+      "text": "Heh... Now yer talkin'!",
+      "choice_data_list": [
+        "You can win!",
+        "You can win!",
+        "Please... avenge me...!",
+        "Avenge... me...!"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -96,13 +102,7 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "I will not disappoint. Your pride shall\nsurvive this\nday.",
-      "choice_data_list": [
-        "You can win!",
-        "You can win!",
-        "Please... avenge me...!",
-        "Avenge... me...!"
-      ]
+      "text": "I will not disappoint. Your pride shall\nsurvive this\nday."
     },
     {
       "name": "Monologue",
@@ -118,14 +118,14 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "But we've really been in the long haul\nfor this, and\nI'm gettin' kinda thirsty."
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "You offerin'? Well, I won't say no to\nthat.",
+      "text": "But we've really been in the long haul\nfor this, and\nI'm gettin' kinda thirsty.",
       "choice_data_list": [
         "Then should I go grab something for you?"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "You offerin'? Well, I won't say no to\nthat."
     },
     {
       "name": "Monologue",
@@ -133,14 +133,14 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Whoops."
-    },
-    {
-      "name": "Monologue",
-      "text": "Nakayama Festa's elbow slips, and I\nhappen to\nsee that she has four jacks in\nher hand!",
+      "text": "Whoops.",
       "choice_data_list": [
         "！？"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Nakayama Festa's elbow slips, and I\nhappen to\nsee that she has four jacks in\nher hand!"
     },
     {
       "name": "Nakayama Festa",
@@ -228,15 +228,15 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Raise! I—I will go all in on this hand!"
-    },
-    {
-      "name": "Nakayama Festa",
-      "text": "Hey, don't kill the moment. ...I like your\nstyle.\nLet's see what your final struggle's\nlike!",
+      "text": "Raise! I—I will go all in on this hand!",
       "choice_data_list": [
         "Are you okay!?",
         "Are you okay!?"
       ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hey, don't kill the moment. ...I like your\nstyle.\nLet's see what your final struggle's\nlike!"
     },
     {
       "name": "Monologue",

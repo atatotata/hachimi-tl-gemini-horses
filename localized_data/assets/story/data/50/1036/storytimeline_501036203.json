@@ -35,14 +35,14 @@
     },
     {
       "name": "Trainer B",
-      "text": "Nah, that's just how she always is. You\ncan't really blame\nher for being touchy\nbefore a major race, though."
-    },
-    {
-      "name": "Monologue",
-      "text": "Despite being fated to lose, she still\nwants to\nwin... She must be struggling to\nreconcile the\nreality of the situation with\nher desires.",
+      "text": "Nah, that's just how she always is. You\ncan't really blame\nher for being touchy\nbefore a major race, though.",
       "choice_data_list": [
         "(No, she's just anxious.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite being fated to lose, she still\nwants to\nwin... She must be struggling to\nreconcile the\nreality of the situation with\nher desires."
     },
     {
       "name": "Air Shakur",
@@ -50,21 +50,21 @@
     },
     {
       "name": "Air Shakur",
-      "text": "You've been starin' at me like an idiot\nfor ages,\nand it's seriously pissin' me off.\nIf you got\nsomethin' to say, say it."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Tch...",
+      "text": "You've been starin' at me like an idiot\nfor ages,\nand it's seriously pissin' me off.\nIf you got\nsomethin' to say, say it.",
       "choice_data_list": [
         "……"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "She managed to identify the\nseven-centimeter\ngap and also whittle it\ndown to three all on her\nown. Is there\nreally anything I can even say to\nher?",
+      "name": "Air Shakur",
+      "text": "Tch...",
       "choice_data_list": [
         "(...What can I even do?)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "She managed to identify the\nseven-centimeter\ngap and also whittle it\ndown to three all on her\nown. Is there\nreally anything I can even say to\nher?"
     },
     {
       "name": "Fine Motion",
@@ -88,14 +88,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't have time to second-guess things.\nIf I want\nto help her, I have to believe in\nmyself and take\naction."
-    },
-    {
-      "name": "Monologue",
-      "text": "If I take responsibility for what I tell her\nand am\nprepared to see it through, Air\nShakur should be\nwilling to hear me out.",
+      "text": "I don't have time to second-guess things.\nIf I want\nto help her, I have to believe in\nmyself and take\naction.",
       "choice_data_list": [
         "(There's something I need to tell her.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "If I take responsibility for what I tell her\nand am\nprepared to see it through, Air\nShakur should be\nwilling to hear me out."
     },
     {
       "name": "Air Shakur",
@@ -103,14 +103,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I can't believe even you're hell-bent on\ntickin' me\noff, Parcae!"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...",
+      "text": "I can't believe even you're hell-bent on\ntickin' me\noff, Parcae!",
       "choice_data_list": [
         "Shakur!"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Air Shakur",
@@ -138,35 +138,35 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Come on, what're you so scared to say\nto me,\nhuh? Spit it out already."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "<i>What?</i>",
+      "text": "Come on, what're you so scared to say\nto me,\nhuh? Spit it out already.",
       "choice_data_list": [
         "It's only natural to be scared.",
         "It's only natural to be scared."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "The partner she has absolute faith in has\n\npredicted that she's destined to lose. Of\ncourse\nshe would feel scared."
+      "name": "Air Shakur",
+      "text": "<i>What?</i>"
     },
     {
       "name": "Monologue",
-      "text": "In her world and in the reality she lives,\nthat\nforecasted timeline is what will go\ndown in\nhistory. But for me...",
+      "text": "The partner she has absolute faith in has\n\npredicted that she's destined to lose. Of\ncourse\nshe would feel scared.",
       "choice_data_list": [
         "Data really is everything to you, isn't it?",
         "Data is absolute to you, isn't it?"
       ]
     },
     {
-      "name": "Air Shakur",
-      "text": "...!",
+      "name": "Monologue",
+      "text": "In her world and in the reality she lives,\nthat\nforecasted timeline is what will go\ndown in\nhistory. But for me...",
       "choice_data_list": [
         "In my reality, you're the strongest!",
         "In my reality, you're the strongest!"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
     },
     {
       "name": "Monologue",
@@ -174,11 +174,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Changing your worldview changes what\nyou see.\nI'm not sure my words are\nenough to convey that,\nbut I have to try!"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...\n...Is that it?",
+      "text": "Changing your worldview changes what\nyou see.\nI'm not sure my words are\nenough to convey that,\nbut I have to try!",
       "choice_data_list": [
         "The you standing right here before me can overcome fate.",
         "The you standing right here before me can overcome fate."
@@ -186,11 +182,15 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...",
+      "text": "...\n...Is that it?",
       "choice_data_list": [
         "Hold onto your \"pride\" and see it through!",
         "Hold fast to your 'pride'!"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Air Shakur",
@@ -202,11 +202,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "So why'd you even bother? You\nshould've let me\nbe, like always."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Okay, and?",
+      "text": "So why'd you even bother? You\nshould've let me\nbe, like always.",
       "choice_data_list": [
         "I've got my pride, too.",
         "I have my own pride, after all."
@@ -214,7 +210,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...",
+      "text": "Okay, and?",
       "choice_data_list": [
         "I want you to believe in yourself.",
         "I want you to believe in yourself."
@@ -222,10 +218,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...I just told you that kinda talk's not\ngoing to\nwork on me.",
+      "text": "...",
       "choice_data_list": [
         "Let's put an end to this nightmare right here."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...I just told you that kinda talk's not\ngoing to\nwork on me."
     },
     {
       "name": "Air Shakur",
@@ -233,14 +233,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...Anyway, it's time."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...",
+      "text": "...Anyway, it's time.",
       "choice_data_list": [
         "(I'm sure the message got through.)"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
     },
     {
       "name": "Monologue",
@@ -260,14 +260,14 @@
     },
     {
       "name": "Monologue",
-      "text": "I go to put her laptop away after Air\nShakur\nleaves, and something on the\nscreen catches my\neye."
-    },
-    {
-      "name": "Monologue",
-      "text": "Not only that, but Parcae has finished\nsome new\ncalculations. And the result\nis...",
+      "text": "I go to put her laptop away after Air\nShakur\nleaves, and something on the\nscreen catches my\neye.",
       "choice_data_list": [
         "'991031021222' disappeared...?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Not only that, but Parcae has finished\nsome new\ncalculations. And the result\nis..."
     }
   ]
 }

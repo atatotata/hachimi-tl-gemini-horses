@@ -31,33 +31,33 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Madam, if it isn't too much trouble,\ncould you\npick out a selection of your\ntop sellers? And\nTrainer, apologies for\nimposing on you, but I\nneed you to go to\nthe bank."
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "With such a large number of incoming\npatrons, we\nshould make sure to have\nenough change on\nhand.",
+      "text": "Madam, if it isn't too much trouble,\ncould you\npick out a selection of your\ntop sellers? And\nTrainer, apologies for\nimposing on you, but I\nneed you to go to\nthe bank.",
       "choice_data_list": [
         "Ruby...!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I go convert some bills for coins at the\nbank as I'm\nasked, but the more time\npasses, the more\nnervous I feel. Daiichi\nRuby and the elderly owner\nare the only\nones manning the store right now..."
+      "name": "Daiichi Ruby",
+      "text": "With such a large number of incoming\npatrons, we\nshould make sure to have\nenough change on\nhand."
     },
     {
-      "name": "Mr. C.B.",
-      "text": "What's this about Ruby running a store?\nNow\nthat's something I'd like to see.",
+      "name": "Monologue",
+      "text": "I go convert some bills for coins at the\nbank as I'm\nasked, but the more time\npasses, the more\nnervous I feel. Daiichi\nRuby and the elderly owner\nare the only\nones manning the store right now...",
       "choice_data_list": [
         "Can Ruby really look after the shop?!",
         "Can Ruby really look after the shop?!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I suddenly find Mr. C.B, one of the more\n\nfree-spirited students of Tracen\nAcademy,\nstanding before me. I open up\nto her about my\nconcerns.",
+      "name": "Mr. C.B.",
+      "text": "What's this about Ruby running a store?\nNow\nthat's something I'd like to see.",
       "choice_data_list": [
         "Mr. C.B.?!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I suddenly find Mr. C.B, one of the more\n\nfree-spirited students of Tracen\nAcademy,\nstanding before me. I open up\nto her about my\nconcerns."
     },
     {
       "name": "Mr. C.B.",
@@ -69,25 +69,25 @@
     },
     {
       "name": "Monologue",
-      "text": "While Mr. C.B seems optimistic about\nDaiichi\nRuby's capabilities, it's not\nenough to assuage my\nconcerns, and I\nhurry back to the candy store."
-    },
-    {
-      "name": "Monologue",
-      "text": "Have those two been battling this on\ntheir own\nthe whole time?! Heading\ninside, I find Daiichi\nRuby covering for\nthe owner at the cash register.\nBut that's\nnot all...",
+      "text": "While Mr. C.B seems optimistic about\nDaiichi\nRuby's capabilities, it's not\nenough to assuage my\nconcerns, and I\nhurry back to the candy store.",
       "choice_data_list": [
         "There's a line forming...?!"
       ]
     },
     {
-      "name": "Energetic Old Man",
-      "text": "Come on in, come on in!"
+      "name": "Monologue",
+      "text": "Have those two been battling this on\ntheir own\nthe whole time?! Heading\ninside, I find Daiichi\nRuby covering for\nthe owner at the cash register.\nBut that's\nnot all..."
     },
     {
-      "name": "Daiichi Ruby",
-      "text": "He's a longtime regular. I found his\ninformation in\nthe customer database,\nand he came in\nstraightaway after I\ncontacted him.",
+      "name": "Energetic Old Man",
+      "text": "Come on in, come on in!",
       "choice_data_list": [
         "Who?!"
       ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "He's a longtime regular. I found his\ninformation in\nthe customer database,\nand he came in\nstraightaway after I\ncontacted him."
     },
     {
       "name": "Trend-Chasing Girl",
@@ -103,15 +103,15 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...We're seeing a lot of first-time\ncustomers today.\nWe should put the\ncheaper, easy-to-grab items\nup front so\nthey'll be easier to spot. Can you help\n\nme reorganize the shelves?"
-    },
-    {
-      "name": "Daiichi Ruby",
-      "text": "You exaggerate. This level of managerial\n\nknow-how is merely the standard\nexpected of any\nmember of my house.",
+      "text": "...We're seeing a lot of first-time\ncustomers today.\nWe should put the\ncheaper, easy-to-grab items\nup front so\nthey'll be easier to spot. Can you help\n\nme reorganize the shelves?",
       "choice_data_list": [
         "Impressive, you look like a real store manager.",
         "Amazing, you look just like a real store manager."
       ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "You exaggerate. This level of managerial\n\nknow-how is merely the standard\nexpected of any\nmember of my house."
     },
     {
       "name": "Monologue",
@@ -127,7 +127,12 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "See, Trainer? It's just like I said."
+      "text": "See, Trainer? It's just like I said.",
+      "choice_data_list": [
+        "Do you two get along well?",
+        "Are you two close?",
+        "Ruby really saved the day."
+      ]
     },
     {
       "name": "Mr. C.B.",
@@ -140,12 +145,7 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "We aren't particularly close with each\nother, no.",
-      "choice_data_list": [
-        "Do you two get along well?",
-        "Are you two close?",
-        "Ruby really saved the day."
-      ]
+      "text": "We aren't particularly close with each\nother, no."
     },
     {
       "name": "Mr. C.B.",
@@ -173,14 +173,14 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Many of these rice crackers are broken,\nso I've\nremoved them from the shelves.\nCould you take\nthem into the back?"
-    },
-    {
-      "name": "Monologue",
-      "text": "While carrying the defective crackers\ninto the\nstoreroom, I happen to see the\ndisplay case\nDaiichi Ruby must've set up\nearlier.",
+      "text": "Many of these rice crackers are broken,\nso I've\nremoved them from the shelves.\nCould you take\nthem into the back?",
       "choice_data_list": [
         "Yeah, got it."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While carrying the defective crackers\ninto the\nstoreroom, I happen to see the\ndisplay case\nDaiichi Ruby must've set up\nearlier."
     },
     {
       "name": "Monologue",
@@ -220,14 +220,14 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Many of these rice crackers are broken,\nso I've\nremoved them from the shelves.\nCould you take\nthem into the back?"
-    },
-    {
-      "name": "Monologue",
-      "text": "While carrying the defective crackers\ninto the\nstoreroom, I happen to see the\ndisplay case\nDaiichi Ruby must've set up\nearlier.",
+      "text": "Many of these rice crackers are broken,\nso I've\nremoved them from the shelves.\nCould you take\nthem into the back?",
       "choice_data_list": [
         "Yeah, got it."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While carrying the defective crackers\ninto the\nstoreroom, I happen to see the\ndisplay case\nDaiichi Ruby must've set up\nearlier."
     },
     {
       "name": "Monologue",

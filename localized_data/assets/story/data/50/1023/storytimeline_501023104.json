@@ -7,14 +7,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<i>Pant... Pant...</i> There... I've finished ten\nbeach\ndashes. What's next on the list?"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "No. I made sure to drink plenty of water\nbefore\nwe started.",
+      "text": "<i>Pant... Pant...</i> There... I've finished ten\nbeach\ndashes. What's next on the list?",
       "choice_data_list": [
         "...What about a break?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No. I made sure to drink plenty of water\nbefore\nwe started."
     },
     {
       "name": "Biwa Hayahide",
@@ -26,7 +26,12 @@
     },
     {
       "name": "Monologue",
-      "text": "She seems really serious. What should\nwe move\non to next?"
+      "text": "She seems really serious. What should\nwe move\non to next?",
+      "choice_data_list": [
+        "OK, it's scorching aerobics hell!!",
+        "OK, it's scorching aerobics hell!!",
+        "How about we run an extra 40km marathon?"
+      ]
     },
     {
       "name": "Monologue",
@@ -39,12 +44,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Uh, aerobic hell?",
-      "choice_data_list": [
-        "OK, it's scorching aerobics hell!!",
-        "OK, it's scorching aerobics hell!!",
-        "How about we run an extra 40km marathon?"
-      ]
+      "text": "Uh, aerobic hell?"
     },
     {
       "name": "Monologue",
@@ -52,14 +52,14 @@
     },
     {
       "name": "Speakers",
-      "text": "Hi, everyone! ♪ I'm Buff Chick, and\nwelcome to a\nHappy Hell of an Aerobics\nworkout! Now, lift that\nleg up—"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "What?!",
+      "text": "Hi, everyone! ♪ I'm Buff Chick, and\nwelcome to a\nHappy Hell of an Aerobics\nworkout! Now, lift that\nleg up—",
       "choice_data_list": [
         "Come on, Hayahide, you too!"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "What?!"
     },
     {
       "name": "Speakers",
@@ -83,14 +83,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "But forty kilometers is practically a full\nmarathon.\nIf I start running now... Hmm..."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "No, I'll do it. I'm the one who asked for\nharder\ntraining. If I can't handle this,\nthen I should just\ngive up on my dreams\nright now.",
+      "text": "But forty kilometers is practically a full\nmarathon.\nIf I start running now... Hmm...",
       "choice_data_list": [
         "...Want to call it off?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, I'll do it. I'm the one who asked for\nharder\ntraining. If I can't handle this,\nthen I should just\ngive up on my dreams\nright now."
     },
     {
       "name": "Biwa Hayahide",
@@ -106,11 +106,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<i>Phew...</i>"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "I can't believe it myself! My baseline\nendurance\nhas really improved!",
+      "text": "<i>Phew...</i>",
       "choice_data_list": [
         "...You really gave it your all.",
         "...We really saw it through, didn't we?"
@@ -118,11 +114,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "All that training since the Derby has\nreally paid\noff!"
+      "text": "I can't believe it myself! My baseline\nendurance\nhas really improved!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hehe, no need to lay it on so thick. The\nonly\nreason I performed poorly before\nwas because I\nlacked the conviction to\npush myself.",
+      "text": "All that training since the Derby has\nreally paid\noff!",
       "choice_data_list": [
         "It's because you worked so hard.",
         "It's because you worked so hard"
@@ -130,29 +126,33 @@
     },
     {
       "name": "Biwa Hayahide",
+      "text": "Hehe, no need to lay it on so thick. The\nonly\nreason I performed poorly before\nwas because I\nlacked the conviction to\npush myself."
+    },
+    {
+      "name": "Biwa Hayahide",
       "text": "Maybe all of this time, I've just been\nignoring the\nfact that I could choose to\nstep beyond my\nself-imposed limits."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The day I was overtaken and pushed\nmyself too\nhard to catch up, leading to\nmy injury... Ever since\nthen, I've been\nplaying it safe."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "But I've moved on to the next stage! I\nhave\ninfinite possibilities before me, and\nthe world is\nmine!",
+      "text": "The day I was overtaken and pushed\nmyself too\nhard to catch up, leading to\nmy injury... Ever since\nthen, I've been\nplaying it safe.",
       "choice_data_list": [
         "Hayahide..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I hope I didn't sound too conceited just\nnow."
+      "text": "But I've moved on to the next stage! I\nhave\ninfinite possibilities before me, and\nthe world is\nmine!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hehe... That's good to hear.",
+      "text": "I hope I didn't sound too conceited just\nnow.",
       "choice_data_list": [
         "That's not true."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hehe... That's good to hear."
     },
     {
       "name": "Biwa Hayahide",

@@ -11,7 +11,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "You worry too much."
+      "text": "You worry too much.",
+      "choice_data_list": [
+        "Are you really okay?",
+        "Do you want to keep practicing?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -23,23 +27,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Like I said, I'm fi—",
-      "choice_data_list": [
-        "Are you really okay?",
-        "Do you want to keep practicing?"
-      ]
+      "text": "Like I said, I'm fi—"
     },
     {
       "name": "Narita Brian",
-      "text": "Oof..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Tch! What are you, my mother?",
+      "text": "Oof...",
       "choice_data_list": [
         "Come on, let's get that properly treated.",
         "Come on, let's treat that properly."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tch! What are you, my mother?"
     },
     {
       "name": "Monologue",
@@ -55,15 +55,15 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Damn. And I'm already short on time.",
+      "text": "...!",
       "choice_data_list": [
         "It hurts, doesn't it?",
         "It hurts, doesn't it?"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Damn. And I'm already short on time."
     },
     {
       "name": "Narita Brian",
@@ -75,15 +75,15 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Of course. I was never planning on\nstopping."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Fine. ...Geez.",
+      "text": "Of course. I was never planning on\nstopping.",
       "choice_data_list": [
         "Then at least let me patch you up.",
         "Then at least let me patch you up, okay?"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Fine. ...Geez."
     },
     {
       "name": "Narita Brian",

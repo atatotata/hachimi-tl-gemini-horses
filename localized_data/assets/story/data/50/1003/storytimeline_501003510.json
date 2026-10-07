@@ -11,14 +11,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Ah, Teio's trainer. If you're looking for\nthe\npresident, she ought to be back\nshortly."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Hey, you might as well watch our chess\nmatch! I'm\njust about to whoop Air\nGroove!",
+      "text": "Ah, Teio's trainer. If you're looking for\nthe\npresident, she ought to be back\nshortly.",
       "choice_data_list": [
         "Then I'll have you wait for me."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hey, you might as well watch our chess\nmatch! I'm\njust about to whoop Air\nGroove!"
     },
     {
       "name": "Air Groove",
@@ -30,7 +30,13 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Plus, Prez said I could run with her if I\ndo!"
+      "text": "Plus, Prez said I could run with her if I\ndo!",
+      "choice_data_list": [
+        "Go for broke!",
+        "Just go for broke!",
+        "Let's work out a strategy and give it our all!",
+        "Let's devise a strategy and do our best!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -46,18 +52,12 @@
       "name": "Tokai Teio",
       "text": "What do you mean?! At least be a <i>little</i>\nmore\nencouraging, like, \"You've got this\nin the bag!\"",
       "choice_data_list": [
-        "Go for broke!",
-        "Just go for broke!",
-        "Let's work out a strategy and give it our all!",
-        "Let's devise a strategy and do our best!"
+        "Our opponent is just too tough."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "Ouch, didn't think my own trainer would\nbe so\nbrutal!",
-      "choice_data_list": [
-        "Our opponent is just too tough."
-      ]
+      "text": "Ouch, didn't think my own trainer would\nbe so\nbrutal!"
     },
     {
       "name": "Tokai Teio",
@@ -109,15 +109,15 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "How unfortunate, Teio. It appears that\nyou\nsnatched defeat from the jaws of\nvictory."
-    },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Tokai... KO'd?",
+      "text": "How unfortunate, Teio. It appears that\nyou\nsnatched defeat from the jaws of\nvictory.",
       "choice_data_list": [
         "Crumbling Teio, huh.",
         "Crumbling Teio, yeah."
       ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tokai... KO'd?"
     },
     {
       "name": "Symboli Rudolf",
@@ -169,14 +169,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "No, no, <i>no!</i> I won't give up!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Yeah, you're right. Thanks, Trainer!",
+      "text": "No, no, <i>no!</i> I won't give up!",
       "choice_data_list": [
         "Times like this are when we need to stay calm."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yeah, you're right. Thanks, Trainer!"
     },
     {
       "name": "Tokai Teio",

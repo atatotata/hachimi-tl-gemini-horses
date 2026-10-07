@@ -11,15 +11,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hey, I have some time right now. Can I\nread\nthem?"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Thanks! Okay, let me take a look...",
+      "text": "Hey, I have some time right now. Can I\nread\nthem?",
       "choice_data_list": [
         "Of course, that's what I brought it for.",
         "Of course, that's what I brought it for."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thanks! Okay, let me take a look..."
     },
     {
       "name": "Maruzensky",
@@ -55,7 +55,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "You think so too, don't you, Trainer?"
+      "text": "You think so too, don't you, Trainer?",
+      "choice_data_list": [
+        "Of course."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -66,10 +69,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "That's why I'll kick it into high gear again\nfor my\nnext race.",
-      "choice_data_list": [
-        "Of course."
-      ]
+      "text": "That's why I'll kick it into high gear again\nfor my\nnext race."
     },
     {
       "name": "Maruzensky",

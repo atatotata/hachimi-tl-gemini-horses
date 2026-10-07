@@ -3,7 +3,12 @@
   "text_block_list": [
     {
       "name": "Air Groove",
-      "text": "I fell just short..."
+      "text": "I fell just short...",
+      "choice_data_list": [
+        "It's not a bad result.",
+        "It's not a bad result.",
+        "Let's take first place next time."
+      ]
     },
     {
       "name": "Air Groove",
@@ -16,12 +21,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Yes, the result itself isn't so bad.",
-      "choice_data_list": [
-        "It's not a bad result.",
-        "It's not a bad result.",
-        "Let's take first place next time."
-      ]
+      "text": "Yes, the result itself isn't so bad."
     },
     {
       "name": "Air Groove",

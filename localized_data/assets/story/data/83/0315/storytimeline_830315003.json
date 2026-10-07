@@ -149,17 +149,13 @@
       "name": "Fenomeno",
       "text": "Trainer-san! In fact, we were just \nthinking of consulting the police!",
       "choice_data_list": [
-        "What are you two doing?",
-        "What are you two doing?"
+        "Wait, the police?! What happened?!",
+        "Wait, the police?! What happened?!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Afterwards, I contacted the police station \non their behalf and reported that \nsuspected burglar marking graffiti had \nbeen found on neighboring houses.",
-      "choice_data_list": [
-        "Wait, the police?! What happened?!",
-        "Wait, the police?! What happened?!"
-      ]
+      "text": "Afterwards, I contacted the police station \non their behalf and reported that \nsuspected burglar marking graffiti had \nbeen found on neighboring houses."
     },
     {
       "name": "Biko Pegasus",
@@ -173,8 +169,10 @@
       "name": "Fenomeno",
       "text": "I am truly glad that we were able to \nprevent a crime before it could take \nplace!",
       "choice_data_list": [
-        "You both did a splendid job.",
-        "You both did a wonderful job."
+        "They're police officers' kids, all right.",
+        "They're police officers' kids, all right.",
+        "You protected the residents' peace. That's really something.",
+        "You protected the residents' peace. That's quite an achievement."
       ]
     },
     {
@@ -189,13 +187,7 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Sir! I am honored by your praise!",
-      "choice_data_list": [
-        "They're police officers' kids, all right.",
-        "They're police officers' kids, all right.",
-        "You protected the residents' peace. That's really something.",
-        "You protected the residents' peace. That's quite an achievement."
-      ]
+      "text": "Sir! I am honored by your praise!"
     },
     {
       "name": "Biko Pegasus",

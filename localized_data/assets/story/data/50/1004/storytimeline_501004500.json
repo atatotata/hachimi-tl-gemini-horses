@@ -11,7 +11,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh, hello, Trainer. It's a beautiful day,\nisn't it? ♪"
+      "text": "Oh, hello, Trainer. It's a beautiful day,\nisn't it? ♪",
+      "choice_data_list": [
+        "Are you grooming Tacchan?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -24,16 +27,13 @@
       "name": "Maruzensky",
       "text": "Yeah, I had some free time. But I\nactually just\nfinished. ♪",
       "choice_data_list": [
-        "Are you grooming Tacchan?"
+        "Seems like you're in a good mood.",
+        "Looks like you're in a good mood."
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "I absi-posolutely am! It's always nice to\nspend\nsome quality time with my\nprecious partner.",
-      "choice_data_list": [
-        "Seems like you're in a good mood.",
-        "Looks like you're in a good mood."
-      ]
+      "text": "I absi-posolutely am! It's always nice to\nspend\nsome quality time with my\nprecious partner."
     },
     {
       "name": "Maruzensky",
@@ -77,15 +77,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I need your best support so I can do my\nbest\nrunning!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "I believe in you, Trainer!",
+      "text": "I need your best support so I can do my\nbest\nrunning!",
       "choice_data_list": [
         "Leave it to me.",
         "Leave it to me."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I believe in you, Trainer!"
     },
     {
       "name": "Monologue",

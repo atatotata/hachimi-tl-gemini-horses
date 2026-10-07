@@ -15,7 +15,12 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "So why did this happen?"
+      "text": "So why did this happen?",
+      "choice_data_list": [
+        "I don't think your approach is wrong.",
+        "It just means we weren't good enough.",
+        "It just means we weren't good enough."
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -28,20 +33,11 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "They are? Yes, perhaps... After all, there\nare\nplenty of factors outside my control\nthat affect a\nrace.",
-      "choice_data_list": [
-        "I don't think your approach is wrong.",
-        "It just means we weren't good enough.",
-        "It just means we weren't good enough."
-      ]
+      "text": "They are? Yes, perhaps... After all, there\nare\nplenty of factors outside my control\nthat affect a\nrace."
     },
     {
       "name": "Eishin Flash",
-      "text": "As they say, \"It all comes down to luck.\"\nThere are\ntimes when effort alone\ncannot bring forth\nvictory."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "...Thank you. I feel slightly better now.",
+      "text": "As they say, \"It all comes down to luck.\"\nThere are\ntimes when effort alone\ncannot bring forth\nvictory.",
       "choice_data_list": [
         "Our practice was perfect. We'll win next time.",
         "Our practice was perfect. You'll win next time."
@@ -49,18 +45,22 @@
     },
     {
       "name": "Eishin Flash",
+      "text": "...Thank you. I feel slightly better now."
+    },
+    {
+      "name": "Eishin Flash",
       "text": "I promise not to let the lesson of this\nloss nor the\nfruits of my training thus far\ngo to waste."
     },
     {
       "name": "Eishin Flash",
-      "text": "Yes, you are correct... This is certainly a\nskill\nissue..."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Yes... Stressing over this will not lead to\nvictory.\nOnly hard work can do that.",
+      "text": "Yes, you are correct... This is certainly a\nskill\nissue...",
       "choice_data_list": [
         "Let's get more training in!"
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Yes... Stressing over this will not lead to\nvictory.\nOnly hard work can do that."
     },
     {
       "name": "Eishin Flash",

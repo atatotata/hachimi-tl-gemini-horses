@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Hey, Trainer! Did you watch me run?"
+      "text": "Hey, Trainer! Did you watch me run?",
+      "choice_data_list": [
+        "That was a breathtaking run.",
+        "That was a breathtaking run."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Hehe! It's only because I had so much\nfun running\nwith Grass! ♪",
-      "choice_data_list": [
-        "That was a breathtaking run.",
-        "That was a breathtaking run."
-      ]
+      "text": "Hehe! It's only because I had so much\nfun running\nwith Grass! ♪"
     },
     {
       "name": "Maruzensky",
@@ -35,15 +35,15 @@
     },
     {
       "name": "Monologue",
-      "text": "There are several choices, but she'll\nwant a race\nwhere she can enjoy\ncompeting against other\nexcellent\nrunners..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That's a great idea! It's the perfect\ndistance, and I\nlike Tokyo because it\nfeels like home!",
+      "text": "There are several choices, but she'll\nwant a race\nwhere she can enjoy\ncompeting against other\nexcellent\nrunners...",
       "choice_data_list": [
         "Let's make the Tenno Sho (Autumn) our goal!",
         "Let's make the Tenno Sho (Autumn) our goal!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That's a great idea! It's the perfect\ndistance, and I\nlike Tokyo because it\nfeels like home!"
     },
     {
       "name": "Maruzensky",

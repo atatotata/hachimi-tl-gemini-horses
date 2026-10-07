@@ -7,15 +7,15 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh... it's a soft-serve parlor..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Eep! Not at all! S-sorry it looked like\nthat! I was\njust a little curious...",
+      "text": "Oh... it's a soft-serve parlor...",
       "choice_data_list": [
         "Do you want to eat some?",
         "Do you want to have some?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eep! Not at all! S-sorry it looked like\nthat! I was\njust a little curious..."
     },
     {
       "name": "Monologue",
@@ -23,22 +23,22 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Nooo! This isn't what you think it is! I\nhad a lot of\nfun today, so naturally my\nstomach has gotten\nempty and..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "We sh-shouldn't! I'll probably spill it or\ndrop it\ncompletely...",
+      "text": "Nooo! This isn't what you think it is! I\nhad a lot of\nfun today, so naturally my\nstomach has gotten\nempty and...",
       "choice_data_list": [
         "Shall we grab a bite first?",
         "Let's grab a bite before we head out!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Finding a seat on a park bench, I savor\nsome\nsoft-serve ice cream with Meisho\nDoto.",
+      "name": "Meisho Doto",
+      "text": "We sh-shouldn't! I'll probably spill it or\ndrop it\ncompletely...",
       "choice_data_list": [
         "You'll be fine as long as you eat slowly."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Finding a seat on a park bench, I savor\nsome\nsoft-serve ice cream with Meisho\nDoto."
     },
     {
       "name": "Meisho Doto",
@@ -46,14 +46,14 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I probably would have walked on by if\nyou hadn't\nsaid something, Trainer."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, um... You see...",
+      "text": "I probably would have walked on by if\nyou hadn't\nsaid something, Trainer.",
       "choice_data_list": [
         "Why?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, um... You see..."
     },
     {
       "name": "Meisho Doto",
@@ -77,11 +77,7 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "So much so, I'm even starting to believe\nI'm\ncapable of doing more. Ridiculous,\nright?"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Huh? Well... There are quite a lot of\nother things\nI've thought about eating...\nor buying, but...",
+      "text": "So much so, I'm even starting to believe\nI'm\ncapable of doing more. Ridiculous,\nright?",
       "choice_data_list": [
         "What other challenges do you want to take on?"
       ]
@@ -98,7 +94,7 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh... Shopping... together? With you?\nUm... But...",
+      "text": "Huh? Well... There are quite a lot of\nother things\nI've thought about eating...\nor buying, but...",
       "choice_data_list": [
         "Wanna go shopping?",
         "Want to go shopping?",
@@ -108,11 +104,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Won't you get... irritated with me? What\nif I get\ntired halfway through the trip?"
+      "text": "Oh... Shopping... together? With you?\nUm... But..."
     },
     {
       "name": "Meisho Doto",
-      "text": "I've been wanting to buy myself a coffee\nmug,\nactually. There's an adorable round\none I've been\neyeing, but...",
+      "text": "Won't you get... irritated with me? What\nif I get\ntired halfway through the trip?",
       "choice_data_list": [
         "What is it you want?",
         "What do you want?"
@@ -120,11 +116,11 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I'm too scared to go on my own... I can\npicture\nmyself accidentally breaking\ntheir merchandise..."
+      "text": "I've been wanting to buy myself a coffee\nmug,\nactually. There's an adorable round\none I've been\neyeing, but..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Really? But, what if my hands start to\nshake from\nthe nerves, or... I'm not able\nto walk straight\nanymore?",
+      "text": "I'm too scared to go on my own... I can\npicture\nmyself accidentally breaking\ntheir merchandise...",
       "choice_data_list": [
         "Don't worry, I'll back you up.",
         "Don't worry, I'll cover for you."
@@ -132,10 +128,14 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Ngh... Thank you so much. I'll see this\nthrough, I\npromise.",
+      "text": "Really? But, what if my hands start to\nshake from\nthe nerves, or... I'm not able\nto walk straight\nanymore?",
       "choice_data_list": [
         "I'm right beside you, so lean on me."
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ngh... Thank you so much. I'll see this\nthrough, I\npromise."
     },
     {
       "name": "Monologue",
@@ -147,25 +147,21 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Although... I do think it would be fun to\ngo with\nyou, Trainer. So... it won't hurt to\ntry, right?"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Croquettes... those are crispy and\ndelicious,\naren't they? The warm, meaty\njuices flood your\ntaste buds, but your\nhands and clothes get all\noily... Oogh...",
+      "text": "Although... I do think it would be fun to\ngo with\nyou, Trainer. So... it won't hurt to\ntry, right?",
       "choice_data_list": [
         "How about some menchi katsu?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "I'm not so good with takoyaki either...\nI've burned\nmy mouth so many times...",
+      "text": "Croquettes... those are crispy and\ndelicious,\naren't they? The warm, meaty\njuices flood your\ntaste buds, but your\nhands and clothes get all\noily... Oogh...",
       "choice_data_list": [
         "Takoyaki, maybe?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "I never know where to bite first... Is the\ntail\nbetter, or the head?!",
+      "text": "I'm not so good with takoyaki either...\nI've burned\nmy mouth so many times...",
       "choice_data_list": [
         "Taiyaki sounds pretty good, too.",
         "Taiyaki sounds good too."
@@ -173,10 +169,14 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Aaagh! Wait, sh-should we really? It\nsounds a\nlittle overwhelming, but... Um!",
+      "text": "I never know where to bite first... Is the\ntail\nbetter, or the head?!",
       "choice_data_list": [
         "Alright, let's try them all!"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aaagh! Wait, sh-should we really? It\nsounds a\nlittle overwhelming, but... Um!"
     },
     {
       "name": "Monologue",

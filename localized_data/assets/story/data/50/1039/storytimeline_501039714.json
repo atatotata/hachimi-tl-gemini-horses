@@ -15,7 +15,12 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "As long as I tend to my injury properly,\nI'll be able\nto keep going!"
+      "text": "As long as I tend to my injury properly,\nI'll be able\nto keep going!",
+      "choice_data_list": [
+        "You really need to rest.",
+        "If you do anything reckless, even a little, I'm stopping you.",
+        "If you do anything reckless, even a little, I'll stop you."
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -30,17 +35,12 @@
       "name": "Kawakami Princess",
       "text": "But... if I just fix the pain, then I can\nkeep running!",
       "choice_data_list": [
-        "You really need to rest.",
-        "If you do anything reckless, even a little, I'm stopping you.",
-        "If you do anything reckless, even a little, I'll stop you."
+        "Masking the pain doesn't mean it's cured."
       ]
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ugh, you're right... If I just end up\nmaking it\nworse, that will defeat the\nwhole purpose...",
-      "choice_data_list": [
-        "Masking the pain doesn't mean it's cured."
-      ]
+      "text": "Ugh, you're right... If I just end up\nmaking it\nworse, that will defeat the\nwhole purpose..."
     },
     {
       "name": "Kawakami Princess",
@@ -52,15 +52,15 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Let's get started right away, then. Umm,\nis the\nmedical tape in the medicine\ncabinet?"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Eeek! Owowow!",
+      "text": "Let's get started right away, then. Umm,\nis the\nmedical tape in the medicine\ncabinet?",
       "choice_data_list": [
         "Ah, I'll look for it, so—!",
         "Ah, I'll look for it, so—!"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Eeek! Owowow!"
     },
     {
       "name": "Monologue",
@@ -76,15 +76,15 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Phew! Now I can get back to strength\ntraining no\nproblem!"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Indeed! Thank you for believing in me\nand letting\nme continue my training.",
+      "text": "Phew! Now I can get back to strength\ntraining no\nproblem!",
       "choice_data_list": [
         "Seems like you're doing fine...!",
         "Looks like you're doing okay...!"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Indeed! Thank you for believing in me\nand letting\nme continue my training."
     },
     {
       "name": "Kawakami Princess",

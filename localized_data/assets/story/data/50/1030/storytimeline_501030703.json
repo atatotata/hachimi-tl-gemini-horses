@@ -7,7 +7,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Um, Big Brother?"
+      "text": "Um, Big Brother?",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -18,10 +21,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I don't want to say goodbye just yet...",
-      "choice_data_list": [
-        "Is something wrong?"
-      ]
+      "text": "I don't want to say goodbye just yet..."
     },
     {
       "name": "Rice Shower",
@@ -53,7 +53,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Thank you for coming."
+      "text": "Thank you for coming.",
+      "choice_data_list": [
+        "Happy to help!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -64,10 +67,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "But...",
-      "choice_data_list": [
-        "Happy to help!"
-      ]
+      "text": "But..."
     },
     {
       "name": "Rice Shower",
@@ -103,7 +103,13 @@
     },
     {
       "name": "Monologue",
-      "text": "I look at Rice Shower and realize my\nconcern was\nunfounded."
+      "text": "I look at Rice Shower and realize my\nconcern was\nunfounded.",
+      "choice_data_list": [
+        "You've gotten stronger.",
+        "You've gotten stronger.",
+        "You really want to make a wish, don't you?",
+        "You really want to make a wish, don't you?"
+      ]
     },
     {
       "name": "Monologue",
@@ -117,24 +123,18 @@
     },
     {
       "name": "Rice Shower",
-      "text": "H-huh? Stronger? W-what do you mean?",
-      "choice_data_list": [
-        "You've gotten stronger.",
-        "You've gotten stronger.",
-        "You really want to make a wish, don't you?",
-        "You really want to make a wish, don't you?"
-      ]
+      "text": "H-huh? Stronger? W-what do you mean?"
     },
     {
       "name": "Rice Shower",
-      "text": "Did I say something weird?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...",
+      "text": "Did I say something weird?",
       "choice_data_list": [
         "Because I was able to say that I wanted to wait."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
     },
     {
       "name": "Rice Shower",
@@ -154,14 +154,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "And I won't give up until that happens."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Ah! Look! Look at the sky!",
+      "text": "And I won't give up until that happens.",
       "choice_data_list": [
         "Rice..."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah! Look! Look at the sky!"
     },
     {
       "name": "Rice Shower",
@@ -177,14 +177,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Wooow! There are so many shooting\nstars!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Definitely!",
+      "text": "Wooow! There are so many shooting\nstars!",
       "choice_data_list": [
         "It was worth the wait, wasn't it?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Definitely!"
     },
     {
       "name": "Monologue",
@@ -204,7 +204,10 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...What are you going to wish for?"
+      "text": "...What are you going to wish for?",
+      "choice_data_list": [
+        "Rice's Happiness"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -215,10 +218,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Huh?! For me?!",
-      "choice_data_list": [
-        "Rice's Happiness"
-      ]
+      "text": "Huh?! For me?!"
     },
     {
       "name": "Rice Shower",
@@ -226,14 +226,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "It's similar to my wish."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "My wish... is for the happiness of\neveryone who\nsupports me...",
+      "text": "It's similar to my wish.",
       "choice_data_list": [
         "What is your wish, Rice?"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "My wish... is for the happiness of\neveryone who\nsupports me..."
     },
     {
       "name": "Rice Shower",
@@ -261,14 +261,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Wooow! There are so many shooting\nstars!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Right!",
+      "text": "Wooow! There are so many shooting\nstars!",
       "choice_data_list": [
         "I've gotta make a wish!"
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Right!"
     },
     {
       "name": "Monologue",

@@ -7,11 +7,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "..."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Indeed. I've decided that this is the year\nI'll\nconduct myself in a way truly\nbefitting a princess.",
+      "text": "...",
       "choice_data_list": [
         "You're praying quite fervently.",
         "You're praying so fervently."
@@ -19,14 +15,18 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "I'll be the princess-iest princess to ever\nprincess!"
+      "text": "Indeed. I've decided that this is the year\nI'll\nconduct myself in a way truly\nbefitting a princess."
     },
     {
       "name": "Kawakami Princess",
-      "text": "N-no, not at all. What I aspire to\nbecome is my\nperfect self—true to both\nmy princess ideals and\nmy own nature!",
+      "text": "I'll be the princess-iest princess to ever\nprincess!",
       "choice_data_list": [
         "Aren't you too fixated on being princess-like this time?"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "N-no, not at all. What I aspire to\nbecome is my\nperfect self—true to both\nmy princess ideals and\nmy own nature!"
     },
     {
       "name": "Kawakami Princess",
@@ -74,15 +74,15 @@
     },
     {
       "name": "Monologue",
-      "text": "She slips and falls over stupendously."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "I-I'm terribly sorry! I have no injuries, so\nplease do\nnot concern yourself!",
+      "text": "She slips and falls over stupendously.",
       "choice_data_list": [
         "Are you okay!?",
         "Are you okay!?"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "I-I'm terribly sorry! I have no injuries, so\nplease do\nnot concern yourself!"
     },
     {
       "name": "Kawakami's Fan",
@@ -106,14 +106,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "..."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Th-that's because I decided to change!",
+      "text": "...",
       "choice_data_list": [
         "Something seems different from usual, though..."
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Th-that's because I decided to change!"
     },
     {
       "name": "Kawakami Princess",
@@ -121,14 +121,14 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Gah! Is it that time already?! I won't\nmake it to my\nflower arrangement class!"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Yes, I started last month. It's very\ngraceful... And\nqueen-like, wouldn't you\nagree?",
+      "text": "Gah! Is it that time already?! I won't\nmake it to my\nflower arrangement class!",
       "choice_data_list": [
         "Were you taking lessons for that?"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Yes, I started last month. It's very\ngraceful... And\nqueen-like, wouldn't you\nagree?"
     },
     {
       "name": "Monologue",
@@ -168,7 +168,15 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems like she's holding herself back.\nAs she\nbegins walking over, I feel\ncompelled to say..."
+      "text": "It seems like she's holding herself back.\nAs she\nbegins walking over, I feel\ncompelled to say...",
+      "choice_data_list": [
+        "...I don't want you to overdo it.",
+        "...Don't overdo it.",
+        "Hey kid, let us join in your soccer game!",
+        "Hey kid, let us play soccer with you too!",
+        "...Pass it here, I'll show you an awesome kick.",
+        "...Let me borrow it, I'll show you an incredible kick."
+      ]
     },
     {
       "name": "Monologue",
@@ -184,15 +192,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Huh?",
-      "choice_data_list": [
-        "...I don't want you to overdo it.",
-        "...Don't overdo it.",
-        "Hey kid, let us join in your soccer game!",
-        "Hey kid, let us play soccer with you too!",
-        "...Pass it here, I'll show you an awesome kick.",
-        "...Let me borrow it, I'll show you an incredible kick."
-      ]
+      "text": "...Huh?"
     },
     {
       "name": "Monologue",
@@ -204,15 +204,15 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "No, I... I'm not forcing anything..."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "One step at a time...",
+      "text": "No, I... I'm not forcing anything...",
       "choice_data_list": [
         "No rush, let's take it slow and do our best.",
         "No rush, let's take it slow and do our best, okay?"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "One step at a time..."
     },
     {
       "name": "Monologue",
@@ -232,14 +232,14 @@
     },
     {
       "name": "Young Boy",
-      "text": "Wow! You two are pretty good at this!"
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Hehe, yes, so did I...",
+      "text": "Wow! You two are pretty good at this!",
       "choice_data_list": [
         "I had a great time too!"
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehe, yes, so did I..."
     },
     {
       "name": "Kawakami Princess",
@@ -247,11 +247,7 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Huh? Trainer?"
-    },
-    {
-      "name": "Monologue",
-      "text": "I take the ball from Kawakami Princess\nand pull\nmy leg back as far as I can.\nThen...",
+      "text": "...Huh? Trainer?",
       "choice_data_list": [
         "Check out my technique!!",
         "Check out my technique!!"
@@ -259,18 +255,22 @@
     },
     {
       "name": "Monologue",
+      "text": "I take the ball from Kawakami Princess\nand pull\nmy leg back as far as I can.\nThen..."
+    },
+    {
+      "name": "Monologue",
       "text": "<i>Swish!</i>"
     },
     {
       "name": "Kawakami Princess",
-      "text": "T-Trainer?! You completely whiffed it..."
-    },
-    {
-      "name": "Kawakami Princess",
-      "text": "Hehehe... You packed way too much\nenergy into\nit. Just what were you\nthinking?",
+      "text": "T-Trainer?! You completely whiffed it...",
       "choice_data_list": [
         "I messed up..."
       ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehehe... You packed way too much\nenergy into\nit. Just what were you\nthinking?"
     },
     {
       "name": "Monologue",

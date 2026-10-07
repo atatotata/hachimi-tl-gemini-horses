@@ -23,15 +23,15 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Hm? If you're here, that means... you're a\nrobber\ntoo?!"
-    },
-    {
-      "name": "Twin Turbo",
-      "text": "Don't sweat the details! You're one of\nus! I'll\nsmash right through everyone, so\nyou'll have\nnothing to worry about!",
+      "text": "Hm? If you're here, that means... you're a\nrobber\ntoo?!",
       "choice_data_list": [
         "We're just on patrol, though.",
         "We're just on patrol, though."
       ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Don't sweat the details! You're one of\nus! I'll\nsmash right through everyone, so\nyou'll have\nnothing to worry about!"
     },
     {
       "name": "Elementary School Umamusume A",
@@ -95,11 +95,7 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "I wanna run around! I wanna play tag\nwith\neveryone!"
-    },
-    {
-      "name": "Twin Turbo",
-      "text": "I'm super fast. I'll be totally fine.",
+      "text": "I wanna run around! I wanna play tag\nwith\neveryone!",
       "choice_data_list": [
         "If you break out now, you'll play right into their hands.",
         "If you rush forward, you'll play right into their hands."
@@ -107,15 +103,25 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Hehe! Nope, but I'm <i>tough,</i> so I'll be\nfine!",
+      "text": "I'm super fast. I'll be totally fine.",
       "choice_data_list": [
         "Do you have a plan?",
         "Do you have a plan?"
       ]
     },
     {
+      "name": "Twin Turbo",
+      "text": "Hehe! Nope, but I'm <i>tough,</i> so I'll be\nfine!"
+    },
+    {
       "name": "Monologue",
-      "text": "...Maybe Twin Turbo's planning to draw\nthe\nattention of the whole cop team\nherself."
+      "text": "...Maybe Twin Turbo's planning to draw\nthe\nattention of the whole cop team\nherself.",
+      "choice_data_list": [
+        "Alright, knock 'em dead!",
+        "Then off you go!",
+        "We'll have to endure it here.",
+        "We have to hold back here."
+      ]
     },
     {
       "name": "Monologue",
@@ -129,13 +135,7 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Leave it to me! Turbooo... GOOOOO!",
-      "choice_data_list": [
-        "Alright, knock 'em dead!",
-        "Then off you go!",
-        "We'll have to endure it here.",
-        "We have to hold back here."
-      ]
+      "text": "Leave it to me! Turbooo... GOOOOO!"
     },
     {
       "name": "Twin Turbo",
@@ -211,15 +211,15 @@
     },
     {
       "name": "Twin Turbo",
-      "text": "Huh?! What happened to the\ntournament?!"
-    },
-    {
-      "name": "Twin Turbo",
-      "text": "What?! I-it's o-over?! But I didn't even\nget to run!",
+      "text": "Huh?! What happened to the\ntournament?!",
       "choice_data_list": [
         "It's over, and the police team won.",
         "It's all over, and the police team won."
       ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "What?! I-it's o-over?! But I didn't even\nget to run!"
     },
     {
       "name": "Twin Turbo",

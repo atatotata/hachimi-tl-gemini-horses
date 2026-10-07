@@ -63,11 +63,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Just go to bed?"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "That's... true. You could do those things\nas long\nas you had company.",
+      "text": "...Just go to bed?",
       "choice_data_list": [
         "No, things like sharing meals or having conversations.",
         "No, things like meals or conversations."
@@ -75,10 +71,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...With my friend?",
+      "text": "That's... true. You could do those things\nas long\nas you had company.",
       "choice_data_list": [
         "You should go with your 'friend'."
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...With my friend?"
     },
     {
       "name": "Manhattan Cafe",
@@ -150,11 +150,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I don't think my stomach can handle this\nmany.\nCould we save these carrots until\ntomorrow?"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Well, sometimes when you wait a day, a\nfew of\nthem disappear, don't they? If\nsome of them\nvanish, I think we could\ncomfortably finish off\nwhatever's left.",
+      "text": "I don't think my stomach can handle this\nmany.\nCould we save these carrots until\ntomorrow?",
       "choice_data_list": [
         "Why wait?",
         "Why wait?"
@@ -162,15 +158,19 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Did I say something strange?"
+      "text": "Well, sometimes when you wait a day, a\nfew of\nthem disappear, don't they? If\nsome of them\nvanish, I think we could\ncomfortably finish off\nwhatever's left."
     },
     {
-      "name": "Monologue",
-      "text": "We wait and eat the carrots the\nfollowing day. I\nlack the courage to\ncount them before we dig in.",
+      "name": "Manhattan Cafe",
+      "text": "...Did I say something strange?",
       "choice_data_list": [
         "N-No...",
         "N-No..."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "We wait and eat the carrots the\nfollowing day. I\nlack the courage to\ncount them before we dig in."
     },
     {
       "name": "Raffle Clerk",
@@ -186,14 +186,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "But perhaps we should be grateful. This\nactually\nreminds me of a certain fable..."
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "There once was a single carrot. Just the\none. But\nthe townspeople planted it in\nthe ground, and\nhoped for the best. And\nthen, miraculously...",
+      "text": "But perhaps we should be grateful. This\nactually\nreminds me of a certain fable...",
       "choice_data_list": [
         "What kind of fable?"
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "There once was a single carrot. Just the\none. But\nthe townspeople planted it in\nthe ground, and\nhoped for the best. And\nthen, miraculously..."
     },
     {
       "name": "Manhattan Cafe",
@@ -209,14 +209,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Well, about that carrot... should we\nplant it when\nwe get back? Or should we\njust eat it?"
-    },
-    {
-      "name": "Monologue",
-      "text": "We split the carrot and wolf it down in a\nhurry. It\nisn't especially filling, but I feel\nan immense sense\nof relief.",
+      "text": "Well, about that carrot... should we\nplant it when\nwe get back? Or should we\njust eat it?",
       "choice_data_list": [
         "Let's eat!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "We split the carrot and wolf it down in a\nhurry. It\nisn't especially filling, but I feel\nan immense sense\nof relief."
     },
     {
       "name": "Raffle Clerk",
@@ -232,26 +232,26 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Shall we burn them?"
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "...",
+      "text": "...Shall we burn them?",
       "choice_data_list": [
         "Don't burn it."
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Shall we bring them to life and make\nthem move\naround?"
+      "text": "..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Oh, okay. So they can just be tissues,\nthen.",
+      "text": "Shall we bring them to life and make\nthem move\naround?",
       "choice_data_list": [
         "No, that's okay...",
         "No, I'm good..."
       ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Oh, okay. So they can just be tissues,\nthen."
     },
     {
       "name": "Manhattan Cafe",

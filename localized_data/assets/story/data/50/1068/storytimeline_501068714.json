@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Kitasan Black",
-      "text": "Ouch... This feels like it might be bad\nnews..."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Take the day off? But...",
+      "text": "Ouch... This feels like it might be bad\nnews...",
       "choice_data_list": [
         "Let's take today off."
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Take the day off? But..."
     },
     {
       "name": "Kitasan Black",
@@ -26,7 +26,12 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "...No dice, huh?"
+      "text": "...No dice, huh?",
+      "choice_data_list": [
+        "Now is a time for patience.",
+        "Right now is a time for patience.",
+        "...If it's just a walk..."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -39,12 +44,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Ngh... You're right. I'll be patient, then.",
-      "choice_data_list": [
-        "Now is a time for patience.",
-        "Right now is a time for patience.",
-        "...If it's just a walk..."
-      ]
+      "text": "Ngh... You're right. I'll be patient, then."
     },
     {
       "name": "Kitasan Black",

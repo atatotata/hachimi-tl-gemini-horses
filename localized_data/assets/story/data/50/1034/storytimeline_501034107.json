@@ -11,7 +11,11 @@
     },
     {
       "name": "Inari One",
-      "text": "Hey, Boss. Mind if I eat here on the\ntatami mat?\nEverywhere else just leaves\nme antsy."
+      "text": "Hey, Boss. Mind if I eat here on the\ntatami mat?\nEverywhere else just leaves\nme antsy.",
+      "choice_data_list": [
+        "Sure, but is something the matter?",
+        "Sure, but is something wrong?"
+      ]
     },
     {
       "name": "Inari One",
@@ -23,23 +27,19 @@
     },
     {
       "name": "Inari One",
-      "text": "C'mon, ya know. Today's Valentine's\nDay. I'm\ngettin' more chocolate than I\ncan deal with.",
-      "choice_data_list": [
-        "Sure, but is something the matter?",
-        "Sure, but is something wrong?"
-      ]
+      "text": "C'mon, ya know. Today's Valentine's\nDay. I'm\ngettin' more chocolate than I\ncan deal with."
     },
     {
       "name": "Monologue",
-      "text": "Inari One turns her attention to the pile\nof bags\nshe brought, each stuffed to the\nbrim with\nchocolates!"
-    },
-    {
-      "name": "Inari One",
-      "text": "I'm grateful, don't get me wrong. But it\nbaffles me\nwhy they all came to me.",
+      "text": "Inari One turns her attention to the pile\nof bags\nshe brought, each stuffed to the\nbrim with\nchocolates!",
       "choice_data_list": [
         "That's an incredible amount...!",
         "That really is an incredible amount...!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "I'm grateful, don't get me wrong. But it\nbaffles me\nwhy they all came to me."
     },
     {
       "name": "Monologue",
@@ -47,14 +47,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Ah, whatevz! Savorin' the gifts you're\ngiven is\nmore my style, which means not\na single piece\ngoes uneaten!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Oh, good thinkin'! Hot tea to wash down\n\nsomethin' sweet! Thanks!",
+      "text": "Ah, whatevz! Savorin' the gifts you're\ngiven is\nmore my style, which means not\na single piece\ngoes uneaten!",
       "choice_data_list": [
         "Shall I brew some tea?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Oh, good thinkin'! Hot tea to wash down\n\nsomethin' sweet! Thanks!"
     },
     {
       "name": "Monologue",
@@ -70,11 +70,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Carefully taking out each gift, Inari One\nrecalls\nthe person who gave it to her\nbefore enjoying the\nchocolate."
-    },
-    {
-      "name": "Inari One",
-      "text": "Phew, I stuffed myself silly! Each one was\nsuper\ndelicious! I definitely gotta do\nsomethin' to repay\neveryone!",
+      "text": "Carefully taking out each gift, Inari One\nrecalls\nthe person who gave it to her\nbefore enjoying the\nchocolate.",
       "choice_data_list": [
         "(She really is as dutiful as ever...)",
         "(Her conscientiousness really is something...)"
@@ -82,18 +78,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Why wouldn't I? These folks all went\noutta their\nway to give me these, right?",
+      "text": "Phew, I stuffed myself silly! Each one was\nsuper\ndelicious! I definitely gotta do\nsomethin' to repay\neveryone!",
       "choice_data_list": [
         "You ate with such good manners."
       ]
     },
     {
       "name": "Inari One",
-      "text": "Now that I've eaten them all... that\nleaves one\nmore thing to do."
+      "text": "Why wouldn't I? These folks all went\noutta their\nway to give me these, right?"
     },
     {
       "name": "Inari One",
-      "text": "Here ya go, Boss. Somethin' from me.",
+      "text": "Now that I've eaten them all... that\nleaves one\nmore thing to do.",
       "choice_data_list": [
         "An errand?"
       ]
@@ -106,11 +102,15 @@
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Inari One hands me a wrapped present. I\npeel off\nthe paper to find a box of\ntraditional Japanese\nsweets!",
+      "name": "Inari One",
+      "text": "Here ya go, Boss. Somethin' from me.",
       "choice_data_list": [
         "Wait!?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Inari One hands me a wrapped present. I\npeel off\nthe paper to find a box of\ntraditional Japanese\nsweets!"
     },
     {
       "name": "Inari One",
@@ -122,22 +122,22 @@
     },
     {
       "name": "Inari One",
-      "text": "If ya don't wanna eat 'em, that's fine\nwith me..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I can't turn these down for not being\nchocolates,\nnot after seeing Inari One\nshow so much care.\nAfter all...",
+      "text": "If ya don't wanna eat 'em, that's fine\nwith me...",
       "choice_data_list": [
         "I'm gonna eat!"
       ]
     },
     {
-      "name": "Inari One",
-      "text": "...",
+      "name": "Monologue",
+      "text": "I can't turn these down for not being\nchocolates,\nnot after seeing Inari One\nshow so much care.\nAfter all...",
       "choice_data_list": [
         "Savoring what you're given is the classy thing to do, right?",
         "Savoring what you're given is the classy thing to do, right?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "..."
     },
     {
       "name": "Inari One",
@@ -161,11 +161,7 @@
     },
     {
       "name": "Inari One",
-      "text": "A treat for everythin' you've done for\nme... and\nalso 'cause it's Valentine's Day."
-    },
-    {
-      "name": "Inari One",
-      "text": "Well... ya know... I kinda... made 'em\nmyself,\nactually.",
+      "text": "A treat for everythin' you've done for\nme... and\nalso 'cause it's Valentine's Day.",
       "choice_data_list": [
         "Thank you...! This chocolate is so cute.",
         "Thank you...! What cute chocolate."
@@ -173,7 +169,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Yeah. Well, I did get a lotta help from\nCreek!",
+      "text": "Well... ya know... I kinda... made 'em\nmyself,\nactually.",
       "choice_data_list": [
         "It's handmade?!",
         "You made this yourself?!"
@@ -181,22 +177,26 @@
     },
     {
       "name": "Inari One",
-      "text": "Can't vouch for the taste, though. Don't\nforce\nyourself if it's bad, okay?"
+      "text": "Yeah. Well, I did get a lotta help from\nCreek!"
     },
     {
-      "name": "Monologue",
-      "text": "Not that they'd taste bad, but I can't\nturn these\ndown, not after seeing Inari\nOne show so much\ncare. After all...",
+      "name": "Inari One",
+      "text": "Can't vouch for the taste, though. Don't\nforce\nyourself if it's bad, okay?",
       "choice_data_list": [
         "I'll eat it all!"
       ]
     },
     {
-      "name": "Inari One",
-      "text": "...",
+      "name": "Monologue",
+      "text": "Not that they'd taste bad, but I can't\nturn these\ndown, not after seeing Inari\nOne show so much\ncare. After all...",
       "choice_data_list": [
         "Savoring what you're given is the classy thing to do, right?",
         "Savoring what you're given is the classy thing to do, right?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "..."
     },
     {
       "name": "Monologue",

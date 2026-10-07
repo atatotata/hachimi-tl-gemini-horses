@@ -11,11 +11,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Um, well, I appreciate the invitation..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Oh, Trainer! Good timing!",
+      "text": "Um, well, I appreciate the invitation...",
       "choice_data_list": [
         "What're you up to?",
         "What are you up to?"
@@ -27,14 +23,18 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Can you please help me entice Tazuna?"
+      "text": "Oh, Trainer! Good timing!"
     },
     {
       "name": "Maruzensky",
-      "text": "Yeah! We ran into each other just as she\nwas\nfinishing an errand for the director.",
+      "text": "Can you please help me entice Tazuna?",
       "choice_data_list": [
         "Convince me?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah! We ran into each other just as she\nwas\nfinishing an errand for the director."
     },
     {
       "name": "Maruzensky",
@@ -70,11 +70,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "A lemonade at a cafe... does sound\nrather\nwonderful..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Hey, Trainer, don't you think she should\nhave a\nlittle fun?",
+      "text": "A lemonade at a cafe... does sound\nrather\nwonderful...",
       "choice_data_list": [
         "(They understand each other...)"
       ]
@@ -84,12 +80,12 @@
       "text": "Hey, Trainer, don't you think she should\nhave a\nlittle fun?"
     },
     {
-      "name": "Monologue",
-      "text": "Maruzensky comes on strong, but her\nheart is in\nthe right place. However, I\nalso know that Tazuna\nis very serious\nabout her work..."
+      "name": "Maruzensky",
+      "text": "Hey, Trainer, don't you think she should\nhave a\nlittle fun?"
     },
     {
-      "name": "Maruzensky",
-      "text": "Oh, that's an interesting idea. Any\nparticular\nreason?",
+      "name": "Monologue",
+      "text": "Maruzensky comes on strong, but her\nheart is in\nthe right place. However, I\nalso know that Tazuna\nis very serious\nabout her work...",
       "choice_data_list": [
         "We could also take our time heading back to the academy.",
         "I think having a little fun wouldn't hurt."
@@ -97,10 +93,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "That's true... Chatting with friends can\nput some\npep in your step.",
+      "text": "Oh, that's an interesting idea. Any\nparticular\nreason?",
       "choice_data_list": [
         "How about refreshing yourself with a nice chat?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That's true... Chatting with friends can\nput some\npep in your step."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -168,7 +168,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Of course, your attendance will also be\nrequired,\nTrainer!"
+      "text": "Of course, your attendance will also be\nrequired,\nTrainer!",
+      "choice_data_list": [
+        "I'm fully prepared for that.",
+        "I'm well aware of what that entails."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -180,11 +184,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oh, you saw that coming, did you? You\nknow me\ntoo well! ☆",
-      "choice_data_list": [
-        "I'm fully prepared for that.",
-        "I'm well aware of what that entails."
-      ]
+      "text": "Oh, you saw that coming, did you? You\nknow me\ntoo well! ☆"
     },
     {
       "name": "Maruzensky",

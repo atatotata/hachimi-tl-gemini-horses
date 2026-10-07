@@ -15,11 +15,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Huh, guess there's a magic show."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Not particularly. But...",
+      "text": "Huh, guess there's a magic show.",
       "choice_data_list": [
         "Are you interested?",
         "Are you interested?"
@@ -27,29 +23,33 @@
     },
     {
       "name": "Air Shakur",
+      "text": "Not particularly. But..."
+    },
+    {
+      "name": "Air Shakur",
       "text": "A lot of card tricks like that rely on\nmathematical\nlogic."
     },
     {
       "name": "Air Shakur",
-      "text": "..."
-    },
-    {
-      "name": "Monologue",
-      "text": "While she doesn't reply, she does stop\nwalking,\nand we end up observing Fuji\nKiseki's magic show\nfrom a distance.",
+      "text": "...",
       "choice_data_list": [
         "Since we're here, let's watch for a bit."
       ]
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "I'm so happy you came to watch my little\n\nperformance! Did you enjoy yourselves?"
+      "name": "Monologue",
+      "text": "While she doesn't reply, she does stop\nwalking,\nand we end up observing Fuji\nKiseki's magic show\nfrom a distance."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I'm glad to hear it! ♪ It was extra\nexciting when I\nsaw familiar faces in the\naudience!",
+      "text": "I'm so happy you came to watch my little\n\nperformance! Did you enjoy yourselves?",
       "choice_data_list": [
         "I had so much fun!"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I'm glad to hear it! ♪ It was extra\nexciting when I\nsaw familiar faces in the\naudience!"
     },
     {
       "name": "Fuji Kiseki",
@@ -89,14 +89,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "No. There's nothing in that for me."
-    },
-    {
-      "name": "Monologue",
-      "text": "Air Shakur considers anything besides\nracing to\nbe nothing more than noise. I\nstart considering\nwho might be more\nappropriate for the role,\nwhen...",
+      "text": "No. There's nothing in that for me.",
       "choice_data_list": [
         "Maybe you should invite someone else...?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Air Shakur considers anything besides\nracing to\nbe nothing more than noise. I\nstart considering\nwho might be more\nappropriate for the role,\nwhen..."
     },
     {
       "name": "Fuji Kiseki",
@@ -152,7 +152,12 @@
     },
     {
       "name": "Air Shakur",
-      "text": "It's nothing special. Anyone who\nunderstands the\nlogic behind it could do\nthe same."
+      "text": "It's nothing special. Anyone who\nunderstands the\nlogic behind it could do\nthe same.",
+      "choice_data_list": [
+        "You mean I can make it, too?",
+        "Does that mean I can make it too?",
+        "Still, being able to improvise that is incredible!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -165,12 +170,7 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I see! Indeed, if I were able to create\ntricks like\nthis myself, I could take the\nshow in any direction\nI like! ♪",
-      "choice_data_list": [
-        "You mean I can make it, too?",
-        "Does that mean I can make it too?",
-        "Still, being able to improvise that is incredible!"
-      ]
+      "text": "I see! Indeed, if I were able to create\ntricks like\nthis myself, I could take the\nshow in any direction\nI like! ♪"
     },
     {
       "name": "Fuji Kiseki",
@@ -194,14 +194,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I'm outta here. And just so we're clear,\nthat was\nall the help I'm giving you."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Just leave me alone, will ya?",
+      "text": "I'm outta here. And just so we're clear,\nthat was\nall the help I'm giving you.",
       "choice_data_list": [
         "Ah, wait, together—"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Just leave me alone, will ya?"
     },
     {
       "name": "Monologue",

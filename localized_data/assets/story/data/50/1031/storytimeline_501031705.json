@@ -7,14 +7,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer, you're such a worrier! It's still\nbright\nout—you didn't have to come all\nthe way here\nwith me."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Hehe. Well, thanks! Okay, time to scrub\nthis place\nclean!",
+      "text": "Trainer, you're such a worrier! It's still\nbright\nout—you didn't have to come all\nthe way here\nwith me.",
       "choice_data_list": [
         "It's basically an extension of our outing."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hehe. Well, thanks! Okay, time to scrub\nthis place\nclean!"
     },
     {
       "name": "Shift Supervisor",
@@ -34,26 +34,26 @@
     },
     {
       "name": "Monologue",
-      "text": "Ines Fujin freezes up as a disturbed\nexpression\nspreads across her face. I\nvaguely recall that she's\nnot great with\nscary stuff..."
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "I-I'm just peachy! I can <i>totally</i> handle a\nhaunted\nhouse!",
+      "text": "Ines Fujin freezes up as a disturbed\nexpression\nspreads across her face. I\nvaguely recall that she's\nnot great with\nscary stuff...",
       "choice_data_list": [
         "...Are you okay? You're not scared, are you...?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Contrary to her claim, she looks\nanything but\npeachy. Unable to ignore\nmy concerns, I step in..."
+      "name": "Ines Fujin",
+      "text": "I-I'm just peachy! I can <i>totally</i> handle a\nhaunted\nhouse!"
     },
     {
-      "name": "Shift Supervisor",
-      "text": "Huh?",
+      "name": "Monologue",
+      "text": "Contrary to her claim, she looks\nanything but\npeachy. Unable to ignore\nmy concerns, I step in...",
       "choice_data_list": [
         "Um, I'm her Trainer, actually...",
         "Excuse me, I'm her Trainer, actually..."
       ]
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "Huh?"
     },
     {
       "name": "Ines Fujin",
@@ -65,14 +65,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Ugh, you worry <i>way</i> too much! I know my\n\nsupervisor's fine with it and all, but\nasking to\nobserve me on the job?"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "...Well, I guess four hands are better\nthan two.",
+      "text": "Ugh, you worry <i>way</i> too much! I know my\n\nsupervisor's fine with it and all, but\nasking to\nobserve me on the job?",
       "choice_data_list": [
         "Sorry, but I was just worried."
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Well, I guess four hands are better\nthan two."
     },
     {
       "name": "Ines Fujin",
@@ -116,14 +116,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "...Aaaargh?!"
-    },
-    {
-      "name": "Ines Fujin",
-      "text": "Save me, Trainer!",
+      "text": "...Aaaargh?!",
       "choice_data_list": [
         "C-Calm d—whoa-oof!"
       ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Save me, Trainer!"
     },
     {
       "name": "Ines Fujin",
@@ -131,7 +131,12 @@
     },
     {
       "name": "Monologue",
-      "text": "We somehow finish our cleaning duties,\nbut Ines\nFujin looks completely\nexhausted. I feel like I\nshould break the\nsilence..."
+      "text": "We somehow finish our cleaning duties,\nbut Ines\nFujin looks completely\nexhausted. I feel like I\nshould break the\nsilence...",
+      "choice_data_list": [
+        "It's okay to say no when you can't do it.",
+        "It's totally okay to say no when something is just impossible.",
+        "I got to see a rare reaction."
+      ]
     },
     {
       "name": "Monologue",
@@ -144,12 +149,7 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Yeah, maybe I was being a little\nstubborn...",
-      "choice_data_list": [
-        "It's okay to say no when you can't do it.",
-        "It's totally okay to say no when something is just impossible.",
-        "I got to see a rare reaction."
-      ]
+      "text": "Yeah, maybe I was being a little\nstubborn..."
     },
     {
       "name": "Ines Fujin",
@@ -185,14 +185,14 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer, could you keep what happened\ntoday\nbetween us? I'm really\nembarrassed about it..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I tell her that no matter how lame she\nmight have\nseemed today, I won't tell a\nsoul about it.",
+      "text": "Trainer, could you keep what happened\ntoday\nbetween us? I'm really\nembarrassed about it...",
       "choice_data_list": [
         "Of course."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell her that no matter how lame she\nmight have\nseemed today, I won't tell a\nsoul about it."
     },
     {
       "name": "Ines Fujin",

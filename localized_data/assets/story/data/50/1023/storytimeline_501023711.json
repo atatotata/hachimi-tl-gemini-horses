@@ -15,7 +15,13 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Don't hold back—just let me have it.\nFeelings will\nonly muddle my\ncalculations."
+      "text": "Don't hold back—just let me have it.\nFeelings will\nonly muddle my\ncalculations.",
+      "choice_data_list": [
+        "It's for next time's sake, too.",
+        "It's for next time's sake, too.",
+        "Aren't you just thinking 'I can't'?",
+        "Aren't you just thinking 'I can't'?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -29,13 +35,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Exactly!",
-      "choice_data_list": [
-        "It's for next time's sake, too.",
-        "It's for next time's sake, too.",
-        "Aren't you just thinking 'I can't'?",
-        "Aren't you just thinking 'I can't'?"
-      ]
+      "text": "Exactly!"
     },
     {
       "name": "Biwa Hayahide",
@@ -55,21 +55,21 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "There's clearly something wrong with the\nway I'm\nrunning my races now! Why else\nwould I have\nfailed this badly?!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "...!",
+      "text": "There's clearly something wrong with the\nway I'm\nrunning my races now! Why else\nwould I have\nfailed this badly?!",
       "choice_data_list": [
         "That's not an accurate grasp of the situation."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...",
+      "text": "...!",
       "choice_data_list": [
         "Let's understand both the good and bad points."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",

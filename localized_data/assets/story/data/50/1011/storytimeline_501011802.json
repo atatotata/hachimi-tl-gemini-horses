@@ -15,44 +15,44 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Hahaha. Who's next?"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "Oh, hello, Trainer. It's a card game we're\nplaying.\nSei is unbeatable.",
+      "text": "Hahaha. Who's next?",
       "choice_data_list": [
         "A winning streak? Undefeated?"
       ]
     },
     {
       "name": "Grass Wonder",
-      "text": "I've been mesmerized watching her\nblend mind\ngames with her sound\ntactics."
+      "text": "Oh, hello, Trainer. It's a card game we're\nplaying.\nSei is unbeatable."
     },
     {
-      "name": "Seiun Sky",
-      "text": "Want to try for yourself? There's time to\nkill\nbefore dinner anyway.",
+      "name": "Grass Wonder",
+      "text": "I've been mesmerized watching her\nblend mind\ngames with her sound\ntactics.",
       "choice_data_list": [
         "Huh, that sounds interesting.",
         "Huh, that sounds interesting."
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I get destroyed..."
+      "name": "Seiun Sky",
+      "text": "Want to try for yourself? There's time to\nkill\nbefore dinner anyway."
     },
     {
-      "name": "Seiun Sky",
-      "text": "Hehehe! Rematch? I'm always up for\nmore.",
+      "name": "Monologue",
+      "text": "I get destroyed...",
       "choice_data_list": [
         "I-It's so frustrating..."
       ]
     },
     {
-      "name": "Grass Wonder",
-      "text": "In that case, let me offer my support.",
+      "name": "Seiun Sky",
+      "text": "Hehehe! Rematch? I'm always up for\nmore.",
       "choice_data_list": [
         "...Let's have a rematch!"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "In that case, let me offer my support."
     },
     {
       "name": "Grass Wonder",
@@ -84,14 +84,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Unlike my first try, we put up a decent\nfight but\ncome up just short in the end."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Whew... You had me sweating for a\nsecond there.\nNot bad, guys, not bad.",
+      "text": "Unlike my first try, we put up a decent\nfight but\ncome up just short in the end.",
       "choice_data_list": [
         "Total defeat!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whew... You had me sweating for a\nsecond there.\nNot bad, guys, not bad."
     },
     {
       "name": "Seiun Sky",
@@ -103,14 +103,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Huh?"
-    },
-    {
-      "name": "Grass Wonder",
-      "text": "There's enough time for one more before\ndinner,\nyes?",
+      "text": "Huh?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "There's enough time for one more before\ndinner,\nyes?"
     },
     {
       "name": "Grass Wonder",
@@ -118,14 +118,14 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "What luck, a good hand. Let's take full\nadvantage\nof it and strike fear into her\nheart."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "You're playing <i>that</i> card now? Seriously?",
+      "text": "What luck, a good hand. Let's take full\nadvantage\nof it and strike fear into her\nheart.",
       "choice_data_list": [
         "Y-Yes."
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "You're playing <i>that</i> card now? Seriously?"
     },
     {
       "name": "Grass Wonder",
@@ -141,7 +141,12 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "All right, Trainer. Keep the cards\ncoming. No\nhesitations."
+      "text": "All right, Trainer. Keep the cards\ncoming. No\nhesitations.",
+      "choice_data_list": [
+        "As expected, top-notch support.",
+        "As expected, top-notch support.",
+        "Less like support and more like an attack..."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -154,12 +159,7 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "I'm honored to hear you say so. I'll\ncontinue with\nmy support, then.",
-      "choice_data_list": [
-        "As expected, top-notch support.",
-        "As expected, top-notch support.",
-        "Less like support and more like an attack..."
-      ]
+      "text": "I'm honored to hear you say so. I'll\ncontinue with\nmy support, then."
     },
     {
       "name": "Grass Wonder",
@@ -187,14 +187,14 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Keep up the pressure. Pedal to the\nmetal, go\ngo! ♪"
-    },
-    {
-      "name": "Monologue",
-      "text": "We ramp up the attack to eleven,\nsecuring a\nhard-fought victory!",
+      "text": "Keep up the pressure. Pedal to the\nmetal, go\ngo! ♪",
       "choice_data_list": [
         "U-Understood!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "We ramp up the attack to eleven,\nsecuring a\nhard-fought victory!"
     }
   ]
 }

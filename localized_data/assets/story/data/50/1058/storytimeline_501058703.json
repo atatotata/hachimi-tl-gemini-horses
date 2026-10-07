@@ -11,25 +11,25 @@
     },
     {
       "name": "",
-      "text": "<i>Bzzt, bzzt!</i>"
-    },
-    {
-      "name": "",
-      "text": "It's a message from Tazuna. Looks like\nthere's an\nimportant task that needs a\nlot of hands on deck.\nShe's asked me to\nhelp out.",
+      "text": "<i>Bzzt, bzzt!</i>",
       "choice_data_list": [
         "Sorry, got a call."
       ]
     },
     {
-      "name": "Meisho Doto",
-      "text": "I s-suppose you have work to do now..."
+      "name": "",
+      "text": "It's a message from Tazuna. Looks like\nthere's an\nimportant task that needs a\nlot of hands on deck.\nShe's asked me to\nhelp out."
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh no, it was nothing! Good luck with\ny-your\nwork!",
+      "text": "I s-suppose you have work to do now...",
       "choice_data_list": [
         "Weren't you trying to say something earlier?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh no, it was nothing! Good luck with\ny-your\nwork!"
     },
     {
       "name": "",
@@ -41,14 +41,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Hey. You're Doto's trainer, aren't you?\nGot any\nidea where she is?"
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Nope. Around this time, she's normally\nmaking a\nracket getting ready for the\nnext day.",
+      "text": "Hey. You're Doto's trainer, aren't you?\nGot any\nidea where she is?",
       "choice_data_list": [
         "I thought you went back to the dorms, but..."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nope. Around this time, she's normally\nmaking a\nracket getting ready for the\nnext day."
     },
     {
       "name": "Air Shakur",
@@ -60,14 +60,14 @@
     },
     {
       "name": "",
-      "text": "Shakur has a guess as to Doto's\nwhereabouts, so I\ntrust her gut and\nfollow along to..."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "If you haven't noticed, she's been\nsneaking out\nhere a lot lately. And\ntracking mud into our room\nwhen she\nsneaks back...",
+      "text": "Shakur has a guess as to Doto's\nwhereabouts, so I\ntrust her gut and\nfollow along to...",
       "choice_data_list": [
         "Why the woods?"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "If you haven't noticed, she's been\nsneaking out\nhere a lot lately. And\ntracking mud into our room\nwhen she\nsneaks back..."
     },
     {
       "name": "???",
@@ -79,14 +79,14 @@
     },
     {
       "name": "???",
-      "text": "Ahh... I reminisce on your gentle...\nwaarmth!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Eep! T-Trainer! Shakur?!",
+      "text": "Ahh... I reminisce on your gentle...\nwaarmth!",
       "choice_data_list": [
         "That voice... It's Doto!"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eep! T-Trainer! Shakur?!"
     },
     {
       "name": "Meisho Doto",
@@ -98,11 +98,7 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Uugh... Waaaahh! I was s-so scaaared!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "<i>Hic...</i> I'm so s-sorry...",
+      "text": "Uugh... Waaaahh! I was s-so scaaared!",
       "choice_data_list": [
         "You're fine now.",
         "You're okay now."
@@ -110,14 +106,18 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I decided to practice my singing here,\nbut then...\n<i>Hic!</i> I c-couldn't find my way\nback in the dark... I\nwas singing to help\nme calm down."
+      "text": "<i>Hic...</i> I'm so s-sorry..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh no, please don't apologize... Your\nwork is far\nmore important than me!",
+      "text": "I decided to practice my singing here,\nbut then...\n<i>Hic!</i> I c-couldn't find my way\nback in the dark... I\nwas singing to help\nme calm down.",
       "choice_data_list": [
         "I'm sorry I couldn't be there with you."
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh no, please don't apologize... Your\nwork is far\nmore important than me!"
     },
     {
       "name": "Meisho Doto",
@@ -145,26 +145,26 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "I u-understand... I'm so s-sorry! I won't\npractice\nsinging anymore!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh... But, what if something like this\nhappens\nagain?",
+      "text": "I u-understand... I'm so s-sorry! I won't\npractice\nsinging anymore!",
       "choice_data_list": [
         "Let's keep practicing!"
       ]
     },
     {
-      "name": "Air Shakur",
-      "text": "Figure it out on your own! I already said\nI'm not\nplaying search patrol anymore."
+      "name": "Meisho Doto",
+      "text": "Oh... But, what if something like this\nhappens\nagain?"
     },
     {
-      "name": "Meisho Doto",
-      "text": "I, um... Well, you see! I think I like\nsinging a lot\nmore now...",
+      "name": "Air Shakur",
+      "text": "Figure it out on your own! I already said\nI'm not\nplaying search patrol anymore.",
       "choice_data_list": [
         "What do you want to do?",
         "What do you want to do?"
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I, um... Well, you see! I think I like\nsinging a lot\nmore now..."
     },
     {
       "name": "Meisho Doto",
@@ -176,7 +176,12 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!"
+      "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!",
+      "choice_data_list": [
+        "I'd love to hear the song once it's finished.",
+        "I'll join in your practice too!",
+        "I'll join your practice too!"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -191,17 +196,12 @@
       "name": "Meisho Doto",
       "text": "Hyah?! You're willing to listen to m-my\nsinging?",
       "choice_data_list": [
-        "I'd love to hear the song once it's finished.",
-        "I'll join in your practice too!",
-        "I'll join your practice too!"
+        "Of course!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Wh-whaaat?! I'll practice a whole, whole\nlot, then.\nI pwo-promishe!",
-      "choice_data_list": [
-        "Of course!"
-      ]
+      "text": "Wh-whaaat?! I'll practice a whole, whole\nlot, then.\nI pwo-promishe!"
     },
     {
       "name": "",
@@ -209,14 +209,14 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "You shouldn't! I already rely on you for\ntraining...\nthis would add on so much\nwork for you!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Well... If you're really sure you want to\ncome...",
+      "text": "You shouldn't! I already rely on you for\ntraining...\nthis would add on so much\nwork for you!",
       "choice_data_list": [
         "I want to watch your growth from up close."
       ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Well... If you're really sure you want to\ncome..."
     },
     {
       "name": "",

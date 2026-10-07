@@ -15,14 +15,14 @@
     },
     {
       "name": "King Halo",
-      "text": "I still have time, right? Trainer! Get me\nmy phone!"
-    },
-    {
-      "name": "Announcer",
-      "text": "Huh? W-wait...",
+      "text": "I still have time, right? Trainer! Get me\nmy phone!",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Announcer",
+      "text": "Huh? W-wait..."
     },
     {
       "name": "King Halo",
@@ -170,26 +170,26 @@
     },
     {
       "name": "Staff",
-      "text": "I'm afraid I don't know what you mean..."
-    },
-    {
-      "name": "King Halo",
-      "text": "Trainer...",
+      "text": "I'm afraid I don't know what you mean...",
       "choice_data_list": [
         "I'm so sorry!!"
       ]
     },
     {
-      "name": "",
-      "text": "King Halo seems to be trying to hide it,\nbut she\ndoesn't look well. Her face is\npale."
+      "name": "King Halo",
+      "text": "Trainer..."
     },
     {
-      "name": "King Halo",
-      "text": "...",
+      "name": "",
+      "text": "King Halo seems to be trying to hide it,\nbut she\ndoesn't look well. Her face is\npale.",
       "choice_data_list": [
         "Let's take a short break.",
         "Let's rest for a bit."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
     },
     {
       "name": "King Halo",
@@ -205,15 +205,15 @@
     },
     {
       "name": "King Halo",
-      "text": "They're the true stars, the ones who\ndeserve the\nsupport. I'm sure they'll\nannounce their intentions\nfor the spring\nTenno Sho."
-    },
-    {
-      "name": "King Halo",
-      "text": "...I'm sorry.",
+      "text": "They're the true stars, the ones who\ndeserve the\nsupport. I'm sure they'll\nannounce their intentions\nfor the spring\nTenno Sho.",
       "choice_data_list": [
         "Cut it out with jokes like that.",
         "Please stop joking around like that."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...I'm sorry."
     },
     {
       "name": "King Halo",
@@ -257,11 +257,7 @@
     },
     {
       "name": "King Halo",
-      "text": "..."
-    },
-    {
-      "name": "King Halo",
-      "text": "Are you sure you want to hear that\nanswer? There\nmay not be any turning\nback for you either.",
+      "text": "...",
       "choice_data_list": [
         "What do you want to do?",
         "What do you want to do?"
@@ -269,10 +265,14 @@
     },
     {
       "name": "King Halo",
-      "text": "...Heh.",
+      "text": "Are you sure you want to hear that\nanswer? There\nmay not be any turning\nback for you either.",
       "choice_data_list": [
         "Sure."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...Heh."
     },
     {
       "name": "King Halo",

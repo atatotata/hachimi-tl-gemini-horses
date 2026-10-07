@@ -7,7 +7,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Hey, Big Bro. About today's training..."
+      "text": "Hey, Big Bro. About today's training...",
+      "choice_data_list": [
+        "A shoot?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -18,21 +21,18 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, yeah, that too. But also, is it okay if\nwe end a\nlittle early today?",
-      "choice_data_list": [
-        "A shoot?"
-      ]
+      "text": "Oh, yeah, that too. But also, is it okay if\nwe end a\nlittle early today?"
     },
     {
       "name": "Curren Chan",
-      "text": "I'll make up for the lost time by working\nextra\nhard! Whaddya say?"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "I've got an UmaTube vid I wanna upload\ntoday,\nbut I'm not done editing it yet.",
+      "text": "I'll make up for the lost time by working\nextra\nhard! Whaddya say?",
       "choice_data_list": [
         "Sure, but... why?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I've got an UmaTube vid I wanna upload\ntoday,\nbut I'm not done editing it yet."
     },
     {
       "name": "Curren Chan",
@@ -40,14 +40,14 @@
     },
     {
       "name": "Monologue",
-      "text": "She's busy managing all of her different\nsocial\nmedia accounts in preparation for\nthe Cutie ♪\nDerby. I'd love to lighten\nher load, but..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "As long as we can end early, that's all I\nneed!",
+      "text": "She's busy managing all of her different\nsocial\nmedia accounts in preparation for\nthe Cutie ♪\nDerby. I'd love to lighten\nher load, but...",
       "choice_data_list": [
         "Is there anything I can do?"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "As long as we can end early, that's all I\nneed!"
     },
     {
       "name": "Curren Chan",
@@ -71,14 +71,14 @@
     },
     {
       "name": "Monologue",
-      "text": "(Admire Vega. She's a year above Curren\nChan in\nthe Twinkle Series, but she's\nalso her roommate,\nso I hear about her\nfrom time to time.)"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...",
+      "text": "(Admire Vega. She's a year above Curren\nChan in\nthe Twinkle Series, but she's\nalso her roommate,\nso I hear about her\nfrom time to time.)",
       "choice_data_list": [
         "Uhm... did you need something?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
       "name": "Monologue",
@@ -86,21 +86,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...I came to complain about Curren."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "She's been staying up all night recently,\nand it's\nbothering me.",
+      "text": "...I came to complain about Curren.",
       "choice_data_list": [
         "A complaint?"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "And it's annoying that she's always on\nher phone\nor computer.",
+      "text": "She's been staying up all night recently,\nand it's\nbothering me.",
       "choice_data_list": [
         "Huh...?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "And it's annoying that she's always on\nher phone\nor computer."
     },
     {
       "name": "Admire Vega",
@@ -112,15 +112,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It's your job to manage her, isn't it? Do\nyou call\nthis doing your job? What are\nyou gonna do if she\nworks herself sick\nand collapses?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Did you hear me?! I'm not\nworried—these are\ncomplaints!",
+      "text": "It's your job to manage her, isn't it? Do\nyou call\nthis doing your job? What are\nyou gonna do if she\nworks herself sick\nand collapses?",
       "choice_data_list": [
         "Sorry for making you worry, man.",
         "Sorry for making you worry."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Did you hear me?! I'm not\nworried—these are\ncomplaints!"
     },
     {
       "name": "Admire Vega",
@@ -132,22 +132,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Admire Vega walks out... and I spot\nsomething\nshiny on top of the shelf by\nthe door."
-    },
-    {
-      "name": "Monologue",
-      "text": "It probably belongs to Admire Vega. I\nhave to go\nafter her!",
+      "text": "Admire Vega walks out... and I spot\nsomething\nshiny on top of the shelf by\nthe door.",
       "choice_data_list": [
         "...The dorm room key?"
       ]
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "...In summary, unable to find Ayabe,\nyou've come\nto me, the leader of Rito\nDorm?"
+      "name": "Monologue",
+      "text": "It probably belongs to Admire Vega. I\nhave to go\nafter her!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I believe I grasp the situation. But, you\nknow,\nAyabe's not the type to—",
+      "text": "...In summary, unable to find Ayabe,\nyou've come\nto me, the leader of Rito\nDorm?",
       "choice_data_list": [
         "Yeah...",
         "Yeah..."
@@ -155,18 +151,18 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Oh! I get it now. That Ayabe is always so\n\nindirect..."
+      "text": "I believe I grasp the situation. But, you\nknow,\nAyabe's not the type to—"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ahem. Excuse me. I know Curren is your\ntrainee,\nbut you are aware it's against\nthe rules for trainers\nto come into the\ndorm, right?",
+      "text": "Oh! I get it now. That Ayabe is always so\n\nindirect...",
       "choice_data_list": [
         "……？"
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "So you realize, then, that there's nothing\nmore I\ncan do for you.",
+      "text": "Ahem. Excuse me. I know Curren is your\ntrainee,\nbut you are aware it's against\nthe rules for trainers\nto come into the\ndorm, right?",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
@@ -174,18 +170,22 @@
     },
     {
       "name": "Fuji Kiseki",
+      "text": "So you realize, then, that there's nothing\nmore I\ncan do for you."
+    },
+    {
+      "name": "Fuji Kiseki",
       "text": "...But, y'know, being dorm leader is\nmuch more\ndifficult than people make it\nout to be."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I might even end up nodding off for,\nsay... ten\nminutes."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "...I'm actually worried about Curren too.",
+      "text": "I might even end up nodding off for,\nsay... ten\nminutes.",
       "choice_data_list": [
         "……！"
       ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...I'm actually worried about Curren too."
     },
     {
       "name": "Fuji Kiseki",
@@ -193,14 +193,14 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Knock, knock.</i>"
-    },
-    {
-      "name": "Monologue",
-      "text": "...I wait, but she doesn't answer. I don't\nhear a\nsingle sound from inside her\nroom...",
+      "text": "<i>Knock, knock.</i>",
       "choice_data_list": [
         "Curren?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "...I wait, but she doesn't answer. I don't\nhear a\nsingle sound from inside her\nroom..."
     },
     {
       "name": "Admire Vega",
@@ -212,14 +212,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "<i>Zzz... Zzz...</i>"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "...Hm? Someone there?",
+      "text": "<i>Zzz... Zzz...</i>",
       "choice_data_list": [
         "(Phew, she's just asleep...)"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hm? Someone there?"
     },
     {
       "name": "Curren Chan",
@@ -247,7 +247,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Anyway, I'm sorry for worrying you. I'm\ndoing just\nfine, though!"
+      "text": "Anyway, I'm sorry for worrying you. I'm\ndoing just\nfine, though!",
+      "choice_data_list": [
+        "Still..."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -258,10 +261,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Looking around her room, I can see that,\nwhile it's\nclean enough at first glance,\nthere are a lot of\nenergy drink and\ncoffee cans hidden out of\nsight...",
-      "choice_data_list": [
-        "Still..."
-      ]
+      "text": "Looking around her room, I can see that,\nwhile it's\nclean enough at first glance,\nthere are a lot of\nenergy drink and\ncoffee cans hidden out of\nsight..."
     },
     {
       "name": "Monologue",
@@ -281,14 +281,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "This was my plan, but I didn't realize\nhow much\ntime classes, training, and the\nconstant social\nmedia updates would\ntake! I'm worn out!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "But still... Please let me do this.",
+      "text": "This was my plan, but I didn't realize\nhow much\ntime classes, training, and the\nconstant social\nmedia updates would\ntake! I'm worn out!",
       "choice_data_list": [
         "Then as I thoughtâ"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "But still... Please let me do this."
     },
     {
       "name": "Curren Chan",
@@ -300,14 +300,14 @@
     },
     {
       "name": "Curren Chan",
-      "text": "I refuse to compromise or give up on my\ndream!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Besides, remember what you told me at\nthe shrine\nback around New Year's?",
+      "text": "I refuse to compromise or give up on my\ndream!",
       "choice_data_list": [
         "Curren..."
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Besides, remember what you told me at\nthe shrine\nback around New Year's?"
     },
     {
       "name": "Curren Chan",
@@ -347,21 +347,21 @@
     },
     {
       "name": "Curren Chan",
-      "text": "This is it—the make-or-break point. So\nplease, let\nme do this!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "...Please?",
+      "text": "This is it—the make-or-break point. So\nplease, let\nme do this!",
       "choice_data_list": [
         "……"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "R-really?!",
+      "text": "...Please?",
       "choice_data_list": [
         "...All right!"
       ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "R-really?!"
     },
     {
       "name": "Curren Chan",
@@ -377,15 +377,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Maybe it's my job as her trainer to stop\nher. If she\nbreaks down here, she'll lose\neverything. On top\nof that, I do really\nwant her to rest from the\nbottom of my\nheart, but..."
-    },
-    {
-      "name": "Monologue",
-      "text": "From everything Curren Chan and I have\nbeen\nthrough together, I know that the\nbest thing I can\ndo to support her is to\nbelieve in her.",
+      "text": "Maybe it's my job as her trainer to stop\nher. If she\nbreaks down here, she'll lose\neverything. On top\nof that, I do really\nwant her to rest from the\nbottom of my\nheart, but...",
       "choice_data_list": [
         "I believe in your strength.",
         "I believe in your strength."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "From everything Curren Chan and I have\nbeen\nthrough together, I know that the\nbest thing I can\ndo to support her is to\nbelieve in her."
     },
     {
       "name": "Curren Chan",
@@ -401,7 +401,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Big Brooo! How was I?"
+      "text": "Big Brooo! How was I?",
+      "choice_data_list": [
+        "Nailed it!",
+        "Perfect!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -413,11 +417,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Yay! ♪ Keep praising me!",
-      "choice_data_list": [
-        "Nailed it!",
-        "Perfect!"
-      ]
+      "text": "Yay! ♪ Keep praising me!"
     },
     {
       "name": "Monologue",

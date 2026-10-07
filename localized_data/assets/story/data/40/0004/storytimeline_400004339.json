@@ -15,22 +15,22 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Oh! Hey, you there! Would you mind\ncoming over\nhere for a sec?"
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "Are you free to talk? I've got a question\nfor you.",
+      "text": "Oh! Hey, you there! Would you mind\ncoming over\nhere for a sec?",
       "choice_data_list": [
         "...Me?",
         "...Me?"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Mr. C.B. has a stern look on her face. I\ncan tell\nshe's about to ask a complex\nquestion about\nracing.",
+      "name": "Mr. C.B.",
+      "text": "Are you free to talk? I've got a question\nfor you.",
       "choice_data_list": [
         "*G-Gulp...*"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Mr. C.B. has a stern look on her face. I\ncan tell\nshe's about to ask a complex\nquestion about\nracing."
     },
     {
       "name": "Monologue",
@@ -38,14 +38,14 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "How can I get better at cooking?"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "C.B. came to ask me for advice on living\nalone.",
+      "text": "How can I get better at cooking?",
       "choice_data_list": [
         "...Huh? ...Cooking?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "C.B. came to ask me for advice on living\nalone."
     },
     {
       "name": "Maruzensky",
@@ -69,11 +69,7 @@
     },
     {
       "name": "Monologue",
-      "text": "I learn that there's more to Mr. C.B. than\nI\nthought. Although I do find myself\nwanting to\ngive her heaps of advice..."
-    },
-    {
-      "name": "Mr. C.B.",
-      "text": "Hm? Really?",
+      "text": "I learn that there's more to Mr. C.B. than\nI\nthought. Although I do find myself\nwanting to\ngive her heaps of advice...",
       "choice_data_list": [
         "I can't really talk either, though...",
         "Not that I'm one to talk either, though..."
@@ -81,17 +77,21 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Ugh, tell me about it!",
+      "text": "Hm? Really?",
       "choice_data_list": [
         "My laundry always piles up so fast..."
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "I hear that!",
+      "text": "Ugh, tell me about it!",
       "choice_data_list": [
         "I always put off chores like cleaning anyway."
       ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I hear that!"
     },
     {
       "name": "Maruzensky",
@@ -99,25 +99,25 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "I'm too lazy to cook every night, so I just\nmake a\nmassive portion of curry in\nadvance!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That great big washing machine in the\ndorm really\ncomes in handy if you've got\na heap of laundry to\ndo. You can wash it\nall at once.",
+      "text": "I'm too lazy to cook every night, so I just\nmake a\nmassive portion of curry in\nadvance!",
       "choice_data_list": [
         "I feel ya so much!!"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "And never store curry at room\ntemperature. It\nspoils really fast, so\nmake sure you put it in the\nfridge, or\nfreeze it right after cooking."
+      "text": "That great big washing machine in the\ndorm really\ncomes in handy if you've got\na heap of laundry to\ndo. You can wash it\nall at once."
     },
     {
       "name": "Maruzensky",
-      "text": "Heh, I guess a little. ♪",
+      "text": "And never store curry at room\ntemperature. It\nspoils really fast, so\nmake sure you put it in the\nfridge, or\nfreeze it right after cooking.",
       "choice_data_list": [
         "As expected, you really know your stuff!"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Heh, I guess a little. ♪"
     },
     {
       "name": "Mr. C.B.",
@@ -125,15 +125,15 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Having someone cook three meals a day\nfor you\nis pretty incredible when you\nthink about it."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Oh, yes, I'd almost forgotten what this\nwas all\nabout.",
+      "text": "Having someone cook three meals a day\nfor you\nis pretty incredible when you\nthink about it.",
       "choice_data_list": [
         "Come to think of it, I was asked about cooking.",
         "Come to think of it, I was asked about cooking, wasn't I?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, yes, I'd almost forgotten what this\nwas all\nabout."
     },
     {
       "name": "Mr. C.B.",
@@ -141,7 +141,12 @@
     },
     {
       "name": "Monologue",
-      "text": "My conversation with Mr. C.B. painted a\nclear\npicture of a laid-back, orderless\nlifestyle. The\nbest advice for someone\nlike her would be..."
+      "text": "My conversation with Mr. C.B. painted a\nclear\npicture of a laid-back, orderless\nlifestyle. The\nbest advice for someone\nlike her would be...",
+      "choice_data_list": [
+        "Even slapdash cooking is just like you.",
+        "Even slapdash cooking is very you, though.",
+        "Let's try our hand at some free-form original cooking!"
+      ]
     },
     {
       "name": "Monologue",
@@ -154,12 +159,7 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Haha! You sure know how to give a\ncompliment.",
-      "choice_data_list": [
-        "Even slapdash cooking is just like you.",
-        "Even slapdash cooking is very you, though.",
-        "Let's try our hand at some free-form original cooking!"
-      ]
+      "text": "Haha! You sure know how to give a\ncompliment."
     },
     {
       "name": "Mr. C.B.",
@@ -171,14 +171,14 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Thanks, you two! I'd like to invite you\nboth to\ndinner to show my appreciation.\nHow about it?"
-    },
-    {
-      "name": "Monologue",
-      "text": "Although Mr. C.B.'s approach to cooking\nis\nundoubtedly crude, the results are\ndelicious.",
+      "text": "Thanks, you two! I'd like to invite you\nboth to\ndinner to show my appreciation.\nHow about it?",
       "choice_data_list": [
         "Definitely!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Although Mr. C.B.'s approach to cooking\nis\nundoubtedly crude, the results are\ndelicious."
     },
     {
       "name": "Mr. C.B.",

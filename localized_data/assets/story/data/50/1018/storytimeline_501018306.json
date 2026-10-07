@@ -15,11 +15,7 @@
     },
     {
       "name": "Monologue",
-      "text": "The race has just finished, but Air\nGroove is\nablaze with fighting spirit!"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Indeed.",
+      "text": "The race has just finished, but Air\nGroove is\nablaze with fighting spirit!",
       "choice_data_list": [
         "We'll have to show an even better run at the Oaks than today.",
         "You'll have to show an even better run at the Oaks than today."
@@ -27,15 +23,19 @@
     },
     {
       "name": "Air Groove",
-      "text": "Let's get back. I want to go over today's\nrace and\nstart strategizing for the\nJapanese Oaks."
+      "text": "Indeed."
     },
     {
-      "name": "Monologue",
-      "text": "The Japanese Oaks is coming up fast.\nWe can't\nafford to rest on our laurels!",
+      "name": "Air Groove",
+      "text": "Let's get back. I want to go over today's\nrace and\nstart strategizing for the\nJapanese Oaks.",
       "choice_data_list": [
         "Yeah!",
         "Yes!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The Japanese Oaks is coming up fast.\nWe can't\nafford to rest on our laurels!"
     }
   ]
 }

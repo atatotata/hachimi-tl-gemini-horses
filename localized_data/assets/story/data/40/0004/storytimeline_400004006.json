@@ -7,25 +7,25 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Murmur... Murmur...</i>"
-    },
-    {
-      "name": "Reporter A",
-      "text": "Just a smidgeon of info will do! Please\nallow us to\ncorroborate this story!",
+      "text": "<i>Murmur... Murmur...</i>",
       "choice_data_list": [
         "(Is that noise coming from the school gate...?)"
       ]
     },
     {
-      "name": "Tazuna Hayakawa",
-      "text": "I-I'm very sorry, but no! You're\ninconveniencing\nour students, so I'd\nappreciate it if you would\nleave the\narea!"
+      "name": "Reporter A",
+      "text": "Just a smidgeon of info will do! Please\nallow us to\ncorroborate this story!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "T-Trainer?! Oh no, you mustn't make an\n\nappearance!",
+      "text": "I-I'm very sorry, but no! You're\ninconveniencing\nour students, so I'd\nappreciate it if you would\nleave the\narea!",
       "choice_data_list": [
         "Tazuna-san, what's wrong!?"
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "T-Trainer?! Oh no, you mustn't make an\n\nappearance!"
     },
     {
       "name": "Reporter B",
@@ -33,28 +33,28 @@
     },
     {
       "name": "Reporter B",
-      "text": "Excuse me! Would you happen to be\nTrainer\n\n<username>?"
-    },
-    {
-      "name": "Reporter B",
-      "text": "Are the rumors true?! Are you forcing\nyour trainee\nto undergo brutal training?!",
+      "text": "Excuse me! Would you happen to be\nTrainer\n\n<username>?",
       "choice_data_list": [
         "That's true, but..."
       ]
     },
     {
       "name": "Reporter B",
-      "text": "They say you make her run late into the\nnight\nevery day, or make her sit atop a\nstone for three\ndays straight, or make\nher do laps while\nhandstand walking.",
+      "text": "Are the rumors true?! Are you forcing\nyour trainee\nto undergo brutal training?!",
       "choice_data_list": [
         "Wait, what?!"
       ]
     },
     {
       "name": "Reporter B",
-      "text": "But there's already been a news story\npublished\nabout it!",
+      "text": "They say you make her run late into the\nnight\nevery day, or make her sit atop a\nstone for three\ndays straight, or make\nher do laps while\nhandstand walking.",
       "choice_data_list": [
         "T-There is absolutely no truth to that!"
       ]
+    },
+    {
+      "name": "Reporter B",
+      "text": "But there's already been a news story\npublished\nabout it!"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -158,14 +158,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I'm aware that this is a selfish request!\nBut would\nyou please allow news\ncoverage to continue as\nnormal?"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "I don't want this incident to be a damper\non the\nhype surrounding the Twinkle\nStar Climax.",
+      "text": "I'm aware that this is a selfish request!\nBut would\nyou please allow news\ncoverage to continue as\nnormal?",
       "choice_data_list": [
         "Why go so far...?"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I don't want this incident to be a damper\non the\nhype surrounding the Twinkle\nStar Climax."
     },
     {
       "name": "Reporter Otonashi",
@@ -201,14 +201,14 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "It will be called \"Up Close and Personal\nwith\nTrainer\n<username>\"!"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes! By following you every day, I'll be\nable to\nshow the world your amazing\ntraining methods.",
+      "text": "It will be called \"Up Close and Personal\nwith\nTrainer\n<username>\"!",
       "choice_data_list": [
         "A-An in-depth feature?!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes! By following you every day, I'll be\nable to\nshow the world your amazing\ntraining methods."
     },
     {
       "name": "Reporter Otonashi",
@@ -220,14 +220,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I suppose if it's her conducting the\nreport, then it\nshouldn't place too much\nof a burden on you."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "But aren't you awfully busy preparing for\nthe\nevent, Reporter Otonashi?",
+      "text": "I suppose if it's her conducting the\nreport, then it\nshouldn't place too much\nof a burden on you.",
       "choice_data_list": [
         "That's true... With that much knowledge..."
       ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "But aren't you awfully busy preparing for\nthe\nevent, Reporter Otonashi?"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -267,11 +267,7 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Please... Allow me to chase my dream for\na little\nwhile longer!"
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Good morning! Today marks the\nbeginning of my\ncoverage on you. I\nappreciate your cooperation!",
+      "text": "Please... Allow me to chase my dream for\na little\nwhile longer!",
       "choice_data_list": [
         "...I—",
         "...I—"
@@ -279,21 +275,25 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "To be honest, I'm actually a little\nsurprised that\nyou gave the okay."
+      "text": "Good morning! Today marks the\nbeginning of my\ncoverage on you. I\nappreciate your cooperation!"
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Hm? Dream, you say?",
+      "text": "To be honest, I'm actually a little\nsurprised that\nyou gave the okay.",
       "choice_data_list": [
         "Because I didn't want to close the door on anyone's dreams."
       ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "R-right! I'll do my best not to get in your\nway!",
+      "text": "Hm? Dream, you say?",
       "choice_data_list": [
         "No problem. I look forward to working with you!"
       ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "R-right! I'll do my best not to get in your\nway!"
     },
     {
       "name": "Monologue",

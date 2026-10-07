@@ -62,20 +62,13 @@
       "name": "Former Mile King Trainer",
       "text": "...So you felt it too. Her running was \nstrangely disjointed, wasn't it?",
       "choice_data_list": [
-        "Gran's running... something felt off about it..."
-      ]
-    },
-    {
-      "name": "",
-      "text": "I run toward her at full speed. —From \nbeyond the underground horse path, I could \nsee Gran Alegria walking over.",
-      "choice_data_list": [
         "I'm heading out!",
         "I'm heading out!"
       ]
     },
     {
-      "name": "Gran Alegria",
-      "text": "Ah... Trainer-san...",
+      "name": "",
+      "text": "I run toward her at full speed. —From \nbeyond the underground horse path, I could \nsee Gran Alegria walking over.",
       "choice_data_list": [
         "Gran! Are you all right!?",
         "Gran! Are you okay!?"
@@ -83,10 +76,14 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "Yes, no injuries in particular... \n............But...",
+      "text": "Ah... Trainer-san...",
       "choice_data_list": [
         "Did you hurt yourself somewhere?"
       ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yes, no injuries in particular... \n............But..."
     },
     {
       "name": "Gran Alegria",
@@ -112,10 +109,7 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "I was so scared... I thought you were \nhurt...!",
-      "choice_data_list": [
-        "Gran...!"
-      ]
+      "text": "I was so scared... I thought you were \nhurt...!"
     },
     {
       "name": "Gran Alegria",
@@ -132,11 +126,7 @@
     },
     {
       "name": "",
-      "text": "I never should have made you feel so \nhelpless and alone...",
-      "choice_data_list": [
-        "(If only I'd noticed that something was wrong...)",
-        "(If only I had noticed something was wrong...)"
-      ]
+      "text": "I never should have made you feel so \nhelpless and alone..."
     },
     {
       "name": "Former Mile King Trainer",
@@ -153,11 +143,7 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "No...! It's just that I relied too much on \nmy \"gut feeling\"!",
-      "choice_data_list": [
-        "No, my bad for not noticing sooner.",
-        "I'm the one who should apologize for not noticing sooner."
-      ]
+      "text": "No...! It's just that I relied too much on \nmy \"gut feeling\"!"
     },
     {
       "name": "Gran Alegria",
@@ -169,11 +155,7 @@
     },
     {
       "name": "",
-      "text": "Her running was so genius-level that I \nassumed the accuracy of her \"intuition\" \nwas flawless as well.",
-      "choice_data_list": [
-        "I made the call that it'd be fine, too...",
-        "I also judged that it would be all right."
-      ]
+      "text": "Her running was so genius-level that I \nassumed the accuracy of her \"intuition\" \nwas flawless as well."
     },
     {
       "name": "",
@@ -190,11 +172,7 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "Trainer...",
-      "choice_data_list": [
-        "I'll strive to understand you even better than you know yourself.",
-        "I'll strive to understand you even better than you do yourself."
-      ]
+      "text": "Trainer..."
     },
     {
       "name": "Former Mile King Trainer",
@@ -205,10 +183,7 @@
     },
     {
       "name": "Former Mile King Trainer",
-      "text": "—So, Gran. You don't have any reluctance \ntoward running, do you?",
-      "choice_data_list": [
-        "Yes...!"
-      ]
+      "text": "—So, Gran. You don't have any reluctance \ntoward running, do you?"
     },
     {
       "name": "Gran Alegria",
@@ -219,10 +194,7 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "...Um, truth be told... Pushing myself too \nhard kinda scares me...",
-      "choice_data_list": [
-        "You had quite a scare. Don't push yourself."
-      ]
+      "text": "...Um, truth be told... Pushing myself too \nhard kinda scares me..."
     },
     {
       "name": "Gran Alegria",
@@ -254,11 +226,7 @@
     },
     {
       "name": "",
-      "text": "Conquering three categories means winning \nat Sprint, Mile, and Medium distance. If \nwe avoid Medium distance—",
-      "choice_data_list": [
-        "It's your future, so there's no need to hold back.",
-        "It's your future, so there's no need to hold back."
-      ]
+      "text": "Conquering three categories means winning \nat Sprint, Mile, and Medium distance. If \nwe avoid Medium distance—"
     },
     {
       "name": "Former Mile King Trainer",
@@ -269,10 +237,7 @@
     },
     {
       "name": "",
-      "text": "There was also the sprint GⅠ, the \nSprinters Stakes, but its timing right \nafter summer gave me pause.",
-      "choice_data_list": [
-        "Then, how about the 1400m 'Hanshin Cup'?"
-      ]
+      "text": "There was also the sprint GⅠ, the \nSprinters Stakes, but its timing right \nafter summer gave me pause."
     },
     {
       "name": "",
@@ -323,10 +288,7 @@
     },
     {
       "name": "",
-      "text": "Overseas races differ greatly from Japan \nin both course characteristics and race \ndevelopment. One could say aptitude \nmatters even more than in domestic races.",
-      "choice_data_list": [
-        "The turf and the ground over there are completely different, too."
-      ]
+      "text": "Overseas races differ greatly from Japan \nin both course characteristics and race \ndevelopment. One could say aptitude \nmatters even more than in domestic races."
     },
     {
       "name": "Gran Alegria",
@@ -347,10 +309,7 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "You're right! First, I'll do my best in \nthe Hanshin Cup!",
-      "choice_data_list": [
-        "Let's keep moving forward, one steady step at a time!"
-      ]
+      "text": "You're right! First, I'll do my best in \nthe Hanshin Cup!"
     }
   ]
 }

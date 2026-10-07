@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "Don't worry, Big Brother... I just hurt\nmyself a\nlittle... Ow!"
+      "text": "Don't worry, Big Brother... I just hurt\nmyself a\nlittle... Ow!",
+      "choice_data_list": [
+        "You should lie down."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -14,14 +17,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I'm fine. I won't let an injury like this\nstop me from\ntraining.",
-      "choice_data_list": [
-        "You should lie down."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Don't worry!"
+      "text": "I'm fine. I won't let an injury like this\nstop me from\ntraining."
     },
     {
       "name": "Rice Shower",
@@ -33,7 +29,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh... I'm sorry…",
+      "text": "Don't worry!",
       "choice_data_list": [
         "Even if you say that, I'm worried...",
         "Even if you say that, I'm still worried...",
@@ -42,7 +38,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I just... wanted you to know that I can\nkeep\nworking hard."
+      "text": "Oh... I'm sorry…"
     },
     {
       "name": "Rice Shower",
@@ -53,10 +49,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Oh… Thanks. In that case, I'll rest...",
+      "text": "I just... wanted you to know that I can\nkeep\nworking hard.",
       "choice_data_list": [
         "I know."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh… Thanks. In that case, I'll rest..."
     },
     {
       "name": "Rice Shower",
@@ -76,14 +76,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Like, maybe upper-body excer—"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Okay... <i>Sigh...</i> Why do I always mess up\nlike this?",
+      "text": "Like, maybe upper-body excer—",
       "choice_data_list": [
         "Get some rest."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Okay... <i>Sigh...</i> Why do I always mess up\nlike this?"
     },
     {
       "name": "Monologue",

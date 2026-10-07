@@ -7,14 +7,14 @@
     },
     {
       "name": "Inari One",
-      "text": "I think it's about time to cash in that\ncheck! You\nstill got that vacation ticket\non you?"
-    },
-    {
-      "name": "Inari One",
-      "text": "Nice! Then let's get a move on. Our\ncelebratory\nhot spring getaway starts\nnow!",
+      "text": "I think it's about time to cash in that\ncheck! You\nstill got that vacation ticket\non you?",
       "choice_data_list": [
         "Of course!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Nice! Then let's get a move on. Our\ncelebratory\nhot spring getaway starts\nnow!"
     },
     {
       "name": "Monologue",
@@ -38,7 +38,11 @@
     },
     {
       "name": "Inari One",
-      "text": "Boss, you go on without me! I'm taggin'\nin for\nround two!"
+      "text": "Boss, you go on without me! I'm taggin'\nin for\nround two!",
+      "choice_data_list": [
+        "Make sure you don't get dizzy in the bath!",
+        "Don't stay in too long and overheat, okay!"
+      ]
     },
     {
       "name": "Inari One",
@@ -50,11 +54,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Heh, who do ya take me for? I'm the\nmighty Inari\nOne! Only thing I'll be givin'\nmyself is a great\ntime!",
-      "choice_data_list": [
-        "Make sure you don't get dizzy in the bath!",
-        "Don't stay in too long and overheat, okay!"
-      ]
+      "text": "Heh, who do ya take me for? I'm the\nmighty Inari\nOne! Only thing I'll be givin'\nmyself is a great\ntime!"
     },
     {
       "name": "Inari One",
@@ -62,11 +62,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Inari One stays in the extra hot water for\ntoo long\nand winds up becoming dizzy."
-    },
-    {
-      "name": "Inari One",
-      "text": "Yeah, I just needed to lie down for a\nbit... But I'm\nall good now!",
+      "text": "Inari One stays in the extra hot water for\ntoo long\nand winds up becoming dizzy.",
       "choice_data_list": [
         "Are you okay?",
         "Are you okay?"
@@ -74,18 +70,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Hup!"
+      "text": "Yeah, I just needed to lie down for a\nbit... But I'm\nall good now!"
     },
     {
       "name": "Inari One",
-      "text": "Nope. I'm not spendin' the rest of this\nexperience\nin dreamland!",
+      "text": "Hup!",
       "choice_data_list": [
         "Maybe you shouldn't move around just yet..."
       ]
     },
     {
       "name": "Inari One",
-      "text": "I wanna go cool off in the night air. Let's\nget\ngoin'!"
+      "text": "Nope. I'm not spendin' the rest of this\nexperience\nin dreamland!"
     },
     {
       "name": "Inari One",
@@ -93,14 +89,18 @@
     },
     {
       "name": "Inari One",
-      "text": "Phew... It sure is quiet 'round here. Far\ncry from\nthe hustle and bustle I'm used\nto."
+      "text": "I wanna go cool off in the night air. Let's\nget\ngoin'!"
     },
     {
       "name": "Inari One",
-      "text": "Haha, that's not what I mean. I like a\nchange of\npace every once in a while.",
+      "text": "Phew... It sure is quiet 'round here. Far\ncry from\nthe hustle and bustle I'm used\nto.",
       "choice_data_list": [
         "Bored?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Haha, that's not what I mean. I like a\nchange of\npace every once in a while."
     },
     {
       "name": "Inari One",
@@ -116,15 +116,15 @@
     },
     {
       "name": "Inari One",
-      "text": "Besides, it's still a looong road ahead of\nus."
-    },
-    {
-      "name": "Inari One",
-      "text": "...Hm? Ya hear that comin' from over\nthere?",
+      "text": "Besides, it's still a looong road ahead of\nus.",
       "choice_data_list": [
         "...Yeah, you're right.",
         "Right..."
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...Hm? Ya hear that comin' from over\nthere?"
     },
     {
       "name": "Monologue",
@@ -140,7 +140,10 @@
     },
     {
       "name": "Inari One",
-      "text": "Ya feel that adrenaline rush?! Let's\ncheck it out!"
+      "text": "Ya feel that adrenaline rush?! Let's\ncheck it out!",
+      "choice_data_list": [
+        "Wh-What happened to my peaceful life!?"
+      ]
     },
     {
       "name": "Inari One",
@@ -151,10 +154,7 @@
     },
     {
       "name": "Inari One",
-      "text": "I've had my fill! Everyday's a festival for\nus Edo\nfolks! Come on!",
-      "choice_data_list": [
-        "Wh-What happened to my peaceful life!?"
-      ]
+      "text": "I've had my fill! Everyday's a festival for\nus Edo\nfolks! Come on!"
     },
     {
       "name": "Monologue",
@@ -162,14 +162,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Wahoo! It's festival time!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Hehe.",
+      "text": "Wahoo! It's festival time!",
       "choice_data_list": [
         "It's festival time! Let's goooo!!"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hehe."
     },
     {
       "name": "Monologue",

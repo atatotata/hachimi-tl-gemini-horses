@@ -11,15 +11,15 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "A-a-at this rate, Opera O is going to—"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "I just performed a divination predicting\nthat a\ncatastrophic disaster, too terrible\nfor words to\ndescribe, will befall Opera\nO!",
+      "text": "A-a-at this rate, Opera O is going to—",
       "choice_data_list": [
         "What's wrong?!",
         "What's wrong?!"
       ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I just performed a divination predicting\nthat a\ncatastrophic disaster, too terrible\nfor words to\ndescribe, will befall Opera\nO!"
     },
     {
       "name": "Meisho Doto",
@@ -143,7 +143,13 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Th-thank goodness! Opera O is saved!"
+      "text": "Th-thank goodness! Opera O is saved!",
+      "choice_data_list": [
+        "Your sincerity must have reached them.",
+        "Your sincerity reached them.",
+        "I wonder what would have happened if we'd just left it alone...",
+        "I wonder what would have happened if we'd just left it alone."
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -157,13 +163,7 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Hnnngh? Are you saying... the demon\nhad no\neffect on Opera O's\ndecision-making?",
-      "choice_data_list": [
-        "Your sincerity must have reached them.",
-        "Your sincerity reached them.",
-        "I wonder what would have happened if we'd just left it alone...",
-        "I wonder what would have happened if we'd just left it alone."
-      ]
+      "text": "Hnnngh? Are you saying... the demon\nhad no\neffect on Opera O's\ndecision-making?"
     },
     {
       "name": "Meisho Doto",
@@ -171,14 +171,14 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Hm?! Speaking of which, Trainer... Aren't\nyou\nstanding right where Opera O was a\nmoment ago?"
-    },
-    {
-      "name": "Monologue",
-      "text": "That's when a bicycle furiously speeds\nby me,\ngoing right over the puddle of\nwater next to\nwhere I'm standing.",
+      "text": "Hm?! Speaking of which, Trainer... Aren't\nyou\nstanding right where Opera O was a\nmoment ago?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "That's when a bicycle furiously speeds\nby me,\ngoing right over the puddle of\nwater next to\nwhere I'm standing."
     },
     {
       "name": "Doto and Fukukitaru",

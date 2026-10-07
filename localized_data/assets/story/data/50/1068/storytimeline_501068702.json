@@ -19,14 +19,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Can't really sell something without\npeople to sell\nto..."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "The whole market does feel deserted...\nbut why?\nPeople should be flocking here\nwith food this\nyummy on sale!",
+      "text": "Can't really sell something without\npeople to sell\nto...",
       "choice_data_list": [
         "Now that you mention it, foot traffic has..."
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "The whole market does feel deserted...\nbut why?\nPeople should be flocking here\nwith food this\nyummy on sale!"
     },
     {
       "name": "Nice Nature",
@@ -42,11 +42,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Um... If it's all right with you, I'd like to\nhelp you\nout!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Yeah, and you're going to help! Oh, but\nfirst, let's\nbuy some extra bread and jam.",
+      "text": "Um... If it's all right with you, I'd like to\nhelp you\nout!",
       "choice_data_list": [
         "Got something in mind?",
         "Do you have something in mind?"
@@ -54,18 +50,22 @@
     },
     {
       "name": "Kitasan Black",
+      "text": "Yeah, and you're going to help! Oh, but\nfirst, let's\nbuy some extra bread and jam."
+    },
+    {
+      "name": "Kitasan Black",
       "text": "Okay! Now we've gotta spread the jam\non the\nbread, and..."
     },
     {
       "name": "Kitasan Black",
-      "text": "Here, Trainer! Let's tuck in!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "We've got apricot, strawberry, kiwi, and\n\nblueberry jam! Heap on as much as you\nlike!",
+      "text": "Here, Trainer! Let's tuck in!",
       "choice_data_list": [
         "Wait!?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "We've got apricot, strawberry, kiwi, and\n\nblueberry jam! Heap on as much as you\nlike!"
     },
     {
       "name": "Kitasan Black",
@@ -77,14 +77,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "How is it?"
-    },
-    {
-      "name": "Passerby",
-      "text": "That does look really tasty... Are they\nselling that\nat an event nearby or\nsomething?",
+      "text": "How is it?",
       "choice_data_list": [
         "I-It's delicious...!!"
       ]
+    },
+    {
+      "name": "Passerby",
+      "text": "That does look really tasty... Are they\nselling that\nat an event nearby or\nsomething?"
     },
     {
       "name": "Kitasan Black",
@@ -92,26 +92,26 @@
     },
     {
       "name": "Passerby",
-      "text": "Wow, really? I had no idea they were\ndoing a flea\nmarket. Maybe we should\ngo take a peek."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "All right! Let's keep up the good work\nand try\nanother location!",
+      "text": "Wow, really? I had no idea they were\ndoing a flea\nmarket. Maybe we should\ngo take a peek.",
       "choice_data_list": [
         "Awesome, we managed to pull in a group...!"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Mm-mmm! This kiwi jam bread really hits\nthe spot!\nI can feel all the exhaustion\nleaving my body!"
+      "text": "All right! Let's keep up the good work\nand try\nanother location!"
     },
     {
-      "name": "Jogger",
-      "text": "Hmm... I suddenly feel hungry.",
+      "name": "Kitasan Black",
+      "text": "Mm-mmm! This kiwi jam bread really hits\nthe spot!\nI can feel all the exhaustion\nleaving my body!",
       "choice_data_list": [
         "It's nicely tart, with a pleasant aftertaste.",
         "It's nicely tart, with a pleasant aftertaste, too."
       ]
+    },
+    {
+      "name": "Jogger",
+      "text": "Hmm... I suddenly feel hungry."
     },
     {
       "name": "Kitasan Black",
@@ -127,14 +127,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Hehe, all we did was have some fun!\nCuriosity did\nthe rest."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Even when you're busy or in a rush\nsomewhere, if\nyou hear people having\nfun, you naturally wanna\nsee what's\ngoing on, right?",
+      "text": "Hehe, all we did was have some fun!\nCuriosity did\nthe rest.",
       "choice_data_list": [
         "So you mean?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Even when you're busy or in a rush\nsomewhere, if\nyou hear people having\nfun, you naturally wanna\nsee what's\ngoing on, right?"
     },
     {
       "name": "Kitasan Black",
@@ -146,15 +146,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Wow, just like that? We're clearly\nlearning from\nthe master here."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Yup! But it's thanks to the shops here\nthat I was\nable to hype things up so\nmuch!",
+      "text": "Wow, just like that? We're clearly\nlearning from\nthe master here.",
       "choice_data_list": [
         "So that's why you were fooling around outside.",
         "So that's why you were fooling around outside, huh?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yup! But it's thanks to the shops here\nthat I was\nable to hype things up so\nmuch!"
     },
     {
       "name": "Kitasan Black",
@@ -178,7 +178,13 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Here! Have some tasty bread and jam as\na\nthank-you gift!"
+      "text": "Here! Have some tasty bread and jam as\na\nthank-you gift!",
+      "choice_data_list": [
+        "What a stylish thank-you!",
+        "That's a stylish thank-you!",
+        "Besides, calling in customers was fun.",
+        "Besides, calling in customers was fun, too."
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -192,13 +198,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Me, chic?! Hehe, that might be going a\nbit too\nfar...",
-      "choice_data_list": [
-        "What a stylish thank-you!",
-        "That's a stylish thank-you!",
-        "Besides, calling in customers was fun.",
-        "Besides, calling in customers was fun, too."
-      ]
+      "text": "Me, chic?! Hehe, that might be going a\nbit too\nfar..."
     },
     {
       "name": "Nice Nature",

@@ -39,11 +39,7 @@
     },
     {
       "name": "Reporter E",
-      "text": "I'd like to ask your trainer a question, if I\nmay."
-    },
-    {
-      "name": "Reporter E",
-      "text": "Yes. I'd like to hear your thoughts on Air\nShakur's\nsignature racewear.",
+      "text": "I'd like to ask your trainer a question, if I\nmay.",
       "choice_data_list": [
         "Me?",
         "Me?"
@@ -51,7 +47,7 @@
     },
     {
       "name": "Reporter E",
-      "text": "Would it be fair to take your use of the\n\nsuperlative as a direct comparison to the\nother\nrunners?",
+      "text": "Yes. I'd like to hear your thoughts on Air\nShakur's\nsignature racewear.",
       "choice_data_list": [
         "You're the coolest.",
         "I think that's very like her."
@@ -59,10 +55,14 @@
     },
     {
       "name": "Reporter E",
-      "text": "Air Shakur. What do you make of your\ntrainer's\nstatement?",
+      "text": "Would it be fair to take your use of the\n\nsuperlative as a direct comparison to the\nother\nrunners?",
       "choice_data_list": [
         "Yes, Shakur is number one."
       ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "Air Shakur. What do you make of your\ntrainer's\nstatement?"
     },
     {
       "name": "Air Shakur",
@@ -78,21 +78,21 @@
     },
     {
       "name": "Reporter E",
-      "text": "Could you give an example of how?"
-    },
-    {
-      "name": "Monologue",
-      "text": "Air Shakur has always had a very striking\n\nappearance. But that doesn't mean the\nracewear\ndetracts from it in any way.",
+      "text": "Could you give an example of how?",
       "choice_data_list": [
         "The way it harmonizes with her individuality."
       ]
     },
     {
-      "name": "Reporter E",
-      "text": "I see what you mean! It certainly does\nenhance Air\nShakur's natural glamour.",
+      "name": "Monologue",
+      "text": "Air Shakur has always had a very striking\n\nappearance. But that doesn't mean the\nracewear\ndetracts from it in any way.",
       "choice_data_list": [
         "I believe we're showcasing an appeal with the widest common denominator!"
       ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "I see what you mean! It certainly does\nenhance Air\nShakur's natural glamour."
     },
     {
       "name": "Air Shakur",
@@ -104,14 +104,14 @@
     },
     {
       "name": "Reporter F",
-      "text": "What would you say you were most\nparticular\nabout in the design?"
-    },
-    {
-      "name": "Monologue",
-      "text": "The level of care Air Shakur put into\ndesigning\nher signature racewear was\nsomething to behold.",
+      "text": "What would you say you were most\nparticular\nabout in the design?",
       "choice_data_list": [
         "(That's a really good question.)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The level of care Air Shakur put into\ndesigning\nher signature racewear was\nsomething to behold."
     },
     {
       "name": "Monologue",
@@ -151,14 +151,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Whew..."
-    },
-    {
-      "name": "Reporters",
-      "text": "...Holy cow!\nShe's captivating! Tell me\nyou're getting this!",
+      "text": "Whew...",
       "choice_data_list": [
         "(Magnificent and hearty, as always!)"
       ]
+    },
+    {
+      "name": "Reporters",
+      "text": "...Holy cow!\nShe's captivating! Tell me\nyou're getting this!"
     },
     {
       "name": "Air Shakur",
@@ -178,15 +178,15 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I'm going ahead. Wrap this up however\nyou like."
-    },
-    {
-      "name": "Reporter F",
-      "text": "Um, Trainer. What just happened?",
+      "text": "I'm going ahead. Wrap this up however\nyou like.",
       "choice_data_list": [
         "Ah, yeah...!",
         "Y-Yeah...!"
       ]
+    },
+    {
+      "name": "Reporter F",
+      "text": "Um, Trainer. What just happened?"
     },
     {
       "name": "Monologue",
@@ -198,14 +198,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Air Shakur has demonstrated her\nprogram in\naction, directing everyone's\neyes to herself as she\nran, and nothing\nelse."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Hey.\nThe hell's up with this article?",
+      "text": "Air Shakur has demonstrated her\nprogram in\naction, directing everyone's\neyes to herself as she\nran, and nothing\nelse.",
       "choice_data_list": [
         "If I had to guess, the answer is—"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hey.\nThe hell's up with this article?"
     },
     {
       "name": "Air Shakur",
@@ -217,15 +217,15 @@
     },
     {
       "name": "Air Shakur",
-      "text": "What's with this exaggerated hype job? I\ndidn't\nsay <i>any</i> of this crap."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "...!",
+      "text": "What's with this exaggerated hype job? I\ndidn't\nsay <i>any</i> of this crap.",
       "choice_data_list": [
         "But your running *proved* it, I tell you.",
         "But your running *proved* it, you know."
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
     },
     {
       "name": "Air Shakur",

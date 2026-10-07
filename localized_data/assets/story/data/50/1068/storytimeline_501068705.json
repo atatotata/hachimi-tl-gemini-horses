@@ -15,15 +15,15 @@
     },
     {
       "name": "Inari One",
-      "text": "If it isn't Kitasan! Hey, if ya got some\ntime, swing\nby and visit me later!"
-    },
-    {
-      "name": "Inari One",
-      "text": "Oh, I'm helpin' out with a food stall at a\nspecial\nevent! Do you guys have\nanything in particular ya\nreeeally like?",
+      "text": "If it isn't Kitasan! Hey, if ya got some\ntime, swing\nby and visit me later!",
       "choice_data_list": [
         "You told me to stop by, but what are you doing?",
         "You told me to stop by, but what are you doing?"
       ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Oh, I'm helpin' out with a food stall at a\nspecial\nevent! Do you guys have\nanything in particular ya\nreeeally like?"
     },
     {
       "name": "Kitasan Black",
@@ -35,14 +35,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Whoa-ho, not one for the fancy stuff,\nare ya?\nYou sure ya wouldn't prefer a\nkebab or crepe?"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Yeah! I've loved it ever since I was a kid!",
+      "text": "Whoa-ho, not one for the fancy stuff,\nare ya?\nYou sure ya wouldn't prefer a\nkebab or crepe?",
       "choice_data_list": [
         "You want honeycomb toffee?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yeah! I've loved it ever since I was a kid!"
     },
     {
       "name": "Inari One",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Hehe. I used to share my food with my\nlittle\nbrothers in the park like this."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "It is! Whenever we went to a festival, our\nparents\nwould always buy us something\nto eat!",
+      "text": "Hehe. I used to share my food with my\nlittle\nbrothers in the park like this.",
       "choice_data_list": [
         "With your little brother?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "It is! Whenever we went to a festival, our\nparents\nwould always buy us something\nto eat!"
     },
     {
       "name": "Kitasan Black",
@@ -101,7 +101,12 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Eating with the people I love during the\nfestivals I\nlove was what made it special!"
+      "text": "Eating with the people I love during the\nfestivals I\nlove was what made it special!",
+      "choice_data_list": [
+        "A nostalgic taste?",
+        "You really love your dad and everyone, don't you?",
+        "You really love your dad and everyone, don't you?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -114,12 +119,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "It does! And all those special memories\nare very\nprecious to me. But you know...",
-      "choice_data_list": [
-        "A nostalgic taste?",
-        "You really love your dad and everyone, don't you?",
-        "You really love your dad and everyone, don't you?"
-      ]
+      "text": "It does! And all those special memories\nare very\nprecious to me. But you know..."
     },
     {
       "name": "Kitasan Black",
@@ -151,18 +151,14 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "It's too hard to go to a festival together\nas a\nfamily nowadays, but I sure wanna\neat\nhoneycomb toffee with them again..."
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "I could, but I think my family would\nagree that it's\njust not the same as\neating together at a\nfestival...",
+      "text": "It's too hard to go to a festival together\nas a\nfamily nowadays, but I sure wanna\neat\nhoneycomb toffee with them again...",
       "choice_data_list": [
         "Why don't you make it for them?"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Oh!",
+      "text": "I could, but I think my family would\nagree that it's\njust not the same as\neating together at a\nfestival...",
       "choice_data_list": [
         "It's about 'where' and 'who you ate it with,' right?",
         "It's about 'where' and 'who you ate it with,' isn't it?"
@@ -170,25 +166,29 @@
     },
     {
       "name": "Kitasan Black",
+      "text": "Oh!"
+    },
+    {
+      "name": "Kitasan Black",
       "text": "You're right! Having honeycomb toffee\ntogether\nwith my family after so long\nmight create a new\nand special taste to\nremember!"
     },
     {
       "name": "Kitasan Black",
-      "text": "I'll need to practice a lot so I can make\nthe\nultimate toffee!"
-    },
-    {
-      "name": "Kitasan Black",
-      "text": "Really? Then let's start by making\naround thirty\nportions!",
+      "text": "I'll need to practice a lot so I can make\nthe\nultimate toffee!",
       "choice_data_list": [
         "I'll help out!"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Well, if you count my dad's apprentices,\nmy\nfamily is well over twenty people!\nNow let's do\nthis!",
+      "text": "Really? Then let's start by making\naround thirty\nportions!",
       "choice_data_list": [
         "Wait!?"
       ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Well, if you count my dad's apprentices,\nmy\nfamily is well over twenty people!\nNow let's do\nthis!"
     },
     {
       "name": "Monologue",

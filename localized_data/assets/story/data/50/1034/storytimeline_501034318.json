@@ -103,14 +103,14 @@
     },
     {
       "name": "Inari One",
-      "text": "Ya got it all wrong! That's not why I'm\nhere..."
-    },
-    {
-      "name": "Monologue",
-      "text": "I have a feeling it'd be best to get Inari\naway from\neveryone as quickly as\npossible.",
+      "text": "Ya got it all wrong! That's not why I'm\nhere...",
       "choice_data_list": [
         "Inari, let's head home."
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I have a feeling it'd be best to get Inari\naway from\neveryone as quickly as\npossible."
     },
     {
       "name": "Inari One",
@@ -138,7 +138,11 @@
     },
     {
       "name": "Inari One",
-      "text": "Whazza matter, Boss? You all right?\nCould scare\nthe clouds away with that\nface you're makin'!"
+      "text": "Whazza matter, Boss? You all right?\nCould scare\nthe clouds away with that\nface you're makin'!",
+      "choice_data_list": [
+        "...Are you doing all right yourself, Inari?",
+        "...Are you doing all right yourself, Inari?"
+      ]
     },
     {
       "name": "Inari One",
@@ -150,11 +154,7 @@
     },
     {
       "name": "Inari One",
-      "text": "'Course I am! No need to worry 'bout me!\nSure,\nI've been a bit down 'cause the\nweather's been all\ngloomy lately, but\nthat's all!",
-      "choice_data_list": [
-        "...Are you doing all right yourself, Inari?",
-        "...Are you doing all right yourself, Inari?"
-      ]
+      "text": "'Course I am! No need to worry 'bout me!\nSure,\nI've been a bit down 'cause the\nweather's been all\ngloomy lately, but\nthat's all!"
     },
     {
       "name": "Inari One",
@@ -170,11 +170,7 @@
     },
     {
       "name": "Inari One",
-      "text": "Let's keep it up, partner!"
-    },
-    {
-      "name": "Monologue",
-      "text": "Just like she says, there's no way she'll\nbe\nUmamusume of the Year if she can't\nbeat Oguri\nCap.",
+      "text": "Let's keep it up, partner!",
       "choice_data_list": [
         "...Yeah, you're right.",
         "Right..."
@@ -182,18 +178,22 @@
     },
     {
       "name": "Monologue",
+      "text": "Just like she says, there's no way she'll\nbe\nUmamusume of the Year if she can't\nbeat Oguri\nCap."
+    },
+    {
+      "name": "Monologue",
       "text": "But that doesn't mean she should run\nherself into\nthe ground. There's no way\nI'll let that happen."
     },
     {
       "name": "Monologue",
-      "text": "Seems like I'll have to keep a close eye\non her. I\nmight have to intervene if it\ncomes down to it, to\nensure her own\nsafety."
-    },
-    {
-      "name": "Monologue",
-      "text": "As her trainer and faithful partner in all\nthis, I\nhave to be ready.",
+      "text": "Seems like I'll have to keep a close eye\non her. I\nmight have to intervene if it\ncomes down to it, to\nensure her own\nsafety.",
       "choice_data_list": [
         "(Even if that isn't what she truly wants...)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "As her trainer and faithful partner in all\nthis, I\nhave to be ready."
     },
     {
       "name": "Inari One",

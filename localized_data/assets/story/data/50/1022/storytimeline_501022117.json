@@ -39,11 +39,7 @@
     },
     {
       "name": "Monologue",
-      "text": "She has a meeting with people from\nback home\ntoday, so I'm waiting for her\nto finish."
-    },
-    {
-      "name": "Fine Motion",
-      "text": "Sorry for the wait, Trainer!",
+      "text": "She has a meeting with people from\nback home\ntoday, so I'm waiting for her\nto finish.",
       "choice_data_list": [
         "(It's dragging on...)",
         "(It's dragging on...)"
@@ -51,11 +47,11 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Everyone back home is such a character.\nBefore I\nknew it, we were caught up\ntalking about all sorts\nof things."
+      "text": "Sorry for the wait, Trainer!"
     },
     {
       "name": "Fine Motion",
-      "text": "...",
+      "text": "Everyone back home is such a character.\nBefore I\nknew it, we were caught up\ntalking about all sorts\nof things.",
       "choice_data_list": [
         "Then shall we head out to train?",
         "Then let's go train!"
@@ -63,25 +59,29 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Um, can I take a little break first? I'd\nlike to grab\na drink."
+      "text": "..."
     },
     {
-      "name": "Monologue",
-      "text": "Normally, Fine Motion would be jumping\nat the\nchance to go for a run, but\nrecently she seems a\nlittle apathetic.",
+      "name": "Fine Motion",
+      "text": "Um, can I take a little break first? I'd\nlike to grab\na drink.",
       "choice_data_list": [
         "Of course, but..."
       ]
     },
     {
-      "name": "Security Captain",
-      "text": "Trainer, may I ask you to go after Her\nHighness?"
+      "name": "Monologue",
+      "text": "Normally, Fine Motion would be jumping\nat the\nchance to go for a run, but\nrecently she seems a\nlittle apathetic."
     },
     {
       "name": "Security Captain",
-      "text": "None of us possess the right to pry into\nHer\nHighness's feelings. However... I'm\nsure she'd be\nwilling to reveal her\nfeelings to you.",
+      "text": "Trainer, may I ask you to go after Her\nHighness?",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Security Captain",
+      "text": "None of us possess the right to pry into\nHer\nHighness's feelings. However... I'm\nsure she'd be\nwilling to reveal her\nfeelings to you."
     },
     {
       "name": "Air Shakur",
@@ -153,14 +153,14 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Hey, have you talked to your trainer\nabout this? I\nbet you haven't even\nmentioned it."
-    },
-    {
-      "name": "Air Shakur",
-      "text": "Ever since they talked me into that\nscrimmage\nwith you, your trainer's been\nby your side.",
+      "text": "Hey, have you talked to your trainer\nabout this? I\nbet you haven't even\nmentioned it.",
       "choice_data_list": [
         "（……！）"
       ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ever since they talked me into that\nscrimmage\nwith you, your trainer's been\nby your side."
     },
     {
       "name": "Air Shakur",

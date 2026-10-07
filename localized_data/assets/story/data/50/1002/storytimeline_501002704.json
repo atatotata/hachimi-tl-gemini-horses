@@ -11,11 +11,7 @@
     },
     {
       "name": "Monologue",
-      "text": "It feels like she's been looking over my\nway a lot..."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Um, Trainer. Can you stop by the\ntrainer's office?",
+      "text": "It feels like she's been looking over my\nway a lot...",
       "choice_data_list": [
         "Is something wrong?",
         "Is something wrong?"
@@ -23,10 +19,14 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Oh... Um... I meant, like... just you, by\nyourself...",
+      "text": "Um, Trainer. Can you stop by the\ntrainer's office?",
       "choice_data_list": [
         "Sure, but..."
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Um... I meant, like... just you, by\nyourself..."
     },
     {
       "name": "Silence Suzuka",
@@ -78,7 +78,13 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "What do you think?"
+      "text": "What do you think?",
+      "choice_data_list": [
+        "Thank you, I'm really happy.",
+        "The snow back in your hometown must be beautiful, too.",
+        "The snow back in your hometown must be beautiful, too, huh?",
+        "Can I try flipping the switch?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -92,13 +98,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "I'm so relieved...",
-      "choice_data_list": [
-        "Thank you, I'm really happy.",
-        "The snow back in your hometown must be beautiful, too.",
-        "The snow back in your hometown must be beautiful, too, huh?",
-        "Can I try flipping the switch?"
-      ]
+      "text": "I'm so relieved..."
     },
     {
       "name": "Silence Suzuka",
@@ -138,14 +138,14 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "And just keep running forever... You\nbegin to wish\nthe scenery would never\nend."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Definitely. I'm sure the scenery would\nlook even\nmore beautiful with you by my\nside.",
+      "text": "And just keep running forever... You\nbegin to wish\nthe scenery would never\nend.",
       "choice_data_list": [
         "I'd love to see it someday."
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Definitely. I'm sure the scenery would\nlook even\nmore beautiful with you by my\nside."
     },
     {
       "name": "Monologue",
@@ -177,22 +177,22 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "It fell over."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Um, why don't we trade snow globes?",
+      "text": "It fell over.",
       "choice_data_list": [
         "Even though Suzuka went out of her way to give it to me..."
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "I'm sure.",
+      "text": "Um, why don't we trade snow globes?",
       "choice_data_list": [
         "Are you sure?",
         "Are you sure?"
       ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I'm sure."
     },
     {
       "name": "Silence Suzuka",

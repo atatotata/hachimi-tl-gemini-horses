@@ -19,7 +19,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Sorry I'm late, Trainer! Come on! Get in!"
+      "text": "Sorry I'm late, Trainer! Come on! Get in!",
+      "choice_data_list": [
+        "Where are we going today...?",
+        "Where are we going today...?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -31,11 +35,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Well... last time we went to the sea, so I\nthink the\nmountains would be a good\nchoice!",
-      "choice_data_list": [
-        "Where are we going today...?",
-        "Where are we going today...?"
-      ]
+      "text": "Well... last time we went to the sea, so I\nthink the\nmountains would be a good\nchoice!"
     },
     {
       "name": "Maruzensky",
@@ -59,15 +59,15 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Let's start training, shall we?"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Huh? Isn't it obvious?",
+      "text": "Let's start training, shall we?",
       "choice_data_list": [
         "Why have you been training on the go lately?",
         "Why have you been training while we're out lately?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Huh? Isn't it obvious?"
     },
     {
       "name": "Maruzensky",
@@ -79,18 +79,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I'm itching to get out there and run like\na speed\ndemon!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Heehee! My rivals are still trying to\ncatch up, so I\ncan't slow down now!",
+      "text": "I'm itching to get out there and run like\na speed\ndemon!",
       "choice_data_list": [
         "I can really tell how much fun you're having."
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "But I don't just practice for them—it's for\nyou too!"
+      "text": "Heehee! My rivals are still trying to\ncatch up, so I\ncan't slow down now!"
     },
     {
       "name": "Maruzensky",
@@ -98,15 +94,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I want you to always take pride in being\nmy\ntrainer!"
+      "text": "But I don't just practice for them—it's for\nyou too!"
     },
     {
       "name": "Maruzensky",
-      "text": "Good! We're going to have a blast!",
+      "text": "I want you to always take pride in being\nmy\ntrainer!",
       "choice_data_list": [
         "I'll give it everything I've got in response!",
         "I'll give it everything I've got in response."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Good! We're going to have a blast!"
     }
   ]
 }

@@ -23,14 +23,14 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "They've got a course where you jump\nfrom rope\nto rope till you reach the top\nof a hill, and\nanother where you stand\non a log and try to roll it\naround a pond!\nSounds like fun!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Hehe, this really brings back memories.\nMy dad\nused to bring me to places like\nthis back in the\nday!",
+      "text": "They've got a course where you jump\nfrom rope\nto rope till you reach the top\nof a hill, and\nanother where you stand\non a log and try to roll it\naround a pond!\nSounds like fun!",
       "choice_data_list": [
         "(Th-That's brutal...!)"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hehe, this really brings back memories.\nMy dad\nused to bring me to places like\nthis back in the\nday!"
     },
     {
       "name": "Young Bamboo",
@@ -58,15 +58,15 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yeeeaaah! How do like me now?!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Hehe, really?! Now, watch me clear the\nnext one\nin no time flat too!",
+      "text": "Yeeeaaah! How do like me now?!",
       "choice_data_list": [
         "Wh-What incredible agility!",
         "Wh-What incredible agility!"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hehe, really?! Now, watch me clear the\nnext one\nin no time flat too!"
     },
     {
       "name": "Monologue",
@@ -94,21 +94,21 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Good question! Next... I think I'll try\ngetting that\nlog around the pond!"
-    },
-    {
-      "name": "Bamboo Memory",
-      "text": "Oh! What's up, Trainer? You think I\nshould try\nsomething more difficult?",
+      "text": "Good question! Next... I think I'll try\ngetting that\nlog around the pond!",
       "choice_data_list": [
         "W-Wait, hold on!"
       ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "...Huh?!",
+      "text": "Oh! What's up, Trainer? You think I\nshould try\nsomething more difficult?",
       "choice_data_list": [
         "It'd be dangerous if kids tried to copy it...!"
       ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "...Huh?!"
     },
     {
       "name": "???",
@@ -152,7 +152,12 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "I really need to take this more seriously\nand get\nmyself under control!"
+      "text": "I really need to take this more seriously\nand get\nmyself under control!",
+      "choice_data_list": [
+        "You should definitely make good use of your passion.",
+        "We should definitely make the most of your burning passion.",
+        "Let's carefully judge the right moment to go all out."
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -165,12 +170,7 @@
     },
     {
       "name": "Monologue",
-      "text": "It goes without saying that it's not good\nto be\nreckless, but passion is the energy\nthat fuels\nBamboo Memory. There's no\nreason to let it go to\nwaste.",
-      "choice_data_list": [
-        "You should definitely make good use of your passion.",
-        "We should definitely make the most of your burning passion.",
-        "Let's carefully judge the right moment to go all out."
-      ]
+      "text": "It goes without saying that it's not good\nto be\nreckless, but passion is the energy\nthat fuels\nBamboo Memory. There's no\nreason to let it go to\nwaste."
     },
     {
       "name": "Bamboo Memory",
@@ -182,14 +182,14 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Okay, let's head back so I can finish off\nthe rest\nof the obstacle c—"
-    },
-    {
-      "name": "Monologue",
-      "text": "Bamboo Memory is having a hard time\nfinding the\nright balance between\npassion and recklessness...\nIt seems she\nstill has some growing to do.",
+      "text": "Okay, let's head back so I can finish off\nthe rest\nof the obstacle c—",
       "choice_data_list": [
         "L-Like I said, you can't do that!"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Bamboo Memory is having a hard time\nfinding the\nright balance between\npassion and recklessness...\nIt seems she\nstill has some growing to do."
     },
     {
       "name": "Monologue",

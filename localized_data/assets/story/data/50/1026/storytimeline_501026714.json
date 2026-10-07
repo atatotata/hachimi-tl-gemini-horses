@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
-      "text": "Diagnostic result—severe damage. Cause\n\ndetermined to be an error."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "My data logs show an unidentified\nelevation in\nemotions alongside a surge\nin power output that\nwas not instructed.",
+      "text": "Diagnostic result—severe damage. Cause\n\ndetermined to be an error.",
       "choice_data_list": [
         "An error?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "My data logs show an unidentified\nelevation in\nemotions alongside a surge\nin power output that\nwas not instructed."
     },
     {
       "name": "Mihono Bourbon",
@@ -26,7 +26,13 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Taking these repeated errors into\naccount, I\nrecommend that I engage in\nan extended break."
+      "text": "Taking these repeated errors into\naccount, I\nrecommend that I engage in\nan extended break.",
+      "choice_data_list": [
+        "Yeah, let's get some proper rest.",
+        "Yeah, let's get some proper rest.",
+        "...Still, you want to return right away, don't you?",
+        "...Still, you want to return right away, don't you?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -40,13 +46,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Understood... I will apply an update\npatch during\nmy break and then attempt\nto eliminate the\nerrors before rebooting.",
-      "choice_data_list": [
-        "Yeah, let's get some proper rest.",
-        "Yeah, let's get some proper rest.",
-        "...Still, you want to return right away, don't you?",
-        "...Still, you want to return right away, don't you?"
-      ]
+      "text": "Understood... I will apply an update\npatch during\nmy break and then attempt\nto eliminate the\nerrors before rebooting."
     },
     {
       "name": "Mihono Bourbon",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes, but I have detected a state of\n\noverzealousness. Continuing like this will\ncause\nfurther errors."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "\"Fighting spirit\"... You mean that this is...\n<i>not</i> an\nerror?",
+      "text": "Yes, but I have detected a state of\n\noverzealousness. Continuing like this will\ncause\nfurther errors.",
       "choice_data_list": [
         "Let's put that fighting spirit to good use."
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "\"Fighting spirit\"... You mean that this is...\n<i>not</i> an\nerror?"
     },
     {
       "name": "Mihono Bourbon",
@@ -77,14 +77,14 @@
     },
     {
       "name": "",
-      "text": "<i>Wham! Craaaaash!</i>"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Failure to keep my eyes straight ahead...\nDirect\ncollision with medical\nequipment... Additional\ninjuries\nsustained...",
+      "text": "<i>Wham! Craaaaash!</i>",
       "choice_data_list": [
         "Bourbon!?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Failure to keep my eyes straight ahead...\nDirect\ncollision with medical\nequipment... Additional\ninjuries\nsustained..."
     },
     {
       "name": "",
@@ -92,26 +92,26 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Calculating requirements to achieve\nmaximum\nutilization. ...Please tape up\nmy injuries, Trainer."
-    },
-    {
-      "name": "",
-      "text": "Keeping up with Mihono Bourbon's zeal,\nI make\nsure to tape up her injuries well.",
+      "text": "Calculating requirements to achieve\nmaximum\nutilization. ...Please tape up\nmy injuries, Trainer.",
       "choice_data_list": [
         "Leave it to me!",
         "Leave it to me!"
       ]
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "Phew... My condition has stabilized. I'll\nbe able to\nquickly resume training."
+      "name": "",
+      "text": "Keeping up with Mihono Bourbon's zeal,\nI make\nsure to tape up her injuries well."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Thank you very much. It is all thanks to\nyour\ntaping.",
+      "text": "Phew... My condition has stabilized. I'll\nbe able to\nquickly resume training.",
       "choice_data_list": [
         "Thank goodness...!"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thank you very much. It is all thanks to\nyour\ntaping."
     },
     {
       "name": "Mihono Bourbon",

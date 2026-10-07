@@ -7,15 +7,15 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Wow, this place is great! ♪ The sunshine\nfeels so\nnice!"
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Just letting off some of steam by\nbreaking free of\nthe normal day-to-day\nand having a little\n<i>vacance!</i>",
+      "text": "Wow, this place is great! ♪ The sunshine\nfeels so\nnice!",
       "choice_data_list": [
         "What're you up to?",
         "What are you up to?"
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Just letting off some of steam by\nbreaking free of\nthe normal day-to-day\nand having a little\n<i>vacance!</i>"
     },
     {
       "name": "Monologue",
@@ -99,15 +99,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Thanks to Seeking the Pearl, the two of\nthem\nbecome fully immersed in their\nvacations,\nescaping their everyday lives\nfor the moment."
-    },
-    {
-      "name": "Seeking the Pearl",
-      "text": "Since we go full throttle every day, our\nhearts can\nget worn down before we\nknow it. That's why it's\nimportant to\nrecover by resting as hard as we can.",
+      "text": "Thanks to Seeking the Pearl, the two of\nthem\nbecome fully immersed in their\nvacations,\nescaping their everyday lives\nfor the moment.",
       "choice_data_list": [
         "Sounds like everyone's craving a vacation.",
         "Looks like everyone's craving a vacation."
       ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Since we go full throttle every day, our\nhearts can\nget worn down before we\nknow it. That's why it's\nimportant to\nrecover by resting as hard as we can."
     },
     {
       "name": "Seeking the Pearl",
@@ -143,7 +143,12 @@
     },
     {
       "name": "Students",
-      "text": "Yaaaaay! ♪ Vacations are the best!"
+      "text": "Yaaaaay! ♪ Vacations are the best!",
+      "choice_data_list": [
+        "The sun's relaxing effect is really something.",
+        "The sun's relaxing effect is really something, isn't it?",
+        "More and more students are still gathering...!"
+      ]
     },
     {
       "name": "Students",
@@ -156,12 +161,7 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "Of course! People tend to forget, but\nthe sun's\nenergy is very powerful!",
-      "choice_data_list": [
-        "The sun's relaxing effect is really something.",
-        "The sun's relaxing effect is really something, isn't it?",
-        "More and more students are still gathering...!"
-      ]
+      "text": "Of course! People tend to forget, but\nthe sun's\nenergy is very powerful!"
     },
     {
       "name": "Seeking the Pearl",

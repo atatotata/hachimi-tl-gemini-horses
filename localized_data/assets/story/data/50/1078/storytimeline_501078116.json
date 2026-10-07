@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Yamanin Zephyr",
-      "text": "<i>Pant, pant!</i>"
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "Yes!",
+      "text": "<i>Pant, pant!</i>",
       "choice_data_list": [
         "Zephyr! One last run up the hill course!",
         "Zephyr! One last run up the hill course!"
@@ -15,19 +11,23 @@
     },
     {
       "name": "Yamanin Zephyr",
+      "text": "Yes!"
+    },
+    {
+      "name": "Yamanin Zephyr",
       "text": "Haaah!"
     },
     {
       "name": "Monologue",
-      "text": "With the Sprinters Stakes fast\napproaching,\nYamanin Zephyr is putting\neverything she has into\nher daily\ntraining."
-    },
-    {
-      "name": "Monologue",
-      "text": "Though she almost despaired when\nfaced with\nsuch formidable opponents,\nnow it looks like\nawareness of the\nobstacles ahead has only\nheightened her\nmotivation.",
+      "text": "With the Sprinters Stakes fast\napproaching,\nYamanin Zephyr is putting\neverything she has into\nher daily\ntraining.",
       "choice_data_list": [
         "(Her conditioning is looking great...!)",
         "(Her conditioning is looking great...!)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Though she almost despaired when\nfaced with\nsuch formidable opponents,\nnow it looks like\nawareness of the\nobstacles ahead has only\nheightened her\nmotivation."
     },
     {
       "name": "Monologue",
@@ -87,22 +87,18 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Just imagining the pain Teio must be\nfeeling...\nwatching as the dream she's\nchasing vanishes over\nthe horizon..."
-    },
-    {
-      "name": "Monologue",
-      "text": "Yamanin Zephyr's clenched fists tremble\never so\nslightly. Although she looks as\nthough she might\ncollapse at any\nmoment...",
+      "text": "Just imagining the pain Teio must be\nfeeling...\nwatching as the dream she's\nchasing vanishes over\nthe horizon...",
       "choice_data_list": [
         "Zephyr..."
       ]
     },
     {
       "name": "Monologue",
-      "text": "She also looks like she wants to sprint\noff as soon\nas she possibly can."
+      "text": "Yamanin Zephyr's clenched fists tremble\never so\nslightly. Although she looks as\nthough she might\ncollapse at any\nmoment..."
     },
     {
-      "name": "Yamanin Zephyr",
-      "text": "...?",
+      "name": "Monologue",
+      "text": "She also looks like she wants to sprint\noff as soon\nas she possibly can.",
       "choice_data_list": [
         "Zephyr, you—",
         "Zephyr, you—"
@@ -110,7 +106,7 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...If there's something I can do to help,\nthen yes.",
+      "text": "...?",
       "choice_data_list": [
         "Do you want to cheer Teio up?",
         "Do you want to cheer Teio up?"
@@ -118,15 +114,15 @@
     },
     {
       "name": "Yamanin Zephyr",
+      "text": "...If there's something I can do to help,\nthen yes."
+    },
+    {
+      "name": "Yamanin Zephyr",
       "text": "But what could I even say to someone\nwho's fallen\ninto so dark an abyss?"
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Surely... there's nothing anyone could\ndo?"
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "...Why do you say that?",
+      "text": "Surely... there's nothing anyone could\ndo?",
       "choice_data_list": [
         "That shouldn't be the case.",
         "That shouldn't be possible."
@@ -134,11 +130,15 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...I was?",
+      "text": "...Why do you say that?",
       "choice_data_list": [
         "Because that's just how you were.",
         "Because that's how you were"
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...I was?"
     },
     {
       "name": "Monologue",
@@ -154,11 +154,7 @@
     },
     {
       "name": "Monologue",
-      "text": "The circumstances may be vastly\ndifferent... and\nmaybe the severity of the\nsituation is too, but..."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "...Yes?",
+      "text": "The circumstances may be vastly\ndifferent... and\nmaybe the severity of the\nsituation is too, but...",
       "choice_data_list": [
         "Zephyr, what about you all—",
         "Zephyr, what about you all—"
@@ -166,10 +162,14 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "A connection...",
+      "text": "...Yes?",
       "choice_data_list": [
         "By connecting with others, we can change things."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A connection..."
     },
     {
       "name": "Monologue",
@@ -177,22 +177,22 @@
     },
     {
       "name": "Monologue",
-      "text": "Even with their roles reversed, the same\nprinciple\nis bound to hold true."
-    },
-    {
-      "name": "Yamanin Zephyr",
-      "text": "...But how can I help without saying a\nword?",
+      "text": "Even with their roles reversed, the same\nprinciple\nis bound to hold true.",
       "choice_data_list": [
         "And besides, it's okay even if you don't have anything to say."
       ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...",
+      "text": "...But how can I help without saying a\nword?",
       "choice_data_list": [
         "There's a way to express it that only you guys can do.",
         "There's a message that only you two can convey."
       ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "..."
     },
     {
       "name": "Yamanin Zephyr",

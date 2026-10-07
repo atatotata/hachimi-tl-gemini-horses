@@ -11,14 +11,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Oh, hey Teach! Sorry to spring this on\nyou, but do\nyou know anything about\nwild vegetables?"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Yeah, one of my dorm residents is feelin'\n\nhomesick, so I thought I'd cheer her up\nby making\nher a dish from her\nhometown.",
+      "text": "Oh, hey Teach! Sorry to spring this on\nyou, but do\nyou know anything about\nwild vegetables?",
       "choice_data_list": [
         "Wild vegetables?"
       ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Yeah, one of my dorm residents is feelin'\n\nhomesick, so I thought I'd cheer her up\nby making\nher a dish from her\nhometown."
     },
     {
       "name": "Hishi Amazon",
@@ -102,7 +102,13 @@
     },
     {
       "name": "Miho Student A",
-      "text": "But they only grow way up in the\nmountains! I\ncan't believe you'd do all\nthat for me..."
+      "text": "But they only grow way up in the\nmountains! I\ncan't believe you'd do all\nthat for me...",
+      "choice_data_list": [
+        "Hishi Ama's cooking skills are the best in the Miho Dorm, after all.",
+        "Hishi Ama's cooking skills are the best in the Miho Dorm, you know.",
+        "We really gave it one last push to search before sunset, after all.",
+        "We really gave it one last push to search before sunset, after all."
+      ]
     },
     {
       "name": "Miho Student A",
@@ -116,13 +122,7 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh, I doubt I could beat her mom's\ncooking,\nthough.",
-      "choice_data_list": [
-        "Hishi Ama's cooking skills are the best in the Miho Dorm, after all.",
-        "Hishi Ama's cooking skills are the best in the Miho Dorm, you know.",
-        "We really gave it one last push to search before sunset, after all.",
-        "We really gave it one last push to search before sunset, after all."
-      ]
+      "text": "Heh, I doubt I could beat her mom's\ncooking,\nthough."
     },
     {
       "name": "Hishi Amazon",

@@ -11,14 +11,14 @@
     },
     {
       "name": "Monologue",
-      "text": "(Hmm...)"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...What are you doing? Let's go.",
+      "text": "(Hmm...)",
       "choice_data_list": [
         "(I feel like someone's watching me...?)"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...What are you doing? Let's go."
     },
     {
       "name": "Narita Brian",
@@ -30,15 +30,15 @@
     },
     {
       "name": "???",
-      "text": "I see. Wind... Blood... Run..."
-    },
-    {
-      "name": "???",
-      "text": "Uh, uh-oh!",
+      "text": "I see. Wind... Blood... Run...",
       "choice_data_list": [
         "Is someone there?",
         "Is someone there?"
       ]
+    },
+    {
+      "name": "???",
+      "text": "Uh, uh-oh!"
     },
     {
       "name": "Narita Brian",
@@ -54,15 +54,15 @@
     },
     {
       "name": "Vodka",
-      "text": "What's up, Brian?!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?",
+      "text": "What's up, Brian?!",
       "choice_data_list": [
         "So it was Vodka, huh.",
         "So it was Vodka."
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?"
     },
     {
       "name": "Vodka",
@@ -74,14 +74,14 @@
     },
     {
       "name": "Vodka",
-      "text": "...Oh? Look who's talking."
-    },
-    {
-      "name": "Vodka",
-      "text": "No way! It's... an homage. I totally\nrespect Brian!",
+      "text": "...Oh? Look who's talking.",
       "choice_data_list": [
         "...Are you copying me, by any chance?"
       ]
+    },
+    {
+      "name": "Vodka",
+      "text": "No way! It's... an homage. I totally\nrespect Brian!"
     },
     {
       "name": "Narita Brian",
@@ -121,7 +121,12 @@
     },
     {
       "name": "Vodka",
-      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!"
+      "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!",
+      "choice_data_list": [
+        "That conviction will surely become your strength.",
+        "Want to test our strength with a tandem run?",
+        "Want to test your strength with a tandem run?"
+      ]
     },
     {
       "name": "Vodka",
@@ -134,12 +139,7 @@
     },
     {
       "name": "Vodka",
-      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!",
-      "choice_data_list": [
-        "That conviction will surely become your strength.",
-        "Want to test our strength with a tandem run?",
-        "Want to test your strength with a tandem run?"
-      ]
+      "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!"
     },
     {
       "name": "Vodka",

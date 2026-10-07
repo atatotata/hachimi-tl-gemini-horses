@@ -11,14 +11,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "This thing will heal up in no time! I'll be\nback in\naction tomorrow!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "...No.",
+      "text": "This thing will heal up in no time! I'll be\nback in\naction tomorrow!",
       "choice_data_list": [
         "First, get some rest."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...No."
     },
     {
       "name": "Tokai Teio",
@@ -30,7 +30,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Ouch!"
+      "text": "Ouch!",
+      "choice_data_list": [
+        "I'd prefer you not push yourself.",
+        "Can you really run in that condition?",
+        "Can you really run like that?"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -45,17 +50,12 @@
       "name": "Tokai Teio",
       "text": "...Hmph.",
       "choice_data_list": [
-        "I'd prefer you not push yourself.",
-        "Can you really run in that condition?",
-        "Can you really run like that?"
+        "At least take it easy for today."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "...Fine, but <i>only</i> today.",
-      "choice_data_list": [
-        "At least take it easy for today."
-      ]
+      "text": "...Fine, but <i>only</i> today."
     },
     {
       "name": "Tokai Teio",
@@ -83,14 +83,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "..."
-    },
-    {
-      "name": "Tokai Teio",
       "text": "...",
       "choice_data_list": [
         "Take a day off and you'll be fine."
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
     },
     {
       "name": "Tokai Teio",

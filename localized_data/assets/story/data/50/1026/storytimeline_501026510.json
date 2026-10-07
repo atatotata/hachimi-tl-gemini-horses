@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "One day, right when our training is\nwinding\ndown..."
-    },
-    {
-      "name": "",
-      "text": "I thought I could hang on until training\nwas over,\nbut it doesn't look like that's\ngoing to be\npossible.",
+      "text": "One day, right when our training is\nwinding\ndown...",
       "choice_data_list": [
         "(My stomach is killing me...!)"
       ]
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "Understood, Trainer.",
+      "name": "",
+      "text": "I thought I could hang on until training\nwas over,\nbut it doesn't look like that's\ngoing to be\npossible.",
       "choice_data_list": [
         "Once you've cooled down a bit, come on out.",
         "Once you've cooled down a bit, come on out, okay?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Understood, Trainer."
     },
     {
       "name": "",
@@ -34,11 +34,7 @@
     },
     {
       "name": "",
-      "text": "Mihono Bourbon is still cooling down."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes. Your words implied that I should\ncool down\nuntil my heart rate returned\nto a normal level.",
+      "text": "Mihono Bourbon is still cooling down.",
       "choice_data_list": [
         "You're still at it!?",
         "You're still at it!?"
@@ -46,11 +42,15 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "You used the term \"adequately.\" That is\nan\nadverb that means \"sufficiently—not\nexcessively.\"",
+      "text": "Yes. Your words implied that I should\ncool down\nuntil my heart rate returned\nto a normal level.",
       "choice_data_list": [
         "...What's the meaning of this?",
         "...What do you mean?"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "You used the term \"adequately.\" That is\nan\nadverb that means \"sufficiently—not\nexcessively.\""
     },
     {
       "name": "Mihono Bourbon",
@@ -82,11 +82,7 @@
     },
     {
       "name": "",
-      "text": "I'm still concerned about Mihono\nBourbon's last\nmisstep, but when\nDirector Akikawa says to meet,\nshe\nmeans without delay."
-    },
-    {
-      "name": "",
-      "text": "I leave her a light training regimen with\n<i>very\nspecific</i> numbers and leave the\ngym.",
+      "text": "I'm still concerned about Mihono\nBourbon's last\nmisstep, but when\nDirector Akikawa says to meet,\nshe\nmeans without delay.",
       "choice_data_list": [
         "(If I show it clearly with numbers, it'll be fine...!)",
         "(As long as I lay out the numbers, it'll be okay...!)"
@@ -94,15 +90,15 @@
     },
     {
       "name": "",
+      "text": "I leave her a light training regimen with\n<i>very\nspecific</i> numbers and leave the\ngym."
+    },
+    {
+      "name": "",
       "text": "The next morning, I go to the gym to\ncheck on\nour training equipment..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Good morning, Trainer. My training will\nend in\nprecisely four minutes and two\nseconds."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Last night, my training equipment was\ndamaged.\nMy attempts at repair were\nfutile, as my database\nlacks any suitable\nmethods...",
+      "text": "Good morning, Trainer. My training will\nend in\nprecisely four minutes and two\nseconds.",
       "choice_data_list": [
         "Why are you still going at it?!",
         "Why are you still going at it?!"
@@ -110,25 +106,29 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I requested assistance with repairs from\nthe\ncustodian at 8:00 a.m. this morning.\nI was finally\nable to resume training a\nshort time ago."
+      "text": "Last night, my training equipment was\ndamaged.\nMy attempts at repair were\nfutile, as my database\nlacks any suitable\nmethods..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Trainer?",
+      "text": "I requested assistance with repairs from\nthe\ncustodian at 8:00 a.m. this morning.\nI was finally\nable to resume training a\nshort time ago.",
       "choice_data_list": [
         "……！！！"
       ]
     },
     {
-      "name": "",
-      "text": "Resisting the urge to faint, I explain\nclearly that\nit's okay for her to go home\nwhen something like\nthat happens, and\nsend her back to her dorm."
+      "name": "Mihono Bourbon",
+      "text": "Trainer?"
     },
     {
       "name": "",
-      "text": "I make that pledge to myself, and then a\nfew\nmore days later...",
+      "text": "Resisting the urge to faint, I explain\nclearly that\nit's okay for her to go home\nwhen something like\nthat happens, and\nsend her back to her dorm.",
       "choice_data_list": [
         "(I definitely won't let this happen again next time...!)"
       ]
+    },
+    {
+      "name": "",
+      "text": "I make that pledge to myself, and then a\nfew\nmore days later..."
     },
     {
       "name": "",
@@ -136,27 +136,27 @@
     },
     {
       "name": "",
-      "text": "I'm still worried about the last <i>two</i>\nblunders with\nBourbon, but... I've got to\nclean up the glass\nbefore anyone gets\nhurt."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Is something wrong, Trainer?",
+      "text": "I'm still worried about the last <i>two</i>\nblunders with\nBourbon, but... I've got to\nclean up the glass\nbefore anyone gets\nhurt.",
       "choice_data_list": [
         "(I'm definitely not going to mess up today...!)",
         "(I won't fail today...!)"
       ]
     },
     {
-      "name": "",
-      "text": "I summarize the situation for her and\ngive her\ninstructions to follow for the\nremainder of her\ntraining session."
+      "name": "Mihono Bourbon",
+      "text": "Is something wrong, Trainer?"
     },
     {
       "name": "",
-      "text": "I add that I want her to do a\nfifteen-minute\ncooldown and then go\nhome after she's finished.",
+      "text": "I summarize the situation for her and\ngive her\ninstructions to follow for the\nremainder of her\ntraining session.",
       "choice_data_list": [
         "Two laps running the perimeter!",
         "One full round of the workout routine!"
       ]
+    },
+    {
+      "name": "",
+      "text": "I add that I want her to do a\nfifteen-minute\ncooldown and then go\nhome after she's finished."
     },
     {
       "name": "Mihono Bourbon",
@@ -164,14 +164,14 @@
     },
     {
       "name": "",
-      "text": "Mihono Bourbon goes to the school\ngate."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Two laps around the academy\nperimeter\ncompleted. Commencing\ncooldown.",
+      "text": "Mihono Bourbon goes to the school\ngate.",
       "choice_data_list": [
         "(I'll watch over her just a little longer, and then...)"
       ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Two laps around the academy\nperimeter\ncompleted. Commencing\ncooldown."
     },
     {
       "name": "Mihono Bourbon",
@@ -179,14 +179,14 @@
     },
     {
       "name": "",
-      "text": "Mihono Bourbon follows my orders and\nheads\nback to her dorm, just as I told\nher to!"
-    },
-    {
-      "name": "",
-      "text": "Although there's glass scattered all over\nmy office\nfloor, I'm in rather good spirits.",
+      "text": "Mihono Bourbon follows my orders and\nheads\nback to her dorm, just as I told\nher to!",
       "choice_data_list": [
         "All right...!"
       ]
+    },
+    {
+      "name": "",
+      "text": "Although there's glass scattered all over\nmy office\nfloor, I'm in rather good spirits."
     },
     {
       "name": "",
@@ -202,14 +202,14 @@
     },
     {
       "name": "New Trainer",
-      "text": "Um, I just saw Mihono Bourbon with a\nwhole\nbunch of tires strapped to her... Is\nshe okay?"
-    },
-    {
-      "name": "",
-      "text": "I hurry back to find a wild scene.",
+      "text": "Um, I just saw Mihono Bourbon with a\nwhole\nbunch of tires strapped to her... Is\nshe okay?",
       "choice_data_list": [
         "！？"
       ]
+    },
+    {
+      "name": "",
+      "text": "I hurry back to find a wild scene."
     },
     {
       "name": "Mihono Bourbon",

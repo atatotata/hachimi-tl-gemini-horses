@@ -59,15 +59,15 @@
     },
     {
       "name": "Event Staff",
-      "text": "We're still open to new challengers,\nfolks! Who\nwould like to take on the\nkaraoke challenge and\nbring home that\nsteak?!"
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...!",
+      "text": "We're still open to new challengers,\nfolks! Who\nwould like to take on the\nkaraoke challenge and\nbring home that\nsteak?!",
       "choice_data_list": [
         "Dober will take on the challenge!",
         "Let's just accept Ryan's kindness for now."
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...!"
     },
     {
       "name": "Mejiro Ryan",
@@ -107,15 +107,15 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "A concert...",
+      "text": "...",
       "choice_data_list": [
         "Dober! This is a concert venue!",
         "Dober! This is a concert venue!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A concert..."
     },
     {
       "name": "Mejiro Ryan",
@@ -131,14 +131,14 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "You never know how fate will unfold.\nWhen you\nmeet a brand-new friend..."
-    },
-    {
-      "name": "Mejiro Ryan",
-      "text": "Great job, Dober!",
+      "text": "You never know how fate will unfold.\nWhen you\nmeet a brand-new friend...",
       "choice_data_list": [
         "(I sang it...!)"
       ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Great job, Dober!"
     },
     {
       "name": "Mejiro Ryan",
@@ -158,14 +158,14 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "You never know how fate will unfold.\nWhen you\nmeet a brand-new friend..."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Huh? Ryan? Trainer?",
+      "text": "You never know how fate will unfold.\nWhen you\nmeet a brand-new friend...",
       "choice_data_list": [
         "A new door will open!"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh? Ryan? Trainer?"
     },
     {
       "name": "Mejiro Ryan",
@@ -173,14 +173,14 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "But sometimes, it can be hard to be\nbrave alone.\nWhen that happens, it's\nokay to get help from\nothers as you\nslowly get used to putting yourself\nout\nthere."
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "You two...",
+      "text": "But sometimes, it can be hard to be\nbrave alone.\nWhen that happens, it's\nokay to get help from\nothers as you\nslowly get used to putting yourself\nout\nthere.",
       "choice_data_list": [
         "...Would it be alright if everyone sings the rest together?"
       ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "You two..."
     },
     {
       "name": "Mejiro Ryan",
@@ -204,7 +204,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Are you a mind reader?"
+      "text": "...Are you a mind reader?",
+      "choice_data_list": [
+        "Sorry, you looked like you were really torn."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -217,15 +220,12 @@
       "name": "Mejiro Dober",
       "text": "...",
       "choice_data_list": [
-        "Sorry, you looked like you were really torn."
+        "Still, once you're mentally prepared, let's take on the challenge next time."
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Okay.",
-      "choice_data_list": [
-        "Still, once you're mentally prepared, let's take on the challenge next time."
-      ]
+      "text": "Okay."
     },
     {
       "name": "Mejiro Ryan",

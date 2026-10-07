@@ -15,7 +15,12 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Waaaaah! Nope, it still stings!"
+      "text": "Waaaaah! Nope, it still stings!",
+      "choice_data_list": [
+        "Let's definitely get our revenge!",
+        "That's the spirit!",
+        "That's the spirit!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -30,17 +35,12 @@
       "name": "Gold Ship",
       "text": "You're right! I'm going to ask for a\nrematch right\nnow!",
       "choice_data_list": [
-        "Let's definitely get our revenge!",
-        "That's the spirit!",
-        "That's the spirit!"
+        "Right this second is a bit..."
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Drat...",
-      "choice_data_list": [
-        "Right this second is a bit..."
-      ]
+      "text": "Drat..."
     },
     {
       "name": "Gold Ship",
@@ -60,25 +60,25 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah! That's the kind of response I\nexpect from\nmy very own hand-picked\ntrainer!"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "You really think the great Golshi didn't\npick up\non that? Heh, you have much to\nlearn...",
+      "text": "Yeah! That's the kind of response I\nexpect from\nmy very own hand-picked\ntrainer!",
       "choice_data_list": [
         "I need to come up with a training plan right away!"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Why, I'm already devising no fewer than\na\nthousand strategies for the next race!\nOhoho!"
+      "text": "You really think the great Golshi didn't\npick up\non that? Heh, you have much to\nlearn..."
     },
     {
       "name": "Gold Ship",
-      "text": "Uh, hello? I'm still devising them? A bit\nof\ntraining, and they'll come to me!",
+      "text": "Why, I'm already devising no fewer than\na\nthousand strategies for the next race!\nOhoho!",
       "choice_data_list": [
         "What's the strategy?"
       ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Uh, hello? I'm still devising them? A bit\nof\ntraining, and they'll come to me!"
     },
     {
       "name": "Monologue",

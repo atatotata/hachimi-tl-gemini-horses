@@ -11,15 +11,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "..."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Taishiiin! Wait up, Taishiiin!",
+      "text": "...",
       "choice_data_list": [
         "(Did I... do something...?)",
         "(Did I do something wrong...?)"
       ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishiiin! Wait up, Taishiiin!"
     },
     {
       "name": "Biwa Hayahide",
@@ -27,15 +27,15 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "B-but it's my fault Taishin's—waaah!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Oh, it's Taishin's trainer.",
+      "text": "B-but it's my fault Taishin's—waaah!",
       "choice_data_list": [
         "What's wrong with Taishin?",
         "What's wrong with Taishin?"
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, it's Taishin's trainer."
     },
     {
       "name": "Biwa Hayahide",
@@ -51,14 +51,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Waaaaah! I'm so sorry, Taishiiin!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "She probably didn't know what to say...\nThere\nwere hateful comments about you\nas well.",
+      "text": "Waaaaah! I'm so sorry, Taishiiin!",
       "choice_data_list": [
         "Then getting ignored earlier was..."
       ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "She probably didn't know what to say...\nThere\nwere hateful comments about you\nas well."
     },
     {
       "name": "Biwa Hayahide",
@@ -66,11 +66,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "There was even mention of how Taishin\nwould be\nbetter off with another trainer\nwho can actually\ndraw out her potential."
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "I'm sorry if I'm overstepping, but could\nyou please\ntalk with Taishin?",
+      "text": "There was even mention of how Taishin\nwould be\nbetter off with another trainer\nwho can actually\ndraw out her potential.",
       "choice_data_list": [
         "So that's how it was...",
         "So that's how it was..."
@@ -78,18 +74,22 @@
     },
     {
       "name": "Biwa Hayahide",
+      "text": "I'm sorry if I'm overstepping, but could\nyou please\ntalk with Taishin?"
+    },
+    {
+      "name": "Biwa Hayahide",
       "text": "I'm sure what she needs right now are\nsome words\nof encouragement from you."
     },
     {
       "name": "Narita Taishin",
-      "text": "...Trainer."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Ticket and Hayahide told you? Ugh, why\nare they\nliterally always sticking their\nnose in my business?",
+      "text": "...Trainer.",
       "choice_data_list": [
         "I heard about the bulletin board."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket and Hayahide told you? Ugh, why\nare they\nliterally always sticking their\nnose in my business?"
     },
     {
       "name": "Narita Taishin",
@@ -97,11 +97,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "So you can just forget about what you\nheard."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Huh?",
+      "text": "So you can just forget about what you\nheard.",
       "choice_data_list": [
         "I was frustrated, honestly.",
         "I was frustrated too."
@@ -109,10 +105,14 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Well...",
+      "text": "Huh?",
       "choice_data_list": [
         "How did Taishin do?"
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Well..."
     },
     {
       "name": "Narita Taishin",
@@ -128,7 +128,13 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm itching to do some solo training right\nnow...\nbut I won't."
+      "text": "I'm itching to do some solo training right\nnow...\nbut I won't.",
+      "choice_data_list": [
+        "Then let's take a good rest instead.",
+        "It'll be fine as long as you don't overdo it!",
+        "It'll be fine as long as you don't overdo it!",
+        "No, let's do it to our heart's content!"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -142,13 +148,7 @@
     },
     {
       "name": "Monologue",
-      "text": "Making Narita Taishin train when she's\nfeeling\ndown isn't going to do us any\ngood.",
-      "choice_data_list": [
-        "Then let's take a good rest instead.",
-        "It'll be fine as long as you don't overdo it!",
-        "It'll be fine as long as you don't overdo it!",
-        "No, let's do it to our heart's content!"
-      ]
+      "text": "Making Narita Taishin train when she's\nfeeling\ndown isn't going to do us any\ngood."
     },
     {
       "name": "Monologue",
@@ -156,15 +156,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "What's this?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Thanks, I guess.",
+      "text": "What's this?",
       "choice_data_list": [
         "Hot cocoa. It'll help you relax.",
         "Hot cocoa. It'll help you relax."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Thanks, I guess."
     },
     {
       "name": "Monologue",
@@ -196,15 +196,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "What?! Were you even listening to me?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Well... If you say so.",
+      "text": "What?! Were you even listening to me?",
       "choice_data_list": [
         "I'll be watching over you, so you'll be fine!",
         "I'll be watching over you, so don't worry!"
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Well... If you say so."
     },
     {
       "name": "Monologue",
@@ -212,15 +212,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Phew..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Yeah. There's nothing like a good run to\nclear the\nmind.",
+      "text": "Phew...",
       "choice_data_list": [
         "Looks like you're in good shape.",
         "Looks like you're in good shape."
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yeah. There's nothing like a good run to\nclear the\nmind."
     },
     {
       "name": "Monologue",
@@ -228,15 +228,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Nothing. I'm gonna run another lap.",
+      "text": "...",
       "choice_data_list": [
         "What's wrong, Taishin?",
         "What is it, Taishin?"
       ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nothing. I'm gonna run another lap."
     },
     {
       "name": "Narita Taishin",

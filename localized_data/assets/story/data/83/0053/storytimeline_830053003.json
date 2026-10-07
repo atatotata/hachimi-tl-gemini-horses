@@ -23,11 +23,7 @@
     },
     {
       "name": "Camera Crew Member B",
-      "text": "It'll be even tougher if we have to\npostpone the\nshoot. We're at the end of\nour rope for both the\ndeadline and our\nbudget."
-    },
-    {
-      "name": "Director",
-      "text": "Okay, everyone. We're going to have to\ndo this in\none take. It's an action scene\nwhere a single\ngunshot makes all the\ndifference...",
+      "text": "It'll be even tougher if we have to\npostpone the\nshoot. We're at the end of\nour rope for both the\ndeadline and our\nbudget.",
       "choice_data_list": [
         "(This is a pretty bad situation...)",
         "(This is a pretty bad situation, but...)"
@@ -35,18 +31,22 @@
     },
     {
       "name": "Director",
+      "text": "Okay, everyone. We're going to have to\ndo this in\none take. It's an action scene\nwhere a single\ngunshot makes all the\ndifference..."
+    },
+    {
+      "name": "Director",
       "text": "So let's use <i>our</i> single shot to nail it!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "A standoff under stormy skies! Awesome!\nLet's get\nthe cameras rollin', y'all!"
-    },
-    {
-      "name": "Camera Crew Member",
-      "text": "Here we go!\nRolling in ten, nine, eight,\nseven...",
+      "text": "A standoff under stormy skies! Awesome!\nLet's get\nthe cameras rollin', y'all!",
       "choice_data_list": [
         "Understood...!"
       ]
+    },
+    {
+      "name": "Camera Crew Member",
+      "text": "Here we go!\nRolling in ten, nine, eight,\nseven..."
     },
     {
       "name": "Taiki Shuttle",
@@ -74,33 +74,33 @@
     },
     {
       "name": "Camera Crew Member",
-      "text": "Oh, wow... Look at Taiki's expression..."
-    },
-    {
-      "name": "Monologue",
-      "text": "Mud flies as Taiki Shuttle powers\nthrough the\nscene with a look of grim\ndetermination on her\nface, when\nsuddenly...",
+      "text": "Oh, wow... Look at Taiki's expression...",
       "choice_data_list": [
         "(Incredible concentration...)"
       ]
     },
     {
       "name": "Monologue",
-      "text": "Taiki Shuttle steps into a deep puddle\nof mud and\nstaggers drastically.\nHowever...",
+      "text": "Mud flies as Taiki Shuttle powers\nthrough the\nscene with a look of grim\ndetermination on her\nface, when\nsuddenly...",
       "choice_data_list": [
         "(Ah, look out...!)"
       ]
     },
     {
-      "name": "Taiki Shuttle",
-      "text": "Yeehaw!"
+      "name": "Monologue",
+      "text": "Taiki Shuttle steps into a deep puddle\nof mud and\nstaggers drastically.\nHowever..."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Hahaha! I almost wish I could enjoy this\nforever!\nBut I'm afraid this is the end of\nthe line!",
+      "text": "Yeehaw!",
       "choice_data_list": [
         "(She recovered?! What unbelievable power...!)",
         "(She recovered?! What incredible power...!)"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hahaha! I almost wish I could enjoy this\nforever!\nBut I'm afraid this is the end of\nthe line!"
     },
     {
       "name": "Monologue",
@@ -132,14 +132,14 @@
     },
     {
       "name": "Director",
-      "text": "W-we did it! We actually did it, Taiki!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "All right! I can't contain myself! We're\nhavin' a\ndance and brisket party tonight!",
+      "text": "W-we did it! We actually did it, Taiki!",
       "choice_data_list": [
         "This time, truly, congratulations!"
       ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "All right! I can't contain myself! We're\nhavin' a\ndance and brisket party tonight!"
     },
     {
       "name": "Monologue",

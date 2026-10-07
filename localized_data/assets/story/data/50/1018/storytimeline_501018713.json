@@ -7,7 +7,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "Ugh. The thought of falling behind due\nto such a\nsmall injury is..."
+      "text": "Ugh. The thought of falling behind due\nto such a\nsmall injury is...",
+      "choice_data_list": [
+        "I should have paid closer attention...",
+        "I wasn't paying enough attention...",
+        "Once you're healed, let's make up for lost time!"
+      ]
     },
     {
       "name": "Air Groove",
@@ -20,12 +25,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "It's not your fault.",
-      "choice_data_list": [
-        "I should have paid closer attention...",
-        "I wasn't paying enough attention...",
-        "Once you're healed, let's make up for lost time!"
-      ]
+      "text": "It's not your fault."
     },
     {
       "name": "Air Groove",
@@ -57,14 +57,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Do you understand the consequences of\nwhat\nyou're insinuating?"
-    },
-    {
-      "name": "Air Groove",
-      "text": "Heh... Good answer.",
+      "text": "Do you understand the consequences of\nwhat\nyou're insinuating?",
       "choice_data_list": [
         "Let's do our best together!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Heh... Good answer."
     },
     {
       "name": "Air Groove",

@@ -79,11 +79,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Trainer, can you show me the race\nschedule?\nThere's something I want to\ncheck."
-    },
-    {
-      "name": "Monologue",
-      "text": "She seems quite unmoved, just like after\nher\ndebut race.",
+      "text": "Trainer, can you show me the race\nschedule?\nThere's something I want to\ncheck.",
       "choice_data_list": [
         "Yeah, give me just a second.",
         "Yeah, hold on a second."
@@ -91,14 +87,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Single-mindedly determined to amass\nvictories in\ndedication to her late sister,\nshe is largely\nunaffected by her\nsurroundings."
+      "text": "She seems quite unmoved, just like after\nher\ndebut race."
     },
     {
       "name": "Monologue",
-      "text": "But as I'm lost in thought...",
+      "text": "Single-mindedly determined to amass\nvictories in\ndedication to her late sister,\nshe is largely\nunaffected by her\nsurroundings.",
       "choice_data_list": [
         "(Could that be considered a strength too?)"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "But as I'm lost in thought..."
     },
     {
       "name": "Narita Top Road",
@@ -106,15 +106,15 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "Um! Are you in the middle of a meeting\nor\nanything?"
-    },
-    {
-      "name": "Narita Top Road",
-      "text": "Yes! Today is an important race for\nAyabe, after\nall.",
+      "text": "Um! Are you in the middle of a meeting\nor\nanything?",
       "choice_data_list": [
         "I'm fine. Did you come to cheer for me?",
         "I'm fine. Did you come to cheer me on?"
       ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Yes! Today is an important race for\nAyabe, after\nall."
     },
     {
       "name": "Admire Vega",

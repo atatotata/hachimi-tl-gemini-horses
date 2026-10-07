@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Hey, Trainer. I have something I want to\ntalk to\nyou about."
+      "text": "Hey, Trainer. I have something I want to\ntalk to\nyou about.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What is it?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -15,11 +19,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Well, some of the younger students\ninvited me to\ngo out with them.",
-      "choice_data_list": [
-        "What's wrong?",
-        "What is it?"
-      ]
+      "text": "Well, some of the younger students\ninvited me to\ngo out with them."
     },
     {
       "name": "Maruzensky",
@@ -39,7 +39,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I sometimes wonder whether people get\nwhat I'm\nsaying. I'm sure that sort of\nthing happens to you\ntoo, Trainer."
+      "text": "I sometimes wonder whether people get\nwhat I'm\nsaying. I'm sure that sort of\nthing happens to you\ntoo, Trainer.",
+      "choice_data_list": [
+        "(I wonder if there is one...?)"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -50,22 +53,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "It'd make things awkward if I said the\nwrong thing\nwhile we're all hanging out,\nright?",
-      "choice_data_list": [
-        "(I wonder if there is one...?)"
-      ]
+      "text": "It'd make things awkward if I said the\nwrong thing\nwhile we're all hanging out,\nright?"
     },
     {
       "name": "Maruzensky",
-      "text": "I don't want to let everyone down, so\nplease give\nme some good ideas of what\nto do!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Okay. So you and I are going to check\nout the\nlatest trends together?",
+      "text": "I don't want to let everyone down, so\nplease give\nme some good ideas of what\nto do!",
       "choice_data_list": [
         "Let's do some special training to refine your style.",
         "Have confidence in yourself."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Okay. So you and I are going to check\nout the\nlatest trends together?"
     },
     {
       "name": "Maruzensky",
@@ -93,14 +93,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Maruzensky points to a used record\nshop."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Oh, really? Hmm... I guess that particular\nplace\ndoesn't deal in the latest music,\nhuh?",
+      "text": "Maruzensky points to a used record\nshop.",
       "choice_data_list": [
         "It's a bit tough chasing trends..."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, really? Hmm... I guess that particular\nplace\ndoesn't deal in the latest music,\nhuh?"
     },
     {
       "name": "Maruzensky",
@@ -108,14 +108,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Maruzensky points to what appears to\nbe a\nvintage clothing store."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Oh, really? Well then, on to the next\none...",
+      "text": "Maruzensky points to what appears to\nbe a\nvintage clothing store.",
       "choice_data_list": [
         "It might not be on trend right now, though..."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, really? Well then, on to the next\none..."
     },
     {
       "name": "Maruzensky",
@@ -123,14 +123,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "My mom told me it's good to stay on top\nof this\nsort of thing, but it's hard..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Yeah, my mom is so cheerful and bright.\nShe's\nsuper fun to be around!",
+      "text": "My mom told me it's good to stay on top\nof this\nsort of thing, but it's hard...",
       "choice_data_list": [
         "Your mom?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah, my mom is so cheerful and bright.\nShe's\nsuper fun to be around!"
     },
     {
       "name": "Maruzensky",
@@ -138,14 +138,14 @@
     },
     {
       "name": "Monologue",
-      "text": "Maruzensky lights up when she talks\nabout her\nmother."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Yeah... That might just work.",
+      "text": "Maruzensky lights up when she talks\nabout her\nmother.",
       "choice_data_list": [
         "Why not tell them what your mom taught you?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah... That might just work."
     },
     {
       "name": "Maruzensky",
@@ -193,14 +193,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I have to believe in myself! I'm always at\nthe\nforefront of what's hip!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "That's right. I bet everyone knows about\nmy sense\nof style!",
+      "text": "I have to believe in myself! I'm always at\nthe\nforefront of what's hip!",
       "choice_data_list": [
         "Besides, everyone should understand by now."
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That's right. I bet everyone knows about\nmy sense\nof style!"
     },
     {
       "name": "Maruzensky",
@@ -224,14 +224,14 @@
     },
     {
       "name": "Maruzensky",
-      "text": "I sang a lot of the hit songs that my mom\ntaught\nme. ♪"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "They said they had a lot of fun listening\nto songs\nthey'd never heard before.",
+      "text": "I sang a lot of the hit songs that my mom\ntaught\nme. ♪",
       "choice_data_list": [
         "What did everyone say?"
       ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "They said they had a lot of fun listening\nto songs\nthey'd never heard before."
     },
     {
       "name": "Maruzensky",

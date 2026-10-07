@@ -11,14 +11,14 @@
     },
     {
       "name": "King Halo",
-      "text": "There's a store near here fit for my royal\ntaste.\nShall we take a look?"
-    },
-    {
-      "name": "King Halo",
-      "text": "Don't worry, I won't ask you to buy me\nanything.\nWe'll just browse.",
+      "text": "There's a store near here fit for my royal\ntaste.\nShall we take a look?",
       "choice_data_list": [
         "But it's pricey, isn't it...?"
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Don't worry, I won't ask you to buy me\nanything.\nWe'll just browse."
     },
     {
       "name": "King Halo",
@@ -34,11 +34,7 @@
     },
     {
       "name": "King Halo",
-      "text": "<i>Sigh...</i> What awful timing..."
-    },
-    {
-      "name": "King Halo",
-      "text": "Sky and I were assigned to harvest the\nfields. It\ncompletely slipped my mind\nand I ended up\nwalking around with you.",
+      "text": "<i>Sigh...</i> What awful timing...",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
@@ -46,14 +42,18 @@
     },
     {
       "name": "King Halo",
-      "text": "I was so excited to go to that store, but\nthose\ncarrots need to be picked..."
+      "text": "Sky and I were assigned to harvest the\nfields. It\ncompletely slipped my mind\nand I ended up\nwalking around with you."
     },
     {
       "name": "King Halo",
-      "text": "You want to come harvest carrots? You\ncertainly\nhave some odd interests. But\nsure, I don't mind.",
+      "text": "I was so excited to go to that store, but\nthose\ncarrots need to be picked...",
       "choice_data_list": [
         "I'll come with you."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "You want to come harvest carrots? You\ncertainly\nhave some odd interests. But\nsure, I don't mind."
     },
     {
       "name": "Seiun Sky",
@@ -65,14 +65,14 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "What's the matter?"
-    },
-    {
-      "name": "King Halo",
-      "text": "It's fine, I just completely forgot about\nharvest\nduty... <i>Sigh...</i>",
+      "text": "What's the matter?",
       "choice_data_list": [
         "I got called right before I could reach where I wanted to go, so..."
       ]
+    },
+    {
+      "name": "King Halo",
+      "text": "It's fine, I just completely forgot about\nharvest\nduty... <i>Sigh...</i>"
     },
     {
       "name": "Seiun Sky",
@@ -80,22 +80,22 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Hey, do you know some way to get King\nfired up?"
-    },
-    {
-      "name": "King Halo",
-      "text": "What do you mean, \"make harvesting\nfun\"?",
+      "text": "Hey, do you know some way to get King\nfired up?",
       "choice_data_list": [
         "In that case, let's just enjoy the harvest!"
       ]
     },
     {
-      "name": "Seiun Sky",
-      "text": "Oh, that could be fun. I bet you're fired\nup to win,\nhuh, King?",
+      "name": "King Halo",
+      "text": "What do you mean, \"make harvesting\nfun\"?",
       "choice_data_list": [
         "Whoever harvests the biggest carrot wins!",
         "Whoever harvests the biggest carrot wins!"
       ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, that could be fun. I bet you're fired\nup to win,\nhuh, King?"
     },
     {
       "name": "King Halo",
@@ -119,7 +119,12 @@
     },
     {
       "name": "King Halo",
-      "text": "Even my harvest is first-rate! Ohohoho!"
+      "text": "Even my harvest is first-rate! Ohohoho!",
+      "choice_data_list": [
+        "Glad to see you're having fun.",
+        "I'm glad to see you're having fun.",
+        "We won't lose either!"
+      ]
     },
     {
       "name": "King Halo",
@@ -132,12 +137,7 @@
     },
     {
       "name": "King Halo",
-      "text": "Huh?! Wh-who said I was having fun?!",
-      "choice_data_list": [
-        "Glad to see you're having fun.",
-        "I'm glad to see you're having fun.",
-        "We won't lose either!"
-      ]
+      "text": "Huh?! Wh-who said I was having fun?!"
     },
     {
       "name": "King Halo",

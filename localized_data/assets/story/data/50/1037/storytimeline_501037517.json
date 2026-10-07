@@ -3,11 +3,7 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "I happen across Eishin Flash, but she\nlooks upset\nfor some reason."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Oh, it's nothing important.",
+      "text": "I happen across Eishin Flash, but she\nlooks upset\nfor some reason.",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
@@ -15,15 +11,19 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "I was looking for a particular ingredient\nso I could\nmake a dish I often ate back\nhome, but..."
+      "text": "Oh, it's nothing important."
     },
     {
       "name": "Eishin Flash",
-      "text": "No, they did. Except...",
+      "text": "I was looking for a particular ingredient\nso I could\nmake a dish I often ate back\nhome, but...",
       "choice_data_list": [
         "They weren't selling any?",
         "Weren't they selling any?"
       ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, they did. Except..."
     },
     {
       "name": "Eishin Flash",

@@ -23,14 +23,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Improper tail care can harm a racer's\n\nperformance. We cannot afford to\nscrimp on such\nvital products."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Eavesdropping, were you?",
+      "text": "Improper tail care can harm a racer's\n\nperformance. We cannot afford to\nscrimp on such\nvital products.",
       "choice_data_list": [
         "Tail care products?"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eavesdropping, were you?"
     },
     {
       "name": "Fuji Kiseki",
@@ -62,7 +62,13 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!"
+      "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!",
+      "choice_data_list": [
+        "I'll think about it with you too.",
+        "I'll think about it with you too.",
+        "Everyone's having a tough time...",
+        "Everyone's having a tough time, huh..."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -76,13 +82,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Am I hearing things? You may not have\nnoticed,\nbut you don't have a tail.",
-      "choice_data_list": [
-        "I'll think about it with you too.",
-        "I'll think about it with you too.",
-        "Everyone's having a tough time...",
-        "Everyone's having a tough time, huh..."
-      ]
+      "text": "Am I hearing things? You may not have\nnoticed,\nbut you don't have a tail."
     },
     {
       "name": "Fuji Kiseki",
@@ -102,14 +102,14 @@
     },
     {
       "name": "Air Groove",
-      "text": "Thank you for your help back there in\nthe\ncafeteria. I think we have a better\nidea of what\nnew products to bring in\nnow."
-    },
-    {
-      "name": "Air Groove",
-      "text": "Still, it's a little strange to think about.\nHaving a\ntail is so normal for us, yet for\nyou, it's something\nyou've never known.",
+      "text": "Thank you for your help back there in\nthe\ncafeteria. I think we have a better\nidea of what\nnew products to bring in\nnow.",
       "choice_data_list": [
         "That's great to hear!"
       ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Still, it's a little strange to think about.\nHaving a\ntail is so normal for us, yet for\nyou, it's something\nyou've never known."
     },
     {
       "name": "Air Groove",

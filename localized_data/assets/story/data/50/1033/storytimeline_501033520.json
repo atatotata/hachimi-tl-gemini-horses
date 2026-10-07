@@ -23,15 +23,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Meteor shower? That reminds me, I saw\n\nsomething on TV about one happening\nsoon. The\nlibrary must be preparing\nsomething for it."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "It's not even complete yet.",
+      "text": "Meteor shower? That reminds me, I saw\n\nsomething on TV about one happening\nsoon. The\nlibrary must be preparing\nsomething for it.",
       "choice_data_list": [
         "That special section looks pretty interesting.",
         "That special section looks pretty interesting, doesn't it."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "It's not even complete yet."
     },
     {
       "name": "Zenno Rob Roy",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...",
+      "text": "Ah...",
       "choice_data_list": [
         "...The rain just won't stop, huh.",
         "...The rain just won't stop, will it."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
       "name": "Zenno Rob Roy",
@@ -155,11 +155,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "So this is what she came up with. A\nmeeting in the\nlibrary for talking about\nstars... In other words,\n\"Stargazing\nWithout the Stars.\""
-    },
-    {
-      "name": "Admire Vega",
-      "text": "This wasn't my idea.",
+      "text": "So this is what she came up with. A\nmeeting in the\nlibrary for talking about\nstars... In other words,\n\"Stargazing\nWithout the Stars.\"",
       "choice_data_list": [
         "Looks like we were able to help.",
         "Why not give them some observation tips?"
@@ -167,10 +163,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Sure, but she's the one who made it\nhappen. This\nis all her doing.",
+      "text": "This wasn't my idea.",
       "choice_data_list": [
         "It was all thanks to Ayabe's advice."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sure, but she's the one who made it\nhappen. This\nis all her doing."
     },
     {
       "name": "Admire Vega",

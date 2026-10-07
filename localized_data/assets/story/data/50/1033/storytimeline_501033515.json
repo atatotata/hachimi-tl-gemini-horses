@@ -23,25 +23,25 @@
     },
     {
       "name": "Woman A",
-      "text": "I'm looking forward to seeing great\nthings from\nyou two!"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...",
+      "text": "I'm looking forward to seeing great\nthings from\nyou two!",
       "choice_data_list": [
         "Thank you very much!"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "Despite the words of praise, Admire\nVega seems\nto be stiffening up the\nlonger we're here."
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
-      "name": "Admire Vega",
-      "text": "I'm fine. The next person is coming.",
+      "name": "Monologue",
+      "text": "Despite the words of praise, Admire\nVega seems\nto be stiffening up the\nlonger we're here.",
       "choice_data_list": [
         "Feeling off?"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "I'm fine. The next person is coming."
     },
     {
       "name": "Monologue",
@@ -81,21 +81,21 @@
     },
     {
       "name": "Admire Vega",
-      "text": "What is it?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Not really...",
+      "text": "What is it?",
       "choice_data_list": [
         "Not a fan of events like this?"
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "That's not necessary.",
+      "text": "Not really...",
       "choice_data_list": [
         "If you don't want to, we could cut back on the amount—"
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "That's not necessary."
     },
     {
       "name": "Admire Vega",
@@ -123,7 +123,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It's been my mission since I was born. It's\nthe only\nthing I can do."
+      "text": "It's been my mission since I was born. It's\nthe only\nthing I can do.",
+      "choice_data_list": [
+        "I'll do my best to help however I can too.",
+        "I'll do everything I can alongside you too.",
+        "I don't think it's the only one."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -136,12 +141,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "That's...",
-      "choice_data_list": [
-        "I'll do my best to help however I can too.",
-        "I'll do everything I can alongside you too.",
-        "I don't think it's the only one."
-      ]
+      "text": "That's..."
     },
     {
       "name": "Woman A",
@@ -157,15 +157,15 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Like what?"
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...",
+      "text": "Like what?",
       "choice_data_list": [
         "Your running inspires courage.",
         "Your running inspires courage."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
       "name": "Woman A",
@@ -173,14 +173,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "..."
-    },
-    {
-      "name": "Admire Vega",
-      "text": "...Yeah.",
+      "text": "...",
       "choice_data_list": [
         "Let's keep running."
       ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Yeah."
     }
   ]
 }

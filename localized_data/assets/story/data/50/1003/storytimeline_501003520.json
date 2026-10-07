@@ -23,14 +23,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Oh, Trainer! What are you doing here so\nearly?"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Mmm, hard to explain. Making friends?\nKinda?",
+      "text": "Oh, Trainer! What are you doing here so\nearly?",
       "choice_data_list": [
         "Forgot something. What about you?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mmm, hard to explain. Making friends?\nKinda?"
     },
     {
       "name": "Tokai Teio",
@@ -106,7 +106,13 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "So yeah, we've been racing each other in\nour free\ntime ever since."
+      "text": "So yeah, we've been racing each other in\nour free\ntime ever since.",
+      "choice_data_list": [
+        "Training wasn't enough for you?",
+        "Training wasn't enough for you?",
+        "Sounds like you've made a great friend.",
+        "Sounds like you've made a great friend."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -120,13 +126,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "That's not it. I'm just having fun! I get so\nexcited\nwhen I'm up against a tough\nopponent!",
-      "choice_data_list": [
-        "Training wasn't enough for you?",
-        "Training wasn't enough for you?",
-        "Sounds like you've made a great friend.",
-        "Sounds like you've made a great friend."
-      ]
+      "text": "That's not it. I'm just having fun! I get so\nexcited\nwhen I'm up against a tough\nopponent!"
     },
     {
       "name": "Tokai Teio",
@@ -134,15 +134,15 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "More races, <i>and</i> more friends! What's\nnot to\nlove? ♪"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "I'm doing fine! It takes way more than\nthis to wear\n<i>me</i> out!",
+      "text": "More races, <i>and</i> more friends! What's\nnot to\nlove? ♪",
       "choice_data_list": [
         "Try not to overdo it, alright?",
         "Try not to overdo it, okay?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "I'm doing fine! It takes way more than\nthis to wear\n<i>me</i> out!"
     },
     {
       "name": "Tokai Teio",
@@ -162,14 +162,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I forgot the details, but basically you\ngotta slip\ninto an opening like <i>whoop,</i>\nthen break away like\n<i>whoosh,</i> then you\ngo like <i>vavoosh!</i>"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "<i>Whoop, whoosh, vavoosh!</i> Duh! Oh, I\ncan't <i>wait</i>\nto try it out in my next race! ♪",
+      "text": "I forgot the details, but basically you\ngotta slip\ninto an opening like <i>whoop,</i>\nthen break away like\n<i>whoosh,</i> then you\ngo like <i>vavoosh!</i>",
       "choice_data_list": [
         "Huh?"
       ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Whoop, whoosh, vavoosh!</i> Duh! Oh, I\ncan't <i>wait</i>\nto try it out in my next race! ♪"
     },
     {
       "name": "Monologue",

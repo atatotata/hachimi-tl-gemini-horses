@@ -19,14 +19,14 @@
     },
     {
       "name": "City's Manager",
-      "text": "It'll benefit you as well. It's a chance to\nmake a\nwhole new impression on the\nworld!"
-    },
-    {
-      "name": "Gold City",
-      "text": "I know. Hey, mind if I bring my trainer to\nthe\nstudio?",
+      "text": "It'll benefit you as well. It's a chance to\nmake a\nwhole new impression on the\nworld!",
       "choice_data_list": [
         "But the meeting..."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "I know. Hey, mind if I bring my trainer to\nthe\nstudio?"
     },
     {
       "name": "Gold City",
@@ -66,11 +66,7 @@
     },
     {
       "name": "Gold City",
-      "text": "<i>Sigh...</i>"
-    },
-    {
-      "name": "Gold City",
-      "text": "Uh, was it not clear enough I was trying\nto keep\nthat vague?",
+      "text": "<i>Sigh...</i>",
       "choice_data_list": [
         "What do you want to try?",
         "What do you want to try?"
@@ -78,10 +74,14 @@
     },
     {
       "name": "Gold City",
-      "text": "...",
+      "text": "Uh, was it not clear enough I was trying\nto keep\nthat vague?",
       "choice_data_list": [
         "Sorry..."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
     },
     {
       "name": "Gold City",
@@ -105,11 +105,7 @@
     },
     {
       "name": "Gold City",
-      "text": "And of course, it's on two wheels, so if\nyou don't\nkeep moving, you fall. Or you\nuse the kickstand."
-    },
-    {
-      "name": "Gold City",
-      "text": "Never. I mean, I'm a model. I'm just\ngoing off of\nwhat that staff member told\nme.",
+      "text": "And of course, it's on two wheels, so if\nyou don't\nkeep moving, you fall. Or you\nuse the kickstand.",
       "choice_data_list": [
         "Have you ever ridden a motorcycle?",
         "Have you ever ridden a motorcycle?"
@@ -117,7 +113,7 @@
     },
     {
       "name": "Gold City",
-      "text": "My contract actually like forbids me\nfrom riding\none, to prevent the risk of\naccidents or whatever."
+      "text": "Never. I mean, I'm a model. I'm just\ngoing off of\nwhat that staff member told\nme."
     },
     {
       "name": "Gold City",
@@ -130,12 +126,16 @@
     },
     {
       "name": "Gold City",
-      "text": "Oh, please. Where'd you pick up a line\nlike that?",
+      "text": "My contract actually like forbids me\nfrom riding\none, to prevent the risk of\naccidents or whatever.",
       "choice_data_list": [
         "Besides, you can run even more wonderfully than a motorcycle.",
         "Besides, you can run even more wonderfully than a motorcycle.",
         "Then I'll give you a ride someday."
       ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, please. Where'd you pick up a line\nlike that?"
     },
     {
       "name": "Gold City",
