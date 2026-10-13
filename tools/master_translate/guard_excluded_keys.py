@@ -11,7 +11,7 @@ import json, sys, pathlib
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 EXCLUDED_PATH = SCRIPT_DIR / "excluded_keys.json"
 LOCALIZE_PATH = pathlib.Path(r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\localized_data\localize_dict.json")
-LOC7_PATH = pathlib.Path(r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\hachimi\localized_data_7\localize_dict.json")
+MIRROR_PATH = pathlib.Path(r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\hachimi\localized_data_1\localize_dict.json")
 
 fix = "--fix" in sys.argv
 
@@ -20,7 +20,7 @@ with open(EXCLUDED_PATH, "r", encoding="utf-8") as f:
 
 bad_keys = set(excluded.get("localize_dict", []))
 
-for label, path in [("repo", LOCALIZE_PATH), ("loc7", LOC7_PATH)]:
+for label, path in [("repo", LOCALIZE_PATH), ("mirror", MIRROR_PATH)]:
     if not path.exists():
         print(f"  {label}: {path} not found, skipping")
         continue
