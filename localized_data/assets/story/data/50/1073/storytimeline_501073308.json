@@ -124,7 +124,10 @@
     {
       "name": "Narrator",
       "text": "On this day, at Tsurumaru Tsuyoshi's \nrequest, we visited Kyoto Racecourse—the \nvenue for the Tenno Sho (Spring).",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tenno Sho (Spring)"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -132,6 +135,10 @@
       "choice_data_list": [
         "Huh! You're knowledgeable about the Mejiro \nfamily too?",
         "Huh! You're knowledgeable about the Mejiro \nfamily too?"
+      ],
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Spring Tenno Sho"
       ]
     },
     {
@@ -224,7 +231,10 @@
     {
       "name": "Mejiro Ryan",
       "text": "Both McQueen and I. Everyone in the Mejiro \nfamily—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "McQueen"
+      ]
     },
     {
       "name": "McQueen & Ryan",
@@ -234,7 +244,10 @@
     {
       "name": "Mejiro Bright",
       "text": "...Lady McQueen. Elder Sister Ryan...!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ryan"
+      ]
     },
     {
       "name": "Mejiro Bright",

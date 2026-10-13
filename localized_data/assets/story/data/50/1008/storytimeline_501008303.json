@@ -35,13 +35,20 @@
     },
     {
       "name": "Monologue",
-      "text": "Her next race... If she's really ready to\npush for it,\nthe next step would be\ngraded races."
+      "text": "Her next race... If she's really ready to\npush for it,\nthe next step would be\ngraded races.",
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Monologue",
       "text": "Graded races go from G3 up to G1, and\nthe\nopponents get stronger each rank.\nSo if she's\nlooking for a new goal after\nher debut...",
       "choice_data_list": [
         "――ＧⅢ？"
+      ],
+      "color_text_info_list": [
+        "GIII",
+        "GI"
       ]
     },
     {
@@ -71,6 +78,9 @@
       "text": "So, Trainer, what's the next junior G1\nrace?",
       "choice_data_list": [
         "Either the 'Hanshin JF' or the 'Asahi Hai FS,' but..."
+      ],
+      "color_text_info_list": [
+        "Junior Year"
       ]
     },
     {
@@ -87,7 +97,10 @@
     },
     {
       "name": "Vodka",
-      "text": "I dunno what the initials stand for, but\nlet's do it!\nNext target: the Hanshin J.F.!"
+      "text": "I dunno what the initials stand for, but\nlet's do it!\nNext target: the Hanshin J.F.!",
+      "color_text_info_list": [
+        "Hanshin J.F."
+      ]
     },
     {
       "name": "Monologue",
@@ -99,7 +112,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Vodka! I heard you're going to run in the\nHanshin\nJuvenile Fillies!"
+      "text": "Vodka! I heard you're going to run in the\nHanshin\nJuvenile Fillies!",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ]
     },
     {
       "name": "Vodka",

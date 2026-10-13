@@ -34,7 +34,10 @@
     {
       "name": "Ikuno Dictus",
       "text": "—A graded race.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -54,7 +57,10 @@
     {
       "name": "Ikuno Dictus",
       "text": "When it comes to GⅠ races, over 100,000 \nspectators pack into the stands.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "GⅠ"
+      ]
     },
     {
       "name": "Twin Turbo",
@@ -182,16 +188,26 @@
       "choice_data_list": [
         "You all are...",
         "You all are..."
+      ],
+      "color_text_info_list": [
+        "Helios",
+        "Palmer"
       ]
     },
     {
       "name": "Daitaku Helios",
-      "text": "\"I'm Daitaku Helios☆ A super high-hype, \nsuper front-running sprint Umamusume, ya \nget me? And over here is—!\""
+      "text": "\"I'm Daitaku Helios☆ A super high-hype, \nsuper front-running sprint Umamusume, ya \nget me? And over here is—!\"",
+      "color_text_info_list": [
+        "Daitaku Helios"
+      ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "I'm Mejiro Palmer. Just like Helios, I'm a \nClassic-tier runaway speedster Umamusume \nright now!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mejiro Palmer"
+      ]
     },
     {
       "name": "Daitaku Helios",

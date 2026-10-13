@@ -7,6 +7,9 @@
       "choice_data_list": [
         "Interval running is up next.",
         "Interval running is next, right?"
+      ],
+      "color_text_info_list": [
+        "Debut Race"
       ]
     },
     {
@@ -56,7 +59,10 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Special Week...!"
+      "text": "Special Week...!",
+      "color_text_info_list": [
+        "Special Week"
+      ]
     },
     {
       "name": "Special Week",
@@ -76,7 +82,11 @@
     {
       "name": "Commentary",
       "text": "Even defeating the Prix de l'Arc de \nTriomphe Umamusume, she takes a \nmagnificent, magnificent victory in the \nJapan Cup!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Prix de l'Arc de Triomphe",
+        "Japan Cup"
+      ]
     },
     {
       "name": "Narrator",
@@ -115,6 +125,9 @@
       "choice_data_list": [
         "Yeah! Starting right from the paddock, the \nsheer dignity—",
         "Yeah! Starting with their presence in the \npaddock—"
+      ],
+      "color_text_info_list": [
+        "Spe"
       ]
     },
     {
@@ -162,17 +175,29 @@
     {
       "name": "Buena Vista",
       "text": "\"Will she become the heroine of the new \n'Triple Tiara route'?!\" ...it says.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Tiara route"
+      ]
     },
     {
       "name": "Narrator",
       "text": "In the Classic year of the Twinkle Series, \ntwo major routes exist.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic Year"
+      ]
     },
     {
       "name": "Narrator",
       "text": "The Classic Triple Crown route. It's the \ncollective name for three races: the \nSatsuki Sho, the Japan Derby, and the \nKikuka Sho.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic Triple Crown route",
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
@@ -183,7 +208,12 @@
     },
     {
       "name": "Special Week",
-      "text": "The Oka Sho, the Oaks, and the Shuka Sho! \nCollectively, these three races make up \nthe Triple Tiara route!"
+      "text": "The Oka Sho, the Oaks, and the Shuka Sho! \nCollectively, these three races make up \nthe Triple Tiara route!",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Special Week",
@@ -198,17 +228,29 @@
     {
       "name": "Buena Vista",
       "text": "\"Sweep Tosho, claiming victory in the \nTakarazuka Kinen as a Tiara Umamusume for \nthe first time in 39 years, ushering in \nthe 'Tiara' era—\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tiara Umamusume",
+        "Takarazuka Kinen",
+        "Sweep Tosho"
+      ]
     },
     {
       "name": "Buena Vista",
       "text": "\"Vodka—the first Tiara Umamusume in 64 \nyears to conquer the Tokyo Yushun \n(Japanese Derby)—\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Vodka"
+      ]
     },
     {
       "name": "Buena Vista",
       "text": "\"Daiwa Scarlet, who defeated her at the \nShuka Sho and clinched 2nd place at the \nArima Kinen, ushered in a brand-new era.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Daiwa Scarlet"
+      ]
     },
     {
       "name": "Buena Vista",

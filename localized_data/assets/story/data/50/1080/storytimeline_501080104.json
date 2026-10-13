@@ -47,6 +47,9 @@
       "text": "\"Cinema Gun\"!",
       "choice_data_list": [
         "Cinema... Gun?"
+      ],
+      "color_text_info_list": [
+        "Cinema Gun"
       ]
     },
     {
@@ -114,12 +117,18 @@
     {
       "name": "Copano Rickey",
       "text": "Hey, hey, Tarumae. Do you think we'll be \nable to debut someday too? According to \nfeng shui...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tarumae"
+      ]
     },
     {
       "name": "Hokko Tarumae",
       "text": "Geez... Rickey... Training should come \nbefore feng shui.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Rickey"
+      ]
     },
     {
       "name": "Transcend",
@@ -129,7 +138,11 @@
     {
       "name": "Transcend",
       "text": "The Feng Shui Umamusume, Copano Rickey, \nand Tomakomai's local idol, Hokko Tarumae.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Copano Rickey",
+        "Hokko Tarumae"
+      ]
     },
     {
       "name": "Transcend",

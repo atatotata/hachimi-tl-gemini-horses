@@ -84,13 +84,21 @@
     {
       "name": "Narrator",
       "text": "After achieving the Triple Crown, Orfevre \nsecured a brilliant victory in the \nyear-end Grand Prix, the Arima Kinen. She \nwas even named Horse Girl of the Year, \nbut—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Grand Prix",
+        "Arima Kinen",
+        "Umamusume of the Year"
+      ]
     },
     {
       "name": "Narrator",
       "text": "In this year's Tenno Sho (Spring), she \nsuffered an inexplicable, crushing defeat, \nfinishing in 11th place. Though she \nmanaged to bounce back afterward...",
       "choice_data_list": [
         "(Provoking them so openly, of all \nthings...)"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho (Spring)"
       ]
     },
     {
@@ -134,6 +142,9 @@
       "text": "\"Talk of it had been going around for a \nwhile. That Orfevre would challenge the \npinnacle of world racing, the Prix de \nl'Arc de Triomphe—heights Japan has yet to \nreach...\"",
       "choice_data_list": [
         "(She's bound to draw more expectations than ever before.)"
+      ],
+      "color_text_info_list": [
+        "Prix de l'Arc de Triomphe"
       ]
     },
     {

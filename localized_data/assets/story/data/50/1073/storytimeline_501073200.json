@@ -44,7 +44,10 @@
     {
       "name": "King's Entourage",
       "text": "Amaaazing King! Go for it~, King~!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "King"
+      ]
     },
     {
       "name": "King Halo",
@@ -226,7 +229,10 @@
     {
       "name": "El Condor Pasa",
       "text": "Piece of cake! A load like this is nothing \nfor El, no problem-o-o-o-o-o!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "El"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -255,6 +261,9 @@
       "choice_data_list": [
         "That's right, you will \"definitely\" \ndeliver when it counts.",
         "Right, you *definitely* deliver results \nwhen it counts."
+      ],
+      "color_text_info_list": [
+        "Tsuyoshi"
       ]
     },
     {
@@ -328,7 +337,10 @@
     },
     {
       "name": "",
-      "text": "All that proper effort must have given her \nwings. I saw her off to the paddock as she \ntook flight toward the stage of her Debut \nrace."
+      "text": "All that proper effort must have given her \nwings. I saw her off to the paddock as she \ntook flight toward the stage of her Debut \nrace.",
+      "color_text_info_list": [
+        "Debut Race"
+      ]
     }
   ]
 }

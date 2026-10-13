@@ -172,7 +172,10 @@
     {
       "name": "Narrator",
       "text": "During a meeting to confirm our Junior \nClass strategy with Dream Journey—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Junior Year"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -180,11 +183,17 @@
       "choice_data_list": [
         "Ah...!",
         "Yeah...!"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes"
       ]
     },
     {
       "name": "Narrator",
-      "text": "The Asahi Hai FS is a 1600m turf GⅠ race \nheld at Hanshin Racecourse, and one of the \nfew GⅠ races held during the Junior tier."
+      "text": "The Asahi Hai FS is a 1600m turf GⅠ race \nheld at Hanshin Racecourse, and one of the \nfew GⅠ races held during the Junior tier.",
+      "color_text_info_list": [
+        "GⅠ"
+      ]
     },
     {
       "name": "Narrator",

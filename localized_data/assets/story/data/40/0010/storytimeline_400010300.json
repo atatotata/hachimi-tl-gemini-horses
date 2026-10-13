@@ -6,6 +6,9 @@
       "text": "One day, Trainer Kiryuin walked into the \nbreak room with a gloomy look on her face.",
       "choice_data_list": [
         "What is it?"
+      ],
+      "color_text_info_list": [
+        "Kiryuuin"
       ]
     },
     {
@@ -13,11 +16,17 @@
       "text": "No... Bitter Meille won her debut race the \nother day, but... as expected, there \nwasn't much cheering.",
       "choice_data_list": [
         "I see..."
+      ],
+      "color_text_info_list": [
+        "Meek"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Hearing that, I remember. ...Come to think \nof it, Orfevre's debut race was also—"
+      "text": "Hearing that, I remember. ...Come to think \nof it, Orfevre's debut race was also—",
+      "color_text_info_list": [
+        "Orfevre"
+      ]
     },
     {
       "name": "Narrator",
@@ -165,7 +174,10 @@
     {
       "name": "Spectators",
       "text": "Orfevre!! Orfevre!! To think an Umamusume \nlike this existed...!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Orfeee"
+      ]
     },
     {
       "name": "Nosy Man",

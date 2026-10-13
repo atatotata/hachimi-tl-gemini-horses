@@ -35,7 +35,10 @@
     {
       "name": "Phalaenopsis",
       "text": "Now, the plan to take it in hand is set. \nBe ready, G1—tied with a bow and waiting \nfor me.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "GⅠ"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -66,13 +69,22 @@
     },
     {
       "name": "Narrator",
-      "text": "The \"Triple Tiara\" route aims for the Oka \nSho, \nthe Oaks, and the Shuka Sho."
+      "text": "The \"Triple Tiara\" route aims for the Oka \nSho, \nthe Oaks, and the Shuka Sho.",
+      "color_text_info_list": [
+        "Triple Tiara",
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Narrator",
       "text": "These three races are open only to \nClassic-class horsegirls— \nand to begin with, one cannot even enter \nwithout \nachieving certain results by the spring.",
       "choice_data_list": [
         "Aiming for them is a challenge in and of \nitself."
+      ],
+      "color_text_info_list": [
+        "Classic Year"
       ]
     },
     {
@@ -95,6 +107,9 @@
       "text": "Yet... the Classic races broadly follow \ntwo paths. \nWhy did you choose the Tiara?",
       "choice_data_list": [
         "The Classic Triple Crown route... I \nwrestled with it, but—"
+      ],
+      "color_text_info_list": [
+        "Classic race"
       ]
     },
     {
@@ -103,6 +118,12 @@
       "choice_data_list": [
         "The Tiara route is better suited to your goals.",
         "The Tiara route is better suited to your goals."
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho",
+        "\"Classic Triple Crown\" path"
       ]
     },
     {
@@ -119,11 +140,17 @@
       "text": "Taking those aims into account, \nthe Triple Tiara was the ideal path for \nher. \nFor Tiara horsegirls—",
       "choice_data_list": [
         "Many often go on to excel at guiding the \nnext generation."
+      ],
+      "color_text_info_list": [
+        "Tiara Umamusume"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Take Air Groove, for example. As the \nStudent Council \nvice president, she actively mentors \nyounger students \nat the academy and serves as an exemplary \nrole model."
+      "text": "Take Air Groove, for example. As the \nStudent Council \nvice president, she actively mentors \nyounger students \nat the academy and serves as an exemplary \nrole model.",
+      "color_text_info_list": [
+        "Air Groove"
+      ]
     },
     {
       "name": "Narrator",
@@ -211,7 +238,10 @@
     {
       "name": "Narrator",
       "text": "It turns out Narita Brian is related to \nPhalaenopsis, \nwhich is likely why she agreed to lend a \nhand, but—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Narita Brian"
+      ]
     },
     {
       "name": "Narrator",

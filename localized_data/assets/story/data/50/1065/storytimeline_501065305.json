@@ -295,12 +295,20 @@
     },
     {
       "name": "Daitaku Helios",
-      "text": "Oooh! If it isn't Vam-chamu!"
+      "text": "Oooh! If it isn't Vam-chamu!",
+      "color_text_info_list": [
+        "Bang"
+      ]
     },
     {
       "name": "Narrator",
       "text": "Bamboo Memory. She was chosen as Best \nSprinter last year, and was also a rival \nto that Oguri Cap.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Bamboo Memory",
+        "Best Sprinter Umamusume",
+        "Oguri Cap"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -316,7 +324,10 @@
     {
       "name": "Daitaku Helios",
       "text": "Now that's totally firing me up! Alright, \nalright, if I beat Bamboo—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Bamboo"
+      ]
     },
     {
       "name": "Daitaku Helios",
@@ -332,7 +343,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Daitaku Helios was totally pumped up. And \nso, her next goal was set for the Mile \nChampionship!"
+      "text": "Daitaku Helios was totally pumped up. And \nso, her next goal was set for the Mile \nChampionship!",
+      "color_text_info_list": [
+        "Mile Ch."
+      ]
     }
   ]
 }

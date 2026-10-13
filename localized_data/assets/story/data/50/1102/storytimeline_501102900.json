@@ -4,7 +4,10 @@
     {
       "name": "Narrator",
       "text": "From here on, the days of racing through \nthe Twinkle Series with my partner \nUmamusume would begin. The name of the \ngirl who walks alongside me is—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Sounds of Earth",
@@ -24,7 +27,10 @@
     {
       "name": "Narrator",
       "text": "And so, our challenge for the Twinkle \nSeries with <chrname> began!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<chrname>"
+      ]
     }
   ]
 }

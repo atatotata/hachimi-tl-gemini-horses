@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "To every Umamusume, the winning\nconcert is a\nstage of dreams."
+      "text": "To every Umamusume, the winning\nconcert is a\nstage of dreams.",
+      "color_text_info_list": [
+        "Winning Live"
+      ]
     },
     {
       "name": "Monologue",
@@ -51,7 +54,10 @@
     },
     {
       "name": "Hello's Upperclassman",
-      "text": "Besides... Hello, do you know why they\nstarted\ndoing winning concerts in the\nfirst place?"
+      "text": "Besides... Hello, do you know why they\nstarted\ndoing winning concerts in the\nfirst place?",
+      "color_text_info_list": [
+        "Hello"
+      ]
     },
     {
       "name": "Light Hello",
@@ -134,6 +140,9 @@
       "text": "The student kicks up dirt and lunges at\nSmart\nFalcon—time to step in!",
       "choice_data_list": [
         "Stooop!"
+      ],
+      "color_text_info_list": [
+        "Smart Falcon"
       ]
     },
     {
@@ -188,6 +197,9 @@
       "text": "Here's one! How about we bring back\nthe Grand\nConcert?",
       "choice_data_list": [
         "Huh?!"
+      ],
+      "color_text_info_list": [
+        "Grand Concert"
       ]
     },
     {
@@ -204,11 +216,17 @@
     },
     {
       "name": "Light Hello",
-      "text": "Oh, silly me. I'm Light Hello."
+      "text": "Oh, silly me. I'm Light Hello.",
+      "color_text_info_list": [
+        "Light Hello"
+      ]
     },
     {
       "name": "Light Hello",
-      "text": "Event producer and leader of the Grand\nConcert\nReboot Project!"
+      "text": "Event producer and leader of the Grand\nConcert\nReboot Project!",
+      "color_text_info_list": [
+        "Grand Live Reconstruction Project"
+      ]
     },
     {
       "name": "Monologue",

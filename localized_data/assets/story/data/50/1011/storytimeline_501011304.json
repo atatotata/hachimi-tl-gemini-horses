@@ -106,13 +106,19 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "That means remaining as diligent as\npossible\nthroughout the Classics."
+      "text": "That means remaining as diligent as\npossible\nthroughout the Classics.",
+      "color_text_info_list": [
+        "Classic"
+      ]
     },
     {
       "name": "Grass Wonder",
       "text": "The Japanese Derby in particular is\n\nnon-negotiable, as it will determine the\nface of\nmy generation.",
       "choice_data_list": [
         "Then let's make the Derby our next goal!"
+      ],
+      "color_text_info_list": [
+        "Japanese Derby"
       ]
     },
     {
@@ -125,7 +131,10 @@
     },
     {
       "name": "Monologue",
-      "text": "And so, the Derby has become our first\ngoal in\npreparing for a showdown with\nMaruzensky!"
+      "text": "And so, the Derby has become our first\ngoal in\npreparing for a showdown with\nMaruzensky!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     }
   ]
 }

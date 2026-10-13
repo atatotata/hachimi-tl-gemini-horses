@@ -45,7 +45,11 @@
     {
       "name": "Narrator",
       "text": "Nishino Flower, who brought massive \nvictories with her small frame. Fine \nMotion, who came all the way from Ireland \nand left an indelible impression.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Nishino Flower",
+        "Fine Motion"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -55,7 +59,10 @@
     {
       "name": "Narrator",
       "text": "Sweep Tosho, who had also once been named \nBest Senior Queen Umamusume, stacking up \nvictories in her own willful way.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Sweep Tosho"
+      ]
     },
     {
       "name": "Vivlos",
@@ -142,6 +149,9 @@
       "text": "Oh yeah! Fine-san, you're a total legit \nceleb, right? So how's Trainy's quality \nlooking!?",
       "choice_data_list": [
         "Huh?"
+      ],
+      "color_text_info_list": [
+        "Fine"
       ]
     },
     {
@@ -221,7 +231,12 @@
     },
     {
       "name": "Narrator",
-      "text": "The newly arrived ones were Mejiro Dober, \nKawakami Princess, and Daiwa Scarlet—"
+      "text": "The newly arrived ones were Mejiro Dober, \nKawakami Princess, and Daiwa Scarlet—",
+      "color_text_info_list": [
+        "Mejiro Dober",
+        "Kawakami Princess",
+        "Daiwa Scarlet"
+      ]
     },
     {
       "name": "Narrator",
@@ -246,7 +261,10 @@
     {
       "name": "Vivlos",
       "text": "Scarlet-san...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Scarlet"
+      ]
     },
     {
       "name": "Vivlos",
@@ -318,13 +336,19 @@
     },
     {
       "name": "Narrator",
-      "text": "She is Mejiro Ramonu... The very first to \nachieve the Triple Tiara, a bewitching \nUmamusume who captivates everyone's gaze—"
+      "text": "She is Mejiro Ramonu... The very first to \nachieve the Triple Tiara, a bewitching \nUmamusume who captivates everyone's gaze—",
+      "color_text_info_list": [
+        "Mejiro Ramonu"
+      ]
     },
     {
       "name": "Vivlos",
       "text": "Trainy, you even invited Ramonu-san!?",
       "choice_data_list": [
         "No..."
+      ],
+      "color_text_info_list": [
+        "Ramonu"
       ]
     },
     {

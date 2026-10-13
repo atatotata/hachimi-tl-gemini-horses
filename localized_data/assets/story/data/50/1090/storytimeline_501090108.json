@@ -31,12 +31,19 @@
     },
     {
       "name": "Spectator",
-      "text": "\"Kyaaaah, Big Sis!\" \"Do your best, \nVerxina-san~!\" \"Hayahide! You're the one \ntrue big sister!\""
+      "text": "\"Kyaaaah, Big Sis!\" \"Do your best, \nVerxina-san~!\" \"Hayahide! You're the one \ntrue big sister!\"",
+      "color_text_info_list": [
+        "Hayahide"
+      ]
     },
     {
       "name": "Ines Fujin",
       "text": "Verxina-chan, Hayahide-chan, Journey-san, \nRamonu-san. ...Are you ready?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Journey",
+        "Ramonu"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -53,6 +60,9 @@
       "text": "It's to completely charm Golshi-chan on \nthe special stage with big sister power!",
       "choice_data_list": [
         "Make Gold Ship head over heels...!?"
+      ],
+      "color_text_info_list": [
+        "Golshi"
       ]
     },
     {
@@ -61,11 +71,17 @@
       "choice_data_list": [
         "(Can she make it?! Verxina...!)",
         "(Can she do it?! Verxina...!)"
+      ],
+      "color_text_info_list": [
+        "Gold Ship"
       ]
     },
     {
       "name": "Narrator",
-      "text": "—Entry number 1. Biwa Hayahide."
+      "text": "—Entry number 1. Biwa Hayahide.",
+      "color_text_info_list": [
+        "Biwa Hayahide"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -111,7 +127,10 @@
     {
       "name": "Gold Ship",
       "text": "Oh, you ready for this? You're rockin' \nsome frills just like Mac-chan!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mac"
+      ]
     },
     {
       "name": "Mejiro Ramonu",

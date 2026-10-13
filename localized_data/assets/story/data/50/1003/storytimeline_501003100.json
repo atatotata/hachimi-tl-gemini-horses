@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Today marks the beginning of Tokai\nTeio's\ntraining."
+      "text": "Today marks the beginning of Tokai\nTeio's\ntraining.",
+      "color_text_info_list": [
+        "Tokai Teio"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -31,6 +34,9 @@
       "choice_data_list": [
         "It's dangerous to jump over the fence.",
         "It's dangerous to jump over the fence."
+      ],
+      "color_text_info_list": [
+        "Teio"
       ]
     },
     {
@@ -98,11 +104,17 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Thank you for training with me,\nPresident Rudolf!"
+      "text": "Thank you for training with me,\nPresident Rudolf!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Symboli Rudolf",
-      "text": "You're facing your first graded race, so\nI'm sure\nyou are anxious."
+      "text": "You're facing your first graded race, so\nI'm sure\nyou are anxious.",
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -118,7 +130,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Symboli Rudolf begins to run slowly in\norder to\nguide her inexperienced\npartner. Until..."
+      "text": "Symboli Rudolf begins to run slowly in\norder to\nguide her inexperienced\npartner. Until...",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Tokai Teio",

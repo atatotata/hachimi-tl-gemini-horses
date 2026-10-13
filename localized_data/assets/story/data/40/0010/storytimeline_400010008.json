@@ -36,7 +36,10 @@
     {
       "name": "Narrator",
       "text": "After that, they belong to the Senior \nClass. Among these, the most important are \nthe once-in-a-lifetime Classic \nClass-exclusive races—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Senior Year"
+      ]
     },
     {
       "name": "Senior Trainer",
@@ -65,13 +68,24 @@
     },
     {
       "name": "Narrator",
-      "text": "\"The Classic Triple Crown, achieved by \nconquering the royal road of the Satsuki \nSho, Japanese Derby, and Kikuka Sho—\""
+      "text": "\"The Classic Triple Crown, achieved by \nconquering the royal road of the Satsuki \nSho, Japanese Derby, and Kikuka Sho—\"",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
       "text": "Or perhaps the Triple Tiara of the Tiara \nroute, achieved by winning the Oka Sho, \nthe Oaks, and the Shuka Sho...",
       "choice_data_list": [
         "Becoming a Triple Crown Uma Musume is the \ngreatest honor there is!"
+      ],
+      "color_text_info_list": [
+        "Tiara",
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho",
+        "Triple"
       ]
     },
     {
@@ -251,6 +265,9 @@
       "text": "Both Orfevre and Gentildonna rein in their \narrogant attitudes around him... That \nalone shows just what an immense presence \nSaint Lite is.",
       "choice_data_list": [
         "Um, why are you here—"
+      ],
+      "color_text_info_list": [
+        "Gentildonna"
       ]
     },
     {

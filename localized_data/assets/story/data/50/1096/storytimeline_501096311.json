@@ -49,7 +49,11 @@
     {
       "name": "Commentary",
       "text": "Oooh, my goodness! Miracle, miracle, Hishi \nMiracle!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Hishi",
+        "Miracle"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -235,7 +239,10 @@
     {
       "name": "Commentary",
       "text": "A Tenno Sho Umamusume!! Born right from \nthe Classic Class!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tenno Sho Umamusume"
+      ]
     },
     {
       "name": "Commentary",
@@ -303,6 +310,9 @@
       "text": "At the year-end spectacle, the Arima \nKinen. How does that sound?",
       "choice_data_list": [
         "Alright, let's do this!"
+      ],
+      "color_text_info_list": [
+        "Arima Kinen"
       ]
     },
     {

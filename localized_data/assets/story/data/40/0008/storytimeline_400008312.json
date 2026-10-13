@@ -97,7 +97,11 @@
     {
       "name": "Narrator",
       "text": "Katsuragi Ace's class entered their third \nyear, the Senior Year. As Mr. C.B. and \nSymboli Rudolf loomed ever larger in \npresence—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Symboli Rudolf",
+        "Mr. C.B."
+      ]
     },
     {
       "name": "Narrator",
@@ -129,12 +133,19 @@
     {
       "name": "Ikuno Dictus",
       "text": "Tannhauser-san, spiders don't eat \nUmamusume. Let's scoop it up with a trowel \nand set it free.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tannhauser"
+      ]
     },
     {
       "name": "Twin Turbo",
       "text": "\"T-Turbo's not gonna do it! Nature, you do \nit!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Turbo",
+        "Nature"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -200,7 +211,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Just as Ikuno Dictus said, Twin Turbo's \nbehavior changed with just a single word \nfrom her."
+      "text": "Just as Ikuno Dictus said, Twin Turbo's \nbehavior changed with just a single word \nfrom her.",
+      "color_text_info_list": [
+        "Ikuno Dictus",
+        "Twin Turbo"
+      ]
     },
     {
       "name": "Narrator",

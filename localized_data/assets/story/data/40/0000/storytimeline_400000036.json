@@ -59,7 +59,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I decide not to mention the interview\nwhen I go to\npraise\n<chrname> for her hard\nwork."
+      "text": "I decide not to mention the interview\nwhen I go to\npraise\n<chrname> for her hard\nwork.",
+      "color_text_info_list": [
+        "<chrname>"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -91,7 +94,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I then go and tell <chrname>\nabout\nthe interview and praise her hard\nwork."
+      "text": "I then go and tell <chrname>\nabout\nthe interview and praise her hard\nwork.",
+      "color_text_info_list": [
+        "<chrname>"
+      ]
     }
   ]
 }

@@ -57,6 +57,9 @@
       "text": "Because I think Palmer-san and Helios-san \nare at their best when they're smiling \nbrightly!",
       "choice_data_list": [
         "Didn't something like this happen before?"
+      ],
+      "color_text_info_list": [
+        "Helios"
       ]
     },
     {
@@ -116,7 +119,10 @@
     {
       "name": "Nishino Flower",
       "text": "Whoa... That's amazing! This is so \nhelpful! Thank you very much, Ikuno-san!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ikuno"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -146,7 +152,10 @@
     {
       "name": "Nishino Flower",
       "text": "Ah, Zephyr-san.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Zephyr"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -304,7 +313,11 @@
     {
       "name": "",
       "text": "Later on, I heard that Mejiro Palmer and \nDaitaku Helios managed to get through \ntheir retests without any issues.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mejiro Palmer",
+        "Daitaku Helios"
+      ]
     }
   ]
 }

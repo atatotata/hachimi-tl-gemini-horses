@@ -71,7 +71,11 @@
     {
       "name": "Reporter C",
       "text": "You're right! After running through the \nTiara route, I want her to run in \nwonderful races like the Arima Kinen and \nTakarazuka Kinen too!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Takarazuka Kinen"
+      ]
     },
     {
       "name": "Narrator",
@@ -111,6 +115,9 @@
       "text": "Watching her debut race reaffirmed Daiichi \nRuby's true capabilities. At this rate, \nshe should easily be able to win a \nJunior-class GⅠ.",
       "choice_data_list": [
         "(Like the \"Hanshin Juvenile Fillies\"!)"
+      ],
+      "color_text_info_list": [
+        "GⅠ"
       ]
     },
     {
@@ -169,7 +176,10 @@
     {
       "name": "Daiichi Ruby",
       "text": "Assuming we focus on training for the rest \nof the year, I propose the Fillies' Revue \nas our target race for now.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Fillies' Revue"
+      ]
     },
     {
       "name": "Narrator",
@@ -177,6 +187,9 @@
       "choice_data_list": [
         "Yeah, let's do that!",
         "Yeah, let's do it!"
+      ],
+      "color_text_info_list": [
+        "GⅡ race"
       ]
     },
     {
@@ -198,11 +211,17 @@
       "text": "Hello. Ruby, Trainer.",
       "choice_data_list": [
         "Hello."
+      ],
+      "color_text_info_list": [
+        "Ruby"
       ]
     },
     {
       "name": "Narrator",
-      "text": "The one who walked in was K.S.Miracle... \nDaiichi Ruby's roommate, a girl with an \nephemeral, gentle aura."
+      "text": "The one who walked in was K.S.Miracle... \nDaiichi Ruby's roommate, a girl with an \nephemeral, gentle aura.",
+      "color_text_info_list": [
+        "K.S.Miracle"
+      ]
     },
     {
       "name": "Daiichi Ruby",
