@@ -19,7 +19,14 @@
     {
       "name": "Narrator",
       "text": "Six of us had gathered: myself, Symboli \nKris S, Air Shakur, Tanino Gimlet, Biwa \nHayahide, and Narita Taishin.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Symboli Kris S",
+        "Air Shakur",
+        "Tanino Gimlet",
+        "Biwa Hayahide",
+        "Narita Taishin"
+      ]
     },
     {
       "name": "Tanino Gimlet",
@@ -151,7 +158,10 @@
     },
     {
       "name": "Narrator",
-      "text": "\"Naturally, even if we complete the Mecha \nUmamusume, that alone won't allow her to \ncompete in the Twinkle Series.\""
+      "text": "\"Naturally, even if we complete the Mecha \nUmamusume, that alone won't allow her to \ncompete in the Twinkle Series.\"",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Narrator",
@@ -275,7 +285,10 @@
     {
       "name": "Sugar Lights",
       "text": "Now then, I shall explain what is \nnecessary to enhance Mecha Umamusume ST-2. \nCome, to the laboratory.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Laboratory"
+      ]
     },
     {
       "name": "Sugar Lights",
@@ -295,7 +308,10 @@
     {
       "name": "Sugar Lights",
       "text": "Yeah, and periodically we'll use the \n\"Upgrade Exam\" to see just how much ST-2 \nhas grown.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Upgrade Exam"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -317,6 +333,9 @@
       "text": "This is what's called \"tuning.\"",
       "choice_data_list": [
         "Is it really okay for me to tune it \nhowever I like?"
+      ],
+      "color_text_info_list": [
+        "Tuning"
       ]
     },
     {

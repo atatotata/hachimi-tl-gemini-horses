@@ -88,7 +88,10 @@
     {
       "name": "Narrator",
       "text": "Amidst her hectic days, Haiseiko still \nmakes time to come to Tracen Academy. It \nmust be unquestionably exhausting, but...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Haiseiko",
@@ -124,6 +127,9 @@
       "text": "...She's amazing, isn't she? As expected \nof the original 'Little Monster.'",
       "choice_data_list": [
         "(\"Monster-chan\"...)"
+      ],
+      "color_text_info_list": [
+        "Monster-chan"
       ]
     },
     {
@@ -305,7 +311,10 @@
     {
       "name": "Smart Falcon",
       "text": "Hey, Oguri-senpai, you too! That was so \nmoving, wasn't it...!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oguri"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -316,7 +325,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Smart Falcon and Hokko Tarumae make sense \nsince they both aspire to be idols, but... \nit's hard to imagine Oguri Cap having that \nsame image."
+      "text": "Smart Falcon and Hokko Tarumae make sense \nsince they both aspire to be idols, but... \nit's hard to imagine Oguri Cap having that \nsame image.",
+      "color_text_info_list": [
+        "Smart Falcon",
+        "Hokko Tarumae",
+        "Oguri Cap"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -377,7 +391,10 @@
     {
       "name": "Haiseiko Fan",
       "text": "If we're just talking results, she lost \nthe Derby despite being the overwhelming \nfavorite... and it's not like she won \nevery single time, either.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Haiseiko Fan",
@@ -422,7 +439,10 @@
     {
       "name": "Smart Falcon",
       "text": "\"Ah, Falco went too! It was so deeply \nmoving...~!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Falco"
+      ]
     },
     {
       "name": "Haiseiko",

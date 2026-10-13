@@ -9,7 +9,10 @@
     {
       "name": "A Certain History Column",
       "text": "A generation that brought forth many great \nblooms from the Tiara. Those flowers were \ntruly unique, and bloomed in full glory in \nall kinds of places.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tiara"
+      ]
     },
     {
       "name": "A Certain History Column",
@@ -24,13 +27,19 @@
     {
       "name": "Narrator",
       "text": "“—Today is Saturday. Tracen Academy is \noff, and there is no training.”",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Narrator",
       "text": "However, my trainee Chrono Genesis is \napproaching her debut. Even if it's a day \noff, I can't just spend it idly...",
       "choice_data_list": [
         "(Alright, let's go watch the race!)"
+      ],
+      "color_text_info_list": [
+        "Chrono Genesis"
       ]
     },
     {
@@ -246,11 +255,18 @@
       "text": "...Are you here to watch the Hanshin \nUmamusume Stakes too, Trainer?",
       "choice_data_list": [
         "You really can't miss the Main Race."
+      ],
+      "color_text_info_list": [
+        "Hanshin Umamusume Stakes"
       ]
     },
     {
       "name": "Narrator",
-      "text": "On this day, there were graded stakes \nraces at both Nakayama and Hanshin. I was \nplanning to watch Hanshin's main race, the \nGII Hanshin Umamusume Stakes, on the Turf \nVision."
+      "text": "On this day, there were graded stakes \nraces at both Nakayama and Hanshin. I was \nplanning to watch Hanshin's main race, the \nGII Hanshin Umamusume Stakes, on the Turf \nVision.",
+      "color_text_info_list": [
+        "Graded Race",
+        "GⅡ"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -262,6 +278,9 @@
       "text": "Number 3... it's Schön Lilie-san.",
       "choice_data_list": [
         "Schöne Lilie, if I remember correctly..."
+      ],
+      "color_text_info_list": [
+        "Schöne Lilie"
       ]
     },
     {
@@ -269,11 +288,18 @@
       "text": "An Umamusume from the generation two years \nabove Chrono Genesis, currently in her \nfirst Senior year.",
       "choice_data_list": [
         "She's suffered a string of close losses ever since the Junior Class, right?"
+      ],
+      "color_text_info_list": [
+        "Senior Year"
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Yes. But I won my previous race, the GIII \nTokyo Shimbun Hai!"
+      "text": "Yes. But I won my previous race, the GIII \nTokyo Shimbun Hai!",
+      "color_text_info_list": [
+        "GⅢ",
+        "Tokyo Shimbun Hai"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -337,7 +363,10 @@
     {
       "name": "Chrono Genesis",
       "text": "Still, I'm sure... she'll stand and face \nit again. If it's Lilie-san, she will...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Lilie"
+      ]
     },
     {
       "name": "Narrator",
@@ -419,7 +448,10 @@
     {
       "name": "Chrono Genesis",
       "text": "B-Based on the results of last week's \ntraining... I have recalculated my winning \nprobability using the Genesis Method...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Genesis Method"
+      ]
     },
     {
       "name": "Narrator",
@@ -474,7 +506,10 @@
     {
       "name": "Chrono Genesis",
       "text": "The most defining feature of my method... \nis the 'Genesis Factor.'",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Genesis Factor"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -490,7 +525,10 @@
     {
       "name": "Chrono Genesis",
       "text": "Their devotion to the GⅠ, the clash \nbetween fated rivals—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "GⅠ"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -553,18 +591,31 @@
     {
       "name": "Narrator",
       "text": "Chrono Genesis's immediate major goal is \nthe Classic Triple Tiara.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic Year",
+        "Triple Tiara"
+      ]
     },
     {
       "name": "Chrono Genesis",
       "text": "The Oka Sho, Yushun Himba (Japanese Oaks), \nand Shuka Sho— To etch my name into the \nhistoric Tiara legacy... That is what I \nwant to strive for...",
       "choice_data_list": [
         "You're not going for the Classic Triple \nCrown route?"
+      ],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Yes... In all likelihood, when it comes to \nour generation, Gran-chan and Love-chan \nare both in a league of their own—"
+      "text": "Yes... In all likelihood, when it comes to \nour generation, Gran-chan and Love-chan \nare both in a league of their own—",
+      "color_text_info_list": [
+        "Gran",
+        "Love"
+      ]
     },
     {
       "name": "Chrono Genesis",

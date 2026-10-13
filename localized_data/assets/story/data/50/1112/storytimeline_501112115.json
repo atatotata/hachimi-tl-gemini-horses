@@ -38,12 +38,20 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, Flower-chan. Thank you so much for the \nother day~."
+      "text": "Oh, Flower-chan. Thank you so much for the \nother day~.",
+      "color_text_info_list": [
+        "Flower"
+      ]
     },
     {
       "name": "",
       "text": "Grass Wonder... A legendary Grand Prix \nUmamusume with consecutive Arima Kinen \nvictories to her name.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Grass Wonder",
+        "Arima Kinen",
+        "Grand Prix Umamusume"
+      ]
     },
     {
       "name": "Nishino Flower",
@@ -55,6 +63,9 @@
       "text": "Nishino Flower... the \"Oka Sho\" Umamusume. \nA sprinter boasting immense speed.",
       "choice_data_list": [
         "(And one more person...)"
+      ],
+      "color_text_info_list": [
+        "Nishino Flower"
       ]
     },
     {
@@ -66,6 +77,11 @@
       "text": "\"Believe had victories in both the \nSprinters Stakes and the Takamatsunomiya \nKinen. She, too, made a name for herself \nas a steadfast sprinter.\"",
       "choice_data_list": [
         "(I can feel the \"heart\" coming from them.)"
+      ],
+      "color_text_info_list": [
+        "Sprinters S.",
+        "Takamatsunomiya Kinen",
+        "Believe"
       ]
     },
     {
@@ -121,6 +137,9 @@
       "choice_data_list": [
         "No, they're—they're just like you.",
         "No, they're... just like you."
+      ],
+      "color_text_info_list": [
+        "Grass"
       ]
     },
     {

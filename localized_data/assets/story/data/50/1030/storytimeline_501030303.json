@@ -43,15 +43,25 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Wow... there are so many people. It's\nlike a G1\nrace..."
+      "text": "Wow... there are so many people. It's\nlike a G1\nrace...",
+      "color_text_info_list": [
+        "GI"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Huh? Wait, I thought you said today's\nrace wasn't\neven graded."
+      "text": "Huh? Wait, I thought you said today's\nrace wasn't\neven graded.",
+      "color_text_info_list": [
+        "GII",
+        "GIII"
+      ]
     },
     {
       "name": "Caster",
-      "text": "Here she is! Mihono Bourbon! What a\nway to\nmake a debut!"
+      "text": "Here she is! Mihono Bourbon! What a\nway to\nmake a debut!",
+      "color_text_info_list": [
+        "Mihono Bourbon"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -183,7 +193,10 @@
     },
     {
       "name": "Monologue",
-      "text": "But first, as a warm-up for the Triple\nCrown tour,\nwe decide to take on the\nSpring Stakes."
+      "text": "But first, as a warm-up for the Triple\nCrown tour,\nwe decide to take on the\nSpring Stakes.",
+      "color_text_info_list": [
+        "Spring Stakes"
+      ]
     }
   ]
 }

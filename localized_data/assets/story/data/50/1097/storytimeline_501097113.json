@@ -213,6 +213,9 @@
       "text": "Ah, but... I do yearn for... the Triple \nTiara route.",
       "choice_data_list": [
         "So it's the Tiara route...!"
+      ],
+      "color_text_info_list": [
+        "Tiara route"
       ]
     },
     {
@@ -222,7 +225,14 @@
     {
       "name": "Narrator",
       "text": "The Triple Tiara, consisting of the Oka \nSho, Yushun Himba (Japanese Oaks), and \nShuka Sho, is a brilliance that can only \nbe seized during the Classic Year... Every \nyear, it draws the yearning of many.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho",
+        "Triple Tiara",
+        "Classic Year"
+      ]
     },
     {
       "name": "Still in Love",
@@ -255,7 +265,10 @@
     {
       "name": "Umamusume",
       "text": "Kyaah...! It's Lady Ramonu...!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ramonu"
+      ]
     },
     {
       "name": "Mejiro Ramonu",
@@ -266,7 +279,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ramonu. The legendary Umamusume who \nachieved the first Triple Tiara in \nhistory. And—"
+      "text": "Mejiro Ramonu. The legendary Umamusume who \nachieved the first Triple Tiara in \nhistory. And—",
+      "color_text_info_list": [
+        "Mejiro Ramonu"
+      ]
     },
     {
       "name": "Narrator",
@@ -449,6 +465,9 @@
       "text": "“—I want to become the second Triple Tiara \nUmamusume in history... since Ramonu-san.”",
       "choice_data_list": [
         "……！"
+      ],
+      "color_text_info_list": [
+        "Triple Tiara Umamusume"
       ]
     },
     {

@@ -72,7 +72,10 @@
     {
       "name": "",
       "text": "A broadcast of a graded race featuring \nOrfevre was playing on the screen.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "",
@@ -435,6 +438,9 @@
       "text": "She... Orfe-san will almost certainly \npursue the Classic Triple Crown route. So \nI believe she will run in the Satsuki Sho.",
       "choice_data_list": [
         "Then I guess it'll be the Satsuki Sho."
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho"
       ]
     },
     {
@@ -472,12 +478,19 @@
     {
       "name": "Win Variation",
       "text": "So, how about we go for the Aoba Sho \ninstead of the Satsuki Sho next...?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Aoba Sho"
+      ]
     },
     {
       "name": "",
       "text": "The Aoba Sho is a GII race known as a \ntrial race for the Tokyo Yushun (Japanese \nDerby).",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Japanese Derby",
+        "GⅡ"
+      ]
     },
     {
       "name": "",

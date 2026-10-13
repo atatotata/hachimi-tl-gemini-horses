@@ -29,7 +29,10 @@
     {
       "name": "Fan A",
       "text": "\"The Japan Cup, where the strongest is \ndecided... and the Arima Kinen, where the \nstrongest gather! Right!?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
     },
     {
       "name": "Fan B",
@@ -78,6 +81,9 @@
       "text": "Well then, I shall leave it in your care. \n—Tazuna-chan.",
       "choice_data_list": [
         "(Tazuna 'chan'...?)"
+      ],
+      "color_text_info_list": [
+        "Tazuna"
       ]
     },
     {
@@ -214,12 +220,20 @@
     {
       "name": "Orfevre",
       "text": "Mr. C.B. Symboli Rudolf.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mr. C.B.",
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Orfevre",
       "text": "Mejiro Ramonu. Narita Brian.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mejiro Ramonu",
+        "Narita Brian"
+      ]
     },
     {
       "name": "Orfevre",

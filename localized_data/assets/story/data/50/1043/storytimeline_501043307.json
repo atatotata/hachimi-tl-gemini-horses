@@ -181,13 +181,19 @@
     {
       "name": "Narrator",
       "text": "I had heard that the most brilliant dirt \nUmamusume of the moment would be running \nin the February Stakes.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "February S."
+      ]
     },
     {
       "name": "Shinko Windy",
       "text": "\"I've totally heard of that one! The \n'Queen of the Dirt', right!? I heard she's \ninsanely strong!\"",
       "choice_data_list": [
         "Exactly! If you defeat her..."
+      ],
+      "color_text_info_list": [
+        "Dirt Queen"
       ]
     },
     {

@@ -256,7 +256,10 @@
     },
     {
       "name": "Takeshi Hoshina",
-      "text": "\"Hey, Yunohana. Running your mouth again, \nI see.\""
+      "text": "\"Hey, Yunohana. Running your mouth again, \nI see.\"",
+      "color_text_info_list": [
+        "Yunohana"
+      ]
     },
     {
       "name": "Takeshi Hoshina",
@@ -449,6 +452,9 @@
       "text": "With the \"Hot Spring Detector\"~~♪ we can \neasily find it! The proprietress invented \nit.",
       "choice_data_list": [
         "(D-Development!? Just who is she...?!)"
+      ],
+      "color_text_info_list": [
+        "Hot Spring Detector"
       ]
     },
     {
@@ -478,7 +484,10 @@
     {
       "name": "Transcend",
       "text": "Right, Accu-san! Such a thrilling \nexperience, I'd gladly pay money to do it \nagain♪",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Accu"
+      ]
     },
     {
       "name": "Takeshi Hoshina",

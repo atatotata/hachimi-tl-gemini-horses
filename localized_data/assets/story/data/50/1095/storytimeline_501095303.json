@@ -145,6 +145,9 @@
       "choice_data_list": [
         "Yeah, you're right...!",
         "Yeah, you're right...!"
+      ],
+      "color_text_info_list": [
+        "Junior Year"
       ]
     },
     {
@@ -180,7 +183,10 @@
     },
     {
       "name": "Believe",
-      "text": "Huh... Right O-san? Why are you here...?"
+      "text": "Huh... Right O-san? Why are you here...?",
+      "color_text_info_list": [
+        "Light O"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -204,11 +210,17 @@
       "text": "The one who spoke about her unique \nworldview right after arriving was \nCalstone Light O. She's a classmate and \npeer of Believe's, frequently crossing \npaths with her.",
       "choice_data_list": [
         "Um, did you come to cheer me on...?"
+      ],
+      "color_text_info_list": [
+        "Calstone Light O"
       ]
     },
     {
       "name": "Calstone Light O",
-      "text": "That's right, let me explain everything. \nFirst off, Kyoto felt pretty far honestly, \nso I planned on watching it at Tracen \nAcademy."
+      "text": "That's right, let me explain everything. \nFirst off, Kyoto felt pretty far honestly, \nso I planned on watching it at Tracen \nAcademy.",
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -375,7 +387,10 @@
     {
       "name": "Calstone Light O",
       "text": "Then how about next year's Falcon Stakes \nin March?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Falcon Stakes"
+      ]
     },
     {
       "name": "Believe",
@@ -459,7 +474,12 @@
     {
       "name": "Calstone Light O",
       "text": "\"The earliest GⅠ race you can enter is the \nSprinters Stakes, held in the fall of the \nClassic year.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "GⅠ",
+        "Classic Year",
+        "Sprinters Stakes"
+      ]
     },
     {
       "name": "Calstone Light O",

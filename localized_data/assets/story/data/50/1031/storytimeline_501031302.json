@@ -34,7 +34,10 @@
     },
     {
       "name": "Raffle Clerk",
-      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!"
+      "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+      "color_text_info_list": [
+        "Hot Spring Ticket"
+      ]
     },
     {
       "name": "Raffle Clerk",
@@ -64,6 +67,9 @@
       "text": "You obtained:\n<itemname>",
       "choice_data_list": [
         "Whoa...!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {
@@ -147,6 +153,9 @@
       "text": "You obtained:\n<itemname>",
       "choice_data_list": [
         "First prize!!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {
@@ -201,7 +210,10 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
+      "text": "You obtained:\n<itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Monologue",
@@ -228,6 +240,9 @@
       "text": "I come across Oguri Cap, her stomach\nloudly\nrumbling. With each rumble, she\nvisibly winces—it\nseems her hunger has\nreached its limit.",
       "choice_data_list": [
         "(At a time like this, Ines would...)"
+      ],
+      "color_text_info_list": [
+        "Oguri Cap"
       ]
     },
     {
@@ -275,7 +290,10 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
+      "text": "You obtained:\n<itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -313,6 +331,9 @@
       "text": "You obtained:\n<itemname>",
       "choice_data_list": [
         "A miss...!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {

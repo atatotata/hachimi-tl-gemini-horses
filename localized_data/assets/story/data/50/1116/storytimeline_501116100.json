@@ -19,7 +19,10 @@
     {
       "name": "Narrator",
       "text": "—The Grande Dame, Gentildonna.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Gentildonna"
+      ]
     },
     {
       "name": "Narrator",
@@ -94,7 +97,10 @@
     {
       "name": "Narrator",
       "text": "Together with my new trainee Gentildonna, \nour days of full-fledged training began \nwith our sights set on the Twinkle Series.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -109,7 +115,10 @@
     {
       "name": "Umamusume A",
       "text": "\"Did... did Gentil-san just use a barbell \nlike a dumbbell...?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Gentil"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -262,17 +271,28 @@
     },
     {
       "name": "Gentildonna",
-      "text": "First is the Triple Tiara. We talked about \nthis before, remember?"
+      "text": "First is the Triple Tiara. We talked about \nthis before, remember?",
+      "color_text_info_list": [
+        "Triple Tiara"
+      ]
     },
     {
       "name": "Narrator",
       "text": "The Classic races, which an Umamusume can \nonly run once in her lifetime. Those \nprimary paths diverge into two routes.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic race"
+      ]
     },
     {
       "name": "Narrator",
       "text": "Gentildonna's goal is the illustrious \nTriple Tiara route, consisting of the Oka \nSho, the Yushun Himba (Oaks), and the \nShuka Sho.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Narrator",
@@ -297,12 +317,20 @@
     {
       "name": "Gentildonna",
       "text": "Others have told me I could win the Derby \ntoo, and recommended the Classic Triple \nCrown route, though?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Derby",
+        "Classic Triple Crown"
+      ]
     },
     {
       "name": "Narrator",
       "text": "The Classic Triple Crown route... \nConsisting of the Satsuki Sho, Japanese \nDerby, and Kikuka-sho, it's another \npremier path.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
