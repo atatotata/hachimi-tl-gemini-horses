@@ -208,14 +208,14 @@
     },
     {
       "name": "Monologue",
-      "text": "So far she's just been racing for fun, but\nnow\nresults are actually going to be\nimportant if she\nwants to qualify for the\ngraded races."
+      "text": "So far she's just been racing for fun, but\nnow\nresults are actually going to be\nimportant if she\nwants to qualify for the\ngraded races.",
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Monologue",
       "text": "We need to work on her form and times\nas well as\nprep her on how to run in\ngraded races.",
-      "color_text_info_list": [
-        "Graded Race"
-      ],
       "choice_data_list": [
         "Urara, how about running in the Negishi Stakes?",
         "Urara, want to run in the Negishi Stakes?"
@@ -238,7 +238,10 @@
     },
     {
       "name": "Monologue",
-      "text": "In any case, our next goal is the Negishi\nStakes!"
+      "text": "In any case, our next goal is the Negishi\nStakes!",
+      "color_text_info_list": [
+        "Negishi Stakes"
+      ]
     }
   ]
 }

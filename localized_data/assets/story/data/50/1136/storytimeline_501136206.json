@@ -34,12 +34,18 @@
     {
       "name": "Student A",
       "text": "\"Why not ask a senior for advice? I heard \nJourney-senpai knows a lot about it. You \nknow, that Expedition Whatever Committee!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Journey"
+      ]
     },
     {
       "name": "Red Desire",
       "text": "Dream Journey...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Dream Journey"
+      ]
     },
     {
       "name": "Narrator",
@@ -61,6 +67,10 @@
       "text": "On the other hand, she is also a \npowerhouse who has triumphed in numerous \ngraded stakes, including the Takarazuka \nKinen and the Arima Kinen.",
       "choice_data_list": [
         "(Talented in so many areas... a truly \noutstanding individual.)"
+      ],
+      "color_text_info_list": [
+        "Takarazuka Kinen",
+        "Graded Race"
       ]
     },
     {
@@ -135,7 +145,10 @@
     {
       "name": "Dream Journey",
       "text": "—How about the Osaka Hai?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
     },
     {
       "name": "Red Desire",

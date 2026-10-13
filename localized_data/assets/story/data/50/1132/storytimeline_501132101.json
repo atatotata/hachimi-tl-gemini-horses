@@ -344,7 +344,11 @@
     {
       "name": "Commentator A",
       "text": "\"Well, Umamusume of the Year is basically \na lock. Couldn't it easily be a unanimous \nvote, the first since T.M. Opera O?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Umamusume of the Year",
+        "T.M. Opera O"
+      ]
     },
     {
       "name": "Commentator B",
@@ -367,6 +371,9 @@
       "text": "How about the \"Breeders' Cup\"?♪",
       "choice_data_list": [
         "Ooh...!"
+      ],
+      "color_text_info_list": [
+        "Breeders' Cup"
       ]
     },
     {

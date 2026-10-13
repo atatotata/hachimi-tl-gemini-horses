@@ -9,7 +9,10 @@
     {
       "name": "Tanino Gimlet",
       "text": "Wait for me up ahead, Kris S. Running a \nmere mile at the front is child's play—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Kris S"
+      ]
     },
     {
       "name": "Durandal",
@@ -110,7 +113,10 @@
     {
       "name": "Durandal",
       "text": "Yes, Gimlet-san... Your sudden surprise \nattack caught me off guard. However...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Gimlet"
+      ]
     },
     {
       "name": "Durandal",
@@ -258,6 +264,9 @@
       "choice_data_list": [
         "No, that's way too dangerous!",
         "No, that's way too dangerous!"
+      ],
+      "color_text_info_list": [
+        "Sprinters Stakes"
       ]
     },
     {
@@ -273,7 +282,11 @@
     },
     {
       "name": "Durandal",
-      "text": "\"The Centaur Stakes, is it? As a GII, \nthere would certainly be less of an \nenclosure than at the Sprinters Stakes.\""
+      "text": "\"The Centaur Stakes, is it? As a GII, \nthere would certainly be less of an \nenclosure than at the Sprinters Stakes.\"",
+      "color_text_info_list": [
+        "Centaur S.",
+        "GⅡ"
+      ]
     },
     {
       "name": "Durandal",

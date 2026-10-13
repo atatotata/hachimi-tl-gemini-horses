@@ -64,6 +64,9 @@
       "text": "I want to run in the autumn Tenno Sho!",
       "choice_data_list": [
         "……！"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho (Autumn)"
       ]
     },
     {
@@ -72,7 +75,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The autumn Tenno Sho is the pinnacle of\nthe G1\nmedium-distance races. All of\nthe best\nracers—including senior\nracers—will be present."
+      "text": "The autumn Tenno Sho is the pinnacle of\nthe G1\nmedium-distance races. All of\nthe best\nracers—including senior\nracers—will be present.",
+      "color_text_info_list": [
+        "GI",
+        "Senior Year"
+      ]
     },
     {
       "name": "Monologue",
@@ -99,11 +106,17 @@
       "choice_data_list": [
         "First, why don't you try running in the Kinko Sho?",
         "First, how about trying to enter the Kinko Sho?"
+      ],
+      "color_text_info_list": [
+        "GII"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "The Kinko Sho... Okay!"
+      "text": "The Kinko Sho... Okay!",
+      "color_text_info_list": [
+        "Kinko Sho"
+      ]
     },
     {
       "name": "Monologue",

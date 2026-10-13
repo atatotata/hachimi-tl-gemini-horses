@@ -52,7 +52,10 @@
     {
       "name": "Narrator",
       "text": "If it were a graded race, I'd understand. \nYou might come watch to study it. However—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Narrator",
@@ -134,7 +137,10 @@
     {
       "name": "No Reason",
       "text": "\"Though when she caught me, Tazuna-dono \ngave me quite the earful. Nyahahaha!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tazuna"
+      ]
     },
     {
       "name": "No Reason",
@@ -156,16 +162,27 @@
       "text": "The question is, how do we mount our \ncampaign toward next year's Classic Triple \nCrown?",
       "choice_data_list": [
         "So we're aiming for the Classic Triple \nCrown, huh..."
+      ],
+      "color_text_info_list": [
+        "Classic Triple Crown"
       ]
     },
     {
       "name": "Narrator",
-      "text": "—The Classic Triple Crown. This refers to \nthe three most prestigious, quintessential \nGⅠ races representing the Classic tier."
+      "text": "—The Classic Triple Crown. This refers to \nthe three most prestigious, quintessential \nGⅠ races representing the Classic tier.",
+      "color_text_info_list": [
+        "Classic Year"
+      ]
     },
     {
       "name": "Narrator",
       "text": "The Satsuki Sho, the Japanese Derby, the \nKikuka Sho. Naturally, No Reason will be \naiming for those too, but...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
@@ -261,7 +278,10 @@
     {
       "name": "No Reason",
       "text": "In the Satsuki Sho, I shall decisively cut \ndown Lord Gimlet right out of the gate! \nThat shall be the moment everyone learns \nmy name.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Gimlet"
+      ]
     },
     {
       "name": "No Reason",

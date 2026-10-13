@@ -134,7 +134,11 @@
     },
     {
       "name": "Narrator",
-      "text": "The Arima Kinen, where Mejiro Palmer and \nDaitaku Helios broke into a massive \nrunaway lead and set an astonishingly fast \npace, is iconic beyond measure."
+      "text": "The Arima Kinen, where Mejiro Palmer and \nDaitaku Helios broke into a massive \nrunaway lead and set an astonishingly fast \npace, is iconic beyond measure.",
+      "color_text_info_list": [
+        "Mejiro Palmer",
+        "Daitaku Helios"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -146,6 +150,9 @@
       "text": "\"Maybe just like Palmer-san, a \nfront-runner could actually win...!\"",
       "choice_data_list": [
         "...Hm?"
+      ],
+      "color_text_info_list": [
+        "Palmer"
       ]
     },
     {
@@ -180,7 +187,11 @@
     {
       "name": "Narrator",
       "text": "The ones who called out were Special Week, \nthe cheerful Umamusume raised in Hokkaido, \nand Grass Wonder, the strong-willed Yamato \nNadeshiko.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Special Week",
+        "Grass Wonder"
+      ]
     },
     {
       "name": "Chrono Genesis",
@@ -270,7 +281,10 @@
     {
       "name": "Grass Wonder",
       "text": "Fufufu. Spe-chan, if it's a rematch you \nwant, I'm ready to take you on anytime~♪",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Spe"
+      ]
     },
     {
       "name": "Narrator",

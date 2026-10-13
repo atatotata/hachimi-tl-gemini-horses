@@ -44,7 +44,11 @@
     {
       "name": "Narrator",
       "text": "âThe first day of taking on the Twinkle \nSeries with Loves Only You.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Loves Only You",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -148,6 +152,9 @@
       "text": "\"You got this too, Bridge!\" \"We're rooting \nfor you!\" \"Nice to meet you, our Trainer!\" \n\"Please take good care of Loves~!\"",
       "choice_data_list": [
         "...! Everyone...!"
+      ],
+      "color_text_info_list": [
+        "Loves"
       ]
     },
     {
@@ -249,7 +256,10 @@
     {
       "name": "Comments Section",
       "text": "\"Good work~\" \"So fired up~\" \"Things get \nintense once the debut is set.\" \n\"Impressive right from day one!\" \"That's \nTracen Academy for you.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Easily Bored Girl",

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-13 -- Restore color_text_info_list across 4,874 story timelines (12,432 spans)
+- Scanned all 22,113 story bundles in JP Persistent data; harvested 1,548 unique highlighted terms across 4,874 timelines.
+- Translated all terms (`gemini-3.8-flash-tiered`, low effort + master.mdb/nickname lookups) and injected 12,432 color spans into both repo and live Hachimi mirror with exact Hachimi block indexing (`bundle_block - 1`).
+- Eliminated `color text info X of block Y not found in dict` warnings and resulting Japanese text fallback in story mode.
+- Cleaned up 26 legacy story files with empty `color_text_info_list: []`.
+- index.json regenerated across all branches.
+
 ## 2026-10-13 -- JP update (2026-10-12): 132 new strings + 3 stories; Global minor sweep
 - Refreshed JP `master.mdb` (decompressed the new LZ4 bundle `dat/JB/JBAO5YANIL6BCTMTV2T3ZGRXBHUTWEIR`) and re-decrypted game `meta` (370,103 rows).
 - Translated **132** new untranslated master strings (`gemini-3.8-flash-tiered`, low effort):

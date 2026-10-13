@@ -4,7 +4,10 @@
     {
       "name": "Narrator",
       "text": "The new year arrived, and Sakura Laurel \nhad reached the Classic Year.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic Year"
+      ]
     },
     {
       "name": "Narrator",
@@ -42,7 +45,11 @@
     {
       "name": "Sakura Laurel",
       "text": "And the Arima Kinen too! A fierce race \nwhere both Senior and Classic classes \nclash together!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Senior Year"
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -72,7 +79,11 @@
     {
       "name": "Sakura Laurel",
       "text": "Did you see it too, Trainer? The way \nBrian-chan ran when competing for the \nJunior Class championship.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Junior Year",
+        "Brian"
+      ]
     },
     {
       "name": "Narrator",
@@ -159,12 +170,19 @@
     {
       "name": "Sakura Laurel",
       "text": "It made me realize... this is what it \ntakes to have the caliber of a \"Triple \nCrown Umamusume.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Crown"
+      ]
     },
     {
       "name": "Narrator",
       "text": "\"Triple Crown Umamusume\"... It is a title \nbestowed upon an Umamusume who sweeps all \nthree Classic races: the Satsuki Sho, \nJapan Derby, and Kikuka Sho.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
@@ -173,6 +191,9 @@
         "Let's keep observing patiently.",
         "Don't get so focused on watching that you \ncatch a chill.",
         "Shall we head back to the room and get \nright to researching?"
+      ],
+      "color_text_info_list": [
+        "Tracen Academy"
       ]
     },
     {

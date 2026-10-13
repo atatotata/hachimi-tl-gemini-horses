@@ -17,7 +17,10 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Fufu, your stories are always so \nexciting... and fun, Nakayama-san!"
+      "text": "Fufu, your stories are always so \nexciting... and fun, Nakayama-san!",
+      "color_text_info_list": [
+        "Nakayama"
+      ]
     },
     {
       "name": "？？？？",
@@ -32,7 +35,10 @@
     {
       "name": "？？？？",
       "text": "And this is Nakayama Festa-chan. She has a \nbit of an outlaw vibe, but she's a true \ngambler with a passionate heart.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Nakayama Festa"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -49,11 +55,18 @@
       "text": "\"Tosen Jordan-chan! A gal with true grit! \nWonder Acute-san! She's warm and sweet, \njust like a grandma~\"",
       "choice_data_list": [
         "I see... Wait, who have you even been \ntalking to this whole time?!"
+      ],
+      "color_text_info_list": [
+        "Tosen Jordan",
+        "Wonder Acute"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Hey hey~. It's the academy's info broker, \nTranscend~."
+      "text": "Hey hey~. It's the academy's info broker, \nTranscend~.",
+      "color_text_info_list": [
+        "Transcend"
+      ]
     },
     {
       "name": "Transcend",
@@ -342,6 +355,9 @@
       "choice_data_list": [
         "...I was taught all sorts of things, yeah.",
         "...You really taught me a lot of things, \nhuh."
+      ],
+      "color_text_info_list": [
+        "Tran"
       ]
     },
     {

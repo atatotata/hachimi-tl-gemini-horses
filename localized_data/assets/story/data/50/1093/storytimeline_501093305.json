@@ -140,12 +140,18 @@
     {
       "name": "K.S.Miracle",
       "text": "I've thought it over. Since I'm on the \nsprint route— I want to enter the Summer \nSprint.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Summer Sprint"
+      ]
     },
     {
       "name": "",
       "text": "The Summer Sprint is... one of the series \nheld annually around June through \nSeptember as part of the \"Summer Series.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Summer Series"
+      ]
     },
     {
       "name": "",
@@ -162,6 +168,9 @@
       "text": "First is your debut race. The Hakodate \nSprint Stakes in June... What do you \nthink?",
       "choice_data_list": [
         "(Next month, huh...)"
+      ],
+      "color_text_info_list": [
+        "Hakodate Sprint S."
       ]
     },
     {

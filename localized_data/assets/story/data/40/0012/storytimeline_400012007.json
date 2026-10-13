@@ -4,7 +4,10 @@
     {
       "name": "Narrator",
       "text": "Spring arrived as <chrname> moved up to the Classic \nClass. Excavation efforts at the hot \nspring resort were in full swing... but \nthen!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic Year"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -36,6 +39,9 @@
       "text": "Let's see... How about the legend of the \n\"Rainbow-Colored Hidden Spring\", said to \ncure all ailments?",
       "choice_data_list": [
         "\"The Legend of the Secret Hot Spring\"...?!"
+      ],
+      "color_text_info_list": [
+        "Legendary Hidden Spring"
       ]
     },
     {
@@ -112,6 +118,9 @@
       "choice_data_list": [
         "You're totally hooked on the legend of the \nhidden hot spring, huh?",
         "You're totally hooked on the legend of the \nhidden hot spring, aren't you?"
+      ],
+      "color_text_info_list": [
+        "Secret Spring of Legend"
       ]
     },
     {

@@ -25,7 +25,10 @@
     },
     {
       "name": "",
-      "text": "On this day, Fenomeno had been invited by \nBiko Pegasus, a sprint Umamusume with a \nheart of justice, to cross swords at the \nacademy's dojo."
+      "text": "On this day, Fenomeno had been invited by \nBiko Pegasus, a sprint Umamusume with a \nheart of justice, to cross swords at the \nacademy's dojo.",
+      "color_text_info_list": [
+        "Biko Pegasus"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -55,7 +58,10 @@
     {
       "name": "Bamboo Memory",
       "text": "Biko, Trainer! Hey there!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Biko"
+      ]
     },
     {
       "name": "",
@@ -63,6 +69,9 @@
       "choice_data_list": [
         "Hello. Seeing as you're here, that must \nmean...",
         "Hello. Seeing as you're here, that must \nmean..."
+      ],
+      "color_text_info_list": [
+        "Bamboo Memory"
       ]
     },
     {
@@ -190,12 +199,18 @@
     {
       "name": "Curren Chan",
       "text": "I see, I see. And so you came seeking \nCurren's advice! Well then, pardon me♪",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Curren"
+      ]
     },
     {
       "name": "",
       "text": "The sprint Umamusume Biko Pegasus \nintroduced to me, Curren Chan, is one of \nthe top social media experts at the \nacademy.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Curren Chan"
+      ]
     },
     {
       "name": "Curren Chan",

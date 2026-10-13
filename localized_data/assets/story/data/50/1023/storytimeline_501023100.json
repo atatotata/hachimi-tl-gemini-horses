@@ -43,7 +43,10 @@
     },
     {
       "name": "Young Hayahide",
-      "text": "<i>Pant... pant...</i> Okay! I'm gonna pick up\nthe pace,\nBrian!"
+      "text": "<i>Pant... pant...</i> Okay! I'm gonna pick up\nthe pace,\nBrian!",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Young Brian",
@@ -99,18 +102,27 @@
     },
     {
       "name": "Monologue",
-      "text": "When I greet Biwa Hayahide after her\nhealth\nexam, I'm glad to see her looking\nrefreshed and\nfree of worries."
+      "text": "When I greet Biwa Hayahide after her\nhealth\nexam, I'm glad to see her looking\nrefreshed and\nfree of worries.",
+      "color_text_info_list": [
+        "Biwa Hayahide"
+      ]
     },
     {
       "name": "Monologue",
       "text": "The two of us are going to tackle the\nTwinkle\nSeries starting today.",
       "choice_data_list": [
         "Let's do our best together!"
+      ],
+      "color_text_info_list": [
+        "Twinkle Series"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Indeed. Now that the date of my debut\nrace has\nbeen decided, we know what\nwe need to do."
+      "text": "Indeed. Now that the date of my debut\nrace has\nbeen decided, we know what\nwe need to do.",
+      "color_text_info_list": [
+        "Debut Race"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -137,6 +149,9 @@
       "text": "That's a pretty fast lap. I wouldn't\nexpect any less\nfrom Narita Brian's big\nsister.",
       "choice_data_list": [
         "Huh?"
+      ],
+      "color_text_info_list": [
+        "Narita Brian"
       ]
     },
     {

@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Starting this year, Agnes Tachyon and I\nwill be\nchallenging senior races."
+      "text": "Starting this year, Agnes Tachyon and I\nwill be\nchallenging senior races.",
+      "color_text_info_list": [
+        "Senior Year"
+      ]
     },
     {
       "name": "Monologue",
@@ -14,6 +17,9 @@
       "text": "I still haven't told Agnes Tachyon that,\nfor the\nupcoming year, I've planned out\nan ambitious\nagenda with the aim of\ndominating the medium\ndistance G1\nraces and the Grand Prix.",
       "choice_data_list": [
         "(If only this can help her push past her limits...!)"
+      ],
+      "color_text_info_list": [
+        "Grand Prix"
       ]
     },
     {
@@ -30,7 +36,12 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "That would include the Osaka Hai, the\n\nTakarazuka Kinen, the autumn Tenno\nSho, and\nthe Arima Kinen..."
+      "text": "That would include the Osaka Hai, the\n\nTakarazuka Kinen, the autumn Tenno\nSho, and\nthe Arima Kinen...",
+      "color_text_info_list": [
+        "Takarazuka Kinen",
+        "Tenno Sho (Autumn)",
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Agnes Tachyon",

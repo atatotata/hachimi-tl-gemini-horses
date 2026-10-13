@@ -57,6 +57,9 @@
       "choice_data_list": [
         "Well, you guys are roommates, after all.",
         "Well, you guys are roommates, after all."
+      ],
+      "color_text_info_list": [
+        "Crown"
       ]
     },
     {
@@ -92,7 +95,10 @@
     {
       "name": "Satono Crown",
       "text": "Alright, I brought Cheval along too!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Cheval"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -400,7 +406,10 @@
     {
       "name": "Satono Diamond",
       "text": "Kita-chan...—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Kita"
+      ]
     }
   ]
 }

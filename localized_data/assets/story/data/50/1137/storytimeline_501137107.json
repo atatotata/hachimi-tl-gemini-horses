@@ -27,11 +27,17 @@
       "choice_data_list": [
         "(W-Wow, she's so popular...!)",
         "(W-Wow, she's so popular...!)"
+      ],
+      "color_text_info_list": [
+        "Love"
       ]
     },
     {
       "name": "Narrator",
-      "text": "...For some reason, I spent that day \nwatching Kiseki participate in an event \nhosted by the streamer Umamusume, Loves \nOnly You, from the spectator seats."
+      "text": "...For some reason, I spent that day \nwatching Kiseki participate in an event \nhosted by the streamer Umamusume, Loves \nOnly You, from the spectator seats.",
+      "color_text_info_list": [
+        "Loves Only You"
+      ]
     },
     {
       "name": "Kiseki",
@@ -107,12 +113,18 @@
     {
       "name": "Chrono Genesis",
       "text": "Next up is, C-Chrono Genesis...! ...Here I \ngo...!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "C-Chrono Genesis"
+      ]
     },
     {
       "name": "Kiseki",
       "text": "(Whoa, Chrono-chan is next!? Are you okay \ngoing after this!? Good luck, okay!?)",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Chrono"
+      ]
     },
     {
       "name": "Kiseki",

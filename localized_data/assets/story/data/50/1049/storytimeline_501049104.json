@@ -52,6 +52,9 @@
       "text": "You've got this, Nakayama! You're\ngonna go take\ndown that Kyoto\ncrustacean, right?!",
       "choice_data_list": [
         "Wait, Gold Ship?!"
+      ],
+      "color_text_info_list": [
+        "Nakayama"
       ]
     },
     {
@@ -64,11 +67,17 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, no fair! <i>I</i> want that flavor instead!"
+      "text": "Hey, no fair! <i>I</i> want that flavor instead!",
+      "color_text_info_list": [
+        "Golshi"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Nakayama Festa and Gold Ship are\npreparing for\na partner run. I don't\nremember putting this on\nNakayama's\nschedule though..."
+      "text": "Nakayama Festa and Gold Ship are\npreparing for\na partner run. I don't\nremember putting this on\nNakayama's\nschedule though...",
+      "color_text_info_list": [
+        "Gold Ship"
+      ]
     },
     {
       "name": "Nakayama Festa",

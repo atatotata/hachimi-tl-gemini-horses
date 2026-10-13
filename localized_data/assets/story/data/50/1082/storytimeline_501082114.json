@@ -47,12 +47,19 @@
     },
     {
       "name": "Narrator",
-      "text": "Drawn by the loud shouting, I looked over \nand saw Winning Ticket and Yukino Bijin. \nBoth are Umamusume from the same \ngeneration as North Flight."
+      "text": "Drawn by the loud shouting, I looked over \nand saw Winning Ticket and Yukino Bijin. \nBoth are Umamusume from the same \ngeneration as North Flight.",
+      "color_text_info_list": [
+        "Winning Ticket",
+        "Yukino Bijin"
+      ]
     },
     {
       "name": "Winning Ticket",
       "text": "Incredible, that was incredible, \nYuki-chaaan!! You set a new personal best!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Yuki"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -82,7 +89,11 @@
     {
       "name": "Winning Ticket",
       "text": "Yuki-chan is on the Triple Tiara route, \nand I'm on the Classic Triple Crown route! \nOur dreams are waiting for us!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Tiara",
+        "Classic Triple Crown"
+      ]
     },
     {
       "name": "Narrator",
@@ -92,7 +103,15 @@
     {
       "name": "Narrator",
       "text": "\"The Tiara route consists of the Oka Sho, \nYushun Himba, and Shuka Sho, while the \nClassic Triple Crown route consists of the \nSatsuki Sho, Japanese Derby, and Kikuka \nSho.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho",
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Narrator",
@@ -337,6 +356,10 @@
       "text": "Daitaku Helios was the winner of last \nyear's Mile Championship, but... the \nwinning time was—",
       "choice_data_list": [
         "1 minute 34.8 seconds!"
+      ],
+      "color_text_info_list": [
+        "Mile Championship",
+        "Daitaku Helios"
       ]
     },
     {
