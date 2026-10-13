@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-13 -- JP update (2026-10-12): 132 new strings + 3 stories; Global minor sweep
+- Refreshed JP `master.mdb` (decompressed the new LZ4 bundle `dat/JB/JBAO5YANIL6BCTMTV2T3ZGRXBHUTWEIR`) and re-decrypted game `meta` (370,103 rows).
+- Translated **132** new untranslated master strings (`gemini-3.8-flash-tiered`, low effort):
+  - **46** `character_system_text` rows for Duramente **[Claret Nosferatu]** (Halloween costume voices, `voice_id` 90010+).
+  - **86** `text_data` rows: costume name (cat 4), new skills (47/48), missions (65/66/67), story titles (181), bonus mechanics (187/188), PakaLive TV + 7th EVENT WORLD TOUR "THE STAGE" in Los Angeles DAY1/DAY2 (266/269), Umayuru anime (147/172), etc.
+- Extracted and translated **3** new Duramente Halloween story timelines (`storytimeline_501108800`/`801`/`802`; 51/50/50 blocks).
+- Ported the Global minor update via `sync_global.py`: **18** `text_data` + **117** `cst` Global→MT overwrites (SD cat48 preserved).
+- Index regenerated (23,673 files); repo and Hachimi mirror kept byte-identical.
+
 ## 2026-09-30 -- Translate 2 new race jikkyo messages
 - Full sweep of `master.mdb` (627 tables) + decrypted game meta confirmed all standard text is translated; the only gap was 2 new `race_jikkyo_message` rows. Added:
   - `4196`: "Autumn's Kyoto is ablaze with orchids too! / Narita Brian, watch this! / Phalaenopsis has magnificently claimed the Shuka Sho!"
