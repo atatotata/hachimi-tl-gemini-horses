@@ -25,7 +25,10 @@
     {
       "name": "Narrator",
       "text": "Before signing a Trainer contract with \nher, we worked together as staff for a URA \nevent.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "URA"
+      ]
     },
     {
       "name": "Narrator",
@@ -275,6 +278,9 @@
       "text": "Which means this is also part of your \nwork...? That's incredible. I have my \nhands completely full just mentoring \nBitter Glasse and Little Cocon...",
       "choice_data_list": [
         "Ah, that was thanks to Royce's advice—"
+      ],
+      "color_text_info_list": [
+        "Meek"
       ]
     },
     {

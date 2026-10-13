@@ -4,7 +4,10 @@
     {
       "name": "Narrator",
       "text": "At the start of the new year, the URA \nholds an award ceremony for the Umamusume \nwho excelled in the previous year.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "URA"
+      ]
     },
     {
       "name": "Narrator",
@@ -14,7 +17,10 @@
     {
       "name": "Host",
       "text": "And now, for the grand finale! The Best \nClassic-tier Queen Umamusume and—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Best Classic-Tier Queen Umamusume"
+      ]
     },
     {
       "name": "Host",
@@ -113,7 +119,10 @@
     {
       "name": "Narrator",
       "text": "Gold Ship was also honored today as the \nBest Classic Umamusume. She was supposed \nto attend normally in her school uniform, \nbut...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Best Classic-Tier Umamusume"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -253,7 +262,11 @@
     {
       "name": "Narrator",
       "text": "Her name is Curren Chan. Currently active \nin sprints, she's a powerhouse who was \njust awarded Best Senior Queen Umamusume.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Curren Chan",
+        "Best Senior-Tier Queen Umamusume"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -270,11 +283,17 @@
       "text": "Curren was aiming for that too, though~ \nUmamusume of the Year! It's proof that you \ntruly went viral, after all.",
       "choice_data_list": [
         "Buzz...?"
+      ],
+      "color_text_info_list": [
+        "Curren"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Curren is on Umastagram! Could you take \nout your phone?"
+      "text": "Curren is on Umastagram! Could you take \nout your phone?",
+      "color_text_info_list": [
+        "Umasta"
+      ]
     },
     {
       "name": "Curren Chan",

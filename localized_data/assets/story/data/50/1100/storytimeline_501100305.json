@@ -125,7 +125,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Then <i>I</i> insist you come with news of\nvictory in a\nsenior G1 race on your lips!"
+      "text": "Then <i>I</i> insist you come with news of\nvictory in a\nsenior G1 race on your lips!",
+      "color_text_info_list": [
+        "Senior Year"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -205,7 +208,10 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Do I really have what it takes to catch\nFalco right\nnow? Be honest."
+      "text": "Do I really have what it takes to catch\nFalco right\nnow? Be honest.",
+      "color_text_info_list": [
+        "Falco"
+      ]
     },
     {
       "name": "Monologue",
@@ -240,6 +246,10 @@
       "text": "That may be too much for her to handle\nso soon,\nthough. We should probably\nease into things with\na G2... No, a G3...",
       "choice_data_list": [
         "How about the 'Sirius Stakes'?"
+      ],
+      "color_text_info_list": [
+        "GⅡ",
+        "GⅢ"
       ]
     },
     {
@@ -260,7 +270,10 @@
     },
     {
       "name": "Monologue",
-      "text": "We return to camp on an overnight bus.\nNow that\nwe've got our sights set on the\nSirius Stakes, it's\ntime to jump back into\nintensive training."
+      "text": "We return to camp on an overnight bus.\nNow that\nwe've got our sights set on the\nSirius Stakes, it's\ntime to jump back into\nintensive training.",
+      "color_text_info_list": [
+        "Sirius S."
+      ]
     }
   ]
 }

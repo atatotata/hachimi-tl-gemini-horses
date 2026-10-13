@@ -13,7 +13,10 @@
     {
       "name": "Local Merchant",
       "text": "Step right up, the New Year's Grand Raffle \nFestival is underway~! \nThe special prize is none other than a \n'Hot Springs Trip Voucher'!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Hot Spring Ticket"
+      ]
     },
     {
       "name": "Local Merchant",
@@ -70,7 +73,10 @@
     {
       "name": "Narrator",
       "text": "Obtained <itemname>.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -170,7 +176,10 @@
     {
       "name": "Narrator",
       "text": "Obtained '<itemname>'.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -264,7 +273,10 @@
     {
       "name": "Narrator",
       "text": "Obtained <itemname>.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -360,7 +372,10 @@
     {
       "name": "Narrator",
       "text": "Obtained <itemname>.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Phalaenopsis",
@@ -420,6 +435,9 @@
       "text": "Obtained <itemname>.",
       "choice_data_list": [
         "N-No way......!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {

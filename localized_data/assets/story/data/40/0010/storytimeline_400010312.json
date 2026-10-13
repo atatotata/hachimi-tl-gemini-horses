@@ -11,11 +11,17 @@
       "text": "Now then. If I recall correctly, you are \nSirius's Trainer as well, yes?",
       "choice_data_list": [
         "Ah, yes!"
+      ],
+      "color_text_info_list": [
+        "Sirius"
       ]
     },
     {
       "name": "Speed Symboli",
-      "text": "\"In that case, let's head to the student \ncouncil room together. The Symboli family \nmembers have invited me over, you see.\""
+      "text": "\"In that case, let's head to the student \ncouncil room together. The Symboli family \nmembers have invited me over, you see.\"",
+      "color_text_info_list": [
+        "Symboli family"
+      ]
     },
     {
       "name": "Narrator",
@@ -76,6 +82,12 @@
       "choice_data_list": [
         "(She really is a legendary Umamusume, after all...)",
         "(She really is a legendary Umamusume, after all...)"
+      ],
+      "color_text_info_list": [
+        "Emperor",
+        "Symboli Rudolf",
+        "Jet-Black Emperor",
+        "Symboli Kris S"
       ]
     },
     {
@@ -118,7 +130,10 @@
     {
       "name": "Speed Symboli",
       "text": "Fufu. Sounds good to me, Rudolf. ...So, \nwhat kind of plan do you have in mind?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -147,6 +162,9 @@
       "text": "I knew full well how fearless Sirius \nSymboli was, but... to think she'd keep up \nthat exact same attitude with Speed \nSymboli.",
       "choice_data_list": [
         "(I knew she was amazing, but...)"
+      ],
+      "color_text_info_list": [
+        "Sirius Symboli"
       ]
     },
     {

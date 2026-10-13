@@ -9,7 +9,10 @@
     {
       "name": "Shopping District Local",
       "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Hot Spring Ticket"
+      ]
     },
     {
       "name": "Shopping District Local",
@@ -76,7 +79,10 @@
     {
       "name": "",
       "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -174,7 +180,10 @@
     {
       "name": "",
       "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -244,7 +253,10 @@
     {
       "name": "",
       "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -325,7 +337,10 @@
     {
       "name": "",
       "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",
@@ -347,13 +362,19 @@
     {
       "name": "Tsurumaru Tsuyoshi",
       "text": "Wait, Fukukitaru-san!?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Fukukitaru"
+      ]
     },
     {
       "name": "",
       "text": "The one who appeared was \nMatikanefukukitaru, Tracen Academy's proud \nresident fortune-teller Umamusume.",
       "choice_data_list": [
         "By the way, the lottery isn't \nfortune-telling, you know?"
+      ],
+      "color_text_info_list": [
+        "Matikanefukukitaru"
       ]
     },
     {
@@ -417,7 +438,10 @@
     {
       "name": "",
       "text": "Acquired \"<itemname>\".",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tsurumaru Tsuyoshi",

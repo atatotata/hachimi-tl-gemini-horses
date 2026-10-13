@@ -24,7 +24,10 @@
     {
       "name": "Wonder Acute",
       "text": "Mornin', Tran-san. Or rather, afternoon. \nYou've been fast asleep this whole time. \nAre you feeling alright...?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tran"
+      ]
     },
     {
       "name": "Transcend",
@@ -54,7 +57,10 @@
     {
       "name": "Wonder Acute",
       "text": "My, oh my, are you alright, Teio-chan? \nShould I fetch some eye drops?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Teio"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -69,7 +75,10 @@
     {
       "name": "Hokko Tarumae",
       "text": "Ah, good work today! Are you running too, \nBourbon-san... wait, guess not. Um, were \nyou in a hurry for something?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Bourbon"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -104,7 +113,10 @@
     {
       "name": "Wonder Acute",
       "text": "Oh my... Even Tarumae-chan and the \nothers...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tarumae"
+      ]
     },
     {
       "name": "",
@@ -172,7 +184,11 @@
     {
       "name": "Chairwoman Akikawa",
       "text": "And now, taking the stage! One of the \nURA's premier retreat facilities! It's the \ncrew from the \"Yukoma Hot Springs\"~!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "URA",
+        "Yukoma Hot Springs"
+      ]
     },
     {
       "name": "Chairwoman Akikawa",
@@ -232,16 +248,25 @@
       "text": "—Yes, everyone. My apologies for making a \nspectacle of myself. What you just heard \nwas the traditional \"Bath-Treading Song\" \npassed down in our hot spring village.",
       "choice_data_list": [
         "(Hot water treading...?)"
+      ],
+      "color_text_info_list": [
+        "Spa-Stepping Song"
       ]
     },
     {
       "name": "Takeshi Hoshina",
-      "text": "Pardon me for not introducing myself \nsooner. I am the proprietress of Yukoma \nRyokan, Kenko Hoshina."
+      "text": "Pardon me for not introducing myself \nsooner. I am the proprietress of Yukoma \nRyokan, Kenko Hoshina.",
+      "color_text_info_list": [
+        "Takeshi Hoshina"
+      ]
     },
     {
       "name": "Yunohana Bloom",
       "text": "\"And as for me, I am currently training to \nbe her successor... My name is Yunohana \nBloom.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Yunohana Bloom"
+      ]
     },
     {
       "name": "Yunohana Bloom",
@@ -261,7 +286,10 @@
     {
       "name": "Takeshi Hoshina",
       "text": "\"We extended this invitation in hopes that \neveryone at Tracen Academy would make even \ngreater use of the healing powers of our \nhot springs.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Transcend",
@@ -281,7 +309,10 @@
     {
       "name": "Chairwoman Akikawa",
       "text": "Wah-hah-hah-hah! ARRANGED! Fear not, \nTazuna gave her permission this time! \nAfter all, it defeats the purpose if you \ncannot drop by casually!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tazuna"
+      ]
     },
     {
       "name": "Takeshi Hoshina",
@@ -327,7 +358,10 @@
     },
     {
       "name": "",
-      "text": "Wonder Acute's words make total sense. \nPutting off problems just because it's \nhard to find time to rest isn't right..."
+      "text": "Wonder Acute's words make total sense. \nPutting off problems just because it's \nhard to find time to rest isn't right...",
+      "color_text_info_list": [
+        "Wonder Acute"
+      ]
     },
     {
       "name": "",

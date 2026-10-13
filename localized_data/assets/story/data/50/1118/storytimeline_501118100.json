@@ -29,7 +29,10 @@
     {
       "name": "Mid-Level Trainer",
       "text": "――Ah, that one is scheduled to debut this \nyear... Admire Groove, I believe.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Admire Groove"
+      ]
     },
     {
       "name": "Veteran Reporter",
@@ -39,7 +42,10 @@
     {
       "name": "Veteran Reporter",
       "text": "Admire Groove, the \"child prodigy\"...! I \nsee...! Finally...!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Prodigy"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -74,7 +80,10 @@
     {
       "name": "Junior Umamusume A",
       "text": "Alv-senpai is just in a different \nleague... Honestly, I'm glad she's not in \nour generation...",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Arve"
+      ]
     },
     {
       "name": "Junior Umamusume B",
@@ -235,7 +244,12 @@
     },
     {
       "name": "Admire Groove",
-      "text": "\"...That is correct. The Oka Sho, the \nOaks, the Shuka Sho... To conquer them \nall—\""
+      "text": "\"...That is correct. The Oka Sho, the \nOaks, the Shuka Sho... To conquer them \nall—\"",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Admire Groove",
@@ -332,6 +346,9 @@
       "text": "A familiar Umamusume spoke to me. It was \nNeo Universe, who debuted in the same year \nas Admire Groove.",
       "choice_data_list": [
         "Um...?"
+      ],
+      "color_text_info_list": [
+        "Neo Universe"
       ]
     },
     {
@@ -409,7 +426,10 @@
     {
       "name": "Narrator",
       "text": "The solitary Umamusume continues to run \ntoday without uttering a single complaint. \nAll to win the Triple Tiara.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Tiara"
+      ]
     },
     {
       "name": "Narrator",
@@ -419,7 +439,10 @@
     {
       "name": "Narrator",
       "text": "With differing motives in mind, the story \nof our journey toward the Twinkle Series \nbegins――",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     }
   ]
 }

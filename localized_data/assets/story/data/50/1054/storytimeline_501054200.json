@@ -91,12 +91,20 @@
     {
       "name": "Narrator",
       "text": "The pure and innocent girl, Nishino \nFlower. And the reciter of the wind, \nYamanin Zephyr.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Nishino Flower",
+        "Yamanin Zephyr"
+      ]
     },
     {
       "name": "Biko Pegasus",
       "text": "Ohh...! Flower, and Zephyr-senpai! You \nwent out of your way to come!?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Flower",
+        "Zephyr"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -143,7 +151,10 @@
     },
     {
       "name": "Narrator",
-      "text": "The curtain rises on the Make Debut...!"
+      "text": "The curtain rises on the Make Debut...!",
+      "color_text_info_list": [
+        "Debut Race"
+      ]
     }
   ]
 }

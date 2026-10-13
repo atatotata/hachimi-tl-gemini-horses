@@ -200,7 +200,10 @@
     {
       "name": "Durandal",
       "text": "\"Fine-san...! I never imagined you'd \nactually come...\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Fine"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -256,11 +259,17 @@
       "text": "\"Durandal will soon enter the Classic \nclass. When it comes to the race \nrepresenting the sprint division for the \nClassic class, it has to be THAT race.\"",
       "choice_data_list": [
         "I was thinking of aiming for the NHK Mile Cup next spring."
+      ],
+      "color_text_info_list": [
+        "Classic Year"
       ]
     },
     {
       "name": "Durandal",
-      "text": "\"The NHK Mile Cup...! A prestigious 1,600m \nGⅠ!\""
+      "text": "\"The NHK Mile Cup...! A prestigious 1,600m \nGⅠ!\"",
+      "color_text_info_list": [
+        "NHK Mile C."
+      ]
     },
     {
       "name": "Durandal",

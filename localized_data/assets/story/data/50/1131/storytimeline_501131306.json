@@ -211,18 +211,27 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "\"The NHK Mile Cup—that's 1,600m at Tokyo \nRacecourse, isn't it?\""
+      "text": "\"The NHK Mile Cup—that's 1,600m at Tokyo \nRacecourse, isn't it?\"",
+      "color_text_info_list": [
+        "NHK Mile C."
+      ]
     },
     {
       "name": "Former Mile King Trainer",
       "text": "I see, Rhein Kraft, huh.",
       "choice_data_list": [
         "Yes. We're going down the irregular Double \nCrown route."
+      ],
+      "color_text_info_list": [
+        "Rhein Kraft"
       ]
     },
     {
       "name": "Narrator",
-      "text": "The unorthodox double crown of the Oka Sho \nand the NHK Mile Cup. It was a racing \nrotation first blazed by Rhein Kraft."
+      "text": "The unorthodox double crown of the Oka Sho \nand the NHK Mile Cup. It was a racing \nrotation first blazed by Rhein Kraft.",
+      "color_text_info_list": [
+        "Unorthodox Double Crown"
+      ]
     },
     {
       "name": "Narrator",
@@ -259,7 +268,10 @@
     {
       "name": "Narrator",
       "text": "Because she possesses talent surpassing \neven historical Triple Crown Umamusume, \nthere is true meaning in running the NHK \nMile Cup.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Crown"
+      ]
     },
     {
       "name": "Gran Alegria",

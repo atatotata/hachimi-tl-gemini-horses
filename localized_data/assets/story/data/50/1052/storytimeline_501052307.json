@@ -3,13 +3,16 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One day, as Haru Urara is steadily\ngaining\nrecognition and nearing the end\nof her classic\nyear..."
+      "text": "One day, as Haru Urara is steadily\ngaining\nrecognition and nearing the end\nof her classic\nyear...",
+      "color_text_info_list": [
+        "Classic Year"
+      ]
     },
     {
       "name": "Haru Urara",
       "text": "Hey, Trainer! Let's go to that Arima\nKinen race\nthing!",
       "color_text_info_list": [
-        "Classic Year"
+        "Arima Kinen"
       ],
       "choice_data_list": [
         "The Arima Kinen?"
@@ -17,29 +20,26 @@
     },
     {
       "name": "Monologue",
-      "text": "The Arima Kinen... A very high-profile\nrace where\nparticipants are selected\nthrough a fan vote.",
-      "color_text_info_list": [
-        "Arima Kinen"
-      ]
+      "text": "The Arima Kinen... A very high-profile\nrace where\nparticipants are selected\nthrough a fan vote."
     },
     {
       "name": "Haru Urara",
-      "text": "I heard both Spe and Grass are gonna be\nin it!\nThey've been training super hard!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Sei said she's going too, so I wanna go\ntoo!",
+      "text": "I heard both Spe and Grass are gonna be\nin it!\nThey've been training super hard!",
       "color_text_info_list": [
         "Spe",
         "Grass"
       ]
     },
     {
-      "name": "Monologue",
-      "text": "I'm sure watching some top-class racers\nwill have\na positive impact on Haru\nUrara.",
+      "name": "Haru Urara",
+      "text": "Sei said she's going too, so I wanna go\ntoo!",
       "color_text_info_list": [
         "Sei"
       ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm sure watching some top-class racers\nwill have\na positive impact on Haru\nUrara."
     },
     {
       "name": "Monologue",
@@ -59,15 +59,15 @@
     },
     {
       "name": "Monologue",
-      "text": "Special Week and Grass Wonder are\nboth among\nthis year's most-watched\nUmamusume."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "And a bunch of older Umamusume are\nracing too!\nIt must be so cool to race\nalongside them!",
+      "text": "Special Week and Grass Wonder are\nboth among\nthis year's most-watched\nUmamusume.",
       "color_text_info_list": [
         "Special Week",
         "Grass Wonder"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "And a bunch of older Umamusume are\nracing too!\nIt must be so cool to race\nalongside them!"
     },
     {
       "name": "Haru Urara",
@@ -245,14 +245,14 @@
     },
     {
       "name": "Monologue",
-      "text": "If Haru Urara wants to enter the Arima\nKinen,\nshe'll first have to prove that\nshe's got what it\ntakes by placing high in\ngraded races."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Well, you'll help me, right? I'll run a\nbunch, so\nwe'll be fine!",
+      "text": "If Haru Urara wants to enter the Arima\nKinen,\nshe'll first have to prove that\nshe's got what it\ntakes by placing high in\ngraded races.",
       "color_text_info_list": [
         "Graded Race"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Well, you'll help me, right? I'll run a\nbunch, so\nwe'll be fine!"
     },
     {
       "name": "Haru Urara",

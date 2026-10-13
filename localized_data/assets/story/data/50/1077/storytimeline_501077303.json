@@ -208,7 +208,10 @@
     {
       "name": "Narita Top Road",
       "text": "Which race should we aim for? A graded \nrace this autumn, perhaps? Or maybe—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Graded Race"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -216,6 +219,9 @@
       "choice_data_list": [
         "No, the target race is...",
         "No, the target race is..."
+      ],
+      "color_text_info_list": [
+        "GⅠ"
       ]
     },
     {

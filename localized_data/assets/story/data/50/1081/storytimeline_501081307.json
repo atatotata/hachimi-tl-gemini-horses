@@ -99,7 +99,11 @@
     {
       "name": "Wonder Acute",
       "text": "\"Alright, alright, we're on our way. \nRickey-chan, Tarumae-chan.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Rickey",
+        "Tarumae"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -210,7 +214,10 @@
     },
     {
       "name": "Narrator",
-      "text": "I flip through the calendar to check the \nGⅠ race schedule. The Tokyo Daishoten... \nis far too close."
+      "text": "I flip through the calendar to check the \nGⅠ race schedule. The Tokyo Daishoten... \nis far too close.",
+      "color_text_info_list": [
+        "Tokyo Daishoten"
+      ]
     },
     {
       "name": "Narrator",

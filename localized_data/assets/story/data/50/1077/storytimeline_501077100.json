@@ -81,7 +81,11 @@
     },
     {
       "name": "Narrator",
-      "text": "With our challenge in the Twinkle Series \nfinally underway, I shared a refreshing \nhandshake with Narita Top Road."
+      "text": "With our challenge in the Twinkle Series \nfinally underway, I shared a refreshing \nhandshake with Narita Top Road.",
+      "color_text_info_list": [
+        "Twinkle Series",
+        "Narita Top Road"
+      ]
     },
     {
       "name": "Narrator",
@@ -91,12 +95,18 @@
     {
       "name": "Teacher",
       "text": "I knew she had enrolled in Tracen Academy, \nbut... I never imagined you'd be the one \ntraining her.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Teacher",
       "text": "\"Way back when I was coaching at the \nUmamusume Kids' Club, Top Road joined us. \nShe stood out even back then.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Top Road"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -188,6 +198,9 @@
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
+      ],
+      "color_text_info_list": [
+        "Debut Race"
       ]
     },
     {
@@ -227,7 +240,10 @@
     {
       "name": "Narita Top Road",
       "text": "Good work, Ayabe-san!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ayabe"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -262,7 +278,10 @@
     {
       "name": "Narrator",
       "text": "This Umamusume is Admire Vega. She's in \nthe same class as Narita Top Road, and \ncarries an air of dark sorrow about her.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Admire Vega"
+      ]
     },
     {
       "name": "Narrator",

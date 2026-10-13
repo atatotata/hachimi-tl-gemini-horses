@@ -35,15 +35,25 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Yoo-hoo! Mayano!"
+      "text": "Yoo-hoo! Mayano!",
+      "color_text_info_list": [
+        "Mayano"
+      ]
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Hi, Teio! ♪ What's up? Did you come to\nplay with\nme?"
+      "text": "Hi, Teio! ♪ What's up? Did you come to\nplay with\nme?",
+      "color_text_info_list": [
+        "Teio"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "(This is Tokai Teio. She's Mayano Top\nGun's\nroommate and an admirer of\nStudent Council\nPresident Symboli\nRudolf.)"
+      "text": "(This is Tokai Teio. She's Mayano Top\nGun's\nroommate and an admirer of\nStudent Council\nPresident Symboli\nRudolf.)",
+      "color_text_info_list": [
+        "Tokai Teio",
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -58,6 +68,9 @@
       "text": "For instance, you could watch Narita\nBrian race.\nBut it'd be boring to watch\nalone!",
       "choice_data_list": [
         "(...\"Narita Brian\"...)"
+      ],
+      "color_text_info_list": [
+        "Narita Brian"
       ]
     },
     {
@@ -106,7 +119,10 @@
     },
     {
       "name": "Caster",
-      "text": "Does anyone even stand a chance\nagainst Brian?!\nHere she comes, and\nshe's crossed the finish line!"
+      "text": "Does anyone even stand a chance\nagainst Brian?!\nHere she comes, and\nshe's crossed the finish line!",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Caster",
@@ -162,11 +178,19 @@
     },
     {
       "name": "Monologue",
-      "text": "There are sayings regarding each of the\nG1 races\nthat form the Triple Crown\ntour."
+      "text": "There are sayings regarding each of the\nG1 races\nthat form the Triple Crown\ntour.",
+      "color_text_info_list": [
+        "GI"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The fastest racer wins the Satsuki Sho.\nThe\nluckiest racer wins the Japanese\nDerby. The\nstrongest racer wins the\nKikuka Sho."
+      "text": "The fastest racer wins the Satsuki Sho.\nThe\nluckiest racer wins the Japanese\nDerby. The\nstrongest racer wins the\nKikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Monologue",
