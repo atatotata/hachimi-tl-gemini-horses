@@ -53,7 +53,10 @@
     },
     {
       "name": "Reporter A",
-      "text": "\"You finished 5th in the recent Japanese \nOaks. What are your honest thoughts on \nthat, Ruby-san?\""
+      "text": "\"You finished 5th in the recent Japanese \nOaks. What are your honest thoughts on \nthat, Ruby-san?\"",
+      "color_text_info_list": [
+        "Japanese Oaks"
+      ]
     },
     {
       "name": "",
@@ -98,7 +101,12 @@
     {
       "name": "Daiichi Ruby",
       "text": "Having won both the Rose Stakes and the \nShuka Sho, I shall now challenge the title \nmy mother once claimed—the Queen Elizabeth \nII Cup.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Rose Stakes",
+        "Shuka Sho",
+        "Queen Elizabeth II Cup"
+      ]
     },
     {
       "name": "Daiichi Ruby",

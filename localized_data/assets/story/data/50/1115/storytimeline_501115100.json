@@ -24,7 +24,10 @@
     {
       "name": "Orfevre",
       "text": "Cover it all over in the name of the great \nOrfevre!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Orfevre"
+      ]
     },
     {
       "name": "Narrator",
@@ -34,7 +37,10 @@
     {
       "name": "Narrator",
       "text": "Shortly after signing the contract to \nbecome Orfevre's trainer and having her \nMake a Debut date set—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Debut Race"
+      ]
     },
     {
       "name": "Reporter",
@@ -132,7 +138,12 @@
     {
       "name": "Narrator",
       "text": "She is Dream Journey. A premier, top-tier \nUmamusume of incredible skill, having \nconquered both the Takarazuka Kinen and \nArima Kinen last year.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Dream Journey",
+        "Takarazuka Kinen",
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Narrator",
@@ -147,7 +158,10 @@
     {
       "name": "Reporter",
       "text": "Um, Journey-san. What did you mean by what \nyou just said...?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Journey"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -198,7 +212,10 @@
     {
       "name": "Orfe's Retainer B",
       "text": "\"Lady Orfe...! Forgive my insolence before \nyour presence, but I will not let you \npass...!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Orfe"
+      ]
     },
     {
       "name": "Orfevre",
@@ -281,12 +298,23 @@
     },
     {
       "name": "Narrator",
-      "text": "The Classic Triple Crown... Consisting of \nthe Satsuki Sho, the Nippon Derby, and the \nKikuka Sho, it is the pinnacle of glory \none can attain in the Classic division."
+      "text": "The Classic Triple Crown... Consisting of \nthe Satsuki Sho, the Nippon Derby, and the \nKikuka Sho, it is the pinnacle of glory \none can attain in the Classic division.",
+      "color_text_info_list": [
+        "Classic Triple Crown",
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho",
+        "Classic Year"
+      ]
     },
     {
       "name": "Narrator",
       "text": "In the past, six of the strongest \nUmamusume, including Symboli Rudolf and \nNarita Brian, have claimed it.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Symboli Rudolf",
+        "Narita Brian"
+      ]
     },
     {
       "name": "Reporter",
@@ -348,6 +376,9 @@
       "text": "\"I was just speaking with Orfevre, you \nsee. Would you permit me to lend a small \nhand as well?\"",
       "choice_data_list": [
         "Helping out?"
+      ],
+      "color_text_info_list": [
+        "Orfe"
       ]
     },
     {
@@ -368,7 +399,10 @@
     },
     {
       "name": "Narrator",
-      "text": "First and foremost, this is a massive \nopportunity that is normally never given \nto a Junior-class Umamusume. I believe \neven Orfevre would agree."
+      "text": "First and foremost, this is a massive \nopportunity that is normally never given \nto a Junior-class Umamusume. I believe \neven Orfevre would agree.",
+      "color_text_info_list": [
+        "Junior Year"
+      ]
     },
     {
       "name": "Dream Journey",
@@ -527,7 +561,10 @@
     {
       "name": "Narrator",
       "text": "In the Twinkle Series— Our path of \nconquest alongside Orfevre begins.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     }
   ]
 }

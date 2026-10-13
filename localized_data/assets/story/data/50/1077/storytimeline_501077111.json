@@ -29,17 +29,27 @@
     {
       "name": "Jungle Pocket",
       "text": "\"All right! I'm not gonna lose to you, \nCafe!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Cafe"
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "...I'm in your care, Pokke-san.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Pokke"
+      ]
     },
     {
       "name": "Narrator",
       "text": "Eras shift. The terrifying delinquent, \n\"Jungle Pocket.\" The mysterious girl, \n\"Manhattan Cafe.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Jungle Pocket",
+        "Manhattan Cafe"
+      ]
     },
     {
       "name": "Narrator",
@@ -241,7 +251,10 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "Tap-chan, thank you for our first race \ntogether!"
+      "text": "Tap-chan, thank you for our first race \ntogether!",
+      "color_text_info_list": [
+        "Tap"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -261,7 +274,12 @@
     {
       "name": "Narita Top Road",
       "text": "Kris S-san, Fine-chan, Shakur-chan, \nMirako-chan, thank you all for your help \ntoday.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Kris S",
+        "Fine",
+        "Shakur"
+      ]
     },
     {
       "name": "Narita Top Road",

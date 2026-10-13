@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Today is the day Curren Chan starts\nseriously\ntraining for the Twinkle Series."
+      "text": "Today is the day Curren Chan starts\nseriously\ntraining for the Twinkle Series.",
+      "color_text_info_list": [
+        "Twinkle Series",
+        "Curren Chan"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -26,6 +30,9 @@
       "text": "How'd I do? I ran as fast as I could!",
       "choice_data_list": [
         "That was an incredible run!"
+      ],
+      "color_text_info_list": [
+        "Curren"
       ]
     },
     {
@@ -188,7 +195,13 @@
     },
     {
       "name": "Monologue",
-      "text": "Runners have to win three particular G1\n\nraces—the Oka Sho, the Japanese Oaks,\nand the\nShuka Sho—in order to claim the\nTriple Tiara."
+      "text": "Runners have to win three particular G1\n\nraces—the Oka Sho, the Japanese Oaks,\nand the\nShuka Sho—in order to claim the\nTriple Tiara.",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho",
+        "GI"
+      ]
     },
     {
       "name": "Monologue",

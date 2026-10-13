@@ -94,6 +94,9 @@
       "text": "How about making the Takarazuka Kinen our \ntarget race for the Senior Class?",
       "choice_data_list": [
         "The Takarazuka Kinen..."
+      ],
+      "color_text_info_list": [
+        "Takarazuka Kinen"
       ]
     },
     {
@@ -103,7 +106,10 @@
     {
       "name": "Dantsu Flame",
       "text": "\"Well, it is the royal road's grand spring \nGrand Prix, so there's that, of course.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Grand Prix"
+      ]
     },
     {
       "name": "Dantsu Flame",
@@ -157,7 +163,10 @@
     },
     {
       "name": "Narrator",
-      "text": "A Senior-class GIII middle-distance race \nheld in Niigata. If I recall correctly, \nMejiro Palmer, a Takarazuka Kinen winner, \nalso claimed victory here."
+      "text": "A Senior-class GIII middle-distance race \nheld in Niigata. If I recall correctly, \nMejiro Palmer, a Takarazuka Kinen winner, \nalso claimed victory here.",
+      "color_text_info_list": [
+        "Mejiro Palmer"
+      ]
     },
     {
       "name": "Narrator",
@@ -177,7 +186,10 @@
     {
       "name": "Narrator",
       "text": "Steadily, one step at a time. First, the \nNiigata Daishoten. I want to win that and \ncarry the momentum into the Takarazuka \nKinen!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Niigata Daishoten"
+      ]
     }
   ]
 }

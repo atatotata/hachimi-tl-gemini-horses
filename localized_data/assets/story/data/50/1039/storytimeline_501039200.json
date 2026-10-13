@@ -93,7 +93,10 @@
     },
     {
       "name": "Monologue",
-      "text": "The day has come for Kawakami Princess\nto make\nher debut."
+      "text": "The day has come for Kawakami Princess\nto make\nher debut.",
+      "color_text_info_list": [
+        "Debut Race"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -108,6 +111,11 @@
       "text": "At the very least, during my junior year,\nI want to\nrun in the Hanshin Juvenile\nFillies, and then blast\ndown the G1 path!",
       "choice_data_list": [
         "(To her, a GⅠ is...)"
+      ],
+      "color_text_info_list": [
+        "Junior Year",
+        "Hanshin Juvenile Fillies",
+        "Hanshin J.F."
       ]
     },
     {
@@ -119,6 +127,9 @@
       "text": "And many of those G1 races can only be\nentered\nduring the junior and classic\nyears.",
       "choice_data_list": [
         "(...Even so.)"
+      ],
+      "color_text_info_list": [
+        "Classic Year"
       ]
     },
     {

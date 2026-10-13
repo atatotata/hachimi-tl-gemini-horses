@@ -11,14 +11,14 @@
     },
     {
       "name": "Raffle Clerk",
-      "text": "Step right up and try your luck with our\nNew\nYear's lottery! This year's\ngrand-prize is a coupon\nfor a hot spring\nvacation for two!"
+      "text": "Step right up and try your luck with our\nNew\nYear's lottery! This year's\ngrand-prize is a coupon\nfor a hot spring\nvacation for two!",
+      "color_text_info_list": [
+        "Hot Spring Ticket"
+      ]
     },
     {
       "name": "Raffle Clerk",
-      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
-      "color_text_info_list": [
-        "Hot Spring Trip Ticket"
-      ]
+      "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!"
     },
     {
       "name": "Raffle Clerk",
@@ -93,14 +93,14 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
+      "text": "You obtained:\n<itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",
       "text": "Wow! That sound was amazing! Hey, can\nI hear it\nagain?",
-      "color_text_info_list": [
-        "<itemname>"
-      ],
       "choice_data_list": [
         "You mean that?!"
       ]
@@ -175,14 +175,14 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Wow! A carrot hamburger steak! It looks\nso good!",
+      "text": "You obtained:\n<itemname>",
       "color_text_info_list": [
         "<itemname>"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Wow! A carrot hamburger steak! It looks\nso good!"
     },
     {
       "name": "Raffle Clerk",
@@ -241,14 +241,14 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Wow! That's so many carrots!",
+      "text": "You obtained:\n<itemname>",
       "color_text_info_list": [
         "<itemname>"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Wow! That's so many carrots!"
     },
     {
       "name": "Raffle Clerk",
@@ -312,14 +312,14 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Wow! What a shiny carrot! Thank you!",
+      "text": "You obtained:\n<itemname>",
       "color_text_info_list": [
         "<itemname>"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Wow! What a shiny carrot! Thank you!"
     },
     {
       "name": "Raffle Clerk",
@@ -369,14 +369,14 @@
     },
     {
       "name": "Monologue",
-      "text": "You obtained:\n<itemname>"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Aww, just tissues...",
+      "text": "You obtained:\n<itemname>",
       "color_text_info_list": [
         "<itemname>"
       ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Aww, just tissues..."
     },
     {
       "name": "Haru Urara",

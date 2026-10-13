@@ -9,7 +9,10 @@
     {
       "name": "Trendy Fan A",
       "text": "\"The 'Prix de l'Arc de Triomphe'? What's \nthat?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Prix de l'Arc de Triomphe"
+      ]
     },
     {
       "name": "Longtime Fan A",
@@ -157,6 +160,9 @@
       "text": "As her name suggests, Sirius Symboli is a \nmember of the Symboli household... and \nI've heard she's been close with Speed \nSymboli since childhood.",
       "choice_data_list": [
         "Is that connection why you're here today?"
+      ],
+      "color_text_info_list": [
+        "Sirius Symboli"
       ]
     },
     {
@@ -414,7 +420,10 @@
     {
       "name": "Symboli Rudolf",
       "text": "...Ramonu?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ramonu"
+      ]
     },
     {
       "name": "Mejiro Ramonu",

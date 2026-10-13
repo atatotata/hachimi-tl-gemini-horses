@@ -14,7 +14,10 @@
     {
       "name": "Spectator B",
       "text": "\"The one to lead the royal road after \nOrfe... could it be Epiphaneia!?\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Orfe"
+      ]
     },
     {
       "name": "Cheering Umamusume A",
@@ -89,13 +92,19 @@
     {
       "name": "Epiphaneia",
       "text": "\"...Right, the 'Takarazuka Kinen'! That's \nour next goal! The voices say so too!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
     },
     {
       "name": "",
       "text": "The Takarazuka Kinen is the Spring Grand \nPrix race. It draws huge fan attention and \na high-caliber field. It's the perfect \nnext target.",
       "choice_data_list": [
         "Understood, let's go with the Takarazuka \nKinen!"
+      ],
+      "color_text_info_list": [
+        "Grand Prix race"
       ]
     },
     {
@@ -159,17 +168,27 @@
     {
       "name": "Reporter A",
       "text": "Boasting overwhelming strength, the Triple \nTiara horse girl, Gentildonna! And the \nunconventional Double Crown Classic horse \ngirl, Gold Ship!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Triple Tiara Umamusume"
+      ]
     },
     {
       "name": "Reporter A",
       "text": "Win Variation, overcoming her injury! And \nthe indomitable Umamusume, Verxina!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Verxina"
+      ]
     },
     {
       "name": "Reporter A",
       "text": "Like Tosen Jordan, who once set an \nextraordinary record in the Tenno Sho \n(Autumn)! Every name mentioned belongs to \nan incredible Umamusume!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tenno Sho (Autumn)",
+        "Tosen Jordan"
+      ]
     },
     {
       "name": "Epiphaneia",
@@ -290,7 +309,10 @@
     {
       "name": "Epiphaneia",
       "text": "Ruler! So you will listen to my grand \nambitions!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Ruler"
+      ]
     },
     {
       "name": "Epiphaneia",

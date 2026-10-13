@@ -220,7 +220,10 @@
     {
       "name": "Ruby's Mother",
       "text": "—In the Twinkle Series, what is it that \nthe \"Illustrious Clan\" should seek?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Ruby's Mother",
@@ -302,11 +305,17 @@
       "text": "...The Takamatsunomiya Kinen.",
       "choice_data_list": [
         "Huh?"
+      ],
+      "color_text_info_list": [
+        "Takamatsunomiya Kinen"
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "This is a race won by both my grandmother \nand my mother. I shall make it my first \ngoal for the Senior Class."
+      "text": "This is a race won by both my grandmother \nand my mother. I shall make it my first \ngoal for the Senior Class.",
+      "color_text_info_list": [
+        "Senior Year"
+      ]
     },
     {
       "name": "",
@@ -314,6 +323,9 @@
       "choice_data_list": [
         "So you're really switching to sprint races \nstarting in the Senior Class.",
         "So you're really switching to sprint races \nstarting in the Senior Class."
+      ],
+      "color_text_info_list": [
+        "GⅠ race"
       ]
     },
     {

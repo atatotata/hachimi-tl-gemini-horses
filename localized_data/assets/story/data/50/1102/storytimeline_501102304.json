@@ -97,7 +97,11 @@
     },
     {
       "name": "",
-      "text": "—The Kyoto Shimbun Hai is a 2,200m GII \nturf race held at Kyoto Racecourse in May."
+      "text": "—The Kyoto Shimbun Hai is a 2,200m GII \nturf race held at Kyoto Racecourse in May.",
+      "color_text_info_list": [
+        "Kyoto Shimbun Hai",
+        "GⅡ"
+      ]
     },
     {
       "name": "",
@@ -137,12 +141,18 @@
     {
       "name": "Race Fan B",
       "text": "\"She didn't seem to be in great shape for \nthe Kyoto Kinen, but you still can't help \nhoping—\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Kyoto Kinen"
+      ]
     },
     {
       "name": "Race Fan C",
       "text": "“—Gold Ship is kicking off this year with \nthe Hanshin Daishoten, huh. Her races are \nalways so wild, I can't wait...!”",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Hanshin Daishoten"
+      ]
     },
     {
       "name": "Race Fan D",

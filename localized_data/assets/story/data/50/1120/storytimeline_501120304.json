@@ -98,7 +98,10 @@
     },
     {
       "name": "Narrator",
-      "text": "The virtual reality device, the \"VR \nUmalator.\" It is a simulator capable of \nrecreating various racecourses, weather \nconditions, and more."
+      "text": "The virtual reality device, the \"VR \nUmalator.\" It is a simulator capable of \nrecreating various racecourses, weather \nconditions, and more.",
+      "color_text_info_list": [
+        "VR Umulator"
+      ]
     },
     {
       "name": "Calstone Light O",
@@ -236,7 +239,12 @@
     {
       "name": "Narrator",
       "text": "Darley Arabian, Byerley Turk, and \nGodolphin Barb. AI granted personhood, \ntaking the form of the Three Goddesses.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Darley Arabian",
+        "Byerley Turk",
+        "Godolphin Barb"
+      ]
     },
     {
       "name": "Narrator",
@@ -287,7 +295,10 @@
     {
       "name": "Byerley Turk",
       "text": "Hmm... Godolphin seems to get along with \nthem quite well.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Godolphin"
+      ]
     },
     {
       "name": "Darley Arabian",
@@ -465,7 +476,10 @@
     },
     {
       "name": "Calstone Light O",
-      "text": "I'll thank you with my running. At the Aoi \nStakes!"
+      "text": "I'll thank you with my running. At the Aoi \nStakes!",
+      "color_text_info_list": [
+        "Aoi Stakes"
+      ]
     }
   ]
 }

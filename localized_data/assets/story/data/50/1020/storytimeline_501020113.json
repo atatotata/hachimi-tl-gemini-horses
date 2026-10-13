@@ -11,11 +11,17 @@
     },
     {
       "name": "Special Week",
-      "text": "<i>Huff... Puff...</i> One more time, Grass!"
+      "text": "<i>Huff... Puff...</i> One more time, Grass!",
+      "color_text_info_list": [
+        "Grass"
+      ]
     },
     {
       "name": "",
-      "text": "It's Special Week, a racer with incredible\nspeed\nwhose goal is to become the best\nin Japan."
+      "text": "It's Special Week, a racer with incredible\nspeed\nwhose goal is to become the best\nin Japan.",
+      "color_text_info_list": [
+        "Special Week"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -23,15 +29,25 @@
     },
     {
       "name": "",
-      "text": "And that's Grass Wonder. Despite her\nserene\nexterior, she's an Umamusume\nwith incredible\ndrive."
+      "text": "And that's Grass Wonder. Despite her\nserene\nexterior, she's an Umamusume\nwith incredible\ndrive.",
+      "color_text_info_list": [
+        "Grass Wonder"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "Whooooa! You two are on fire! Let me\nand King\njoin in, por favor!"
+      "text": "Whooooa! You two are on fire! Let me\nand King\njoin in, por favor!",
+      "color_text_info_list": [
+        "King",
+        "El"
+      ]
     },
     {
       "name": "",
-      "text": "There's El Condor Pasa too. In her recent\ndebut\nrace, she showed what it means to\nstrive to be the\nworld's strongest\nUmamusume."
+      "text": "There's El Condor Pasa too. In her recent\ndebut\nrace, she showed what it means to\nstrive to be the\nworld's strongest\nUmamusume.",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ]
     },
     {
       "name": "King Halo",
@@ -39,13 +55,19 @@
     },
     {
       "name": "",
-      "text": "And finally, King Halo—a privileged\nUmamusume\nborn into a respected\nfamily. Many already\nexpect great things\nfrom her."
+      "text": "And finally, King Halo—a privileged\nUmamusume\nborn into a respected\nfamily. Many already\nexpect great things\nfrom her.",
+      "color_text_info_list": [
+        "King Halo"
+      ]
     },
     {
       "name": "King Halo",
       "text": "You're Sky's trainer, correct? I'll grant\nyou the\nright to record our times!",
       "choice_data_list": [
         "Got it!"
+      ],
+      "color_text_info_list": [
+        "Sky"
       ]
     },
     {
@@ -157,7 +179,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "So what did you think, Trainer? Let's\nstart with\nSpe—"
+      "text": "So what did you think, Trainer? Let's\nstart with\nSpe—",
+      "color_text_info_list": [
+        "Spe"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -239,7 +264,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Yep! I'm gonna win the Derby and\nbecome the\nbest for my moms!"
+      "text": "Yep! I'm gonna win the Derby and\nbecome the\nbest for my moms!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Grass Wonder",

@@ -24,7 +24,11 @@
     {
       "name": "Rhein Kraft",
       "text": "\"Me, Trainer, Universe-san, and Oguri-san! \nYup, yup, it's gotten so lively~!\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Universe",
+        "Oguri"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Neo Universe",
-      "text": "\"Rhein Kraft, Oguri Cap, and 'me' are \n‘SETO.’ Cetus.\""
+      "text": "\"Rhein Kraft, Oguri Cap, and 'me' are \n‘SETO.’ Cetus.\"",
+      "color_text_info_list": [
+        "Oguri Cap"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -83,7 +90,10 @@
     {
       "name": "Rhein Kraft",
       "text": "Ah! Heart-san and Cesario~!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Heart"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -98,7 +108,11 @@
     {
       "name": "Rhein Kraft",
       "text": "W-Wah!? Gimlet-san and Kris S-san too!?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Gimlet",
+        "Kris S"
+      ]
     },
     {
       "name": "Narrator",
@@ -186,12 +200,19 @@
     },
     {
       "name": "Narrator",
-      "text": "The Cesario & Symboli Kris S pair and the \nOguri Cap & Neo Universe pair clocked in \nat virtually identical times for the \nwatermelon splitting."
+      "text": "The Cesario & Symboli Kris S pair and the \nOguri Cap & Neo Universe pair clocked in \nat virtually identical times for the \nwatermelon splitting.",
+      "color_text_info_list": [
+        "Symboli Kris S",
+        "Neo Universe"
+      ]
     },
     {
       "name": "Narrator",
       "text": "In that case, the match was naturally left \nas a battle between Daring Heart & Tanino \nGimlet and ourselves, but—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Tanino Gimlet"
+      ]
     },
     {
       "name": "Tanino Gimlet",

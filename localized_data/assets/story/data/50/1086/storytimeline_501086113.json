@@ -72,7 +72,10 @@
     {
       "name": "Mejiro Ardan",
       "text": "My name is Mejiro Ardan. I am the younger \nsister of... Mejiro Ramonu.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mejiro Ardan"
+      ]
     },
     {
       "name": "Narrator",
@@ -99,12 +102,19 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Yes, hello, Palmer-san speaking!"
+      "text": "Yes, hello, Palmer-san speaking!",
+      "color_text_info_list": [
+        "Palmer"
+      ]
     },
     {
       "name": "Narrator",
       "text": "Mejiro McQueen, who was already renowned \nas a stayer before enrolling. And Mejiro \nPalmer, whose running was as breezy and \nlighthearted as her personality.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Mejiro Palmer"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -123,7 +133,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Dober, who is rarely seen running \nin public, but shows glimpses of pure \ntalent. Mejiro Bright, rumored to possess \nboundless stamina."
+      "text": "Mejiro Dober, who is rarely seen running \nin public, but shows glimpses of pure \ntalent. Mejiro Bright, rumored to possess \nboundless stamina.",
+      "color_text_info_list": [
+        "Mejiro Dober",
+        "Mejiro Bright"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -145,6 +159,9 @@
       "choice_data_list": [
         "I'm looking forward to seeing everyone shine from here on out, too!",
         "I'm looking forward to seeing everyone shine from here on out, too!"
+      ],
+      "color_text_info_list": [
+        "Mejiro Ryan"
       ]
     },
     {
@@ -172,13 +189,19 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Hmm, I'm sure Ardan-san has plenty, but..."
+      "text": "Hmm, I'm sure Ardan-san has plenty, but...",
+      "color_text_info_list": [
+        "Ardan"
+      ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "We probably don't know much more about Ms. \nRamonu than you do, Trainer, don't you \nthink?",
       "choice_data_list": [
         "Huh?"
+      ],
+      "color_text_info_list": [
+        "Ramonu"
       ]
     },
     {

@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "It's early morning on the big day when\nSeiun Sky\nis set to start seriously training\nfor the Twinkle\nSeries."
+      "text": "It's early morning on the big day when\nSeiun Sky\nis set to start seriously training\nfor the Twinkle\nSeries.",
+      "color_text_info_list": [
+        "Twinkle Series",
+        "Seiun Sky"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -30,6 +34,9 @@
       "choice_data_list": [
         "I explained it properly, didn't I...?",
         "I told them properly, right...?"
+      ],
+      "color_text_info_list": [
+        "Sei"
       ]
     },
     {
@@ -144,7 +151,13 @@
     },
     {
       "name": "Monologue",
-      "text": "The Satsuki Sho, the Japanese Derby,\nand the\nKikuka Sho—the dates all line\nup with the Classic\nTriple Crown!"
+      "text": "The Satsuki Sho, the Japanese Derby,\nand the\nKikuka Sho—the dates all line\nup with the Classic\nTriple Crown!",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho",
+        "Classic"
+      ]
     },
     {
       "name": "Seiun Sky",

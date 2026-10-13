@@ -12,6 +12,9 @@
       "choice_data_list": [
         "I'll be supporting you too, so let's do \nour best!",
         "I'll support you too, so let's do our \nbest!"
+      ],
+      "color_text_info_list": [
+        "Classic"
       ]
     },
     {
@@ -29,11 +32,18 @@
       "choice_data_list": [
         "Are you curious about her?",
         "Are you curious about her?"
+      ],
+      "color_text_info_list": [
+        "Sakura Chiyono O",
+        "Oguri Cap"
       ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Ah, yes! Oguri-san is all our peers have \nbeen talking about."
+      "text": "Ah, yes! Oguri-san is all our peers have \nbeen talking about.",
+      "color_text_info_list": [
+        "Oguri"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -120,7 +130,10 @@
     {
       "name": "Sakura Chiyono O",
       "text": "Oh, right! I'll write it down in my Chiyo \nNotebook! That way, carrying it should be \nmuch easier next time.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Chiyo Notebook"
+      ]
     },
     {
       "name": "Narrator",
@@ -137,7 +150,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Thank you, Chiyono O. ...For the \ncafeteria's sake."
+      "text": "Thank you, Chiyono O. ...For the \ncafeteria's sake.",
+      "color_text_info_list": [
+        "Chiyono O"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

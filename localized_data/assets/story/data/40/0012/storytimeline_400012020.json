@@ -4,7 +4,10 @@
     {
       "name": "Narrator",
       "text": "<chrname> ran through the Twinkle Series with \neverything she had. The hot spring resort \nwas thriving, and everything was going \nsmoothly.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Narrator",
@@ -278,6 +281,9 @@
       "text": "Thanks to customers following Mihono \nBourbon's lead, the shop was doing booming \nbusiness! I decided to order one for \nmyself too.",
       "choice_data_list": [
         "Delicious!"
+      ],
+      "color_text_info_list": [
+        "Mihono Bourbon"
       ]
     },
     {
@@ -409,6 +415,9 @@
       "choice_data_list": [
         "Stay healthy always!",
         "Please stay healthy always!"
+      ],
+      "color_text_info_list": [
+        "Tokai Teio"
       ]
     },
     {

@@ -42,16 +42,31 @@
       "choice_data_list": [
         "Yeah.",
         "Yeah."
+      ],
+      "color_text_info_list": [
+        "Classic Year"
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"Upon entering the Classic Year, the path \nsplits broadly into two. The glorious \nTriple Crown route running through the \nSatsuki Sho, Tokyo Yushun (Japanese \nDerby), and Kikuka Sho—and...\""
+      "text": "\"Upon entering the Classic Year, the path \nsplits broadly into two. The glorious \nTriple Crown route running through the \nSatsuki Sho, Tokyo Yushun (Japanese \nDerby), and Kikuka Sho—and...\"",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho",
+        "Triple Crown path"
+      ]
     },
     {
       "name": "Narrator",
       "text": "The Triple Tiara route centers around \nglamorous races such as the Oka Sho, the \nOaks, and the Shuka Sho.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho",
+        "Triple Tiara route"
+      ]
     },
     {
       "name": "Narrator",
@@ -128,7 +143,11 @@
     {
       "name": "Narrator",
       "text": "For our tentative target race, I'll \npropose the Spring Classic prep race... \nthe turf 1,800m GIII 'Kisaragi Sho', but—",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "GⅢ",
+        "Kisaragi Sho"
+      ]
     },
     {
       "name": "Narrator",

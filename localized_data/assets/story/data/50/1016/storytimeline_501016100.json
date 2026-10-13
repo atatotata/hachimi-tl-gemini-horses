@@ -19,7 +19,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Come to Tracen Academy. It may just\nsatisfy that\nhunger of yours."
+      "text": "Come to Tracen Academy. It may just\nsatisfy that\nhunger of yours.",
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -35,6 +38,10 @@
       "choice_data_list": [
         "Are you ready for this?",
         "Are you prepared for this?"
+      ],
+      "color_text_info_list": [
+        "Narita Brian",
+        "Twinkle Series"
       ]
     },
     {
@@ -59,15 +66,25 @@
     },
     {
       "name": "Skilled Trainer",
-      "text": "That must be the trainer working with\nBrian."
+      "text": "That must be the trainer working with\nBrian.",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Veteran Trainer",
-      "text": "I hear Brian's finally making her debut.\nHer sister, Biwa\nHayahide, has been\nperforming well in the Classics."
+      "text": "I hear Brian's finally making her debut.\nHer sister, Biwa\nHayahide, has been\nperforming well in the Classics.",
+      "color_text_info_list": [
+        "Biwa Hayahide",
+        "Classic"
+      ]
     },
     {
       "name": "Skilled Trainer",
-      "text": "I hear she may have the potential to\neven surpass her\nsister. She could be the\nTriple Crown Champion—even\n\noutperforming Rudolf!"
+      "text": "I hear she may have the potential to\neven surpass her\nsister. She could be the\nTriple Crown Champion—even\n\noutperforming Rudolf!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -78,7 +95,10 @@
     },
     {
       "name": "Monologue",
-      "text": "(Symboli Rudolf—the renowned Tracen\nAcademy\nstudent council president.\nShe's a prestigious\nfigure, being a Triple\nCrown Champion and the\nobject of\neveryone's admiration.)"
+      "text": "(Symboli Rudolf—the renowned Tracen\nAcademy\nstudent council president.\nShe's a prestigious\nfigure, being a Triple\nCrown Champion and the\nobject of\neveryone's admiration.)",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -203,7 +223,11 @@
     },
     {
       "name": "Monologue",
-      "text": "(Hishi Amazon—dorm leader of Miho\nDormitory.\nShe's known for her strength\nand generosity, and\nis often called the\nQueen of the Amazons.)"
+      "text": "(Hishi Amazon—dorm leader of Miho\nDormitory.\nShe's known for her strength\nand generosity, and\nis often called the\nQueen of the Amazons.)",
+      "color_text_info_list": [
+        "Hishi Amazon",
+        "Queen of the Amazons"
+      ]
     },
     {
       "name": "Hishi Amazon",

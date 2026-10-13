@@ -179,11 +179,18 @@
       "text": "Biko Pegasus, an Umamusume with a heart of \njustice, and Hishi Akebono, who excels at \ncooking, invited me to a joint training \nsession.",
       "choice_data_list": [
         "I'd love for you to join me."
+      ],
+      "color_text_info_list": [
+        "Biko Pegasus",
+        "Hishi Akebono"
       ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "Yay~! What sounds good, Biko-chan?"
+      "text": "Yay~! What sounds good, Biko-chan?",
+      "color_text_info_list": [
+        "Biko"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -309,7 +316,10 @@
     {
       "name": "Hishi Akebono",
       "text": "Here it comes~, Buono Megaton Puuunch!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Bono"
+      ]
     },
     {
       "name": "Hishi Akebono",

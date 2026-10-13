@@ -62,7 +62,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "A wall, huh? In other words... you want\nto talk\nabout your distance aptitude,\nyes?"
+      "text": "A wall, huh? In other words... you want\nto talk\nabout your distance aptitude,\nyes?",
+      "color_text_info_list": [
+        "Distance"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -268,13 +271,19 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I can continue taking on the Triple\nCrown tour,\nwhich will now be all the\nmore interesting due to\nhow challenging\nit will be..."
+      "text": "I can continue taking on the Triple\nCrown tour,\nwhich will now be all the\nmore interesting due to\nhow challenging\nit will be...",
+      "color_text_info_list": [
+        "Triple Crown path"
+      ]
     },
     {
       "name": "Fuji Kiseki",
       "text": "Or I can change directions completely\nand throw\neverything I've got into\nconquering the mile tour!",
       "choice_data_list": [
         "！！"
+      ],
+      "color_text_info_list": [
+        "Mile division"
       ]
     },
     {

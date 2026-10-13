@@ -40,7 +40,10 @@
     },
     {
       "name": "Narrator",
-      "text": "First, I'd like to measure your current \nabilities. Tracsen Academy is \nwell-equipped, so we have every tool we \ncould possibly need."
+      "text": "First, I'd like to measure your current \nabilities. Tracsen Academy is \nwell-equipped, so we have every tool we \ncould possibly need.",
+      "color_text_info_list": [
+        "Tracen Academy"
+      ]
     },
     {
       "name": "Narrator",
@@ -77,6 +80,10 @@
       "choice_data_list": [
         "Sorry, I didn't notice.",
         "I'm sorry, I didn't realize."
+      ],
+      "color_text_info_list": [
+        "Still in Love",
+        "Twinkle Series"
       ]
     },
     {
@@ -119,7 +126,10 @@
     {
       "name": "Narrator",
       "text": "Still in Love's other side. That is... a \nbeast-like face shown only by \"instinct.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Instinct"
+      ]
     },
     {
       "name": "Narrator",
@@ -319,12 +329,18 @@
     {
       "name": "Still in Love",
       "text": "(“See ya tomorrow, Still.” ...he says.)",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Still"
+      ]
     },
     {
       "name": "Still in Love",
       "text": "(“See you tomorrow, Still.” ...she says.)",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Still"
+      ]
     },
     {
       "name": "Still in Love",

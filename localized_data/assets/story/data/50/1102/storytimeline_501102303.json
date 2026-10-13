@@ -130,7 +130,11 @@
     {
       "name": "",
       "text": "—The Classic races. A battlefield steeped \nin tradition and glory, where only the \ntop-class Classic-tier Umamusume are \npermitted to run.",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Classic",
+        "Rank"
+      ]
     },
     {
       "name": "",
@@ -255,6 +259,9 @@
       "text": "I was having a meeting with Sounds of \nEarth to decide specifically how we would \nnavigate her Junior Class year.",
       "choice_data_list": [
         "—Let's focus purely on building your \nfundamentals during the Junior Class."
+      ],
+      "color_text_info_list": [
+        "Junior Year"
       ]
     },
     {
@@ -279,12 +286,19 @@
     {
       "name": "Sounds of Earth",
       "text": "In that case, though... What do you intend \nto do about the Satsuki Sho?",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "",
       "text": "The Satsuki Sho is one of the Classic \nraces, and together with the Japan Derby \nand the Kikuka Sho, they are collectively \nknown as the \"Classic Triple Crown.\"",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Kikuka Sho",
+        "Classic Triple Crown"
+      ]
     },
     {
       "name": "",
@@ -371,12 +385,18 @@
     {
       "name": "Sounds of Earth",
       "text": "Universe-san...!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Universe"
+      ]
     },
     {
       "name": "Sounds of Earth",
       "text": "(—Neo Universe-san. An Umamusume echoing \nwith a mysterious, quiet sound, \nreminiscent of a vast starry sky...)",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Neo Universe"
+      ]
     },
     {
       "name": "Sounds of Earth",

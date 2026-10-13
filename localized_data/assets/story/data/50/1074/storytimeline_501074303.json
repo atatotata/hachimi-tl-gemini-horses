@@ -55,7 +55,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Mejiro Bright's top goal is to win the\nClassic\nTriple Crown next year."
+      "text": "Mejiro Bright's top goal is to win the\nClassic\nTriple Crown next year.",
+      "color_text_info_list": [
+        "Classic"
+      ]
     },
     {
       "name": "Monologue",
@@ -74,11 +77,17 @@
       "text": "Perhaps we should set our sights a little\nhigher.\nHow does the Hopeful Stakes\nsound?",
       "choice_data_list": [
         "Aiming for a G1 right off the bat!?"
+      ],
+      "color_text_info_list": [
+        "Hopeful Stakes"
       ]
     },
     {
       "name": "Mejiro Bright",
-      "text": "Why, yes! Since it is a race scheduled in\n\nDecember, I can take my time training.\nPlus..."
+      "text": "Why, yes! Since it is a race scheduled in\n\nDecember, I can take my time training.\nPlus...",
+      "color_text_info_list": [
+        "GⅠ"
+      ]
     },
     {
       "name": "Mejiro Bright",

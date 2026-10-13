@@ -102,7 +102,10 @@
     {
       "name": "Daitaku Helios",
       "text": "Huh, it's Zephyr! Wait, everyone's here!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Zephyr"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -132,7 +135,10 @@
     {
       "name": "Friends",
       "text": "...!? It's Oguri Cap!!",
-      "choice_data_list": []
+      "choice_data_list": [],
+      "color_text_info_list": [
+        "Oguri Cap"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -155,6 +161,9 @@
       "choice_data_list": [
         "So you're settling who the true Mile King \nis.",
         "So you're settling who the true Mile King \nis."
+      ],
+      "color_text_info_list": [
+        "Oguri"
       ]
     },
     {
