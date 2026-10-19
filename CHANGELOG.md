@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-19 -- Global minor update: 89 text_data + 240 cst official-EN adoptions
+- Refreshed Global `master.mdb` (text_data 52,926 / cst 15,320) and rebuilt the decrypted Global meta (191,061 assets).
+- Overlaid official Global English where it differs from our MT: **89** `text_data` + **240** `cst` (SD cat48 numeric preserved, JP-only rows untouched).
+- Verified Global bundles are already covered: 13,880 story timelines, 653 home timelines, 34 lyrics assets all present in-repo — no new bundles from this update.
+- Fixed `decrypt_global_meta.py` VACUUM INTO quoting (single-quoted path) so the Global meta can be rebuilt cleanly.
+
 ## 2026-10-13 -- Restore color_text_info_list across 4,874 story timelines (12,432 spans)
 - Scanned all 22,113 story bundles in JP Persistent data; harvested 1,548 unique highlighted terms across 4,874 timelines.
 - Translated all terms (`gemini-3.8-flash-tiered`, low effort + master.mdb/nickname lookups) and injected 12,432 color spans into both repo and live Hachimi mirror with exact Hachimi block indexing (`bundle_block - 1`).
