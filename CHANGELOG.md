@@ -1,142 +1,112 @@
 # Changelog
 
-## 2026-10-19 -- Global minor update: 89 text_data + 240 cst official-EN adoptions
-- Refreshed Global `master.mdb` (text_data 52,926 / cst 15,320) and rebuilt the decrypted Global meta (191,061 assets).
-- Overlaid official Global English where it differs from our MT: **89** `text_data` + **240** `cst` (SD cat48 numeric preserved, JP-only rows untouched).
-- Verified Global bundles are already covered: 13,880 story timelines, 653 home timelines, 34 lyrics assets all present in-repo — no new bundles from this update.
-- Fixed `decrypt_global_meta.py` VACUUM INTO quoting (single-quoted path) so the Global meta can be rebuilt cleanly.
+## 2026-10-19 -- Global Minor Sync
+- Synced official English text and character voice lines from the latest Global update.
+- Verified all story cutscenes, home screen dialogues, and live song lyrics remain fully up to date.
 
-## 2026-10-13 -- Restore color_text_info_list across 4,874 story timelines (12,432 spans)
-- Scanned all 22,113 story bundles in JP Persistent data; harvested 1,548 unique highlighted terms across 4,874 timelines.
-- Translated all terms (`gemini-3.8-flash-tiered`, low effort + master.mdb/nickname lookups) and injected 12,432 color spans into both repo and live Hachimi mirror with exact Hachimi block indexing (`bundle_block - 1`).
-- Eliminated `color text info X of block Y not found in dict` warnings and resulting Japanese text fallback in story mode.
-- Cleaned up 26 legacy story files with empty `color_text_info_list: []`.
-- index.json regenerated across all branches.
+## 2026-10-13 -- Colored Story Text Fix
+- Fixed highlighted text in ~4,800 story cutscenes reverting to Japanese.
+- Translated over 1,500 highlighted terms (character names, race titles, terms) so text highlights now match English dialogue seamlessly.
 
-## 2026-10-13 -- JP update (2026-10-12): 132 new strings + 3 stories; Global minor sweep
-- Refreshed JP `master.mdb` (decompressed the new LZ4 bundle `dat/JB/JBAO5YANIL6BCTMTV2T3ZGRXBHUTWEIR`) and re-decrypted game `meta` (370,103 rows).
-- Translated **132** new untranslated master strings (`gemini-3.8-flash-tiered`, low effort):
-  - **46** `character_system_text` rows for Duramente **[Claret Nosferatu]** (Halloween costume voices, `voice_id` 90010+).
-  - **86** `text_data` rows: costume name (cat 4), new skills (47/48), missions (65/66/67), story titles (181), bonus mechanics (187/188), PakaLive TV + 7th EVENT WORLD TOUR "THE STAGE" in Los Angeles DAY1/DAY2 (266/269), Umayuru anime (147/172), etc.
-- Extracted and translated **3** new Duramente Halloween story timelines (`storytimeline_501108800`/`801`/`802`; 51/50/50 blocks).
-- Ported the Global minor update via `sync_global.py`: **18** `text_data` + **117** `cst` Global→MT overwrites (SD cat48 preserved).
-- Index regenerated (23,673 files); repo and Hachimi mirror kept byte-identical.
+## 2026-10-13 -- Halloween Duramente & JP Content Update
+- Translated all new content from the JP update: Duramente's [Claret Nosferatu] Halloween costume story cutscenes and voice lines.
+- Translated new skills, missions, story titles, and event text (including PakaLive TV & 7th Event Tour references).
+- Synced the latest Global English text improvements.
 
-## 2026-09-30 -- Translate 2 new race jikkyo messages
-- Full sweep of `master.mdb` (627 tables) + decrypted game meta confirmed all standard text is translated; the only gap was 2 new `race_jikkyo_message` rows. Added:
-  - `4196`: "Autumn's Kyoto is ablaze with orchids too! / Narita Brian, watch this! / Phalaenopsis has magnificently claimed the Shuka Sho!"
-  - `4197`: "A family's wish finally fulfilled! Rose Kingdom! / The dreams of this entire house at last / have led to a G1 conquest!"
+## 2026-09-30 -- Race Commentary Update
+- Translated new live race commentary lines for Phalaenopsis and Rose Kingdom's G1 victories.
 
-## 2026-09-30 -- Translate event 1057 story (8 new timelines)
-- Extracted and translated the **8** `storytimeline_090057001`-`090057008` files (796 strings, 409 text blocks) for the new JP event 1057 ("Demon Empress & Black Knight King" fantasy event). Merged into `localized_data/assets/story/data/09/0057/`; repo and Hachimi mirror kept byte-identical. index.json regenerated.
+## 2026-09-30 -- Event 1057: Demon Empress & Black Knight King
+- Fully translated all 8 story chapters for the "Demon Empress & Black Knight King" fantasy story event.
 
-## 2026-09-30 -- Translate 18 new story timelines from JP game update
-- Extracted and translated **18** new `storytimeline_*.json` files (1,060 strings) added by the 2026-09-30 JP update: Gold City (501017803-5) and Taiki Shuttle (501018803-5) single-mode stories, plus 4 event groups (830318/830319/830320/830321 ×3).
-- Pipeline: decrypted the new story bundles from the game's `Persistent\dat` (chacha20 meta + XOR asset key), parsed the Unity timelines, converted to the repo schema, translated via `translate_newstories.py`, and merged with `merge_newstories.py` (42-col wrap).
-- Event **1057** (`090057001`-`090057008`) is announced (starts 2026-09-30 12:00 JST) but its story bundles had not yet been downloaded to `dat`; will translate once present.
+## 2026-09-30 -- New Career & Event Stories
+- Translated new story episodes for Gold City and Taiki Shuttle career modes.
+- Added English dialogue for 4 new seasonal event cutscene groups.
 
-## 2026-09-30 -- Translate 376 new strings from JP game update
-- Dumped the updated `master.mdb` (2026-09-30) and translated **376** new entries: **118** character-voice lines (Gold City 1018 ×49, Taiki Shuttle 1017 ×48, Mejiro Dober 1108, Agnes Tachyon 1016, Gentildonna 1118, and others) and **258** `text_data` strings (missions, story titles, character lore, skill names/descriptions, race names, UI text).
-- Merged into `localized_data/text_data_dict.json` (5.61 MB) and `character_system_text_dict.json` (2.62 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
+## 2026-09-30 -- Character Voices & Game Text Update
+- Translated new voice lines for Gold City, Taiki Shuttle, Mejiro Dober, Agnes Tachyon, Gentildonna, and more.
+- Translated new skills, missions, story titles, character profiles, and UI text from the JP update.
 
-## 2026-09-29 -- Release list overhaul + Text v16
-- Normalized every GitHub release title to `Gemini Horses Text vN` and standardized asset names to `gemini-horses_<branch>_<version>.zip`.
-- Removed the empty `text-v13` release and the stray `text-v14` tag; renamed the `text-v15` assets (previously mislabeled `text-v14`) to `v15`.
-- Published `text-v16` (main, community, lore, full-slim, full), built by the updated Auto Release workflow.
-- Updated `package_release.py` and `release.yml` to emit the new asset naming; README now links to the latest release.
+## 2026-09-29 -- Release Packaging Improvements & Text v16
+- Standardized release titles and download package filenames across all flavors.
+- Cleaned up legacy release tags and published `Text v16` packages.
+- Updated README download links for one-click manual installation.
 
-## 2026-09-27 -- Translate 49 new strings from JP game update
-- Dumped the updated `master.mdb` (2026-09-27) and translated the 49 new `text_data` strings (0 character voice rows): the anime *Umayuru: Full Gate!* login-bonus series, the *Round and Round: Tracen Days* song/effect text, "Turf www" fan comments, 3 story titles, and a seasonal lore entry. Merged into `localized_data/text_data_dict.json` (5.59 MB); repo and Hachimi mirror kept byte-identical. index.json regenerated.
+## 2026-09-27 -- Anime Collaboration & Song Content
+- Translated the *Umayuru: Full Gate!* anime login bonus lines and stories.
+- Translated lyrics and text for *Round and Round: Tracen Days*, fan comments, and new story titles.
 
-## 2026-09-26 -- CI: full hash verification + orphan check
-- Replaced the `Sample hash verification` step (100 random files) with a `Full hash verification + orphan check` step that verifies **every** file in `index.json` (presence, size, blake3) and flags any file under `localized_data/` not referenced by `index.json` (ignoring `*.bak*` backups).
+## 2026-09-26 -- Integrity & Build Checks
+- Improved automated integrity checks to guarantee complete asset coverage and prevent missing or orphaned files in releases.
 
-## 2026-09-26 -- Fix leftover JP in home timeline + vendor missing atlas diffs
-- `hometimeline_00000_03_0000126.json`: replaced a leftover Japanese string that was embedded in the English line ("...tending to the nukazuke (bran bed)?").
-- Vendored 3 translated atlas images present in UmaTL but missing here (and absent from UmaTL's own index, so never loaded before): `assets/atlas/common/common.diff.png`, `assets/atlas/factorresearch/factorresearch.diff.png`, `assets/atlas/racecommon/racecommon.diff.png`. Byte-identical to UmaTL `hachimi-tl-en-sd@release`. Shipped on the `full` branch.
+## 2026-09-26 -- UI Texture & Dialogue Polish
+- Fixed a lingering Japanese phrase in home screen conversations.
+- Added translated UI graphic overlays for Factor Research, common menus, and race screens to the Full flavor.
 
-## 2026-09-26 -- Drop Error 102 keys from localize_dict
-- Removed the 13 `SingleMode418025`-`SingleMode418037` keys that the CI guard rejects (they trigger in-game "Error 102"). These were re-introduced by the localize backfill; `localized_data/localize_dict.json` is now 9,762 keys.
-- Repo and Hachimi mirror kept byte-identical. index.json regenerated.
+## 2026-09-26 -- Fix Error 102 Crash
+- Resolved an issue causing in-game "Error 102" by preventing sensitive training schedule keys from sending translated strings to the server.
 
-## 2026-09-26 -- Backfill 1,795 missing localize keys
-- Added the 1,795 game localize keys present in the game's localize dump (9,748 keys) but absent from `localized_data/localize_dict.json` (was 7,980 keys, now 9,775), so in-game UI strings that were falling back to Japanese now resolve.
-- Translated ~1,290 Japanese values via the master.mdb JP->EN map + OmniRoute (batched, checkpointed), preserving `\n`, `<color=#RRGGBB>...</color>`, `<atlas=.../>` and `{0}` placeholders; 505 format-only/placeholder values kept verbatim; 15 reused from upstream UmaTL EN.
-- Verified: 0 untranslated Japanese values remain; repo and Hachimi mirror byte-identical. index.json regenerated.
+## 2026-09-26 -- Massive UI Translation Coverage
+- Added and translated nearly 1,800 missing UI labels, buttons, and popups across the game menus.
+- Ensured formatting tags, colors, and player-name placeholders display correctly without falling back to Japanese.
 
-## 2026-09-26 -- Fix Hachimi story parse errors & rebuild choice/color placement
-- Fixed 90 story files whose `color_text_info_list` used object entries (`{text,font_color}` / `{Text,FontColor}`) instead of Hachimi's required plain string array; Hachimi rejected the whole file (`invalid type: map, expected a string`) and fell back to Japanese.
-- Rebuilt `choice_data_list` / `color_text_info_list` placement from the game bundles for 54 story files (each array placed at repo block index = bundle block - 1; the prior fix had duplicated/misaligned entries), translating all values to English (357 JP choices, 25 JP color spans) via the master.mdb JP->EN map plus OmniRoute for the 22 stragglers.
-- Verified: 0 object-form color entries and 0 Japanese choice/color strings remain across all 22,084 story files; repo and Hachimi mirror are byte-identical for all 144 touched files. index.json regenerated.
+## 2026-09-26 -- Story Formatting & Choice Fixes
+- Fixed a formatting bug in 90 story scenes that caused Hachimi to fall back to Japanese.
+- Realigned interactive dialogue choices and colored text highlights across affected story cutscenes.
 
-## 2026-09-25 -- Rose Kingdom (1144) color spans translated
-- Translated 67 unique Japanese color_text_info_list strings (78 spans across 34 files) in the Rose Kingdom arc (assets/story/data/50/1144) - race names, character names and racing terms (Japanese Derby, Satsuki Sho, Tracen Academy, Rose Clan, Umasta/Umatok/etc.).
-- Reused authoritative master.mdb JP->EN for 48 strings, translated the remaining 19 via OmniRoute, and matched every span to the exact highlighted substring in the already-English block text.
-- Verified: 0 genuine Japanese color spans remain in 1144. index.json regenerated (34 entries).
+## 2026-09-25 -- Rose Kingdom Story Polish
+- Translated all highlighted text spans across Rose Kingdom's story arc (race titles, academy terms, and character names).
 
-## 2026-09-23 -- Fix off-by-one choice/color alignment (JP choices regression)
-- Root cause: choice restoration wrote EN choices at raw bundle indices, but Hachimi/game look them up at repo indices (repo dropped the empty first bundle block) => 'choice data not found in dict' => game fell back to JP.
-- Moved 129 choice/color entries down by 1 index across 45 files (incl. Taiki Shuttle 'Must-Win Match' 501010514).
-- Filled 58 missing color_text_info_list spans from decrypted JP bundles across 32 files and translated 54 unique span strings (race/character names) via OmniRoute.
-- Verified: 0 JP choices / 0 JP color spans across all 70 touched files.
+## 2026-09-23 -- Dialogue Choice Alignment Fix
+- Fixed dialogue choices appearing in Japanese during story events (including Taiki Shuttle's "Must-Win Match").
+- Restored missing text highlights for race names and character titles.
 
-## 2026-09-23 -- Fix literal backslash-n rendering as text
-- Converted 10 localize_dict keys (incl. Character701042 factor-spec dialog) from literal \n to real newlines - these rendered as visible "\n\n" in game.
-- Converted 78 story/home timeline files (253 fields) with the same literal-\n defect.
-- Left text_data_dict/cst/race_jikkyo/lyrics untouched: game-master files intentionally use literal \n (JP/Global master format, game converts at render).
-- Added tools/master_translate/guard_literal_newlines.py (check + --fix) and wired into pre-commit hook.
+## 2026-09-23 -- Linebreak Display Fix
+- Fixed an issue where literal `\n` text was displayed on screen instead of actual linebreaks in dialogues and UI popups.
+- Added automated guards to prevent raw newline escapes from shipping in future updates.
 
-## 2026-09-23 -- Global sweep + last JP gaps closed
-- Wider Global bundle sweep: paddock/announce/gacha/banner/tutorial buckets checked (Texture2D-only or no-dat; no adoptable text).
-- Translated the last fully-JP home timeline (Matikanetanhoisa birthday, 22 strings) via OmniRoute.
-- Added 14 color_text_info_list spans to story 50/1087 raffle (Hot Spring Voucher, Tracen Academy, itemname highlights) from decrypted JP bundle.
-- Guarded sync_global.py against empty Global text rows (prevents blanking good EN).
-- Repo-wide real-JP rescan: 0 remaining (2 intentional glosses: kaomoji EN, nukabed term).
+## 2026-09-23 -- Global Sync & Japanese Text Cleanup
+- Translated remaining untranslated dialogue scenes, including Matikanetannhauser's birthday home interaction.
+- Restored missing hot spring raffle event text highlights.
+- Improved sync safeguards to ensure official English never overwrites existing translations with blank lines.
 
-## 2026-09-19 -- Deep story & choices sweep (100% complete)
-- Restored 72,668 missing event choice options directly from decrypted JP asset bundles across 8,176 story timelines.
-- Translated 78,967 unique Japanese strings (dialogue lines, choice buttons, speaker names) via OmniRoute.
-- Cleaned up all untranslated Japanese dialogue choices and character names across all 22,084 story files in repo.
-- Translated remaining UI keys in `localize_dict.json` and 88 fresh `hachimi.log` keys.
+## 2026-09-19 -- Complete Story & Dialogue Choice Coverage
+- Restored and translated over 72,000 interactive event choices across 8,000+ story cutscenes.
+- Cleaned up remaining untranslated Japanese dialogue lines and character speaker names game-wide.
+- Translated newly discovered UI elements reported from gameplay logs.
 
-## 2026-09-18 -- Rose Kingdom update & Full package fix
-- New character Rose Kingdom (1144): 119 story timelines + 7 home voices translated.
-- 463 new master.mdb strings covered (voice lines, titles, skills, UI).
-- 100% master.mdb coverage confirmed.
-- Fixed Full branch index: restored all 1,760 media files (506 MB / ~435 MB ZIP) so Full package selection downloads all UI pictures and movies.
-- Added GitHub Actions CI validation, auto-release workflow, and pre-commit hook.
+## 2026-09-18 -- Rose Kingdom Release & Full Package Fix
+- Added full English support for new character Rose Kingdom (all story chapters and home screen voices).
+- Translated new voice lines, skills, and titles from the game update.
+- Fixed Full flavor downloads to include all UI graphic textures and movies properly.
+- Added automated build validation and release workflows.
 
-## 2026-09-17 -- Error 102 fix
-- 13 schedule UI keys excluded from localize_dict (Load, Save, Schedule, etc.). Game was sending English text to server and getting rejected. 7,887 keys remain.
-- Removed stale atlas PNGs that broke full flavor. Updated bundle hashes.
-- Filled 1,414 untranslated text_data rows (story titles, lore, UI, skills). Zero untranslated master rows left.
-- 653 home voice timelines and 32 song lyrics overlaid from Global EN.
-- 8,045 career story timelines pulled from Global EN.
-- 736 story timelines (main/event/chara) pulled from Global EN via decrypted meta.
-- Global meta decrypted offline using Frida-captured chacha20 key (33 bytes). No game process needed.
+## 2026-09-17 -- Error 102 Fix & Major Global Sync
+- Fixed a server disconnect (Error 102) caused by translated training schedule buttons.
+- Synced thousands of official Global English career stories, home screen voice lines, and song lyrics.
+- Replaced outdated UI textures and filled gaps in story titles, skill descriptions, and character lore.
 
-## 2026-09-16 -- Fresh updates
-- 1,607 text + 358 voice lines from latest Global client.
-- 47 UI bits translated from hachimi.log (FactorResearch, TrainerSkill, SingleMode).
+## 2026-09-16 -- Global Text & UI Additions
+- Synced over 1,900 official dialogue and voice lines from the latest Global game client.
+- Translated Factor Research, Trainer Skills, and career mode UI elements.
 
-## 2026-09-12 -- v8 release
-- Name cleanup, support titles, all current menus. Verified zero-diffs.
-- Pinned horse names across all translations (12k hits checked, 0 wrong forms).
-- Race jikkyo (live commentary) translated.
-- Branches: main (flagship), community, lore (story-only), full (everything + media), full-slim (text + select UI images).
+## 2026-09-12 -- v8 Release
+- Cleaned up character and support card names across all current menus.
+- Standardized horse names across all translations.
+- Translated live race commentary.
+- Shipped distinct flavor branches: Flagship, Community, Lore, Full, and Full-slim.
 
-## 2026-09-10 -- Sync system
-- UmaTL upstream sync system: merges UmaTL, Global EN, and Gemini translations with SD preservation.
-- Career mode synced from Global EN.
-- Home screen synced from Global EN.
+## 2026-09-10 -- Sync System
+- Built upstream sync system to merge UmaTL, Global EN, and Gemini translations while preserving exact skill numbers.
+- Synced career mode and home screen dialogue from official Global English.
 
-## 2026-09-06 -- 100% story coverage
-- Last 4,200 cutscenes translated -- every story in the game is now in English.
-- 938 lobby chats, 1,200 race lines, 25 songs added. Text wrap fixed.
+## 2026-09-06 -- 100% Story Coverage
+- Translated the final 4,200 cutscenes -- every story cutscene in the game is now in English.
+- Added 938 lobby chats, 1,200 race lines, and 25 songs.
 
-## 2026-09-05 -- Career & alignment
-- 14,136 career events and 395 card stories added.
-- Dialogue choice positions fixed, character names cleaned up.
+## 2026-09-05 -- Career & Alignment
+- Added translations for 14,136 career events and 395 support card stories.
+- Fixed dialogue choice positions and cleaned up character names.
 
-## 2026-09-03 -- Launch
-- First launch: 94,000 strings, full voice lines, pictures, PC/Android support.
+## 2026-09-03 -- Initial Launch
+- First launch: 94,000 translated strings, full voice lines, translated UI pictures, with PC and Android support.
