@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-21 -- Add `$(scale NN)` to 1,049 overflow-prone UI strings
+- Tier 1 (955): short single-line labels (<=45 cols) where EN is 1.15-1.25x wider than JP; scaled to 85-98% (`localize` 54, `text_data` 772, `cst` 129).
+- Tier 3 (94): tutorial `text_data` category 63 where EN exceeds the fixed box; scaled to 75-90%, including the Training Plan tutorial (`63/386`, 85%).
+- Scaling chosen over rewrapping for tutorials because the overflow is vertical (extra lines would be clipped by the footer).
+- Skipped `$(scale)` where the required size was below 75% (those need rewording, tracked separately).
+- index.json regenerated (23,673 files).
+
 ## 2026-10-20 -- Adopt 113 official Global UI/menu strings + scale tags on compact labels
 - Filled 113 `text_data` rows that existed only in the Global master (all outside the quarantined localize keys, so no Error 102 risk): racewear names (cat 14, 13), costume titles (cat 5, 2), story titles (cat 181, 60), mission/song text (cat 65, 10), level labels (cat 233, 5), event/result labels (cats 194/209/210, 14), live title (cat 283, 1), plus misc UI labels.
 - Used the official Global EN wording (e.g. `MELTY GIFT` -> `Melt Your Heart`, `[Creeping Black]` -> `[Creeping Shadow]`, `Manticore`-class racewear names) instead of leaving the JP-English placeholder.
