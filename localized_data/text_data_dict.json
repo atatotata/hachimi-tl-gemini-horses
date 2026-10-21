@@ -983,7 +983,9 @@
     "112702": "[Resolute Violet Flame]",
     "113401": "[Bloom-Draped Couture]",
     "114901": "[Exquisite Dawning Gloom]",
-    "101803": "[Eternal Hecateia]"
+    "101803": "[Eternal Hecateia]",
+    "102501": "[Creeping Shadow]",
+    "103102": "$(scale 85)[Melt Your Heart]"
   },
   "6": {
     "1001": "Special Week",
@@ -3560,7 +3562,20 @@
     "901149": "Casual Clothes (Phalaenopsis)",
     "901144": "Casual (Rose Kingdom)",
     "101840": "Eternal Hecateia",
-    "110840": "Halloween (Duramente)"
+    "110840": "Halloween (Duramente)",
+    "102": "Glorious Azure A",
+    "103": "Glorious Azure B",
+    "106": "Snowy Integrity (A)",
+    "107": "Snowy Integrity (B)",
+    "108": "Road of Radiance (A)",
+    "109": "Road of Radiance (B)",
+    "102301": "pf. Winning Equation...",
+    "102501": "Creeping Shadow",
+    "103113": "$(scale 85)Melt Your Heart",
+    "106301": "$(scale 85)Ikuno Dictus's Signature Racewear",
+    "107701": "$(scale 85)Narita Top Road's Signature Racewear",
+    "109301": "$(scale 85)K.S.Miracle's Signature Racewear",
+    "110701": "$(scale 85)Tap Dance City's Signature Racewear"
   },
   "15": {
     "1": "Trackwear with Name Tags",
@@ -25594,7 +25609,17 @@
     "415111": "CLASSIC Platinum ★10",
     "415211": "CLASSIC Gold ★10",
     "415311": "CLASSIC Silver ★10",
-    "415411": "CLASSIC Bronze ★10"
+    "415411": "CLASSIC Bronze ★10",
+    "100620": "Transforming",
+    "100622": "Blow My Gale",
+    "100626": "Girls' Legend U",
+    "100627": "Ms. Victoria",
+    "100628": "Sparkly Magic Show",
+    "100630": "Dramatic Journey",
+    "100631": "Everlasting Beats",
+    "100632": "Glorious Moment!",
+    "101405": "Scenery",
+    "502203": "Happy Hoppers"
   },
   "66": {
     "100101": "Default",
@@ -40726,7 +40751,8 @@
     "7": "Hope Shines On",
     "21": "As the light shines, and grows!",
     "22": "Midsummer Star, Late Autumn Flower",
-    "23": "Seeds for You, Hope Returns"
+    "23": "Seeds for You, Hope Returns",
+    "5": "Scenery"
   },
   "113": {
     "100000": "Star Pieces for the Selected Umamusume",
@@ -41919,7 +41945,9 @@
     "403": "Ruler of the Board",
     "404": "Favored Child of Fate",
     "405": "Indomitable Phalaenopsis",
-    "406": "Cornerstone of the Rose Clan"
+    "406": "Cornerstone of the Rose Clan",
+    "237": "Queen of Dance",
+    "280": "Superhero"
   },
   "131": {
     "1": "Run in Rainy weather at least 4 times and win 3 times",
@@ -56260,7 +56288,8 @@
     "457": "A Lantern in the Dark Night",
     "458": "The Demonic Empress Descends",
     "459": "The Dark Banquet Begins",
-    "460": "Communion in the Deep Night"
+    "460": "Communion in the Deep Night",
+    "87": "Ready?"
   },
   "192": {
     "10001": "Trainer's Office",
@@ -56356,14 +56385,20 @@
     "813": "Team Demeter",
     "814": "Team Tyche",
     "902": "Team Zenith",
-    "1000": "Team Zenith"
+    "1000": "Team Zenith",
+    "101": "Runners",
+    "500": "Party Time",
+    "507": "Towers",
+    "600": "Cute Flowers",
+    "604": "Same ☆ Beats"
   },
   "195": {
     "2": "Sunny Runners",
     "3": "Carrot Pudding",
     "4": "Blue Bloom",
     "5": "Team Carrot",
-    "0": "Name Pending"
+    "0": "Name Pending",
+    "1": "Happy Hoppers"
   },
   "196": {
     "1001": "Secure a win in the Twinkle Series!",
@@ -57004,7 +57039,11 @@
     "40019": "Precious Treasure Box",
     "40020": "Zero Is Where the Center Stands!",
     "40091": "Make Debut!",
-    "40013": "Hey, Guess What!"
+    "40013": "Hey, Guess What!",
+    "40003": "Run n' Run!",
+    "40016": "Present March♪",
+    "40018": "Fanfare for the Future!",
+    "40092": "Girls' Legend U"
   },
   "210": {
     "1006": "Make Debut!",
@@ -57024,7 +57063,12 @@
     "1046": "Getaway! Fallin' Love",
     "1047": "Ring Ring Diary",
     "1057": "Zero Is Where the Center Stands!",
-    "1011": "Hey, Guess What!"
+    "1011": "Hey, Guess What!",
+    "1003": "Run n' Run!",
+    "1020": "Fanfare for the Future!",
+    "1029": "Girls' Legend U",
+    "1036": "Girls' Legend U",
+    "1039": "Present March♪"
   },
   "214": {
     "1001": "Dashing towards Your Dreams",
@@ -57685,7 +57729,8 @@
   },
   "221": {
     "1011": "$(nb)$(scale 75)The Victory Club That Makes Flowers Bloom",
-    "1012": "Era of White"
+    "1012": "Era of White",
+    "1003": "1.5-Year Anniversary"
   },
   "222": {
     "1": "Pre-Concert 1: Prepping the Dream Stage!",
@@ -58382,7 +58427,12 @@
   },
   "233": {
     "200": "Golshi Mode",
-    "300": "Ultra Golshi Mode"
+    "300": "Ultra Golshi Mode",
+    "401": "Lvl 1",
+    "402": "Lvl 2",
+    "403": "Lvl 3",
+    "404": "Lvl 4",
+    "405": "Lvl 5"
   },
   "234": {
     "1": "Silk Hat Rewards",
@@ -78238,7 +78288,67 @@
     "830321002": "'Defeat the King of the Night!'",
     "830321003": "'Gleaming Under the Full Moon: The Red Stone'",
     "501108800": "Trick, Trick, Trick!",
-    "501108801": "No, No! Horror Night"
+    "501108801": "No, No! Horror Night",
+    "400003300": "We Are...",
+    "400004307": "Epic Backfire!",
+    "501002513": "The Color of the Landscape",
+    "501005513": "What a Wonderful Stage!",
+    "501005514": "My Dear Sister",
+    "501005517": "Magical Mishap",
+    "501010515": "To the Top!",
+    "501022115": "Something Special",
+    "501022118": "Who Shall Be My Escort?",
+    "501022403": "Something Special",
+    "501022406": "Who Shall Be My Escort?",
+    "501022524": "I Love Ramen",
+    "501022525": "It'll Be More Fun!",
+    "501024800": "You're My Sunshine ☆",
+    "501024801": "Meant to Be ♪",
+    "501024802": "With My Whole Heart!",
+    "501036114": "Uncertainty",
+    "501036118": "Just as Planned!",
+    "501036119": "It's a New Day",
+    "501036402": "Uncertainty",
+    "501036702": "Logic and Technique",
+    "501036703": "Two Egoists",
+    "501036704": "Victory Conditions",
+    "501037111": "Wo ein Wille ist, ist auch ein Weg",
+    "501037119": "Leichter gesagt als getan",
+    "501037120": "Das Ende...",
+    "501037407": "Leichter gesagt als getan",
+    "501037408": "Das Ende...",
+    "501038511": "Ms. Worldwide",
+    "501038800": "Where Could Curren Be?",
+    "501038801": "Curren in Black",
+    "501038802": "#CuteBakushin",
+    "501040513": "Client's Orders",
+    "501045800": "Search or Story Time",
+    "501045801": "Spook or Fluke",
+    "501045802": "Curse or Comfort",
+    "501050111": "No Regrets",
+    "501050113": "B&W",
+    "501050114": "[W]inner",
+    "501050401": "B&W",
+    "501050402": "[W]inner",
+    "501050511": "Unknown Music",
+    "501050702": "git gud noob",
+    "501050703": "ggez",
+    "501050704": "ggwp",
+    "501058115": "How the River Runs...",
+    "501058403": "How the River Runs...",
+    "501068121": "Doing the Step with You!",
+    "501083118": "Words Exchanged",
+    "501098111": "Go Rickey!",
+    "501098116": "It's Your Song!",
+    "501098404": "It's Your Song!",
+    "820024001": "#BFF #Party!",
+    "820024002": "#LOL #Party! #Round2",
+    "830012003": "We Are BNW!",
+    "830061001": "A Precautionary Tale",
+    "830067006": "The Monarch's Pride",
+    "830095001": "It'll All Turn Out Fine",
+    "830095002": "Re: START!",
+    "830095003": "You Are Me"
   },
   "264": {
     "1": "Akito (NPC)",
@@ -80015,7 +80125,8 @@
   },
   "283": {
     "1003": "4.5th Anniverasy Celebration",
-    "1004": "The Age of White"
+    "1004": "The Age of White",
+    "1001": "Sparkly Magic Show"
   },
   "284": {
     "1001": "Pick up your rewards after the Christmas Concert finishes.\\nRickey! ☆ Lucky! ☆ Everybody get happy!!"
@@ -96498,5 +96609,11 @@
   "483": {
     "10": "Have a <color=#ff911c>Chaser Gene</color> factor",
     "13": "Have a factor that grants skill hints for\n<color=#ff911c>Ready to Surge</color>"
+  },
+  "299": {
+    "1": "Growth Race"
+  },
+  "300": {
+    "1": "GWR"
   }
 }
