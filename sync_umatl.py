@@ -53,6 +53,11 @@ DICT_FILES = {
 # Format: {rel_path: {key: value}} — text_data uses "cat/idx" compound keys.
 PINNED_OVERRIDES = {
     "localize_dict.json": {
+        # Horseshoe Exchange menu: official Global says "Cleats" in the tutor
+        # bubble but "Horseshoes" on the button - keep our unified "Cleats".
+        "Shop0149": "$(scale 90)Exchange Cleats",
+        "Shop0129": "Cleats",
+        "Outgame0165": "You've received the following cleats \nfrom converting your support cards",
         # "Transfer Requests" (17 chars) clips in the Veterans menu button
         "TransferEvent0001": "Transfers",
         # "Team Formation" (14 chars + $(nb) prefix) clips in Veterans submenu button
