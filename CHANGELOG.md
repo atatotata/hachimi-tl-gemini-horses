@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-21 -- Restore shop-menu label line breaks (cat 39)
+- The exchange menu labels lost the JP two-line layout (JP uses literal `\n`), so `Club Point Exchange` and friends clipped at the card edge.
+- Rewrapped 11 labels to match JP segments (`Friend Point\nExchange`, `Club Point\nExchange`, `1st Anniv.\nCelebration`, ...) and normalized 4 `Carnival Pts` rows that still had a literal `\n`.
+- No wording changes; index.json regenerated (23,673 files).
+
 ## 2026-10-21 -- Rewrap 380 tutorial rows (cat 63) to JP line structure
 - Rebuilt tutorial `text_data` category 63 rows that had lost their JP line breaks (JP uses literal `\n`), using proportional line widths; also normalized stray literal `\n` inside EN bodies.
 - Preserves existing `$(scale NN)` tags where present; no wording changes.
