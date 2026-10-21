@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-21 -- Rewrap 380 tutorial rows (cat 63) to JP line structure
+- Rebuilt tutorial `text_data` category 63 rows that had lost their JP line breaks (JP uses literal `\n`), using proportional line widths; also normalized stray literal `\n` inside EN bodies.
+- Preserves existing `$(scale NN)` tags where present; no wording changes.
+- 380 rows rewritten (382 total in cat 63, 104 still carry scale tags).
+- index.json regenerated (23,673 files).
+
 ## 2026-10-21 -- Rewrap 11,444 character voice lines to match JP line structure
 - For every `character_system_text` row where the JP original has 2-3 manual lines and our EN was one long line, re-wrapped the EN into the same number of lines using widths proportional to the JP line widths.
 - Prevents the fixed-height voice bubbles from clipping the last line; no wording changes.
