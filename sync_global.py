@@ -22,6 +22,16 @@ HACHIMI_DIR = Path(r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\hachimi\
 GLOBAL_MASTER_DEFAULT = Path(r"G:\Games\steamapps\common\UmamusumePrettyDerby\UmamusumePrettyDerby_Data\Persistent\master\master.mdb")
 CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 
+# Local slot-fit pins: official Global strings that do NOT fit the JP UI frame.
+# The tutor bubble in the Horseshoe Exchange menu is a fixed multi-line label,
+# so the official one-line Global text is clipped; keep manual breaks instead.
+# Applied after the overlay so every Global sync preserves them.
+PINNED_CST = {
+    (9001, 250000): "Here, you can exchange excess\nSupport Cards for Cleats, then\ntrade them for various items.",
+    (9001, 250001): "Here, you can exchange excess\nStar Pieces for Clovers, then\ntrade them for various items.",
+}
+PIN_KEYS = {(str(c), str(v)) for (c, v) in PINNED_CST}
+
 def load_global_tables(global_master: Path):
     db = sqlite3.connect(str(global_master))
     cur = db.cursor()
@@ -110,11 +120,20 @@ def main():
                 ck, vk = str(cid), str(vid)
                 if not en:
                     continue
+                if (ck, vk) in PIN_KEYS:
+                    continue
                 if ck in d and vk in d[ck] and d[ck][vk] != en:
                     if not args.dry_run:
                         d[ck][vk] = en
                     repl += 1
-            print(f"[{label}] cst: {repl} Global>MT overwrites (JP-only preserved)", flush=True)
+            pinned = 0
+            for (cid, vid), text in PINNED_CST.items():
+                ck, vk = str(cid), str(vid)
+                if ck in d and vk in d[ck] and d[ck][vk] != text:
+                    if not args.dry_run:
+                        d[ck][vk] = text
+                    pinned += 1
+            print(f"[{label}] cst: {repl} Global>MT overwrites (JP-only preserved); {pinned} slot-fit pin(s)", flush=True)
             if not args.dry_run:
                 bak = p.with_suffix(p.suffix + ".bak_global")
                 if not bak.exists():
