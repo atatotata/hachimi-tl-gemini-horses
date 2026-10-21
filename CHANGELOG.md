@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-20 -- Unify "Cleats" wording in the exchange menu
+- `Shop0149` button: `Exchange Horseshoes` -> `Exchange Cleats`; `Shop0129` -> `Cleats`; `Outgame0165` -> `...following cleats...` (matches the tutor bubble and official Global's "Cleats" term).
+- Pinned all three in `sync_umatl.py` so the weekly UmaTL overlay keeps them (upstream still says "Horseshoes").
+
 ## 2026-10-20 -- Fix Horseshoe Exchange tutor bubble overflow
 - The tutor bubble is a fixed multi-line JP label, but the official Global English (identical to ours) is one 109-char line, so it clipped to `Here, you can exchange excess Supp…`.
 - Wrapped `character_system_text` 9001/`250000` and `250001` into 3 manual lines.
