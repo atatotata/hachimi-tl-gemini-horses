@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-21 -- Rewrap 11,444 character voice lines to match JP line structure
+- For every `character_system_text` row where the JP original has 2-3 manual lines and our EN was one long line, re-wrapped the EN into the same number of lines using widths proportional to the JP line widths.
+- Prevents the fixed-height voice bubbles from clipping the last line; no wording changes.
+- index.json regenerated (23,673 files).
+
 ## 2026-10-21 -- Add `$(scale NN)` to 1,049 overflow-prone UI strings
 - Tier 1 (955): short single-line labels (<=45 cols) where EN is 1.15-1.25x wider than JP; scaled to 85-98% (`localize` 54, `text_data` 772, `cst` 129).
 - Tier 3 (94): tutorial `text_data` category 63 where EN exceeds the fixed box; scaled to 75-90%, including the Training Plan tutorial (`63/386`, 85%).
