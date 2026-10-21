@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-20 -- Fix Horseshoe Exchange tutor bubble overflow
+- The tutor bubble is a fixed multi-line JP label, but the official Global English (identical to ours) is one 109-char line, so it clipped to `Here, you can exchange excess Supp…`.
+- Wrapped `character_system_text` 9001/`250000` and `250001` into 3 manual lines.
+- Pinned both rows in `sync_global.py` so future Global syncs keep the line breaks (verified: drift is re-applied as `1 slot-fit pin`).
+
 ## 2026-10-19 -- Global Minor Sync
 - Synced official English text and character voice lines from the latest Global update.
 - Verified all story cutscenes, home screen dialogues, and live song lyrics remain fully up to date.
