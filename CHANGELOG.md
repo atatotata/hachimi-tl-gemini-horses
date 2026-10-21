@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-20 -- Adopt 113 official Global UI/menu strings + scale tags on compact labels
+- Filled 113 `text_data` rows that existed only in the Global master (all outside the quarantined localize keys, so no Error 102 risk): racewear names (cat 14, 13), costume titles (cat 5, 2), story titles (cat 181, 60), mission/song text (cat 65, 10), level labels (cat 233, 5), event/result labels (cats 194/209/210, 14), live title (cat 283, 1), plus misc UI labels.
+- Used the official Global EN wording (e.g. `MELTY GIFT` -> `Melt Your Heart`, `[Creeping Black]` -> `[Creeping Shadow]`, `Manticore`-class racewear names) instead of leaving the JP-English placeholder.
+- Added `$(scale NN)` to the 6 adopted compact labels where EN is materially wider than JP (cats 5/14; NN clamped to 85-98) to avoid bounding-box overflow on card/button surfaces. Longer-form titles/labels were left untagged because scaling them below 85% would be unreadable.
+- index.json regenerated (23,673 files).
+
 ## 2026-10-20 -- Unify "Cleats" wording in the exchange menu
 - `Shop0149` button: `Exchange Horseshoes` -> `Exchange Cleats`; `Shop0129` -> `Cleats`; `Outgame0165` -> `...following cleats...` (matches the tutor bubble and official Global's "Cleats" term).
 - Pinned all three in `sync_umatl.py` so the weekly UmaTL overlay keeps them (upstream still says "Horseshoes").
