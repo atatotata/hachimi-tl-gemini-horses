@@ -1,296 +1,265 @@
 {
+  "title": "So, The Two Are —",
   "no_wrap": true,
   "text_block_list": [
     {
       "name": "Stay Gold",
-      "text": "An in-depth exclusive interview?",
+      "text": "A close-coverage TV program?",
       "choice_data_list": [
-        "Yeah, they said they want to capture us \njust being our usual selves.",
-        "Yeah, they said they want to film us going \nabout our everyday routine."
+        "Yeah, seems like they want to capture our day to day life",
+        "Yeah, seems like they want to capture our day to day life"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "An Umamusume at the center of her era and \nher Trainer. It seems to be a TV program \npitch about exploring their untold days, \nbut—"
+      "text": "It seems that the plan for this segment was \nto go behind-the-scenes on a horsegirl and \nher trainer who have become the centre of \nattention of this generation, though —"
     },
     {
       "name": "Stay Gold",
-      "text": "Heh, takes all kinds, I suppose. ...Well, \nwhy not? Might as well give it a shot.",
+      "text": "Hm～ There's some interesting people out \nthere huh… Well, sounds alright to me, if \nwe do it?",
       "choice_data_list": [
-        "I'll reply to them with an OK, then."
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Coming right up."
-    },
-    {
-      "name": "Narrator",
-      "text": "And then came the day of the interview. \nThe film crew arrived at the academy, but—",
-      "choice_data_list": [
-        "(Stay Gold... isn't here!!)"
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Um, should we try again another day...?",
-      "choice_data_list": [
-        "No! I'm fine!"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "To be honest, I halfway expected this to \nhappen. So—",
-      "choice_data_list": [
-        "I'm going over to Stego's right now."
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Ah, thank goodness...! So you knew where \nStay Gold-san was all along, Trainer-san!",
-      "choice_data_list": [
-        "No, I don't understand."
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Huh...?",
-      "choice_data_list": [
-        "Still, I'm sure it'll probably be fine!"
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Eeeh...??\""
-    },
-    {
-      "name": "Stay Gold",
-      "text": "――――",
-      "choice_data_list": [
-        "Stay Gooold!!"
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Y-You've gotta be kidding me... They were \nreally here... It's barely an hour's drive \nfrom the academy, you know...?"
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Oh, Trainer. ...Wait—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Ah~. Was today the day for the interview? \nMy bad, my bad, totally forgot.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Still, I was surprised. Did you actually \nhave where we were going shared with you \nbeforehand?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Stay Gold",
-      "text": "No, not at all. I'm always like this.",
-      "choice_data_list": [
-        "I'm always searching for it."
-      ]
-    },
-    {
-      "name": "Shooting Director",
-      "text": "I-Is that so..."
-    },
-    {
-      "name": "Stay Gold",
-      "text": "It was an exclusive behind-the-scenes \ncoverage, right? Then let's get straight \nto it—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Shooting Director",
-      "text": "Ah! Could you be doing secret training \noff-campus...!?",
-      "choice_data_list": []
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Time to eat.",
-      "choice_data_list": [
-        "How about soba? I saw a nice place \nearlier."
+        "Then I'll give them the OK"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Oh, nice. Let's go, let's go."
+      "text": "Gotcha."
     },
     {
-      "name": "Shooting Director",
-      "text": "S-So this is the duo leading the charge of \nthis new era...",
-      "choice_data_list": []
-    },
-    {
-      "name": "TV Audio",
-      "text": "\"Even after that, the two of them \ncontinued in perfect harmony, enjoying \nevery moment as it came.\"",
-      "choice_data_list": []
-    },
-    {
-      "name": "TV Audio",
-      "text": "\"‘Inseparable friends’ must be the very \nphrase to describe the two of them. We \ncaught a glimpse of the bond behind their \ngreat achievement—\"",
+      "text": "Then, it became the filming day. The crew \nhave all arrived on site at the academy \nbut —",
       "choice_data_list": [
-        "(In the end, it just looked like a simple \nwalk...)"
+        "(Stego's… Not here!!)"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "Hi there～ Would it be better \nif we changed the date…?",
+      "choice_data_list": [
+        "Oh! Today should be all fine!"
+      ]
+    },
+    {
+      "text": "To be honest, I half expected this to happen. \nWhich is why ——",
+      "choice_data_list": [
+        "We're heading to Stego's location now"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "Ah, what a relief…! You can leave it to \nTrainer to know exactly where Stay Gold \nis right now!",
+      "choice_data_list": [
+        "No, I'm actually not sure myself"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "Eh……?",
+      "choice_data_list": [
+        "But it should be completely fine!"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "Ehhhh……??"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "————",
+      "choice_data_list": [
+        "Stegooo!!"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "N-No way… She really was here… \nIt took an entire hour to drive \nhere from the academy…?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yo, it's Trainer… Oh —"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ah～ Filming was today huh. My bad, \nmy bad, I forgot about this."
+    },
+    {
+      "name": "Director",
+      "text": "Even so, what a surprise. Did you perhaps \nlet your trainer know beforehand where \nyou were going to be?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nah, not at all. We normally \njust vibe it out like this.",
+      "choice_data_list": [
+        "I'm always searching for her"
+      ]
+    },
+    {
+      "name": "Director",
+      "text": "I-I see……"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "This is going to be a \"close coverage\" kind \nof episode right. Then, right now it's —"
+    },
+    {
+      "name": "Director",
+      "text": "Woah! Is this going to be some sort of \nsecret off campus training session…!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Time for food.",
+      "choice_data_list": [
+        "Soba OK? I saw a nice store on the way"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Haha, that wrapped things up nicely— Well, \nthis feels more like me anyway."
+      "text": "Oh, sounds good. Let's go, let's go."
     },
     {
-      "name": "Stay Gold",
-      "text": "Besides, it's not like I told any lies.",
+      "name": "Director",
+      "text": "S-So it's these two who make up the \nracing combo of this generation……"
+    },
+    {
+      "name": "TV Voiceover",
+      "text": "\"After that, the two continued to sway from \nplace to place with perfect coordination, \nenjoying their day\""
+    },
+    {
+      "name": "TV Voiceover",
+      "text": "\"You can only describe the two as the \nclosest of friends, and we were able to \nwitness just how strong the bond which \nholds up all their achievements actually is —\"",
       "choice_data_list": [
-        "Well... that's true."
+        "(We ended up just strolling around…)"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "\"……Little did they know at the time that \nthis footage would become a hot topic \namong fans after the broadcast, leading to \nwidespread calls for a sequel――\""
+      "name": "Stay Gold",
+      "text": "Haha, feels as though they collected a \nfew good scenes for us, though… \nWell, this is typical for us right."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's not like there were any lies either.",
+      "choice_data_list": [
+        "Well… That's true"
+      ]
+    },
+    {
+      "text": "…It was unexpected at the time, but this \nepisode became such a hot topic amongst \nfans, to the point where many wished to \nsee a second episode —"
     },
     {
       "name": "Silence Suzuka",
-      "text": "“――Um... as far as I know, I think the two \nof them are always like that. Living each \nand every moment to the fullest, so to \nspeak――”",
-      "choice_data_list": []
+      "text": "\"—Uhm…… To the best of my knowledge, \nthose two always seemed that way to \nmyself. If it's one day or another, they'll \nenjoy it to the fullest and such —\""
     },
     {
       "name": "Special Week",
-      "text": "\"They get along super well! You can always \nhear the two of them laughing together!\"",
-      "choice_data_list": []
+      "text": "\"They're really great friends, aren't they! \nBecause I see the two of them going \n'Wahaha' and smiling together a lot!\""
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "\"Yes, we know full well! That the two of \nyou are connected by a powerful bond!\"",
-      "choice_data_list": []
+      "text": "\"Yeah, we know them <i>ve～ry</i> well! Also \nabout that fated bond of theirs which \nis absolutely unbreakable!\""
     },
     {
       "name": "Mejiro Bright",
-      "text": "\"The two of you are 'fellow travelers on a \njourney~.' No matter how far apart you \nare, you are always looking in the same \ndirection~.\"",
-      "choice_data_list": []
+      "text": "\"It is because they are 'travelling buddies' \nof course～ It matters not how far apart \nthey are, because they will both always \nbe facing the same direction～\""
     },
     {
-      "name": "TV Audio",
-      "text": "“—As you can see, there are countless \npeople within the academy who speak of the \ndeep bond of trust between them.”",
-      "choice_data_list": []
+      "name": "TV Voiceover",
+      "text": "\"Just like that, it appears that those who \nknow of their incredible mutual trust \nwithin the academy amount to many\""
     },
     {
-      "name": "TV Audio",
-      "text": "\"‘Inseparable friends’ must be the very \nphrase to describe the two of them. We \ncaught a glimpse of the bond behind their \ngreat achievement—\"",
-      "choice_data_list": []
+      "name": "TV Voiceover",
+      "text": "\"You can only describe the two as the \nclosest of friends, and we were able to \nwitness just how strong the bond which \nholds up all their achievements actually is —\""
     },
     {
       "name": "Stay Gold",
-      "text": "Haha, to think even Suzuka and the others \nare doing interviews.",
+      "text": "<i>Hahah,</i> I can't believe they even managed \nto interview Suzuka and the others.",
       "choice_data_list": [
-        "Everyone was saying the exact same \nthing..."
+        "Everyone is saying the same thing…"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Well, it is a fact. There's no problem \nwith that, right?",
+      "text": "Well, it's all the truth. No problems \nwith that right?",
       "choice_data_list": [
-        "Well... I suppose so."
+        "Well… That's true"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "\"……Little did they know at the time that \nthis footage would become a hot topic \namong fans after the broadcast, leading to \nwidespread calls for a sequel――\""
+      "text": "…It was unexpected at the time, but this \nepisode became such a hot topic amongst \nfans, to the point where many wished to \nsee a second episode —"
     },
     {
       "name": "Silence Suzuka",
-      "text": "“――Um... as far as I know, I think the two \nof them are always like that. Living each \nand every moment to the fullest, so to \nspeak――”",
-      "choice_data_list": []
+      "text": "\"—Uhm…… To the best of my knowledge, \nthose two always seemed that way to \nmyself. If it's one day or another, they'll \nenjoy it to the fullest and such —\""
     },
     {
       "name": "Special Week",
-      "text": "\"They get along super well! You can always \nhear the two of them laughing together!\"",
-      "choice_data_list": []
+      "text": "\"They're really great friends, aren't they! \nBecause I see the two of them going \n'Wahaha' and smiling together a lot!\""
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "\"Yes, we know full well! That the two of \nyou are connected by a powerful bond!\"",
-      "choice_data_list": []
+      "text": "\"Yeah, we know them ve～ry well! Also \nabout that fated bond of theirs which \nis absolutely unbreakable\""
     },
     {
       "name": "Mejiro Bright",
-      "text": "\"The two of you are 'fellow travelers on a \njourney~.' No matter how far apart you \nare, you are always looking in the same \ndirection~.\"",
-      "choice_data_list": []
+      "text": "\"It is because they are 'travelling buddies' \nof course～ It matters not how far apart \nthey are, because they will both always \nbe facing the same direction～\""
     },
     {
-      "name": "TV Audio",
-      "text": "“—As you can see, there are countless \npeople within the academy who speak of the \ndeep bond of trust between them.”",
-      "choice_data_list": []
+      "name": "TV Voiceover",
+      "text": "\"Just like that, it appears that those who \nknow of their incredible mutual trust \nwithin the academy amount to many\""
     },
     {
-      "name": "TV Audio",
-      "text": "\"‘Inseparable friends’ must be the very \nphrase to describe the two of them. We \ncaught a glimpse of the bond behind their \ngreat achievement—\"",
-      "choice_data_list": []
+      "name": "TV Voiceover",
+      "text": "\"You can only describe the two as the \nclosest of friends, and we were able to \nwitness just how strong the bond which \nholds up all their achievements actually is —\""
     },
     {
       "name": "Stay Gold",
-      "text": "Haha, to think even Suzuka and the others \nare doing interviews.",
+      "text": "<i>Hahah</i>, I can't believe they even managed \nto interview Suzuka and the others.",
       "choice_data_list": [
-        "Everyone was saying the exact same \nthing..."
+        "Everyone is saying the same thing…"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Well, it is a fact. There's no problem \nwith that, right?",
+      "text": "Well, it's all the truth. No problems \nwith that right?",
       "choice_data_list": [
-        "Well... I suppose so."
+        "Well… That's true"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "And so, the broadcast aired without a \nhitch—"
+      "text": "Just like that, the episode \naired without any issues —"
     },
     {
-      "name": "Stego's Fan A",
-      "text": "Man. Stay Gold and the Trainer are so on \nthe same wavelength, like real partners in \ncrime. So this is what a best partnership \nlooks like...",
-      "choice_data_list": []
+      "name": "Stego Fan A",
+      "text": "Gee～ Stego and Trainer, they just get \neach other, their friendship is really \nsomething huh. So this is what they \ncall a best partner…"
     },
     {
-      "name": "Stego's Fan B",
-      "text": "Stay Gold's trainer really is a bit \neccentric, huh? Though I guess that's \nexactly why they're such a great match.",
-      "choice_data_list": []
+      "name": "Stego Fan B",
+      "text": "Stay Gold's trainer really is someone a bit \npeculiar hey. That is precisely what's so \ngreat about them though."
     },
     {
-      "name": "Narrator",
-      "text": "—Some time after the broadcast aired.",
-      "choice_data_list": []
+      "text": "Sometime after the broadcast —"
     },
     {
       "name": "Stay Gold",
-      "text": "\"Huh. I had no idea people were talking \nabout that so much.\"",
+      "text": "Hm～ It's really become a hot topic huh.",
       "choice_data_list": [
-        "Enough that people are even asking for a \nsequel..."
+        "To think the fans would want a sequel…"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Haha. Everyone really is full of \ncuriosity, huh."
+      "text": "<i>Hahah.</i> Everyone really enjoyed that one hey."
     },
     {
       "name": "Stay Gold",
-      "text": "Now then, next time how about you film me \ngoing off to some uncharted land? We'll \nmeet up on-site, of course.",
+      "text": "Let me see, should we go and film some \nunexplored region for the next one? \nAnd of course, we're only meeting up \nat the filming destination.",
       "choice_data_list": [
-        "Put yourself in the shoes of the person \nsearching for you~!",
-        "Put yourself in the shoes of the person \nlooking for you~!"
+        "Put yourself in my shoes～!",
+        "Put yourself in my shoes～!"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "—Still, having those around us view the \nway we are favorably doesn't feel bad at \nall."
+      "text": "—That being said, it's not a bad feeling \nfor the people around you to view you \nin a positive light."
     },
     {
-      "name": "Narrator",
-      "text": "It became an event that reaffirmed that \nboth felt the exact same way—",
-      "choice_data_list": []
+      "text": "This event confirmed that we both \nheld the same belief in each other."
     }
   ]
 }

@@ -1,192 +1,184 @@
 {
   "title": "Moon in the Sunshine",
+  "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narrator",
-      "text": "One day during lunch break.\nWhile looking through documents, I was having lunch in the trainer's office when..."
+      "text": "One day, during lunch break. While looking over some \ndocuments, I was eating lunch in the trainers' offices……"
     },
     {
       "name": "Daring Heart",
-      "text": "Oh my! Lunch with your paperwork again?\nYou two are so lovey-dovey it makes me jealous.",
+      "text": "Oh my! Having lunch while working again? \nSo in love with work that you're making me jealous.",
       "choice_data_list": [
-        "Oh, what brings you here at this hour?",
-        "Oh, what brings you here at this hour?"
+        "Huh? What's wrong now?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "I wanted to talk about our afternoon training session. Remember how\nwe talked about ramping up the intensity and extending the time for the upcoming race?"
+      "text": "I just had some questions about this afternoon's training. \nRemember? To prep for the next race we talked about \nincreasing the intensity and duration of training, right?"
     },
     {
       "name": "Daring Heart",
-      "text": "Well, my friends said they want to come cheer me on after finishing\ntheir own workouts. It might get a little rowdy, is that okay?",
+      "text": "And so my friends said that after their training was done, they wanted \nto come cheer me on. It might get a little rowdy, but is that okay?",
       "choice_data_list": [
-        "Not a problem at all, that's totally fine."
+        "Of course, that's fine"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "If anything, Daring Heart is the type who fires up when cheered on.\nRecreating a race-like atmosphere is actually a big help for us."
+      "text": "Daring Heart was the type to get fired up when surrounded by cheers. \nIt would be helpful in simulating an actual live race."
     },
     {
       "name": "Daring Heart",
-      "text": "Really? Thanks!\nI'll let them know, then!"
+      "text": "Really? Thanks! \nThen, I'll let them know!"
     },
     {
       "name": "Daring Heart",
-      "text": "Phew... I'm all set!\nShall we get started?"
+      "text": "Phew…… I'm all set. \nIt's about time we get started!"
     },
     {
       "name": "Heart's Friends",
-      "text": "D-A-R-I-N-G! Heart!\nD-A-R-I-N-G! Heart! Wooo!",
+      "text": "D・A・R・I・N・G! Heart! \nD・A・R・I・N・G! Heart! Wooo～!",
       "choice_data_list": [
-        "！？"
+        "!?"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "Startled by the sudden chanting, I looked toward the stands\nand saw a whole group holding up \"Daring Heart\" signs.",
+      "text": "I was startled by the sudden cheers. When I looked towards the stands, \nI saw a group of girls holding placards with 『Daring Heart』 on them.",
       "choice_data_list": [
-        "H-Heart? By cheering, do you mean..."
+        "H-Heart? Is this what you meant……?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Yes.\nHehe, aren't they sweet?"
+      "text": "Yes. \nFufu, they're great, aren't they?"
     },
     {
       "name": "Daring Heart",
-      "text": "—Thank you for cheering for me!\nI won't let your cheers go to waste♪"
+      "text": "——Thank you for cheering for me! \nThose cheers, I won't let them go to waste♪"
     },
     {
       "name": "Heart's Friends",
-      "text": "Wooo♪",
+      "text": "Whew～♪",
       "choice_data_list": [
-        "T-That's incredible...",
-        "T-That's incredible..."
+        "C-crazy……",
+        "C-crazy……"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "Afterward, we ended up having dinner together with Daring Heart\nand everyone who had cheered for her—however..."
+      "text": "After all that, Daring Heart and all her \nfriends decided to have dinner together——however——"
     },
     {
       "name": "Daring Heart",
-      "text": "Hey, buddy!\nWe're not eating at the cafeteria today!"
+      "text": "Hey, buddy! \nToday, we're not going there!"
     },
     {
       "name": "Heart's Friend C",
-      "text": "—All righty!\nLet's get this Happy Dinner Time starteeed☆",
+      "text": "——Alllright! \nLet's Happy Dinner Time☆",
       "choice_data_list": [
-        "Um... is it someone's birthday or something?"
+        "Uh…… is it someone's birthday?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "No way!\nWe'd put in way more effort if it were."
+      "text": "No way! \nIf it was, we'd put way more effort in to it."
     },
     {
       "name": "Daring Heart",
-      "text": "We're not all in the same dorm, you know?\nThink of this as our regular joint dinner party!",
+      "text": "Look, we're not all in the same dorm, right? \nSo this is a joint dinner we have together pretty often!",
       "choice_data_list": [
-        "I-I see...?"
+        "I-I see……?"
       ]
     },
     {
       "name": "Heart's Friend A",
-      "text": "Eating at the dorm and cafeteria every day gets boring!\n...Though the staff still cooked the food!"
+      "text": "We get tired of using only the dorm and cafeteria everyday, you know! \n……It's the same food cooked by the staff though!"
     },
     {
       "name": "Daring Heart",
-      "text": "Hehe!\nJust changing the venue makes it pretty fun, doesn't it?"
+      "text": "Fufuu! Just by changing the location, \nit's still pretty fun, right?"
     },
     {
       "name": "Heart's Friend B",
-      "text": "—Well, we'll be heading out first!\nTrainer, thank you so much for today!"
+      "text": "——Then, we'll be heading back first. \nTrainer-san, thanks for today!"
     },
     {
       "name": "Daring Heart",
-      "text": "...Phew~.\nJust because tomorrow is a rest day, we totally overdid it on the routine.",
+      "text": "……Phew～. Even though tomorrow's a rest day, \nwe still put too much in the menu, huh?",
       "choice_data_list": [
-        "Yeah, get plenty of rest.",
-        "Yeah, make sure to take it easy."
+        "Yeah, make sure to get a good rest",
+        "Yeah, make sure to get a good rest"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Got it!\n...By the way. What are your plans for tomorrow?"
+      "text": "Got it! ……By the way. \nDo you have any plans tomorrow?"
     },
     {
-      "name": "Narrator",
-      "text": "I tilt my head at her question. I don't really have any set plans,\nas I was just going to review some training data at home, but...",
+      "text": "I tilted my head in response to the question. \nI didn't really have any specific plans other \nthan staying home and reviewing some documents but……",
       "choice_data_list": [
-        "Nothing in particular, why?"
+        "Not really, why?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Actually, an acquaintance invited me to a garden party tomorrow.\n...Would you like to come along?",
+      "text": "You see, an acquaintance invited me to a garden party tomorrow. \n……If you'd like, how about coming with me?",
       "choice_data_list": [
-        "Huh, me too?!",
-        "Huh, me too?!"
+        "Eh, me!?",
+        "Eh, me!?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Yes! It's a \"theme party\" this time.\nWe dress up and play games based on whatever theme the host chose."
+      "text": "Yes! This time it's a 『Themed Party』. We'll be dressing up \nand playing games based on the theme set by the organizers."
     },
     {
       "name": "Daring Heart",
-      "text": "The theme this time is \"Spies\"...\nSo we act out roles as secret agents or bodyguards. What do you say?",
+      "text": "This time's theme is 『Spies』…… \nSo we'll be like agents or SPs. How about it?",
       "choice_data_list": [
-        "U-Um... A party, huh..."
+        "O-oh…… A party, huh……"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "I appreciate the invitation.\n...But judging from how flashy and glamorous her circle is, I'd definitely feel out of place."
+      "text": "I was grateful for the invite. ……But, judging by today's \nfanfare, I would probably be well and truly out of place."
     },
     {
-      "name": "Narrator",
-      "text": "She lives in a completely different world from my quiet everyday life.\n...I don't want to show up unprepared and make things awkward for her.",
+      "text": "She lived in a completely different world from the \nquiet one I was used to. ……I wasn't really accustomed \nto it, so I didn't want to drag down the mood.",
       "choice_data_list": [
-        "...I'm not used to that kind of thing and might cause trouble, so this time—"
-      ]
-    },
-    {
-      "name": "Daring Heart",
-      "text": "I see.\n...In that case, your attendance is totally okay!",
-      "choice_data_list": [
-        "Huh?"
+        "……It probably won't be fun with me, so——"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "After all, aren't we buddies who are going to\nsprint through the Twinkle Series together?"
+      "text": "I see. \n……Then, you're coming! Okay!",
+      "choice_data_list": [
+        "Eh?"
+      ]
     },
     {
       "name": "Daring Heart",
-      "text": "I need to get to know you better,\nand you need to get to know me better too."
+      "text": "After all, together we're running the \nTwinkle Series, so we're buddies, right?"
     },
     {
       "name": "Daring Heart",
-      "text": "To make that happen, I want to spend more time with you.\nI want to share all kinds of experiences together."
+      "text": "I want to know more about you, \nand you need to learn more about me."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And to do that, I want to spend more time with you. \nI need to experience lots of things."
     },
     {
       "name": "Daring Heart",
       "text": "Don't you think so?",
       "choice_data_list": [
-        "Heart..."
+        "Heart……"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "And with that said, may I have the pleasure of your escort!"
+      "text": "And so, can I leave the job of escort to you!?"
     },
     {
       "name": "Daring Heart",
-      "text": "Don't worry, I'll be right by your side!\n—Yes or Hell Yes?"
+      "text": "Don't worry, I'll be there with you! \n——Yes or Hell Yes?"
     }
-  ],
-  "no_wrap": true
+  ]
 }
