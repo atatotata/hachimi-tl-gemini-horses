@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-23 -- Scale remaining Global titles + 45 voice lines
+- Adopted the last 31 official Global story titles skipped by the delta sync. Seven carry `$(scale 80-94)` so the new wording is never wider than the line it replaced.
+- Adopted 45 official Global voice lines that needed 4-5 lines at 42 columns by reflowing them to 3 lines at 85-95% (`$(scale NN)`), preserving the voice-bubble height.
+- Fixed the Global source typo in `1099/91010` (`sp` -> `so`).
+- 18 voice lines still need 4+ lines at 85%; left on the previous translation. Remaining short-label candidates need in-game visual review.
+- index.json regenerated (23,673 files).
+
 ## 2026-10-21 -- Split 31 long shop labels (cat 39) to prevent card clipping
 - Labels longer than 26 display columns are now two-line, preferring breaks before `★3`/`SSR` tokens (e.g. `2.5th Anniversary\n★3 Exchange Ticket`, `Half Anniversary\nSSR Support Card Exchange`).
 - The 49-column Umabako ticket also carries `$(scale 85)` because a two-line split alone was still too wide.
