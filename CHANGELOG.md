@@ -1,10 +1,10 @@
 # Changelog
 
-## 2026-10-23 -- Scale remaining Global titles + 45 voice lines
-- Adopted the last 31 official Global story titles skipped by the delta sync. Seven carry `$(scale 80-94)` so the new wording is never wider than the line it replaced.
-- Adopted 45 official Global voice lines that needed 4-5 lines at 42 columns by reflowing them to 3 lines at 85-95% (`$(scale NN)`), preserving the voice-bubble height.
-- Fixed the Global source typo in `1099/91010` (`sp` -> `so`).
-- 18 voice lines still need 4+ lines at 85%; left on the previous translation. Remaining short-label candidates need in-game visual review.
+## 2026-10-23 -- Fit the last Global titles and 45 voice lines
+- Added the last 30 story titles and 1 song title from Global. Seven use `$(scale NN)` so they stay within the same width as before.
+- Shrank 45 Global voice lines to 85–95% so they fit in 3 lines instead of 4–5.
+- Fixed a small Global typo in `1099/91010`: `sp` -> `so`.
+- 18 voice lines are still too long even at 85%, so they keep the old translation.
 - index.json regenerated (23,673 files).
 
 ## 2026-10-21 -- Split 31 long shop labels (cat 39) to prevent card clipping
