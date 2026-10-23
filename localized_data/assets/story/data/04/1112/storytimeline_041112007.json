@@ -1,312 +1,300 @@
 {
   "title": "Same Sky: Sun and Moon",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daring Heart",
-      "text": "Hey! Did you hear? During this year's summer training camp,\nthey're holding a \"Deserted Island Survival Contest\" on our day off!",
+      "text": "Hey! Did ya hear? This year's Summer Training Camp, on one of the days \noff there's going to be a 『Deserted Island Survival Competition』!",
       "choice_data_list": [
-        "Yeah, I saw the flyer... but what are the criteria?",
-        "Yeah, I saw the flyer... but what are the criteria?"
+        "Yeah, I saw…… how are they competing?",
+        "Yeah, I saw…… how are they competing?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Let's see... The judging points are \"Peace of Mind,\" \"Safety,\" and\n\"A Survival Experience That Makes Everyone Envious,\" it says."
+      "text": "Let's see…… Points will be evaluated based on 『Safety』 『Security』 \nand 『A Survival Experience To Envy』, is what's written."
     },
     {
       "name": "Daring Heart",
-      "text": "When I hear the word survival, there's no way I can just sit on the sidelines!\nHey Trainer—Give it a try with me!"
+      "text": "When I hear the words, Survival, I can't just stand idly by! \nHey, Trainer——Give it a try with me!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, on our rest day during summer training camp,\nDaring Heart and I made our way to a nearby deserted island."
+      "text": "And so, it was now one of those days off during Summer Training \nCamp. Daring Heart and I had arrived at the Deserted Island."
     },
     {
       "name": "Daring Heart",
-      "text": "Alright, here we are!\nI'd love to just soak in this gorgeous scenery, but...",
+      "text": "And now, we're here! \nI'd like to admire this beautiful scenery but……",
       "choice_data_list": [
-        "First things first, we need to secure a base camp, right?",
-        "First things first, we need to secure a base camp, right?"
+        "We should set up a base camp first, right?",
+        "We should set up a base camp first, right?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "That's right! Survival is all about time management!\nJust like we planned last night, let's get right down to business!"
+      "text": "That's right! Survival is a competition of how you \nspend your time! Just like we planned last night, \nlet's be efficient and take things one at a time!"
     },
     {
       "name": "Daring Heart",
-      "text": "We're in luck! There's a cave that's just the right size.\nLet's set up here!"
+      "text": "We're in luck! This cave is just right, isn't it? \nFor now, let's start here!"
     },
     {
       "name": "Daring Heart",
-      "text": "We passed a stream on the way here for water, so... next is securing food.\nTrainer, could you gather some branches and vines we can use as cord?",
+      "text": "For water, there was a river on the way here so…… next \nis gathering provisions. Trainer, can you gather some \ntree branches and vines that might be useable as rope?",
       "choice_data_list": [
         "Branches and vines?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Yes! We'll make a simple trap and set it up beforehand.\nIt looks like they cleared all the necessary permissions for us, too."
+      "text": "Yes! We'll make a simple trap and set it up first. \nAnd we've already got permission for it."
     },
     {
       "name": "Daring Heart",
-      "text": "Once that's done, we'll forage for ingredients in the hills\nand do a flotsam check!"
+      "text": "And after that, we'll head to the mountain. While searching for \ningredients, we'll check for anything useful that washed ashore!"
     },
     {
       "name": "Daring Heart",
-      "text": "Hey! Heads up, dropping them down!",
+      "text": "Hey! I'm dropping it!",
       "choice_data_list": [
-        "A-All right, got it!"
+        "A-alright!"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "(Thud, thud, thud!)"
+      "text": "(Shuffle shuffle)"
     },
     {
       "name": "Daring Heart",
-      "text": "Nice catch!\nThat secures our vitamins and dessert!"
+      "text": "Nice catch! \nAnd with this, we've got a little Vitamin Dessert!"
     },
     {
       "name": "Daring Heart",
-      "text": "Hehe, this island is packed with great driftwood.\n...I'm done! There, the hammock is finished! Go ahead and try it out.",
+      "text": "Fufuu, this island is blessed with luck when it comes to things \nwashed ashore. ……I'm done! Now the hammock's done! Try getting on.",
       "choice_data_list": [
-        "A-All right... Here goes nothing!",
-        "A-All right... Here goes nothing!"
+        "O-okay…… here goes!",
+        "O-okay…… here goes!"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "Steeling my resolve, I laid down on the hammock\nDaring Heart had crafted from beach flotsam."
+      "text": "And so, steeling myself, I climbed \nin to the hammock made by Daring Heart."
     },
     {
       "name": "Daring Heart",
-      "text": "How is it? Comfortable?",
+      "text": "How is it? Comfy?",
       "choice_data_list": [
-        "It's beyond amazing..."
-      ]
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Glad to hear that!\nOnce you've caught your breath, let's go check the river traps!"
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Fish, fruit...\nWater's boiling nicely, and..."
-    },
-    {
-      "name": "Daring Heart",
-      "text": "Hehe... If I do say so myself, this is flawless!\n...Okay, I'm going to go wash my hands."
-    },
-    {
-      "name": "Narrator",
-      "text": "Watching her walk off toward the freshwater spring,\nI surveyed our impeccably arranged base camp.",
-      "choice_data_list": [
-        "(It's flawless, but... is this really enough?)"
-      ]
-    },
-    {
-      "name": "Narrator",
-      "text": "Food and shelter are both perfect.\nThere isn't a single flaw to point out."
-    },
-    {
-      "name": "Narrator",
-      "text": "However, one of the judging criteria is \"A Survival Experience That Makes Everyone Envious.\"\n...Maybe being simply \"perfect\" won't cut it—"
-    },
-    {
-      "name": "Daring Heart",
-      "text": "I'm back——Hey, what's up?\nYour brow is all furrowed, you know?",
-      "choice_data_list": [
-        "Huh?! No, it's nothing..."
+        "Too comfy……"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "...Really?",
+      "text": "Glad to hear that! \nAfter a short break, let's go check on the river traps!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fish, fruits. \nAnd the water is boiling……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufuu…… perfect if I do say so myself! \n……Okay, I'm going to go wash my hands."
+    },
+    {
+      "text": "As she headed off towards our water source, \nI looked over our perfectly organized base camp.",
       "choice_data_list": [
-        "Urgh... Well, I might just be overthinking it, but..."
+        "(It's perfect…… but will this win?)"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "I ended up sharing my thoughts with her.\nNamely, that \"we might need an extra creative touch if we want to win\"..."
+      "text": "The food and the sleeping arrangements were perfect. \nThere was nothing to complain about."
+    },
+    {
+      "text": "But, one of the criteria was 『A Survival Experience To Envy』. \n……But maybe just being 『Perfect』 wouldn't be enough——"
     },
     {
       "name": "Daring Heart",
-      "text": "............You know..."
-    },
-    {
-      "name": "Daring Heart",
-      "text": "You really are the absolute best!\nYou're fire!",
+      "text": "I'm back——Hey, what's up? \nFurrowing your brow like that.",
       "choice_data_list": [
-        "Well, I might just be overthinking things..."
+        "Eh!? No, it's nothing……"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "No, you're totally right! What they're looking for\nisn't just \"perfection,\" but a \"survival experience that makes everyone envious!\""
+      "text": "……Really?",
+      "choice_data_list": [
+        "Well, maybe I'm just overthinking……"
+      ]
+    },
+    {
+      "text": "I tell her what I was thinking earlier. \n『To win, don't we need something more?』……"
     },
     {
       "name": "Daring Heart",
-      "text": "Alright, let's do this!\nNow that that's settled, we have no time to lose. Let's go gather materials!",
+      "text": "…………You really……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You really are the best! \nYou're fire!",
+      "choice_data_list": [
+        "No, I might just be overthinking……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "No, it's just like you said. What we were aiming for \nwasn't 『Perfect』, it was 『A Survival Experience To Envy』!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Alright, let's do this! Now that we've decided, \nthere's no time. Let's go look for some materials!",
       "choice_data_list": [
         "Materials?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Yes, to decorate!\nThis entire base camp!"
+      "text": "Yeah, I'll show it off. \nThis base camp!"
     },
     {
       "name": "Daring Heart",
-      "text": "Flowers... and maybe we can put campfires inside empty cans to make lanterns!\nEither way, I want to make it gorgeous and emotional!"
+      "text": "Flowers and…… maybe using empty cans almost like candles for \nlight. Anyways, we're just going for glamorous and emotional."
     },
     {
       "name": "Daring Heart",
-      "text": "To take the win... the real challenge starts now!\nAre you ready?",
+      "text": "For this competition…… this is where things really start! \nAre you ready?",
       "choice_data_list": [
         "Yes!"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Look... sea glass!\nLet's gather a whole bunch and arrange them on the table!"
+      "text": "Look…… sea glass! \nLet's gather a bunch and set them on the table!"
     },
     {
       "name": "Daring Heart",
-      "text": "...Wait, what are you making?",
+      "text": "……Huh, what are you doing?",
       "choice_data_list": [
-        "I thought wearing this would look really nice."
+        "I thought this might look good"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Wow..."
+      "text": "Wow……"
     },
     {
       "name": "Daring Heart",
-      "text": "Nice idea! Hey, let's make another one!\nIt'll look even more fabulous if we match!"
+      "text": "Nice idea! Hey, how about making one more? \nIt would be even more lovely if we matched!"
     },
     {
       "name": "Daring Heart",
-      "text": "Yes! Stylish and comfortable.\nNo matter who looks at it, this is a base camp to be envious of!",
+      "text": "Yes! Stylish and comfy. \nNo matter how you look at it, it's a base camp to 『Envy』!",
       "choice_data_list": [
-        "It really turned into something luxurious!",
-        "It really turned into something luxurious!"
+        "It looks really luxurious now!",
+        "It looks really luxurious now!"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Heh-heh!\nNow all that's left is to take our submission photo right here... and done!"
+      "text": "Heh! \nAll that's left is to get a photo to submit…… oh!"
     },
     {
       "name": "Daring Heart",
-      "text": "Oh, right, we have to put these on!\nSame to you too!"
+      "text": "Right, I need to put this on! \nSame to you too!"
     },
     {
-      "name": "Narrator",
-      "text": "And so, the Deserted Island Survival Contest came to a successful close..."
+      "text": "And so, the 『Deserted Island \nSurvival Competition』 safely came to a close……"
     },
     {
-      "name": "Survival Judge",
-      "text": "And the glorious winner of the Deserted Island Survival Contest is...\n...the Daring Heart duo! Congratulations!"
+      "name": "Survival Competition Judge",
+      "text": "Glorious! The 『Deserted Island Survival Competition』 \nwinner is…… the Daring Heart pair! Congratulations!"
     },
     {
-      "name": "Survival Judge",
-      "text": "The grand prize is——the \"Perfect Survival Kit\"!\nBe sure to put it to good use in your training!"
-    },
-    {
-      "name": "Daring Heart",
-      "text": "\"Perfect Survival Kit\"..."
+      "name": "Survival Competition Judge",
+      "text": "And the prize is——the 『Perfect Survival Set』! \nFeel free to use it during training too!"
     },
     {
       "name": "Daring Heart",
-      "text": "Pfft, ahahaha!\n...Looks like our next rest day is going to be on a deserted island too, huh?"
+      "text": "『Perfect Survival Set』……"
     },
     {
-      "name": "Narrator",
-      "text": "After finishing dinner,\nthe two of us headed down to the shore for a proper celebration.",
+      "name": "Daring Heart",
+      "text": "Pfft, Ahahaa! \n……Looks like our next \"Date\" is another Deserted Island, huh?"
+    },
+    {
+      "text": "After dinner. \nWe came to the beach to celebrate our victory again.",
       "choice_data_list": [
-        "Phew... It's so peaceful out here.",
-        "Phew... It's so peaceful out here."
+        "Phew…… it's so quiet, isn't it?",
+        "Phew…… it's so quiet, isn't it?"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "Yeah.\n...Hehe, feeling relieved?"
+      "text": "Yeah. \n……Fufuu, feeling a little relieved?"
     },
     {
       "name": "Daring Heart",
-      "text": "...I'm sorry, you know.\nI'm always dragging you along to all these noisy, crowded places."
+      "text": "……I'm really sorry. \nFor always dragging you along to such lively places."
     },
     {
       "name": "Daring Heart",
-      "text": "Deep down, you probably prefer quiet places like this.\n...Whenever you don't feel like it, it's totally okay to just say no, alright?",
+      "text": "Really, even though you probably prefer these kinds of quiet places. \n……if you really don't want to, you can just clearly say no, you know?",
       "choice_data_list": [
-        "I don't mind at all. It lets me experience new things, after all."
+        "I don't mind at all. It's all new experiences"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "And above all, whenever I'm with Daring Heart—",
+      "text": "And above it all, when I'm with Daring Heart——",
       "choice_data_list": [
-        "I completely forget about how boring I am."
-      ]
-    },
-    {
-      "name": "Daring Heart",
-      "text": "What?\nBoring... you?"
-    },
-    {
-      "name": "Narrator",
-      "text": "I nodded, gazing out at the sea. ...Always overthinking everything, hesitant to take action.\nWhenever I'm with her, that boring part of myself—"
-    },
-    {
-      "name": "Daring Heart",
-      "text": "—You've got to be kidding!",
-      "choice_data_list": [
-        "Huh?"
+        "I stop thinking that I'm plain and boring"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "You've got to be kidding me!\nThere's hardly anyone out there as fun to be around as you!"
+      "text": "What? \nBoring…… you?"
+    },
+    {
+      "text": "I nod while looking out to sea. ……I'm always second-guessing myself, \nfailing to take action. That boring side of me, when I'm with her——"
     },
     {
       "name": "Daring Heart",
-      "text": "Your world is always bursting with mysteries and questions.\nSo many wonders that my own eyes would completely miss."
+      "text": "——You're joking, right!?",
+      "choice_data_list": [
+        "Eh?"
+      ]
     },
     {
       "name": "Daring Heart",
-      "text": "I love that world of yours.\nI love hearing you talk all about it."
+      "text": "You've got to be kidding me! \nThere aren't many people as fun as you are!"
     },
     {
       "name": "Daring Heart",
-      "text": "You get it? That curiosity and passion for discovery of yours...\nhas completely stolen my heart!"
+      "text": "Your world is always swirling with mysteries and questions. \nSo many mysteries and questions that I can't even see."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I love that kind of world. \nI love hearing about your world, directly from you."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You get it? That curiosity and desire to know, \nyou could say it's stolen my Heart!"
     },
     {
       "name": "Daring Heart",
       "text": "Do you understand?",
       "choice_data_list": [
-        "Y-Yes..."
+        "Y-yes……"
       ]
     },
     {
-      "name": "Narrator",
-      "text": "I was stunned. I never imagined Daring Heart\nfelt that way about me...",
+      "text": "I was surprised. \nThat Daring Heart would see it that way……",
       "choice_data_list": [
-        "Heart, you really are incredible.",
-        "Heart, you truly are incredible."
+        "Heart, you really are amazing",
+        "Heart, you really are amazing"
       ]
     },
     {
       "name": "Daring Heart",
-      "text": "...Hehe. Not really."
+      "text": "……Fufu. Not really."
     },
     {
       "name": "Daring Heart",
-      "text": "That's my line, don't you think... my heart?"
+      "text": "That's my line though, my heart?"
     }
-  ],
-  "no_wrap": true
+  ]
 }
