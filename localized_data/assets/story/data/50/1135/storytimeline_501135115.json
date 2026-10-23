@@ -1,365 +1,303 @@
 {
+  "title": "Seeking an Omen",
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "",
-      "text": "One day, as autumn drew near—",
-      "choice_data_list": []
+      "text": "On a certain day as the leaves grew red —"
     },
     {
-      "name": "",
-      "text": "\"...I couldn't help but feel concerned \nabout Stay Gold's behavior from the other \nday.\"",
-      "choice_data_list": []
+      "text": "……I found myself pondering at Stay \nGold's demeanor from the other day."
     },
     {
       "name": "Stay Gold",
-      "text": "...Too soon—",
-      "choice_data_list": []
+      "text": "…………She's too fast…………"
     },
     {
-      "name": "",
-      "text": "\"...Stay Gold seemed to carry an \nunprecedented sense of tension back then.\"",
-      "choice_data_list": []
+      "text": "…Up until now, I believe this is the first \ntime I've seen her look so tense."
     },
     {
-      "name": "",
-      "text": "In other words, you could say it wasn't \nlike her—",
-      "choice_data_list": []
+      "text": "In other words, it's a reaction quite \nunlike her ——"
     },
     {
       "name": "Stay Gold",
-      "text": "Boy, your brow is furrowed pretty deep \nthere.",
-      "choice_data_list": []
+      "text": "You're furrowing your brows pretty \nhard there eh."
     },
     {
       "name": "Stay Gold",
       "text": "Yo.",
       "choice_data_list": [
-        "Stego...! Is something wrong?",
-        "Stego...! Is something wrong?"
+        "Stego……! What brings you here?",
+        "Stego……! What brings you here?"
       ]
     },
     {
-      "name": "",
-      "text": "It was extremely rare for her to show up \non her own initiative. Wondering if \nsomething had happened, I asked her—"
+      "text": "For Stay Gold herself to be the one finding \nme for once is extremely rare. Something \nmust've happened, and upon asking —"
     },
     {
       "name": "Stay Gold",
-      "text": "Could you check which race Suzuka is \nrunning in next?",
+      "text": "Suzuka's next race, could you find \nout what it is?",
       "choice_data_list": [
-        "I don't mind, but... why?"
+        "Sure but… Why?"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "...There's something on my mind."
+      "text": "…I'm just a little curious, that's all."
     },
     {
-      "name": "",
-      "text": "—Upon looking into it, I quickly found \nthat Silence Suzuka had recently expressed \na strong desire to run in the Mainichi \nOkan.",
-      "choice_data_list": [],
+      "text": "Upon checking the records, Silence \nSuzuka has submitted her entry for \nher next race to be the Mainichi Okan.",
       "color_text_info_list": [
         "Mainichi Okan"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "The Mainichi Okan, huh...",
+      "text": "The Mainichi Okan huh ——",
       "choice_data_list": [
-        "……Shall we go check it out?"
+        "…Should we go watch that race?"
       ]
     },
     {
-      "name": "",
-      "text": "Since Stay Gold cares this much about it, \nthere must be something worth seeing in \nperson. I want to go see and confirm it \ntogether with her."
+      "text": "If all this has been weighing on Stay Gold's \nmind, then going to see the race in person \ncan definitely be able to reveal something. \nI want to be able to confirm it with her."
     },
     {
       "name": "Stay Gold",
-      "text": "\"...Yeah. That'd be quicker.\"",
-      "choice_data_list": []
+      "text": "…You're right. It'd be faster to \nfind out that way."
     },
     {
-      "name": "",
-      "text": "And on the day of the Mainichi Okan—",
-      "choice_data_list": []
+      "text": "It's the day of the Mainichi Okan ——"
     },
     {
-      "name": "Commentary",
-      "text": "—Coming around the far side of the great \nzelkova tree! Now then, how will it \nunfold, how will it go!?",
-      "choice_data_list": []
+      "name": "Commentator",
+      "text": "——They're making their way around the \nbig elm! So, who shall it be, who shall it \nbe!?"
     },
     {
-      "name": "Race Fan A",
-      "text": "Ah, she's getting caught! From that \nposition, it's just too—",
-      "choice_data_list": []
+      "name": "Racing Fan A",
+      "text": "<i>Ahhh</i>, they're going to catch up! \nSome great positioning happening ——"
     },
     {
       "name": "Silence Suzuka",
-      "text": "—Hngh...!!",
-      "choice_data_list": []
+      "text": "<i>————Fuuu……!!</i>"
     },
     {
-      "name": "Commentary",
-      "text": "Up the hill they go!! Silence still \nholding the lead!! Passing the 200m mark! \nIt's Silence Suzuka!! It's Silence \nSuzuka!!",
-      "choice_data_list": [],
+      "name": "Commentator",
+      "text": "They're ascending the slope! Silence is \nstill on the run! She's got 200 metres left! \nSilence Suzuka! It's going to be Silence \nSuzuka!!",
       "color_text_info_list": [
         "Silence Suzuka",
         "Silence"
       ]
     },
     {
-      "name": "Commentary",
-      "text": "Silence Suzuka crosses the finish line!!",
-      "choice_data_list": []
+      "name": "Commentator",
+      "text": "Silence Suzuka Goal Innnn!!"
     },
     {
-      "name": "Commentary",
-      "text": "\"I'll keep leading no matter how far we \ngo!! Magnificent, absolutely magnificent! \nSilence Suzuka!!\"",
-      "choice_data_list": []
+      "name": "Commentator",
+      "text": "You can't catch her no matter how \nfast you go!! Congratulations, \ncongratulations, Silence Suzuka!!"
     },
     {
-      "name": "",
-      "text": "(WOOOOOOOH!!!!)",
-      "choice_data_list": []
+      "text": "<i>(Waaaaaaaa——!!!)</i>"
     },
     {
       "name": "Silence Suzuka",
-      "text": "――...Yeah.",
-      "choice_data_list": []
+      "text": "————……Yes."
     },
     {
       "name": "Silence Suzuka",
-      "text": "I feel more confident than ever before... \nIn the next race... surely...!",
-      "choice_data_list": []
+      "text": "For the very first time, I'm almost there… \nSo in the next race… Surely…!"
     },
     {
-      "name": "Race Fan B",
-      "text": "“—Silence Suzuka was incredible...! She \nwas on a completely different level \ncompared to the Nippon Derby!”",
-      "choice_data_list": []
+      "name": "Racing Fan B",
+      "text": "Silence Suzuka was truly amazing huh…! \nIt's a completely different dimension \ncompared to the Japan Derby!"
     },
     {
       "name": "Race Fan C",
-      "text": "Her front-running was incredible, my heart \nwas racing~……! To think she was capable of \nrunning like that……!",
-      "choice_data_list": []
+      "text": "Such an amazing run, oh it was so \nexciting～…! For there to be a girl \nto run with such precise form…!"
     },
     {
       "name": "Stay Gold",
-      "text": "Suzuka, you—",
-      "choice_data_list": []
+      "text": "Suzuka, you ——"
     },
     {
       "name": "???",
-      "text": "“—Into the third corner! Setting a blazing \npace, it's Silence Suzuka!!—”",
-      "choice_data_list": []
+      "text": "\"——It's the 3rd corner! It's Silence \nSuzuka about to take off for the skies!!!——\""
     },
     {
       "name": "???",
-      "text": "\"—And they've swept past beyond the Great \nZelkova Tree!!—\"",
-      "choice_data_list": []
+      "text": "\"She's made it past the great elm!!!——\""
     },
     {
       "name": "Stay Gold",
-      "text": "...Are they planning to reach it already?",
-      "choice_data_list": []
+      "text": "…Jee, you're already there aren't you."
     },
     {
       "name": "Stay Gold",
-      "text": "――――",
+      "text": "————",
       "choice_data_list": [
-        "Stay Gold? Where are you going!?",
-        "Stay Gold? Where are you going!?"
+        "Stego? Where are you going!?",
+        "Stego? Where are you going!?"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "......Phew."
+      "text": "<i>………Phew.</i>"
     },
     {
       "name": "Stay Gold",
-      "text": "――Suzuka.",
-      "choice_data_list": []
+      "text": "————Suzuka."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Stego-senpai......? Why are you here......",
-      "choice_data_list": []
+      "text": "Stego…? What brings you here…?"
     },
     {
-      "name": "",
-      "text": "...Following after Stay Gold, I found her \nfacing Silence Suzuka, who had just \nfinished her run.",
-      "choice_data_list": []
+      "text": "…Chasing after Stay Gold, I found that she \nconfronted Silence Suzuka just as she \nwithdrew from the racetrack."
     },
     {
       "name": "Stay Gold",
-      "text": "\"...Your running today was so incredible, \nI just couldn't help calling out to you.\"",
-      "choice_data_list": []
+      "text": "…Your run was really impressive today eh, \nto the point where even I could feel myself \nwanting to cheer you on in the crowd."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Ah, thank you very much. ...That's quite \nrare, isn't it?",
-      "choice_data_list": []
+      "text": "T-Thank you very much… That's quite rare \nfor you, it seems."
     },
     {
       "name": "Stay Gold",
-      "text": "That might be true. ...By the way, is your \nnext race the Tenno Sho (Autumn)?",
-      "choice_data_list": []
+      "text": "Perhaps… By the way, is your next \nrace the Autumn Tenno Sho?"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Huh? ...Yes. That's true, but—",
-      "choice_data_list": []
+      "text": "<i>Eh?</i> …Yes. That is my current plan but ——"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Um... is something the matter...?",
-      "choice_data_list": []
+      "text": "<i>Uhm</i>… Was there anything wrong…?"
     },
     {
       "name": "Stay Gold",
-      "text": "...No. Just got a little curious, is all.",
-      "choice_data_list": []
+      "text": "…Nah. I was just a little curious, that's all."
     },
     {
       "name": "Stay Gold",
-      "text": "\"I'm looking forward to the Tenno Sho \n(Autumn). ...Do your best.\"",
-      "choice_data_list": []
+      "text": "I'm feeling pumped for the Autumn \nTenno Sho… Give it your all, alright."
     },
     {
       "name": "Stay Gold",
-      "text": "Let's go, Trainer. I've heard everything I \nneeded to hear.",
+      "text": "Let's go, Trainer. All my questions \nwere answered.",
       "choice_data_list": [
-        "O-Okay, got it"
+        "U-Understood"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "…………――",
+      "text": "…………",
       "choice_data_list": [
-        "...Did something happen?",
-        "...Something happen?"
+        "…Did something happen?",
+        "…Did something happen?"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "How did Suzuka's running look from your \nperspective today?",
+      "text": "Suzuka's run today, how would \nyou describe it?",
       "choice_data_list": [
-        "...It was incredible."
+        "……I was awestruck"
       ]
     },
     {
-      "name": "",
-      "text": "\"An overwhelming run, beyond belief for a \nClassic Class Umamusume. To be honest, \nseeing such terrifying growth speed was \ntruly intimidating.\""
+      "text": "Her run today brought about an absolutely \noverwhelming aura. I never expected that a \nhorsegirl in the Classics could ever grow to \nthis stage so tremendously quickly."
     },
     {
       "name": "Stay Gold",
-      "text": "...Yeah, it really is too soon.",
-      "choice_data_list": []
+      "text": "…Yeah, she's too fast."
     },
     {
       "name": "Stay Gold",
-      "text": "For some reason, she's already on the \nverge of reaching the aurora.",
+      "text": "With that said, her strength has delivered \nher straight up to the twinkling aurora \nin the sky.",
       "choice_data_list": [
-        "...An aurora?"
-      ]
-    },
-    {
-      "name": "Stay Gold",
-      "text": "The most dazzling, powerful moment of a \n\"shining one.\" A figure burned into \n\"memory,\" never to fade—"
-    },
-    {
-      "name": "Stay Gold",
-      "text": "...Well, just think of it as my prime, in \na way.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Stay Gold",
-      "text": "Her reaching that point shouldn't have \nhappened, at least not during the Classic \nperiod. ...At least, not in my \"memories.\"",
-      "choice_data_list": [
-        "And yet, you're already on the verge of \nreaching it now..."
+        "…Aurora?"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. ...If she becomes an aurora now, \njust like in those \"memories\"... then—"
+      "text": "For \"The Ones Who Shine\", it's the twinkles \nthey leave behind that are etched into my \n\"memories\", that moment where they \nbecome their most dazzling selves ——"
     },
     {
       "name": "Stay Gold",
-      "text": "――――",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "...It was a truly brief silence, lasting \nnot even a few seconds in actual time.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "To me, however, that silence felt \ndreadfully long, and it seemed as if \nsomething small was swirling within her—",
-      "choice_data_list": []
+      "text": "……Well, think of it as the moment \na seed bursts into flower."
     },
     {
       "name": "Stay Gold",
-      "text": "...Trainer. I have a request.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Stay Gold",
-      "text": "—Please, let me run in the Tenno Sho \n(Autumn).",
+      "text": "At the very least, her moment is not \nsupposed to happen yet, not in the \nClassics… According to my \"memories\" \nthat is.",
       "choice_data_list": [
-        "!! ...In that case, the Kikuka Sho will \nbe—"
+        "But for her to have reached it already…"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Yeah. I won't run."
+      "text": "Yeah… At this rate, if she reaches the \naurora at the same pace as she does \nin my \"memories\"………"
     },
     {
       "name": "Stay Gold",
-      "text": "...I need to compete against Suzuka in her \nnext race and find out for myself.",
-      "choice_data_list": []
+      "text": "————"
+    },
+    {
+      "text": "…… Within less than a fraction of a \nsecond, I felt a stillness that could \nstop time seep through the air."
+    },
+    {
+      "text": "Which is precisely why it was such a dreadful \nlingering moment. The petite figure in front \nof me remained reticent, yet it was clear that \nthere were intense emotions swirling within —"
     },
     {
       "name": "Stay Gold",
-      "text": "What is happening right now on this \njourney to destroy all of the past?",
-      "choice_data_list": []
+      "text": "……Trainer. I have a favor to ask of you."
     },
     {
-      "name": "",
-      "text": "Stay Gold's eyes are already set. \nSteadfastly focused on where she needs to \ngo next. In that case—",
+      "name": "Stay Gold",
+      "text": "Let me run in the Autumn Tenno Sho.",
       "choice_data_list": [
-        "Got it. Leave the readjustments to me.",
-        "Got it. Leave the readjustments to me."
-      ]
-    },
-    {
-      "name": "",
-      "text": "\"...We must immediately switch everything \nwe prepared for the 'Kikuka Sho' over to \nthe 'Tenno Sho (Autumn)'. On top of that, \nwe need a countermeasure against Silence \nSuzuka.\""
-    },
-    {
-      "name": "",
-      "text": "To an outsider, it must seem like a \nreckless change of plans. Yet, precisely \nbecause it's such an unpredictable \njourney, I can't help but think—",
-      "choice_data_list": [
-        "...Now this is getting interesting"
+        "!!…… Then the Kikuka Sho ——"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "Haha—"
+      "text": "Yeah. I won't run in that."
     },
     {
       "name": "Stay Gold",
-      "text": "That's the spirit.",
-      "choice_data_list": []
+      "text": "……In Suzuka's next race, by competing \nagainst her, there is something I must \nconfirm."
     },
     {
-      "name": "",
-      "text": "\"...And so, turning away from the intended \npath of the Kikuka Sho, the journey toward \nthe Tenno Sho (Autumn) begins.\"",
-      "choice_data_list": []
+      "name": "Stay Gold",
+      "text": "That, from the beginning of our journey to \ndestroy my past until now, something \nwould potentially happen."
     },
     {
-      "name": "",
-      "text": "What lies in wait ahead—a storm of \nswirling black clouds barring the way? Or \nan aurora piercing the darkness to \nilluminate the path—",
-      "choice_data_list": []
+      "text": "Stay Gold's pupils are directed somewhere \nfurther. They're looking straight towards \nwhere our next destination should be with \nan unwavering resolve. Well then ——",
+      "choice_data_list": [
+        "I got it, leave it to me",
+        "I got it, leave it to me"
+      ]
+    },
+    {
+      "text": "…All the work towards the Kikuka Sho will \nall be redirected towards the Autumn Tenno \nSho. Furthermore, we need to prepare for \nthe showdown with Silence Suzuka."
+    },
+    {
+      "text": "From an outsider's point of view, this \nchange of plans seems completely absurd. \nHowever, this was always an unpredictable \njourney, which is why ——",
+      "choice_data_list": [
+        "……It's gotten interesting eh"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Haha ——</i>"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Just as expected."
+    },
+    {
+      "text": "……Just like that, our key route towards \nthe Kikuka Sho has now been rerouted to \nthe Autumn Tenno Sho."
+    },
+    {
+      "text": "Shall we be witnessing the jet black storm \nclouds blocking our route? Or will it be the \naurora, shredding through the darkness \nwhich blocks our path?"
     }
   ]
 }
