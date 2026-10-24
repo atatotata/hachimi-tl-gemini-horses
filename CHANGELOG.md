@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-23 -- Restore Global skill names on Flagship
+- Restored 932 `cat47` skill names from before the UmaTL sync. Flagship is back to 1,110 exact Global names (all 1,122 once the 12 `$(scale)` prefixes are ignored) and 19 scale tags.
+- `sync_umatl.py` no longer lets UmaTL overwrite Global-backed text on `main`, `full`, and `full-slim`; `cat48` stays SD math.
+- `community` and `lore` keep their UmaTL skill names, and `sync_global.py` now skips `cat47` there.
+
 ## 2026-10-23 -- Fit the last Global titles and 45 voice lines
 - Added the last 30 story titles and 1 song title from Global. Seven use `$(scale NN)` so they stay within the same width as before.
 - Shrank 45 Global voice lines to 85–95% so they fit in 3 lines instead of 4–5.
