@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.j
 - **Skill descriptions** (`cat48`): SD math > Global > UmaTL > Gemini.
 - **Skill names** (`cat47`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL names.
 - **Trait names** (`cat147`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL names.
+- **Condition names and text** (`cat142` / `cat143`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL.
 - **Everything else**: Global > UmaTL > Gemini.
 
 ## Quick Tips
