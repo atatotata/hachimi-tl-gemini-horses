@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-10-23 -- Adopt official Global trait names
-- Overlaid 1,044 `cat147` trait names from Global. All 1,345 Global-backed traits now use the official wording; 1,211 JP-only traits keep their existing translations.
-- Flagship only. `community` and `lore` keep their UmaTL trait names.
+## 2026-10-23 -- Global trait names
+- Brought 1,044 trait names in line with Global. All 1,345 traits Global covers now match; the 1,211 JP-only ones keep their current translations.
+- Flagship only. Community and Lore stay on UmaTL.
 
 ## 2026-10-23 -- Restore Global skill names on Flagship
 - Restored 932 `cat47` skill names from before the UmaTL sync. Flagship is back to 1,110 exact Global names (all 1,122 once the 12 `$(scale)` prefixes are ignored) and 19 scale tags.
