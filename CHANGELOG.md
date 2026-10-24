@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-24 -- Global condition names and text
+- Adopted 25 condition names and 27 descriptions from Global. All 27 conditions Global covers now match; the 22 JP-only ones keep their current text.
+- Flagship only. Community and Lore stay on UmaTL.
+
 ## 2026-10-23 -- Global trait names
 - Brought 1,044 trait names in line with Global. All 1,345 traits Global covers now match; the 1,211 JP-only ones keep their current translations.
 - Flagship only. Community and Lore stay on UmaTL.
