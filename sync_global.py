@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
 sync_global.py — overlay Global official master.mdb EN over hachimi-tl-gemini-horses
-Priority enforced:  SD (cat 48) > Global > UmaTL > Gemini
-For all other categories: Global > UmaTL > Gemini (Gemini/UmaTL already baked into repo).
+Priority on Flagship:  SD (cat 48) > Global > UmaTL > Gemini
+cat47 skill names:     Flagship uses Global > UmaTL > Gemini.
+                       community/lore keep their UmaTL names.
+All other categories:  Global > UmaTL > Gemini (UmaTL/Gemini already baked into repo).
 
 Global master is plain SQLite (no key) — bundles via meta are UNBLOCKED via
 Global sqlite3mc chacha20 33B key (Frida hook, see tools/umamusu-utils/scripts/decrypt_global_meta.py),
@@ -14,7 +16,7 @@ Usage:
   python sync_global.py --dry-run    # report only
   python sync_global.py --global-master "D:\\Global\\master.mdb"
 """
-import argparse, json, os, re, sqlite3, shutil
+import argparse, json, os, re, sqlite3, shutil, subprocess
 from pathlib import Path
 
 GEMINI_DIR = Path(__file__).parent / "localized_data"
@@ -31,6 +33,18 @@ PINNED_CST = {
     (9001, 250001): "Here, you can exchange excess\nStar Pieces for Clovers, then\ntrade them for various items.",
 }
 PIN_KEYS = {(str(c), str(v)) for (c, v) in PINNED_CST}
+
+UMATL_NAME_BRANCHES = {"community", "lore"}
+
+def current_branch() -> str:
+    try:
+        return subprocess.check_output(
+            ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+            cwd=Path(__file__).resolve().parent,
+            text=True,
+        ).strip()
+    except Exception:
+        return ""
 
 def load_global_tables(global_master: Path):
     db = sqlite3.connect(str(global_master))
@@ -62,8 +76,12 @@ def main():
         raise SystemExit(2)
 
     g_text, g_cst, g_rjm, g_rjc = load_global_tables(args.global_master)
+    branch = current_branch()
+    keep_umatl_names = branch in UMATL_NAME_BRANCHES
     print(f"Global master: text_data {len(g_text)} | cst {len(g_cst)} | rjm {len(g_rjm)} | rjc {len(g_rjc)}", flush=True)
     print("Priority: SD(cat48) > Global > UmaTL > Gemini  (cat48 SD bypass keeps 2127 SD numeric)", flush=True)
+    if keep_umatl_names:
+        print(f"cat47: keeping UmaTL skill names on branch '{branch}'", flush=True)
     if not args.dry_run:
         print("Meta bundles (story/home/lyrics) UNBLOCKED - Global meta via libnative chacha20 33B key, see tools/umamusu-utils/scripts/decrypt_global_meta.py", flush=True)
 
@@ -80,6 +98,7 @@ def main():
             d = json.loads(p.read_text(encoding="utf-8"))
             replaced = 0
             skipped_sd = 0
+            skipped_names = 0
             jp_preserved = 0
             g_only = 0
             for (cat, idx), en in g_text.items():
@@ -87,6 +106,10 @@ def main():
                 # SD bypass: never overwrite cat48 with Global prose
                 if cat == 48:
                     skipped_sd += 1
+                    continue
+                # Community/Lore deliberately keep their UmaTL skill names.
+                if keep_umatl_names and cat == 47:
+                    skipped_names += 1
                     continue
                 if not en:
                     continue  # Global empty = not localized; never blank local text
@@ -103,7 +126,7 @@ def main():
                     g_only += 1
             # JP-only preservation: count master keys Global lacks (already in repo, keep them)
             # Not adding g_only keeps 43k JP-only intact
-            print(f"[{label}] text_data: {replaced} Global>MT overwrites | {skipped_sd} cat48 SD-preserved | {g_only} Global-only skipped (JP-only kept)", flush=True)
+            print(f"[{label}] text_data: {replaced} Global>MT overwrites | {skipped_sd} cat48 SD-preserved | {skipped_names} cat47 UmaTL names kept | {g_only} Global-only skipped (JP-only kept)", flush=True)
             if not args.dry_run:
                 # backup once
                 bak = p.with_suffix(p.suffix + ".bak_global")
