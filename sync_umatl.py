@@ -324,7 +324,8 @@ def merge_text_data_dict(local_data: dict, upstream_data: dict,
     global_text = global_text or {}
     for cat, entries in upstream_data.items():
         cat_str = str(cat)
-        if protect_global and cat_str == "48":
+        # SD cat48 owns the skill math; UmaTL must never replace it.
+        if cat_str == "48":
             continue
         if cat_str not in local_data:
             local_data[cat_str] = {}
