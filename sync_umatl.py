@@ -5,10 +5,17 @@ sync_umatl.py
 Gracefully synchronizes and overlays curated human translations from upstream
 UmaTL (hachimi-tl-en-sd) on top of the hachimi-tl-gemini-horses base repository.
 
-Precedence hierarchy:
-  1. Upstream UmaTL human translations (curated, highest priority - overwrites MT)
-  2. Local Gemini 3.7 Flash Voice-Aware MT (covers 33K+ master strings & 1,167 support stories)
-  3. Original Japanese text
+Translation priority:
+  Flagship (main, full, full-slim):
+    cat48 skill descriptions: SD math > Global > UmaTL > Gemini
+    cat47 skill names:        Global > UmaTL > Gemini
+    all other text:           Global > UmaTL > Gemini
+  Community / Lore:
+    cat47 skill names:        UmaTL > Gemini > Japanese
+
+  This sync still applies UmaTL to files Global does not cover, but on Flagship
+  it never overwrites an existing text_data value when Global has that key.
+  cat48 is always left alone so the SD skill numbers stay intact.
 
 Workflow:
   - Fetches upstream UmaTL index.json (list of {path, hash, size})
@@ -20,10 +27,13 @@ Workflow:
 """
 
 import os
+import re
 import sys
 import json
 import pathlib
+import sqlite3
 import argparse
+import subprocess
 import urllib.request
 import urllib.error
 
@@ -38,6 +48,11 @@ except ImportError:
 
 DEFAULT_UPSTREAM_INDEX = "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json"
 CACHE_FILE = ".upstream_cache.json"
+GLOBAL_MASTER = pathlib.Path(
+    r"G:\Games\steamapps\common\UmamusumePrettyDerby\UmamusumePrettyDerby_Data\Persistent\master\master.mdb"
+)
+GLOBAL_FIRST_BRANCHES = {"main", "full", "full-slim"}
+JP_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 
 DICT_FILES = {
     "text_data_dict.json",
@@ -253,24 +268,86 @@ def fetch_url(url: str, timeout: int = 45) -> bytes:
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
-def merge_text_data_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
-    """Overwrites local text_data_dict with upstream curated entries."""
+def _current_branch() -> str:
+    try:
+        return subprocess.check_output(
+            ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+            cwd=pathlib.Path(__file__).resolve().parent,
+            text=True,
+        ).strip()
+    except Exception:
+        return ""
+
+
+def load_global_text() -> dict:
+    """Return Global master text_data as {cat: {index: text}}, excluding cat48."""
+    if not GLOBAL_MASTER.exists():
+        return {}
+    try:
+        conn = sqlite3.connect(str(GLOBAL_MASTER))
+        rows = conn.execute("SELECT category, [index], text FROM text_data").fetchall()
+        conn.close()
+    except sqlite3.Error as exc:
+        print(f"  WARNING: cannot read Global master: {exc}", file=sys.stderr)
+        return {}
+    out = {}
+    for cat, idx, text in rows:
+        if int(cat) == 48 or not text or not str(text).strip():
+            continue
+        out.setdefault(str(cat), {})[str(idx)] = text
+    return out
+
+
+def _strip_scale(text: str) -> str:
+    return re.sub(r"^\$\(scale \d+\)\s*", "", str(text))
+
+
+def _cat47_matches(local_data: dict, global_text: dict) -> tuple[int, int, int]:
+    local = local_data.get("47", {})
+    glob = global_text.get("47", {})
+    exact = sum(1 for k, v in glob.items() if local.get(k) == v)
+    norm = sum(1 for k, v in glob.items() if _strip_scale(local.get(k, "")) == v)
+    return exact, norm, len(glob)
+
+
+def merge_text_data_dict(local_data: dict, upstream_data: dict,
+                         protect_global: bool = False,
+                         global_text: dict | None = None) -> tuple[int, int]:
+    """Merge upstream text_data, optionally protecting Global-backed keys.
+
+    On Flagship branches, an existing value is never replaced by UmaTL when
+    Global has that key. Empty/Japanese local values are filled from Global.
+    cat48 is skipped entirely so SD skill descriptions keep their numbers.
+    """
     updated = 0
     added = 0
+    global_text = global_text or {}
     for cat, entries in upstream_data.items():
         cat_str = str(cat)
+        if protect_global and cat_str == "48":
+            continue
         if cat_str not in local_data:
             local_data[cat_str] = {}
         for idx, text in entries.items():
             idx_str = str(idx)
-            if text and str(text).strip():
+            if not text or not str(text).strip():
+                continue
+            g_text = global_text.get(cat_str, {}).get(idx_str)
+            if protect_global and g_text and str(g_text).strip():
                 if idx_str in local_data[cat_str]:
-                    if local_data[cat_str][idx_str] != text:
-                        local_data[cat_str][idx_str] = text
+                    current = local_data[cat_str][idx_str]
+                    if not str(current).strip() or JP_RE.search(str(current)):
+                        local_data[cat_str][idx_str] = g_text
                         updated += 1
-                else:
+                # Never add or overwrite upstream rows for Global-backed keys.
+                continue
+            if idx_str in local_data[cat_str]:
+                if local_data[cat_str][idx_str] != text:
                     local_data[cat_str][idx_str] = text
-                    added += 1
+                    updated += 1
+            else:
+                local_data[cat_str][idx_str] = text
+                added += 1
     return updated, added
 
 def merge_cst_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
@@ -428,6 +505,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Report potential changes without writing to disk")
     parser.add_argument("--regen-index", action="store_true",
                         help="Rebuild index.json from disk only (no network) and exit")
+    parser.add_argument("--no-global-guard", action="store_true",
+                        help="Disable the Global-first guard (Flagship branches only)")
     args = parser.parse_args()
 
     repo_root = pathlib.Path(__file__).parent.resolve()
@@ -439,6 +518,15 @@ def main():
         n = update_index_manifest(dest_tl, index_file)
         print(f"Updated index.json: {n} files indexed (BLAKE3 format).")
         return
+
+    branch = _current_branch()
+    protect_global = branch in GLOBAL_FIRST_BRANCHES and not args.no_global_guard
+    global_text = load_global_text() if protect_global else {}
+    if protect_global:
+        print(f"Global-first guard: ON (branch {branch}, "
+              f"{len(global_text.get('47', {}))} cat47 names)", flush=True)
+        if not global_text:
+            print("  WARNING: Global master not found; guard has no data", file=sys.stderr)
 
     print("=" * 60)
     print("UmaTL Upstream Synchronization & Overlay")
@@ -528,7 +616,11 @@ def main():
                         local_json = json.load(f)
 
                 if rel_path == "text_data_dict.json":
-                    upd, add = merge_text_data_dict(local_json, up_json)
+                    upd, add = merge_text_data_dict(
+                        local_json, up_json,
+                        protect_global=protect_global,
+                        global_text=global_text,
+                    )
                 elif rel_path == "character_system_text_dict.json":
                     upd, add = merge_cst_dict(local_json, up_json)
                 else:
@@ -542,6 +634,12 @@ def main():
                     json.dump(local_json, f, ensure_ascii=False, indent=2)
 
                 print(f"  [{i}/{len(changed_files)}] Merged {rel_path}: {upd} updated, {add} added")
+                if rel_path == "text_data_dict.json" and protect_global:
+                    exact, norm, total = _cat47_matches(local_json, global_text)
+                    print(f"  Global cat47: {exact}/{total} exact, {norm}/{total} normalized")
+                    if total and norm < 1100:
+                        print("  WARNING: cat47 Global coverage dropped below 1,100; "
+                              "check the guard and the repo snapshot.", file=sys.stderr)
                 cache[rel_path] = up_hash
             except Exception as e:
                 print(f"  [{i}/{len(changed_files)}] Error merging dict {rel_path}: {e}")
