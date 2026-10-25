@@ -29,8 +29,8 @@ CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 # so the official one-line Global text is clipped; keep manual breaks instead.
 # Applied after the overlay so every Global sync preserves them.
 PINNED_CST = {
-    (9001, 250000): "Here, you can exchange excess\nSupport Cards for Cleats, then\ntrade them for various items.",
-    (9001, 250001): "Here, you can exchange excess\nStar Pieces for Clovers, then\ntrade them for various items.",
+    (9001, 250000): "Here, you can exchange excess Support\nCards for Cleats. Those Cleats can then be\nexchanged for various items.",
+    (9001, 250001): "Here, you can exchange excess Star Pieces\nfor Clovers. Those Clovers can then be\nexchanged for various items.",
 }
 PIN_KEYS = {(str(c), str(v)) for (c, v) in PINNED_CST}
 
