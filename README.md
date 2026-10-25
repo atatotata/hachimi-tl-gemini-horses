@@ -46,9 +46,10 @@ Write the repo and live Hachimi mirror:
 
 ```
 python tools/adopt_global_restore.py --apply
+python tools/adopt_global_cst.py --apply
 ```
 
-The script refuses to run outside `main`, `full`, and `full-slim`.
+Both scripts refuse to run outside `main`, `full`, and `full-slim`.
 
 ## Quick Tips
 
