@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-25 -- Restore Global text and voice lines
+- Restored 23,949 text rows that already matched Global before the UmaTL sync, and added 458 JP-backed rows that were missing.
+- Adopted 39 Global voice lines; the two Horseshoe Exchange lines keep the unified Cleats/Clovers wording.
+- Race commentary already matched Global, so it needed no changes.
+- Flagship only. Community and Lore stay on UmaTL.
+
 ## 2026-10-24 -- Global condition names and text
 - Adopted 25 condition names and 27 descriptions from Global. All 27 conditions Global covers now match; the 22 JP-only ones keep their current text.
 - Flagship only. Community and Lore stay on UmaTL.

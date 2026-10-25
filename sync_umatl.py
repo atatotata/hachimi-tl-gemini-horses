@@ -9,13 +9,13 @@ Translation priority:
   Flagship (main, full, full-slim):
     cat48 skill descriptions: SD math > Global > UmaTL > Gemini
     cat47 skill names:        Global > UmaTL > Gemini
-    all other text:           Global > UmaTL > Gemini
+    all other text/voice:     Global > UmaTL > Gemini
   Community / Lore:
     cat47 skill names:        UmaTL > Gemini > Japanese
 
   This sync still applies UmaTL to files Global does not cover, but on Flagship
-  it never overwrites an existing text_data value when Global has that key.
-  cat48 is always left alone so the SD skill numbers stay intact.
+  it never overwrites an existing text_data value or voice line when Global
+  has that key. cat48 is always left alone so the SD skill numbers stay intact.
 
 Workflow:
   - Fetches upstream UmaTL index.json (list of {path, hash, size})
@@ -298,6 +298,23 @@ def load_global_text() -> dict:
     return out
 
 
+def load_global_cst_keys() -> set[tuple[str, str]]:
+    """Keys covered by a non-empty Global voice line."""
+    if not GLOBAL_MASTER.exists():
+        return set()
+    try:
+        conn = sqlite3.connect(str(GLOBAL_MASTER))
+        rows = conn.execute(
+            "SELECT character_id, voice_id FROM character_system_text "
+            "WHERE text IS NOT NULL AND trim(text) <> ''"
+        ).fetchall()
+        conn.close()
+    except sqlite3.Error as exc:
+        print(f"  WARNING: cannot read Global cst keys: {exc}", file=sys.stderr)
+        return set()
+    return {(str(c), str(v)) for c, v in rows}
+
+
 def _strip_scale(text: str) -> str:
     return re.sub(r"^\$\(scale \d+\)\s*", "", str(text))
 
@@ -351,24 +368,35 @@ def merge_text_data_dict(local_data: dict, upstream_data: dict,
                 added += 1
     return updated, added
 
-def merge_cst_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
-    """Overwrites local character_system_text_dict with upstream curated entries."""
+def merge_cst_dict(local_data: dict, upstream_data: dict,
+                   protect_global: bool = False,
+                   global_keys: set[tuple[str, str]] | None = None) -> tuple[int, int]:
+    """Merge upstream voice lines, optionally protecting Global-backed keys.
+
+    On Flagship, the repo already carries Global wording with our own line
+    wrapping. UmaTL must not replace those rows, so any key with a non-empty
+    Global voice line is skipped.
+    """
     updated = 0
     added = 0
+    global_keys = global_keys or set()
     for char_id, voice_entries in upstream_data.items():
         char_str = str(char_id)
         if char_str not in local_data:
             local_data[char_str] = {}
         for voice_id, text in voice_entries.items():
             v_str = str(voice_id)
-            if text and str(text).strip():
-                if v_str in local_data[char_str]:
-                    if local_data[char_str][v_str] != text:
-                        local_data[char_str][v_str] = text
-                        updated += 1
-                else:
+            if not text or not str(text).strip():
+                continue
+            if protect_global and (char_str, v_str) in global_keys:
+                continue
+            if v_str in local_data[char_str]:
+                if local_data[char_str][v_str] != text:
                     local_data[char_str][v_str] = text
-                    added += 1
+                    updated += 1
+            else:
+                local_data[char_str][v_str] = text
+                added += 1
     return updated, added
 
 def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
@@ -523,9 +551,11 @@ def main():
     branch = _current_branch()
     protect_global = branch in GLOBAL_FIRST_BRANCHES and not args.no_global_guard
     global_text = load_global_text() if protect_global else {}
+    global_cst = load_global_cst_keys() if protect_global else set()
     if protect_global:
         print(f"Global-first guard: ON (branch {branch}, "
-              f"{len(global_text.get('47', {}))} cat47 names)", flush=True)
+              f"{len(global_text.get('47', {}))} cat47 names, "
+              f"{len(global_cst):,} cst keys)", flush=True)
         if not global_text:
             print("  WARNING: Global master not found; guard has no data", file=sys.stderr)
 
@@ -623,7 +653,11 @@ def main():
                         global_text=global_text,
                     )
                 elif rel_path == "character_system_text_dict.json":
-                    upd, add = merge_cst_dict(local_json, up_json)
+                    upd, add = merge_cst_dict(
+                        local_json, up_json,
+                        protect_global=protect_global,
+                        global_keys=global_cst,
+                    )
                 else:
                     upd, add = merge_flat_dict(local_json, up_json)
 
