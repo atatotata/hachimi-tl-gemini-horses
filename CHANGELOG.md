@@ -6,6 +6,7 @@
 - New terms use Goshiki Shuntaisai, Shuntaisai, and Azuma.
 - Full audit found no untranslated story text. One leftover Japanese dash mark was replaced.
 - Reflowed the five scenario program descriptions and set $(scale 85) so they fit the Details panel.
+- Refit the 11 new scenario tutorial pages so their text fits the popup.
 - All flavors get the new JP content. Flagship keeps Global wording for existing text.
 
 ## 2026-10-25 -- Global text and voice cleanup
