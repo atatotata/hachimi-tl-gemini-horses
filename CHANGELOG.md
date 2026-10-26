@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Teaching Set labels
+- Shortened the Teaching labels and scaled two long program names so the columns and chips fit.
+
 ## 2026-10-26 -- Transmutation screen fit
 - Added the missing Transmutation Effect List title.
 - Scaled the Teaching names and long effect text so the cards no longer overlap or clip.
