@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-26 -- Program Completion fit
+- Shortened the target labels so they stop overlapping.
+- Scaled the Effect details button to fit.
+
 ## 2026-10-26 -- URA Finale tutorial fit
 - Scaled and reflowed the URA Finale intro tutorial so it fits its box.
 
