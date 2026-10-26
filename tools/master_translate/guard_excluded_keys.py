@@ -35,6 +35,7 @@ for label, path in [("repo", LOCALIZE_PATH), ("mirror", MIRROR_PATH)]:
             del loc[k]
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(loc, f, ensure_ascii=False, indent=2)
+            f.write("\n")
         print(f"  {label}: removed {len(present)} excluded keys -> {len(loc)} remaining")
     else:
         print(f"  {label}: {len(present)} EXCLUDED KEYS PRESENT (dry run, use --fix to remove)")
