@@ -201,6 +201,12 @@ def main() -> int:
                 elif isinstance(ctext, str) and ctext.strip() and JP_RE.search(ctext):
                     missing.append(xkey)
 
+            if block.get("color_text_info_list"):
+                block["color_text_info_list"] = [
+                    c.get("Text") if isinstance(c, dict) else c
+                    for c in block["color_text_info_list"]
+                ]
+
         rel = src.relative_to(args.source)
         dests = [REPO / "localized_data" / "assets" / "story" / "data" / rel]
         if args.live:
