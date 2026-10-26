@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Skill hint tutorial fit
+- Scaled and reflowed the skill-hint tutorial so it fits its box.
+
 ## 2026-10-26 -- More scenario UI strings
 - Added 14 scenario strings from the latest log, including Program Completion and Target Lv. labels.
 
