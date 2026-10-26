@@ -4,7 +4,7 @@
 - Reflowed the tutorial pages so their text stays inside the popup box.
 
 ## 2026-10-26 -- UI scaling tweaks
-- Scaled the skill-hint tip so it fits its box.
+- Re-broke and scaled the skill-hint tip so it fits its box.
 
 ## 2026-10-26 -- Teaching Impartation scaling
 - Scaled the program names across the cards and level lists.
