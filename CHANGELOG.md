@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-25 -- New JP scenario and support stories
+- Translated 794 new text strings and 53 voice lines from the October JP update.
+- Added 81 missing story timelines for the Goshiki Shuntaisai scenario and support cards, including choices and color names.
+- New terms use Goshiki Shuntaisai, Shuntaisai, and Azuma.
+- All flavors get the new JP content. Flagship keeps Global wording for existing text.
+
 ## 2026-10-25 -- Global text and voice cleanup
 - Put back 23,949 text entries that already matched Global before the UmaTL sync replaced them. Added 458 missing entries that both JP and Global have.
 - Matched 39 voice lines to Global, wrapped to three lines or fewer. The Horseshoe Exchange keeps its Cleats wording.

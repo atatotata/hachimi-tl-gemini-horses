@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While carrying out \nProgram Rehearsal for the Goshiki \nShuntaisai..."
+    },
+    {
+      "name": "Azuma",
+      "text": "What a wondrous performance. \nFufu... shall you conduct this rehearsal \nonce more?"
+    },
+    {
+      "name": "Narrator",
+      "text": "Asked by her, I pause to think. \nConsidering the time and <chrname>'s condition, \nwe could probably manage one more extra \nsession, but...",
+      "choice_data_list": [
+        "Yes, I think I'll suggest an extra \nrehearsal.",
+        "...No, let's call it a day here."
+      ]
+    },
+    {
+      "name": "Azuma",
+      "text": "Hehe... \nThen may I also gaze upon \nLady <chrname>'s devoted efforts?"
+    },
+    {
+      "name": "Narrator",
+      "text": "After getting confirmation from <chrname>, \nI joined Azuma-san in cheering on \nher spirited efforts."
+    },
+    {
+      "name": "Azuma",
+      "text": "Yes, that too is a wise choice. \nLady <chrname>'s well-being \nmust ever remain the foremost priority."
+    }
+  ],
+  "title": "Extra Rehearsal"
+}

@@ -1,0 +1,533 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Thank you for your hard work. Right now, \nI'm offering \na detailed overview of the Goshiki \nShuntaisai \nfor anyone who'd like one, but――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<username>, \nwould you like an explanation?",
+      "choice_data_list": [
+        "Hear the explanation",
+        "Skip the explanation"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "All right, what would you like me to \nexplain?"
+    },
+    {
+      "name": "Narrator",
+      "text": "If there's anything you'd like to know \nabout \ntraining during preparations for the \nGoshiki Shuntaisai――",
+      "choice_data_list": [
+        "About the Goshiki Shuntaisai",
+        "About Program Rehearsal",
+        "About Bestowing Teachings",
+        "About Transmuting Teachings",
+        "I'm good for now"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "About the Goshiki Shuntaisai, then.",
+      "color_text_info_list": [
+        {
+          "Text": "Goshiki Shuntaisai",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "The Goshiki Shuntaisai is a special \nShuntaisai \nheld once every twelve years, in the Year \nof the Horse."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "To make this Goshiki Shuntaisai a success, \neveryone will rehearse 5 different \nPrograms \nalongside their daily training.",
+      "color_text_info_list": [
+        {
+          "Text": "Rehearsing 5 Programs",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Furthermore, in addition to the main event \nheld in late October of Senior Year――",
+      "color_text_info_list": [
+        {
+          "Text": "Late October of Senior Year",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Progress Presentations will be held \nin late December of both Junior and \nClassic Years.",
+      "color_text_info_list": [
+        {
+          "Text": "Late December of Junior and Classic Years",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "To make these a success, the key factors \nare \neach Program's Program Lv and Program \nCompletion!",
+      "color_text_info_list": [
+        {
+          "Text": "Program Lv",
+          "FontColor": 13
+        },
+        {
+          "Text": "Program Completion",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "During the Goshiki Shuntaisai rehearsal \nperiod, \nconducting Program Rehearsals will raise \neach Program's Program Lv.",
+      "color_text_info_list": [
+        {
+          "Text": "Program Rehearsal",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Program Completion rises when you raise \nProgram Lvs \nand reach the target levels set for each \nProgress Presentation and the Goshiki \nShuntaisai.",
+      "color_text_info_list": [
+        {
+          "Text": "For each Presentation and the Shuntaisai,",
+          "FontColor": 13
+        },
+        {
+          "Text": "reaches the target level and increases.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Carry out plenty of Program Rehearsals, \nraise those Program Lvs, \nand ensure both the Presentations and the \nGoshiki Shuntaisai are huge hits!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, this time, you will be advancing \npreparations \nfor the Goshiki Shuntaisai while \nsimultaneously \nparticipating in the Twinkle Series.",
+      "color_text_info_list": [
+        {
+          "Text": "While participating in the Twinkle Series",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please keep in mind that depending on your \ntraining progress, \ntraining may end early even during the \nrehearsal period \nfor the Goshiki Shuntaisai, so do be \ncareful.",
+      "color_text_info_list": [
+        {
+          "Text": "Depending on training conditions,",
+          "FontColor": 15
+        },
+        {
+          "Text": "even during the Shuntaisai rehearsal period,",
+          "FontColor": 15
+        },
+        {
+          "Text": "Training Concluded",
+          "FontColor": 14
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the overview of the Goshiki \nShuntaisai. \nIs there anything else you would like to \nask?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "About Program Rehearsal, then.",
+      "color_text_info_list": [
+        {
+          "Text": "Program Rehearsal",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "For this Goshiki Shuntaisai, \nfive Programs will be performed: Yabusame, \nShinbata Scramble, Osame-mai, Oobiki \nMikoshi, and Soaring Gallop.",
+      "color_text_info_list": [
+        {
+          "Text": "Yabusame",
+          "FontColor": 13
+        },
+        {
+          "Text": "Shinbata Scramble",
+          "FontColor": 13
+        },
+        {
+          "Text": "Osame-mai",
+          "FontColor": 13
+        },
+        {
+          "Text": "Oobiki Mikoshi",
+          "FontColor": 13
+        },
+        {
+          "Text": "Soaring Gallop",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Each Program has a corresponding Program \nGauge... \nFilling this Program Gauge to maximum \nunlocks \nthe ability to carry out a Program \nRehearsal!",
+      "color_text_info_list": [
+        {
+          "Text": "Program Gauge",
+          "FontColor": 13
+        },
+        {
+          "Text": "filling this",
+          "FontColor": 13
+        },
+        {
+          "Text": "to maximum unlocks",
+          "FontColor": 13
+        },
+        {
+          "Text": "the ability to do Program Rehearsal!",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Program Rehearsals are conducted with the \nUmamusume assigned to that Program, \ngranting far greater stat gains to develop \nyour Umamusume \ncompared to regular training.",
+      "color_text_info_list": [
+        {
+          "Text": "Program Rehearsals are held with assigned Umamusume",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Furthermore, the training effects scale up \nwith Program Lv, \nso we strongly recommend holding Program \nRehearsals actively.",
+      "color_text_info_list": [
+        {
+          "Text": "As effects scale up with Program Lv,",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Additionally, during the Shuntaisai \nTraining Camp starting in early July each \nyear, \nyou can engage in intensive Program \nRehearsals \nregardless of the Program Gauge!",
+      "color_text_info_list": [
+        {
+          "Text": "Early July each year",
+          "FontColor": 13
+        },
+        {
+          "Text": "Shuntaisai Training Camp",
+          "FontColor": 13
+        },
+        {
+          "Text": "regardless of the Program Gauge,",
+          "FontColor": 13
+        },
+        {
+          "Text": "you can do intensive Program Rehearsals!",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please note that the primary stats gained \ndiffer depending on the Program Rehearsal."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Keep in mind that Yabusame gives Speed, \nShinbata Scramble gives Stamina, \nOsame-mai gives Power, Oobiki Mikoshi \ngives Guts, and Soaring Gallop gives Wit♪",
+      "color_text_info_list": [
+        {
+          "Text": "Yabusame boosts Speed",
+          "FontColor": 13
+        },
+        {
+          "Text": "Shinbata Scramble boosts Stamina",
+          "FontColor": 13
+        },
+        {
+          "Text": "Osame-mai boosts Power",
+          "FontColor": 13
+        },
+        {
+          "Text": "Oobiki Mikoshi boosts Guts",
+          "FontColor": 13
+        },
+        {
+          "Text": "Soaring Gallop boosts Wit",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Additionally, the Umamusume assigned to \neach Program \nare primarily chosen from Support Cards \nand Scenario Link Umamusume.",
+      "color_text_info_list": [
+        {
+          "Text": "Primarily",
+          "FontColor": 13
+        },
+        {
+          "Text": "Support Cards and Scenario Link Umamusume",
+          "FontColor": 13
+        },
+        {
+          "Text": "are assigned.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "In particular, Support Card Umamusume are \nassigned \nto Programs based on their card type. \nThis is a crucial point, so be sure to \nremember it!",
+      "color_text_info_list": [
+        {
+          "Text": "Assigned to Programs based on card type.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the overview of Program \nRehearsal. \nIs there anything else you would like to \nask?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "About Bestowing Teachings, then.",
+      "color_text_info_list": [
+        {
+          "Text": "Bestowing Teachings",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Through rehearsals for the Goshiki \nShuntaisai, \nthe Umamusume assigned to each Program \nwill receive \nTeachings that aid in training.",
+      "color_text_info_list": [
+        {
+          "Text": "The Umamusume assigned to each Program,",
+          "FontColor": 13
+        },
+        {
+          "Text": "receive Teachings that aid in training.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "There are five initial Teachings available \nto bestow. \nYou can assign one of these Teachings \nto each individual Program.",
+      "color_text_info_list": [
+        {
+          "Text": "Five initial Teachings available to bestow.",
+          "FontColor": 13
+        },
+        {
+          "Text": "For each individual Program,",
+          "FontColor": 13
+        },
+        {
+          "Text": "you can assign one each.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Furthermore, each Teaching provides \na distinct training effect..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "These effects trigger whenever you train \nalongside \nthe Umamusume assigned to that Program♪",
+      "color_text_info_list": [
+        {
+          "Text": "With the assigned Umamusume,",
+          "FontColor": 13
+        },
+        {
+          "Text": "effects trigger whenever you train alongside them♪",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "When bestowing Teachings, consider which \nUmamusume \nshould receive which Teaching... \nCheck their effects carefully before \nmaking your choice!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the overview of Bestowing \nTeachings. \nIs there anything else you would like to \nask?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "About Transmuting Teachings, then.",
+      "color_text_info_list": [
+        {
+          "Text": "Transmuting Teachings",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "While the first Teachings you obtain \nare five basic ones..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "After each Progress Presentation, \nyou will gain 2 new Teachings in Junior \nYear, \nand 3 new Teachings in Classic Year.",
+      "color_text_info_list": [
+        {
+          "Text": "After each Progress Presentation,",
+          "FontColor": 13
+        },
+        {
+          "Text": "2 in Junior Year, 3 in Classic Year,",
+          "FontColor": 13
+        },
+        {
+          "Text": "new Teachings will be obtained.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "And the rite of combining these new \nTeachings \nwith your original Teachings \nis known as \"Transmuting Teachings.\"",
+      "color_text_info_list": [
+        {
+          "Text": "Combining these new Teachings with",
+          "FontColor": 13
+        },
+        {
+          "Text": "the rite of combining initial Teachings",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "When Transmuting Teachings, each time you \nacquire a new Teaching, \nyou select 1 of the initial 5 Teachings \nto fuse together with the new one.",
+      "color_text_info_list": [
+        {
+          "Text": "Each time a new Teaching is gained,",
+          "FontColor": 13
+        },
+        {
+          "Text": "select 1 of the initial 5 Teachings,",
+          "FontColor": 13
+        },
+        {
+          "Text": "and combine it with the new Teaching.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Doing so grants the new Teaching \na unique Transmuted Effect depending on \nwhich Teaching was chosen!",
+      "color_text_info_list": [
+        {
+          "Text": "A unique Transmuted Effect based on selection",
+          "FontColor": 13
+        },
+        {
+          "Text": "will be granted!",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please note that once a Teaching has been \nused for transmutation, \nit cannot be used for transmutation a \nsecond time.",
+      "color_text_info_list": [
+        {
+          "Text": "Teachings used once for transmutation",
+          "FontColor": 15
+        },
+        {
+          "Text": "cannot be used for transmutation again.",
+          "FontColor": 15
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Transmuted Effects all provide \npowerful training benefits, \nso be sure to take full advantage of them."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Like standard Teaching effects, Transmuted \nEffects \nactivate when you train alongside the \nUmamusume \nassigned to that Program.",
+      "color_text_info_list": [
+        {
+          "Text": "Just like Teaching effects,",
+          "FontColor": 13
+        },
+        {
+          "Text": "when training with assigned Umamusume,",
+          "FontColor": 13
+        },
+        {
+          "Text": "the effects will activate.",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understand the effects of each, \nand use them to advance your training with \nan edge!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation \nregarding 'Teaching Transmutation.' \nDo you have any other questions?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Are you sure you're all set?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood. ♪ Just in case, I have \na brief summary prepared right here for \nyou."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can review what we just covered at any \ntime \nby tapping the 'i Button' in the top-left \ncorner.",
+      "color_text_info_list": [
+        {
+          "Text": "'i Button'",
+          "FontColor": 15
+        }
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Best of luck to you, then. \nI'll be cheering you on from the \nsidelines."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood. In that case, do your best out \nthere! \nI'll be cheering you on from the \nsidelines."
+    }
+  ],
+  "title": "Tutorial"
+}
