@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Archives tutorial fit
+- Scaled and reflowed the Archives tutorial so it fits its box.
+
 ## 2026-10-26 -- Representative setup fit
 - Reflowed the representative tutorial text so it fits its box at 95%.
 
