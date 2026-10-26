@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Tutorial text fit
+- Reflowed the tutorial pages so their text stays inside the popup box.
+
 ## 2026-10-26 -- UI scaling tweaks
 - Scaled the skill-hint tip so it fits its box.
 
