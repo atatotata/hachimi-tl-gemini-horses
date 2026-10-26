@@ -50,7 +50,21 @@ jobs:
                   print(f'Skipping {b}: no index.json')
                   continue
               idx = json.loads(r.stdout)
-              
+
+              # Never ship Error-102 schedule keys.
+              localize = json.loads(subprocess.check_output([
+                  'git', 'show', f'origin/{b}:localized_data/localize_dict.json'
+              ]))
+              bad = [k for k in [
+                  'SingleMode418025', 'SingleMode418026', 'SingleMode418027',
+                  'SingleMode418028', 'SingleMode418029', 'SingleMode418030',
+                  'SingleMode418031', 'SingleMode418032', 'SingleMode418033',
+                  'SingleMode418034', 'SingleMode418035', 'SingleMode418036',
+                  'SingleMode418037',
+              ] if k in localize]
+              if bad:
+                  raise SystemExit(f'Error-102 keys in {b}: {bad}')
+
               # Build cache from index
               files = {f['path']: f['hash'] for f in idx['files']}
               cache = {'base_url': idx['base_url'], 'files': files}
