@@ -5,6 +5,7 @@ The whole JP game in English for Hachimi. Fast, complete, and updated with the l
 ## Quick Setup
 
 Paste this into Hachimi's **Translations Meta URL**, pick your flavor, and update:
+protip: pick the [SLOW] one, it has everything.
 ```
 https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.json
 ```
