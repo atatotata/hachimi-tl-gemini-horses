@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Azuma",
+      "text": "Does Lady <chrname> engage in \nsuch rigorous training on a regular basis?",
+      "choice_data_list": [
+        "Yes, it's a routine tailored specifically \nfor her."
+      ]
+    },
+    {
+      "name": "Azuma",
+      "text": "Is that so? \nTruly... even the present day holds such \nfascinating wonders."
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after that, she continued \nwatching \n<chrname>'s training with great curiosity."
+    }
+  ],
+  "title": "Azuma's Evaluation Up"
+}

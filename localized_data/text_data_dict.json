@@ -791,7 +791,8 @@
     "114401": "[Éclat de Roseraie] Rose Kingdom",
     "101703": "[Adamant Sovereign] Symboli Rudolf",
     "101803": "[Everlasting Hecate] Air Groove",
-    "110802": "[Claret Nosferatu] Duramente"
+    "110802": "[Claret Nosferatu] Duramente",
+    "100903": "[Gale-Borne Ultramarine] Daiwa Scarlet"
   },
   "5": {
     "100101": "[Special Dreamer]",
@@ -985,7 +986,8 @@
     "114901": "[Breathtaking Moonless Dawn]",
     "101803": "[Everlasting Hecate]",
     "102501": "[Creeping Shadow]",
-    "103102": "$(scale 85)[Melt Your Heart]"
+    "103102": "$(scale 85)[Melt Your Heart]",
+    "100903": "[Gale-Borne Ultramarine]"
   },
   "6": {
     "1001": "Special Week",
@@ -1160,7 +1162,8 @@
     "9049": "Tucker Brine",
     "9050": "Hoshina Kiyoko",
     "9051": "Yunohana Bloom",
-    "1101": "Samson Big"
+    "1101": "Samson Big",
+    "9052": "Azuma"
   },
   "7": {
     "1001": "Azumi Waki",
@@ -1335,7 +1338,8 @@
     "1101": "Nemoto Miyari",
     "1146": "Kori Arisa",
     "1148": "Kanari Yui",
-    "1149": "Asami Haruna"
+    "1149": "Asami Haruna",
+    "9052": "Kotono Mitsuishi"
   },
   "8": {
     "1001": "Ritto Dorm",
@@ -2421,7 +2425,9 @@
     "340": "A ticket to scout Trainee Umamusume\nreleased in gachas up to 2025/9/30,\nfrom among those commemorating the 6th Autumn Performance.",
     "355": "A voucher that can be exchanged for\nyour choice of ★3 Trainee Umamusume from the list.",
     "357": "A ticket used to enter the\nChampions Meeting.\n*Cannot be carried over to future events.",
-    "5702": "A report compiling Agnes Tachyon's\nresearch findings.\nCan be used to enhance factors."
+    "5702": "A report compiling Agnes Tachyon's\nresearch findings.\nCan be used to enhance factors.",
+    "356": "A voucher that can be exchanged for any\nSSR Support Card from the selection list.",
+    "5010": "A report compiling data on Umamusume factors.\nCan be used for Factor Enhancement."
   },
   "13": {
     "10001": "Tutorial gacha",
@@ -3129,7 +3135,14 @@
     "30474": "Exclusively ★3s from the 8 featured!",
     "50248": "1 Time Only! SSR cards are guaranteed to be Speed Support Cards!",
     "30476": "Featured ★3 Trainee Umamusume comes with 90 bonus Pieces!",
-    "30477": "Increased rates for selected SSR supports!"
+    "30477": "Increased rates for selected SSR supports!",
+    "30478": "Get 90 bonus Pieces with Featured ★3 Trainees!",
+    "30479": "Drop rates for Featured Support Cards boosted during the event!",
+    "30480": "★3 Trainee pool limited to 8 selected Umamusume!",
+    "50249": "★3 Trainee pool limited to 10 selected Umamusume!",
+    "50250": "SSR Support Card pool limited to 8 selected cards!",
+    "50251": "SSR Support Card pool limited to 8 selected cards!",
+    "50252": "One time only! SSR pool contains only Wit-type Support Cards!"
   },
   "14": {
     "1": "Gym Clothes",
@@ -3575,7 +3588,11 @@
     "106301": "$(scale 85)Ikuno Dictus's Signature Racewear",
     "107701": "$(scale 85)Narita Top Road's Signature Racewear",
     "109301": "$(scale 85)K.S.Miracle's Signature Racewear",
-    "110701": "$(scale 85)Tap Dance City's Signature Racewear"
+    "110701": "$(scale 85)Tap Dance City's Signature Racewear",
+    "63": "Shuntaisai Common Outfit",
+    "100902": "Gale-Borne Ultramarine",
+    "102902": "Shuntaisai Outfit (Yukino Bijin)",
+    "905201": "Azuma's Outfit"
   },
   "15": {
     "1": "Gym clothes with front & rear race bib.",
@@ -4098,7 +4115,11 @@
     "901144": "Rose Kingdom's Casual Wear",
     "101740": "Symboli Rudolf's Special Outfit",
     "101840": "Air Groove's Special Outfit",
-    "110840": "Duramente's Special Outfit"
+    "110840": "Duramente's Special Outfit",
+    "63": "Shuntaisai Common Outfit",
+    "100902": "Daiwa Scarlet's Special Outfit",
+    "102902": "Yukino Bijin's Special Outfit",
+    "905201": "Azuma's Outfit"
   },
   "16": {
     "1001": "Umapyoi Densetsu",
@@ -4285,7 +4306,8 @@
     "3155": "[Do Not Edit] [Main Story Audio] Gift",
     "3180": "[Do Not Edit] [Ep. 1 Audio] 2026 Droite Dance Part",
     "3193": "[Do Not Edit] [Photo Studio Feature] Beyond",
-    "1212": "Turf's Growing~"
+    "1212": "Turf's Growing~",
+    "1195": "Resplendent Bond Dance"
   },
   "17": {
     "1052": "None",
@@ -4494,7 +4516,8 @@
     "8508": "Music: Puresound",
     "8509": "Music: Puresound",
     "8510": "Music: Puresound",
-    "1212": "Lyrics & Composition: Kenji Ikeda (Cygames), Kenichi Maeyamada\nArrangement: Kenji Ikeda (Cygames)"
+    "1212": "Lyrics & Composition: Kenji Ikeda (Cygames), Kenichi Maeyamada\nArrangement: Kenji Ikeda (Cygames)",
+    "1195": "Lyrics & Composition: Daiki Abe -amazuti-, GAK -amazuti-\nArrangement: GAK -amazuti-"
   },
   "23": {
     "1": "Sprint Shoes",
@@ -5306,7 +5329,9 @@
     "340": "★3 6th Autumn Performance Gacha",
     "355": "Awakening Lv 6/7 Added Umamusume Voucher: Round 4",
     "357": "Entry Ticket",
-    "5702": "Factor Research Report"
+    "5702": "Factor Research Report",
+    "356": "Special SSR Voucher Round 8",
+    "5010": "Factor Enhancement Report"
   },
   "24": {
     "1": "Sprint shoes used to raise Potential Lv.",
@@ -6111,7 +6136,9 @@
     "340": "A ticket to scout Trainee Umamusume released in gachas up to\n2025/9/30 from among those commemorating the 6th Autumn Performance.",
     "355": "A voucher that can be exchanged for\nyour choice of ★3 Trainee Umamusume from the list.",
     "357": "A ticket used to enter the\nChampions Meeting.\n*Cannot be carried over to future events.",
-    "5702": "A report compiling Agnes Tachyon's research findings.\nCan be used to enhance factors."
+    "5702": "A report compiling Agnes Tachyon's research findings.\nCan be used to enhance factors.",
+    "356": "A voucher that can be exchanged for any\nSSR Support Card from the selection list.",
+    "5010": "A report compiling data on Umamusume factors.\nCan be used for Factor Enhancement."
   },
   "25": {
     "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -6848,7 +6875,14 @@
     "30474": "Twinkle Collection Pretty Derby Gacha",
     "50248": "SSR Guaranteed Speed Gacha",
     "30476": "Featured Pretty Derby Scout",
-    "30477": "Select Pickup Support Card Scout"
+    "30477": "Select Pickup Support Card Scout",
+    "30478": "New Scenario Kickoff Pretty Derby Gacha",
+    "30479": "New Scenario Kickoff Support Card Gacha",
+    "30480": "Twinkle Collection Pretty Derby Gacha",
+    "50249": "Guaranteed ★3 New Scenario Support Gacha",
+    "50250": "Guaranteed SSR New Scenario Support Gacha Round 1",
+    "50251": "Guaranteed SSR New Scenario Support Gacha Round 2",
+    "50252": "Guaranteed SSR Wit Gacha"
   },
   "27": {
     "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \nShe may not be able to give 100% of her ability.",
@@ -10123,7 +10157,9 @@
     "1204701": "Queen Elizabeth II Cup HARD",
     "1204702": "Queen Elizabeth II Cup HARD",
     "600501": "Champions Meet: CLASSIC",
-    "600502": "Champions Meet: CLASSIC Final"
+    "600502": "Champions Meet: CLASSIC Final",
+    "1204801": "Japan Cup HARD",
+    "1204802": "Japan Cup HARD"
   },
   "29": {
     "100101": "February S",
@@ -13312,7 +13348,9 @@
     "600098": "Champions Meet: Final",
     "1204701": "Queen Elizabeth II Cup (HARD)",
     "1204702": "Queen Elizabeth II Cup (HARD)",
-    "600502": "Champions Meet: Final"
+    "600502": "Champions Meet: Final",
+    "1204801": "Japan Cup (HARD)",
+    "1204802": "Japan Cup (HARD)"
   },
   "31": {
     "10001": "Sapporo RC",
@@ -15935,7 +15973,8 @@
     "6098": "Champions Meet: CLASSIC Final",
     "12048": "Queen Elizabeth Cup",
     "6501": "Champions Meet: CLASSIC",
-    "6502": "Champions Meet: CLASSIC Final"
+    "6502": "Champions Meet: CLASSIC Final",
+    "12049": "Japan Cup"
   },
   "33": {
     "1001": "February Stakes",
@@ -16809,7 +16848,8 @@
     "6098": "Champions Meeting",
     "12048": "Legend Race",
     "6501": "Champions Meeting",
-    "6502": "Champions Meeting"
+    "6502": "Champions Meeting",
+    "12049": "Legend Race"
   },
   "34": {
     "10001": "Sapporo RC",
@@ -17158,7 +17198,9 @@
     "1204601": "Legend Race: Bamboo Memory",
     "1204602": "Legend Race: K.S.Miracle",
     "1204701": "Legend Race: Mejiro Ramonu",
-    "1204702": "Legend Race: Mejiro Dober"
+    "1204702": "Legend Race: Mejiro Dober",
+    "1204801": "Legend Race: VS Special Week",
+    "1204802": "Legend Race: VS Cheval Grand"
   },
   "38": {
     "1001": "February S",
@@ -17469,7 +17511,9 @@
     "1204601": "Legend Race\nBamboo Memory",
     "1204602": "Legend Race\nK.S.Miracle",
     "1204701": "Legend Race\nMejiro Ramonu",
-    "1204702": "Legend Race\nMejiro Dober"
+    "1204702": "Legend Race\nMejiro Dober",
+    "1204801": "Legend Race\nVS Special Week",
+    "1204802": "Legend Race\nVS Cheval Grand"
   },
   "39": {
     "1001": "Money",
@@ -17567,7 +17611,8 @@
     "12019": "5.5th Anniv.\nCommemoration",
     "12020": "5.5th Anniv.\nCommemoration",
     "16000": "Rainbow Crystal\nUnbind Exchange",
-    "16001": "Gold Crystal\nUnbind Exchange"
+    "16001": "Gold Crystal\nUnbind Exchange",
+    "11013": "Trial Coin Exchange"
   },
   "41": {
     "8201": "Unlocked after watching Main Story Volume 1, Chapter 1, Ep. 14",
@@ -17867,7 +17912,18 @@
     "297": "700",
     "298": "Awakening Lv 5 Item Pack",
     "299": "700",
-    "300": "Awakening Lv 5 Item Pack"
+    "300": "Awakening Lv 5 Item Pack",
+    "301": "Limit 2: 7,500",
+    "302": "Limit 4: 1,500",
+    "303": "Limit 3: Factor Enhancement Report Pack",
+    "304": "Limit 5: Support Card Exchange Ticket Pack",
+    "305": "Limit 2: 60",
+    "306": "Limit 1: 7,500",
+    "307": "Limit 2: 7,500",
+    "308": "Limit 4: 1,500",
+    "309": "Limit 3: Factor Enhancement Report Pack",
+    "310": "Limit 5: Support Card Exchange Ticket Pack",
+    "311": "Limit 2: 60"
   },
   "47": {
     "10071": "Warning Shot!",
@@ -20019,7 +20075,30 @@
     "204802": "Unprecedented",
     "911081": "And So the Inherent Blood Awakens",
     "110802111": "The Witching Hour Hath Come",
-    "110802211": "Though I Feast and Feast"
+    "110802211": "Though I Feast and Feast",
+    "120091": "Peerless Draw",
+    "204731": "Tactical Wit",
+    "204732": "Smooth Move",
+    "204741": "Prodigious Flair",
+    "204742": "Intuition",
+    "204751": "Advantage",
+    "204752": "Upper Hand",
+    "204762": "Every Last Drop",
+    "204811": "Spiral Specialist",
+    "204812": "Carving the Arc",
+    "204892": "Impulsive Fire",
+    "210401": "Renowned Dream",
+    "210402": "Call from Beyond",
+    "415011": "Rapid Dance",
+    "415021": "Auspicious Strider",
+    "415031": "Fulfillment of Vows",
+    "415041": "Devoted Wish",
+    "415051": "Bonfire of Prayers",
+    "415061": "Evergreen Pledge",
+    "920091": "Peerless Draw",
+    "100903111": "Unheard Even in the Age of Gods",
+    "100903211": "Behold, the Crimson Gale",
+    "104503121": "Becoming a Great River at Yodo"
   },
   "48": {
     "10071": "<b>Target Speed +0.15 m/s for 6 s</b> when: After 50% distance AND Before 60% distance AND In trailing ﹤50%",
@@ -22221,7 +22300,30 @@
     "204802": "Moves slightly forward when overtaking\nduring the middle leg <End Closer>",
     "911081": "If in the middle of the pack near the final stretch,\nspeed slightly increases for a short time.",
     "110802111": "Moves forward at some point in the middle leg.\nIn Medium races, if in the middle or back of the pack\nwhen activated, moves tremendously forward\n<Late Bloomer/End Closer>",
-    "110802211": "Moves forward when overtaking during the middle leg.\nIn Medium races, additionally moves\nslightly forward <Late Bloomer/End Closer>"
+    "110802211": "Moves forward when overtaking during the middle leg.\nIn Medium races, additionally moves\nslightly forward <Late Bloomer/End Closer>",
+    "120091": "Continuously increases speed early in the middle leg\nif near the front. In Long races, slightly accelerates for\na short time if in the top 3 during the final spurt.\n＜Front Runner/Turf＞",
+    "204731": "When attempting to overtake or approached from behind\nin the second half of the race, speed slightly increases\nfor a while ＜Medium＞",
+    "204732": "When attempting to overtake or approached from behind\nin the second half of the race, speed marginally increases\nfor a while ＜Medium＞",
+    "204741": "Moves forward when overtaken or contesting\nfor position in the opening or middle leg ＜Long＞",
+    "204742": "Slightly moves forward when overtaken or contesting\nfor position in the opening or middle leg ＜Long＞",
+    "204751": "Increases speed if in the front pack\nas the middle leg approaches",
+    "204752": "Slightly increases speed if in the front pack\nas the middle leg approaches",
+    "204762": "Slightly accelerates at some point\nduring the final spurt ＜Long＞",
+    "204811": "Increases speed at some point\non any corner",
+    "204812": "Slightly increases speed at some point\non any corner",
+    "204892": "Slightly increases speed somewhere in the middle leg;\nif you didn't get a late start, increases speed\na bit instead ＜Front Runner＞",
+    "210401": "Increases speed if launching a last spurt somewhere\nat the start of the final stretch; effect increases\nif total Program Lv. is 30 or higher",
+    "210402": "Slightly increases speed if launching a last spurt\nsomewhere at the start of the final stretch",
+    "415011": "Significantly pulls forward somewhere in the second half\nof the race and slightly recovers stamina",
+    "415021": "Pulls forward for a short period\nsomewhere in the middle leg",
+    "415031": "Slightly increases speed for a short period somewhere on a corner\nin the middle leg, then slightly pulls forward\nsomewhere at the start of the final stretch",
+    "415041": "Significantly increases speed if launching a last spurt\nsomewhere at the start of the final stretch",
+    "415051": "Significantly pulls forward somewhere at the start\nof the final stretch ＜Mile/Medium＞",
+    "415061": "Significantly increases speed if in the pack or behind\nsomewhere approaching the final stretch\n＜Sprint＞",
+    "920091": "Continuously slightly increases speed if leading the pack\nsomewhere at the start of the middle leg\n＜Front Runner/Turf＞",
+    "100903111": "Slightly increases speed for a short period somewhere in the middle leg\nif near the front, and if you didn't get a late start, increases speed\nupon entering the final straight if in 3rd place or higher\n＜Medium/Long＞",
+    "100903211": "Increases acceleration during a last spurt in races of 2,000m or more\n＜Front Runner/Turf＞",
+    "104503121": "Dramatically increases speed somewhere on a straight\nin the middle leg at Kyoto Racecourse\n＜Front Runner/Long＞"
   },
   "49": {
     "1": "50 Jewels",
@@ -22499,7 +22601,18 @@
     "297": "Awakening Lv 6/7 Update\n700 Jewels with Umamusume Ticket",
     "298": "Mejiro McQueen\nAwakening Lv 5 Item Pack",
     "299": "Awakening Lv 6/7 Update 770 Jewels with Umamusume Ticket",
-    "300": "Mejiro McQueen Awakening Lv 5 Item Pack"
+    "300": "Mejiro McQueen Awakening Lv 5 Item Pack",
+    "301": "New Scenario Release Special\nLimit 2: 7,500 Jewels",
+    "302": "New Scenario Release Special\nLimit 4: 1,500 Jewels",
+    "303": "New Scenario Release Special\nLimit 3: Factor Enhancement Report Pack",
+    "304": "New Scenario Release Special Limit 5\nSupport Card Exchange Ticket Pack",
+    "305": "New Scenario Release Special Limit 2\n60 Jewels with Bonus Items",
+    "306": "New Scenario Release Special Limit 1: 8,250 Jewels (Web Store Exclusive)",
+    "307": "New Scenario Release Special Limit 2: 8,250 Jewels",
+    "308": "New Scenario Release Special Limit 4: 1,650 Jewels",
+    "309": "New Scenario Release Special Limit 3: Factor Enhancement Report Pack",
+    "310": "New Scenario Release Special Limit 5: Support Card Exchange Ticket Pack",
+    "311": "New Scenario Release Special Limit 2: 66 Jewels with Bonus Items"
   },
   "55": {
     "101": "Speed",
@@ -22554,7 +22667,12 @@
     "3606": "Island Trip",
     "4001": "PR Activity",
     "4002": "PR Activity",
-    "4003": "PR Activity"
+    "4003": "PR Activity",
+    "5101": "Yabusame",
+    "5102": "Sacred Flag Contest",
+    "5103": "Votive Dance",
+    "5104": "Grand Mikoshi Haul",
+    "5105": "Soaring Gallop"
   },
   "59": {
     "8000": "Jewel Nephrite",
@@ -24034,7 +24152,20 @@
     "385": "Training Plan Sheets let you <color=#ff9900>set\ntargets</color> to train stronger Umamusume. You can\nset targets for <color=#ff9900>7 Umamusume on a single\nsheet</color>, covering not only your final target Umamusume but also their legacy Umamusume.",
     "386": "$(scale 85)By assigning target Umamusume to a Training Plan,\n<color=#ff9900>various training setups are automatically aligned with your targets</color>.\nFor example, a Skill Set reflecting your target skills will be\nadded, and the expected Support Card Deck will be automatically equipped.",
     "387": "You can <color=#ff9900>compare and evaluate your trained Hall of Fame or\nLegacy-Only Umamusume</color> against your target Umamusume to check your target completion progress.",
-    "388": "Enter a Share ID to\n<color=#ff9900>load a sheet configured by another Trainer</color>.\nYou can also issue a Share ID for your own configured\nsheet to <color=#ff9900>share its contents with other Trainers</color>."
+    "388": "Enter a Share ID to\n<color=#ff9900>load a sheet configured by another Trainer</color>.\nYou can also issue a Share ID for your own configured\nsheet to <color=#ff9900>share its contents with other Trainers</color>.",
+    "389": "On the Change Outfit screen,\nswipe to <color=#ff9900>rotate character</color> and <color=#ff9900>move camera</color>,\nand pinch to <color=#ff9900>zoom</color>.",
+    "390": "On the Change Outfit screen,\ndrag the screen to <color=#ff9900>rotate character</color> and <color=#ff9900>move camera</color>,\nand use the mouse wheel to <color=#ff9900>zoom</color>.",
+    "391": "Practice 5 Programs aiming for Great Success at the <color=#ff911c>Goshiki Shuntaisai</color>!\nMax out each performance's <color=#ff911c>Program Gauge</color> to conduct <color=#ff911c>Program Practice</color>!\nConducting <color=#ff911c>Program Practice</color> raises the <color=#ff911c>Program Lv.</color> for each performance.\nWhen <color=#ff911c>all Program Lvs. reach their target</color>, <color=#ff911c>Program Mastery</color> will increase,\nallowing you to achieve Great Success in the <color=#ff911c>Progress Presentation</color> and <color=#ff911c>Goshiki Shuntaisai</color>!",
+    "392": "During training, Umamusume serving as <color=#ff911c>Performance Leads</color> will impart <color=#ff911c>Teachings</color>!\nTeachings provide useful training effects and <color=#ff911c>strengthen Performance Leads</color>!\n<color=#ff911c>Performance Leads</color> will also <color=#ff911c>participate in regular training</color>,\nso check their effects and choose which Teachings to <color=#ff911c>impart</color>!",
+    "393": "The <color=#ff911c>Program Gauge</color> is primarily filled through training!\nWhen a Program Gauge is full, you can <color=#ff911c>perform Program Practice!</color>\n<color=#ff911c>Program Practice raises Program Lv.</color> and <color=#ff911c>strengthens Program Practice itself</color>,\nso actively fill the <color=#ff911c>Program Gauge</color> and perform <color=#ff911c>Program Practice</color>!",
+    "394": "You can use <color=#ff911c>Auto Training</color> in this training scenario.\nSelect a plan and begin via the [Auto] button on the Training Top screen\nto let training actions proceed automatically.\nYou can also edit the details of each plan.\nTake advantage of <color=#ff911c>Auto Training</color> to enjoy training with ease!",
+    "395": "During training, Umamusume serving as <color=#ff911c>Performance Leads</color> will impart <color=#ff911c>Teachings</color>!\nTeachings provide useful training effects and <color=#ff911c>strengthen Performance Leads</color>!\n<color=#ff911c>Performance Leads</color> will also <color=#ff911c>participate in regular training</color>,\nso check their effects and choose which Teachings to <color=#ff911c>impart</color>!",
+    "396": "At specific times during training, you can change imparted <color=#ff911c>Teachings</color>.\nCheck your trainee's status and select the most suitable Teachings!\nNote that once you confirm which Teachings to <color=#ff911c>impart</color>,\nyou <color=#ff911c>cannot change Teachings</color> until the next scheduled timing!",
+    "397": "During training, Umamusume serving as <color=#ff911c>Performance Leads</color> will impart <color=#ff911c>Teachings</color>!\nTeachings provide useful training effects and <color=#ff911c>strengthen Performance Leads</color>!\n<color=#ff911c>Performance Leads</color> will also <color=#ff911c>participate in regular training</color>,\nso check their effects and choose which Teachings to <color=#ff911c>impart</color>!",
+    "398": "At specific times during training, you can change imparted <color=#ff911c>Teachings</color>.\nCheck your trainee's status and select the most suitable Teachings!\nNote that once you confirm which Teachings to <color=#ff911c>impart</color>,\nyou <color=#ff911c>cannot change Teachings</color> until the next scheduled timing!",
+    "399": "This Summer Training Camp becomes the <color=#ff911c>Shuntaisai Camp</color> where you focus on Program Practice,\nallowing you to <color=#ff911c>perform Program Practice every turn!</color>\nWhile <color=#ff911c>Program Lv. will not increase</color> from Program Practice during camp,\n<color=#ff911c>all Program Lvs. will increase by +1</color> once camp concludes!\nIn addition, the <color=#ff911c>Shuntaisai Camp is also held in the Junior Year</color>!",
+    "400": "The <color=#ff911c>Progress Presentation</color> is where the Umamusume show off the fruits of their practice for the <color=#ff911c>Goshiki Shuntaisai</color>!\nTo achieve great results, you must raise your <color=#ff911c>Program Mastery</color>. Your trainee Umamusume will also grow based on the outcome!",
+    "401": "After finishing a <color=#ff911c>Progress Presentation</color>, you will <color=#ff911c>acquire a new Teaching</color> and perform a <color=#ff911c>Transmutation</color>.\nDuring <color=#ff911c>Transmutation</color>, you can combine it with one of your first 5 Teachings to <color=#ff911c>grant Transmutation Effects</color> to the new Teaching!\nHowever, <color=#ff911c>Teachings used in Transmutation cannot be used again!</color>\nCheck the <color=#ff911c>Transmutation Effects</color> carefully when choosing your combination!"
   },
   "64": {
     "6": "Reward from \"{0}\".",
@@ -25619,7 +25750,15 @@
     "100631": "Everlasting Beats",
     "100632": "Glorious Moment!",
     "101405": "Scenery",
-    "502203": "Happy Hoppers"
+    "502203": "Happy Hoppers",
+    "100653": "Resplendent Bond Dance",
+    "320014": "Distinguished Shuntaisai Award",
+    "515101": "Friends, History Unraveled —Goshiki Shuntaisai—",
+    "515102": "Connecting Umamusume and Humans",
+    "515103": "Program Master",
+    "515104": "Successor of Teachings",
+    "515105": "Teaching Unification Rite",
+    "760003": "Shuntaisai Skill Exam Rank #{0}"
   },
   "66": {
     "100101": "Unlocked from the start",
@@ -27042,7 +27181,15 @@
     "415111": "Achieve legendary results 11 times\nin Champions Meeting CLASSIC",
     "415211": "Achieve great results 11 times\nin Champions Meeting CLASSIC",
     "415311": "Achieve glorious results 11 times\nin Champions Meeting CLASSIC",
-    "415411": "Achieve excellent results 11 times\nin Champions Meeting CLASSIC"
+    "415411": "Achieve excellent results 11 times\nin Champions Meeting CLASSIC",
+    "100653": "Watch the\nResplendent Bond Dance",
+    "320014": "Achieve high marks in the\nTrainer Skill Exam",
+    "515101": "Reach an evaluation score of\n[36000] or higher in Shuntaisai",
+    "515102": "Conclude the Goshiki Shuntaisai\nwith a Great Success",
+    "515103": "Complete Program Rehearsal 700 times\nin total",
+    "515104": "Complete Teaching Impartations\n120 times in total",
+    "515105": "Complete Teaching Transmutations\n40 times in total",
+    "760003": "Reach rank #{0} in the\nShuntaisai Trainer Skill Exam"
   },
   "67": {
     "100000": "Win a race during a Career.",
@@ -35746,7 +35893,102 @@
     "2100162": "[Daily] Enter the Champions Meeting",
     "2100163": "[Daily] Enter the Champions Meeting",
     "2100164": "[Daily] Enter the Champions Meeting",
-    "2100165": "[Daily] Enter the Champions Meeting"
+    "2100165": "[Daily] Enter the Champions Meeting",
+    "600463": "Complete the Goshiki Shuntaisai\nwith a Great Success",
+    "600464": "Succeed at Program Rehearsal 700 times\nin total",
+    "600465": "Complete Teaching Impartations\na total of 120 times",
+    "600466": "Complete Teaching Transmutations\na total of 40 times",
+    "600653": "Watch\n\"Resplendent Bond Dance\"",
+    "1002667": "[Tenno Sho (Autumn)] Complete 1 training career after fulfilling all career goals",
+    "1002668": "[Tenno Sho (Autumn)] Complete 2 training careers after fulfilling all career goals",
+    "1002669": "[Tenno Sho (Autumn)] Complete 3 training careers after fulfilling all career goals",
+    "1002670": "[Tenno Sho (Autumn)] Complete 1 training career with an Umamusume with Medium Aptitude A or higher",
+    "1002671": "[Tenno Sho (Autumn)] Win 5 G1 races during training",
+    "1002672": "[Tenno Sho (Autumn)] Complete all limited-time missions",
+    "1002673": "[JBC 2026] Complete 1 training career after fulfilling all career goals",
+    "1002674": "[JBC 2026] Complete 2 training careers after fulfilling all career goals",
+    "1002675": "[JBC 2026] Complete 3 training careers after fulfilling all career goals",
+    "1002676": "[JBC 2026] Complete 1 training career with an Umamusume with Dirt Aptitude A or higher",
+    "1002677": "[JBC 2026] Complete 1 training career with an Umamusume with Short Aptitude A or higher",
+    "1002678": "[JBC 2026] Complete 1 training career with an Umamusume with Mile Aptitude A or higher",
+    "1002679": "[JBC 2026] Win 5 G1 races during training",
+    "1002680": "[JBC 2026] Complete all limited-time missions",
+    "1002681": "[Queen Elizabeth II Cup] Complete 1 training career after fulfilling all career goals",
+    "1002682": "[Queen Elizabeth II Cup] Complete 2 training careers after fulfilling all career goals",
+    "1002683": "[Queen Elizabeth II Cup] Complete 3 training careers after fulfilling all career goals",
+    "1002684": "[Queen Elizabeth II Cup] Complete 1 training career with an Umamusume with Medium Aptitude A or higher",
+    "1002685": "[Queen Elizabeth II Cup] Win 5 G1 races during training",
+    "1002686": "[Queen Elizabeth II Cup] Complete all limited-time missions",
+    "1002741": "Complete all commemorative missions",
+    "1002742": "Complete 1 training career in Shuntaisai Chapter",
+    "1002743": "Complete 3 training careers in Shuntaisai Chapter",
+    "1002744": "Complete 5 training careers in Shuntaisai Chapter",
+    "1002745": "Achieve 1 Great Success in the 1st Progress Presentation in Shuntaisai Chapter",
+    "1002746": "Achieve 1 Great Success in the 2nd Progress Presentation in Shuntaisai Chapter",
+    "1002747": "Achieve 1 Great Success in the Goshiki Shuntaisai in Shuntaisai Chapter",
+    "1002748": "Succeed at Yabusame a total of 15 times in Shuntaisai Chapter",
+    "1002749": "Succeed at Sacred Flag Contest a total of 15 times in Shuntaisai Chapter",
+    "1002750": "Succeed at Votive Dance a total of 15 times in Shuntaisai Chapter",
+    "1002751": "Succeed at Grand Mikoshi Haul a total of 15 times in Shuntaisai Chapter",
+    "1002752": "Succeed at Soaring Gallop a total of 15 times in Shuntaisai Chapter",
+    "2005801": "[Daily Mission] Enter 1 Legend Race",
+    "2005802": "[Daily Mission] Enter 2 Legend Races",
+    "2005803": "[Daily Mission] Enter 3 Legend Races",
+    "2005804": "[Daily Mission] Enter 1 Legend Race",
+    "2005805": "[Daily Mission] Enter 2 Legend Races",
+    "2005806": "[Daily Mission] Enter 3 Legend Races",
+    "2005807": "[Daily Mission] Enter 1 Legend Race",
+    "2005808": "[Daily Mission] Enter 2 Legend Races",
+    "2005809": "[Daily Mission] Enter 3 Legend Races",
+    "2005810": "[Daily Mission] Enter 1 Legend Race",
+    "2005811": "[Daily Mission] Enter 2 Legend Races",
+    "2005812": "[Daily Mission] Enter 3 Legend Races",
+    "2005813": "[Daily Mission] Enter 1 Legend Race",
+    "2005814": "[Daily Mission] Enter 2 Legend Races",
+    "2005815": "[Daily Mission] Enter 3 Legend Races",
+    "2005816": "[Daily Mission] Enter 1 Legend Race",
+    "2005817": "[Daily Mission] Enter 2 Legend Races",
+    "2005818": "[Daily Mission] Enter 3 Legend Races",
+    "2005819": "[Limited-Time Mission] Enter 6 Legend Races",
+    "2005820": "[Limited-Time Mission] Enter 9 Legend Races",
+    "2005821": "[Limited-Time Mission] Enter 12 Legend Races",
+    "2200390": "Complete 5 exams with a \"Pass\" rating",
+    "2200391": "Complete 6 exams with a \"Pass\" rating",
+    "2200392": "Complete 7 exams with a \"Pass\" rating",
+    "2200393": "Complete 5 exams with a \"Good\" rating",
+    "2200394": "Complete 6 exams with a \"Good\" rating",
+    "2200395": "Complete 7 exams with a \"Good\" rating",
+    "2200396": "Complete 5 exams with an \"Excellent\" rating",
+    "2200397": "Complete 6 exams with an \"Excellent\" rating",
+    "2200398": "Complete 7 exams with an \"Excellent\" rating",
+    "2200399": "[Daily Mission] Log in to the game",
+    "2200400": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200401": "[Daily Mission] Log in to the game",
+    "2200402": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200403": "[Daily Mission] Log in to the game",
+    "2200404": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200405": "[Daily Mission] Log in to the game",
+    "2200406": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200407": "[Daily Mission] Log in to the game",
+    "2200408": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200409": "[Daily Mission] Log in to the game",
+    "2200410": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200411": "[Daily Mission] Log in to the game",
+    "2200412": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200413": "[Daily Mission] Log in to the game",
+    "2200414": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200415": "[Daily Mission] Log in to the game",
+    "2200416": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200417": "[Daily Mission] Log in to the game",
+    "2200418": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200419": "[Daily Mission] Log in to the game",
+    "2200420": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200421": "[Daily Mission] Log in to the game",
+    "2200422": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200423": "[Daily Mission] Log in to the game",
+    "2200424": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter",
+    "2200425": "[Daily Mission] Log in to the game",
+    "2200426": "[Daily Mission] Complete 1 training career in Shuntaisai Chapter"
   },
   "68": {
     "1": "Special Week #1",
@@ -37287,7 +37529,8 @@
     "30276": "\"Umayuru: Full Gate!\" Episode 23 Release Login Bonus",
     "30277": "\"Umayuru: Full Gate!\" Episode 24 Release Login Bonus",
     "30278": "\"Umayuru: Full Gate!\" Episode 25 Release Login Bonus",
-    "30279": "\"Umayuru: Full Gate!\" Episode 26 Release Login Bonus"
+    "30279": "\"Umayuru: Full Gate!\" Episode 26 Release Login Bonus",
+    "30280": "New Training Scenario \"Shuntaisai Chapter\" Release Celebration Login Bonus"
   },
   "75": {
     "10001": "[Tracen Academy] Special Week",
@@ -37852,7 +38095,10 @@
     "30318": "[Round and Round: Tracen Days] Rice Shower",
     "30319": "[The Banquet] Narita Brian",
     "30320": "[Cold, Dignified Bisque Doll] Admire Groove",
-    "30321": "[The “Strongest” Kin] Duramente"
+    "30321": "[The “Strongest” Kin] Duramente",
+    "10149": "[Shrine Maiden] Azuma",
+    "30322": "[Time of Departure] Mayano Top Gun",
+    "30323": "[How Truly Wondrous, This Festival of Ours] Azuma"
   },
   "76": {
     "10001": "[Tracen Academy]",
@@ -38399,7 +38645,10 @@
     "30318": "[Round and Round: Tracen Days]",
     "30319": "[The Banquet]",
     "30320": "[Cold, Dignified Bisque Doll]",
-    "30321": "[The “Strongest” Kin]"
+    "30321": "[The “Strongest” Kin]",
+    "10149": "[Shrine Maiden]",
+    "30323": "[How Truly Wondrous, This Festival of Ours]",
+    "30322": "[Time of Departure]"
   },
   "77": {
     "10001": "Special Week",
@@ -38964,7 +39213,10 @@
     "30318": "Rice Shower",
     "30319": "Narita Brian",
     "30320": "Admire Groove",
-    "30321": "Duramente"
+    "30321": "Duramente",
+    "10149": "Azuma",
+    "30322": "Mayano Top Gun",
+    "30323": "Azuma"
   },
   "78": {
     "10001": "Special Week",
@@ -39529,7 +39781,10 @@
     "30318": "Rice Shower",
     "30319": "Narita Brian",
     "30320": "Admire Groove",
-    "30321": "Duramente"
+    "30321": "Duramente",
+    "10149": "Azuma",
+    "30322": "Mayano Top Gun",
+    "30323": "Azuma"
   },
   "88": {
     "10001": "My name is Special Week! My dream is to be the best horsegirl in Japan! I'm gonna pull my own weight to make my moms proud!",
@@ -39968,7 +40223,7 @@
     "30168": "(Intro)\n\nHaaa~~~~ Yoisho Eiyasa\nTumbling boat, boat sets sail\nMy giant treasure ship\n\nLoaded with dreams and gold, row away\nDestination easygoing, ask waves\nHaa Dokkoi\n\nRaging giant octopus, hear fame\nRockfish lady, witness\nUnsinkable ship sets out now\n\n(☆) Go, go on, golden ship goes\nRide rough waves and whirlpools\nSeen at bow: endless dream\nHaa Soiya Soiya\n\nTumbling boat, boat moves on\nGiant dream ship of everyone\n\nAround the world, piece of cake\nMoon landing, before breakfast\nBig catch flag fluttering in cosmic sky\n\n(Rap) Festival, grand gamble\nJust romanticism\nNo match for my Soran Bushi\nClaim world's best, launch mega fireworks\nDoddodo dodoudo dodoudo dodou\n\n(☆) Repeat\n\nHaa Soiya Soiya\nHaa Soiya Soiya...\n(Fade out)",
     "30169": "\\\"Guh... our turn next~!\nNot nervous, Teio-chan?\\\"\n\n\\\"Little butterflies, but...\nBoth of us totally fine.\nLike in practice, standing ovation!\\\"\n\n\\\"S-Strong heart...\nDifferent chills from race...\nUgh, can't sit still!!\\\"\n(Rustle rustle!)\n\n\\\"Ah! Tsuru-chan, don't thrash!\nJust got dressed!\\\"\n\n\\\"Mind went blank! Cheeks stiffening too...\nRelax, relax!\\\"\n(Slap slap!)\n\n\\\"Wah, powder flying...!\nFreeze, Tsuru-chan!\nDeep breath with me!\\\"\n\n\\\"Huhe... deep, breath...?\\\"\n\n\\\"Think of role, match with me—\nInhale—exhale—\\\"\n\n\\\"Inhale—exhale—\nRelaxed... mysterious...\nslow... enigmatic smile...\\\"\n\n\\\"...Yup yup! That expression!\\\"\n\n\\\"...Fufu.\n'Footwork stepped in so frail'—how's that?\\\"\n\n\\\"—'Ah, left hand lacking too'!\nEhehe, dancing with me needs that!\nTime to go!\\\"",
     "30170": "Lightly tuck chin first.\nNeck stretching straight toward heavens.\n\nRaise hand gently.\nLike gazing at bird atop distant rock.\n\nBody core: bamboo in storm.\nSupple, roots unmoved.\n\nFan: hand beyond hands.\nFingers, ribs, tip of fan—stay alert.\n\n\\\"—Understood so far?\\\"\n\nMy words take root in you, breathe in you.\nWhen you dance,\nI dance in spirit too.\nTherefore—\n\n『Disciple, my disciple.\nTime for practice. Come hither.』\n\nEntrusting to you.",
-    "30171": "—Shundai Festival arrived again this year.\nCaptivated by dancing Umamusume on stage, watching every year without fail.\nWhat kind of 'dedication play' this year—\n\n『—Wahaha, how fun, how fun!』\n\n\\\"Huh—!?\\\"\n\nAstonished.\nNot performance I knew.\n\nUnsteady dialogue delivery, childish acting.\nCompletely different from past dedication plays.\n\n\\\"U-Unacceptable...!\\\"\n\nModern arrangement, or improvisation?\nEither way, hard to accept.\nShoulders slumped, feet turned to exit—\n\n『Ah, how fun~, how fun~♪』\n\nYet.\nGirl's sword dance stuck in head.\nIncomparable to past years, yet why.\n\nTurned back slowly after hesitation, right at climax.\nSerious gaze, beads of sweat on brow.\n\n『Cannot inherit master's art, yet master bestowing such joy is truly magnificent!』\n\nTightly gripped sword cut through air pleasantly.\nSmiling face turned back: full blooming cherry blossom—\nRecalled childhood that instant.\n\nCrude yet earnest young days.\nEach moment piling like strata.\nPast self overlapped with girl before eyes—\n\n\\\"I see, that's why she...\\\"\n\nEntrusted heart to dance and music.\nFelt someone else would draw energy from this girl tomorrow.",
+    "30171": "—Shuntaisai arrived again this year.\nCaptivated by dancing Umamusume on stage, watching every year without fail.\nWhat kind of 'dedication play' this year—\n\n『—Wahaha, how fun, how fun!』\n\n\\\"Huh—!?\\\"\n\nAstonished.\nNot performance I knew.\n\nUnsteady dialogue delivery, childish acting.\nCompletely different from past dedication plays.\n\n\\\"U-Unacceptable...!\\\"\n\nModern arrangement, or improvisation?\nEither way, hard to accept.\nShoulders slumped, feet turned to exit—\n\n『Ah, how fun~, how fun~♪』\n\nYet.\nGirl's sword dance stuck in head.\nIncomparable to past years, yet why.\n\nTurned back slowly after hesitation, right at climax.\nSerious gaze, beads of sweat on brow.\n\n『Cannot inherit master's art, yet master bestowing such joy is truly magnificent!』\n\nTightly gripped sword cut through air pleasantly.\nSmiling face turned back: full blooming cherry blossom—\nRecalled childhood that instant.\n\nCrude yet earnest young days.\nEach moment piling like strata.\nPast self overlapped with girl before eyes—\n\n\\\"I see, that's why she...\\\"\n\nEntrusted heart to dance and music.\nFelt someone else would draw energy from this girl tomorrow.",
     "30181": "\\\"Next up: 'Soshite Minnano'!\nFollow Turbo, everyoneee!!\\\"\n\n\\\"~Burn fire of dreams~\n~Sound goal's heartbeat~♪\\\"\n\n\\\"Even despairing, face forward and GO!\n...Um...? Um um,\n~Limits humming humming~~n♪\nTetereteretere~♪ Turbo's runaway escape!!\\\"\n\n\\\"(Oh... Turbo forgot lyrics?\nRoyce-san, Nature-san, our turn!)\\\"\n\n\\\"(Yeah, back her up!\nTurbo forgot A and B-melody lyrics often in practice...\nClear with instruments!)\\\"\n\n♪♪♪~~~♪~♪♪~\n♪♪~~♪♪♪♪~♪♪\nChaka chaka chaka chaka!\n\n\\\"Oho, sound got louder!\nHype it up more, right!?\nAlriiiight!\\\"\n\n\\\"Go go let's go! Oh-oh-oh!\nGo go let's go! Turbo is strong!\nGo go let's go-! Uoh-oh-oh!\nGo go Turbo full throttleee!!\\\"\n\n\\\"Why raise volume!?\nLyrics still wrong!\\\"\n\n\\\"Heh... tempo up? Nice!\nTurbo, match your passion!!\\\"\n\n\\\"Guh, fast... must keep up!\nEndure, Royce!\\\"\n\n\\\"Fingering insane! Fast fast!!\nSetting pace like that—\\\"\n\n\\\"A-Any number of times!\nFull throttleeee!!\nA-Any number of times!\nAny... *gasp* *pant*...!\nNever giving uuuuup!\n*pant* *wheeze*... Ehehehe!\\\"\n\n\\\"Uwoooooh Turbo,\nwon't loseeee!!\\\"\n\n\\\"Aaaah, knew it!\nEveryone going wild with Turbo, total chaos!!\\\"",
     "30192": "On grand stage where world's fierce contenders gather,\nthree sisters' \"pride\" overcame beloved rival.\n\n\"Hey now, Cheval-chi!\nWon't let you hide at edge~♡\"\n\n\"Vivlos is right, Cheval.\nCenter is position for star, no?\"\n\n\"...N-No, really.\nLike last time, one of you two should—\"\n\n\"No! Today's star is Cheval-chi!\"\n\n—Younger sister doesn't yield.\nBecause she watched older sister's hard work all along.\n\n\"Indeed. Stand proud.\n...If you won't come over, we'll come to you.\"\n\n—Older sister doesn't yield either.\nBecause she watched younger sister rise again and again.\n\n\"Eh... Eeeeeh!?\nW-Wait... both of you...!?\"\n\nCaught in middle, face turned red in fluster... she smiled shyly.\n\nThree embrace family with love.",
     "30198": "\"Filament\" connection.\n<Beep, Beep, Boop, Beep, Beep>\n\nIncrease \"Gain\"\n                 Can you \"hear\"?\n\n\n      Will \"FELT\" the \"Blessing\"\n<Beep, Beep, Boop>\n\n                      Transparent Hz\n\n        Fluctuation via materialization — Approved\n\nTransmitting with \"RCOL\"\n<Boop, Beep, Boop, Boop>\n\n<Boop, Boop>\n\n              Point of view, Error\n\n  Retransmission started\n                  Transmit, Retransmit\n<Boop, Boop, Beep, Boop, Boop>\n\n  Transmit\n              Transmit\n      Transmit\n                      Reach\n<Boop, Boop, Beep>\n\n\n\n    Because Neo Universe is \"happy\", too",
@@ -40094,7 +40349,10 @@
     "30318": "Spring, summer, autumn, winter—the turning of the seasons.\n\nSpring: A morning spent arranging bouquets of flowers\nblooming in the gentle, radiant sunlight.\n\nSummer: A midday run beneath the welcome rain,\neyes filled with the blue sky peeking between layers of clouds.\n\nAutumn: An evening with heart racing at nature's vibrant hues,\npicturing the crown of glory.\n\nWinter: A night dreaming of a wonderful spring\namid the snowbound silence.\n\nRight along with the seasons, the Umamusume turn round and round,\nshowing all their different sides.\nWon't you take a peek into these days of theirs, too?",
     "30319": "A moonlit night.\nAmid voices lamenting the close of the Holy Hoof Festival,\nthe driving force behind all the excitement was nowhere to be seen.\n\n\"...Oh, it's you.\"\n\nStanding alone by the corridor window, gazing down,\nNarita Brian spared me only a glance before looking back outside.\n\n\"Now that it's over, it feels so fleeting.\"\n\nJuggling the Student Council's routine duties alongside\nthe frantic preparations for the Holy Hoof Festival had finally ended.\nDaily life was returning.\n\nI'd already prepared a schedule allowing her to run to her heart's content.\nAll to satisfy, even if only a little, her unending thirst.\n\n\"Until next year, I suppose...\"\n\n\"...What?\nWhat's with that look in your eyes?\"\n\nDeep within Narita Brian's chest,\nthe fires of conflict blazed ever fiercely.\nYet the faint softening of her lips\nsurely wasn't just my imagination.\n\n\"Don't look at me like you know everything.\n...Hm?\"\n\nDown below, the Holy Hoof Festival sign hung at the school entrance\nwas just now being taken down.\nGazing upon the sight, Narita Brian's eyes\nseemed tinged with a quiet loneliness.\n\n\"Now it's truly over.\"\n\n\"...I'm starving. Hey, feed me some meat.\nIn exchange, I'll tell you what happened at the festival.\"\n\n\"It's not like you're busy anyway.\nNeither of us are.\"\n\nJust a little—truly, just a tiny bit—\nNarita Brian was more talkative than usual.\nSo I left my planner, packed to the brim with schedules,\nsleeping at the bottom of my bag.",
     "30320": "Please excuse the sudden letter.\nI wanted so badly to convey my gratitude\nthat I took up my pen to write this.\n\nThe other day's Holy Hoof Festival was truly wonderful.\nYou in that dress, Alve-san,\nlooked so dignified and magnificent... I was utterly captivated.\nTo experience such a marvelous event\nfilled my heart with profound emotion.\n\nAnd there is one more thing.\nIt might have been my imagination, but...\nI caught an unexpected side of you, Alve-san.\n\nJust as everyone was heading behind the festival booth,\nAir Groove-san said something to you...\nand in that fleeting moment,\n\nit looked as though you smiled.\n\nUnlike how you appear during races,\nyou looked so at ease, letting your guard down...\nand in that moment, I thought to myself:\nPerhaps Alve-san is truly enjoying\nthis Holy Hoof Festival, too.\n\n...Still, I cannot be certain it was real.\nPerhaps I was merely enchanted\nby you that day—or so I wonder.\n\nEven so, it was a truly blissful time.\nEnough to make me feel, from the bottom of my heart,\nthat I want to keep watching you run.\nI will be rooting for you in your next race.\nWishing you every happiness, Alve-san.",
-    "30321": "\"Oho—\nSo you, too, desire to become our kin?\"\n\nHer commanding gaze pierced right through me.\n\nAn aura radiating from her entire being, intense enough to make the air tremble.\nA powerful physique that captivated the hearts of all who beheld her.\nTruly like an otherworldly maiden descended upon this mortal realm—\n\n\"Then seal the covenant here and now.\nDrink dry this crimson nectar,\nand pledge your loyalty to us.\nAnd when you do—\"\n\nShe extended a single hand, beckoning me.\nSo breathtaking, right to the tips of her fingers,\nthat my heart couldn't help but race.\n\n\"I, the “strongest” of our kin—\nshall acknowledge you as one of my own.\"\n\nThere was no way to resist.\nThat temptation was akin to sheer “violence.”"
+    "30321": "\"Oho—\nSo you, too, desire to become our kin?\"\n\nHer commanding gaze pierced right through me.\n\nAn aura radiating from her entire being, intense enough to make the air tremble.\nA powerful physique that captivated the hearts of all who beheld her.\nTruly like an otherworldly maiden descended upon this mortal realm—\n\n\"Then seal the covenant here and now.\nDrink dry this crimson nectar,\nand pledge your loyalty to us.\nAnd when you do—\"\n\nShe extended a single hand, beckoning me.\nSo breathtaking, right to the tips of her fingers,\nthat my heart couldn't help but race.\n\n\"I, the “strongest” of our kin—\nshall acknowledge you as one of my own.\"\n\nThere was no way to resist.\nThat temptation was akin to sheer “violence.”",
+    "10149": "I am Azuma, shrine maiden of the Goshiki Shuntaisai.\nLet us protect, cherish, and pass on the bond between\nUmamusume and mankind... to the next generation.",
+    "30322": "\"The final jewel of the Classic Triple Crown—\nand they're off!\"\n\nThe last time I saw her burst boldly from the gates\nwas back during the spring races.\n\nImpeccable positioning, as though she could\noversee the entire racecourse at a glance.\nAnd an extraordinary racing instinct that never misjudged\nher moment to strike.\n\nYet, on the third corner.\nThe moment she surged into the lead...\nI saw a cloud pass over her expression.\nAnd with that, the brilliant shine she had shown until then\nbegan to fade—\n\nBefore the finish line, girls charging up from the outside\nedged her out, leaving her in third place.\n\nHad she lost focus?\nAs she walked off the turf, her expression seemed to show\nless disappointment over losing the race\nthan frustration over something else entirely.\n\n—Was that brilliant spark just an illusion?\nI remember wondering that.\n\nYet now, as she rounds\nthe final corner—\n\n\"Who... is that—?\"\n\nHer innate flair for running is just as I saw in spring.\nAnd yet, her expression is completely different.\nAs she took the lead, her eyes were\nsparkling with pure brilliance.\n—Gazing far beyond the finish line.\n\n\"How... gorgeous...\"\n\nDown the final straight, running at the very front,\nher radiance showed no hint of dimming as it had in spring.\nAnd then—\n\n\"—Across the finish line!\nMayano Top Gun claims the Kikuka Sho!\nAnd with it, a joyful blown kiss!\"\n\nWhat happened to her?\nDuring the summer she spent?\nBeyond the horizon of her gaze?\n\n\"—Maya gets it all now!\"\n\nI didn't understand the meaning\nbehind her words one bit.\nEven so—\n\nSeeing the record-breaking time just posted on the board,\nI knew.\n\nShe had truly taken flight at that very moment.",
+    "30323": "Before the altar of the exalted and holy spirits,\nwe do solemnly perform this sacred rite.\n\nUpon their backs, the divine steeds bear wishes and human dreams;\ncherishing vast aspirations and striving to fulfill them,\ndo they gallantly gallop forth.\n\nGuiding by their side are the guiding reins, leading toward a brilliant tomorrow;\nforging bonds deep and unyielding,\ncome now, come forth, let them journey onward.\n\nLooking up with reverent devotion to the grand grace of the exalted spirits,\nmost humbly, most earnestly do we pray.\n\nWatch over their future path;\nlet them dwell together in harmony and flourish;\ngrant them fortune and joy for ages everlasting."
   },
   "91": {
     "1": "Team Sirius",
@@ -41026,7 +41284,8 @@
     "114401": "Rose Kingdom's Piece",
     "101703": "Symboli Rudolf's Piece",
     "101803": "Air Groove's Piece",
-    "110802": "Duramente's Piece"
+    "110802": "Duramente's Piece",
+    "100903": "Daiwa Scarlet Pieces"
   },
   "114": {
     "100000": "A piece of the selected horsegirl. \nCan be used to unlock or develop talents.",
@@ -41300,7 +41559,8 @@
     "114401": "Used to unlock Trainees or trigger Talent Blossoming.\nA character-specific Piece formed from the crystallization of her wishes.",
     "101703": "Used to unlock Trainee Umamusume or for Star Blossoming.\nA special piece that crystallizes each Trainee Umamusume's wishes.",
     "101803": "Used to unlock Trainee Umamusume or for Star Blossoming.\nA special piece that crystallizes each Trainee Umamusume's wishes.",
-    "110802": "Used to unlock Trainees or awaken talents.\nA special piece embodying a Trainee's crystallized wishes."
+    "110802": "Used to unlock Trainees or awaken talents.\nA special piece embodying a Trainee's crystallized wishes.",
+    "100903": "Used to unlock or star blossom Trainee Umamusume.\nA special piece formed from the crystallized wishes of each Trainee Umamusume."
   },
   "119": {
     "1": "Founding of the URA Finale!",
@@ -41316,7 +41576,8 @@
     "11": "Welcome to the Wilds\n—DESIGN YOUR ISLAND—",
     "12": "The Heavenly Yukoma Hot Springs♪",
     "13": "Beyond Dreams\n—Towards the Light, Together—",
-    "14": "Welcome to Tracen Ramen!\n～A Thank-You to Fans～"
+    "14": "Welcome to Tracen Ramen!\n～A Thank-You to Fans～",
+    "15": "Companions, Deciphering History\n—Goshiki Shuntaisai—"
   },
   "120": {
     "1": "With an outrageous declaration, young academy director Akikawa establishes a new race named the <color=#FF6D26>URA Finale</color>! Trainers and horsegirls work hand in hand to become its maiden champion!",
@@ -41332,7 +41593,8 @@
     "11": "$(scale 95)The Uninhabited Island Project was the result of taking a chance on Tucker Brine's dream, passionate horsegirls, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training site ever!",
     "12": "$(scale 95)The horsegirls' busy lives are interrupted by an invitation to a soothing experience at the <color=#FF6D26>Yukoma hot spring village</color>. But the village has fallen on hard times…!? Rest and peaceful relaxation are important to well-being!",
     "13": "$(scale 95)The Breeders' Cup. Having once challenged this most massive of G1s on the world stage, Casino Drive seeks victory there with a new campaign. A trial of truly global proportions begins, each horsegirl holding her own desires!",
-    "14": "$(scale 95)Repay fans in ramen! A few horsegirls came up with the idea, and with the help of Light Hello and Hayakawa Tazuna, entrance curtains bearing the Tracen name were soon a common sight across the country!"
+    "14": "$(scale 95)Repay fans in ramen! A few horsegirls came up with the idea, and with the help of Light Hello and Hayakawa Tazuna, entrance curtains bearing the Tracen name were soon a common sight across the country!",
+    "15": "The once-every-twelve-years festival, <color=#FF6D26>\"Goshiki Shuntaisai\"</color>.\nSeveral Umamusume have been appointed to the special ceremonial role of Shinme.\nThe festival maiden speaks: \"For the bonds between Umamusume and humankind.\"\nThus begins a tale connecting the ancient past... to the future."
   },
   "121": {
     "1": "Debut",
@@ -41553,7 +41815,8 @@
     "8508": "An autumn track from Derby Stallion: Masters.\nIts melancholic melodies evoke the rustling of beautiful autumn foliage.",
     "8509": "A winter track from Derby Stallion: Masters.\nIts delicate melody evokes a winter dawn painted in pure silver.",
     "8510": "BGM played during Super Decisive Battles in Derby Stallion: Masters.\nA stirring track that captures the heat of an intense, determined clash.",
-    "1212": "A laid-back track featuring the Umamusume having so much fun and cutting loose that they're practically growing turf www. Give it a listen, and a smile might sprout on your face, too!?"
+    "1212": "A laid-back track featuring the Umamusume having so much fun and cutting loose that they're practically growing turf www. Give it a listen, and a smile might sprout on your face, too!?",
+    "1195": "Dance, wish, sing, and pray—until our feelings reach the heavens.\nMay your name resonating upon the stage bring light unto this land."
   },
   "130": {
     "1": "Rainy Girl",
@@ -41947,7 +42210,15 @@
     "405": "Indomitable Phalaenopsis",
     "406": "Cornerstone of the Rose Clan",
     "237": "Queen of Dance",
-    "280": "Superhero"
+    "280": "Superhero",
+    "407": "Full-Fledged Divine Steed",
+    "408": "Practitioner of the Arts",
+    "409": "Weaver of Human Bonds",
+    "410": "Arrow of Godspeed",
+    "411": "Honor of the First Banner",
+    "412": "Sky-Ascending Dance",
+    "413": "Hauler of Abundance",
+    "414": "Conqueror of Countless Barriers"
   },
   "131": {
     "1": "Enter a race with rainy weather ≥4 times \nWin 3 of them",
@@ -42344,7 +42615,15 @@
     "403": "Win the Mainichi Hai, Satsuki Sho, Tokyo Yushun (Japanese Derby), Kikuka Sho, Takarazuka Kinen, Tenno Sho (Autumn), Japan Cup, and Arima Kinen; and reach 1200+ Wit.",
     "404": "Win the Satsuki Sho, Tokyo Yushun (Japanese Derby), Kikuka Sho, and Japan Cup (Senior Class); and reach 1200+ Power.",
     "405": "Win the Oka Sho, Japanese Oaks, Shuka Sho,\nand Queen Elizabeth II Cup (Senior Year),\nand reach 1200 or higher in Guts",
-    "406": "Inherit inspiration from legacy Umamusume, at least one of whom won no GⅠ races during training, win the Asahi Hai FS and Japan Cup (Classic), and reach 480,000 or more fans"
+    "406": "Inherit inspiration from legacy Umamusume, at least one of whom won no GⅠ races during training, win the Asahi Hai FS and Japan Cup (Classic), and reach 480,000 or more fans",
+    "407": "Achieve a Great Success in the Goshiki Shuntaisai\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "408": "Carry out Program Rehearsal and succeed 30 times in total\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "409": "Achieve Great Success in all Progress Presentations and the Goshiki Shuntaisai\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "410": "Carry out Yabusame Program Rehearsal and succeed 7 times\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "411": "Carry out Sacred Flag Contest Program Rehearsal and succeed 7 times\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "412": "Carry out Votive Dance Program Rehearsal and succeed 7 times\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "413": "Carry out Grand Mikoshi Haul Program Rehearsal and succeed 7 times\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\"",
+    "414": "Carry out Soaring Gallop Program Rehearsal and succeed 7 times\n*Exclusive to \"Friends, Unraveling History: The Goshiki Shuntaisai\""
   },
   "133": {
     "1": "Garlands",
@@ -43470,7 +43749,57 @@
     "188": "Enjoying the Island",
     "189": "Flyer Distribution",
     "190": "Hot Spring Tour",
-    "191": "Water Foot-mixing Show"
+    "191": "Water Foot-mixing Show",
+    "192": "Yabusame",
+    "193": "Yabusame",
+    "194": "Yabusame",
+    "195": "Yabusame",
+    "196": "Yabusame",
+    "197": "Yabusame",
+    "198": "Yabusame",
+    "199": "Yabusame",
+    "200": "Yabusame",
+    "201": "Yabusame",
+    "202": "Sacred Flag Contest",
+    "203": "Sacred Flag Contest",
+    "204": "Sacred Flag Contest",
+    "205": "Sacred Flag Contest",
+    "206": "Sacred Flag Contest",
+    "207": "Sacred Flag Contest",
+    "208": "Sacred Flag Contest",
+    "209": "Sacred Flag Contest",
+    "210": "Sacred Flag Contest",
+    "211": "Sacred Flag Contest",
+    "212": "Votive Dance",
+    "213": "Votive Dance",
+    "214": "Votive Dance",
+    "215": "Votive Dance",
+    "216": "Votive Dance",
+    "217": "Votive Dance",
+    "218": "Votive Dance",
+    "219": "Votive Dance",
+    "220": "Votive Dance",
+    "221": "Votive Dance",
+    "222": "Grand Mikoshi Haul",
+    "223": "Grand Mikoshi Haul",
+    "224": "Grand Mikoshi Haul",
+    "225": "Grand Mikoshi Haul",
+    "226": "Grand Mikoshi Haul",
+    "227": "Grand Mikoshi Haul",
+    "228": "Grand Mikoshi Haul",
+    "229": "Grand Mikoshi Haul",
+    "230": "Grand Mikoshi Haul",
+    "231": "Grand Mikoshi Haul",
+    "232": "Soaring Gallop",
+    "233": "Soaring Gallop",
+    "234": "Soaring Gallop",
+    "235": "Soaring Gallop",
+    "236": "Soaring Gallop",
+    "237": "Soaring Gallop",
+    "238": "Soaring Gallop",
+    "239": "Soaring Gallop",
+    "240": "Soaring Gallop",
+    "241": "Soaring Gallop"
   },
   "139": {
     "1": "Impressive! You two are \na simply wonderful pairing…!!",
@@ -43512,7 +43841,11 @@
     "41": "The day your dream comes within reach is just around the corner!\nI'd expect nothing less from you, Trainer.",
     "42": "Word of your success is spreading\nall throughout Tracen Academy!",
     "43": "Personally, I'm really looking forward\nto seeing you two grow together♪",
-    "44": "Keep working side by side and\ncontinue to grow together, okay?"
+    "44": "Keep working side by side and\ncontinue to grow together, okay?",
+    "45": "—May the bond between you two\nendure forever and always.",
+    "46": "The history you forged together\nshall serve to guide future generations.",
+    "47": "May the path that lies ahead of you...\nbe filled with radiant light.",
+    "48": "Wisdom, prayers—\nall that can be bestowed shall be granted unto you all."
   },
   "140": {
     "1": "Big gap",
@@ -43759,7 +44092,9 @@
     "42": "Mental Guard",
     "43": "Recovery Spirit",
     "44": "Impatient Feet",
-    "46": "Gallant Leap Toward the Cherished Dream"
+    "46": "Gallant Leap Toward the Cherished Dream",
+    "45": "Fatigue Recovery",
+    "47": "Supportive Aid"
   },
   "143": {
     "1": "Tends to stay up late at night. \nMay lose energy due to lack of sleep.",
@@ -43810,7 +44145,9 @@
     "43": "Ready to bounce back! Protects against a negative\ncondition once, then this condition expires.",
     "44": "A Mile race is too fast-paced to handle! I just wanna go home...\nAgitation causes stumbling feet, preventing full effort in Mile races.",
     "104": "Enables Friendship Training with the Living Legend,\nand prevents becoming 'Prone to Late Nights' or 'Slacker.'",
-    "46": "Shouldering the unbroken wish of her clan and the hopes of those who supported her,\nshe unleashes her full power to claim a special crown."
+    "46": "Shouldering the unbroken wish of her clan and the hopes of those who supported her,\nshe unleashes her full power to claim a special crown.",
+    "45": "Pacing yourself in training is key! When Energy drops below a certain amount,\nEnergy will be restored once at the start of a turn.",
+    "47": "A wondrous power granted by Umamusume with supportive teachings.\nSlightly increases training effectiveness up to 3 times."
   },
   "144": {
     "1001": "Gonne do me best! A naive country girl beelining to her dream.",
@@ -43972,7 +44309,8 @@
     "9049": "Pushing ahead with fiery passion,\ndesert island project manager.",
     "9050": "Hot spring goddess who\nmastered pure relaxation.",
     "1149": "Cleaving through shackles, blooming fiercely—\na flower of the battlefield.",
-    "1144": "Shouldering the clan's cherished dream,\nthe Prince of Roses"
+    "1144": "Shouldering the clan's cherished dream,\nthe Prince of Roses",
+    "9052": "Praying for an Everlasting Bond\nA Guide Once Every Twelve Years"
   },
   "147": {
     "101": "Speed",
@@ -46530,7 +46868,34 @@
     "2048003": "Unprecedented",
     "11080201": "And So the Inherent Blood Awakens",
     "11080202": "And So the Inherent Blood Awakens",
-    "11080203": "Thus Awakens the Blood Within"
+    "11080203": "Thus Awakens the Blood Within",
+    "2047301": "Smooth Move",
+    "2047302": "Smooth Move",
+    "2047303": "Smooth Move",
+    "2047401": "Intuition",
+    "2047402": "Intuition",
+    "2047403": "Intuition",
+    "2047501": "Upper Hand",
+    "2047502": "Upper Hand",
+    "2047503": "Upper Hand",
+    "2047601": "Every Last Drop",
+    "2047602": "Every Last Drop",
+    "2047603": "Every Last Drop",
+    "2048101": "Carving the Arc",
+    "2048102": "Carving the Arc",
+    "2048103": "Carving the Arc",
+    "2048901": "Impulsive Fire",
+    "2048902": "Impulsive Fire",
+    "2048903": "Impulsive Fire",
+    "2104001": "Call from Beyond",
+    "2104002": "Call from Beyond",
+    "2104003": "Call from Beyond",
+    "3103101": "Goshiki Shuntaisai Scenario",
+    "3103102": "Goshiki Shuntaisai Scenario",
+    "3103103": "Goshiki Shuntaisai Scenario",
+    "10090301": "Peerless Draw",
+    "10090302": "Peerless Draw",
+    "10090303": "Peerless Draw"
   },
   "148": {
     "1": "Ace Bonus",
@@ -46940,7 +47305,9 @@
     "30318": "Round and Round: Tracen Days",
     "30319": "The Banquet",
     "30320": "Cold, Dignified Bisque Doll",
-    "30321": "The “Strongest” Kin"
+    "30321": "The “Strongest” Kin",
+    "30323": "How truly wondrous, this festival of ours",
+    "30322": "Time of Departure"
   },
   "151": {
     "1": "Friendship Bonus",
@@ -47633,7 +48000,9 @@
     "30318": "Increases Training Effectiveness if 4 or more Support Card types are in the deck",
     "30319": "When Bond Gauge is 80 or higher, Training\nEffectiveness Up and Hint Count Up",
     "30320": "Friendship Bonus and Wit Bonus when Friendship over 80.",
-    "30321": "Training Bonus and Power Bonus when Friendship over 80."
+    "30321": "Training Bonus and Power Bonus when Friendship over 80.",
+    "30322": "Increases training effectiveness if there are 4 or more types of Support Cards in your deck",
+    "30323": "Speed Bonus and Stamina Bonus\nwhen Bond Gauge is at 60 or higher"
   },
   "157": {
     "1001": "May 2",
@@ -47794,7 +48163,8 @@
     "1145": "May 15",
     "1146": "March 10",
     "1149": "April 4",
-    "1144": "May 10"
+    "1144": "May 10",
+    "9052": "Unknown"
   },
   "159": {
     "1001": "Betweener",
@@ -48163,7 +48533,8 @@
     "9049": "Name is Tucker Brine! Wishing further leaps\nfor umamusume, launched Deserted Island Project!\nNow, unleash instincts!",
     "9050": "Landlady of Yukoma Ryokan, Keiko Hoshina.\nHot springs good for fatigue and injury.\nIndeed, health comes first... oh no, hohoho!",
     "1149": "I am Phalaenopsis. What matter any hardship\nor misfortune that befalls me? To repay the kindness\nof days past, I shall overpower all in my path.",
-    "1144": "I am Rose Kingdom. A member of the Rose Clan, and the one who shall fulfill its cherished dream.\n...I look forward to your support."
+    "1144": "I am Rose Kingdom. A member of the Rose Clan, and the one who shall fulfill its cherished dream.\n...I look forward to your support.",
+    "9052": "I am Azuma, shrine maiden of the Shuntaisai.\nLet us protect and honor the bonds between Umamusume and humans,\nand pass them down... to the next generation."
   },
   "164": {
     "1001": "Giving in-depth food critiques",
@@ -49160,7 +49531,8 @@
     "9049": "Tucker Brine",
     "9050": "Hoshina Kiyoko",
     "9051": "Yunohana Bloom",
-    "1101": "Samson Big"
+    "1101": "Samson Big",
+    "9052": "Azuma"
   },
   "171": {
     "12": "Login Bonus",
@@ -51935,7 +52307,34 @@
     "2048003": "A factor that grants hints for the skill \"Unprecedented\".",
     "11080201": "A factor that increases max Speed, Guts, and Wisdom,\nand grants hints for the skill \"Thus Awakens the Blood Within\".",
     "11080202": "A factor that increases max Speed, Guts, and Wisdom,\nand grants hints for the skill \"Thus Awakens the Blood Within\".",
-    "11080203": "A factor that increases max Speed, Guts, and Wisdom,\nand grants hints for the skill \"Thus Awakens the Blood Within\"."
+    "11080203": "A factor that increases max Speed, Guts, and Wisdom,\nand grants hints for the skill \"Thus Awakens the Blood Within\".",
+    "2047301": "A factor that grants skill hints for \"Smooth Move.\"",
+    "2047302": "A factor that grants skill hints for \"Smooth Move.\"",
+    "2047303": "A factor that grants skill hints for \"Smooth Move.\"",
+    "2047401": "A factor that grants skill hints for \"Intuition.\"",
+    "2047402": "A factor that grants skill hints for \"Intuition.\"",
+    "2047403": "A factor that grants skill hints for \"Intuition.\"",
+    "2047501": "A factor that grants skill hints for \"Upper Hand.\"",
+    "2047502": "A factor that grants skill hints for \"Upper Hand.\"",
+    "2047503": "A factor that grants skill hints for \"Upper Hand.\"",
+    "2047601": "A factor that grants skill hints for \"Every Last Drop.\"",
+    "2047602": "A factor that grants skill hints for \"Every Last Drop.\"",
+    "2047603": "A factor that grants skill hints for \"Every Last Drop.\"",
+    "2048101": "A factor that grants skill hints for \"Carving the Arc.\"",
+    "2048102": "A factor that grants skill hints for \"Carving the Arc.\"",
+    "2048103": "A factor that grants skill hints for \"Carving the Arc.\"",
+    "2048901": "A factor that grants skill hints for \"Impulsive Fire.\"",
+    "2048902": "A factor that grants skill hints for \"Impulsive Fire.\"",
+    "2048903": "A factor that grants skill hints for \"Impulsive Fire.\"",
+    "2104001": "A factor that grants skill hints for \"Call from Beyond.\"",
+    "2104002": "A factor that grants skill hints for \"Call from Beyond.\"",
+    "2104003": "A factor that grants skill hints for \"Call from Beyond.\"",
+    "3103101": "A factor that increases Stamina and Wisdom.",
+    "3103102": "A factor that increases Stamina and Wisdom.",
+    "3103103": "A factor that increases Stamina and Wisdom.",
+    "10090301": "A factor that increases maximum Stamina, Power, and Wisdom,\nand grants skill hints for \"Peerless Draw.\"",
+    "10090302": "A factor that increases maximum Stamina, Power, and Wisdom,\nand grants skill hints for \"Peerless Draw.\"",
+    "10090303": "A factor that increases maximum Stamina, Power, and Wisdom,\nand grants skill hints for \"Peerless Draw.\""
   },
   "173": {
     "1139": "Tracen Academy \"DREAMS\" Supervisor",
@@ -51954,7 +52353,8 @@
     "9048": "Active Idol",
     "9050": "Proprietress",
     "9046": "Patron",
-    "9049": "Deserted Island PJ Leader"
+    "9049": "Deserted Island PJ Leader",
+    "9052": "Shrine Maiden"
   },
   "174": {
     "9004": "Happy Meek",
@@ -52188,7 +52588,8 @@
     "9049": "Tucker Brine",
     "9050": "Hoshina Kiyoko",
     "9051": "Yunohana Bloom",
-    "1101": "Samson Big"
+    "1101": "Samson Big",
+    "9052": "Azuma"
   },
   "186": {
     "1": "Raise the lvl of your support cards \nto get a support bonus!",
@@ -52873,7 +53274,16 @@
     "1122": "Autumn GⅠ Missions Part 1\nKikuka Sho",
     "1138": "Attempts UP",
     "1140": "Factor Re-Roll Count Up",
-    "1141": "Rental Count Up"
+    "1141": "Rental Count Up",
+    "1123": "Autumn GⅠ Commemorative Missions Part 2\nTenno Sho (Autumn)",
+    "1124": "Autumn GⅠ Commemorative Missions Part 2\nJBC 2026",
+    "1125": "Autumn GⅠ Commemorative Missions Part 2\nQueen Elizabeth II Cup",
+    "1142": "New Scenario Release Commemorative Missions",
+    "1143": "Reward Drops UP",
+    "1144": "1/2 TP Cost",
+    "1145": "Hot Springs Ticket Rate UP",
+    "1146": "1/2 Rental Cost for Legacy Umamusume",
+    "1147": "Free Continues UP"
   },
   "188": {
     "1": "Items obtained in Careers doubled.",
@@ -53330,7 +53740,12 @@
     "1135": "Increases the number of daily replenished tickets by 1.",
     "1138": "Increases daily replenished tickets by 3.",
     "1140": "Once per training run, you can re-roll factors\none additional time without consuming TP,\nin addition to the normal re-roll.",
-    "1141": "Legacy Umamusume rental limit increased by 5."
+    "1141": "Legacy Umamusume rental limit increased by 5.",
+    "1143": "Doubles the amount of eligible items obtained during training",
+    "1144": "Halves the TP cost required to start training",
+    "1145": "Increases the win rate for Hot Springs Tickets\n*Only applies to designated scenarios\n　with the \"Hot Springs Trip\" event",
+    "1146": "Halves the Money cost required to rent\nLegacy Umamusume when starting training",
+    "1147": "Grants 2 additional free continues"
   },
   "189": {
     "1001": "Chase Your Dreams",
@@ -56514,7 +56929,8 @@
     "1119": "Radio: \"Umamusume's All Night Nippon GOLD\"\nAvailable on radiko's Time Free feature\nuntil Fri, Oct 2!",
     "1120": "Electrifying the world's pinnacle motorcycle race!\nA 155-meter mega display board graces the circuit!",
     "1118": "The anime featuring pint-sized Umamusume,\n\"Umayuru: Full Gate!\",\nis now streaming on PakaTube!♪",
-    "1122": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nArchive streaming available until Nov 8 & 9!"
+    "1122": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nArchive streaming available until Nov 8 & 9!",
+    "1121": "Umamusume × Suntory Vending Machine Collab Part 2\nCollab campaign is live—win a 2-way acrylic stand!\nCheck the campaign page for details!"
   },
   "197": {
     "43": "10 Jewels restore 1 RP."
@@ -56585,7 +57001,13 @@
     "97": "Some events will change in the main scenario.\nEven if not equipped in your support card deck,\nyou will join Team Tracen-ken through specific events.",
     "98": "Some events will change in the main scenario.\nEven if not equipped in your support card deck,\nyou will join Team Tracen-ken through specific events.",
     "100": "Certain events in the Main Scenario will change.\nThey will join Team Tracen House through specific events\neven if not placed in your Support Card deck.",
-    "101": "They will assist with training as the Main Scenario progresses."
+    "101": "They will assist with training as the Main Scenario progresses.",
+    "103": "Certain events in the Main Scenario will change.\nEven if not in your Support Deck,\nthey will become a Performance Lead through specific events.\nThey are guaranteed to be the Yabusame Performance Lead.",
+    "104": "Certain events in the Main Scenario will change.\nEven if not in your Support Deck,\nthey will become a Performance Lead through specific events.\nThey are guaranteed to be the the Votive Dance Performance Lead.",
+    "105": "Certain events in the Main Scenario will change.\nEven if not in your Support Deck,\nthey will become a Performance Lead through specific events.\nThey are guaranteed to be the the Grand Mikoshi Haul Performance Lead.",
+    "106": "Certain events in the Main Scenario will change.\nEven if not in your Support Deck,\nthey will become a Performance Lead through specific events.\nThey are guaranteed to be the the Sacred Flag Contest Performance Lead.",
+    "107": "Certain events in the Main Scenario will change.\nEven if not in your Support Deck,\nthey will become a Performance Lead through specific events.\nThey are guaranteed to be the Soaring Gallop Performance Lead.",
+    "108": "As the Main Scenario progresses,\nthey will begin to assist with training."
   },
   "199": {
     "21": "Improves some events.",
@@ -56644,7 +57066,11 @@
     "96": "Boosts the effects of certain events.",
     "97": "Boosts the effects of certain events.",
     "98": "Boosts the effects of certain events.",
-    "100": "Boosts the effects of certain events."
+    "100": "Boosts the effects of certain events.",
+    "103": "Increases the effectiveness of certain events.",
+    "104": "Increases the effectiveness of certain events.",
+    "105": "Increases the effectiveness of certain events.",
+    "106": "Increases the effectiveness of certain events."
   },
   "200": {
     "11": "Improves some events.",
@@ -56718,7 +57144,13 @@
     "99": "Boosts the effects of certain events.\nWhen joining as a team member, they will appear\nin the same training as their Support Card.",
     "100": "Boosts the effects of certain events.",
     "101": "Boosts the effects of certain events.\nIncreases Basics Gauge gain.\nFurther increases Basics Gauge gain during Summer Camp.\nWhen SSR [A Cup of Nostalgia] Tazuna Hayakawa is in your deck, the following additional effects apply:\n・Further increases Basics Gauge gain\n・Further increases Basics Gauge gain during Summer Camp\n・Increases Hint Level gain after selecting a region",
-    "102": "Boosts the effects of certain events.\nIncreases Basics Gauge gain.\nFurther increases Basics Gauge gain during Summer Camp."
+    "102": "Boosts the effects of certain events.\nIncreases Basics Gauge gain.\nFurther increases Basics Gauge gain during Summer Camp.",
+    "103": "Increases the effectiveness of certain events.",
+    "104": "Increases the effectiveness of certain events.",
+    "105": "Increases the effectiveness of certain events.",
+    "106": "Increases the effectiveness of certain events.",
+    "107": "Increases the effectiveness of certain events.",
+    "108": "Increases the effects of certain events.\nWill prioritize appearing in Ritual Practice\nwith 4 or fewer participating Umamusume.\nWhen SSR [Ever Celebrated Festival] Azuma\nis in your deck, the Ritual Lv. cap is increased."
   },
   "206": {
     "1": "Taurus Cup",
@@ -58459,7 +58891,8 @@
     "9": "Mecha",
     "11": "Island",
     "12": "Hot Springs",
-    "14": "Tracen-ken"
+    "14": "Tracen-ken",
+    "15": "Shuntaisai"
   },
   "238": {
     "1001": "Speed +3",
@@ -58781,7 +59214,8 @@
     "1157": "Complete any of the following conditions:\n◆ [Career] View \"Yukoma Hot Springs, Always & Forever\" in \"Heavenly♪ Yukoma Hot Springs\"\n◆ [Career] View \"Pyoi-ya! Grand Banquet!\" in \"Heavenly♪ Yukoma Hot Springs\"",
     "1177": "Complete any of the following conditions:\n◆ [Career] Place 1st in the BC Turf Sprint\n◆ [Career] Place 1st in the BC Mile\n◆ [Career] Place 1st in the BC Filly & Mare Turf\n◆ [Career] Place 1st in the BC Turf\n◆ [Career] Place 1st in the BC Sprint\n◆ [Career] Place 1st in the BC Filly & Mare Sprint\n◆ [Career] Place 1st in the BC Dirt Mile\n◆ [Career] Place 1st in the BC Distaff\n◆ [Career] Place 1st in the BC Classic",
     "1181": "◆ [Career] Host the Super Ramen Jamboree Kiwami",
-    "1193": "◆ [Extra] View Episode 3 of \"5.5th Anniversary\""
+    "1193": "◆ [Extra] View Episode 3 of \"5.5th Anniversary\"",
+    "1195": "◆ [Career] Hold the Goshiki Shuntaisai"
   },
   "253": {
     "1001": "Please listen to Falko's thank you message \nafter the birthday live!"
@@ -78348,7 +78782,88 @@
     "830067006": "The Monarch's Pride",
     "830095001": "It'll All Turn Out Fine",
     "830095002": "Re: START!",
-    "830095003": "You Are Me"
+    "830095003": "You Are Me",
+    "400015000": "The Season Draws Near —Goshiki Shuntaisai—",
+    "400015001": "Receiving Guidance: The Workshop",
+    "400015002": "Tutorial",
+    "400015003": "Come, Impart the Teachings!",
+    "400015004": "Year 1: Shuntaisai Training Camp Begins!",
+    "400015005": "That Too Is Part of the Ritual",
+    "400015006": "Year 1: Shuntaisai Training Camp Ends",
+    "400015007": "The Annual Shuntaisai, the Twelve-Year Horse Festival",
+    "400015008": "The 1st Progress Presentation Begins!",
+    "400015009": "The 1st Progress Presentation Concludes!",
+    "400015010": "The Next Teaching",
+    "400015011": "What Ancient History Unravels Is,",
+    "400015012": "Such Is the \"Origin\"!",
+    "400015013": "Umamusume and Humankind",
+    "400015014": "Year 2: Shuntaisai Training Camp Begins!",
+    "400015015": "Deciphering History Begins",
+    "400015016": "Year 2: Shuntaisai Training Camp Ends",
+    "400015017": "The Chime of the Bells",
+    "400015018": "The 2nd Progress Presentation Begins!",
+    "400015019": "The 2nd Progress Presentation Concludes!",
+    "400015020": "Not as the Past, but as the Present",
+    "400015021": "Year 3: Shuntaisai Training Camp Begins!",
+    "400015022": "A Heart Arrived Upon",
+    "400015023": "Year 3: Shuntaisai Training Camp Ends",
+    "400015024": "A Moment Before the Main Stage",
+    "400015025": "Goshiki Shuntaisai, Commences",
+    "400015026": "Calling Your Name",
+    "400015027": "After the Festival",
+    "400015028": "Bonds Reside Here",
+    "400015029": "Rehearsing Rites for the Future",
+    "400015030": "What the Calling Voice Yields Is Miracles and Love,",
+    "400015031": "Farewell, with Leave Taken",
+    "400015100": "Azuma's Evaluation Up",
+    "400015101": "Azuma's Evaluation Up",
+    "400015102": "Azuma's Evaluation Up",
+    "400015103": "Azuma's Evaluation Up",
+    "400015104": "Shuntaisai Training Camp Proposal",
+    "400015105": "Revisiting the Teachings",
+    "400015106": "Extra Rehearsal",
+    "400015107": "Preparing for Practice, Step by Step",
+    "400015108": "Special Extension!",
+    "400015109": "Take Care of Yourself!",
+    "400015110": "Hint for Growth",
+    "400015300": "Umamusume Walk Hand in Hand",
+    "400015301": "Cherishing Wishes, Beside the People",
+    "400015302": "Joining Hands Toward a Brighter Path",
+    "400015303": "Aiming for the Best Future",
+    "400015304": "Crossing Paths as Swiftly as the Wind",
+    "400015305": "Permeating as Gently as the Forest",
+    "400015306": "Surging as Fiercely as Fire",
+    "400015307": "Standing as Steadfast as the Mountain",
+    "400015308": "A Reward: Perfect Weather for an Outing☆",
+    "400015309": "Secretly Tucked Inside the Sleeve",
+    "400015310": "Toward Where the Elegant Dancing Fingers Point",
+    "400015311": "Concealed, Yet at That Age",
+    "400015312": "A Lucky Charm♪ Classic Cosmetics",
+    "400015313": "Do Come by and Visit",
+    "400015314": "Returning Home in Glory",
+    "400015315": "The Constellations Carry On",
+    "501009803": "Chasing After Mama",
+    "501009804": "A Message from Mama",
+    "501009805": "Acknowledging Each Other",
+    "800001003": "A Moment of Rest",
+    "809052001": "Azuma, the Exquisite Maiden",
+    "809052002": "The Heart Within...",
+    "809052003": "Seeking a New Tome",
+    "809052004": "Seeking a New Tome",
+    "809052011": "Thus I Chronicle the Days",
+    "809052012": "Fleeting and Hard to Chase",
+    "809052013": "Tracing the Present Together",
+    "809052014": "Through Seasons Passed, Bonds Remain",
+    "809052015": "Though Transient as Bubbles—",
+    "809052021": "Bonds with Azuma: In the New Year",
+    "809052022": "Until the Day Our Paths Cross Again",
+    "809052023": "Praying for Happiness in Solitude",
+    "809052031": "Believing and Watching Over Your Steps",
+    "809052032": "A Radiant Partnership",
+    "809052033": "To Those Who Never Cease Moving Forward",
+    "830322001": "Gods and Buddhas, Great Mayano-sama",
+    "830322002": "What Everyone Needs",
+    "830322003": "Maya Figured It Out!"
   },
   "264": {
     "1": "Akito (NPC)",
@@ -78584,7 +79099,9 @@
     "1040": "Anime \"Umayuru: Full Gate!\"\nEpisode 4 is now streaming!",
     "1041": "Anime \"Umayuru: Full Gate!\"\nEpisode 5 is now streaming!",
     "1082": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nDAY 1 Starts Today!",
-    "1083": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nDAY 2 Starts Today!"
+    "1083": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nDAY 2 Starts Today!",
+    "1042": "Episode 6 of the anime \"Umayuru: Full Gate!\"\nis now streaming!",
+    "1043": "Episode 7 of the anime \"Umayuru: Full Gate!\"\nis now streaming!"
   },
   "268": {
     "1": "Eatery",
@@ -78920,7 +79437,9 @@
     "1040": "To watch, you will be redirected to an\nexternal site to play the YouTube video.",
     "1041": "To watch, you will be redirected to an\nexternal site to play the YouTube video.",
     "1082": "Pressing [OK] will redirect\nyou to the 7th EVENT special site.",
-    "1083": "Pressing [OK] will redirect\nyou to the 7th EVENT special site."
+    "1083": "Pressing [OK] will redirect\nyou to the 7th EVENT special site.",
+    "1042": "Watching will open an external site\nto play the YouTube video",
+    "1043": "Watching will open an external site\nto play the YouTube video"
   },
   "271": {
     "100101": "I've made my feelings into chocolate! I want to \ncheer you up whenever you feel sad or frustrated, \nso I thought of carrots! You're the reason I've \nmade it this far and why I'm still running. That's why \nI hope my emotions are clear! — From Spe",
@@ -82186,7 +82705,24 @@
     "11080203": "Reach 800 or higher in Speed stat",
     "11080204": "Reach 800 or higher in Wit stat",
     "11080205": "Acquire 2 or more <Late Bloomer> skills",
-    "11080206": "Acquire 2 or more <End Closer> skills"
+    "11080206": "Acquire 2 or more <End Closer> skills",
+    "10090301": "Complete training while having the \"Sharp\" status condition",
+    "10090302": "Reach 600 or more in base [Stamina] stat",
+    "10090303": "Acquire 3 or more speed-increasing skills",
+    "10090304": "Win 3 or more GⅠ races with the \"Front Runner\" strategy",
+    "10090305": "Reach 800 or more in base [Power] stat",
+    "10090306": "Reach 800 or more in base [Wisdom] stat",
+    "10450305": "Reach 600 or more in base [Stamina] stat",
+    "10450306": "Acquire 2 or more ＜Long＞ skills",
+    "41501101": "Complete all Progress Presentations and the Goshiki Shuntaisai with Great Success",
+    "41502101": "Complete all Progress Presentations and the Goshiki Shuntaisai with Great Success",
+    "41503101": "Complete all Progress Presentations and the Goshiki Shuntaisai with Great Success",
+    "41504101": "Complete all Progress Presentations and the Goshiki Shuntaisai with Great Success",
+    "41505101": "Acquire 2 or more ＜Mile＞ skills",
+    "41505102": "Acquire 2 or more ＜Medium＞ skills",
+    "41505103": "Complete the Goshiki Shuntaisai with Great Success",
+    "41506101": "Acquire 2 or more ＜Sprint＞ skills",
+    "41506102": "Complete the Goshiki Shuntaisai with Great Success"
   },
   "301": {
     "1001": "Agnes Tachyon's Traits Research",
@@ -83902,7 +84438,8 @@
     "904804": "The buddy gauge fills when gaining friendship."
   },
   "372": {
-    "1093": "K.S.Miracle"
+    "1093": "K.S.Miracle",
+    "9052": "Azuma"
   },
   "374": {
     "101": "$(scale 90)Speed Facility",
@@ -84406,7 +84943,10 @@
     "1303": "Prioritize G1 Races",
     "1401": "Prioritize Friendship Training",
     "1402": "Prioritize Hint Events",
-    "1403": "Prioritize G1 Races"
+    "1403": "Prioritize G1 Races",
+    "1501": "Prioritize Friendship Training",
+    "1502": "Prioritize Hint Events",
+    "1503": "Prioritize G1 Races"
   },
   "388": {
     "1001": "Enter suitable races when\ntarget race's fan requirement is not met.",
@@ -84436,7 +84976,11 @@
     "14001": "Enter a suitable race when you don't have\nenough fans to meet the target race requirements",
     "14002": "Enter a suitable race when you haven't\nreached the target fan count",
     "14003": "Enter a suitable race when target race\nrecord conditions are not met",
-    "14004": "Enter a suitable race when you are a maiden\t"
+    "14004": "Enter a suitable race when you are a maiden\t",
+    "15001": "Enter suitable races when you lack\nenough fans to enter target races",
+    "15002": "Enter suitable races when the\ntarget fan count has not been reached",
+    "15003": "Enter suitable races when target\nrace records have not been achieved",
+    "15004": "Enter suitable races when winless\t"
   },
   "389": {
     "11101": "Event: トレセン島のススメ",
@@ -84458,7 +85002,8 @@
     "13101": "Event: \"Declaration: Before the BC Expedition\"",
     "14001": "Tutorial (Tracenyen Edition)",
     "14101": "Event: \"You, Me, and Ramen\"",
-    "14102": "Event: \"The Final, Ultimate 'Preparation'\""
+    "14102": "Event: \"The Final, Ultimate 'Preparation'\"",
+    "15101": "Event: \"A Moment Before Showtime\""
   },
   "390": {
     "10001": "Darley Arabian's Training",
@@ -84478,7 +85023,10 @@
     "130003": "Byerley Turk's Training",
     "140001": "Darley Arabian's Training",
     "140002": "Godolphin Barb's Training",
-    "140003": "Byerley Turk's Training"
+    "140003": "Byerley Turk's Training",
+    "150001": "Darley Arabian's Guidance",
+    "150002": "Godolphin Barb's Guidance",
+    "150003": "Byerley Turk's Guidance"
   },
   "391": {
     "10001": "Fairly balanced.",
@@ -84498,7 +85046,10 @@
     "130003": "Stat focus.",
     "140001": "Fairly balanced.",
     "140002": "Skill focus.",
-    "140003": "Stat focus."
+    "140003": "Stat focus.",
+    "150001": "Balanced\nTraining Plan",
+    "150002": "Skill Hint\nFocus Plan",
+    "150003": "Stat Gain\nFocus Plan"
   },
   "392": {
     "10001": "Pause to select manually when \nmultiple commands match.",
@@ -84539,7 +85090,14 @@
     "140004": "Event: \"The Final, Ultimate 'Preparation'\"",
     "140005": "Pause and manually choose whether\nto continue when a continue is available",
     "140006": "Pause during Factor Inheritance",
-    "140007": "Pause during Region Selection\nto select a region manually"
+    "140007": "Pause during Region Selection\nto select a region manually",
+    "150001": "Pause to manually choose an option\nwhen multiple valid commands exist",
+    "150002": "Pause to manually pick choices\nduring specific events",
+    "150003": "Event: \"A Moment Before Showtime\"",
+    "150004": "Pause to manually decide whether to\ncontinue when a race retry is available",
+    "150006": "Pause during Factor Inheritance",
+    "150007": "Pause when Guidance is Bestowed",
+    "150008": "Pause when Guidance is Transmuted"
   },
   "394": {
     "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -84596,7 +85154,9 @@
     "56": "Highest Stat <color=#FF6D26>+{0}</color>",
     "57": "Lowest Stat <color=#FF6D26>+{0}</color>",
     "59": "<atlas=SingleModeScenarioRamen sprite=utx_ico_ramen_feeling_4_00/> Secret Ingredient Tips <color=#FF6D26>+{0}</color>",
-    "60": "Grants a condition corresponding to the active Trainer Ability"
+    "60": "Grants a condition corresponding to the active Trainer Ability",
+    "61": "Ritual Lv. of lowest-level ritual <color=#FF6D26>+1</color>",
+    "63": "Ritual Gauge of lowest-level ritual prioritized <color=#FF6D26>+1</color>"
   },
   "397": {
     "1": "Yukoma Spring",
@@ -84780,7 +85340,9 @@
     "130002": "Don't retry races below G1",
     "101001": "Do not continue when facing a formidable\nrival in the Dream Fest Legend",
     "140001": "Do not continue when running\nin a low-aptitude race",
-    "140002": "Do not continue when running\nin a GII or lower race"
+    "140002": "Do not continue when running\nin a GII or lower race",
+    "150001": "Do not continue when\nentering low-aptitude races",
+    "150002": "Do not continue when\nentering GII or lower races"
   },
   "411": {
     "1": "Unset",
@@ -95076,7 +95638,8 @@
     "20004": "Exchange your Carnival Points for items.",
     "20005": "Exchange Carnival Pt for items.",
     "20006": "Exchange Carnival Pt for items.",
-    "20007": "Exchange Carnival Pt for items."
+    "20007": "Exchange Carnival Pt for items.",
+    "11013": "Use Trial Coins to exchange for items"
   },
   "227": {
     "2": "The relatively hot topic",
@@ -95465,7 +96028,8 @@
     "1074": "History, English.",
     "1077": "Vocal training (loud and crisp!).",
     "1017": "All subjects",
-    "1018": "As the 'Empress,' every single one without exception"
+    "1018": "As the 'Empress,' every single one without exception",
+    "1009": "All subjects (Defend top of the class at all costs!)"
   },
   "262": {
     "1001": "Can correctly predict the menu's daily special over 70% of the time",
@@ -95500,7 +96064,8 @@
     "1074": "Folding a thousand—or even ten thousand—origami cranes.",
     "1077": "Hair that rarely gets bedhead.",
     "1017": "Having the greatest Student Council members in history",
-    "1018": "Winning an award at a container garden competition"
+    "1018": "Winning an award at a container garden competition",
+    "1009": "Mom always compliments her table manners"
   },
   "263": {
     "1001": "Stationery set (to send letters to her mom)",
@@ -95535,7 +96100,8 @@
     "1074": "Handicraft supplies, fountain pen ink",
     "1077": "Bandages, sports towel, spare shoelaces",
     "1017": "Ink pad, flashcards, books",
-    "1018": "Liquid eyeliner, moisturizing tail milk"
+    "1018": "Liquid eyeliner, moisturizing tail milk",
+    "1009": "Letter sets, loose-leaf paper, vocabulary flashcards"
   },
   "184": {
     "1001": "Hey, Trainer! We're at full TP! Just tell me what to work on!",
@@ -96521,7 +97087,11 @@
     "5": "<size=33>{0}</size> Place",
     "6": "<size=33>{0}</size> Place",
     "7": "<size=33>{0}</size> Place",
-    "8": "{0} Place"
+    "8": "{0} Place",
+    "9": "<size=33>{0}</size>th Place",
+    "10": "<size=33>{0}</size>th Place",
+    "11": "<size=33>{0}</size>th Place",
+    "12": "{0}th Place"
   },
   "393": {
     "10001": "Scheduled Race",
@@ -96541,7 +97111,10 @@
     "130003": "Hint Event",
     "140001": "Reserved Race",
     "140002": "Friendship Training Triggered",
-    "140003": "Hint Event"
+    "140003": "Hint Event",
+    "150001": "Reserved Race",
+    "150002": "Friendship Training Available",
+    "150003": "Hint Event"
   },
   "401": {
     "10001": "Darley Arabian is the embodiment of courage. She was created in the virtual world by AI that adopted the name of the Three Goddesses, the predecessors to all Umamusume. Although she is free and uninhibited, she is always level-headed. She wishes for nothing more than the well-being of all Umamusume-kind.",
@@ -96561,7 +97134,10 @@
     "130003": "An entity manifested in the VR world by an AI\nthat prioritizes \"Discipline\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nMilitary-like and stern, her strictness stems from care.\nShe firmly believes physical strength is the key\nto forging a path to the future.",
     "140001": "An entity manifested in the VR world by an AI\nthat prioritizes \"Courage\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nFree-spirited yet consistently calm, she wishes for\ntoday's Umamusume to grow healthy in mind and body.",
     "140002": "An entity manifested in the VR world by an AI\nthat prioritizes \"Love\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nShe loves all and watches over them gently.\nAt times she tests others to foster skill growth,\nall done out of sheer devotion and care.",
-    "140003": "An entity manifested in the VR world by an AI\nthat prioritizes \"Discipline\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nMilitary-like and stern, her strictness stems from care.\nShe firmly believes physical strength is the key\nto forging a path to the future."
+    "140003": "An entity manifested in the VR world by an AI\nthat prioritizes \"Discipline\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nMilitary-like and stern, her strictness stems from care.\nShe firmly believes physical strength is the key\nto forging a path to the future.",
+    "150001": "An entity formed within the VR world\nby a cognitive AI emphasizing \"Bravery.\"\nClaims to be one of the Three Goddesses,\nancestors of all Umamusume.\nFree-spirited yet consistently composed.\nWishes for today's Umamusume to grow\nhealthy in both body and mind.",
+    "150002": "An entity formed within the VR world\nby a cognitive AI emphasizing \"Affection.\"\nClaims to be one of the Three Goddesses,\nancestors of all Umamusume.\nLoves all and watches over them gently.\nAt times she tests others to foster the\ngrowth of their skills, all out of love.",
+    "150003": "An entity formed within the VR world\nby a cognitive AI emphasizing \"Discipline.\"\nClaims to be one of the Three Goddesses,\nancestors of all Umamusume.\nMilitary-minded and strict, but solely out\nof concern for others. She believes true\nphysical strength is what paves the future."
   },
   "476": {
     "1024": "September Champions Meeting\nMILE: <size=44>Let's get ready!</size>"
@@ -96615,5 +97191,244 @@
   },
   "300": {
     "1": "GWR"
+  },
+  "458": {
+    "1": "Performance Leads appear during Rehearsals",
+    "2": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "3": "Friendship Bonus <color=#ff911c>2%</color>",
+    "4": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+20%</color>",
+    "5": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "6": "Performance Leads appear during Rehearsals",
+    "7": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "8": "Friendship Bonus <color=#ff911c>3%</color>",
+    "9": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+25%</color>",
+    "10": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "11": "Performance Leads appear during Rehearsals",
+    "12": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "13": "Friendship Bonus <color=#ff911c>4%</color>",
+    "14": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+30%</color>",
+    "15": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "16": "Performance Leads appear during Rehearsals",
+    "17": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "18": "Friendship Bonus <color=#ff911c>5%</color>",
+    "19": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+40%</color>",
+    "20": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "21": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "22": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+10</color>",
+    "23": "Performance Leads appear during Rehearsals",
+    "24": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "25": "Friendship Bonus <color=#ff911c>6%</color>",
+    "26": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+50%</color>",
+    "27": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "28": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "29": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+20</color>",
+    "30": "Performance Leads appear during Rehearsals",
+    "31": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "32": "Friendship Bonus <color=#ff911c>7%</color>",
+    "33": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+60%</color>",
+    "34": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "35": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "36": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+30</color>",
+    "37": "Performance Leads appear during Rehearsals",
+    "38": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "39": "Friendship Bonus <color=#ff911c>8%</color>",
+    "40": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+80%</color>",
+    "41": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "42": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "43": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+50</color>",
+    "44": "Performance Leads appear during Rehearsals",
+    "45": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "46": "Friendship Bonus <color=#ff911c>10%</color>",
+    "47": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+100%</color>",
+    "48": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "49": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "50": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+100</color>",
+    "51": "Performance Leads appear during Rehearsals",
+    "52": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "53": "Friendship Bonus <color=#ff911c>12%</color>",
+    "54": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+135%</color>",
+    "55": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "56": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "57": "If 5+ Support Card types are in deck:\nBasic Stat Gain Cap <color=#ff911c>+20</color>",
+    "58": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+120</color>",
+    "59": "Performance Leads appear during Rehearsals",
+    "60": "Basic Stat Gain <color=#ff911c>+10</color>",
+    "61": "Friendship Bonus <color=#ff911c>15%</color>",
+    "62": "If 5+ Support Card types are in deck:\nSkill Pt Training Effectiveness <color=#ff911c>+170%</color>",
+    "63": "If 5+ Support Card types are in deck:\nTriggers hint events for all deck Support Cards\nexcept Friend and Group types",
+    "64": "If 5+ Support Card types are in deck:\nTriggers all hint event effects for the selected training",
+    "65": "If 5+ Support Card types are in deck:\nBasic Stat Gain Cap <color=#ff911c>+25</color>",
+    "66": "If 5+ Support Card types are in deck:\nSkill Pt Gain Cap <color=#ff911c>+120</color>"
+  },
+  "461": {
+    "1": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+3%</color>",
+    "3": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+5%</color>",
+    "5": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+7%</color>",
+    "7": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+9%</color>",
+    "9": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+10%</color>",
+    "11": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+11%</color>",
+    "13": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+12%</color>",
+    "15": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+13%</color>",
+    "17": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+14%</color>",
+    "19": "Bond gauge of all deck Support Cards <color=#ff911c>+3</color> on training\n(Effects do not stack)\nPrimary basic stat gain in Rehearsals <color=#ff911c>+15%</color>",
+    "21": "Specialty Priority <color=#ff911c>10</color>",
+    "22": "Specialty Priority <color=#ff911c>13</color>",
+    "23": "Specialty Priority <color=#ff911c>16</color>",
+    "24": "Specialty Priority <color=#ff911c>20</color>",
+    "25": "Specialty Priority <color=#ff911c>25</color>",
+    "26": "Specialty Priority <color=#ff911c>30</color>",
+    "27": "Specialty Priority <color=#ff911c>35</color>",
+    "28": "Specialty Priority <color=#ff911c>40</color>",
+    "29": "Specialty Priority <color=#ff911c>45</color>",
+    "30": "Specialty Priority <color=#ff911c>50</color>",
+    "31": "Hint Rate Up <color=#ff911c>30%</color>",
+    "32": "Hint Rate Up <color=#ff911c>33%</color>",
+    "33": "Hint Rate Up <color=#ff911c>36%</color>",
+    "34": "Hint Rate Up <color=#ff911c>40%</color>",
+    "35": "Hint Rate Up <color=#ff911c>45%</color>",
+    "36": "Hint Rate Up <color=#ff911c>50%</color>",
+    "37": "Hint Rate Up <color=#ff911c>55%</color>",
+    "38": "Hint Rate Up <color=#ff911c>60%</color>",
+    "39": "Hint Rate Up <color=#ff911c>70%</color>",
+    "40": "Hint Rate Up <color=#ff911c>80%</color>",
+    "41": "Training Effectiveness Up <color=#ff911c>20%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "43": "Training Effectiveness Up <color=#ff911c>22%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "45": "Training Effectiveness Up <color=#ff911c>24%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "47": "Training Effectiveness Up <color=#ff911c>26%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "49": "Training Effectiveness Up <color=#ff911c>28%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "51": "Training Effectiveness Up <color=#ff911c>30%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "53": "Training Effectiveness Up <color=#ff911c>32%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "55": "Training Effectiveness Up <color=#ff911c>34%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "57": "Training Effectiveness Up <color=#ff911c>37%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "59": "Training Effectiveness Up <color=#ff911c>40%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "61": "Energy Consumption Down <color=#ff911c>1%</color>",
+    "62": "Energy Consumption Down <color=#ff911c>2%</color>",
+    "63": "Energy Consumption Down <color=#ff911c>3%</color>",
+    "64": "Energy Consumption Down <color=#ff911c>4%</color>",
+    "65": "Energy Consumption Down <color=#ff911c>5%</color>",
+    "66": "Energy Consumption Down <color=#ff911c>6%</color>",
+    "67": "Energy Consumption Down <color=#ff911c>8%</color>",
+    "68": "Energy Consumption Down <color=#ff911c>10%</color>",
+    "69": "Energy Consumption Down <color=#ff911c>12%</color>",
+    "70": "Energy Consumption Down <color=#ff911c>15%</color>",
+    "71": "Primary Stat Gain Up <color=#ff911c>5%</color>\nStat Cap <color=#ff911c>+5</color>",
+    "73": "Primary Stat Gain Up <color=#ff911c>6%</color>\nStat Cap <color=#ff911c>+6</color>",
+    "75": "Primary Stat Gain Up <color=#ff911c>7%</color>\nStat Cap <color=#ff911c>+7</color>",
+    "77": "Primary Stat Gain Up <color=#ff911c>8%</color>\nStat Cap <color=#ff911c>+8</color>",
+    "79": "Primary Stat Gain Up <color=#ff911c>9%</color>\nStat Cap <color=#ff911c>+9</color>",
+    "81": "Primary Stat Gain Up <color=#ff911c>10%</color>\nStat Cap <color=#ff911c>+10</color>",
+    "83": "Primary Stat Gain Up <color=#ff911c>13%</color>\nStat Cap <color=#ff911c>+13</color>",
+    "85": "Primary Stat Gain Up <color=#ff911c>16%</color>\nStat Cap <color=#ff911c>+16</color>",
+    "87": "Primary Stat Gain Up <color=#ff911c>20%</color>\nStat Cap <color=#ff911c>+20</color>",
+    "89": "Primary Stat Gain Up <color=#ff911c>25%</color>\nStat Cap <color=#ff911c>+25</color>",
+    "91": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>20%</color>",
+    "92": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>22%</color>",
+    "93": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>24%</color>",
+    "94": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>27%</color>",
+    "95": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>30%</color>",
+    "96": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>35%</color>",
+    "97": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>40%</color>",
+    "98": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>50%</color>",
+    "99": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>65%</color>",
+    "100": "In training joined by the Performance Lead,\nevent \"Extra Rehearsal\" rate <color=#ff911c>80%</color>",
+    "101": "Friendship Bonus <color=#ff911c>1%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "103": "Friendship Bonus <color=#ff911c>2%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "105": "Friendship Bonus <color=#ff911c>3%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "107": "Friendship Bonus <color=#ff911c>4%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "109": "Friendship Bonus <color=#ff911c>5%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "111": "Friendship Bonus <color=#ff911c>6%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "113": "Friendship Bonus <color=#ff911c>7%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "115": "Friendship Bonus <color=#ff911c>8%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "117": "Friendship Bonus <color=#ff911c>9%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "119": "Friendship Bonus <color=#ff911c>10%</color>\nThe Performance Lead's equipped Support Card\nwill appear at 1 additional random training",
+    "121": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 45 or higher",
+    "122": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 40 or higher",
+    "123": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 35 or higher",
+    "124": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 30 or higher",
+    "125": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 25 or higher",
+    "126": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 20 or higher",
+    "127": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 15 or higher",
+    "128": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 10 or higher\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>1%</color>",
+    "130": "Failure Rate Down <color=#ff911c>100%</color> if Energy is 5 or higher\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>3%</color>",
+    "132": "Failure Rate Down <color=#ff911c>100%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>5%</color>",
+    "134": "Secondary Stat Gain Up <color=#ff911c>1%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>1%</color>",
+    "136": "Secondary Stat Gain Up <color=#ff911c>2%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>2%</color>",
+    "138": "Secondary Stat Gain Up <color=#ff911c>3%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>3%</color>",
+    "140": "Secondary Stat Gain Up <color=#ff911c>4%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>4%</color>",
+    "142": "Secondary Stat Gain Up <color=#ff911c>5%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>5%</color>",
+    "144": "Secondary Stat Gain Up <color=#ff911c>8%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>7%</color>",
+    "146": "Secondary Stat Gain Up <color=#ff911c>11%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>9%</color>",
+    "148": "Secondary Stat Gain Up <color=#ff911c>15%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>11%</color>",
+    "150": "Secondary Stat Gain Up <color=#ff911c>20%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>13%</color>",
+    "152": "Secondary Stat Gain Up <color=#ff911c>25%</color>\nProgram Rehearsal Training Effectiveness Up <color=#ff911c>15%</color>"
+  },
+  "462": {
+    "1": "Yabusame",
+    "2": "Sacred Flag Contest",
+    "3": "Votive Dance",
+    "4": "Grand Mikoshi Haul",
+    "5": "Soaring Gallop"
+  },
+  "463": {
+    "101": "Teachings of Bond",
+    "201": "Teachings of Specialty",
+    "301": "Teachings of Hints",
+    "401": "Teachings of Support",
+    "501": "Teachings of Stamina",
+    "601": "Teachings of Focus",
+    "701": "Teachings of Diligence",
+    "801": "Teachings of Cooperation",
+    "901": "Teachings of Fortitude",
+    "1001": "Teachings of Duality"
+  },
+  "466": {
+    "1": "Program Rehearsal Primary Stat Gain Up <color=#ff911c>15%</color>\nDuring the training camp, 1 additional Performance Lead\nfrom equipped Support Cards will appear in training",
+    "3": "Specialty Priority Up <color=#ff911c>50</color>\nProgram Rehearsal Friendship Bonus <color=#ff911c>10%</color>",
+    "5": "Hint Rate Up <color=#ff911c>80%</color>\nHints gained from Program Rehearsal Hint events <color=#ff911c>+1</color>",
+    "7": "Training Effectiveness Up <color=#ff911c>20%</color> when Friendship Training does not occur\nGain <color=#ff911c>\"Lending Support\"</color> during Program Rehearsal\n(Training Effectiveness Up <color=#ff911c>5%</color>, up to 3 times)",
+    "9": "Program Rehearsal Energy Consumption Down <color=#ff911c>15%</color>"
+  },
+  "496": {
+    "1": "The Umamusume chosen as the Yabusame archer sprints at full speed,\nstriking down set targets with the bow and arrow in her hands.\n...Though simply described, various schools of \"Yabusame\" exist.\nThe Yabusame of the Goshiki Shuntaisai is a ritual where\ntargets set upon the mountain must be pierced before the bonfires burn out.\nFurthermore, the struck targets and arrows are distributed to the spectators as lucky charms.",
+    "2": "A ritual held during the \"Soma Nomaoi,\"\na traditional event from the Soma region of Fukushima Prefecture.\nParticipating Umamusume use special poles resembling weapons\nto compete for two sacred flags launched into the sky.\nIt is custom for the one who secures a flag to sprint up the hill and present it to the Supreme Commander.\nWinning the very first flag, the \"First Banner,\" is considered the greatest honor among participants.",
+    "3": "What the dancers of the Votive Dance offer up to heaven are the wishes of the gathered people.\nTo awaken these emotions, the dancer Umamusume hone and polish their dance.\nMoreover, to further draw out these wishes, a human composer is commissioned for each\nGoshiki Shuntaisai to craft music that stirs the human heart.\nIt is said dancers hold folding fans to generate winds that carry wishes to the heavens—and to receive them in turn.",
+    "4": "The Umamusume serving as haulers for the Grand Mikoshi pull a portable shrine\nmany times their own height across designated bridges.\nOriginally born from a tradition of pulling auspicious objects, the mikoshi itself is\nadorned with \"joyous things,\" centered around agricultural harvests.\nOffered up in this ritual are prayers for bountiful harvests and...\nthe health and safety of the Umamusume serving as haulers.",
+    "5": "The Soaring Gallop is a ritual performed in the prayer that Umamusume may overcome\nevery obstacle they encounter throughout their lives.\nBecause of this, obstacles take many forms beyond mere hurdles and hedgerows.\nIn some regions, young Umamusume who have just begun running also take part in simplified Soaring Gallops.\nAlthough Soaring Gallop originated in Japan, many scholars note its resemblance to a certain sport that flourished in the West."
+  },
+  "498": {
+    "1": "Please choose which teachings to bestow\nupon each of the Performance Leads based on their aptitudes.",
+    "2": "Once the Shuntaisai Camp begins, you can focus intensively on Program Rehearsal.\nIt would be wise to keep that in mind when choosing your teachings.",
+    "3": "Teachings that have undergone Transmutation are exceedingly potent.\nBuild your choices around these core teachings.",
+    "4": "Once the Shuntaisai Camp begins, you can focus intensively on Program Rehearsal.\nIt would be wise to keep that in mind when choosing your teachings.",
+    "5": "Teachings that have undergone Transmutation are exceedingly potent.\nBuild your choices around these core teachings.",
+    "6": "Once the Shuntaisai Camp begins, you can focus intensively on Program Rehearsal.\nIt would be wise to keep that in mind when choosing your teachings."
+  },
+  "499": {
+    "1": "Energy <color=#ff911c>+30</color>",
+    "2": "Motivation <color=#ff911c>+1</color>",
+    "3": "Failure Rate Down <color=#ff911c>100%</color>",
+    "4": "1 additional Umamusume from equipped Support Cards\n(excluding Friend and Group types) will appear at each Program Rehearsal"
+  },
+  "501": {
+    "1": "Specialty Priority Up <color=#ff911c>20</color>",
+    "2": "Specialty Priority Up <color=#ff911c>20</color>",
+    "3": "Hint Rate Up <color=#ff911c>20%</color>",
+    "4": "Friendship Bonus <color=#ff911c>5%</color>",
+    "5": "Specialty Priority Up <color=#ff911c>40</color>",
+    "6": "Hint Rate Up <color=#ff911c>50%</color>",
+    "7": "Friendship Bonus <color=#ff911c>5%</color>",
+    "8": "Specialty Priority Up <color=#ff911c>40</color>",
+    "9": "Hint Rate Up <color=#ff911c>50%</color>",
+    "10": "Friendship Bonus <color=#ff911c>10%</color>",
+    "11": "Specialty Priority Up <color=#ff911c>60</color>",
+    "12": "Hint Rate Up <color=#ff911c>100%</color>",
+    "13": "Friendship Bonus <color=#ff911c>10%</color>",
+    "14": "Specialty Priority Up <color=#ff911c>60</color>",
+    "15": "Hint Rate Up <color=#ff911c>100%</color>",
+    "16": "Race Bonus <color=#ff911c>30%</color>",
+    "17": "Friendship Bonus <color=#ff911c>20%</color>",
+    "18": "Specialty Priority Up <color=#ff911c>80</color>",
+    "19": "Hint Rate Up <color=#ff911c>150%</color>",
+    "20": "Race Bonus <color=#ff911c>100%</color>"
   }
 }

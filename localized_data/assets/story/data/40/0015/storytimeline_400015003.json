@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The next morning, as I stepped out into \nthe morning sunlight, \nAzuma-san was already waiting."
+    },
+    {
+      "name": "Azuma",
+      "text": "Judging by the look in your eyes... you \nare ready \nto decide on the course of practice with <chrname> \n-sama.",
+      "choice_data_list": [
+        "After what happened with Blast yesterday, \nyes."
+      ]
+    },
+    {
+      "name": "Azuma",
+      "text": "...Then it would be wise to craft your \nplan \nbased on the \"teachings\" you received \nduring your previous study session.",
+      "color_text_info_list": [
+        {
+          "Text": "Teachings",
+          "FontColor": 13
+        }
+      ]
+    },
+    {
+      "name": "Azuma",
+      "text": "And in time, \nyou shall receive mine as well..."
+    },
+    {
+      "name": "Azuma",
+      "text": "Hehe... Now then, Trainer, Divine Steed. \nWhenever you are ready—call the first \ntune."
+    }
+  ],
+  "title": "Come, Impart the Teachings!"
+}
