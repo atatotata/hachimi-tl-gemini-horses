@@ -4,6 +4,7 @@
 - Translated 794 new text strings and 53 voice lines from the October JP update.
 - Added 82 missing story timelines for the Goshiki Shuntaisai scenario and support cards, including the scenario prologue, choices, and color names.
 - New terms use Goshiki Shuntaisai, Shuntaisai, and Azuma.
+- Full audit found no untranslated story text. One leftover Japanese dash mark was replaced.
 - All flavors get the new JP content. Flagship keeps Global wording for existing text.
 
 ## 2026-10-25 -- Global text and voice cleanup
