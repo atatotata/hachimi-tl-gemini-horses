@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-10-26 -- Tutorial text repair
+## 2026-10-26 -- Tutorial text repair and fit
 - Restored the tutorial pages after the last reflow broke their color tags.
-- Rewrapped the 11 scenario pages and set 60% scaling so the text fits the boxes.
+- Rescaled and rebalanced the 11 scenario pages so each fills its box evenly.
 
 ## 2026-10-26 -- UI scaling tweaks
 - Re-broke and scaled the skill-hint tip so it fits its box.
