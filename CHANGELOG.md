@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-26 -- Scenario UI and story fixes
+- Added 77 missing scenario menu strings from the Hachimi log. Left out the one Error-102 key.
+- Fixed 14 new story files where color-text entries were objects instead of strings; Hachimi can read them now.
+
 ## 2026-10-25 -- New JP scenario and support stories
 - Translated 794 new text strings and 53 voice lines from the October JP update.
 - Added 82 missing story timelines for the Goshiki Shuntaisai scenario and support cards, including the scenario prologue, choices, and color names.
