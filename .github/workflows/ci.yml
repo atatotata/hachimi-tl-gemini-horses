@@ -21,7 +21,10 @@ jobs:
 
       - name: Guard literal backslash-n (localize/story/home)
         run: python tools/master_translate/guard_literal_newlines.py
-      
+
+      - name: Guard Error 102 keys
+        run: python tools/master_translate/guard_excluded_keys.py --ci
+
       - name: Validate index.json
         run: |
           python -c "
