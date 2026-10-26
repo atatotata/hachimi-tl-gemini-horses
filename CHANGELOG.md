@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Restore Global text after upstream sync
+- Restored the rows the latest upstream sync overwrote, keeping Global wording first.
+
 ## 2026-10-26 -- Scenario phase headers
 - Translated the Junior and Classic late-December phase headers.
 
