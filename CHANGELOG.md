@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Scenario phase headers
+- Translated the Junior and Classic late-December phase headers.
+
 ## 2026-10-26 -- Teaching List fit
 - Translated the Debut phase header and scaled the Transmuted and Teaching Effect buttons.
 
