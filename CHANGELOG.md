@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-26 -- Error 102 guard
+- Removed the 12 schedule keys that the upstream sync brought back.
+- Sync now filters those keys so they cannot return.
+
+## 2026-10-26 -- Restore Global text after upstream sync
+- Restored the rows the latest upstream sync overwrote, keeping Global wording first.
+
 ## 2026-10-26 -- Scenario phase headers
 - Translated the Junior and Classic late-December phase headers.
 
