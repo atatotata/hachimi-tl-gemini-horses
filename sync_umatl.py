@@ -435,6 +435,21 @@ def prune_excluded_localize(dest_tl: pathlib.Path) -> int:
     return len(removed)
 
 
+def assert_no_excluded_localize(dest_tl: pathlib.Path) -> None:
+    """Fail the sync if an Error-102 key survived any write path."""
+    keys = excluded_localize_keys()
+    path = dest_tl / "localize_dict.json"
+    if not keys or not path.exists():
+        return
+    data = json.loads(path.read_text(encoding="utf-8"))
+    present = sorted(k for k in keys if k in data)
+    if present:
+        raise SystemExit(
+            "ERROR: Error-102 keys are still present in localize_dict.json: "
+            + ", ".join(present)
+        )
+
+
 def merge_flat_dict(
     local_data: dict,
     upstream_data: dict,
@@ -592,6 +607,7 @@ def main():
         removed = prune_excluded_localize(dest_tl)
         if removed:
             print(f"Removed {removed} Error-102 keys from localize_dict.json")
+        assert_no_excluded_localize(dest_tl)
 
     if args.regen_index:
         n = update_index_manifest(dest_tl, index_file)
@@ -759,6 +775,8 @@ def main():
     fixed_names = apply_canonical_names(dest_tl)
     if fixed_names:
         print(f"  Canonical names enforced: {fixed_names} replacements")
+
+    assert_no_excluded_localize(dest_tl)
 
     # 6. Rebuild index.json manifest
     print("\nRegenerating index.json manifest...")
