@@ -2,6 +2,7 @@
 
 ## 2026-10-26 -- Scenario UI and story fixes
 - Added 77 missing scenario menu strings from the Hachimi log. Left out the one Error-102 key.
+- Added 11 more scenario menu strings found in a second log pass.
 - Fixed 14 new story files where color-text entries were objects instead of strings; Hachimi can read them now.
 
 ## 2026-10-25 -- New JP scenario and support stories
