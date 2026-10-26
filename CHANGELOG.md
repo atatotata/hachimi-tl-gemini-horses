@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- UI scaling tweaks
+- Scaled the skill-hint tip so it fits its box.
+
 ## 2026-10-26 -- Teaching Impartation scaling
 - Scaled the program names across the cards and level lists.
 - Shrank the Program Lv. List label so it fits its circle.
