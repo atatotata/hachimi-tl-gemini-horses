@@ -1,7 +1,8 @@
 # Changelog
 
-## 2026-10-26 -- Tutorial text fit
-- Reflowed the tutorial pages so their text stays inside the popup box.
+## 2026-10-26 -- Tutorial text repair
+- Restored the tutorial pages after the last reflow broke their color tags.
+- Rewrapped the 11 scenario pages and set 60% scaling so the text fits the boxes.
 
 ## 2026-10-26 -- UI scaling tweaks
 - Re-broke and scaled the skill-hint tip so it fits its box.
