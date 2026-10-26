@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-26 -- Teaching Impartation fit
+- Shortened the Horsegirl Details and Performance Lead labels so they stop overlapping.
+- Scaled the program card names and Lead Effects List button to fit their columns.
+
 ## 2026-10-26 -- Confirm Transmutation fit
 - Scaled the transmutation effect cards and confirmation line so they stay inside their boxes.
 
