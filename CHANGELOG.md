@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- URA Finale tutorial fit
+- Scaled and reflowed the URA Finale intro tutorial so it fits its box.
+
 ## 2026-10-26 -- Skill hint tutorial fit
 - Scaled and reflowed the skill-hint tutorial so it fits its box.
 
