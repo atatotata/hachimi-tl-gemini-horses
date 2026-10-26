@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Representative setup fit
+- Reflowed the representative tutorial text so it fits its box at 95%.
+
 ## 2026-10-26 -- Program Completion fit
 - Shortened the target labels so they stop overlapping.
 - Scaled the Effect details button to fit.
