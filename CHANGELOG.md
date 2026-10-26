@@ -2,8 +2,9 @@
 
 ## 2026-10-26 -- Teaching Impartation scaling
 - Scaled the program names across the cards and level lists.
+- Shrank the Program Lv. List label so it fits its circle.
 - Scaled the Lead Effects List button.
-- Fit the Horsegirl Details tab and Program Lv. List label.
+- Fit the Horsegirl Details tab.
 
 ## 2026-10-26 -- Error 102 guard
 - Removed the 12 schedule keys that the upstream sync brought back.
