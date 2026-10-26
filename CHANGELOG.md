@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Teaching List fit
+- Translated the Debut phase header and scaled the Transmuted and Teaching Effect buttons.
+
 ## 2026-10-26 -- Teaching Impartation fit
 - Shortened the Horsegirl Details and Performance Lead labels so they stop overlapping.
 - Scaled the program card names and Lead Effects List button to fit their columns.
