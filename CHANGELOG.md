@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- Confirm Transmutation fit
+- Scaled the transmutation effect cards and confirmation line so they stay inside their boxes.
+
 ## 2026-10-26 -- Teaching Set labels
 - Shortened the Teaching labels and scaled two long program names so the columns and chips fit.
 
