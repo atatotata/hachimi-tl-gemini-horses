@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-26 -- More scenario UI strings
+- Added 14 scenario strings from the latest log, including Program Completion and Target Lv. labels.
+
 ## 2026-10-26 -- Tutorial text repair and fit
 - Restored the tutorial pages after the last reflow broke their color tags.
 - Reflowed the 11 scenario pages to use the full box width, with per-page scaling.
