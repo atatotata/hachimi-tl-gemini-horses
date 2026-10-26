@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-26 -- Teaching Impartation scaling
+- Scaled the program card names and the Lead Effects List button.
+- Fit the Horsegirl Details tab and Program Lv. List label.
+
 ## 2026-10-26 -- Error 102 guard
 - Removed the 12 schedule keys that the upstream sync brought back.
 - Sync now filters those keys so they cannot return.
