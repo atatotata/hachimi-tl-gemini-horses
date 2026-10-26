@@ -63,6 +63,13 @@ DICT_FILES = {
     "race_jikkyo_message_dict.json",
 }
 
+EXCLUDED_KEYS_PATH = (
+    pathlib.Path(__file__).resolve().parent
+    / "tools"
+    / "master_translate"
+    / "excluded_keys.json"
+)
+
 # Local pinned overrides: applied AFTER upstream merge so deliberate local
 # fixes survive the weekly sync (upstream wins by default in merge_*_dict).
 # Format: {rel_path: {key: value}} — text_data uses "cat/idx" compound keys.
@@ -399,11 +406,47 @@ def merge_cst_dict(local_data: dict, upstream_data: dict,
                 added += 1
     return updated, added
 
-def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
-    """Overwrites flat string dictionaries."""
+def excluded_localize_keys() -> set[str]:
+    """Localize keys that must never be shipped (Error 102)."""
+    try:
+        data = json.loads(EXCLUDED_KEYS_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return set()
+    return set(data.get("localize_dict", []))
+
+
+def prune_excluded_localize(dest_tl: pathlib.Path) -> int:
+    """Remove Error-102 keys from the local localize dictionary."""
+    keys = excluded_localize_keys()
+    path = dest_tl / "localize_dict.json"
+    if not keys or not path.exists():
+        return 0
+    data = json.loads(path.read_text(encoding="utf-8"))
+    removed = [k for k in keys if k in data]
+    if not removed:
+        return 0
+    for key in removed:
+        del data[key]
+    path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+        newline="\n",
+    )
+    return len(removed)
+
+
+def merge_flat_dict(
+    local_data: dict,
+    upstream_data: dict,
+    exclude_keys: set[str] | None = None,
+) -> tuple[int, int]:
+    """Overwrites flat string dictionaries, skipping excluded keys."""
+    excluded = exclude_keys or set()
     updated = 0
     added = 0
     for k, v in upstream_data.items():
+        if k in excluded:
+            continue
         if v and str(v).strip():
             if k in local_data:
                 if local_data[k] != v:
@@ -412,6 +455,8 @@ def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
             else:
                 local_data[k] = v
                 added += 1
+    for key in excluded:
+        local_data.pop(key, None)
     return updated, added
 
 def _detect_branch() -> str:
@@ -543,6 +588,11 @@ def main():
     index_file = repo_root / "index.json"
     cache_path = repo_root / CACHE_FILE
 
+    if not args.dry_run:
+        removed = prune_excluded_localize(dest_tl)
+        if removed:
+            print(f"Removed {removed} Error-102 keys from localize_dict.json")
+
     if args.regen_index:
         n = update_index_manifest(dest_tl, index_file)
         print(f"Updated index.json: {n} files indexed (BLAKE3 format).")
@@ -659,7 +709,12 @@ def main():
                         global_keys=global_cst,
                     )
                 else:
-                    upd, add = merge_flat_dict(local_json, up_json)
+                    exclude = (
+                        excluded_localize_keys()
+                        if rel_path == "localize_dict.json"
+                        else None
+                    )
+                    upd, add = merge_flat_dict(local_json, up_json, exclude)
 
                 dict_stats[rel_path] = (upd, add)
                 pinned = apply_pinned_overrides(rel_path, local_json)
