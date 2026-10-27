@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-27 -- Scenario type restrictions
+- Added the missing type-restriction text on the scenario details screen.
+
 ## 2026-10-26 -- Archives tutorial fit
 - Scaled and reflowed the Archives tutorial so it fits its box.
 
