@@ -1,39 +1,13 @@
 # Changelog
 
 ## 2026-10-27 -- Scenario type restrictions
-- Added the missing type-restriction text on the scenario details screen.
+- Added the missing restriction text on the scenario details screen.
+- It now wraps properly instead of showing a stray newline escape on screen.
 
-## 2026-10-26 -- Archives tutorial fit
-- Scaled and reflowed the Archives tutorial so it fits its box.
-
-## 2026-10-26 -- Representative setup fit
-- Reflowed the representative tutorial text so it fits its box at 95%.
-
-## 2026-10-26 -- Program Completion fit
-- Shortened the target labels so they stop overlapping.
-- Scaled the Effect details button to fit.
-
-## 2026-10-26 -- URA Finale tutorial fit
-- Scaled and reflowed the URA Finale intro tutorial so it fits its box.
-
-## 2026-10-26 -- Skill hint tutorial fit
-- Scaled and reflowed the skill-hint tutorial so it fits its box.
-
-## 2026-10-26 -- More scenario UI strings
-- Added 14 scenario strings from the latest log, including Program Completion and Target Lv. labels.
-
-## 2026-10-26 -- Tutorial text repair and fit
-- Restored the tutorial pages after the last reflow broke their color tags.
-- Reflowed the 11 scenario pages to use the full box width, with per-page scaling.
-
-## 2026-10-26 -- UI scaling tweaks
-- Re-broke and scaled the skill-hint tip so it fits its box.
-
-## 2026-10-26 -- Teaching Impartation scaling
-- Scaled the program names across the cards and level lists.
-- Shrank the Program Lv. List label so it fits its circle.
-- Scaled the Lead Effects List button.
-- Fit the Horsegirl Details tab.
+## 2026-10-26 -- Scenario tutorial pass
+- Fixed the tutorial pages whose color tags the last reflow broke, then reflowed and rescaled them so each page fits its box: URA Finale intro, skill-hint tip, Archives, representative setup, Program Completion and the 11 scenario pages.
+- Shortened the cramped labels (Program Completion targets, Program Lv. List, Horsegirl Details) so nothing overlaps.
+- Scaled the Effect details, Lead Effects List and Transmuted buttons to fit.
 
 ## 2026-10-26 -- Error 102 guard
 - Removed the 12 schedule keys that the upstream sync brought back.
@@ -43,29 +17,13 @@
 ## 2026-10-26 -- Restore Global text after upstream sync
 - Restored the rows the latest upstream sync overwrote, keeping Global wording first.
 
-## 2026-10-26 -- Scenario phase headers
-- Translated the Junior and Classic late-December phase headers.
-
-## 2026-10-26 -- Teaching List fit
-- Translated the Debut phase header and scaled the Transmuted and Teaching Effect buttons.
-
-## 2026-10-26 -- Teaching Impartation fit
-- Shortened the Horsegirl Details and Performance Lead labels so they stop overlapping.
-- Scaled the program card names and Lead Effects List button to fit their columns.
-
-## 2026-10-26 -- Confirm Transmutation fit
-- Scaled the transmutation effect cards and confirmation line so they stay inside their boxes.
-
-## 2026-10-26 -- Teaching Set labels
-- Shortened the Teaching labels and scaled two long program names so the columns and chips fit.
-
-## 2026-10-26 -- Transmutation screen fit
-- Added the missing Transmutation Effect List title.
-- Scaled the Teaching names and long effect text so the cards no longer overlap or clip.
+## 2026-10-26 -- Scenario screens: labels and layout
+- Translated the Debut, Junior and Classic late-December phase headers.
+- Shortened the Teaching and Performance Lead labels, then scaled the program names, buttons and effect cards so every column fits.
+- Added the missing Transmutation Effect List title and kept the confirm screen inside its box.
 
 ## 2026-10-26 -- Scenario UI and story fixes
-- Added 77 missing scenario menu strings from the Hachimi log. Left out the one Error-102 key.
-- Added 11 more scenario menu strings found in a second log pass.
+- Added 88 missing scenario menu strings from the Hachimi logs. Left out the one Error-102 key.
 - Fixed 14 new story files where color-text entries were objects instead of strings; Hachimi can read them now.
 
 ## 2026-10-25 -- New JP scenario and support stories
