@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-27 -- Skip confirmation text
+- Translated the skip-to-results confirmation prompt.
+
 ## 2026-10-27 -- Hardcoded Required Lv. patch
 - Added a reusable asset patch for the hardcoded Required Lv. label.
 
