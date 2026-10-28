@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-27 -- Hardcoded Required Lv. patch
+- Added a reusable asset patch for the hardcoded Required Lv. label.
+
 ## 2026-10-27 -- Transmutation teaching setup
 - Added the missing Transmutation settings header and auto-fill note.
 - Reduced the Transmutation slot header to 45% so it fits the blue bar.
