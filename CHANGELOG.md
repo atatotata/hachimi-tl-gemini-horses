@@ -2,7 +2,7 @@
 
 ## 2026-10-27 -- Transmutation teaching setup
 - Added the missing Transmutation settings header and auto-fill note.
-- Scaled the Transmutation card labels to 55%.
+- Reduced the Transmutation slot header to 45% so it fits the blue bar.
 
 ## 2026-10-27 -- Scenario type restrictions
 - Added the missing restriction text on the scenario details screen.
