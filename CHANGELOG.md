@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-27 -- Transmutation teaching setup
+- Added the missing Transmutation settings header and auto-fill note.
+- Scaled the Transmutation card labels to 55%.
+
 ## 2026-10-27 -- Scenario type restrictions
 - Added the missing restriction text on the scenario details screen.
 - It now wraps properly instead of showing a stray newline escape on screen.
