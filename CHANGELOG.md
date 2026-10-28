@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-27 -- Uncap Crystals tutorial fit
+- Scaled and reflowed the Uncap Crystals tutorial so it fits above the buttons.
+
 ## 2026-10-27 -- Skip confirmation text
 - Translated the skip-to-results confirmation prompt.
 
