@@ -4,6 +4,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 # Pipeline dev tools (local only, never committed)
-tools/
+tools/*
+!tools/voice_bible/
 # Release zips ship as GitHub Release assets only — never in git tree (keeps codeload zip small for Hachimi)
 releases/
+tools/voice_bible/voice_evidence.json
+tools/voice_bible/*.pre_v2.json
