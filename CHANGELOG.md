@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 -- Trainer address cleanup
+- The trainer is now addressed as plain "Trainer" everywhere, like Global: "Trainer-san", "Trainer-kun", "Trainer-chan" and "Trainer-dono" are gone.
+- Daitaku Helios now calls you "T-Rain", her official Global nickname.
+- Durandal's knight speech is consistent: "my liege", "my King" and "my lord", no more mixing.
+
 ## 2026-10-28 -- NPC name corrections
 - NPCs now use given-name-first English order, the same order Global uses everywhere.
 - Fixed Kiyoko Hoshina (was "Takeshi Hoshina" in 56 files), Mei Satake, Ryoka Tsurugi, Tazuna Hayakawa, Riko Kashimoto and Rigantona.
