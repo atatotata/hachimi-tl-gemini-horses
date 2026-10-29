@@ -197,6 +197,25 @@ CANONICAL_NAMES = [
     # "Director Akikawa" (1,333) and bare address is "Director" (269).
     ("Chairwoman", "Director"),
     ("chairwoman", "director"),
+    # Global never uses Japanese honorifics either: -chan/-kun/-dono/-sama/
+    # -senpai all return 0 hits across text_data, character_system_text and
+    # the 9,230 harvested EN stories. UmaTL keeps inventing "Trainer-san" etc.
+    # Order matters: possessives and longer forms first.
+    ("Trainer-san's", "Trainer's"),
+    ("Trainer-sama's", "Trainer's"),
+    ("Trainer-chan's", "Trainer's"),
+    ("Trainer-kun's", "Trainer's"),
+    ("Trainer-dono's", "Trainer's"),
+    ("Trainer-san", "Trainer"),
+    ("Trainer-sama", "Trainer"),
+    ("Trainer-chan", "Trainer"),
+    ("Trainer-kun", "Trainer"),
+    ("Trainer-dono", "Trainer"),
+    ("Trainer-senpai", "Trainer"),
+    # Daitaku Helios' trainer nickname is Global-attested: トレぴ -> "T-Rain"
+    # (text_data 232/347, 232/575, 185/1065; "DJ T-Rainster" at 205/978-980).
+    ("Trai-pippi", "T-Rain-pi"),
+    ("Trai-pi", "T-Rain"),
     ("Line Craft", "Rhein Kraft"),
     ("St Lite", "Saint Lite"),
     ("Karen", "Curren"),
