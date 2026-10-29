@@ -26,6 +26,21 @@ https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.j
 - **Condition names and text** (`cat142` / `cat143`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL.
 - **Everything else**: Global > UmaTL > Gemini.
 
+## Voice and naming
+
+Characters keep their official voice. The translation prompts carry a per-character
+voice bible (archetype, speech tags, how they address the trainer), so slang,
+dialect and register survive the trip through English instead of flattening out.
+
+- NPCs use given-name-first order, as Global does: Tazuna Hayakawa, Director Akikawa, Kiyoko Hoshina.
+- No Japanese honorifics: the trainer is plain "Trainer", never "Trainer-san", "Trainer-chan" or "Trainer-dono".
+- Character-specific forms follow Global where it exists: Helios calls you "T-Rain", Rice Shower says "Big Brother", Agnes Tachyon says "guinea pig".
+- Where Global has no line yet, the house rendering is written down: Durandal uses "my liege" / "my King" / "my lord", Transcend uses "Trainer"; Azuma says "my lord".
+
+The policy and its evidence live in [`tools/voice_bible/`](tools/voice_bible/README.md).
+The same rules are re-applied on every upstream sync, so a merge cannot silently
+undo them.
+
 ## Quick Tips
 
 - **Upgrading & text/UI looks weird?** Delete `assets/textures`, `assets/atlas`, and `assets/movies` in your `hachimi/localized_data_N` folder (keep `includes_*`) and re-update.
