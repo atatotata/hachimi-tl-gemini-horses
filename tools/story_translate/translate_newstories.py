@@ -42,7 +42,7 @@ logging.basicConfig(filename=str(LOG_PATH), level=logging.INFO,
                     format='%(asctime)s %(levelname)s %(message)s', filemode='a')
 log = logging.getLogger('translate_newstories')
 
-BIBLE_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\tools\voice_bible\uma_voice_bible.json"
+BIBLE_PATH = Path(__file__).resolve().parents[2] / "tools" / "voice_bible" / "uma_voice_bible.json"
 
 
 def get_api_key():
@@ -60,12 +60,20 @@ def get_api_key():
 
 
 def load_voice_bible():
+    """Load the character voice bible.
+
+    A missing or empty bible is fatal by design: translating without it silently
+    produces off-voice lines (wrong NPC names, nicknames and register), which is
+    exactly the bug class the bible exists to prevent.
+    """
     try:
         with open(BIBLE_PATH, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            bible = json.load(f)
     except Exception as e:
-        log.warning(f"bible load failed: {e}")
-        return {}
+        raise SystemExit(f"voice bible not readable at {BIBLE_PATH}: {e}")
+    if not bible:
+        raise SystemExit(f"voice bible is empty: {BIBLE_PATH}")
+    return bible
 
 
 def is_japanese(text):
