@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-28 -- NPC name corrections
+- NPCs now use given-name-first English order, the same order Global uses everywhere.
+- Fixed Kiyoko Hoshina (was "Takeshi Hoshina" in 56 files), Mei Satake, Ryoka Tsurugi, Tazuna Hayakawa, Riko Kashimoto and Rigantona.
+- Akikawa is now "Director Akikawa" everywhere, matching Global; "Chairwoman" is gone.
+
 ## 2026-10-27 -- Uncap Crystals tutorial fit
 - Scaled and reflowed the Uncap Crystals tutorial so it fits above the buttons.
 
