@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-07 -- Global update import
+- Imported 14 new Global strings: LA concert scout banners and event-site buttons.
+- Adopted Global's revised story and chapter titles, scout ticket dates, and 10 character lines.
+- Replaced the Furlong Tower event synopsis with the new cafe event's story.
+
 ## 2026-10-28 -- Trainer address cleanup
 - The trainer is now addressed as plain "Trainer" everywhere, like Global: "Trainer-san", "Trainer-kun", "Trainer-chan" and "Trainer-dono" are gone.
 - Daitaku Helios now calls you "T-Rain", her official Global nickname.
