@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-09 -- JP 2026-11 update
+- Translated 84 new text strings: gacha banners, missions, item descriptions, event titles.
+- Translated 46 new voice lines, all for Yukino Bijin's new city-girl outfit.
+- Translated 6 new story chapters: Yukino Bijin's new episodes, two event stories, and one training story.
+
 ## 2026-11-07 -- Global update import
 - Imported 14 new Global strings: LA concert scout banners and event-site buttons.
 - Adopted Global's revised story and chapter titles, scout ticket dates, and 10 character lines.
