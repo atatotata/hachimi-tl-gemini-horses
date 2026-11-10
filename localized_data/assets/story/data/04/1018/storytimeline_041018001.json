@@ -11,7 +11,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "<i>Huff... huff... huff... huff...</i>"
+      "text": "<i>Huff... huff... huff... huff...</i>",
+      "choice_data_list": [
+        "(So that's the Empress, Air Groove...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -135,7 +138,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "By the way... You, over there. I noticed \nthat you've been starin' at Air \nGroove \npractically this whole time."
+      "text": "By the way... You, over there. I noticed \nthat you've been starin' at Air \nGroove \npractically this whole time.",
+      "choice_data_list": [
+        "M-Me?",
+        "M-Me?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -143,7 +150,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Wait, are you out to scout Air Groove or \nsomethin'?"
+      "text": "Wait, are you out to scout Air Groove or \nsomethin'?",
+      "choice_data_list": [
+        "If at all possible, please...!"
+      ]
     },
     {
       "name": "Hishi Amazon",

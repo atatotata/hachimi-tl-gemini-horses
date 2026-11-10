@@ -15,7 +15,11 @@
     },
     {
       "name": "Vodka",
-      "text": "Hmm... So that's what's goin' on."
+      "text": "Hmm... So that's what's goin' on.",
+      "choice_data_list": [
+        "...Are you okay?",
+        "...Are you okay?"
+      ]
     },
     {
       "name": "Vodka",
@@ -39,7 +43,10 @@
     },
     {
       "name": "Vodka",
-      "text": "But I'm not givin' up."
+      "text": "But I'm not givin' up.",
+      "choice_data_list": [
+        "Because backing out is uncool?"
+      ]
     },
     {
       "name": "Vodka",
@@ -195,11 +202,18 @@
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Yeah. If only she picked a different group, \nshe would've easily been \nthe star of the \nshow."
+      "text": "Yeah. If only she picked a different group, \nshe would've easily been \nthe star of the \nshow.",
+      "choice_data_list": [
+        "Hey, stop insulting her—",
+        "Stop insulting her right now—"
+      ]
     },
     {
       "name": "Vodka",
-      "text": "Whoa there! What're ya lookin' so scary \nfor, Trainer?"
+      "text": "Whoa there! What're ya lookin' so scary \nfor, Trainer?",
+      "choice_data_list": [
+        "Vodka..."
+      ]
     },
     {
       "name": "Vodka",

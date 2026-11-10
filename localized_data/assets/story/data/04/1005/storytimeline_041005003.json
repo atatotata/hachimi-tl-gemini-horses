@@ -15,7 +15,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Fuji Kiseki informs me that she can't find \none of the students under \nher care. \nUnfortunately, I have no idea where to \nlook..."
+      "text": "Fuji Kiseki informs me that she can't find \none of the students under \nher care. \nUnfortunately, I have no idea where to \nlook...",
+      "choice_data_list": [
+        "Sorry, I haven't seen them."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -39,7 +42,11 @@
     },
     {
       "name": "Junior Student B",
-      "text": "I know, right? I wonder if she'll be able to \ntrain at all... But it's her \nwe're talking \nabout. I'm sure she'll be fine."
+      "text": "I know, right? I wonder if she'll be able to \ntrain at all... But it's her \nwe're talking \nabout. I'm sure she'll be fine.",
+      "choice_data_list": [
+        "(I should help search too...!)",
+        "(I'll help search too...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -51,7 +58,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Trainer?! What on earth are you doing \nhere? And you're drenched in \nsweat..."
+      "text": "Trainer?! What on earth are you doing \nhere? And you're drenched in \nsweat...",
+      "choice_data_list": [
+        "Thought I'd help search."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -135,7 +145,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "And Trainer, your efforts were heartening \nto see!"
+      "text": "And Trainer, your efforts were heartening \nto see!",
+      "choice_data_list": [
+        "Glad we found it safe and sound."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -179,7 +192,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She wants so badly to entertain and thrill \npeople. I hope she's staying \ncalm about \nthis..."
+      "text": "She wants so badly to entertain and thrill \npeople. I hope she's staying \ncalm about \nthis...",
+      "choice_data_list": [
+        "(...I have a bad feeling.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -191,7 +207,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Oh, it's you. You're that trainer who was \nwith Fuji, aren't ya?"
+      "text": "Oh, it's you. You're that trainer who was \nwith Fuji, aren't ya?",
+      "choice_data_list": [
+        "Did something happen to Fuji Kiseki?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -215,7 +234,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "<i>Huff, puff, huff...</i>"
+      "text": "<i>Huff, puff, huff...</i>",
+      "choice_data_list": [
+        "Fuji Kiseki!!"
+      ]
     },
     {
       "name": "Fuji Kiseki",

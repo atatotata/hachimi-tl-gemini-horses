@@ -27,7 +27,11 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Chirp, chirp...</i>"
+      "text": "<i>Chirp, chirp...</i>",
+      "choice_data_list": [
+        "Just a dream, huh...",
+        "A dream..."
+      ]
     },
     {
       "name": "Monologue",
@@ -199,11 +203,17 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "So let me make this clear, I'm not \ninterested!"
+      "text": "So let me make this clear, I'm not \ninterested!",
+      "choice_data_list": [
+        "...Speed!!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "Let's aim for peak speed together!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -215,7 +225,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Me, the class representative, running in \nEVERY SINGLE RACE, \n<i>RIGHT?!</i>"
+      "text": "Me, the class representative, running in \nEVERY SINGLE RACE, \n<i>RIGHT?!</i>",
+      "choice_data_list": [
+        "......Exactly right!!",
+        "......That's right!!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

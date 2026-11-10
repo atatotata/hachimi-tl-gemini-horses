@@ -59,7 +59,11 @@
     },
     {
       "name": "???",
-      "text": "Hello! Hope you don't mind me!"
+      "text": "Hello! Hope you don't mind me!",
+      "choice_data_list": [
+        "Do you... want to join our team!?",
+        "You want to join the team!?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -87,7 +91,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I know how much of a distraction I can be, \nso now let me make myself \nsparse."
+      "text": "I know how much of a distraction I can be, \nso now let me make myself \nsparse.",
+      "choice_data_list": [
+        "...Are you mad about something?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -111,7 +118,10 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "You've probably already noticed, but she's \npushing herself way too \nhard."
+      "text": "You've probably already noticed, but she's \npushing herself way too \nhard.",
+      "choice_data_list": [
+        "Do you mean your night practice?"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -191,7 +201,11 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "I'm sure she would listen to anything you \nhave to say if you explain it \nto her."
+      "text": "I'm sure she would listen to anything you \nhave to say if you explain it \nto her.",
+      "choice_data_list": [
+        "Yeah, understood.",
+        "Yeah, got it."
+      ]
     },
     {
       "name": "Monologue",

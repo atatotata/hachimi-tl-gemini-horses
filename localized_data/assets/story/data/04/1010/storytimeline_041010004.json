@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "My meeting ran over, and now I'm late for \nmy training session with \nTaiki Shuttle!"
+      "text": "My meeting ran over, and now I'm late for \nmy training session with \nTaiki Shuttle!",
+      "choice_data_list": [
+        "I've got to hurry...!"
+      ]
     },
     {
       "name": "Monologue",
@@ -11,7 +14,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "<i>Sob...</i>"
+      "text": "<i>Sob...</i>",
+      "choice_data_list": [
+        "Taiki, sorry I'm late!",
+        "Taiki, sorry I'm late!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -31,7 +38,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "<i>Sob...</i>"
+      "text": "<i>Sob...</i>",
+      "choice_data_list": [
+        "Calmed down...?",
+        "Calmed down...?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -63,7 +74,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Sorry. Guess all that crying made me \nhungry."
+      "text": "Sorry. Guess all that crying made me \nhungry.",
+      "choice_data_list": [
+        "Want to go get something good to eat?"
+      ]
     },
     {
       "name": "Monologue",
@@ -75,7 +89,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Look at all the food and drinks to choose \nfrom! It's like I've died and \ngone to \nheaven!"
+      "text": "Look at all the food and drinks to choose \nfrom! It's like I've died and \ngone to \nheaven!",
+      "choice_data_list": [
+        "Order whatever you like.",
+        "Order whatever you want."
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -123,7 +141,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Taiki hangs her head sadly. Considering \nhow easily she gets lonely, \nthe \nhomesickness must be particularly hard on \nher."
+      "text": "Taiki hangs her head sadly. Considering \nhow easily she gets lonely, \nthe \nhomesickness must be particularly hard on \nher.",
+      "choice_data_list": [
+        "I'll stay by your side so you're not lonely.",
+        "I'll stay so you won't be lonely."
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -155,7 +177,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "With you by my side, I can take on the \nworld!"
+      "text": "With you by my side, I can take on the \nworld!",
+      "choice_data_list": [
+        "Alright, let's give it our all!!"
+      ]
     },
     {
       "name": "Taiki Shuttle",

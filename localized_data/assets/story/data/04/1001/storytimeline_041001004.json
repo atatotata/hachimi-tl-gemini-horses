@@ -11,11 +11,18 @@
     },
     {
       "name": "Special Week",
-      "text": "<i>Pant... pant...</i> Oh, Trainer?! Were you \nwaiting for me this whole time?! \nBut it's \nalready so late..."
+      "text": "<i>Pant... pant...</i> Oh, Trainer?! Were you \nwaiting for me this whole time?! \nBut it's \nalready so late...",
+      "choice_data_list": [
+        "Want to go out tomorrow?"
+      ]
     },
     {
       "name": "Special Week",
-      "text": "Huh? Go out? Where to?"
+      "text": "Huh? Go out? Where to?",
+      "choice_data_list": [
+        "Let's go see the place you're aiming for!",
+        "Let's go see what you're aiming for!"
+      ]
     },
     {
       "name": "",
@@ -39,7 +46,11 @@
     },
     {
       "name": "Special Week",
-      "text": "This is incredible! The Twinkle Series really \nis somethin' else!"
+      "text": "This is incredible! The Twinkle Series really \nis somethin' else!",
+      "choice_data_list": [
+        "When did you start looking up to it?",
+        "When did you start admiring it?"
+      ]
     },
     {
       "name": "Special Week",
@@ -75,7 +86,10 @@
     },
     {
       "name": "Special Week",
-      "text": "She told me she was proud of me."
+      "text": "She told me she was proud of me.",
+      "choice_data_list": [
+        "Pride?"
+      ]
     },
     {
       "name": "Special Week",
@@ -251,7 +265,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bwahahahaha! Talk about perfect timing!"
+      "text": "Bwahahahaha! Talk about perfect timing!",
+      "choice_data_list": [
+        "...Ahaha!"
+      ]
     },
     {
       "name": "Special Week",

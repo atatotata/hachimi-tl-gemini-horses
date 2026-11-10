@@ -4,7 +4,11 @@
   "text_block_list": [
     {
       "name": "Nakayama Festa",
-      "text": "Huff... huff... That's twenty sprints, \ncomplete. Which means we're \ndone for \ntoday, right?"
+      "text": "Huff... huff... That's twenty sprints, \ncomplete. Which means we're \ndone for \ntoday, right?",
+      "choice_data_list": [
+        "...Good work. You were perfect.",
+        "...Yeah, good work. It was perfect."
+      ]
     },
     {
       "name": "Monologue",
@@ -12,7 +16,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Haha. Man, you really need to work on \nyour poker face."
+      "text": "Haha. Man, you really need to work on \nyour poker face.",
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -24,7 +31,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Okay, so we're definitely going the right \nway. Now we've just gotta \ngo straight until \nwe get outta the trees."
+      "text": "Okay, so we're definitely going the right \nway. Now we've just gotta \ngo straight until \nwe get outta the trees.",
+      "choice_data_list": [
+        "Um, where are we going...?"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -40,7 +50,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It's clear that no one's been through these \nwoods in ages. They're \nunsettlingly \novergrown, and definitely dangerous. We \ncan't even see \nahead of us, so I should \nstop her, but I... I can't."
+      "text": "It's clear that no one's been through these \nwoods in ages. They're \nunsettlingly \novergrown, and definitely dangerous. We \ncan't even see \nahead of us, so I should \nstop her, but I... I can't.",
+      "choice_data_list": [
+        "...Let's go."
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -48,15 +61,26 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Crack!</i>"
+      "text": "<i>Crack!</i>",
+      "choice_data_list": [
+        "Whoa...!!"
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hahaha, you've got some crazy good luck, \nhaving the plank beneath \nyou fall without \ngoin' with it."
+      "text": "Hahaha, you've got some crazy good luck, \nhaving the plank beneath \nyou fall without \ngoin' with it.",
+      "choice_data_list": [
+        "...You have good luck in bad times.",
+        "...You have good luck in bad times."
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "Tch, a dead end. I guess we could double \nback and look for a way \naround the cliff. \nOr..."
+      "text": "Tch, a dead end. I guess we could double \nback and look for a way \naround the cliff. \nOr...",
+      "choice_data_list": [
+        "Climbing up here, I guess.",
+        "Climbing up here, I guess."
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -68,7 +92,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hey, look at the claw marks on this tree. \nWhat do you wanna bet that \na bear did \nthis? An actual, real, wild bear."
+      "text": "Hey, look at the claw marks on this tree. \nWhat do you wanna bet that \na bear did \nthis? An actual, real, wild bear.",
+      "choice_data_list": [
+        "Yeah, looks brand new.",
+        "Yeah, looks brand new."
+      ]
     },
     {
       "name": "Monologue",
@@ -84,7 +112,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Well, speak of the devil, huh? Luck is \n<i>really</i> playin' a game with us \ntonight."
+      "text": "Well, speak of the devil, huh? Luck is \n<i>really</i> playin' a game with us \ntonight.",
+      "choice_data_list": [
+        "...Nakayama, let's hit the beach."
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -104,7 +135,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I can sense <i>everything.</i> The hairs on my \nneck bristle with the bear's \nevery breath. \nMy head's on fire, each step echoing like a \nfeverish \npulse. My whole body's in \noverdrive trying to cheat death."
+      "text": "I can sense <i>everything.</i> The hairs on my \nneck bristle with the bear's \nevery breath. \nMy head's on fire, each step echoing like a \nfeverish \npulse. My whole body's in \noverdrive trying to cheat death.",
+      "choice_data_list": [
+        "(...Ah, this is it. This feeling...!)"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -128,7 +162,10 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Huff... Huff... Dammit. That dumb bear... \ncame outta nowhere... Huff... \nRunnin' after \nus... That was, one hell of, of..."
+      "text": "Huff... Huff... Dammit. That dumb bear... \ncame outta nowhere... Huff... \nRunnin' after \nus... That was, one hell of, of...",
+      "choice_data_list": [
+        "That was a crazy gamble!!!"
+      ]
     },
     {
       "name": "Monologue",
@@ -140,7 +177,10 @@
     },
     {
       "name": "Monologue",
-      "text": "The two of us lie in the sand, laughing like \nmaniacs. Just... the whole \nexperience was \nso crazy, I can't help it. My hands are \ntrembling, and \nit kinda dawns on me..."
+      "text": "The two of us lie in the sand, laughing like \nmaniacs. Just... the whole \nexperience was \nso crazy, I can't help it. My hands are \ntrembling, and \nit kinda dawns on me...",
+      "choice_data_list": [
+        "(...Same feeling. Like that day's walk—)"
+      ]
     },
     {
       "name": "Monologue",
@@ -148,7 +188,11 @@
     },
     {
       "name": "Monologue",
-      "text": "That night, and now... The sensation \ntingling through my body, the\n \nuncontrollable shake in my hands... That's \nnot fear."
+      "text": "That night, and now... The sensation \ntingling through my body, the\n \nuncontrollable shake in my hands... That's \nnot fear.",
+      "choice_data_list": [
+        "...I'm so excited.",
+        "...I'm so excited."
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -172,7 +216,11 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hehe... You look completely out of it. \nDon't tell me that one round of \nthe game \nburned up all your stamina already."
+      "text": "Hehe... You look completely out of it. \nDon't tell me that one round of \nthe game \nburned up all your stamina already.",
+      "choice_data_list": [
+        "Hey... what should we bet next?",
+        "Hey... What should we bet next?"
+      ]
     },
     {
       "name": "Nakayama Festa",

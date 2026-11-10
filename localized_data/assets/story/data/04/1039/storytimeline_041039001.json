@@ -75,7 +75,10 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Agh, h-hey! G-get outta the waaay!"
+      "text": "Agh, h-hey! G-get outta the waaay!",
+      "choice_data_list": [
+        "Whoa... ngh!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +94,11 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Hm? Gaaagh! Th-this is <i>not</i> good! What \ndid I do?!"
+      "text": "Hm? Gaaagh! Th-this is <i>not</i> good! What \ndid I do?!",
+      "choice_data_list": [
+        "(W-What is it this time!?)",
+        "(W-What is it this time!?)"
+      ]
     },
     {
       "name": "Vodka",
@@ -135,7 +142,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't know what's going on, but I decide \nto find out at the student \ncouncil office \nwhere Kawakami Princess was taken."
+      "text": "I don't know what's going on, but I decide \nto find out at the student \ncouncil office \nwhere Kawakami Princess was taken.",
+      "choice_data_list": [
+        "What were you doing just now?",
+        "What were you doing just now?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

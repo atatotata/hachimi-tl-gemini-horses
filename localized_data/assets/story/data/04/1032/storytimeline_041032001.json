@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "My head hurts..."
+      "text": "My head hurts...",
+      "choice_data_list": [
+        "(Wait... what was I doing...?)",
+        "(Wait... what was I doing...?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -11,7 +15,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Hey, you. You're finally awake."
+      "text": "Hey, you. You're finally awake.",
+      "choice_data_list": [
+        "Agnes Tachyon...?"
+      ]
     },
     {
       "name": "Monologue",
@@ -35,7 +42,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "By the way, I'm the one who carried you \nhere while you were \nunconscious. So the \nquestion is <I>how</I>—and <I>why</I>—did you lose\n \nconsciousness?"
+      "text": "By the way, I'm the one who carried you \nhere while you were \nunconscious. So the \nquestion is <I>how</I>—and <I>why</I>—did you lose\n \nconsciousness?",
+      "choice_data_list": [
+        "Um..."
+      ]
     },
     {
       "name": "Monologue",
@@ -99,7 +109,11 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Oh! You there—yes, you, the trainer! Don't \nlet Tachyon through!"
+      "text": "Oh! You there—yes, you, the trainer! Don't \nlet Tachyon through!",
+      "choice_data_list": [
+        "(M-Me...!?)",
+        "(M-Me...!?)"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -115,7 +129,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I certainly do, including the fact that the \ngirl in front of me is the \nculprit who filled \nthe classroom with smoke."
+      "text": "I certainly do, including the fact that the \ngirl in front of me is the \nculprit who filled \nthe classroom with smoke.",
+      "choice_data_list": [
+        "Why is there black smoke in class...?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -123,7 +140,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Research</i>... Agnes Tachyon's eyes light up \nas she says the word."
+      "text": "<i>Research</i>... Agnes Tachyon's eyes light up \nas she says the word.",
+      "choice_data_list": [
+        "(I have a slightly bad feeling...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -131,7 +151,10 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Creak...</i>"
+      "text": "<i>Creak...</i>",
+      "choice_data_list": [
+        "Wait!? I can't move!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -147,11 +170,17 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "After all, you never know when you might \nrun into a researcher \nlooking for a spry, \nhealthy adult male to serve as her test \nsubject, \nright?"
+      "text": "After all, you never know when you might \nrun into a researcher \nlooking for a spry, \nhealthy adult male to serve as her test \nsubject, \nright?",
+      "choice_data_list": [
+        "T-Test subject...!?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "After all, you never know when you might \nrun into a researcher \nlooking for a spry, \nhealthy adult female to serve as her test \nsubject, \nright?"
+      "text": "After all, you never know when you might \nrun into a researcher \nlooking for a spry, \nhealthy adult female to serve as her test \nsubject, \nright?",
+      "choice_data_list": [
+        "T-Test subject...!?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -167,7 +196,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "So, my guinea pig—ah, apologies, I mean \nrookie trainer."
+      "text": "So, my guinea pig—ah, apologies, I mean \nrookie trainer.",
+      "choice_data_list": [
+        "Did you just say 'guinea pig'!?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -175,7 +207,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "More importantly, I have one \nspecial—wait, given your heartiness, I'll\n \nhave you drink three of my medicines."
+      "text": "More importantly, I have one \nspecial—wait, given your heartiness, I'll\n \nhave you drink three of my medicines.",
+      "choice_data_list": [
+        "What kind of medicine...?"
+      ]
     },
     {
       "name": "Agnes Tachyon",

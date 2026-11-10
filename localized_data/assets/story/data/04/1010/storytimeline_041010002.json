@@ -91,7 +91,11 @@
     },
     {
       "name": "Monologue",
-      "text": "But a decision must be made..."
+      "text": "But a decision must be made...",
+      "choice_data_list": [
+        "Nice to work with you, Taiki Shuttle!",
+        "Nice to work with you, Taiki Shuttle!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -135,7 +139,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Though completely unplanned, having \nsomeone with Silence Suzuka's \ntalent join \nour session would undoubtedly prove \nbeneficial."
+      "text": "Though completely unplanned, having \nsomeone with Silence Suzuka's \ntalent join \nour session would undoubtedly prove \nbeneficial.",
+      "choice_data_list": [
+        "If it's okay with you, may I ask?",
+        "If you don't mind, could I ask you?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -151,7 +159,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hold on, Taiki. That was a question for \nyour trainer..."
+      "text": "Hold on, Taiki. That was a question for \nyour trainer...",
+      "choice_data_list": [
+        "You've got this. Go get 'em!",
+        "You'll be fine! Go get 'em!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -167,7 +179,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "<i>Pant, pant...</i> We're back."
+      "text": "<i>Pant, pant...</i> We're back.",
+      "choice_data_list": [
+        "Huh, where's Taiki Shuttle...?"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -179,7 +194,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "But I have my own habit of getting tunnel \nvision whenever I run... I-I'm \nreally sorry!"
+      "text": "But I have my own habit of getting tunnel \nvision whenever I run... I-I'm \nreally sorry!",
+      "choice_data_list": [
+        "Let's go find them...!!"
+      ]
     },
     {
       "name": "Monologue",

@@ -51,7 +51,10 @@
     },
     {
       "name": "Monologue",
-      "text": "After what I saw that night, I can't help but \nfeel as concerned as I am \nexcited."
+      "text": "After what I saw that night, I can't help but \nfeel as concerned as I am \nexcited.",
+      "choice_data_list": [
+        "(Somehow... I have a bad feeling.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -131,7 +134,10 @@
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Huh? Wait, did she just..."
+      "text": "Huh? Wait, did she just...",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Caster",

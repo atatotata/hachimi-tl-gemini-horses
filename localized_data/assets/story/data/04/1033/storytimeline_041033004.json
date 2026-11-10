@@ -3,11 +3,17 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "I haven't gotten the chance to speak with \nAdmire Vega since her \ntryout race, and it's \nbeen gnawing away at me."
+      "text": "I haven't gotten the chance to speak with \nAdmire Vega since her \ntryout race, and it's \nbeen gnawing away at me.",
+      "choice_data_list": [
+        "(I can't leave her like this...!)"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I don't know what hounds her as she runs, \nwhat lies in the chasm she \nalways seems to \nbe peering into, or what burden weighs \nher down..."
+      "text": "I don't know what hounds her as she runs, \nwhat lies in the chasm she \nalways seems to \nbe peering into, or what burden weighs \nher down...",
+      "choice_data_list": [
+        "We have to try to learn first."
+      ]
     },
     {
       "name": "Monologue",
@@ -19,7 +25,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Haaah ha ha ha! If it is our disciple of the \nstars whom you seek, look \nto the lofty \npeaks! Even now she proffers herself to the \ntreacherous \nslopes!"
+      "text": "Haaah ha ha ha! If it is our disciple of the \nstars whom you seek, look \nto the lofty \npeaks! Even now she proffers herself to the \ntreacherous \nslopes!",
+      "choice_data_list": [
+        "...Are you really 'on a mountain'?"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -35,7 +44,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "S-so please don't go! The trails are way \ntoo dangerous for a regular \nperson..."
+      "text": "S-so please don't go! The trails are way \ntoo dangerous for a regular \nperson...",
+      "choice_data_list": [
+        "Thanks, but I still want to go."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -47,7 +59,10 @@
     },
     {
       "name": "Monologue",
-      "text": "After a hearty laugh, she tells me more \nprecisely where I might find \nAdmire Vega."
+      "text": "After a hearty laugh, she tells me more \nprecisely where I might find \nAdmire Vega.",
+      "choice_data_list": [
+        "Thanks, you saved me! See ya!"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -63,7 +78,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "You came to speak with me?"
+      "text": "You came to speak with me?",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -71,7 +90,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Well, that didn't last long. But I'm here \nwith a goal, and I'm going to \nsee it \nthrough!"
+      "text": "Well, that didn't last long. But I'm here \nwith a goal, and I'm going to \nsee it \nthrough!",
+      "choice_data_list": [
+        "(...Let's do this!)",
+        "(...Let's go!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -79,11 +102,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "<i>Pant, pant...</i>"
+      "text": "<i>Pant, pant...</i>",
+      "choice_data_list": [
+        "*pant, pant*...!"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "<i>Pant, pant... Sigh...</i>"
+      "text": "<i>Pant, pant... Sigh...</i>",
+      "choice_data_list": [
+        "*pant, pant*...!"
+      ]
     },
     {
       "name": "Monologue",
@@ -95,7 +124,10 @@
     },
     {
       "name": "Monologue",
-      "text": "As I soldier on despite having lost sight of \nher, the sun sinks far below \nthe treetops."
+      "text": "As I soldier on despite having lost sight of \nher, the sun sinks far below \nthe treetops.",
+      "choice_data_list": [
+        "I can't see my footing... Whoa!"
+      ]
     },
     {
       "name": "Monologue",
@@ -115,11 +147,18 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Are you hurt anywhere?"
+      "text": "...Are you hurt anywhere?",
+      "choice_data_list": [
+        "Huh...? Admire Vega!?"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "I'm the one asking the questions. Are you \nhurt anywhere?"
+      "text": "I'm the one asking the questions. Are you \nhurt anywhere?",
+      "choice_data_list": [
+        "I'm fine. Did you save me...?",
+        "I'm okay. You saved me..."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -139,11 +178,18 @@
     },
     {
       "name": "Admire Vega",
-      "text": "So... why?"
+      "text": "So... why?",
+      "choice_data_list": [
+        "I don't know. But—"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "But?"
+      "text": "But?",
+      "choice_data_list": [
+        "I didn't want to leave you alone.",
+        "I didn't want you to be alone."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -159,7 +205,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "She gave her life in my stead."
+      "text": "She gave her life in my stead.",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -171,19 +220,34 @@
     },
     {
       "name": "Monologue",
-      "text": "Still..."
+      "text": "Still...",
+      "choice_data_list": [
+        "I can't leave you alone...!",
+        "I can't leave you alone...!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "My legs are killing me. It's a miracle my \nbody can still move. But I'm \nhere now, just \nwithin reach."
+      "text": "My legs are killing me. It's a miracle my \nbody can still move. But I'm \nhere now, just \nwithin reach.",
+      "choice_data_list": [
+        "Could you let me be your Trainer?",
+        "Will you let me be your Trainer?"
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "...You really don't learn. Now what?"
+      "text": "...You really don't learn. Now what?",
+      "choice_data_list": [
+        "If you want to go alone, that's fine too.",
+        "If you want to go alone, that's OK."
+      ]
     },
     {
       "name": "Admire Vega",
-      "text": "Huh?"
+      "text": "Huh?",
+      "choice_data_list": [
+        "I'll follow and support on my own."
+      ]
     },
     {
       "name": "Admire Vega",
@@ -223,7 +287,11 @@
     },
     {
       "name": "Monologue",
-      "text": "The next day, I hear a timid knock at my \ndoor and open it to find... \nAdmire Vega!"
+      "text": "The next day, I hear a timid knock at my \ndoor and open it to find... \nAdmire Vega!",
+      "choice_data_list": [
+        "Here to talk about the scouting?",
+        "Here to talk about the scouting?"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -235,7 +303,11 @@
     },
     {
       "name": "Admire Vega",
-      "text": "It might as well be you."
+      "text": "It might as well be you.",
+      "choice_data_list": [
+        "Thanks. Counting on you.",
+        "Thanks. Counting on you."
+      ]
     },
     {
       "name": "Monologue",

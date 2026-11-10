@@ -43,7 +43,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Everyone... I am so, so sorry."
+      "text": "Everyone... I am so, so sorry.",
+      "choice_data_list": [
+        "Ah, McQueen!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -75,7 +78,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "But where <i>is</i> that star, might I ask?"
+      "text": "But where <i>is</i> that star, might I ask?",
+      "choice_data_list": [
+        "Yeah, a little..."
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -211,11 +217,18 @@
     },
     {
       "name": "",
-      "text": "That's it. That's what I need to do. I need \nto stand by her side, and \noffer her my faith \nand support."
+      "text": "That's it. That's what I need to do. I need \nto stand by her side, and \noffer her my faith \nand support.",
+      "choice_data_list": [
+        "I'll go look for McQueen!"
+      ]
     },
     {
       "name": "",
-      "text": "That's it. That's what I need to do. I need \nto stand by her side, and \noffer her my faith \nand support."
+      "text": "That's it. That's what I need to do. I need \nto stand by her side, and \noffer her my faith \nand support.",
+      "choice_data_list": [
+        "I'll go look for McQueen!",
+        "I'll go look for McQueen!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -231,7 +244,11 @@
     },
     {
       "name": "Sincere Umamusume",
-      "text": "Maybe she went to the shrine? I'll drop by \nand check!"
+      "text": "Maybe she went to the shrine? I'll drop by \nand check!",
+      "choice_data_list": [
+        "Everyone... Alright, let's go!",
+        "Everyone... Yeah, let's go!"
+      ]
     },
     {
       "name": "<username>",
