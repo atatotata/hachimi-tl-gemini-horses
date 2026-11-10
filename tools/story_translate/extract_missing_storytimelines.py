@@ -20,7 +20,7 @@ DAT_DIR = DATA / "Persistent" / "dat"
 META_PATH = DATA / "Persistent" / "meta"
 MASTER_PATH = DATA / "Persistent" / "master" / "master.mdb"
 REPO_STORY = GAME / "gemini_horses" / "localized_data" / "assets" / "story" / "data"
-OUT_DIR = Path(r"E:\AI_Offload\TMP\opencode\new_scenario_fetch")
+OUT_DIR = Path(r"C:\TMP\opencode\new_scenario_fetch")
 STORY_JSON_DIR = OUT_DIR / "story_json"
 
 sys.path.insert(0, str(GAME / "gemini_horses" / "tools" / "umamusu-utils" / "scripts"))
@@ -137,10 +137,19 @@ def extract_bundle(data, basename):
 
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--ids", default="",
+                    help="comma-separated story IDs to restrict extraction to")
+    args = ap.parse_args()
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     STORY_JSON_DIR.mkdir(parents=True, exist_ok=True)
 
     ids = missing_ids()
+    if args.ids:
+        wanted = {int(x) for x in args.ids.split(",") if x.strip()}
+        ids = [sid for sid in ids if sid in wanted]
     print(f"Missing storytimeline IDs: {len(ids)}")
     resolved = resolve_meta(ids)
     print(f"Resolved in meta: {len(resolved)} / {len(ids)}")
