@@ -4,7 +4,10 @@
   "text_block_list": [
     {
       "name": "Taiyaki Shop Attendant",
-      "text": "Taiyaki! Taiyaki! Get yer taiyaki hot and \nsteamin' right off the press! \nThis'll be \ntoday's last!"
+      "text": "Taiyaki! Taiyaki! Get yer taiyaki hot and \nsteamin' right off the press! \nThis'll be \ntoday's last!",
+      "choice_data_list": [
+        "Excuse me, could I get one—"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -12,7 +15,10 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Huh?! Wh-wh-whoa, sorry! Please, go on \nahead!"
+      "text": "Huh?! Wh-wh-whoa, sorry! Please, go on \nahead!",
+      "choice_data_list": [
+        "No, go right ahead."
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -20,7 +26,11 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Mm! Soft and flaky, chewy-gooey \ndeliciousness. And now I'm stuffed!"
+      "text": "Mm! Soft and flaky, chewy-gooey \ndeliciousness. And now I'm stuffed!",
+      "choice_data_list": [
+        "Sorry for taking half.",
+        "Sorry for taking half."
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -36,7 +46,10 @@
     },
     {
       "name": "Meat Bun Shop Attendant",
-      "text": "Meat buns, meat buns! Meet yer new \nfavorite snack—my last remainin' \nmeat bun!"
+      "text": "Meat buns, meat buns! Meet yer new \nfavorite snack—my last remainin' \nmeat bun!",
+      "choice_data_list": [
+        "Excuse me, could I get one—"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -120,7 +133,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Mihono Bourbon's regimen is known \nthroughout the academy as being\n \nespecially tough. Most students give up \nafter one ramp dash."
+      "text": "Mihono Bourbon's regimen is known \nthroughout the academy as being\n \nespecially tough. Most students give up \nafter one ramp dash.",
+      "choice_data_list": [
+        "(Not flashy, but solid base talent.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -172,7 +188,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She hands me her notebook, which I \nquickly take a look at. The \ntraining plan \nneatly notated on the calendar appears \nmoderately \ntough."
+      "text": "She hands me her notebook, which I \nquickly take a look at. The \ntraining plan \nneatly notated on the calendar appears \nmoderately \ntough.",
+      "choice_data_list": [
+        "Whoa, good job!"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -184,7 +203,10 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I just want to do what I can for now, 'cause \nI know it'll all work out for \nme eventually!"
+      "text": "I just want to do what I can for now, 'cause \nI know it'll all work out for \nme eventually!",
+      "choice_data_list": [
+        "!"
+      ]
     },
     {
       "name": "Monologue",
@@ -196,7 +218,11 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hm? Somethin' up?"
+      "text": "Hm? Somethin' up?",
+      "choice_data_list": [
+        "Will you form a contract with me?",
+        "Would you sign with me?"
+      ]
     },
     {
       "name": "Matikanetannhauser",

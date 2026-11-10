@@ -3,19 +3,31 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One afternoon, I spot an Umamusume by \nthe school gate, seemingly \nlooking around \nfor something."
+      "text": "One afternoon, I spot an Umamusume by \nthe school gate, seemingly \nlooking around \nfor something.",
+      "choice_data_list": [
+        "Looking for something?"
+      ]
     },
     {
       "name": "???",
-      "text": "Oh... Thank you for asking. Your words \nride upon such a gentle \nbreeze. By chance, \nwould you know where to find a healing \nwind?"
+      "text": "Oh... Thank you for asking. Your words \nride upon such a gentle \nbreeze. By chance, \nwould you know where to find a healing \nwind?",
+      "choice_data_list": [
+        "...What did you say?"
+      ]
     },
     {
       "name": "???",
-      "text": "A healing wind. There was a rather violent \ngust, you see, and poor \nlittle Daruma got \nshaken about like a petal in a spring \nshower."
+      "text": "A healing wind. There was a rather violent \ngust, you see, and poor \nlittle Daruma got \nshaken about like a petal in a spring \nshower.",
+      "choice_data_list": [
+        "????????"
+      ]
     },
     {
       "name": "???",
-      "text": "So that's why I've been trying to find a \nlighter, refreshing current, but \nI'm afraid \nI've not been having much luck."
+      "text": "So that's why I've been trying to find a \nlighter, refreshing current, but \nI'm afraid \nI've not been having much luck.",
+      "choice_data_list": [
+        "Sorry, I have no clue what..."
+      ]
     },
     {
       "name": "???",
@@ -23,7 +35,10 @@
     },
     {
       "name": "???",
-      "text": "I'm afraid my search is somewhat pressing, \nso I must be away. Thank \nyou again for \nyour concern, stranger of the soft breeze."
+      "text": "I'm afraid my search is somewhat pressing, \nso I must be away. Thank \nyou again for \nyour concern, stranger of the soft breeze.",
+      "choice_data_list": [
+        "What was that all about...?"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -43,7 +58,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "...How are you doing, Daruma? Just hang \nin there a little longer for \nme, okay?"
+      "text": "...How are you doing, Daruma? Just hang \nin there a little longer for \nme, okay?",
+      "choice_data_list": [
+        "...Finally found you."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -51,7 +69,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "You're... the one with the gentle breeze \nfrom before. Don't tell me \nyou whooshed \nalong after me?"
+      "text": "You're... the one with the gentle breeze \nfrom before. Don't tell me \nyou whooshed \nalong after me?",
+      "choice_data_list": [
+        "Yeah. I was just wondering."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -63,7 +84,10 @@
     },
     {
       "name": "Monologue",
-      "text": "While it looks like a regular old bird, \nmaybe this is the \"poor little \nDaruma\" she \nwas talking about? It looks a bit \nbattered..."
+      "text": "While it looks like a regular old bird, \nmaybe this is the \"poor little \nDaruma\" she \nwas talking about? It looks a bit \nbattered...",
+      "choice_data_list": [
+        "You want to treat a hurt bird?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -71,7 +95,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm still not sure how much of the wind talk \nis literal, but I'm getting \nthe gist: she's \ntrying to find shelter for the shaken thrush."
+      "text": "I'm still not sure how much of the wind talk \nis literal, but I'm getting \nthe gist: she's \ntrying to find shelter for the shaken thrush.",
+      "choice_data_list": [
+        "Can't leave it be. Let's help."
+      ]
     },
     {
       "name": "Monologue",
@@ -83,11 +110,17 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "This room... It looks like we've taken over \nsome trainer's office. Do \nyou think they'll \nmind that we've borrowed it?"
+      "text": "This room... It looks like we've taken over \nsome trainer's office. Do \nyou think they'll \nmind that we've borrowed it?",
+      "choice_data_list": [
+        "Um... I'm a Trainer..."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Oh! I didn't realize."
+      "text": "Oh! I didn't realize.",
+      "choice_data_list": [
+        "I'm wearing my Trainer badge, but..."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -115,7 +148,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "The hot, still air is swept out by the light \nchill of night... like nature's \noffering us \nrefreshments. What do you think?"
+      "text": "The hot, still air is swept out by the light \nchill of night... like nature's \noffering us \nrefreshments. What do you think?",
+      "choice_data_list": [
+        "Thanks. Best reward ever."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -123,7 +159,10 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "I like to come up here when air pressure \nweighs my mind down. It \nnever fails to get \nme feeling like a leaf, dancing happily in \nthe \nbreeze."
+      "text": "I like to come up here when air pressure \nweighs my mind down. It \nnever fails to get \nme feeling like a leaf, dancing happily in \nthe \nbreeze.",
+      "choice_data_list": [
+        "Sorry... I have no idea."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -139,7 +178,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I just..."
+      "text": "I just...",
+      "choice_data_list": [
+        "I just know that you're in trouble.",
+        "I just know that you're in trouble."
+      ]
     },
     {
       "name": "Yamanin Zephyr",

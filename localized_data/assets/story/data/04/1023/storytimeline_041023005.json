@@ -36,7 +36,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Extraordinary,\" huh?"
+      "text": "\"Extraordinary,\" huh?",
+      "choice_data_list": [
+        "Hayahide?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -52,11 +55,18 @@
     },
     {
       "name": "Monologue",
-      "text": "Even after leaving the cafeteria, she seems \nlost in thought."
+      "text": "Even after leaving the cafeteria, she seems \nlost in thought.",
+      "choice_data_list": [
+        "...Mind on your classmates?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ah... Actually, no. My apologies. It's \nnothing."
+      "text": "Ah... Actually, no. My apologies. It's \nnothing.",
+      "choice_data_list": [
+        "If you don't mind me, feel free to talk.",
+        "Tell me if you don't mind."
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -84,7 +94,11 @@
     },
     {
       "name": "Monologue",
-      "text": "She may have complicated feelings about \nher exceptional sibling that \nothers \nwouldn't understand. But even so..."
+      "text": "She may have complicated feelings about \nher exceptional sibling that \nothers \nwouldn't understand. But even so...",
+      "choice_data_list": [
+        "Your theory is an amazing weapon!",
+        "Your theory is an incredible weapon!"
+      ]
     },
     {
       "name": "Monologue",

@@ -243,7 +243,11 @@
     },
     {
       "name": "<username>",
-      "text": "You've put in more than enough work to \nwin this race. If it pays off \nhere, your next \nstop is the Prix de l'Arc de Triomphe..."
+      "text": "You've put in more than enough work to \nwin this race. If it pays off \nhere, your next \nstop is the Prix de l'Arc de Triomphe...",
+      "choice_data_list": [
+        "We're definitely winning this race!",
+        "Let's definitely win this race!"
+      ]
     },
     {
       "name": "Special Week",

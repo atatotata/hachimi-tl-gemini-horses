@@ -27,7 +27,11 @@
     },
     {
       "name": "New Trainer A",
-      "text": "L-look at her!"
+      "text": "L-look at her!",
+      "choice_data_list": [
+        "(What a magnificent run...!)",
+        "(What a magnificent run...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -199,15 +203,26 @@
     },
     {
       "name": "Maruzensky",
-      "text": "So, what kind of approach will you use? \nSomething like how you saw \nfuture glory in \nmy running?"
+      "text": "So, what kind of approach will you use? \nSomething like how you saw \nfuture glory in \nmy running?",
+      "choice_data_list": [
+        "No, it's just...",
+        "No, it's just..."
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "So, what kind of approach will you use? \nSomething like how you saw \nfuture glory in \nmy running?"
+      "text": "So, what kind of approach will you use? \nSomething like how you saw \nfuture glory in \nmy running?",
+      "choice_data_list": [
+        "No, it's just...",
+        "No, it's just..."
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "...Just?"
+      "text": "...Just?",
+      "choice_data_list": [
+        "You looked like you had fun."
+      ]
     },
     {
       "name": "Maruzensky",

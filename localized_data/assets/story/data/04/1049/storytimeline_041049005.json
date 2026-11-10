@@ -12,7 +12,10 @@
     },
     {
       "name": "Tracen Teacher",
-      "text": "<i>Sigh,</i> now what? If she doesn't get that \nassignment in this week, I'll \nhave to give \nher a zero for it..."
+      "text": "<i>Sigh,</i> now what? If she doesn't get that \nassignment in this week, I'll \nhave to give \nher a zero for it...",
+      "choice_data_list": [
+        "I-I'll help search...!!"
+      ]
     },
     {
       "name": "Nakayama's Classmate A",
@@ -20,7 +23,10 @@
     },
     {
       "name": "Nakayama's Classmate B",
-      "text": "She's kinda got a bad vibe, like you \nshouldn't go near her. Like, I \nheard she \nliterally got questioned by the police the \nother day..."
+      "text": "She's kinda got a bad vibe, like you \nshouldn't go near her. Like, I \nheard she \nliterally got questioned by the police the \nother day...",
+      "choice_data_list": [
+        "Taken into custody...?"
+      ]
     },
     {
       "name": "Nakayama's Classmate B",
@@ -28,11 +34,19 @@
     },
     {
       "name": "Delinquent Umamusume",
-      "text": "Huh? How the hell should I know? I don't \ncare where she is, but I \n<i>swear,</i> if one more \nperson comes whining about Nakayama \nthis, \nNakayama that..."
+      "text": "Huh? How the hell should I know? I don't \ncare where she is, but I \n<i>swear,</i> if one more \nperson comes whining about Nakayama \nthis, \nNakayama that...",
+      "choice_data_list": [
+        "Wait, someone besides me...?",
+        "Wait, someone besides me...?"
+      ]
     },
     {
       "name": "Delinquent Boy",
-      "text": "Yeah, there was some guy asking around \nfor her. But that's nothing \nnew. I'm \nguessing she ripped you off too, huh?"
+      "text": "Yeah, there was some guy asking around \nfor her. But that's nothing \nnew. I'm \nguessing she ripped you off too, huh?",
+      "choice_data_list": [
+        "!? Tell me more about that...!",
+        "!? Tell me more about that...!"
+      ]
     },
     {
       "name": "Delinquent Umamusume",
@@ -44,7 +58,10 @@
     },
     {
       "name": "Delinquent Umamusume",
-      "text": "I dunno what they put on the table, but \nthey're lookin' for her like \ntheir life \ndepends on it. Yeesh. Who knows what'll \nhappen if they find \nher?"
+      "text": "I dunno what they put on the table, but \nthey're lookin' for her like \ntheir life \ndepends on it. Yeesh. Who knows what'll \nhappen if they find \nher?",
+      "choice_data_list": [
+        "(Strange. That shouldn't be...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -52,11 +69,17 @@
     },
     {
       "name": "Monologue",
-      "text": "I've been looking around for ages now, but \nall I've gotten out of it is \nmore rumors \nbadmouthing Nakayama. It's just, I find \nthem hard to \nbelieve, knowing how—"
+      "text": "I've been looking around for ages now, but \nall I've gotten out of it is \nmore rumors \nbadmouthing Nakayama. It's just, I find \nthem hard to \nbelieve, knowing how—",
+      "choice_data_list": [
+        "Ah, Nakayama!!"
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "Hm? Oh, Trainer. You look like a mess. \nWhat's wrong?"
+      "text": "Hm? Oh, Trainer. You look like a mess. \nWhat's wrong?",
+      "choice_data_list": [
+        "No, actually..."
+      ]
     },
     {
       "name": "Monologue",
@@ -80,11 +103,19 @@
     },
     {
       "name": "Monologue",
-      "text": "Hearing that, it makes sense. With all the \nrisky contests she takes on, \nthere's bound \nto be a few sore losers out there. I can't let \nthem scare \nme off. I'm her trainer, so..."
+      "text": "Hearing that, it makes sense. With all the \nrisky contests she takes on, \nthere's bound \nto be a few sore losers out there. I can't let \nthem scare \nme off. I'm her trainer, so...",
+      "choice_data_list": [
+        "If anything happens, I'll protect you.",
+        "If anything happens, I'll protect you."
+      ]
     },
     {
       "name": "Nakayama Festa",
-      "text": "Oh yeah? You're awful cheery about it. \nThere's every chance that the \npeople after \nme might go after you."
+      "text": "Oh yeah? You're awful cheery about it. \nThere's every chance that the \npeople after \nme might go after you.",
+      "choice_data_list": [
+        "Whatever happens, I'll support you.",
+        "Whatever happens, I'll support you."
+      ]
     },
     {
       "name": "Nakayama Festa",

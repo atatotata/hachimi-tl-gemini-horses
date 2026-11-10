@@ -39,7 +39,10 @@
     },
     {
       "name": "Classmate B",
-      "text": "\"A Symphony\"? Uh... Marketing aside, why \nDoto? I mean... She's just \ngonna goof up, \nright?"
+      "text": "\"A Symphony\"? Uh... Marketing aside, why \nDoto? I mean... She's just \ngonna goof up, \nright?",
+      "choice_data_list": [
+        "(D-Do your best, Meisho Doto...!)"
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -119,7 +122,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Aaaah!"
+      "text": "Aaaah!",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Caster",
@@ -199,7 +205,11 @@
     },
     {
       "name": "Monologue",
-      "text": "This racer has fallen countless times and \ncried innumerable tears. Yet \nevery time, \nshe wiped her eyes and picked herself \nback up."
+      "text": "This racer has fallen countless times and \ncried innumerable tears. Yet \nevery time, \nshe wiped her eyes and picked herself \nback up.",
+      "choice_data_list": [
+        "You're a strong Umamusume.",
+        "You're a strong Uma Musume, aren't you?"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -207,15 +217,26 @@
     },
     {
       "name": "Monologue",
-      "text": "If it's change she wants, I know she has \nwhat it takes to make it \nhappen. After all... \nshe never knows when to quit."
+      "text": "If it's change she wants, I know she has \nwhat it takes to make it \nhappen. After all... \nshe never knows when to quit.",
+      "choice_data_list": [
+        "—I want to see where that leads you.",
+        "...I want to see where you go."
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "W-wait... Does that mean..."
+      "text": "W-wait... Does that mean...",
+      "choice_data_list": [
+        "I want to be your Trainer."
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "What?! A-a-are you sure you want \nm-m-m-me?!"
+      "text": "What?! A-a-are you sure you want \nm-m-m-me?!",
+      "choice_data_list": [
+        "I want you!",
+        "I want it to be you!"
+      ]
     },
     {
       "name": "Meisho Doto",

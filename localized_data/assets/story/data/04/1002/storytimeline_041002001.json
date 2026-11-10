@@ -11,7 +11,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "<I>Huff... huff... huff...</I>"
+      "text": "<I>Huff... huff... huff...</I>",
+      "choice_data_list": [
+        "(She looks like she's having so much fun...)",
+        "(She looks like she's having so much fun...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -43,7 +47,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Um... Is there something I can do for you?"
+      "text": "Um... Is there something I can do for you?",
+      "choice_data_list": [
+        "No, you just looked so happy running.",
+        "No, you just looked so happy."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -103,11 +111,18 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Phew..."
+      "text": "Phew...",
+      "choice_data_list": [
+        "(I really want to scout her...!)",
+        "(I really want to scout her...!)"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Of course, I am not the only one to have \nsuch a thought."
+      "text": "Of course, I am not the only one to have \nsuch a thought.",
+      "choice_data_list": [
+        "Suzuka—"
+      ]
     },
     {
       "name": "Veteran Trainer B",
@@ -139,7 +154,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "All right. I accept your scouting offer."
+      "text": "All right. I accept your scouting offer.",
+      "choice_data_list": [
+        "(Shoot, she beat me to it...!)",
+        "(Shoot, someone beat me to it...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -151,7 +170,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I enter the library one day to find Silence \nSuzuka and Air Groove \nengaged in a \nrather technical-sounding conversation."
+      "text": "I enter the library one day to find Silence \nSuzuka and Air Groove \nengaged in a \nrather technical-sounding conversation.",
+      "choice_data_list": [
+        "(Are they having a study group...?)",
+        "(Are they having a study group...?)"
+      ]
     },
     {
       "name": "Air Groove",
