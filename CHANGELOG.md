@@ -1,3 +1,8 @@
+## 2026-11-09 -- adopt official Global wording
+- Overlaid official Global English over 25,814 older strings: missions, event titles, items, race-menu labels, factors.
+- 149 manually scaled labels kept as-is so the JP UI frames do not clip.
+- Skills and Shared Data untouched; 422 Global-only keys skipped because JP has no such row.
+
 # Changelog
 
 ## 2026-11-09 -- JP 2026-11 update
