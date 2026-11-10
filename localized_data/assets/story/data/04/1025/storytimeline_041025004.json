@@ -11,11 +11,17 @@
     },
     {
       "name": "New Trainer A",
-      "text": "<username>, are you \nreally looking to scout her?"
+      "text": "<username>, are you \nreally looking to scout her?",
+      "choice_data_list": [
+        "That's the plan."
+      ]
     },
     {
       "name": "New Trainer B",
-      "text": "Sure, she's a great runner, but the way she \nkeeps going on and on \nabout that \nimaginary \"friend\" of hers is unsettling. \nYou're not put off \nby it?"
+      "text": "Sure, she's a great runner, but the way she \nkeeps going on and on \nabout that \nimaginary \"friend\" of hers is unsettling. \nYou're not put off \nby it?",
+      "choice_data_list": [
+        "I think your \"friend\" is there."
+      ]
     },
     {
       "name": "New Trainer A",
@@ -35,11 +41,17 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "... \nI'm sorry... You were clearly in the \nmiddle of something."
+      "text": "... \nI'm sorry... You were clearly in the \nmiddle of something.",
+      "choice_data_list": [
+        "Don't worry."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "Is your \"friend\" here today too?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -47,7 +59,10 @@
     },
     {
       "name": "Monologue",
-      "text": "There are many capable runners set to \ntake to the track today. She'll \nneed to \nfocus on outpacing them over anything \nelse. Will her friend \nend up leading the \npack, I wonder..."
+      "text": "There are many capable runners set to \ntake to the track today. She'll \nneed to \nfocus on outpacing them over anything \nelse. Will her friend \nend up leading the \npack, I wonder...",
+      "choice_data_list": [
+        "Let's go at our own pace!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -55,7 +70,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I was sure... that you couldn't see her. But \nit really feels like... you can..."
+      "text": "I was sure... that you couldn't see her. But \nit really feels like... you can...",
+      "choice_data_list": [
+        "Huh? What did you just—"
+      ]
     },
     {
       "name": "Tryouts Staff A",
@@ -183,7 +201,11 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Since then... my friend has been running \never forward... In front of \nme..."
+      "text": "Since then... my friend has been running \never forward... In front of \nme...",
+      "choice_data_list": [
+        "They're a precious \"friend,\" huh?",
+        "They're a precious \"friend,\" huh?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -207,15 +229,25 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "... \nYou still can't see her, right? So... Um..."
+      "text": "... \nYou still can't see her, right? So... Um...",
+      "choice_data_list": [
+        "Keep telling me about your friend."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "I want to scout you.",
+        "I want to scout you."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "... \nDo you think... I can catch up with her?"
+      "text": "... \nDo you think... I can catch up with her?",
+      "choice_data_list": [
+        "Let's pass them!!"
+      ]
     },
     {
       "name": "Manhattan Cafe",

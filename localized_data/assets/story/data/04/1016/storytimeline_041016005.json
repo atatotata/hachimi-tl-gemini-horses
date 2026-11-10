@@ -40,7 +40,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Conversation over. Let's start training."
+      "text": "Conversation over. Let's start training.",
+      "choice_data_list": [
+        "I want to get to know you better.",
+        "I want to know more about you."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -96,11 +100,17 @@
     },
     {
       "name": "Narita Brian",
-      "text": "That's enough. Talking more won't get me \nanywhere. Let's drop this \npointless discu—"
+      "text": "That's enough. Talking more won't get me \nanywhere. Let's drop this \npointless discu—",
+      "choice_data_list": [
+        "It wasn't a waste."
+      ]
     },
     {
       "name": "Narita Brian",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "It definitely won't be wasted."
+      ]
     },
     {
       "name": "Narita Brian",

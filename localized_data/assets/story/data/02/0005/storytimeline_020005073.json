@@ -75,7 +75,11 @@
     },
     {
       "name": "<username>",
-      "text": "Well, if it's a thank-you like that, I \nsuppose I can accept it."
+      "text": "Well, if it's a thank-you like that, I \nsuppose I can accept it.",
+      "choice_data_list": [
+        "We'll keep seeing this view together!",
+        "Let's keep seeing this view together!"
+      ]
     },
     {
       "name": "Silence Suzuka",

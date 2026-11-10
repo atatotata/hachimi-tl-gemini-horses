@@ -11,7 +11,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Ah, there you are! Got a minute? I wanted \nto talk to you about the \nDerby exhibit."
+      "text": "Ah, there you are! Got a minute? I wanted \nto talk to you about the \nDerby exhibit.",
+      "choice_data_list": [
+        "What did you want to discuss?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -199,11 +202,17 @@
     },
     {
       "name": "<username>",
-      "text": "A dream yet unfulfilled... It dawns on me \nthat I've been given \nsomething very \nprecious. My mentor really believes in \nme..."
+      "text": "A dream yet unfulfilled... It dawns on me \nthat I've been given \nsomething very \nprecious. My mentor really believes in \nme...",
+      "choice_data_list": [
+        "...I want to win the Derby."
+      ]
     },
     {
       "name": "<username>",
-      "text": "A dream yet unfulfilled... It dawns on me \nthat I've been given \nsomething very \nprecious. My mentor really believes in \nme..."
+      "text": "A dream yet unfulfilled... It dawns on me \nthat I've been given \nsomething very \nprecious. My mentor really believes in \nme...",
+      "choice_data_list": [
+        "...I want to win the Derby."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -231,7 +240,11 @@
     },
     {
       "name": "",
-      "text": "Could this be fate? It certainly feels like it."
+      "text": "Could this be fate? It certainly feels like it.",
+      "choice_data_list": [
+        "Hey, want to aim for it together?",
+        "Hey, want to aim for it together?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -271,7 +284,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "For... for real? You sure you wanna partner \nup with me?"
+      "text": "For... for real? You sure you wanna partner \nup with me?",
+      "choice_data_list": [
+        "I want you!",
+        "I want it to be you!"
+      ]
     },
     {
       "name": "Winning Ticket",

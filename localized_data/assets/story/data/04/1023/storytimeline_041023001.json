@@ -12,7 +12,10 @@
     },
     {
       "name": "",
-      "text": "Something falls from above. It glitters in \nthe light, reflecting the \nsetting sun."
+      "text": "Something falls from above. It glitters in \nthe light, reflecting the \nsetting sun.",
+      "choice_data_list": [
+        "(Glasses...?)"
+      ]
     },
     {
       "name": "???",
@@ -20,11 +23,18 @@
     },
     {
       "name": "",
-      "text": "I hear a sharp, clear voice overhead. \nLooking up, there's an \nUmamusume poking \nout from a classroom window."
+      "text": "I hear a sharp, clear voice overhead. \nLooking up, there's an \nUmamusume poking \nout from a classroom window.",
+      "choice_data_list": [
+        "Is this yours?",
+        "Is this yours?"
+      ]
     },
     {
       "name": "???",
-      "text": "Yes! My apologies—I was lost in thought, \nand they must've fallen off."
+      "text": "Yes! My apologies—I was lost in thought, \nand they must've fallen off.",
+      "choice_data_list": [
+        "I'll deliver it over to you!"
+      ]
     },
     {
       "name": "???",
@@ -52,7 +62,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You have my thanks. Now I will not be \nhindered tomorrow."
+      "text": "You have my thanks. Now I will not be \nhindered tomorrow.",
+      "choice_data_list": [
+        "Tomorrow?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -80,7 +93,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I suppose... I can reveal one thing."
+      "text": "I suppose... I can reveal one thing.",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -92,7 +108,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Then I will gain a lead of no less than ten \nlengths—and place first."
+      "text": "Then I will gain a lead of no less than ten \nlengths—and place first.",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Biwa Hayahide",

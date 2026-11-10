@@ -28,7 +28,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I can't help but hesitate. If I switch \nBamboo over too soon, it could \naffect the \nrest of her career. I know that, but... But!"
+      "text": "I can't help but hesitate. If I switch \nBamboo over too soon, it could \naffect the \nrest of her career. I know that, but... But!",
+      "choice_data_list": [
+        "It's okay. Bamboo can run on turf."
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -88,15 +91,26 @@
     },
     {
       "name": "Caster",
-      "text": "Bamboo Memory usually leaps ahead, but \nshe's hanging near the \nback today! Is she \nplaying things safe for her first ever turf \nrace?"
+      "text": "Bamboo Memory usually leaps ahead, but \nshe's hanging near the \nback today! Is she \nplaying things safe for her first ever turf \nrace?",
+      "choice_data_list": [
+        "(All right, looking good...!)",
+        "(All right, nice...!)"
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "Wait, why did you stop me? I was off to a \nsuper great start!"
+      "text": "Wait, why did you stop me? I was off to a \nsuper great start!",
+      "choice_data_list": [
+        "Don't go too fast at first."
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "Hmmm... Isn't that the best time to go \nall-out and shoot ahead, \nthough? The \nstart's when I've got the most energy!"
+      "text": "Hmmm... Isn't that the best time to go \nall-out and shoot ahead, \nthough? The \nstart's when I've got the most energy!",
+      "choice_data_list": [
+        "You took care of your nails, right?",
+        "You took care of your nails, right?"
+      ]
     },
     {
       "name": "Bamboo Memory",
@@ -120,7 +134,10 @@
     },
     {
       "name": "Caster",
-      "text": "The front pack is still closely-knit as our \nracers begin rounding the \nfourth corner! \nThey're almost at the final—oh?!"
+      "text": "The front pack is still closely-knit as our \nracers begin rounding the \nfourth corner! \nThey're almost at the final—oh?!",
+      "choice_data_list": [
+        "Go, Bamboo!!"
+      ]
     },
     {
       "name": "Caster",
@@ -180,11 +197,18 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Trainer, I..."
+      "text": "Trainer, I...",
+      "choice_data_list": [
+        "You did great...!",
+        "You did great...!"
+      ]
     },
     {
       "name": "Bamboo Memory",
-      "text": "<i>Sniff... Sob!</i> It's just—it's so, <i>so</i> frustrating!"
+      "text": "<i>Sniff... Sob!</i> It's just—it's so, <i>so</i> frustrating!",
+      "choice_data_list": [
+        "We'll win next time!!"
+      ]
     },
     {
       "name": "Bamboo Memory",

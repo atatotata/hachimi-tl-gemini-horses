@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "One day, heavy rain necessitates we \ncancel our outdoor training. I'm \nspending \ntime in my office to put together an indoor \ntraining plan."
+      "text": "One day, heavy rain necessitates we \ncancel our outdoor training. I'm \nspending \ntime in my office to put together an indoor \ntraining plan.",
+      "choice_data_list": [
+        "(Huh...? Where's my pen?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -15,11 +18,17 @@
     },
     {
       "name": "Monologue",
-      "text": "<i>Bump!</i>"
+      "text": "<i>Bump!</i>",
+      "choice_data_list": [
+        "Whoa!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Though I'm alone in my office, I feel as if \nsomeone has collided with \nme, and I \nstumble forward."
+      "text": "Though I'm alone in my office, I feel as if \nsomeone has collided with \nme, and I \nstumble forward.",
+      "choice_data_list": [
+        "(...Are you tired?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,11 +40,17 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Phew... Um... trainer? The music..."
+      "text": "Phew... Um... trainer? The music...",
+      "choice_data_list": [
+        "Wait, huh...?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "I notice that the music we were using for \nour shuttle runs has stopped."
+      "text": "I notice that the music we were using for \nour shuttle runs has stopped.",
+      "choice_data_list": [
+        "Sorry! I spaced out!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -43,7 +58,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Hey... Have you, um..."
+      "text": "Hey... Have you, um...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -51,7 +69,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Have you noticed... anything strange \nrecently?"
+      "text": "Have you noticed... anything strange \nrecently?",
+      "choice_data_list": [
+        "……?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -59,11 +80,18 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Maybe you should call it a day here?"
+      "text": "Maybe you should call it a day here?",
+      "choice_data_list": [
+        "Yeah, let's call it a day.",
+        "Yeah, let's call it a day."
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Okay... In that case, I'll be sticking around \na little longer."
+      "text": "Okay... In that case, I'll be sticking around \na little longer.",
+      "choice_data_list": [
+        "If you're training, I'll join you."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -83,7 +111,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I walk outside to find that the rain has \nstopped. I head home while \npondering \nwhat she just told me."
+      "text": "I walk outside to find that the rain has \nstopped. I head home while \npondering \nwhat she just told me.",
+      "choice_data_list": [
+        "(So I can't go see her, huh...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -91,7 +122,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I'm chilled to my very core. It's as if \nsomeone is glaring at me from \nbehind..."
+      "text": "I'm chilled to my very core. It's as if \nsomeone is glaring at me from \nbehind...",
+      "choice_data_list": [
+        "W-Who is that--!?",
+        "W-Who is that--!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -99,11 +134,17 @@
     },
     {
       "name": "???",
-      "text": "...Um."
+      "text": "...Um.",
+      "choice_data_list": [
+        "Whoa!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I forgot... to tell you something."
+      "text": "I forgot... to tell you something.",
+      "choice_data_list": [
+        "Y-Y-You scared me...!"
+      ]
     },
     {
       "name": "Manhattan Cafe",
