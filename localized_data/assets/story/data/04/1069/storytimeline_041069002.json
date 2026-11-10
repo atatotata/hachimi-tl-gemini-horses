@@ -35,11 +35,18 @@
     },
     {
       "name": "Monologue",
-      "text": "When I finally find her, she's absolutely \nsoaked."
+      "text": "When I finally find her, she's absolutely \nsoaked.",
+      "choice_data_list": [
+        "Are you okay?!",
+        "Are you okay!?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Oh! T-Trainer! I, um, I'm fine! I was just \nfeeling a little <i>bleh,</i> so I \nsplashed myself \nwith some water!"
+      "text": "Oh! T-Trainer! I, um, I'm fine! I was just \nfeeling a little <i>bleh,</i> so I \nsplashed myself \nwith some water!",
+      "choice_data_list": [
+        "Itching?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -67,7 +74,11 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "S-something like that, anyway! Ahaha! \nSorry, I'm not making any \nsense!"
+      "text": "S-something like that, anyway! Ahaha! \nSorry, I'm not making any \nsense!",
+      "choice_data_list": [
+        "Won't know until we try, right?",
+        "Won't know until you try, right?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -95,7 +106,10 @@
     },
     {
       "name": "Monologue",
-      "text": "She whips the letter from earlier out of her \npocket and tears it to \nshreds."
+      "text": "She whips the letter from earlier out of her \npocket and tears it to \nshreds.",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -167,7 +181,10 @@
     },
     {
       "name": "Letter",
-      "text": "If I could one day run alongside you in \nfront of thousands, it would be \na dream \ncome true."
+      "text": "If I could one day run alongside you in \nfront of thousands, it would be \na dream \ncome true.",
+      "choice_data_list": [
+        "(It's Maruzensky's presence.)"
+      ]
     },
     {
       "name": "Maruzensky",

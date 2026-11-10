@@ -11,7 +11,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Hmm-hm-hm, hm-hm-hm! ♪\nHmm-hm-hm, \nhm-hm-hm-hmm! ♪"
+      "text": "Hmm-hm-hm, hm-hm-hm! ♪\nHmm-hm-hm, \nhm-hm-hm-hmm! ♪",
+      "choice_data_list": [
+        "(Is a concert... happening?)",
+        "(Is a concert... going on?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +35,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I stop in my tracks to watch her—not from \nfatigue, but from the sheer \ncharm she \nexudes. Seeing her smile somehow fills me \nwith energy, \nboth physically and mentally."
+      "text": "I stop in my tracks to watch her—not from \nfatigue, but from the sheer \ncharm she \nexudes. Seeing her smile somehow fills me \nwith energy, \nboth physically and mentally.",
+      "choice_data_list": [
+        "(...Time for one more push!)",
+        "(...Time for one more push!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -43,11 +51,17 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Voice, check. Air mic, check. Flyers, \ncheck. Perfect! I think I'm \nready! ☆"
+      "text": "Voice, check. Air mic, check. Flyers, \ncheck. Perfect! I think I'm \nready! ☆",
+      "choice_data_list": [
+        "(Huh? Is that girl...)"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Hi, everyooone! Sorry to keep you waiting! \nIt's me, Smart Falcon! I \nhope I make your \nhearts race today! ☆"
+      "text": "Hi, everyooone! Sorry to keep you waiting! \nIt's me, Smart Falcon! I \nhope I make your \nhearts race today! ☆",
+      "choice_data_list": [
+        "!?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -59,7 +73,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "The Falco Fan Club's very first member!"
+      "text": "The Falco Fan Club's very first member!",
+      "choice_data_list": [
+        "!?!?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -67,7 +84,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "But you left halfway through my show, so I \nmissed my chance. I was \nkinda sad you \ndidn't watch 'til the end, but thanks for \nthe applause! ☆"
+      "text": "But you left halfway through my show, so I \nmissed my chance. I was \nkinda sad you \ndidn't watch 'til the end, but thanks for \nthe applause! ☆",
+      "choice_data_list": [
+        "H-Hold on a sec--"
+      ]
     },
     {
       "name": "Teacher A",
@@ -87,7 +107,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "With that said, I gotta run! ♪ C'mon! \nYou're coming with me!"
+      "text": "With that said, I gotta run! ♪ C'mon! \nYou're coming with me!",
+      "choice_data_list": [
+        "Huh?!"
+      ]
     },
     {
       "name": "Monologue",
@@ -99,7 +122,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "<i>Phew...</i> I think we lost her. We should be \nsafe now. ☆"
+      "text": "<i>Phew...</i> I think we lost her. We should be \nsafe now. ☆",
+      "choice_data_list": [
+        "*pant, pant*..."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -107,7 +133,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Let me reintroduce myself! My name's \nSmart Falcon, and I'm an \nUmadol! You can \ncall me Falco though! ♪"
+      "text": "Let me reintroduce myself! My name's \nSmart Falcon, and I'm an \nUmadol! You can \ncall me Falco though! ♪",
+      "choice_data_list": [
+        "An Uma...dol?"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -131,7 +160,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Ummm... A-are you... like... uhhh... a \ntrainer?!"
+      "text": "Ummm... A-are you... like... uhhh... a \ntrainer?!",
+      "choice_data_list": [
+        "That's true, but..."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -143,11 +175,17 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Who would've thought my first fan would \nturn out to be a trainer?! \nWhat a dramatic \nturn of events—perfect for an Umadol! ☆"
+      "text": "Who would've thought my first fan would \nturn out to be a trainer?! \nWhat a dramatic \nturn of events—perfect for an Umadol! ☆",
+      "choice_data_list": [
+        "Huh!?"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Okay, here's your contract! All you need \nto do is sign!"
+      "text": "Okay, here's your contract! All you need \nto do is sign!",
+      "choice_data_list": [
+        "W-Wait!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -155,7 +193,10 @@
     },
     {
       "name": "Monologue",
-      "text": "At this rate, she's going to make me her \ntrainer by force... I should get \nto know her \nbefore this goes any further."
+      "text": "At this rate, she's going to make me her \ntrainer by force... I should get \nto know her \nbefore this goes any further.",
+      "choice_data_list": [
+        "Let me see your run first!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -163,11 +204,18 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Y-you mean like... in a race? Like one of \nthe ones today?"
+      "text": "Y-you mean like... in a race? Like one of \nthe ones today?",
+      "choice_data_list": [
+        "Are you running?",
+        "Are you running?"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Um... yeah... Technically speaking..."
+      "text": "Um... yeah... Technically speaking...",
+      "choice_data_list": [
+        "Then I'd like to see that first."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -175,7 +223,10 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Argh! Whatever! I can do this! Raaaagh! ☆"
+      "text": "Argh! Whatever! I can do this! Raaaagh! ☆",
+      "choice_data_list": [
+        "!?"
+      ]
     },
     {
       "name": "Smart Falcon",

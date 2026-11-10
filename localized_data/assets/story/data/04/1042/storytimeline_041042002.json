@@ -64,7 +64,10 @@
     },
     {
       "name": "Skilled Trainer A",
-      "text": "Ah, so it was a problem with her mood, not \nthe track. And if that's the \ncase... then it \nmight be a deal-breaker."
+      "text": "Ah, so it was a problem with her mood, not \nthe track. And if that's the \ncase... then it \nmight be a deal-breaker.",
+      "choice_data_list": [
+        "Trouble? In what way?"
+      ]
     },
     {
       "name": "Skilled Trainer A",
@@ -112,7 +115,10 @@
     },
     {
       "name": "Seeking the Pearl",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "(...Seeking the Pearl?)"
+      ]
     },
     {
       "name": "Monologue",

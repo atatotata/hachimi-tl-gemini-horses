@@ -35,7 +35,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I don't remember mandating a diet... It \nmust be self-imposed."
+      "text": "I don't remember mandating a diet... It \nmust be self-imposed.",
+      "choice_data_list": [
+        "One piece of cake won't hurt, right?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -87,7 +90,10 @@
     },
     {
       "name": "Monologue",
-      "text": "McQueen looks my way again. I sense that \nshe's struggling to come \nup with a good \nanswer to that question."
+      "text": "McQueen looks my way again. I sense that \nshe's struggling to come \nup with a good \nanswer to that question.",
+      "choice_data_list": [
+        "Yes, thanks to that I recovered."
+      ]
     },
     {
       "name": "<username>",
@@ -103,7 +109,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "McQueen?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -183,7 +192,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Is it fine with you, Trainer?"
+      "text": "Is it fine with you, Trainer?",
+      "choice_data_list": [
+        "I'll leave it to McQueen.",
+        "I'll leave it to McQueen."
+      ]
     },
     {
       "name": "Mejiro McQueen",

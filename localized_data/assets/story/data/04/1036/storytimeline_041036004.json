@@ -7,7 +7,10 @@
     },
     {
       "name": "Skilled Trainer",
-      "text": "Surely you've heard about my session with \nher... She and I couldn't \nsee eye to eye. \nHeck, we barely spoke. I won't be much \nhelp."
+      "text": "Surely you've heard about my session with \nher... She and I couldn't \nsee eye to eye. \nHeck, we barely spoke. I won't be much \nhelp.",
+      "choice_data_list": [
+        "Even if you couldn't understand it."
+      ]
     },
     {
       "name": "Monologue",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I need to know more about her—her \nachievements, her path up until \nnow... \neverything. The more I learn about her, the \nmore I'll \nunderstand."
+      "text": "I need to know more about her—her \nachievements, her path up until \nnow... \neverything. The more I learn about her, the \nmore I'll \nunderstand.",
+      "choice_data_list": [
+        "Please, you have to tell me!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -23,7 +29,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ah, you there. I emailed you just now, so \nbe sure to check your inbox. \nBye now."
+      "text": "Ah, you there. I emailed you just now, so \nbe sure to check your inbox. \nBye now.",
+      "choice_data_list": [
+        "H-Hold on a second...!?",
+        "H-Hold on a second...!?"
+      ]
     },
     {
       "name": "Monologue",
@@ -31,7 +41,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "All of those were received from Shakur as \npart of a trade between \nresearchers. Her \ngraphs and formula layouts should reveal \nsomething \nabout her inner workings."
+      "text": "All of those were received from Shakur as \npart of a trade between \nresearchers. Her \ngraphs and formula layouts should reveal \nsomething \nabout her inner workings.",
+      "choice_data_list": [
+        "...!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -39,11 +52,18 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "According to her, she's doing no such \nthing. I'm not sure I believe \nthat... Ah, I \nsuppose those papers may be a tad \ndifficult to \ncomprehend."
+      "text": "According to her, she's doing no such \nthing. I'm not sure I believe \nthat... Ah, I \nsuppose those papers may be a tad \ndifficult to \ncomprehend.",
+      "choice_data_list": [
+        "I'll still read every word. Thanks."
+      ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "...I see. Well, I won't explain them either, \nso do your best. As long as \nyou do that, \n<i>something</i> is bound to happen. I'm sure of \nit."
+      "text": "...I see. Well, I won't explain them either, \nso do your best. As long as \nyou do that, \n<i>something</i> is bound to happen. I'm sure of \nit.",
+      "choice_data_list": [
+        "Why are you helping me?",
+        "Why are you helping me?"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -83,7 +103,11 @@
     },
     {
       "name": "Air Shakur",
-      "text": "...Maybe I should just give up."
+      "text": "...Maybe I should just give up.",
+      "choice_data_list": [
+        "You're really quitting?",
+        "You're really quitting?"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -91,11 +115,18 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I mean, who the hell wants to play a game \nthey already know the \nending to? Morons, \nthat's who."
+      "text": "I mean, who the hell wants to play a game \nthey already know the \nending to? Morons, \nthat's who.",
+      "choice_data_list": [
+        "You're not an idiot.",
+        "You're not an idiot."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...You're right. So—"
+      "text": "...You're right. So—",
+      "choice_data_list": [
+        "You won't give up because you want to win."
+      ]
     },
     {
       "name": "Air Shakur",
@@ -103,11 +134,19 @@
     },
     {
       "name": "Monologue",
-      "text": "After retracing her steps through reports \nand recordings, I've come to \nknow a \nfraction of the effort she's put into winning \nthe Derby. So I \nknow for a fact..."
+      "text": "After retracing her steps through reports \nand recordings, I've come to \nknow a \nfraction of the effort she's put into winning \nthe Derby. So I \nknow for a fact...",
+      "choice_data_list": [
+        "You won't quit. Definitely not.",
+        "You won't quit. Never."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...I hate when people talk to me like that. \nYou don't know me, so quit \nacting like it."
+      "text": "...I hate when people talk to me like that. \nYou don't know me, so quit \nacting like it.",
+      "choice_data_list": [
+        "It's true, I know nothing.",
+        "It's true, I know nothing."
+      ]
     },
     {
       "name": "Monologue",
@@ -115,7 +154,11 @@
     },
     {
       "name": "Monologue",
-      "text": "If she'll let me, I'm sure we can work \ntogether to achieve her goal. \nEven if we \naren't alike, our eyes can still settle on the \nsame horizon."
+      "text": "If she'll let me, I'm sure we can work \ntogether to achieve her goal. \nEven if we \naren't alike, our eyes can still settle on the \nsame horizon.",
+      "choice_data_list": [
+        "I don't want to give up understanding you.",
+        "I don't want to give up on understanding you."
+      ]
     },
     {
       "name": "Air Shakur",
@@ -127,19 +170,34 @@
     },
     {
       "name": "Air Shakur",
-      "text": "You really think... you can understand me? \nHow could you? And even \n<i>if</i> you could... \nWhat good would it do?"
+      "text": "You really think... you can understand me? \nHow could you? And even \n<i>if</i> you could... \nWhat good would it do?",
+      "choice_data_list": [
+        "Let me work hard to find out.",
+        "Let me work hard to find out."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "And what if... it all amounts to nothing? \nAre you really—"
+      "text": "And what if... it all amounts to nothing? \nAre you really—",
+      "choice_data_list": [
+        "I want to be your Trainer!",
+        "I want to be your Trainer!"
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...I seriously don't get you. Training me \nwouldn't benefit you in any \nway."
+      "text": "...I seriously don't get you. Training me \nwouldn't benefit you in any \nway.",
+      "choice_data_list": [
+        "There are benefits."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "Oh yeah? How?"
+      "text": "Oh yeah? How?",
+      "choice_data_list": [
+        "I get to see you win!",
+        "I get to see you win!"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -151,11 +209,17 @@
     },
     {
       "name": "Air Shakur",
-      "text": "I knew it, you don't understand a word I'm \nsaying... Not really seeing \nthe benefit for \nme either at this point."
+      "text": "I knew it, you don't understand a word I'm \nsaying... Not really seeing \nthe benefit for \nme either at this point.",
+      "choice_data_list": [
+        "Still, you can make your Debut."
+      ]
     },
     {
       "name": "Air Shakur",
-      "text": "...I won't need to debut if I quit, right?"
+      "text": "...I won't need to debut if I quit, right?",
+      "choice_data_list": [
+        "I'll be waiting for you to call."
+      ]
     },
     {
       "name": "Air Shakur",
@@ -199,11 +263,18 @@
     },
     {
       "name": "Police Officer",
-      "text": "Excuse me, you've been following that girl \nfor a while now. Care to \ntell me why?"
+      "text": "Excuse me, you've been following that girl \nfor a while now. Care to \ntell me why?",
+      "choice_data_list": [
+        "!?"
+      ]
     },
     {
       "name": "Police Officer",
-      "text": "We've received reports of someone \nstalking Umamusume at night. \nPerhaps you \ncould tell me what you know about that at \nthe station?"
+      "text": "We've received reports of someone \nstalking Umamusume at night. \nPerhaps you \ncould tell me what you know about that at \nthe station?",
+      "choice_data_list": [
+        "N-No, I'm--",
+        "N-No, I'm--"
+      ]
     },
     {
       "name": "Air Shakur",
