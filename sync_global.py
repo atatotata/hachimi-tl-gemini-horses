@@ -34,6 +34,14 @@ PINNED_CST = {
 }
 PIN_KEYS = {(str(c), str(v)) for (c, v) in PINNED_CST}
 
+# Slot-fit rule for text_data: when our value carries a manual $(scale NN) tag and
+# the official Global string does not, the official string would overflow the JP
+# frame (it was scaled precisely because the box is too narrow). Keep ours.
+SCALE_RE = re.compile(r"\$\(scale\s+\d+\)")
+
+def pinned_scaled(old: str, new: str) -> bool:
+    return bool(SCALE_RE.search(old or "")) and not SCALE_RE.search(new or "")
+
 UMATL_NAME_BRANCHES = {"community", "lore"}
 
 def current_branch() -> str:
@@ -69,6 +77,7 @@ def main():
     ap.add_argument("--global-master", type=Path, default=GLOBAL_MASTER_DEFAULT)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-hachimi-sync", action="store_true", help="skip mirroring to hachimi/localized_data_1")
+    ap.add_argument("--text-only", action="store_true", help="overlay text_data_dict only (leave cst + race commentary alone)")
     args = ap.parse_args()
 
     if not args.global_master.exists():
@@ -97,6 +106,7 @@ def main():
         if p.exists():
             d = json.loads(p.read_text(encoding="utf-8"))
             replaced = 0
+            skipped_scaled = 0
             skipped_sd = 0
             skipped_names = 0
             jp_preserved = 0
@@ -115,6 +125,9 @@ def main():
                     continue  # Global empty = not localized; never blank local text
                 if ck in d and ik in d[ck]:
                     if d[ck][ik] != en:
+                        if pinned_scaled(d[ck][ik], en):
+                            skipped_scaled += 1
+                            continue
                         if not args.dry_run:
                             d[ck][ik] = en
                         replaced += 1
@@ -126,7 +139,7 @@ def main():
                     g_only += 1
             # JP-only preservation: count master keys Global lacks (already in repo, keep them)
             # Not adding g_only keeps 43k JP-only intact
-            print(f"[{label}] text_data: {replaced} Global>MT overwrites | {skipped_sd} cat48 SD-preserved | {skipped_names} cat47 UmaTL names kept | {g_only} Global-only skipped (JP-only kept)", flush=True)
+            print(f"[{label}] text_data: {replaced} Global>MT overwrites | {skipped_sd} cat48 SD-preserved | {skipped_names} cat47 UmaTL names kept | {skipped_scaled} scaled slot-fits kept | {g_only} Global-only skipped (JP-only kept)", flush=True)
             if not args.dry_run:
                 # backup once
                 bak = p.with_suffix(p.suffix + ".bak_global")
@@ -135,8 +148,8 @@ def main():
                 p.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 
         # character_system_text_dict: {char_id: {voice_id: text}}
-        p = base / "character_system_text_dict.json"
-        if p.exists():
+        p = None if args.text_only else base / "character_system_text_dict.json"
+        if p and p.exists():
             d = json.loads(p.read_text(encoding="utf-8"))
             repl = 0
             for (cid, vid), en in g_cst.items():
@@ -164,7 +177,7 @@ def main():
                 p.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 
         # race_jikkyo_message_dict: flat {id: text}
-        for fname, gmap in [("race_jikkyo_message_dict.json", g_rjm), ("race_jikkyo_comment_dict.json", g_rjc)]:
+        for fname, gmap in ([] if args.text_only else [("race_jikkyo_message_dict.json", g_rjm), ("race_jikkyo_comment_dict.json", g_rjc)]):
             p = base / fname
             if not p.exists():
                 continue
