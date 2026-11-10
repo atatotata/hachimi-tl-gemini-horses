@@ -52,7 +52,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, you there. You're a trainer, right?"
+      "text": "Hey, you there. You're a trainer, right?",
+      "choice_data_list": [
+        "No green skin or fangs here!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -96,7 +99,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "You're quite out of breath. Did something \nhappen?"
+      "text": "You're quite out of breath. Did something \nhappen?",
+      "choice_data_list": [
+        "Gold Ship was chasing me..."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -104,7 +110,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I have to ask—how is it that you found \nyourself in such a \npredicament?"
+      "text": "I have to ask—how is it that you found \nyourself in such a \npredicament?",
+      "choice_data_list": [
+        "You seemed to look for a Trainer...",
+        "You seemed to look for a Trainer..."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -164,7 +174,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Woohoooo! A successful hunt!"
+      "text": "Woohoooo! A successful hunt!",
+      "choice_data_list": [
+        "H-Help me...!!"
+      ]
     },
     {
       "name": "Gold Ship",

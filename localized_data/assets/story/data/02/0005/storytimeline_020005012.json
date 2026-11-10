@@ -131,7 +131,11 @@
     },
     {
       "name": "Air Groove",
-      "text": "You there. Aren't you Team Sirius's \ntrainer?"
+      "text": "You there. Aren't you Team Sirius's \ntrainer?",
+      "choice_data_list": [
+        "You must be...",
+        "Aren't you..."
+      ]
     },
     {
       "name": "Air Groove",
@@ -219,11 +223,19 @@
     },
     {
       "name": "<username>",
-      "text": "Yeah! So fast! But more than that..."
+      "text": "Yeah! So fast! But more than that...",
+      "choice_data_list": [
+        "She looks like she loves to run!",
+        "She looks like she loves to run!"
+      ]
     },
     {
       "name": "<username>",
-      "text": "Yeah! So fast! But more than that..."
+      "text": "Yeah! So fast! But more than that...",
+      "choice_data_list": [
+        "She looks like she loves to run!",
+        "She looks like she loves to run!"
+      ]
     },
     {
       "name": "Air Groove",

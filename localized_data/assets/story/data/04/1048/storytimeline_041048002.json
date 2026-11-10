@@ -88,7 +88,10 @@
     },
     {
       "name": "Teacher A",
-      "text": "But you MUST learn to use your words! I \ncan't believe you would rip \nup your \nworksheet just to prove a point!"
+      "text": "But you MUST learn to use your words! I \ncan't believe you would rip \nup your \nworksheet just to prove a point!",
+      "choice_data_list": [
+        "!"
+      ]
     },
     {
       "name": "Monologue",
@@ -144,7 +147,10 @@
     },
     {
       "name": "Monologue",
-      "text": "So why is she refusing to race?"
+      "text": "So why is she refusing to race?",
+      "choice_data_list": [
+        "(I want to know her true feelings.)"
+      ]
     },
     {
       "name": "Monologue",
@@ -152,7 +158,11 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? What's an academy trainer want with \nme?"
+      "text": "Huh? What's an academy trainer want with \nme?",
+      "choice_data_list": [
+        "I wanted to talk to you.",
+        "I wanted to talk to you."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -160,7 +170,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Sorry, but I've, like, lost my motivation or \nwhatever. Don't waste your \ntime on me."
+      "text": "Sorry, but I've, like, lost my motivation or \nwhatever. Don't waste your \ntime on me.",
+      "choice_data_list": [
+        "...I saw you taking care of your nails."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -168,7 +181,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I quickly apologize for not saying anything \nat the time, but explain \nthat I've wanted to \nspeak with her since then."
+      "text": "I quickly apologize for not saying anything \nat the time, but explain \nthat I've wanted to \nspeak with her since then.",
+      "choice_data_list": [
+        "And wondered if you actually want to run."
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -188,11 +204,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "I-ignore that! I just skipped breakfast, \nokay?!"
+      "text": "I-ignore that! I just skipped breakfast, \nokay?!",
+      "choice_data_list": [
+        "How about... I treat you?"
+      ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? Now you're trying to bribe me with \nfood?! I have <i>some</i> dignity, \nyou know!"
+      "text": "Huh? Now you're trying to bribe me with \nfood?! I have <i>some</i> dignity, \nyou know!",
+      "choice_data_list": [
+        "Just eating is fine."
+      ]
     },
     {
       "name": "Tosen Jordan",

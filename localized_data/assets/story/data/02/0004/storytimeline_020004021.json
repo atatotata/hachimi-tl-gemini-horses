@@ -19,7 +19,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Good run, you two! Keep it up! You'll be \nready for the next race in no \ntime!"
+      "text": "Good run, you two! Keep it up! You'll be \nready for the next race in no \ntime!",
+      "choice_data_list": [
+        "You'll run too, won't you...?",
+        "You run too, okay...?"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -63,7 +67,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "That's Hayahide's little sister, Narita Brian."
+      "text": "That's Hayahide's little sister, Narita Brian.",
+      "choice_data_list": [
+        "Biwa Hayahide's sister...?"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -263,7 +270,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Because I want to run more."
+      "text": "Because I want to run more.",
+      "choice_data_list": [
+        "More?"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -315,11 +325,19 @@
     },
     {
       "name": "<username>",
-      "text": "Rather than hold back your desire to run, I \nthink it'd be better to \nchannel it through \nmore races. So..."
+      "text": "Rather than hold back your desire to run, I \nthink it'd be better to \nchannel it through \nmore races. So...",
+      "choice_data_list": [
+        "Brian, want to run on our team?",
+        "Brian, want to join our team?"
+      ]
     },
     {
       "name": "<username>",
-      "text": "Rather than hold back your desire to run, I \nthink it'd be better to \nchannel it through \nmore races. So..."
+      "text": "Rather than hold back your desire to run, I \nthink it'd be better to \nchannel it through \nmore races. So...",
+      "choice_data_list": [
+        "Brian, want to run on our team?",
+        "Brian, want to join our team?"
+      ]
     },
     {
       "name": "Narita Brian",

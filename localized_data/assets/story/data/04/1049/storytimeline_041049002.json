@@ -12,11 +12,17 @@
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "Heeey, new kid! So you did decide to \ncome check out the tryouts, \nhuh? Anyone \nhere catch your eye?"
+      "text": "Heeey, new kid! So you did decide to \ncome check out the tryouts, \nhuh? Anyone \nhere catch your eye?",
+      "choice_data_list": [
+        "Yes, #10, Nakayama Festa!"
+      ]
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "Huh. Hmm... Nakayama Festa? Oh jeez, I \nswear I've heard the name \nbefore, but it's \nescaping me."
+      "text": "Huh. Hmm... Nakayama Festa? Oh jeez, I \nswear I've heard the name \nbefore, but it's \nescaping me.",
+      "choice_data_list": [
+        "They'll be amazed by your run!"
+      ]
     },
     {
       "name": "Monologue",
@@ -28,11 +34,17 @@
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "Hm? Hey, the runner you marked doesn't \nseem to be doing all so \nwell..."
+      "text": "Hm? Hey, the runner you marked doesn't \nseem to be doing all so \nwell...",
+      "choice_data_list": [
+        "Huh? That can't be..."
+      ]
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "Uh oh, look. She's falling even further \nbehind. She doesn't look all \nthat tired \nthough, so why?"
+      "text": "Uh oh, look. She's falling even further \nbehind. She doesn't look all \nthat tired \nthough, so why?",
+      "choice_data_list": [
+        "(...H-Huh?)"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -68,11 +80,17 @@
     },
     {
       "name": "Monologue",
-      "text": "The feisty spirit I saw at the pier is gone. \nThis \"Nakayama Festa\" is \nlike a different \nperson. I mean, maybe she <i>is.</i> Maybe she's \njust a \nlookalike with a similar name."
+      "text": "The feisty spirit I saw at the pier is gone. \nThis \"Nakayama Festa\" is \nlike a different \nperson. I mean, maybe she <i>is.</i> Maybe she's \njust a \nlookalike with a similar name.",
+      "choice_data_list": [
+        "(If she runs properly, she could—)"
+      ]
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "...Hey, new kid. Forget Festa."
+      "text": "...Hey, new kid. Forget Festa.",
+      "choice_data_list": [
+        "...? What do you mean?"
+      ]
     },
     {
       "name": "Knowledgeable Trainer",
@@ -84,7 +102,10 @@
     },
     {
       "name": "Knowledgeable Trainer",
-      "text": "You saw how she just ran. Did it look like \nshe was giving it her best \neffort? You were \njust thinking that she could do better if \nshe applied \nherself, right?"
+      "text": "You saw how she just ran. Did it look like \nshe was giving it her best \neffort? You were \njust thinking that she could do better if \nshe applied \nherself, right?",
+      "choice_data_list": [
+        "...! That's..."
+      ]
     },
     {
       "name": "Knowledgeable Trainer",
@@ -100,7 +121,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I can't help but doubt whether she's really \nas bad as the rumors make \nher out to be. \nNext thing I know, I'm looking up her track \nrecord."
+      "text": "I can't help but doubt whether she's really \nas bad as the rumors make \nher out to be. \nNext thing I know, I'm looking up her track \nrecord.",
+      "choice_data_list": [
+        "Nakayama Festa's recent record is..."
+      ]
     },
     {
       "name": "Monologue",
@@ -112,11 +136,17 @@
     },
     {
       "name": "Monologue",
-      "text": "I close the set of records. Something tells \nme these numbers aren't \nwhat I need right \nnow."
+      "text": "I close the set of records. Something tells \nme these numbers aren't \nwhat I need right \nnow.",
+      "choice_data_list": [
+        "I need to know more about her."
+      ]
     },
     {
       "name": "Head Delinquent",
-      "text": "Like I friggin' said, quit bumming around \nhere every damn day! If you \nwanna know \nabout Nakayama, go ask her yourself!"
+      "text": "Like I friggin' said, quit bumming around \nhere every damn day! If you \nwanna know \nabout Nakayama, go ask her yourself!",
+      "choice_data_list": [
+        "She's been absent all week..."
+      ]
     },
     {
       "name": "Head Delinquent",
@@ -124,11 +154,18 @@
     },
     {
       "name": "Monologue",
-      "text": "I shake dirt off my clothes. There goes yet \nanother day of zero \nprogress. I haven't \nlearned anything meaningful about \nNakayama \nFesta at all."
+      "text": "I shake dirt off my clothes. There goes yet \nanother day of zero \nprogress. I haven't \nlearned anything meaningful about \nNakayama \nFesta at all.",
+      "choice_data_list": [
+        "(I just want any info I can get...)"
+      ]
     },
     {
       "name": "???",
-      "text": "Are you the trainer that's been going \naround asking about Nakayama? \nI've been \nhearing rumors on and off campus."
+      "text": "Are you the trainer that's been going \naround asking about Nakayama? \nI've been \nhearing rumors on and off campus.",
+      "choice_data_list": [
+        "You're...?",
+        "You're...?"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -144,7 +181,10 @@
     },
     {
       "name": "Sirius Symboli",
-      "text": "Them, and the freaks who like running on \nmessy, unkempt grass like \nthis. Nakayama \nused to play around here, from what I've \nheard."
+      "text": "Them, and the freaks who like running on \nmessy, unkempt grass like \nthis. Nakayama \nused to play around here, from what I've \nheard.",
+      "choice_data_list": [
+        "So she's still here right now...?"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -168,7 +208,10 @@
     },
     {
       "name": "Sirius Symboli",
-      "text": "...Listen well. You wanna know Nakayama's \nAchilles heel? Go visit her \nold mentor at \nthe hospital. She'd know."
+      "text": "...Listen well. You wanna know Nakayama's \nAchilles heel? Go visit her \nold mentor at \nthe hospital. She'd know.",
+      "choice_data_list": [
+        "Teacher?"
+      ]
     },
     {
       "name": "Sirius Symboli",
@@ -180,7 +223,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Sirius thrusts a piece of paper into my \nhand. I start to thank her, but \nshe just \nturns and leaves with a little \"Tch.\""
+      "text": "Sirius thrusts a piece of paper into my \nhand. I start to thank her, but \nshe just \nturns and leaves with a little \"Tch.\"",
+      "choice_data_list": [
+        "A secret known only by the doctor..."
+      ]
     },
     {
       "name": "Monologue",
@@ -188,7 +234,10 @@
     },
     {
       "name": "Monologue",
-      "text": "But then, when I arrive for our meeting, I \nfind the mentor in patients' \ngarb, resting \non a hospital bed."
+      "text": "But then, when I arrive for our meeting, I \nfind the mentor in patients' \ngarb, resting \non a hospital bed.",
+      "choice_data_list": [
+        "Are you... the \"Teacher\"?"
+      ]
     },
     {
       "name": "Nakayama's Mentor",
@@ -196,7 +245,10 @@
     },
     {
       "name": "Nakayama's Mentor",
-      "text": "There are some things you should know \nabout her, but before we get \ninto that, \nthere's something I'd like you to watch."
+      "text": "There are some things you should know \nabout her, but before we get \ninto that, \nthere's something I'd like you to watch.",
+      "choice_data_list": [
+        "Is that a video?"
+      ]
     },
     {
       "name": "Nakayama's Mentor",

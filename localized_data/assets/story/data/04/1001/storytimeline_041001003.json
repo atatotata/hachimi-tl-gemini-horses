@@ -87,7 +87,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "It just so happens that the person who can \nbest help you is already \nhere."
+      "text": "It just so happens that the person who can \nbest help you is already \nhere.",
+      "choice_data_list": [
+        "Spe..."
+      ]
     },
     {
       "name": "Special Week",
@@ -107,11 +110,19 @@
     },
     {
       "name": "Special Week",
-      "text": "Grass is right... I think I'm lost."
+      "text": "Grass is right... I think I'm lost.",
+      "choice_data_list": [
+        "Are you worried about what your friend said?",
+        "Are you worried about what your friend said?"
+      ]
     },
     {
       "name": "Special Week",
-      "text": "Huh? How do you know that?"
+      "text": "Huh? How do you know that?",
+      "choice_data_list": [
+        "Sorry, I heard your voice.",
+        "Sorry, I overheard you."
+      ]
     },
     {
       "name": "Special Week",
@@ -195,7 +206,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Hehe... Same ol', same ol'."
+      "text": "Hehe... Same ol', same ol'.",
+      "choice_data_list": [
+        "The same?"
+      ]
     },
     {
       "name": "Special Week",

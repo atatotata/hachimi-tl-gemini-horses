@@ -32,7 +32,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Hopefully the pressure doesn't get to her. \nNerves can stiffen the \nbody, restricting \nrange of movement and ultimately \naffecting running \nform."
+      "text": "Hopefully the pressure doesn't get to her. \nNerves can stiffen the \nbody, restricting \nrange of movement and ultimately \naffecting running \nform.",
+      "choice_data_list": [
+        "Check muscle tension last?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -152,7 +155,11 @@
     },
     {
       "name": "Monologue",
-      "text": "I alone know her tenacity, her strength \nthat enables her to go to \nendless lengths \nfor the sake of others... her passion."
+      "text": "I alone know her tenacity, her strength \nthat enables her to go to \nendless lengths \nfor the sake of others... her passion.",
+      "choice_data_list": [
+        "Hang in there, trust your training!",
+        "Don't give up, trust your hard work!"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -192,11 +199,17 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "And here I thought I could beat Falco and \ngive you a nice little boost \nin confidence, \nbut..."
+      "text": "And here I thought I could beat Falco and \ngive you a nice little boost \nin confidence, \nbut...",
+      "choice_data_list": [
+        "That gave me plenty of confidence!"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "The dogged fight she gave down the \nstretch was something we \nfostered \ntogether. After seeing that, I can't call \nmyself unfit to be a \ntrainer anymore."
+      "text": "The dogged fight she gave down the \nstretch was something we \nfostered \ntogether. After seeing that, I can't call \nmyself unfit to be a \ntrainer anymore.",
+      "choice_data_list": [
+        "Plus, I found a new goal."
+      ]
     },
     {
       "name": "Monologue",
@@ -212,11 +225,19 @@
     },
     {
       "name": "Monologue",
-      "text": "But I've seen how far she can push herself \nfor others' sakes. \nOverexertion could \nknock her to the ground one day—unless \nshe has \nsomeone to lean on."
+      "text": "But I've seen how far she can push herself \nfor others' sakes. \nOverexertion could \nknock her to the ground one day—unless \nshe has \nsomeone to lean on.",
+      "choice_data_list": [
+        "Let me support you this time, okay?",
+        "Let me support you this time, okay?"
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh? You mean to say... you'd be willing to \nstay on as my trainer, is \nthat it?"
+      "text": "Oh? You mean to say... you'd be willing to \nstay on as my trainer, is \nthat it?",
+      "choice_data_list": [
+        "If you don't mind, I'd love to!",
+        "If you're okay with it, absolutely!"
+      ]
     },
     {
       "name": "Wonder Acute",

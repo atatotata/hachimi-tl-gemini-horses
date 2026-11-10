@@ -3,19 +3,35 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "I'm in the mood for a good flick on one of \nmy days off. Little do I \nexpect to see \nMejiro Dober in the lobby."
+      "text": "I'm in the mood for a good flick on one of \nmy days off. Little do I \nexpect to see \nMejiro Dober in the lobby.",
+      "choice_data_list": [
+        "Fancy meeting you here, Dober!",
+        "What a coincidence, Dober!"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Eh? You've got the wrong person!"
+      "text": "Eh? You've got the wrong person!",
+      "choice_data_list": [
+        "Wait, Dober, right!? It's me!",
+        "Wait, Dober, right!? It's me!"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Oh, it's just you. Don't just shout out from \nbehind someone! Of course \nI was surprised!"
+      "text": "Oh, it's just you. Don't just shout out from \nbehind someone! Of course \nI was surprised!",
+      "choice_data_list": [
+        "You didn't have to run away...",
+        "You didn't have to run away..."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Oh, Trainer... You really surprised me, \ncalling out suddenly from \nbehind me like \nthat."
+      "text": "Oh, Trainer... You really surprised me, \ncalling out suddenly from \nbehind me like \nthat.",
+      "choice_data_list": [
+        "You didn't have to run away...",
+        "You didn't have to run away..."
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -71,23 +87,43 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hm, but the limited-edition entry bonuses \nare sure to run out before \nthen. I probably \ncan't afford to wait."
+      "text": "Hm, but the limited-edition entry bonuses \nare sure to run out before \nthen. I probably \ncan't afford to wait.",
+      "choice_data_list": [
+        "Can I watch with you too?",
+        "Can I watch with you?"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? You had to have come here because \nthere's something you \nwanted to see. I'm \npositively sure that it wasn't Veggie \nCaroline."
+      "text": "Huh? You had to have come here because \nthere's something you \nwanted to see. I'm \npositively sure that it wasn't Veggie \nCaroline.",
+      "choice_data_list": [
+        "I'm curious what you want to see!",
+        "'Cause I care what you want to see."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? You had to have come here because \nthere's something you \nwanted to see. \nDon't feel like you need to force yourself \nfor my sake."
+      "text": "Huh? You had to have come here because \nthere's something you \nwanted to see. \nDon't feel like you need to force yourself \nfor my sake.",
+      "choice_data_list": [
+        "I'm curious what you want to see!",
+        "'Cause I care what you want to see."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Really now... Well, don't blame me if \nyou're bored to death or \nsomething. Have \nit your way."
+      "text": "Really now... Well, don't blame me if \nyou're bored to death or \nsomething. Have \nit your way.",
+      "choice_data_list": [
+        "It's settled!",
+        "Of course!"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Is that right? Well, if you're okay with it, \nthen by all means, I'd like to \nhave you see \nit with me."
+      "text": "Is that right? Well, if you're okay with it, \nthen by all means, I'd like to \nhave you see \nit with me.",
+      "choice_data_list": [
+        "It's settled!",
+        "Of course!"
+      ]
     },
     {
       "name": "Theater Announcer",
@@ -107,11 +143,19 @@
     },
     {
       "name": "Monologue",
-      "text": "Everyone receives a special sticker sheet \nas they enter the theater. \nMy white sheet \nis lined with various holographic stickers \nfeaturing \nmovie characters."
+      "text": "Everyone receives a special sticker sheet \nas they enter the theater. \nMy white sheet \nis lined with various holographic stickers \nfeaturing \nmovie characters.",
+      "choice_data_list": [
+        "Want one of my stickers?",
+        "Want one of my stickers?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "Everyone receives a special sticker sheet \nas they enter the theater. \nMy white sheet \nis lined with various holographic stickers \nfeaturing \nmovie characters."
+      "text": "Everyone receives a special sticker sheet \nas they enter the theater. \nMy white sheet \nis lined with various holographic stickers \nfeaturing \nmovie characters.",
+      "choice_data_list": [
+        "Want one of my stickers?",
+        "Want one of my stickers?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -123,11 +167,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Your stickers are white. Too bad it's still \nnot my preferred color."
+      "text": "Your stickers are white. Too bad it's still \nnot my preferred color.",
+      "choice_data_list": [
+        "Those are the same stickers, right?"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Your stickers are white. Too bad it's still \nnot my preferred color."
+      "text": "Your stickers are white. Too bad it's still \nnot my preferred color.",
+      "choice_data_list": [
+        "Those are the same stickers, right?"
+      ]
     },
     {
       "name": "Monologue",
@@ -139,7 +189,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I bet that little kids can get really upset \nabout it. In fact, I heard some \nparents \ntalking about it."
+      "text": "I bet that little kids can get really upset \nabout it. In fact, I heard some \nparents \ntalking about it.",
+      "choice_data_list": [
+        "Did you fight over colors too?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -175,15 +228,24 @@
     },
     {
       "name": "Monologue",
-      "text": "It seems like this little girl's stickers are \ngreen. I can't help but notice \nthat the red \noutfit she is wearing is rather close to \nCaroline's in the \nmovie."
+      "text": "It seems like this little girl's stickers are \ngreen. I can't help but notice \nthat the red \noutfit she is wearing is rather close to \nCaroline's in the \nmovie.",
+      "choice_data_list": [
+        "...What color is Dober's sticker?"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh? They're red."
+      "text": "Huh? They're red.",
+      "choice_data_list": [
+        "I'll go trade with her."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Hm, hers are green all right. But how can \nyou be so sure that she'd \nwant red?"
+      "text": "Hm, hers are green all right. But how can \nyou be so sure that she'd \nwant red?",
+      "choice_data_list": [
+        "It's probably red!"
+      ]
     },
     {
       "name": "Monologue",
@@ -195,11 +257,19 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "That worked out well... How on earth did \nyou know that she wanted \nred?"
+      "text": "That worked out well... How on earth did \nyou know that she wanted \nred?",
+      "choice_data_list": [
+        "Because you wore red overalls.",
+        "Because you wore red overalls."
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "That worked out well... Trainer, how did \nyou know that she wanted \nred stickers?"
+      "text": "That worked out well... Trainer, how did \nyou know that she wanted \nred stickers?",
+      "choice_data_list": [
+        "Because you wore red overalls.",
+        "Because you wore red overalls."
+      ]
     },
     {
       "name": "Monologue",
@@ -247,7 +317,11 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "They both seem to really love Veggie \nCaroline. I wanted to know \nmore about \nwhat they were talking about, so that's \nwhy I wanted to \ncome see it."
+      "text": "They both seem to really love Veggie \nCaroline. I wanted to know \nmore about \nwhat they were talking about, so that's \nwhy I wanted to \ncome see it.",
+      "choice_data_list": [
+        "Giving stickers to both of them, huh?",
+        "Giving stickers to both of them, huh?"
+      ]
     },
     {
       "name": "Mejiro Dober",

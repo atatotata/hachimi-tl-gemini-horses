@@ -15,7 +15,11 @@
     },
     {
       "name": "???",
-      "text": "GPS is currently unresponsive. Detecting a \nshift in emotional \nstate—\"despair\" has \nbeen identified."
+      "text": "GPS is currently unresponsive. Detecting a \nshift in emotional \nstate—\"despair\" has \nbeen identified.",
+      "choice_data_list": [
+        "...What's wrong?",
+        "...What's wrong?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -35,7 +39,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Sensing her obvious confusion, I pull out \nmy phone and begin to \nsearch on the \ninternet."
+      "text": "Sensing her obvious confusion, I pull out \nmy phone and begin to \nsearch on the \ninternet.",
+      "choice_data_list": [
+        "Shall we look into it?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -43,19 +50,32 @@
     },
     {
       "name": "Monologue",
-      "text": "I quickly find the store—just a mere 42 \nmeters away. Squinting ahead, \nI can make \nout the sign from here."
+      "text": "I quickly find the store—just a mere 42 \nmeters away. Squinting ahead, \nI can make \nout the sign from here.",
+      "choice_data_list": [
+        "It's a little further on foot.",
+        "It's a little further on foot."
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Pardon. Please define \"a bit more.\""
+      "text": "...Pardon. Please define \"a bit more.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "If possible, please quantify \"a bit more\" in \nnumerical terms."
+      "text": "If possible, please quantify \"a bit more\" in \nnumerical terms.",
+      "choice_data_list": [
+        "A little over 40, maybe?"
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...\"Around?\""
+      "text": "...\"Around?\"",
+      "choice_data_list": [
+        "...It's 42 meters ahead."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -71,7 +91,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Destination—42 meters ahead. \nCommencing navigation."
+      "text": "Destination—42 meters ahead. \nCommencing navigation.",
+      "choice_data_list": [
+        "(What a mysterious girl...)"
+      ]
     },
     {
       "name": "Monologue",
@@ -127,7 +150,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Without losing her lead even once, she \ncalmly crosses the finish line \nin a \nconvincing show of power."
+      "text": "Without losing her lead even once, she \ncalmly crosses the finish line \nin a \nconvincing show of power.",
+      "choice_data_list": [
+        "(What incredible talent...!)",
+        "(What incredible talent...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -135,15 +162,25 @@
     },
     {
       "name": "New Trainer",
-      "text": "That potential... I gotta scout her before \nthe others do!"
+      "text": "That potential... I gotta scout her before \nthe others do!",
+      "choice_data_list": [
+        "(Right, I need to hurry too--)",
+        "(Right, I need to hurry too--)"
+      ]
     },
     {
       "name": "Skilled Trainer",
-      "text": "You're too late. She's already got a trainer."
+      "text": "You're too late. She's already got a trainer.",
+      "choice_data_list": [
+        "Whaaat!?"
+      ]
     },
     {
       "name": "Monologue",
-      "text": "And sure enough, I find Mihono Bourbon \ntalking to someone."
+      "text": "And sure enough, I find Mihono Bourbon \ntalking to someone.",
+      "choice_data_list": [
+        "(T-Too late...!)"
+      ]
     },
     {
       "name": "New Trainer",
@@ -163,7 +200,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<I>Pant, pant.</I>"
+      "text": "<I>Pant, pant.</I>",
+      "choice_data_list": [
+        "(Mihono Bourbon...!)"
+      ]
     },
     {
       "name": "Monologue",
@@ -175,7 +215,10 @@
     },
     {
       "name": "Monologue",
-      "text": "Curious, I listen to Mihono Bourbon \ncalculating her time and \ndistance—until \nsomething hits me."
+      "text": "Curious, I listen to Mihono Bourbon \ncalculating her time and \ndistance—until \nsomething hits me.",
+      "choice_data_list": [
+        "(...3,000 m!?)"
+      ]
     },
     {
       "name": "Monologue",
@@ -191,7 +234,10 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "..."
+      "text": "...",
+      "choice_data_list": [
+        "!!"
+      ]
     },
     {
       "name": "Monologue",

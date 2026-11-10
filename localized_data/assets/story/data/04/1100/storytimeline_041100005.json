@@ -4,7 +4,10 @@
   "text_block_list": [
     {
       "name": "Wonder Acute",
-      "text": "Oh, Trainer. Going to eat lunch?"
+      "text": "Oh, Trainer. Going to eat lunch?",
+      "choice_data_list": [
+        "Acute, did you bring lunch?"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -16,15 +19,25 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Say, if you haven't had lunch yet, would \nyou like to join me? I could \nuse some help."
+      "text": "Say, if you haven't had lunch yet, would \nyou like to join me? I could \nuse some help.",
+      "choice_data_list": [
+        "Are you sure?",
+        "Are you sure?"
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Sure as can be. I made a bit too much \ntoday, so I'd be delighted if \nyou'd take \nsome of it off my plate."
+      "text": "Sure as can be. I made a bit too much \ntoday, so I'd be delighted if \nyou'd take \nsome of it off my plate.",
+      "choice_data_list": [
+        "I'll take you up on that lunch, then."
+      ]
     },
     {
       "name": "Senior Trainer",
-      "text": "Oh, <username>! A \nbunch of us were about to \ngrab lunch, you \nwant in? Apparently the new ramen place \nby the \nstation is pretty good."
+      "text": "Oh, <username>! A \nbunch of us were about to \ngrab lunch, you \nwant in? Apparently the new ramen place \nby the \nstation is pretty good.",
+      "choice_data_list": [
+        "Sorry, not today."
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -36,7 +49,10 @@
     },
     {
       "name": "Monologue",
-      "text": "I've already made up my mind. Thanking \nhim for the invite, I explain \nto the other \ntrainer that I have plans to eat lunch with \nWonder Acute."
+      "text": "I've already made up my mind. Thanking \nhim for the invite, I explain \nto the other \ntrainer that I have plans to eat lunch with \nWonder Acute.",
+      "choice_data_list": [
+        "Sorry, maybe next time!"
+      ]
     },
     {
       "name": "Senior Trainer",
@@ -48,7 +64,10 @@
     },
     {
       "name": "Monologue",
-      "text": "It all looks tempting, but a sandwich is my \nfirst victim. The thick slices \nof bacon \nharmonize perfectly with the tomatoes and \nfragrant slices of \nrye bread."
+      "text": "It all looks tempting, but a sandwich is my \nfirst victim. The thick slices \nof bacon \nharmonize perfectly with the tomatoes and \nfragrant slices of \nrye bread.",
+      "choice_data_list": [
+        "Delicious!"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -56,7 +75,10 @@
     },
     {
       "name": "Monologue",
-      "text": "As I take a few sips of tea, the fragrance of \nthe leaves fills my nostrils."
+      "text": "As I take a few sips of tea, the fragrance of \nthe leaves fills my nostrils.",
+      "choice_data_list": [
+        "(So relaxing...)"
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -68,7 +90,11 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Days like this make you want to lie around \nin the sun and take a nice \nnap."
+      "text": "Days like this make you want to lie around \nin the sun and take a nice \nnap.",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah."
+      ]
     },
     {
       "name": "Monologue",
@@ -76,11 +102,18 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Oh, the birds are out. Look at that, what a \ncozy place for a nest. The \nlittle ones look \nfull of life."
+      "text": "Oh, the birds are out. Look at that, what a \ncozy place for a nest. The \nlittle ones look \nfull of life.",
+      "choice_data_list": [
+        "Hope it grows big and strong."
+      ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Trainer, thank you for spending time with \nme. And I'm sorry you had \nto turn down \nthat invitation."
+      "text": "Trainer, thank you for spending time with \nme. And I'm sorry you had \nto turn down \nthat invitation.",
+      "choice_data_list": [
+        "No, it's just what I wanted to do...",
+        "No, it's just what I wanted to do..."
+      ]
     },
     {
       "name": "Wonder Acute",
@@ -108,7 +141,10 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "When I see you going about your business \nnice and slow, that's what \nreally brings a \nsmile to my face."
+      "text": "When I see you going about your business \nnice and slow, that's what \nreally brings a \nsmile to my face.",
+      "choice_data_list": [
+        "It's not like I'm overdoing it--"
+      ]
     },
     {
       "name": "Monologue",
