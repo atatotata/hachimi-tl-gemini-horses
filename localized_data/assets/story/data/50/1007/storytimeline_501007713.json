@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monologue",
-      "text": "Gold Ship is injured, so I bring her to the\n\ninfirmary."
+      "text": "Gold Ship is injured, so I bring her to the\n \ninfirmary."
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Beep-beep-beep...</i> Damage detected.\nGolshiroid,\ncommencing scan.",
+      "text": "<i>Beep-beep-beep...</i> Damage detected. \nGolshiroid, \ncommencing scan.",
       "choice_data_list": [
         "Wh-What's wrong!?",
         "Wh-What's wrong!?"
@@ -15,7 +15,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beep.</i>",
+      "text": "Damage minimal. Mission can be \nresumed at will. \nAwaiting commander's \norders. <i>Beep, beep.</i>",
       "choice_data_list": [
         "Repairing the damaged spots comes first.",
         "Let's upgrade your program right away!"
@@ -23,7 +23,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can\nbe resumed at will.\nRequesting new orders.",
+      "text": "Commencing secondary scan... <i>Beep.</i>\nMission can \nbe resumed at will. \nRequesting new orders.",
       "choice_data_list": [
         "Denied. Repairs take priority."
       ]
@@ -37,19 +37,19 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to..."
+      "text": "Now they're official orders? Drat. Can't \noverride \nthose even if I wanted to..."
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Sigh.</i> Order acknowledged. Prioritizing\nrepairs...\n<i>Beep, beep, beep...</i>"
+      "text": "<i>Sigh.</i> Order acknowledged. Prioritizing \nrepairs... \n<i>Beep, beep, beep...</i>"
     },
     {
       "name": "Monologue",
-      "text": "Gold Ship isn't happy about being put\non bed rest\nfor a few days and goes wild\nonce she makes a\nfull recovery."
+      "text": "Gold Ship isn't happy about being put \non bed rest \nfor a few days and goes wild \nonce she makes a \nfull recovery."
     },
     {
       "name": "Gold Ship",
-      "text": "Suggestion approved. Golshiroid,\ninitiating\nupgrade sequence!"
+      "text": "Suggestion approved. Golshiroid, \ninitiating \nupgrade sequence!"
     },
     {
       "name": "Gold Ship",
@@ -61,7 +61,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "What gives?! Everything was fine just a\nsecond\nago..."
+      "text": "What gives?! Everything was fine just a \nsecond \nago..."
     },
     {
       "name": "Gold Ship",
@@ -69,11 +69,11 @@
     },
     {
       "name": "Monologue",
-      "text": "Her self-diagnostics clearly didn't\nproduce good\nresults, because she\nsuddenly gets eerily quiet."
+      "text": "Her self-diagnostics clearly didn't \nproduce good \nresults, because she \nsuddenly gets eerily quiet."
     },
     {
       "name": "Gold Ship",
-      "text": "<i>B-b-beep.</i> Suggestion confirmed.\nInitiating\nupgrade sequence!",
+      "text": "<i>B-b-beep.</i> Suggestion confirmed. \nInitiating \nupgrade sequence!",
       "choice_data_list": [
         "Let's get even stronger!"
       ]
@@ -84,18 +84,18 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Approved. The current operating\nprogram can\nonly be upgraded under\none condition.",
+      "text": "Approved. The current operating \nprogram can \nonly be upgraded under \none condition.",
       "choice_data_list": [
         "Conditions?"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Beep-beep.</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely."
+      "text": "<i>Beep-beep.</i> Ice cream from the school \nstore is \nrequired to upgrade Golshiroid. \nOtherwise, \nupdate will be postponed \nindefinitely."
     },
     {
       "name": "Monologue",
-      "text": "There's no getting around it. I accept her\n\ncondition, and then two of us rework her\ntraining\nschedule."
+      "text": "There's no getting around it. I accept her\n \ncondition, and then two of us rework her \ntraining \nschedule."
     }
   ]
 }
