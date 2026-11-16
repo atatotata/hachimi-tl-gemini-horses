@@ -2,6 +2,7 @@
 - Horsegirls call you what they call you in Japanese again: Tore-san, Tore-chan, Tore-kun, Tore-sama, Tore-dono, and the personal ones like Helios's Tore-pi and Vivlos's Tore-cchi.
 - Plain "Trainer" stays wherever the Japanese just says trainer, or talks about "my trainer" or "her trainer".
 - About 15,000 story lines and 700 voice lines updated.
+- Known leftovers: lines where the English already used "you" instead of a trainer noun were left as-is, and 12 story files with mismatched block counts were skipped.
 
 ## 2026-11-15 -- JP 2026-11 update
 - Added Daring Tact's debut story: 7 character episodes, 101 training-story scenes and 5 home-screen scenes, with all player choices restored.
