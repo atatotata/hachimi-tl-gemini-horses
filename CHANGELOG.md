@@ -1,3 +1,9 @@
+## 2026-11-15 -- JP 2026-11 update
+- Added Daring Tact's debut story: 7 character episodes, 101 training-story scenes and 5 home-screen scenes, with all player choices restored.
+- Translated 280 new master and UI strings: her profile, two new skills, a condition, a factor, race interview answers, gacha banners and League of Heroes labels.
+- Translated 188 new voice lines, including her full home-screen set.
+- Added Win Marilyn's name, reading, voice actor and outfit entries.
+
 ## 2026-11-09 -- adopt official Global wording
 - Overlaid official Global English over 25,814 older strings: missions, event titles, items, race-menu labels, factors.
 - 149 manually scaled labels kept as-is so the JP UI frames do not clip.
