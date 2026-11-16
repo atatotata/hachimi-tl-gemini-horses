@@ -94,11 +94,12 @@ def extract_all_items(story_dir, voice_bible):
     for cid, entry in voice_bible.items():
         if entry.get('jp') and entry.get('en'):
             jp_to_en[entry['jp']] = entry['en']
-    jp_to_en.update({'吾妻': 'Azuma', 'モノローグ': 'Narrator', '？？？': '???', 'トレーナー': 'Trainer',
-                     '記者': 'Reporter', '実況': 'Announcer', '解説': 'Commentator',
-                     '観客': 'Spectator', 'ファン': 'Fan'})
+    jp_to_en.update({'吾妻': 'Azuma', 'モノローグ': 'Monologue', '？？？': '???', '？？？？': '???',
+                     'トレーナー': 'Trainer', '記者': 'Reporter', '実況': 'Announcer',
+                     '解説': 'Commentator', '観客': 'Spectator', 'ファン': 'Fan'})
     items, pre_resolved, file_map = [], {}, {}
-    story_files = sorted(list(story_dir.rglob('storytimeline_*.json')))
+    story_files = sorted(list(story_dir.rglob('storytimeline_*.json'))
+                         + list(story_dir.rglob('hometimeline_*.json')))
     log.info(f"Found {len(story_files)} story files")
     for fpath in story_files:
         try:
@@ -117,11 +118,11 @@ def extract_all_items(story_dir, voice_bible):
             if text and text.strip() and is_japanese(text):
                 items.append({'id': f'{file_key}__B{i}', 'jp': text})
             name = block.get('name')
-            if name and isinstance(name, str) and name.strip() and is_japanese(name):
+            if name and isinstance(name, str) and name.strip():
                 nid = f'{file_key}__N{i}'
                 if name in jp_to_en:
                     pre_resolved[nid] = jp_to_en[name]
-                else:
+                elif is_japanese(name):
                     items.append({'id': nid, 'jp': name})
             for j, choice in enumerate(block.get('choice_data_list', [])):
                 if choice and isinstance(choice, str) and choice.strip() and is_japanese(choice):
@@ -152,6 +153,11 @@ def build_system_prompt(voice_bible):
         "8. Line breaks: preserve the exact newline structure from the original Japanese text. Do not invent extra newlines.",
         "9. Items with kind 'name' are character names or glossary terms. Return the official English name or term only.",
         "10. Items with kind 'title' are story titles. Keep them concise and consistent with the in-game UI.",
+        "11. Speaker names (kind 'name' or bare names in block 'name' fields) must be plain English. Never return a Japanese name.",
+        "12. In-dialogue nicknames: drop Japanese honorifics (さん/ちゃん/先輩/君) and use the character's full official English name.",
+        "    e.g. ハートさん → Daring Heart, エピ先輩 → Epiphaneia, アイ先輩/アイちゃん → Almond Eye, タイちゃん/タイホさん → Titleholder,",
+        "    マリリンさん → Win Marilyn, タクトちゃん/タクトさん → Daring Tact, ブーケさん → Curren Bouquetd'or, ラヴちゃん → Loves Only You.",
+        "13. Daring Tact speaks calm, polite desu/masu register; 私 = 'I'; she calls the trainer 'Trainer'; ふふ → 'Hehe.'",
     ]
     lines += ["", "SERIES GLOSSARY (use exactly):"]
     for jp, en in GLOSSARY:

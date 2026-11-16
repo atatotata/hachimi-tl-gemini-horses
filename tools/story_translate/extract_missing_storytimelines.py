@@ -129,9 +129,10 @@ def extract_bundle(data, basename):
             continue
         blocks.append(item)
 
-    title = timeline.get("Title") or ""
+    title = str(timeline.get("Title") or "")
     out = {"no_wrap": True, "text_block_list": blocks}
-    if title:
+    # Home timelines carry a placeholder Title of "0"; only real titles are kept.
+    if title and title != "0":
         out["title"] = title
     return out
 
@@ -141,17 +142,35 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ids", default="",
                     help="comma-separated story IDs to restrict extraction to")
+    ap.add_argument("--map", default="",
+                    help="JSON {asset_path: [hash, key]} to extract directly; "
+                         "skips the meta/master lookup and also handles "
+                         "hometimeline_* assets")
+    ap.add_argument("--out", default="", help="output dir override (default OUT_DIR)")
     args = ap.parse_args()
+
+    global OUT_DIR, STORY_JSON_DIR
+    if args.out:
+        OUT_DIR = Path(args.out)
+        STORY_JSON_DIR = OUT_DIR / "story_json"
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     STORY_JSON_DIR.mkdir(parents=True, exist_ok=True)
 
-    ids = missing_ids()
-    if args.ids:
-        wanted = {int(x) for x in args.ids.split(",") if x.strip()}
-        ids = [sid for sid in ids if sid in wanted]
-    print(f"Missing storytimeline IDs: {len(ids)}")
-    resolved = resolve_meta(ids)
+    if args.map:
+        payload = json.loads(Path(args.map).read_text(encoding="utf-8"))
+        ids = list(payload)
+        resolved = {
+            asset: {"n": asset, "h": h, "e": e} for asset, (h, e) in payload.items()
+        }
+        print(f"Map entries: {len(ids)}")
+    else:
+        ids = missing_ids()
+        if args.ids:
+            wanted = {int(x) for x in args.ids.split(",") if x.strip()}
+            ids = [sid for sid in ids if sid in wanted]
+        print(f"Missing storytimeline IDs: {len(ids)}")
+        resolved = resolve_meta(ids)
     print(f"Resolved in meta: {len(resolved)} / {len(ids)}")
 
     file_map = {}
