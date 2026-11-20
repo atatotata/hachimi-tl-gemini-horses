@@ -45,9 +45,23 @@ PCTS = [100, 95, 90, 85, 80, 75, 70]
 JP_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 SCALE_RE = re.compile(r"^\$\(scale \d+\)\s*")
 TAG_RE = re.compile(r"<[^>]+>|\$\([^)]*\)")
+TRAINER_HONORIFIC_RE = re.compile(
+    r"\bTore-(?:san|sama|chan|chaaan|kun|kuun|dono|senpai|pi|pipi|piyo|poyo|poyo-cchi|piii|cchi|cchi-poo|chin|than|saa+n+)\b"
+)
+GLOBAL_RETIRED_TRAINER_RE = re.compile(r"\bT-Rain(?:ster|-pi|ppi|yo|poyo|ee|i)?\b")
 FIXUPS = {
     ("1099", "91010"): [("sp I'm", "so I'm")],
 }
+
+
+def pinned_trainer_honorific(old: str | None, new: str) -> bool:
+    if not old:
+        return False
+    if TRAINER_HONORIFIC_RE.search(old) and not TRAINER_HONORIFIC_RE.search(new or ""):
+        return True
+    if GLOBAL_RETIRED_TRAINER_RE.search(new or ""):
+        return True
+    return False
 
 
 def clean(text: str) -> str:
@@ -151,6 +165,8 @@ def main() -> int:
         new = clean(text)
         for src, dst in FIXUPS.get(key, []):
             new = new.replace(src, dst)
+        if pinned_trainer_honorific(old, new):
+            continue
         if norm(old) == norm(new):
             continue
 
