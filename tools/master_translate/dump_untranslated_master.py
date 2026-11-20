@@ -7,6 +7,7 @@ MASTER_DB_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\UmamusumeP
 TEXT_DATA_DICT_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\localized_data\text_data_dict.json"
 CST_DICT_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\localized_data\character_system_text_dict.json"
 OUTPUT_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\tools\master_translate\master_untranslated.json"
+VOICE_BIBLE_PATH = r"G:\Games\steamapps\common\UmamusumePrettyDerby_Jpn\gemini_horses\tools\voice_bible\uma_voice_bible.json"
 
 JP_REGEX = re.compile(r'[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]')
 
@@ -159,7 +160,7 @@ ARCHETYPES = {
     1149: "Phalaenopsis: elegant pure orchid beauty, graceful, refined pride and gentle warmth",
     2001: "Happy Meek: quiet mysterious rival, soft-spoken and earnest",
     9001: "Tazuna Hayakawa: polite Tracen Academy secretary, kind and informative",
-    9002: "Chairwoman Akikawa: bombastic passionate academy chairwoman, shouts with fervor",
+    9002: "Director Akikawa: bombastic passionate academy director, shouts with fervor",
     9004: "Trainer Kiryuin: eager earnest rookie trainer, dedicated and sincere",
     9006: "Riko Kashimoto: strict no-nonsense administrator, hidden warmth",
     9008: "Light Hello: bubbly bright event producer, enthusiastic planner"
@@ -222,6 +223,20 @@ def main():
         td_dict = json.load(f)
     with open(CST_DICT_PATH, "r", encoding="utf-8") as f:
         cst_dict = json.load(f)
+    voice_bible = {}
+    if os.path.exists(VOICE_BIBLE_PATH):
+        with open(VOICE_BIBLE_PATH, "r", encoding="utf-8") as f:
+            voice_bible = json.load(f)
+        for cid_str, b in voice_bible.items():
+            if cid_str.isdigit():
+                en = b.get("en", "")
+                arch = b.get("archetype", "")
+                tags = ", ".join(b.get("speech_tags") or [])
+                tterm = b.get("trainer_term", "")
+                notes = b.get("notes", "")
+                parts = [p for p in [arch, f"tags: {tags}" if tags else "", f"calls trainer: {tterm}" if tterm else "", notes] if p]
+                if en and parts:
+                    ARCHETYPES[int(cid_str)] = f"{en}: " + " | ".join(parts)
 
     # Build character names map from category 6
     cursor.execute("SELECT `index`, text FROM text_data WHERE category = 6")

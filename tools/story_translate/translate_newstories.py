@@ -154,21 +154,34 @@ def build_system_prompt(voice_bible):
         "9. Items with kind 'name' are character names or glossary terms. Return the official English name or term only.",
         "10. Items with kind 'title' are story titles. Keep them concise and consistent with the in-game UI.",
         "11. Speaker names (kind 'name' or bare names in block 'name' fields) must be plain English. Never return a Japanese name.",
-        "12. In-dialogue nicknames: drop Japanese honorifics (さん/ちゃん/先輩/君) and use the character's full official English name.",
+        "12. In-dialogue nicknames for OTHER characters: drop Japanese honorifics (さん/ちゃん/先輩/君) and use the character's full official English name.",
         "    e.g. ハートさん → Daring Heart, エピ先輩 → Epiphaneia, アイ先輩/アイちゃん → Almond Eye, タイちゃん/タイホさん → Titleholder,",
         "    マリリンさん → Win Marilyn, タクトちゃん/タクトさん → Daring Tact, ブーケさん → Curren Bouquetd'or, ラヴちゃん → Loves Only You.",
-        "13. Daring Tact speaks calm, polite desu/masu register; 私 = 'I'; she calls the trainer 'Trainer'; ふふ → 'Hehe.'",
+        "13. TRAINER ADDRESS (MANDATORY): Keep each character's unique Japanese trainer address on the literal romaji stem 'Tore-':",
+        "    トレーナーさん → Tore-san | トレーナーさま/様 → Tore-sama | トレーナーちゃん → Tore-chan",
+        "    トレーナーくん/君 → Tore-kun | トレーナー殿 → Tore-dono | トレーナー先輩 → Tore-senpai",
+        "    トレぴ → Tore-pi (Daitaku Helios; トレぴっぴ → Tore-pipi, トレぽよ → Tore-poyo)",
+        "    トレちゃん → Tore-chan (Transcend; トレちゃーん → Tore-chaaan)",
+        "    トレっち → Tore-cchi (Vivlos) | トレ公 → Teach (Hishi Amazon)",
+        "    お兄さま → Big Brother (Rice Shower) | お兄ちゃん → Big Bro (Curren Chan)",
+        "    モルモット → guinea pig (Agnes Tachyon) | カイチョー → Prez (Tokai Teio)",
+        "    我が君 → my liege, 我が王 → my King, 主/主君 → my lord (Durandal)",
+        "    Plain トレーナー (no honorific) and role-noun uses ('my trainer', 'her trainer', 'a trainer') stay 'Trainer'/'trainer'.",
+        "    NEVER output 'Trainer-san/-chan/-kun/-sama/-dono', 'T-Rain', 'Trai-pi', 'Trai-chan', 'Trainy', or 'Trainie'.",
+        "14. Daring Tact speaks calm, polite desu/masu register; 私 = 'I'; she calls the trainer 'Tore-san' (トレーナーさん); ふふ → 'Hehe.'",
     ]
     lines += ["", "SERIES GLOSSARY (use exactly):"]
     for jp, en in GLOSSARY:
         lines.append(f"- {jp} -> {en}")
     if voice_bible:
-        lines += ["", "CHARACTER VOICE BIBLE (Archetypes & Tone):"]
+        lines += ["", "CHARACTER VOICE BIBLE (Archetypes, Tone & Trainer Address):"]
         for cid, entry in sorted(voice_bible.items(),
                                  key=lambda x: int(x[0]) if x[0].isdigit() else 9999):
             en, arch, tags = entry.get('en', ''), entry.get('archetype', ''), entry.get('speech_tags', '')
+            tterm = entry.get('trainer_term', '')
             if en and arch:
-                lines.append(f"- {en}: {arch}. Tone: {tags}")
+                t_part = f" | Calls trainer: {tterm}" if tterm else ""
+                lines.append(f"- {en}: {arch}. Tone: {tags}{t_part}")
     return "\n".join(lines)
 
 

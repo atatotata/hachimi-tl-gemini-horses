@@ -74,14 +74,12 @@ TRAINER_TERMS = {
     "default": "Tore-san",
     # 1065 Daitaku Helios -- gyaru nicknames. トレぴ -> "Tore-pi",
     # トレぴっぴ -> "Tore-pipi", トレぽよ -> "Tore-poyo"; ちゃんヘリ -> "Heliboss"
-    # (her DJ persona). NB: her shipped cst rows still carry Global's "T-Rain"
-    # (Global text_data 232/347, 232/575, 185/1065); "T-Rain" is not a "Trainer"
-    # token, so the 2026-11 pass left it in place -- retranslate to use Tore-pi.
+    # (her DJ persona). All shipped cst, text_data, and story timelines use Tore-pi.
     "1065": {"term": "Tore-pi", "self": "Heliboss", "dim": "Tore-pipi"},
-    # 1080 Transcend -- トレちゃん (20 JP lines) -> "Tore-chan".
-    # (Old repo splits: Trai-chan 96, Trainy 89, Trainer-chan 53, Trainie 25,
-    # Trainer 12, Trainey 4, Trainy-poo 4, dropped 19 -- all now Tore-chan.)
+    # 1080 Transcend -- トレちゃん (20 JP lines) -> "Tore-chan" (elongated "Tore-chaaan").
     "1080": {"term": "Tore-chan"},
+    # 1091 Vivlos -- トレっち -> "Tore-cchi" ("Tore-cchi-poo").
+    "1091": {"term": "Tore-cchi"},
     # 1121 Durandal -- knight register carried by "my liege" / "my King".
     #   我が王   -> "my King"   (36 lines; chapter titles already say My King)
     #   我が君   -> "my liege"  (64 lines; dominant existing form)
@@ -142,21 +140,36 @@ HONORIFIC_FIXES = [
     ("Tore dono", "Tore-dono"),
 ]
 
-# Speaker-scoped nickname normalisation (only inside that character's own blocks,
-# so Vivlos' intentional "Trainy" and Loves Only You's lines are untouched).
+# Speaker-scoped nickname normalisation (only inside that character's own blocks).
 SPEAKER_VOICE = {
     "Daitaku Helios": [
+        ("T-Rainppi", "Tore-pipi"), ("T-Rain-pi", "Tore-pipi"),
+        ("T-Rainpoyo", "Tore-poyo-cchi"), ("T-Rainyo", "Tore-piyo"),
+        ("T-Rainee", "Tore-piii"), ("T-Raini", "Tore-piii"), ("T-Rain", "Tore-pi"),
         ("Trainy-Peeey", "Tore-pi"), ("Trainy-Pi", "Tore-pi"), ("Trainy-pi", "Tore-pi"),
         ("Trainy-P", "Tore-pi"), ("Trainy-poo", "Tore-poyo"), ("Trainy-poyo", "Tore-poyo"),
         ("Trainynotes", "Tore-pinotes"), ("Trainy", "Tore-pi"),
+        ("Trai-poyo-check", "Tore-poyo-check"), ("Trai-poyo", "Tore-poyo"),
+        ("Train-poyo", "Tore-poyo"), ("Trainer-poyo", "Tore-poyo"),
         ("Trai-pippi", "Tore-pipi"), ("Trai-piii", "Tore-pi"), ("Trai-pi", "Tore-pi"),
-        ("Trainer-pi", "Tore-pi"), ("Train-pi", "Tore-pi"),
+        ("Trainer-pi", "Tore-pi"), ("Trainer-P", "Tore-pi"),
+        ("Train-pi", "Tore-pi"), ("Train-P", "Tore-pi"), ("Trai-P", "Tore-pi"),
         ("Trainie", "Tore-pi"), ("Trainey", "Tore-pi"),
         ("Heli-chan", "Heliboss"), ("Chan-Heli", "Heliboss"),
     ],
     "Transcend": [
-        ("Trai-chan", "Tore-chan"), ("Trainy-poo", "Tore-chan"),
+        ("Trai-chan", "Tore-chan"), ("Train-chan", "Tore-chan"),
+        ("Tray-chan", "Tore-chan"), ("Tra-chan", "Tore-chan"),
+        ("Trai-nee", "Tore-chan"), ("Trainer-cha~n", "Tore-chaaan"),
+        ("Trainy-poo", "Tore-chan"),
         ("Trainie", "Tore-chan"), ("Trainey", "Tore-chan"), ("Trainy", "Tore-chan"),
+    ],
+    "Vivlos": [
+        ("Trainer-cchi", "Tore-cchi"), ("Trainer-chi", "Tore-cchi"),
+        ("Trai-cchi", "Tore-cchi"), ("Trai-chi", "Tore-cchi"),
+        ("Trai-ny", "Tore-cchi"), ("Train-y", "Tore-cchi"),
+        ("Tray-nay", "Tore-cchi"), ("Trainy-poo", "Tore-cchi-poo"),
+        ("Trainy", "Tore-cchi"), ("Trainie", "Tore-cchi"),
     ],
     # 我が君 -> my liege, 我が王 -> my King; bare "my lord" (主/主君) stays.
     "Durandal": [

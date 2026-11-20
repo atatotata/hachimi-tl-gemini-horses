@@ -68,7 +68,12 @@ def build_system_prompt(batch_items):
         "CRITICAL RULES:",
         "1. Output ONLY a valid JSON array of objects: [{\"id\": \"<id>\", \"en\": \"<english_text>\"}]. No markdown code fences, no extra text.",
         "2. Preserve all formatting tokens, tags, and placeholders EXACTLY: {0}, {1}, <color=#...>, </color>, <chrname>, <support>, <race_name>, <character_name>, <bashin>, \\n, \\t.",
-        "3. Do not omit any items. Return an entry for every input item in exact matching order."
+        "3. Do not omit any items. Return an entry for every input item in exact matching order.",
+        "4. TRAINER ADDRESS (MANDATORY): When a character addresses the player/trainer with a Japanese honorific or nickname, preserve the character-unique address on the literal romaji stem 'Tore-':",
+        "   - トレーナーさん -> Tore-san | トレーナーさま/様 -> Tore-sama | トレーナーちゃん -> Tore-chan | トレーナーくん/君 -> Tore-kun | トレーナー殿 -> Tore-dono | トレーナー先輩 -> Tore-senpai",
+        "   - トレぴ -> Tore-pi (トレぴっぴ -> Tore-pipi, トレぽよ -> Tore-poyo) | トレちゃん -> Tore-chan (トレちゃーん -> Tore-chaaan) | トレっち -> Tore-cchi | トレ公 -> Teach",
+        "   - お兄さま -> Big Brother (Rice Shower) | お兄ちゃん -> Big Bro (Curren Chan) | モルモット -> guinea pig (Agnes Tachyon) | 我が君 -> my liege / 我が王 -> my King (Durandal)",
+        "   - Plain トレーナー (no honorific) and role-noun phrases ('my trainer', 'her trainer') stay 'Trainer'/'trainer'. NEVER output 'Trainer-san/-chan/-kun/-sama/-dono', 'T-Rain', 'Trai-pi', 'Trai-chan', 'Trainy', or 'Trainie'."
     ]
 
     if has_ui:
