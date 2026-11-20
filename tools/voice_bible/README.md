@@ -29,21 +29,34 @@ intend to keep the current archetypes.
 
 ## Policy encoded here
 
-- **Global > UmaTL > house.** Names and renders come from the Global master DB and
-  the 9,230 harvested EN stories whenever a row exists.
+- **Global > UmaTL > house** (with the trainer-honorific exception below). Names
+  and renders come from the Global master DB and the 9,230 harvested EN stories
+  whenever a row exists.
 - **NPC names are given-name-first** (`Kiyoko Hoshina`, `Mei Satake`, `Ryoka Tsurugi`,
   `Tazuna Hayakawa`, `Riko Kashimoto`), matching every NPC Global ships.
 - **Akikawa is "Director Akikawa"**; Global has zero "Chairwoman" anywhere.
-- **No Japanese honorifics in EN.** Global uses `-chan/-kun/-dono/-sama/-senpai`
-  zero times in `text_data` and `character_system_text`, so `Trainer-chan`,
-  `Trainer-kun` and `Trainer-dono` are retired to `Trainer`. This is why
-  `トレちゃん` (Transcend) is `Trainer` and `トレーナーちゃん` (Maruzensky) is
-  `Trainer` — Global's own row for Maruzensky 20150 reads "Thank you, Trainer! ♪".
-- **Helios keeps the Global nickname**: `トレぴ` → `T-Rain` (Global text_data
-  232/347, 232/575, 185/1065), `ちゃんヘリ` → `Heliboss`, `DJトレーナー` →
-  `DJ T-Rainster`.
-- **Durandal** has no Global row: `我が王` → `my King`, `我が君` → `my liege`,
-  `主`/`主君` → `my lord`, `トレーナー殿` → `Trainer`.
+- **Character-unique trainer honorifics are preserved on the literal romaji `Tore-` stem**
+  (user policy 2026-11-16, superseding the 2026-10 flatten-to-`Trainer` / `T-Rain` pass,
+  enforced in CI by `tools/master_translate/guard_trainer_honorifics.py`):
+  - `トレーナーさん` → `Tore-san`, `トレーナーさま/様` → `Tore-sama`,
+    `トレーナーちゃん` → `Tore-chan`, `トレーナーくん/君` → `Tore-kun`,
+    `トレーナー殿` → `Tore-dono`, `トレーナー先輩` → `Tore-senpai`.
+  - **Daitaku Helios (`1065`)**: `トレぴ` → `Tore-pi`, `トレぴっぴ` → `Tore-pipi`,
+    `トレぽよ` → `Tore-poyo`, `トレぴよ` → `Tore-piyo`, `ちゃんヘリ` → `Heliboss`,
+    `DJトレーナー` → `DJ Trainer` (never Global's `T-Rain` or `DJ T-Rainster`, and
+    never UmaTL's `Trai-pi`).
+  - **Transcend (`1080`)**: `トレちゃん` → `Tore-chan` (elongated `トレちゃーん` → `Tore-chaaan`).
+  - **Vivlos (`1091`)**: `トレっち` → `Tore-cchi` (`Tore-cchi-poo`).
+  - **Durandal (`1121`)**: `我が王` → `my King`, `我が君` → `my liege`,
+    `主`/`主君` → `my lord`, `トレーナー殿` → `Tore-dono`.
+  - **Other established terms**: Rice Shower `お兄さま` → `Big Brother`,
+    Curren Chan `お兄ちゃん` → `Big Bro`, Agnes Tachyon `モルモット` → `guinea pig`,
+    Hishi Amazon `トレ公` → `Teach`, Tokai Teio `カイチョー` → `Prez`,
+    Azuma `貴方様` → `my lord`.
+  - **Plain `トレーナー`** (no honorific) and determiner/possessive role-noun uses
+    (`my trainer`, `her trainer`, `a trainer`, `the trainer`) stay `Trainer`/`trainer`.
+    Never use `Trainer-san/-sama/-chan/-kun/-dono/-senpai`, `T-Rain*`, `Trai-pi*`,
+    `Trai-chan`, `Trainy*`, `Trainie`, or `Trainey`.
 
 ## Known limits
 

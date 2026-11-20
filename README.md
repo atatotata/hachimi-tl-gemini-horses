@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.j
 - **Skill names** (`cat47`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL names.
 - **Trait names** (`cat147`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL names.
 - **Condition names and text** (`cat142` / `cat143`): Global > UmaTL > Gemini on Flagship; Community and Lore keep UmaTL.
+- **Trainer honorifics & nicknames**: Preserved across all branches on the literal romaji `Tore-` stem (`Tore-san`, `Tore-kun`, `Tore-chan`, `Tore-sama`, `Tore-dono`, `Tore-senpai`, Helios `Tore-pi`, Transcend `Tore-chan`, Vivlos `Tore-cchi`) plus character-specific terms (`Big Brother`, `Big Bro`, `guinea pig`, `Teach`, `my liege`, `my King`). Enforced in CI by `tools/master_translate/guard_trainer_honorifics.py`.
 - **Everything else**: Global > UmaTL > Gemini.
 
 ## Quick Tips

@@ -1,3 +1,8 @@
+## 2026-11-20 -- lock in character trainer nicknames
+- Added a CI guard and sync protection so future Global imports or UmaTL syncs never overwrite character-specific trainer nicknames (`Tore-san`, `Tore-pi`, `Tore-chan`, `Tore-cchi`, etc.) back to plain "Trainer" or "T-Rain".
+- Swept the last remaining "T-Rain" and hyphenated legacy nickname variants across 152 story files, 14 voice lines, and 10 text strings.
+- Updated our local docs and translation scripts so new content uses each horsegirl's trainer nickname from the start.
+
 ## 2026-11-16 -- trainer nicknames are back
 - Horsegirls call you what they call you in Japanese again: Tore-san, Tore-chan, Tore-kun, Tore-sama, Tore-dono, and the personal ones like Helios's Tore-pi and Vivlos's Tore-cchi.
 - Plain "Trainer" stays wherever the Japanese just says trainer, or talks about "my trainer" or "her trainer".

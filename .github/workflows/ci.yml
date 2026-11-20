@@ -25,6 +25,9 @@ jobs:
       - name: Guard Error 102 keys
         run: python tools/master_translate/guard_excluded_keys.py --ci
 
+      - name: Guard trainer honorifics (Tore-* nicknames)
+        run: python tools/master_translate/guard_trainer_honorifics.py --ci
+
       - name: Validate index.json
         run: |
           python -c "
