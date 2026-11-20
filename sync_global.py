@@ -39,8 +39,25 @@ PIN_KEYS = {(str(c), str(v)) for (c, v) in PINNED_CST}
 # frame (it was scaled precisely because the box is too narrow). Keep ours.
 SCALE_RE = re.compile(r"\$\(scale\s+\d+\)")
 
+# Character-specific trainer honorifics ("Tore-san", "Tore-pi", "Tore-chan",
+# "Tore-cchi", "Tore-kun", "Tore-sama", "Tore-dono", "Tore-senpai", etc.) must
+# never be overwritten by Global's flattened "Trainer" or "T-Rain".
+TRAINER_HONORIFIC_RE = re.compile(
+    r"\bTore-(?:san|sama|chan|chaaan|kun|kuun|dono|senpai|pi|pipi|piyo|poyo|poyo-cchi|piii|cchi|cchi-poo|chin|than|saa+n+)\b"
+)
+GLOBAL_RETIRED_TRAINER_RE = re.compile(r"\bT-Rain(?:ster|-pi|ppi|yo|poyo|ee|i)?\b")
+
 def pinned_scaled(old: str, new: str) -> bool:
     return bool(SCALE_RE.search(old or "")) and not SCALE_RE.search(new or "")
+
+def pinned_trainer_honorific(old: str, new: str) -> bool:
+    if not old:
+        return False
+    if TRAINER_HONORIFIC_RE.search(old) and not TRAINER_HONORIFIC_RE.search(new or ""):
+        return True
+    if GLOBAL_RETIRED_TRAINER_RE.search(new or ""):
+        return True
+    return False
 
 UMATL_NAME_BRANCHES = {"community", "lore"}
 
@@ -128,6 +145,9 @@ def main():
                         if pinned_scaled(d[ck][ik], en):
                             skipped_scaled += 1
                             continue
+                        if pinned_trainer_honorific(d[ck][ik], en):
+                            skipped_scaled += 1
+                            continue
                         if not args.dry_run:
                             d[ck][ik] = en
                         replaced += 1
@@ -159,6 +179,8 @@ def main():
                 if (ck, vk) in PIN_KEYS:
                     continue
                 if ck in d and vk in d[ck] and d[ck][vk] != en:
+                    if pinned_trainer_honorific(d[ck][vk], en):
+                        continue
                     if not args.dry_run:
                         d[ck][vk] = en
                     repl += 1

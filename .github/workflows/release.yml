@@ -27,6 +27,9 @@ jobs:
         run: |
           echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
           echo "ver=${GITHUB_REF#refs/tags/text-}" >> $GITHUB_OUTPUT
+
+      - name: Guard trainer honorifics (Tore-* nicknames)
+        run: python tools/master_translate/guard_trainer_honorifics.py --ci
       
       - name: Build release ZIPs
         run: |

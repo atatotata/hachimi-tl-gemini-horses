@@ -41,6 +41,12 @@ jobs:
           fi
           python sync_umatl.py $EXTRA_ARGS
 
+      - name: Guard trainer honorifics & excluded keys
+        run: |
+          python tools/master_translate/guard_literal_newlines.py
+          python tools/master_translate/guard_excluded_keys.py --ci
+          python tools/master_translate/guard_trainer_honorifics.py --ci
+
       - name: Check for changes
         id: git_status
         run: |
